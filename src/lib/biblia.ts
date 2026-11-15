@@ -39,8 +39,8 @@ export type Estado = { versao: string; livro: string; capitulo: number };
 export const PADRAO: Estado = { versao: "matos-soares-1956", livro: "genesis", capitulo: 1 };
 
 export const VERSOES = [
-  { id: "matos-soares-1956", nome: "Matos Soares (1956)" },
-  { id: "ave-maria", nome: "Ave Maria" },
+  { id: "matos-soares-1956", url: "biblia-matos", nome: "Matos Soares (1956)" },
+  { id: "ave-maria", url: "ave-maria", nome: "Ave Maria" },
 ] as const;
 
 const RAIZ = `${import.meta.env.BASE_URL}biblias`;
@@ -107,23 +107,42 @@ export function ajustar(estado: Estado, indice: Indice | null): Estado {
   return estado;
 }
 
-// A URL é a única fonte de verdade: ?v=versao&l=livro&c=capitulo
+// A URL é a única fonte de verdade: /{base}/{versao}/{livro}/{capitulo}
+// ex.: /biblia/biblia-matos/genesis/1
+
+function pedacosDoCaminho(): string[] {
+  const base = import.meta.env.BASE_URL; // "/" em dev, "/biblia/" no Pages
+  const caminho = window.location.pathname.startsWith(base)
+    ? window.location.pathname.slice(base.length)
+    : window.location.pathname;
+
+  return caminho.split("/").filter(Boolean);
+}
+
+function urlDe(estado: Estado): string {
+  const versao = VERSOES.find((v) => v.id === estado.versao) ?? VERSOES[0];
+  return `${import.meta.env.BASE_URL}${versao.url}/${estado.livro}/${estado.capitulo}`;
+}
+
 export function lerUrl(): Estado {
-  const params = new URLSearchParams(window.location.search);
-  const capitulo = Number(params.get("c"));
+  const [urlDaVersao, livro, capitulo] = pedacosDoCaminho();
+  const versao = VERSOES.find((v) => v.url === urlDaVersao) ?? VERSOES[0];
+  const numero = Number(capitulo);
 
   return {
-    versao: params.get("v") ?? PADRAO.versao,
-    livro: params.get("l") ?? PADRAO.livro,
-    capitulo: Number.isInteger(capitulo) && capitulo > 0 ? capitulo : PADRAO.capitulo,
+    versao: versao.id,
+    livro: livro ?? PADRAO.livro,
+    capitulo: Number.isInteger(numero) && numero > 0 ? numero : PADRAO.capitulo,
   };
 }
 
+// Navegação normal: cria entrada no histórico (botão "voltar" funciona).
 export function escreverUrl(estado: Estado) {
-  const params = new URLSearchParams({
-    v: estado.versao,
-    l: estado.livro,
-    c: String(estado.capitulo),
-  });
-  window.history.pushState(null, "", `${import.meta.env.BASE_URL}?${params}`);
+  window.history.pushState(null, "", urlDe(estado));
+}
+
+// Ao abrir a raiz do site, completa a URL com o capítulo padrão
+// sem criar uma entrada falsa no histórico.
+export function sincronizarUrl(estado: Estado) {
+  window.history.replaceState(null, "", urlDe(estado));
 }

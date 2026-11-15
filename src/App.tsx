@@ -6,6 +6,7 @@ import {
   carregarIndice,
   escreverUrl,
   lerUrl,
+  sincronizarUrl,
   vizinho,
   type Estado,
   type Indice,
@@ -31,6 +32,11 @@ export default function App() {
     document.documentElement.classList.toggle("dark", escuro);
     localStorage.setItem("tema", escuro ? "escuro" : "claro");
   }, [escuro]);
+
+  // mantém a barra de endereço igual ao que está na tela
+  useEffect(() => {
+    sincronizarUrl(atual);
+  }, [atual.versao, atual.livro, atual.capitulo]);
 
   // botão "voltar" do navegador
   useEffect(() => {
