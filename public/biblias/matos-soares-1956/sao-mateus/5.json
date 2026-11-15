@@ -1,0 +1,227 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "sao-mateus",
+  "nome": "São Mateus",
+  "testamento": "NT",
+  "capitulo": 5,
+  "totalVersiculos": 48,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/sao-mateus/5/",
+  "capturadoEm": "2026-11-15T10:02:56-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Vendo (Jesus) aquelas multidões, subiu a um monte, e, tendo-se sentado, aproximaram-se dele os discípulos."
+    },
+    {
+      "numero": 2,
+      "texto": "Abrindo então a sua boca, os ensinava, dizendo:"
+    },
+    {
+      "numero": 3,
+      "texto": "\"Bem-aventurados os pobres de espírito, porque deles é o reino dos céus."
+    },
+    {
+      "numero": 4,
+      "texto": "Bem-aventurados os mansos, porque possuirão a Terra."
+    },
+    {
+      "numero": 5,
+      "texto": "Bem-aventurados os que choram, porque serão consolados."
+    },
+    {
+      "numero": 6,
+      "texto": "Bem-aventurados os que têm fome e sede da justiça, porque serão saciados. (ver nota)"
+    },
+    {
+      "numero": 7,
+      "texto": "Bem-aventurados os misericordiosos, porque alcançarão misericórdia."
+    },
+    {
+      "numero": 8,
+      "texto": "Bem-aventurados os puros de coração, porque verão a Deus."
+    },
+    {
+      "numero": 9,
+      "texto": "Bem-aventurados os pacíficos, porque serão chamados filhos de Deus."
+    },
+    {
+      "numero": 10,
+      "texto": "Bem-aventurados os que sofrem perseguição por amor da justiça, porque deles é o reino dos céus."
+    },
+    {
+      "numero": 11,
+      "texto": "Bem-aventurados sereis, quando vos insultarem, vos perseguirem, e disserem falsamente toda a sorte de mal contra vós por causa de mim."
+    },
+    {
+      "numero": 12,
+      "texto": "Alegrai-vos e exultai, porque será grande a vossa recompensa nos céus, pois (também) assim perseguiram os profetas, que existiram antes de vós."
+    },
+    {
+      "numero": 13,
+      "texto": "Vós sois o sal da terra. Porém, se o sal perder a sua força, com que será ele salgado? Para nada mais serve senão para ser lançado fora e calcado pelos homens."
+    },
+    {
+      "numero": 14,
+      "texto": "Vós sois a luz do mundo. Não pode esconder-se uma cidade situada sobre um monte;"
+    },
+    {
+      "numero": 15,
+      "texto": "nem se acende uma lucerna, e se põe debaixo do alqueire, mas sobre o candeeiro, a fim de que dê luz a todos os que estão em casa."
+    },
+    {
+      "numero": 16,
+      "texto": "Assim brilhe a vossa luz diante dos homens, para que vejam as vossas boas obras, e glorifiquem o vosso Pai, que está nos céus."
+    },
+    {
+      "numero": 17,
+      "texto": "Não julgueis que vim abolir a lei ou os profetas; não vim (para os) abolir, mas sim (para os) cumprir."
+    },
+    {
+      "numero": 18,
+      "texto": "Porque em verdade vos digo: antes passarão o céu e a terra, que passe da lei um só jota ou um ápice, sem que tudo seja cumprido."
+    },
+    {
+      "numero": 19,
+      "texto": "Aquele, pois, que violar um destes mandamentos, mesmo dos mais pequenos, e ensinar assim aos homens, será considerado o mais pequeno no reino dos céus; mas o que os guardar e ensinar, esse será considerado grande no reino dos céus."
+    },
+    {
+      "numero": 20,
+      "texto": "Porque eu vos digo que, se a vossa justiça não exceder a dos escribas e a dos fariseus, não entrareis no reino dos céus."
+    },
+    {
+      "numero": 21,
+      "texto": "Ouvistes que foi dito aos antigos: Não matarás (Ex. 20, 13...), e quem matar será submetido ao juízo do tribunal."
+    },
+    {
+      "numero": 22,
+      "texto": "Pois eu digo-vos que todo aquele que se irar contra o seu irmão, será submetido ao juízo do tribunal. E o que chamar \"raca\" a seu irmão será condenado pelo Sinédrio. E o que lhe chamar louco, será condenado ao fogo da geena. (ver nota)"
+    },
+    {
+      "numero": 23,
+      "texto": "Portanto, se estás para fazer a tua oferta diante do altar, e te lembrares aí que teu irmão tem alguma coisa contra ti."
+    },
+    {
+      "numero": 24,
+      "texto": "deixa lá a tua oferta diante do altar, e vai reconciliar-te primeiro com teu irmão, e depois vem fazer a tua oferta."
+    },
+    {
+      "numero": 25,
+      "texto": "Acomoda-te sem demora com o teu adversário, enquanto estás em caminho com ele, para que não suceda que esse adversário te entregue ao juiz, e o juiz te entregue ao seu ministro, e sejas posto em prisão. (ver nota)"
+    },
+    {
+      "numero": 26,
+      "texto": "Em verdade te digo: Não sairás de lá antes de ter pago o último quadrante."
+    },
+    {
+      "numero": 27,
+      "texto": "Ouvistes que foi dito: Não cometerás adultério (Ex. 20, 14)."
+    },
+    {
+      "numero": 28,
+      "texto": "Eu, porém, digo-vos que todo o que olhar para uma mulher, cobiçando-a, já cometeu adultério com ela no seu coração."
+    },
+    {
+      "numero": 29,
+      "texto": "Por isso, o teu olho direito é para ti causa de queda, arranca-o e lança-o para longe de ti, porque é melhor para ti que se perca um dos teus membros, do que todo o teu corpo seja lançado na geena."
+    },
+    {
+      "numero": 30,
+      "texto": "E, se a tua mão direita é para ti causa de queda, corta-a e lança-a para longe de ti, porque é melhor para ti que se perca um dos teus membros, do que todo o teu corpo seja lançado na geena."
+    },
+    {
+      "numero": 31,
+      "texto": "Também foi dito: Aquele que repudiar sua mulher, dê-lhe libelo de repúdio (Dt. 24, 1)."
+    },
+    {
+      "numero": 32,
+      "texto": "Eu, porém, digo-vos: todo aquele que repudiar sua mulher, a não ser por causa de fornicação, expõe-na ao adultério; e o que desposar a (mulher) repudiada, comete adultério."
+    },
+    {
+      "numero": 33,
+      "texto": "Igualmente ouvistes que foi dito aos antigos: Não perjurarás, mas guardarás para com o Senhor os teus juramentos (Ex. 20, 7 ...) ."
+    },
+    {
+      "numero": 34,
+      "texto": "Eu, porém, digo-vos que não jureis de modo algum (sem motivo justo), nem pelo céu, porque é o trono de Deus;"
+    },
+    {
+      "numero": 35,
+      "texto": "nem pela terra, porque é o escabelo de seus pés; nem por Jerusalém, porque é a cidade do grande rei."
+    },
+    {
+      "numero": 36,
+      "texto": "Nem jurarás pela tua cabeça, pois não podes fazer branco ou negro um só dos teus cabelos."
+    },
+    {
+      "numero": 37,
+      "texto": "Seja o vosso falar: Sim. sim; não não. Tudo o que disto passa, procede do Maligno."
+    },
+    {
+      "numero": 38,
+      "texto": "Ouvistes que foi dito: Olho por olho, e dente por dente (Lv. 24, 19-20)."
+    },
+    {
+      "numero": 39,
+      "texto": "Eu, porém, digo-vos que não resistais ao (que é) mau; mas, se alguém te ferir na tua face direita, apresenta-lhe também a outra;"
+    },
+    {
+      "numero": 40,
+      "texto": "e ao que quer chamar-te a juízo para te tirar a túnica, cede-Ihe também a capa. (ver nota)"
+    },
+    {
+      "numero": 41,
+      "texto": "Se alguém te forçar a dar mil passos, vai com ele mais dois mil. (ver nota)"
+    },
+    {
+      "numero": 42,
+      "texto": "Dá a quem te pede, e não voltes as costas ao que deseja que lhe emprestes."
+    },
+    {
+      "numero": 43,
+      "texto": "Ouvistes que foi dito: Amarás o teu próximo (Lv. 19, 18) e aborrecerás o teu inimigo."
+    },
+    {
+      "numero": 44,
+      "texto": "Eu, porém, digo-vos: Amai os vossos inimigos, fazei bem aos que vos odeiam, e orai pelos que vos maltratam e vos perseguem."
+    },
+    {
+      "numero": 45,
+      "texto": "Deste modo sereis filhos do vosso Pai que está nos céus, o qual faz nascer o sol sobre maus e bons, e manda a chuva sobre os justos e injustos."
+    },
+    {
+      "numero": 46,
+      "texto": "Porque, se amais (sòmente) os que vos amara, que recompensa haveis de ter? Não fazem os publicanos também o mesmo?"
+    },
+    {
+      "numero": 47,
+      "texto": "E se saudardes sòmente os vossos irmãos, que fazeis (nisso) de especial? Não fazem também assim os próprios gentios?"
+    },
+    {
+      "numero": 48,
+      "texto": "Sede pois perfeitos, como vosso Pai celestial é perfeito."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "5:1-2",
+      "texto": "A introdução ao Sermão da Montanha começa com Jesus subindo ao monte e ensinando as multidões. A posição de Jesus, no monte, simboliza a autoridade divina e a revelação de Deus para o Seu povo (veja também Lucas 6:17-19 e Deuteronômio 33:2)."
+    },
+    {
+      "ref": "5:3-12",
+      "texto": "As Bem-Aventuranças revelam os valores do Reino de Deus, invertendo as expectativas humanas. A humildade, a misericórdia e a pureza são exaltadas, indicando que a verdadeira felicidade está em viver conforme a vontade de Deus (veja também Lucas 6:20-23 e Tiago 2:5)."
+    },
+    {
+      "ref": "5:13-16",
+      "texto": "Jesus ensina sobre o papel dos discípulos como sal e luz no mundo. Os cristãos devem ser agentes de transformação e reflexão da luz divina, impactando positivamente a sociedade ao viver de acordo com a verdade de Deus (veja também Filipenses 2:15 e Efésios 5:8)."
+    },
+    {
+      "ref": "5:17-20",
+      "texto": "Jesus afirma que veio para cumprir a Lei e os Profetas, não para abolir. A justiça que Ele exige dos discípulos vai além da letra da Lei, sendo uma justiça que transforma o coração e se reflete nas atitudes (veja também Romanos 3:31 e Mateus 23:23)."
+    },
+    {
+      "ref": "5:43-48",
+      "texto": "Jesus ensina sobre o amor aos inimigos, um princípio radical que desafia a mentalidade comum. Esse amor reflete a natureza do próprio Deus, que ama indiscriminadamente e deseja que Seus filhos o imitem (veja também Lucas 6:27-36 e 1 João 4:7-8)."
+    }
+  ]
+}

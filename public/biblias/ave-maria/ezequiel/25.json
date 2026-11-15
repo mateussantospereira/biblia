@@ -1,0 +1,99 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ezequiel",
+  "nome": "Ezequiel",
+  "testamento": "AT",
+  "capitulo": 25,
+  "totalVersiculos": 16,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ezequiel/25/",
+  "capturadoEm": "2026-11-15T09:23:50-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "A palavra do Senhor foi-me dirigida nestes termos:"
+    },
+    {
+      "numero": 2,
+      "texto": "“Filho do homem, volta a tua face para os amonitas e profetiza contra eles.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Dize-lhes: escutai a palavra do Senhor Javé: eis o que diz o Senhor Javé: porque disseste: que bom! Quando da profanação do meu santuário, quando da devastação da terra de Israel, e da deportação da casa de Judá,"
+    },
+    {
+      "numero": 4,
+      "texto": "por isso, vou entregar-te aos filhos do Oriente, que estabelecerão em tua morada os seus acampamentos e plantarão aí as suas tendas. Eles comerão teus frutos, beberão teu leite.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Farei de Rabá um parque de camelos, e da terra dos amonitas, um aprisco de ovelhas; assim sabereis que sou eu o Senhor."
+    },
+    {
+      "numero": 6,
+      "texto": "Eis o que diz o Senhor Javé: porque bateste palmas e bateste com o pé, e porque manifestaste riso e desdém pela terra de Israel,"
+    },
+    {
+      "numero": 7,
+      "texto": "por isso, vou estender minha mão contra ti, entregar-te à pilhagem das nações, suprimir-te dentre os povos, expulsar-te de tua casa e aniquilar-te. Assim saberás que eu sou o Senhor”."
+    },
+    {
+      "numero": 8,
+      "texto": "Eis o que diz o Senhor Javé: visto que Moab e Seir dizem: ‘A casa de Judá é igual a todas as demais nações’,",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "eu vou, eu mesmo, abrir o flanco de Moab, arrebatando suas cidades, todas as cidades do seu território, o ornamento da terra: Bet-Jesimot, Baal-Meon e Cariatarim."
+    },
+    {
+      "numero": 10,
+      "texto": "Eu o dou, assim como a terra dos amonitas, em possessão aos filhos do Oriente, a fim de que Amon não mais seja mencionado entre as nações."
+    },
+    {
+      "numero": 11,
+      "texto": "Assim exercerei meu juízo sobre Moab, e ficarão sabendo que eu sou o Senhor."
+    },
+    {
+      "numero": 12,
+      "texto": "Eis o que diz o Senhor Javé: Já que Edom exerceu sua vingança contra a casa de Judá, e se tornou culpado, tomando vingança,"
+    },
+    {
+      "numero": 13,
+      "texto": "por isso – oráculo do Senhor Javé – vou estender a mão contra Edom, exterminar dele animais e homens, e transformá-lo em um deserto; em seguida, desde Temã até Dadã, tombarão sob o gládio."
+    },
+    {
+      "numero": 14,
+      "texto": "Exercerei minha vingança contra Edom pela mão de Israel, meu povo, que os tratará segundo o meu furor, e eles saberão o que vale minha vingança – oráculo do Senhor Javé."
+    },
+    {
+      "numero": 15,
+      "texto": "Eis o que diz o Senhor Javé: já que os filisteus exerceram vingança, usaram de cruéis represálias, com o coração cheio de desprezo, e em seu ódio inveterado procuraram destruir tudo,"
+    },
+    {
+      "numero": 16,
+      "texto": "por isso – oráculo do Senhor Javé – estenderei a mão sobre eles, exterminarei os cretenses, e farei perecer o que resta do litoral; exercerei sobre eles uma vingança terrível, furiosos castigos; e, quando eu executar sobre eles a minha vingança, saberão que eu sou o Senhor”.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "25:1-7",
+      "texto": "O profeta Ezequiel pronuncia julgamento contra Amom, destacando o juízo de Deus sobre as nações inimigas de Israel. A soberania de Deus é evidente ao tomar como alvo as nações que se regozijaram com a queda de Jerusalém (veja também Jeremias 49:1-6 e Salmo 137:7-9)."
+    },
+    {
+      "ref": "25:8-11",
+      "texto": "O julgamento contra Moabe revela a ira de Deus contra aqueles que zombam do povo de Deus. O pecado de Moabe é demonstrado em seu orgulho e arrogância ao desprezar os judeus. O castigo é uma resposta à presunção e falta de respeito (veja também Isaías 16:6-14 e Amós 2:1-3)."
+    },
+    {
+      "ref": "25:12-14",
+      "texto": "O juízo de Deus contra Edom é proclamado devido à sua violência e animosidade contra Israel. Deus promete castigo por sua atitude hostil e pela vingança injusta que infligiram ao povo de Deus (veja também Obadias 1:10-14 e Jeremias 49:7-22)."
+    },
+    {
+      "ref": "25:15-17",
+      "texto": "A profecia contra os filisteus revela o castigo de Deus por sua hostilidade contínua contra Israel. A destruição de Filisteia é uma advertência para aqueles que buscam a destruição do povo escolhido de Deus (veja também Jeremias 47:1-7 e Amós 1:6-8)."
+    }
+  ]
+}

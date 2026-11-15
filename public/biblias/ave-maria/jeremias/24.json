@@ -1,0 +1,68 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "jeremias",
+  "nome": "Jeremias",
+  "testamento": "AT",
+  "capitulo": 24,
+  "totalVersiculos": 10,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/jeremias/24/",
+  "capturadoEm": "2026-11-15T09:22:44-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Fez-me o Senhor contemplar esta visão: colocadas diante do Templo do Senhor estavam duas cestas de figos. Isso foi depois que Nabucodonosor, rei da Babilônia, havia deportado de Jerusalém Jeconias, filho de Joaquin, rei de Judá, juntamente com os chefes de Judá, e seus carpinteiros e serralheiros.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Uma das cestas continha ótimos figos, como o são os prematuros; a outra, porém, tão maus que nem mesmo se podiam comer."
+    },
+    {
+      "numero": 3,
+      "texto": "Disse-me o Senhor: “Que vês, Jeremias?”. “Figos” – respondi; “excelentes uns, péssimos outros, que nem mesmo servem para comer”."
+    },
+    {
+      "numero": 4,
+      "texto": "Foi-me então dirigida pelo Senhor a palavra, nestes termos:"
+    },
+    {
+      "numero": 5,
+      "texto": "“Eis o que disse o Senhor, Deus de Israel. Assim como contemplas com prazer os figos bons, assim também olharei favoravelmente os desterrados de Judá que destes lugares exilei para a terra dos caldeus."
+    },
+    {
+      "numero": 6,
+      "texto": "A eles lançarei olhar benévolo e os reconduzirei a esta terra, onde os restabelecerei para não mais arruiná-los, e de novo os plantarei sem que os torne a arrancar."
+    },
+    {
+      "numero": 7,
+      "texto": "Eu lhes darei um coração capaz de conhecer-me e de saber que sou eu o Senhor. Eles serão o meu povo, e eu serei o seu Deus porque de todo o coração se voltarão a mim."
+    },
+    {
+      "numero": 8,
+      "texto": "E, à semelhança do que acontece aos maus figos, que por demais estragados já não são comíveis, assim também farei, diz o Senhor, de Sedecias, rei de Judá, dos seus chefes e do resto da população de Jerusalém que permanece nesta terra ou que no Egito se haja refugiado."
+    },
+    {
+      "numero": 9,
+      "texto": "Farei deles objeto de pavor, de desgraça para todos os reinos da terra, de vergonha e zombaria, escárnio e maldição em toda parte por onde os dispersar."
+    },
+    {
+      "numero": 10,
+      "texto": "Contra eles enviarei a espada, a fome e a peste até que sejam exterminados do solo que a eles e a seus pais havia concedido”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "24:1-2",
+      "texto": "Jeremias vê uma visão de dois cestos de figos diante do templo. Os cestos simbolizam o destino do povo de Judá: um para o exílio e o outro para a restauração. A escolha entre bem e mal é uma questão de obediência a Deus (veja também Deuteronômio 30:19-20 e Mateus 25:31-46)."
+    },
+    {
+      "ref": "24:3-7",
+      "texto": "Os figos bons representam os exilados que serão restaurados, enquanto os figos podres representam os que permanecerão em Jerusalém e sofrerão destruição. A promessa de restauração dos justos, mesmo em exílio, é um sinal da misericórdia de Deus (veja também Isaías 40:1-2 e Romanos 8:28)."
+    },
+    {
+      "ref": "24:8-10",
+      "texto": "Os figos podres representam o povo que permanecerá em Judá e será destruído pela espada, fome e peste. A escolha de seguir o mal leva à condenação, enquanto a obediência a Deus traz a restauração e a paz (veja também Ezequiel 5:12-13 e Mateus 7:13-14)."
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sao-lucas",
+  "nome": "São Lucas",
+  "testamento": "NT",
+  "capitulo": 6,
+  "totalVersiculos": 49,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sao-lucas/6/",
+  "capturadoEm": "2026-11-15T09:26:28-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Em dia de sábado, Jesus atravessava umas plantações; seus discípulos iam colhendo espigas (de trigo), debulhavam-nas na mão e comiam."
+    },
+    {
+      "numero": 2,
+      "texto": "Alguns dos fariseus lhes diziam: “Por que fazeis o que não é permitido no sábado?”."
+    },
+    {
+      "numero": 3,
+      "texto": "Jesus respondeu: “Acaso não tendes lido o que fez Davi, quando teve fome, ele e os seus companheiros;"
+    },
+    {
+      "numero": 4,
+      "texto": "como entrou na casa de Deus e tomou os pães da proposição e deles comeu e deu de comer aos seus companheiros, se bem que só aos sacerdotes era permitido comê-los?”",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "E ajuntou: “O Filho do Homem é senhor também do sábado”. (= Mt 12,9-14 = Mc 3,1-6)"
+    },
+    {
+      "numero": 6,
+      "texto": "Em outro dia de sábado, Jesus entrou na sinagoga e ensinava. Achava-se ali um homem que tinha a mão direita seca."
+    },
+    {
+      "numero": 7,
+      "texto": "Ora, os escribas e os fariseus observavam Jesus para ver se ele curaria no dia de sábado. Eles teriam então pretexto para acusá-lo."
+    },
+    {
+      "numero": 8,
+      "texto": "Mas Jesus conhecia os pensamentos deles e disse ao homem que tinha a mão seca: “Levanta-te e põe-te em pé, aqui no meio”. Ele se levantou e ficou em pé."
+    },
+    {
+      "numero": 9,
+      "texto": "Disse-lhes Jesus: “Pergunto-vos se no sábado é permitido fazer o bem ou o mal; salvar a vida, ou deixá-la perecer”."
+    },
+    {
+      "numero": 10,
+      "texto": "E, relanceando os olhos sobre todos, disse ao homem: “Estende tua mão”. Ele a estendeu, e foi-lhe restabelecida a mão."
+    },
+    {
+      "numero": 11,
+      "texto": "Mas eles encheram-se de furor e indagavam uns aos outros o que fariam a Jesus. (= Mt 10,1-4; 12,15-21 = Mc 3,13-19)"
+    },
+    {
+      "numero": 12,
+      "texto": "Naqueles dias, Jesus retirou-se a uma montanha para rezar, e passou aí toda a noite orando a Deus."
+    },
+    {
+      "numero": 13,
+      "texto": "Ao amanhecer, chamou os seus discípulos e escolheu doze dentre eles que chamou de apóstolos:"
+    },
+    {
+      "numero": 14,
+      "texto": "Simão, a quem deu o sobrenome de Pedro; André, seu irmão; Tiago, João, Filipe, Bartolomeu,"
+    },
+    {
+      "numero": 15,
+      "texto": "Mateus, Tomé, Tiago, filho de Alfeu; Simão, chamado Zelador;"
+    },
+    {
+      "numero": 16,
+      "texto": "Judas, irmão de Tiago; e Judas Iscariotes, aquele que foi o traidor. Multidão de discípulos"
+    },
+    {
+      "numero": 17,
+      "texto": "Descendo com eles, parou numa planície. Aí se achava um grande número de seus discípulos e uma grande multidão de pessoas vindas da Judeia, de Jerusalém, da região marítima, de Tiro e Sidônia, que tinham vindo para ouvi-lo e serem curadas de suas enfermidades."
+    },
+    {
+      "numero": 18,
+      "texto": "E os que eram atormentados dos espíritos imundos ficavam livres."
+    },
+    {
+      "numero": 19,
+      "texto": "Todo o povo procurava tocá-lo, pois saía dele uma força que os curava a todos. (= Mt 5ss)"
+    },
+    {
+      "numero": 20,
+      "texto": "Então, ele ergueu os olhos para os seus discípulos e disse: “Bem-aventurados vós que sois pobres, porque vosso é o Reino de Deus!",
+      "nota": true
+    },
+    {
+      "numero": 21,
+      "texto": "Bem-aventurados vós que agora tendes fome, porque sereis fartos! Bem-aventurados vós que agora chorais, porque vos alegrareis!"
+    },
+    {
+      "numero": 22,
+      "texto": "Bem-aventurados sereis quando os homens vos odiarem, vos expulsarem, vos ultrajarem, e quando repelirem o vosso nome como infame por causa do Filho do Homem!"
+    },
+    {
+      "numero": 23,
+      "texto": "Alegrai-vos naquele dia e exultai, porque grande é o vosso galardão no céu. Era assim que os pais deles tratavam os profetas."
+    },
+    {
+      "numero": 24,
+      "texto": "Mas ai de vós, ricos, porque tendes a vossa consolação!"
+    },
+    {
+      "numero": 25,
+      "texto": "Ai de vós, que estais fartos, porque vireis a ter fome! Ai de vós, que agora rides, porque gemereis e chorareis!"
+    },
+    {
+      "numero": 26,
+      "texto": "Ai de vós, quando vos louvarem os homens, porque assim faziam os pais deles aos falsos profetas!"
+    },
+    {
+      "numero": 27,
+      "texto": "Digo-vos a vós que me ouvis: amai os vossos inimigos, fazei bem aos que vos odeiam,"
+    },
+    {
+      "numero": 28,
+      "texto": "abençoai os que vos maldizem e orai pelos que vos injuriam."
+    },
+    {
+      "numero": 29,
+      "texto": "Ao que te ferir numa face, oferece-lhe também a outra. E ao que te tirar a capa, não impeças de levar também a túnica."
+    },
+    {
+      "numero": 30,
+      "texto": "Dá a todo o que te pedir; e ao que tomar o que é teu, não lho reclames."
+    },
+    {
+      "numero": 31,
+      "texto": "O que quereis que os homens vos façam, fazei-o também a eles.",
+      "nota": true
+    },
+    {
+      "numero": 32,
+      "texto": "Se amais os que vos amam, que recompensa mereceis? Também os pecadores amam aqueles que os amam."
+    },
+    {
+      "numero": 33,
+      "texto": "E se fazeis bem aos que vos fazem bem, que recompensa mereceis? Pois o mesmo fazem também os pecadores."
+    },
+    {
+      "numero": 34,
+      "texto": "Se emprestais àqueles de quem esperais receber, que recompensa mereceis? Também os pecadores emprestam aos pecadores, para receberem outro tanto."
+    },
+    {
+      "numero": 35,
+      "texto": "Pelo contrário, amai os vossos inimigos, fazei bem e emprestai, sem daí esperar nada. E grande será a vossa recompensa e sereis filhos do Altíssimo, porque ele é bom para com os ingratos e maus."
+    },
+    {
+      "numero": 36,
+      "texto": "Sede misericordiosos, como também vosso Pai é misericordioso."
+    },
+    {
+      "numero": 37,
+      "texto": "Não julgueis, e não sereis julgados; não condeneis, e não sereis condenados; perdoai, e sereis perdoados;"
+    },
+    {
+      "numero": 38,
+      "texto": "dai, e vos será dado. Será colocada em vosso regaço medida boa, cheia, recalcada e transbordante, porque, com a mesma medida com que medirdes, sereis medidos vós também”."
+    },
+    {
+      "numero": 39,
+      "texto": "Propôs-lhes também esta comparação: Pode acaso um cego guiar outro cego? Não cairão ambos na cova?"
+    },
+    {
+      "numero": 40,
+      "texto": "O discípulo não é superior ao mestre; mas todo discípulo perfeito será como o seu mestre."
+    },
+    {
+      "numero": 41,
+      "texto": "Por que vês tu o argueiro no olho de teu irmão e não reparas na trave que está no teu olho?"
+    },
+    {
+      "numero": 42,
+      "texto": "Ou como podes dizer a teu irmão: Deixa-me, irmão, tirar de teu olho o argueiro, quando tu não vês a trave no teu olho? Hipócrita, tira primeiro a trave do teu olho e depois enxergarás para tirar o argueiro do olho de teu irmão."
+    },
+    {
+      "numero": 43,
+      "texto": "“Uma árvore boa não dá frutos maus, uma árvore má não dá bom fruto."
+    },
+    {
+      "numero": 44,
+      "texto": "Porquanto cada árvore se conhece pelo seu fruto. Não se colhem figos dos espinheiros, nem se apanham uvas dos abrolhos."
+    },
+    {
+      "numero": 45,
+      "texto": "O homem bom tira coisas boas do bom tesouro do seu coração, e o homem mau tira coisas más do seu mau tesouro, porque a boca fala daquilo de que o coração está cheio."
+    },
+    {
+      "numero": 46,
+      "texto": "Por que me chamais: Senhor, Senhor... e não fazeis o que digo?"
+    },
+    {
+      "numero": 47,
+      "texto": "Todo aquele que vem a mim ouve as minhas palavras e as pratica, eu vos mostrarei a quem é semelhante."
+    },
+    {
+      "numero": 48,
+      "texto": "É semelhante ao homem que, edificando uma casa, cavou bem fundo e pôs os alicerces sobre a rocha. As águas transbordaram, precipitaram-se as torrentes contra aquela casa e não a puderam abalar, porque ela estava bem construída."
+    },
+    {
+      "numero": 49,
+      "texto": "Mas aquele que as ouve e não as observa é semelhante ao homem que construiu a sua casa sobre a terra movediça, sem alicerces. A torrente investiu contra ela, e ela logo ruiu; e grande foi a ruína daquela casa.” (= Mt 8,5-13)"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "6:1-5",
+      "texto": "A acusação contra Jesus por Seus discípulos colherem espigas no sábado ilustra o confronto entre a verdadeira lei de Deus e as interpretações humanas. Jesus ensina que a misericórdia e a necessidade humana devem prevalecer sobre as regras rígidas (veja também Mateus 12:1-8 e Marcos 2:23-28)."
+    },
+    {
+      "ref": "6:6-11",
+      "texto": "A cura do homem com a mão ressequida desafia as normas religiosas sobre o sábado. Jesus ensina que fazer o bem não deve ser restringido por tradições e destaca o valor de curar e restaurar vidas (veja também Mateus 12:9-14 e Marcos 3:1-6)."
+    },
+    {
+      "ref": "6:17-19",
+      "texto": "A multidão que segue Jesus busca cura e libertação, demonstrando o poder de Deus para restaurar as pessoas. As curas realizadas por Jesus não são apenas físicas, mas também espirituais, refletindo Sua missão de restaurar integralmente o ser humano (veja também Mateus 4:24-25 e Marcos 3:7-10)."
+    },
+    {
+      "ref": "6:20-23",
+      "texto": "As Bem-aventuranças, proferidas por Jesus, subvertem os valores do mundo. Ele exalta os pobres, famintos e perseguidos, mostrando que o Reino de Deus é para os humildes e marginalizados (veja também Mateus 5:3-12 e Tiago 2:5)."
+    },
+    {
+      "ref": "6:27-38",
+      "texto": "O ensinamento sobre amar os inimigos e praticar o perdão é um desafio radical para os seguidores de Cristo. Jesus ensina uma ética de amor incondicional, refletindo o caráter de Deus em relação à humanidade (veja também Mateus 5:44-48 e Romanos 12:17-21)."
+    }
+  ]
+}

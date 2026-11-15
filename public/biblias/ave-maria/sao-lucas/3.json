@@ -1,0 +1,188 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sao-lucas",
+  "nome": "São Lucas",
+  "testamento": "NT",
+  "capitulo": 3,
+  "totalVersiculos": 38,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sao-lucas/3/",
+  "capturadoEm": "2026-11-15T09:26:25-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "No ano décimo quinto do reinado do imperador Tibério, sendo Pôncio Pilatos governador da Judeia, Herodes, tetrarca da Galileia, seu irmão Filipe, tetrarca da Itureia e da província de Traconites, e Lisânias, tetrarca da Abilina,"
+    },
+    {
+      "numero": 2,
+      "texto": "sendo sumos sacerdotes Anás e Caifás, veio a palavra do Senhor no deserto a João, filho de Zacarias."
+    },
+    {
+      "numero": 3,
+      "texto": "Ele percorria toda a região do Jordão, pregando o batismo de arrependimento para a remissão dos pecados,"
+    },
+    {
+      "numero": 4,
+      "texto": "como está escrito no livro das palavras do profeta Isaías (40,3ss): Uma voz clama no deserto: Preparai o caminho do Senhor, endireitai as suas veredas."
+    },
+    {
+      "numero": 5,
+      "texto": "Todo vale será aterrado, e todo monte e outeiro serão arrasados; se tornará direito o que estiver torto, e os caminhos escabrosos serão aplainados."
+    },
+    {
+      "numero": 6,
+      "texto": "Todo homem verá a salvação de Deus."
+    },
+    {
+      "numero": 7,
+      "texto": "Dizia, pois, ao povo que vinha para ser batizado por ele: “Raça de víboras! Quem vos ensinou a fugir da ira iminente?"
+    },
+    {
+      "numero": 8,
+      "texto": "Fazei, pois, uma conversão realmente frutuosa e não comeceis a dizer: Temos Abraão por pai. Pois vos digo: Deus tem poder para destas pedras suscitar filhos a Abraão."
+    },
+    {
+      "numero": 9,
+      "texto": "O machado já está posto à raiz das árvores. E toda árvore que não der fruto bom será cortada e lançada ao fogo”."
+    },
+    {
+      "numero": 10,
+      "texto": "Perguntava-lhe a multidão: “Que devemos fazer?”."
+    },
+    {
+      "numero": 11,
+      "texto": "Ele respondia: “Quem tem duas túnicas dê uma ao que não tem; e quem tem o que comer, faça o mesmo”."
+    },
+    {
+      "numero": 12,
+      "texto": "Também publicanos vieram para ser batizados, e perguntaram-lhe: “Mestre, que devemos fazer?”.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Ele lhes respondeu: “Não exijais mais do que vos foi ordenado”."
+    },
+    {
+      "numero": 14,
+      "texto": "Do mesmo modo, os soldados lhe perguntavam: “E nós, que devemos fazer?”.Respondeu-lhes: “Não pratiqueis violência nem defraudeis a ninguém, e contentai-vos com o vosso soldo”."
+    },
+    {
+      "numero": 15,
+      "texto": "Ora, como o povo estivesse na expectativa, e como todos perguntassem em seus corações se talvez João fosse o Cristo,"
+    },
+    {
+      "numero": 16,
+      "texto": "ele tomou a palavra, dizendo a todos: “Eu vos batizo na água, mas eis que vem outro mais poderoso do que eu, a quem não sou digno de lhe desatar a correia das sandálias; ele vos batizará no Espírito Santo e no fogo."
+    },
+    {
+      "numero": 17,
+      "texto": "Ele tem a pá na mão e limpará a sua eira, e recolherá o trigo ao seu celeiro, mas queimará as palhas num fogo inextinguível”."
+    },
+    {
+      "numero": 18,
+      "texto": "É assim que ele anunciava ao povo a Boa-Nova, e dirigia-lhe ainda muitas outras exortações."
+    },
+    {
+      "numero": 19,
+      "texto": "Mas Herodes, o tetrarca, repreendido por ele por causa de Herodíades, mulher de seu irmão, e por causa de todos os crimes que praticara,"
+    },
+    {
+      "numero": 20,
+      "texto": "acrescentou a todos eles também este: encerrou João no cárcere. (= Mt 3,13-17 = Mc 1,9ss = Jo 1,31-34)"
+    },
+    {
+      "numero": 21,
+      "texto": "Quando todo o povo ia sendo batizado, também Jesus o foi. E estando ele a orar, o céu se abriu"
+    },
+    {
+      "numero": 22,
+      "texto": "e o Espírito Santo desceu sobre ele em forma corpórea, como uma pomba; e veio do céu uma voz: “Tu és o meu Filho bem-amado; em ti ponho minha afeição”. (= Mt 1,1-17)"
+    },
+    {
+      "numero": 23,
+      "texto": "Quando Jesus começou o seu ministério, tinha cerca de trinta anos, e era tido por filho de José, filho de Heli, filho de Matat,"
+    },
+    {
+      "numero": 24,
+      "texto": "filho de Levi, filho de Melqui, filho de Jané, filho de José,"
+    },
+    {
+      "numero": 25,
+      "texto": "filho de Matatias, filho de Amós, filho de Naum, filho de Hesli, filho de Nagé,"
+    },
+    {
+      "numero": 26,
+      "texto": "filho de Maat, filho de Matatias, filho de Semei, filho de José, filho de Judá,"
+    },
+    {
+      "numero": 27,
+      "texto": "filho de Joanã, filho de Resa, filho de Zorobabel, filho de Salatiel, filho de Neri,"
+    },
+    {
+      "numero": 28,
+      "texto": "filho de Melqui, filho de Adi, filho de Cosã, filho de Elmadão, filho de Her,"
+    },
+    {
+      "numero": 29,
+      "texto": "filho de Jesus, filho de Eliezer, filho de Jorim, filho de Matat, filho de Levi,"
+    },
+    {
+      "numero": 30,
+      "texto": "filho de Simeão, filho de Judá, filho de José, filho de Jonão, filho de Eliacim,"
+    },
+    {
+      "numero": 31,
+      "texto": "filho de Meleia, filho de Mena, filho de Matata, filho de Natã, filho de Davi,"
+    },
+    {
+      "numero": 32,
+      "texto": "filho de Jessé, filho de Obed, filho de Booz, filho de Salmon, filho de Naason,"
+    },
+    {
+      "numero": 33,
+      "texto": "filho de Aminadab, filho de Arão, filho de Esron, filho de Farés, filho de Judá,"
+    },
+    {
+      "numero": 34,
+      "texto": "filho de Jacó, filho de Isaac, filho de Abraão, filho de Taré, filho de Nacor,"
+    },
+    {
+      "numero": 35,
+      "texto": "filho de Sarug, filho de Ragau, filho de Faleg, filho de Eber, filho de Salé,"
+    },
+    {
+      "numero": 36,
+      "texto": "filho de Cainã, filho de Arfaxad, filho de Sem, filho de Noé, filho de Lamec,"
+    },
+    {
+      "numero": 37,
+      "texto": "filho de Matusalém, filho de Henoc, filho de Jared, filho de Malaleel, filho de Cainã,"
+    },
+    {
+      "numero": 38,
+      "texto": "filho de Henós, filho de Set, filho de Adão, filho de Deus.* (= Mt 4,1-11 = Mc 1,12s)"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-6",
+      "texto": "O ministério de João Batista começa com uma proclamação do arrependimento e do batismo, preparando o caminho para a chegada do Messias. Ele é o cumprimento da profecia de Isaías sobre o precursor que prepararia o povo para a salvação (veja também Mateus 3:1-12 e Isaías 40:3-5)."
+    },
+    {
+      "ref": "3:7-14",
+      "texto": "João exorta a multidão ao arrependimento genuíno, não apenas por palavras, mas por ações concretas de justiça e compaixão. Ele ensina que o verdadeiro arrependimento se reflete no comportamento ético e nas atitudes em relação ao próximo (veja também Mateus 3:7-12 e Tiago 2:14-17)."
+    },
+    {
+      "ref": "3:15-17",
+      "texto": "João fala sobre a vinda do Messias, que batizará com o Espírito Santo e com fogo, e julgará o mundo com justiça. Ele destaca a diferença entre seu ministério de arrependimento e o ministério de Jesus, que trará transformação interna e salvação eterna (veja também Mateus 3:11-12 e João 1:33-34)."
+    },
+    {
+      "ref": "3:18-20",
+      "texto": "João Batista denuncia a corrupção e os pecados dos governantes, preparando o terreno para o juízo de Deus. Sua ousadia ao falar a verdade mostra a coragem necessária para enfrentar as injustiças do mundo, mesmo a um alto custo (veja também Mateus 14:1-12 e Marcos 6:17-29)."
+    },
+    {
+      "ref": "3:21-22",
+      "texto": "O batismo de Jesus no rio Jordão é um momento de revelação da Trindade. O Espírito Santo desce sobre Jesus e a voz do Pai é ouvida, afirmando Jesus como Seu Filho amado. Este evento marca o início público do ministério de Jesus (veja também Mateus 3:13-17 e João 1:32-34)."
+    }
+  ]
+}

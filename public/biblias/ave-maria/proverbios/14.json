@@ -1,0 +1,183 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "proverbios",
+  "nome": "Provérbios",
+  "testamento": "AT",
+  "capitulo": 14,
+  "totalVersiculos": 35,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/proverbios/14/",
+  "capturadoEm": "2026-11-15T09:19:23-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "A senhora Sabedoria edifica sua casa; a senhora Loucura destrói a sua com as próprias mãos."
+    },
+    {
+      "numero": 2,
+      "texto": "Quem caminha direito teme o Senhor; o que anda desviado o despreza."
+    },
+    {
+      "numero": 3,
+      "texto": "A boca do néscio encerra a vara para seu orgulho, mas os lábios do sábio são uma proteção para si mesmo.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Onde não há bois, a manjedoura está vazia; a abundância da colheita provém da força do gado."
+    },
+    {
+      "numero": 5,
+      "texto": "A testemunha fiel não mente; a testemunha falsa profere falsidades."
+    },
+    {
+      "numero": 6,
+      "texto": "O mofador busca a sabedoria, mas em vão; ao homem entendido a ciência é fácil."
+    },
+    {
+      "numero": 7,
+      "texto": "Afasta-te da presença do tolo: em seus lábios não encontrarás palavras sábias."
+    },
+    {
+      "numero": 8,
+      "texto": "A sabedoria do prudente está no cuidar do seu procedimento; a loucura dos insensatos consiste na fraude."
+    },
+    {
+      "numero": 9,
+      "texto": "O insensato zomba do pecado; a benevolência de Deus é para os homens retos.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "O coração conhece suas próprias amarguras; o estranho não pode partilhar de sua alegria.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "A habitação dos pérfidos será destruída, mas a tenda dos justos florescerá."
+    },
+    {
+      "numero": 12,
+      "texto": "Há caminho que parece reto ao homem; seu fim, porém, é o caminho da morte."
+    },
+    {
+      "numero": 13,
+      "texto": "Mesmo no sorrir, o coração pode estar triste; a alegria pode findar na aflição."
+    },
+    {
+      "numero": 14,
+      "texto": "O extraviado será saciado com seus próprios erros; o homem de bem, com seus atos.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "O ingênuo acredita em tudo o que se diz; o prudente vigia seus passos."
+    },
+    {
+      "numero": 16,
+      "texto": "O sábio teme o mal e dele se aparta, mas o insensato que se eleva dá-se por seguro."
+    },
+    {
+      "numero": 17,
+      "texto": "O homem violento comete loucura; o dissimulado atrai a si o ódio.",
+      "nota": true
+    },
+    {
+      "numero": 18,
+      "texto": "Os ingênuos têm por herança a loucura; os prudentes, a ciência como coroa."
+    },
+    {
+      "numero": 19,
+      "texto": "Diante dos bons humilham-se os maus e os ímpios ante as portas do justo."
+    },
+    {
+      "numero": 20,
+      "texto": "Até mesmo ao seu companheiro o pobre é odioso; numerosos são os amigos do rico."
+    },
+    {
+      "numero": 21,
+      "texto": "Quem despreza seu próximo comete um pecado; feliz aquele que tem compaixão dos desgraçados."
+    },
+    {
+      "numero": 22,
+      "texto": "Porventura não erram os que maquinam o mal? Os que planejam o bem adquirem favor e verdade."
+    },
+    {
+      "numero": 23,
+      "texto": "Para todo esforço há fruto, muito palavrório só produz penúria."
+    },
+    {
+      "numero": 24,
+      "texto": "Para o sábio a riqueza é uma coroa. A loucura dos insensatos permanece loucura.",
+      "nota": true
+    },
+    {
+      "numero": 25,
+      "texto": "A testemunha fiel salva vidas; o que profere mentiras é falso."
+    },
+    {
+      "numero": 26,
+      "texto": "No temor do Senhor o justo encontra apoio sólido; seus filhos nele encontrarão abrigo.",
+      "nota": true
+    },
+    {
+      "numero": 27,
+      "texto": "O temor do Senhor é uma fonte de vida para escapar aos laços da morte."
+    },
+    {
+      "numero": 28,
+      "texto": "A multidão do povo é a glória de um rei; a falta de população é a ruína de um príncipe."
+    },
+    {
+      "numero": 29,
+      "texto": "O paciente dá prova de bom senso; quem se arrebata rapidamente manifesta sua loucura."
+    },
+    {
+      "numero": 30,
+      "texto": "Um coração tranquilo é a vida do corpo, enquanto a inveja é a cárie dos ossos."
+    },
+    {
+      "numero": 31,
+      "texto": "O opressor do pobre ultraja seu criador, mas honra-o o que se compadece do indigente."
+    },
+    {
+      "numero": 32,
+      "texto": "É por causa de sua própria malícia que cai o ímpio; o justo, porém, até na morte conserva a confiança."
+    },
+    {
+      "numero": 33,
+      "texto": "No coração do prudente repousa a sabedoria. Entre os tolos ela se fará conhecer?",
+      "nota": true
+    },
+    {
+      "numero": 34,
+      "texto": "A justiça enaltece uma nação; o pecado é a vergonha dos povos."
+    },
+    {
+      "numero": 35,
+      "texto": "O servidor inteligente goza do favor do rei, mas a sua ira fere o desonrado."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "14:1",
+      "texto": "A mulher sábia edifica sua casa, mas a insensata, com as próprias mãos, a destrói. A sabedoria na administração do lar é crucial para a estabilidade familiar (veja também Provérbios 31:10-12 e Tito 2:5)."
+    },
+    {
+      "ref": "14:12",
+      "texto": "Há caminho que parece certo ao homem, mas no final conduz à morte. A sabedoria de Deus muitas vezes contrasta com a lógica humana, mostrando a necessidade de confiar em Sua direção (veja também Jeremias 17:9 e Isaías 55:8-9)."
+    },
+    {
+      "ref": "14:23",
+      "texto": "Todo trabalho árduo traz proveito, mas o excesso de palavras leva à pobreza. Este versículo destaca o valor do esforço em contraste com a inatividade e o excesso de conversas inúteis (veja também Eclesiastes 10:14 e Tiago 2:26)."
+    },
+    {
+      "ref": "14:26",
+      "texto": "No temor do Senhor há forte confiança, e os filhos terão um refúgio. O temor a Deus é uma fonte de segurança, não só para o indivíduo, mas para toda a sua família (veja também Salmo 34:9 e Provérbios 3:7-8)."
+    },
+    {
+      "ref": "14:29",
+      "texto": "O paciente tem grande entendimento, mas o que se apressa em irar-se exalta a tolice. A paciência é um sinal de sabedoria, enquanto a ira precipitada leva a ações tolas (veja também Tiago 1:19-20 e Eclesiastes 7:9)."
+    }
+  ]
+}

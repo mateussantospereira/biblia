@@ -1,0 +1,56 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 125,
+  "totalVersiculos": 6,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/125/",
+  "capturadoEm": "2026-11-15T09:18:11-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cântico das peregrinações. Quando o Senhor reconduzia os cativos de Sião, estávamos como sonhando.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Em nossa boca só havia expressões de alegria, e em nossos lábios canto de triunfo. Entre os pagãos se dizia: “O Senhor fez por eles grandes coisas”."
+    },
+    {
+      "numero": 3,
+      "texto": "Sim, o Senhor fez por nós grandes coisas; ficamos exultantes de alegria!"
+    },
+    {
+      "numero": 4,
+      "texto": "Mudai, Senhor, a nossa sorte, como as torrentes nos desertos do sul."
+    },
+    {
+      "numero": 5,
+      "texto": "Os que semeiam entre lágrimas, recolherão com alegria."
+    },
+    {
+      "numero": 6,
+      "texto": "Na ida, caminham chorando os que levam a semente a aspergir. Na volta, virão com alegria, quando trouxerem os seus feixes."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "125:1-2",
+      "texto": "Aqueles que confiam no Senhor são comparados ao Monte Sião, que não pode ser abalado. A imagem de estabilidade e proteção reflete a segurança que Deus oferece ao Seu povo, uma promessa de fidelidade eterna (veja também Isaías 26:3 e Hebreus 12:28)."
+    },
+    {
+      "ref": "125:3",
+      "texto": "O cetro da maldade não prevalecerá sobre os justos, indicando que Deus não permitirá que a injustiça governe para sempre. Essa passagem fala da justiça divina e da esperança de que o bem prevalecerá (veja também Salmo 37:9 e 2 Tessalonicenses 3:3)."
+    },
+    {
+      "ref": "125:4-5",
+      "texto": "O salmista pede que Deus faça o bem aos justos e que os que se desviam sejam punidos. Isso destaca a justiça de Deus e a separação entre os retos e os perversos (veja também Salmo 1:6 e Provérbios 3:33)."
+    },
+    {
+      "ref": "125:5",
+      "texto": "Os que se desviam para caminhos tortuosos serão conduzidos à destruição, enquanto a paz será sobre Israel. Essa promessa finaliza o salmo com uma bênção de paz para os fiéis e um aviso aos ímpios (veja também Isaías 57:20-21 e Romanos 2:8-9)."
+    }
+  ]
+}

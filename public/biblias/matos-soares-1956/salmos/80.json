@@ -1,0 +1,103 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 80,
+  "totalVersiculos": 17,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/80/",
+  "capturadoEm": "2026-11-15T09:53:37-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre do coro. Segundo a melodia de \"Os lagares...\" De Asaf."
+    },
+    {
+      "numero": 2,
+      "texto": "Regozijai-vos em Deus, nosso protector, aclamai o Deus de Jacob."
+    },
+    {
+      "numero": 3,
+      "texto": "Tocai o saltério e pulsai o tímpano, a citara melodiosa e a lira."
+    },
+    {
+      "numero": 4,
+      "texto": "Tocai a trombeta na neoménia, no plenilúnio, nosso dia solene, (ver nota)"
+    },
+    {
+      "numero": 5,
+      "texto": "porque é um preceito para Israel, e uma ordem do Deus de Jacob."
+    },
+    {
+      "numero": 6,
+      "texto": "Prescreveu esta lei a José, quando saiu da terra do Egipto. Ouvi uma língua que não entendia"
+    },
+    {
+      "numero": 7,
+      "texto": "\"Libertei os seus ombros do fardo: as suas mãos deixaram o cesto (com que serviam nas obras)."
+    },
+    {
+      "numero": 8,
+      "texto": "Na tribulação clamaste, e eu te livrei; do interior duma nuvem trovejante te respondi, provei-te junto das águas de Meriba."
+    },
+    {
+      "numero": 9,
+      "texto": "Ouve, povo meu, e eu te advertirei: Oxalá que me ouças, ó Israel!"
+    },
+    {
+      "numero": 10,
+      "texto": "Não haverá em ti deus alheio, nem adorarás deus peregrino:"
+    },
+    {
+      "numero": 11,
+      "texto": "Eu sou o Senhor teu Deus, que te tirei da terra do Egipto; abre a tua boca, e eu a encherei."
+    },
+    {
+      "numero": 12,
+      "texto": "Mas o meu povo não ouviu a minha voz, e Israel não me obedeceu."
+    },
+    {
+      "numero": 13,
+      "texto": "Por isso abandonei-os à dureza do seu coração, andem segundo o seu parecer."
+    },
+    {
+      "numero": 14,
+      "texto": "Se o meu povo me tivesse ouvido, se Israel tivesse andado nos meus caminhos"
+    },
+    {
+      "numero": 15,
+      "texto": "eu depressa humilharia os seus inimigos, voltaria a minha mão contra os seus adversários:"
+    },
+    {
+      "numero": 16,
+      "texto": "os que odeiam o Senhor, o adulariam, e a sua sorte duraria para sempre,"
+    },
+    {
+      "numero": 17,
+      "texto": "Por outro lado, a ele \"(ao meu povo)\" alimentá-lo-ia com a flor do trigo, e saciá-lo-ia de mel saído da rocha.\" (ver nota)"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "80:1-3",
+      "texto": "O salmista clama ao “Pastor de Israel” para restaurar Seu povo e fazer resplandecer Sua face sobre eles, trazendo salvação. Essa imagem de Deus como pastor é central na Bíblia, representando Seu cuidado e proteção (veja também Salmo 23:1 e João 10:11)."
+    },
+    {
+      "ref": "80:4-7",
+      "texto": "O salmista lamenta a severidade do julgamento divino, com o povo sendo alimentado com lágrimas e ridicularizado pelos inimigos. A dor e o sofrimento são reconhecidos como consequências da ira divina (veja também Isaías 63:17 e Lamentações 3:42-45)."
+    },
+    {
+      "ref": "80:8-11",
+      "texto": "O salmista relembra o plantio da videira de Israel, que Deus tirou do Egito e estabeleceu em uma terra fértil. Isso simboliza o cuidado de Deus em guiar e proteger Seu povo, fazendo-o prosperar (veja também Isaías 5:1-7 e João 15:1-2)."
+    },
+    {
+      "ref": "80:12-13",
+      "texto": "A quebra das cercas da videira, permitindo que ela seja devastada pelos inimigos, simboliza o abandono temporário de Deus devido aos pecados de Israel. O salmista clama por restauração (veja também Jeremias 12:10-11 e Oséias 10:1-2)."
+    },
+    {
+      "ref": "80:14-19",
+      "texto": "O salmista pede que Deus volte Seu olhar misericordioso para Israel, restaurando o povo para que possam invocar Seu nome novamente. Há uma confiança de que a restauração trará louvor contínuo a Deus (veja também Salmo 85:4-7 e Zacarias 10:6)."
+    }
+  ]
+}

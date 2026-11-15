@@ -1,0 +1,117 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "jo",
+  "nome": "Jó",
+  "testamento": "AT",
+  "capitulo": 11,
+  "totalVersiculos": 20,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/jo/11/",
+  "capturadoEm": "2026-11-15T09:15:29-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Então, Sofar de Naamat tomou a palavra nestes termos:"
+    },
+    {
+      "numero": 2,
+      "texto": "“Ficará sem resposta o que fala muito? Terá razão o grande falador?"
+    },
+    {
+      "numero": 3,
+      "texto": "Tua loquacidade fará calar os demais? Zombarás sem que ninguém te repreenda?"
+    },
+    {
+      "numero": 4,
+      "texto": "Dizes: ‘Minha opinião é a verdadeira, sou puro aos teus olhos’."
+    },
+    {
+      "numero": 5,
+      "texto": "Oxalá Deus pudesse falar e abrir seus lábios para te responder."
+    },
+    {
+      "numero": 6,
+      "texto": "Se te revelasse os mistérios da sabedoria, que são ambíguos para o espírito, saberias então que Deus esquece uma parte de tua iniquidade.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "Pretendes sondar as profundezas divinas, atingir a perfeição do Todo-poderoso?"
+    },
+    {
+      "numero": 8,
+      "texto": "Ela é mais alta do que o céu! Que podes tu fazer? É mais profunda que os infernos! Que podes tu saber?"
+    },
+    {
+      "numero": 9,
+      "texto": "É mais longa que a terra, mais larga que o mar."
+    },
+    {
+      "numero": 10,
+      "texto": "Se ele surge para aprisionar, se apela à justiça, quem o impedirá?"
+    },
+    {
+      "numero": 11,
+      "texto": "Pois ele conhece os malfeitores, descobre a iniquidade, presta atenção."
+    },
+    {
+      "numero": 12,
+      "texto": "Diante disso, uma pessoa insensata pode criar juízo, e um asno tornar-se criatura humana.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Se voltares teu coração para Deus, e para ele estenderes os braços;"
+    },
+    {
+      "numero": 14,
+      "texto": "se afastares de tuas mãos o mal e não abrigares a iniquidade debaixo de tua tenda,"
+    },
+    {
+      "numero": 15,
+      "texto": "então poderás erguer a fronte sem mancha; serás estável, sem mais nenhum temor."
+    },
+    {
+      "numero": 16,
+      "texto": "Esquecerás daí por diante as tuas penas, como águas que passaram, serão apenas uma lembrança."
+    },
+    {
+      "numero": 17,
+      "texto": "O futuro te será mais brilhante do que o meio-dia, as trevas se transformarão em aurora."
+    },
+    {
+      "numero": 18,
+      "texto": "Terás confiança e ficarás cheio de esperança. Olhando em volta de ti, dormirás tranquilo."
+    },
+    {
+      "numero": 19,
+      "texto": "Repousarás sem que ninguém te inquiete e muitos acariciarão o teu rosto."
+    },
+    {
+      "numero": 20,
+      "texto": "Porém, os olhos dos maus serão consumidos, para eles, nenhum refúgio, e não terão outra esperança senão em seu último suspiro”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "11:1-3",
+      "texto": "Sofar, um dos amigos de Jó, repreende Jó por sua falta de entendimento e por questionar a justiça de Deus. Esta abordagem revela a tendência humana de buscar respostas simplistas em situações complexas (veja também Provérbios 18:2 e Tiago 1:19-20)."
+    },
+    {
+      "ref": "11:4-6",
+      "texto": "Sofar afirma que Deus não poderia errar e que os caminhos de Jó devem ser examinados. Essa insistência na justiça divina destaca a visão de que o sofrimento é frequentemente o resultado do pecado (veja também Salmo 34:19 e Gálatas 6:7)."
+    },
+    {
+      "ref": "11:7-9",
+      "texto": "A busca de Sofar pela sabedoria de Deus enfatiza que a compreensão humana é limitada. Ele incentiva Jó a buscar a Deus com sinceridade, refletindo a ideia de que a busca de Deus é fundamental para a verdadeira compreensão (veja também Isaías 55:6-7 e Salmo 119:105)."
+    },
+    {
+      "ref": "11:10-12",
+      "texto": "Sofar sugere que, se Deus decidir, ninguém pode impedir Sua ação. Essa declaração ressalta a soberania de Deus e a vulnerabilidade humana diante de Seus decretos (veja também Salmo 135:6 e Provérbios 21:1)."
+    },
+    {
+      "ref": "11:13-20",
+      "texto": "Sofar conclui que a entrega a Deus e a sinceridade são necessárias para restaurar a situação de Jó. A promessa de que Jó será recompensado se se voltar para Deus ressalta a importância da fé e da esperança mesmo em meio à dor (veja também Salmo 37:4 e Hebreus 11:6)."
+    }
+  ]
+}

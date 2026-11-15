@@ -1,0 +1,167 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "levitico",
+  "nome": "Levítico",
+  "testamento": "AT",
+  "capitulo": 15,
+  "totalVersiculos": 33,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/levitico/15/",
+  "capturadoEm": "2026-11-15T09:44:13-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Senhor falou a Moisés e a Aarão, dizendo;"
+    },
+    {
+      "numero": 2,
+      "texto": "Falai aos filhos de Israel, e dizei-lhes: O homem que padece de gomorreia, será impuro."
+    },
+    {
+      "numero": 3,
+      "texto": "Será julgado sujeito a esta enfermidade, quando a cada momento se pegar à sua carne e se juntar aquele humor impuro."
+    },
+    {
+      "numero": 4,
+      "texto": "Todo o leito em que dormir, e todo o objecto sobre o qual se sentar, será impuro."
+    },
+    {
+      "numero": 5,
+      "texto": "Se alguém tocar o seu leito, lavará as suas vestes, e esse mesmo, depois de lavado em água, será impuro até à tarde."
+    },
+    {
+      "numero": 6,
+      "texto": "Se se sentar onde ele estava sentado, lavará também as suas vestes, e, lavando-se em água, será impuro até à tarde."
+    },
+    {
+      "numero": 7,
+      "texto": "O que tocar a sua carne, lavará as suas vestes, e, lavado ele mesmo em água, será impuro ate à tarde."
+    },
+    {
+      "numero": 8,
+      "texto": "Se a saliva deste homem cair sobre um que está limpo, esse lavará as suas vestes, e, lavado ele mesmo em água, será impuro até à tarde."
+    },
+    {
+      "numero": 9,
+      "texto": "A sela, sobre que tiver cavalgado, ficará impura;"
+    },
+    {
+      "numero": 10,
+      "texto": "tudo o que tiver estado debaixo daquele que padece este mal, ficará impuro até à tarde. O que levar alguma destas coisas, lavará as suas vestes, e, lavando-se ele mesmo em água, será impuro até à tarde."
+    },
+    {
+      "numero": 11,
+      "texto": "Todo aquele que for tocado por um homem em tal estado, sem este ter antes lavado as mãos, lavará as suas vestes, e, lavando-se ele mesmo em água, será impuro até à tarde."
+    },
+    {
+      "numero": 12,
+      "texto": "O vaso de barro que tocar, será quebrado, e o vaso de pau será lavado em água."
+    },
+    {
+      "numero": 13,
+      "texto": "Se o que padece esta moléstia sarou dela, contará sete dias depois da cura, e, lavadas as suas vestes e todo o corpo na água viva, ficará puro."
+    },
+    {
+      "numero": 14,
+      "texto": "Ao oitavo dia, tomará duas rolas ou dois pombinhos e apresentar-se-á diante do Senhor, à porta do tabernáculo da reunião e dá-los-á ao sacerdote,"
+    },
+    {
+      "numero": 15,
+      "texto": "o qual oferecerá um pelo pecado, e outro em holocausto, e orará por ele diante do Senhor, para que fique limpo do seu fluxo."
+    },
+    {
+      "numero": 16,
+      "texto": "O homem que tiver um derramamento seminal, lavará em água todo o seu corpo, e será impuro até à tarde."
+    },
+    {
+      "numero": 17,
+      "texto": "Serão lavadas em água toda a roupa e toda a pele atingidas pelo derramamento, e ficarão impuras até à tarde."
+    },
+    {
+      "numero": 18,
+      "texto": "A mulher com quem se juntou, lavar-se-á em água, e será impura até à tarde"
+    },
+    {
+      "numero": 19,
+      "texto": "A mulher que no tempo ordinário sofre incômodo, será separada durante sete dias."
+    },
+    {
+      "numero": 20,
+      "texto": "Todo o que a tocar, será impuro até à tarde."
+    },
+    {
+      "numero": 21,
+      "texto": "As coisas, sobre que dormir ou se sentar, ficarão impuras."
+    },
+    {
+      "numero": 22,
+      "texto": "Aquele que tocar o seu leito, lavará as suas vestes, e, lavando-se ele mesmo em água, será impuro até à tarde."
+    },
+    {
+      "numero": 23,
+      "texto": "Todo-o que tocar qualquer coisa sobre que ela se tenha sentado, lavará as suas vestes, e, lavando-se ele mesmo em água, ficará impuro até à tarde."
+    },
+    {
+      "numero": 24,
+      "texto": "Se um homem se junta com ela no tempo que ela tem o incómodo, será impuro durante sete dias; todo o leito sobre que dormir, ficará impuro."
+    },
+    {
+      "numero": 25,
+      "texto": "A mulher, que padece por muitas dias fluxo de sangue fora do tempo costumado, ou que, passado o período regular, não lhe cessa o fluxo, será impura enquanto estiver sujeita a esse acidente, como se estivesse no tempo da sua impureza mensal."
+    },
+    {
+      "numero": 26,
+      "texto": "Todo o leito em que dormir e tudo aquilo em que se sentar, ficará impuro."
+    },
+    {
+      "numero": 27,
+      "texto": "Todo o que tocar estas coisas, lavará as suas vestes, e, lavando-se ele mesmo em água, será impuro até à tarde."
+    },
+    {
+      "numero": 28,
+      "texto": "Se o sangue parar e deixar de correr, contará sete dias e depois ficará pura;"
+    },
+    {
+      "numero": 29,
+      "texto": "ao dia oitavo, oferecerá por si ao sacerdote, à porta do tabernáculo da reunião, duas roles ou dois pombinhos;"
+    },
+    {
+      "numero": 30,
+      "texto": "o sacerdote sacrificará um pelo pecado e outro em holocausto, e orará por ela diante do Senhor, por causa do fluxo que a tornava impura."
+    },
+    {
+      "numero": 31,
+      "texto": "Ensinareis, pois, aos filhos de Israel que se guardem da impureza, para não morrerem nas suas imundices, quando profanarem o meu tabernáculo que está no meio deles."
+    },
+    {
+      "numero": 32,
+      "texto": "Esta é a lei acerca do que padece gonorreia, e que contrai impureza tendo cópula,"
+    },
+    {
+      "numero": 33,
+      "texto": "acerca da mulher que está separada no tempo do seu mênstruo, ou padece fluxo contínuo de sangue, e acerca do homem que dormir com ela."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "15:1-7",
+      "texto": "As leis sobre fluxos corporais refletem a importância da pureza cerimonial e da separação de impurezas físicas, destacando o cuidado com a santidade no culto a Deus (veja também Números 5:2 e Mateus 15:11)."
+    },
+    {
+      "ref": "15:8-12",
+      "texto": "Qualquer pessoa ou objeto que entrasse em contato com alguém impuro também se tornava impuro, demonstrando como o pecado pode corromper e contaminar o que está ao redor (veja também Ageu 2:13-14 e 1 Coríntios 15:33)."
+    },
+    {
+      "ref": "15:13-15",
+      "texto": "A purificação após a cura de um fluxo exigia sacrifícios e lavagem, simbolizando a restauração espiritual e a necessidade de expiação pelo pecado (veja também Salmo 51:2 e 1 João 1:9)."
+    },
+    {
+      "ref": "15:16-18",
+      "texto": "As leis sobre emissões seminais refletem a santidade exigida em todas as áreas da vida, inclusive na sexualidade. O autocontrole e a pureza são princípios fundamentais da vida piedosa (veja também 1 Coríntios 6:18-20 e Hebreus 13:4)."
+    },
+    {
+      "ref": "15:19-30",
+      "texto": "As leis sobre o ciclo menstrual enfatizam a separação temporária por motivos de impureza cerimonial, ressaltando a santidade de Deus e a pureza exigida para o culto (veja também Ezequiel 36:25-27 e Isaías 64:6)."
+    }
+  ]
+}

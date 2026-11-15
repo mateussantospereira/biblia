@@ -1,0 +1,112 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ii-cronicas",
+  "nome": "II Crônicas",
+  "testamento": "AT",
+  "capitulo": 17,
+  "totalVersiculos": 19,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ii-cronicas/17/",
+  "capturadoEm": "2026-11-15T09:13:46-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Seu filho Josafá sucedeu-lhe no trono. Ele se fortificou contra Israel."
+    },
+    {
+      "numero": 2,
+      "texto": "Colocou tropas em todas as cidades fortes de Judá, guarnições em toda a terra e nas cidades de Efraim das quais se tinha apoderado seu pai Asa."
+    },
+    {
+      "numero": 3,
+      "texto": "O Senhor estava com Josafá, porque este seguia os exemplos que, a princípio, dera seu pai e não corria atrás de Baal,",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "mas só procurava o Deus de seus pais, observando seus mandamentos, sem fazer nada de semelhante ao que fazia Israel."
+    },
+    {
+      "numero": 5,
+      "texto": "Por isso, o Senhor confirmou o poder em suas mãos. Todo o Judá lhe trazia presentes, e assim Josafá teve riqueza em abundância e glória."
+    },
+    {
+      "numero": 6,
+      "texto": "Cheio de confiança na obra do Senhor, fez desaparecer de Judá os lugares altos e os ídolos asserás."
+    },
+    {
+      "numero": 7,
+      "texto": "No terceiro ano de seu reinado, enviou seus chefes, Ben-Hail, Abdias, Zacarias, Natanael e Miqueias, para que ensinassem nas cidades de Judá."
+    },
+    {
+      "numero": 8,
+      "texto": "Ele os fez acompanhar pelos levitas Semeías, Natanias, Zabadias, Asael, Semiramot, Jônatas, Adonias, Tobias, Tobadonias e pelos sacerdotes Elisama e Jorão."
+    },
+    {
+      "numero": 9,
+      "texto": "Ensinaram em Judá, levando consigo o livro da Lei do Senhor e percorreram todas as cidades de Judá, instruindo o povo."
+    },
+    {
+      "numero": 10,
+      "texto": "O terror do Senhor difundiu-se em todos os reinos que cercavam Judá, os quais se abstiveram de fazer guerra a Josafá."
+    },
+    {
+      "numero": 11,
+      "texto": "Mesmo os filisteus vieram trazer a Josafá presentes e um tributo em prata. Os árabes também lhe trouxeram gado miúdo: sete mil e setecentos carneiros e sete mil e setecentos bodes."
+    },
+    {
+      "numero": 12,
+      "texto": "Josafá aumentava seu poder. Construiu em Judá fortalezas e cidades de entrepostos."
+    },
+    {
+      "numero": 13,
+      "texto": "Realizou grandes trabalhos nas cidades de Judá. Havia em Jerusalém um exército bem treinado."
+    },
+    {
+      "numero": 14,
+      "texto": "Eis a sua distribuição segundo suas famílias: de Judá, os chefes de milhares eram: o chefe Ednas, com trezentos mil valentes guerreiros;"
+    },
+    {
+      "numero": 15,
+      "texto": "ao seu lado, o chefe Joanã, com duzentos e oitenta mil valentes guerreiros;"
+    },
+    {
+      "numero": 16,
+      "texto": "ao seu lado, Amasias, filho de Zecri, voluntariamente consagrado ao Senhor, com duzentos mil valentes guerreiros."
+    },
+    {
+      "numero": 17,
+      "texto": "De Benjamim: o valoroso Eliada, com duzentos mil homens providos de arcos e de escudos;"
+    },
+    {
+      "numero": 18,
+      "texto": "ao seu lado, Jozabad, com cento e oitenta mil homens equipados para a guerra."
+    },
+    {
+      "numero": 19,
+      "texto": "Essas eram as pessoas a serviço do rei, além das guarnições colocadas por ele nas fortalezas da terra de Judá."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "17:1-6",
+      "texto": "Josafá, filho de Asa, se torna rei e busca o Senhor, afastando-se dos ídolos. Sua busca por Deus e a prática da justiça são fundamentais para o fortalecimento do reino, destacando a importância de lideranças tementes a Deus (veja também Salmo 1:1-3 e Provérbios 21:1)."
+    },
+    {
+      "ref": "17:7-9",
+      "texto": "Josafá envia sacerdotes e levitas para ensinar a Lei do Senhor em Judá. Esse compromisso com a educação espiritual é vital para o crescimento da fé entre o povo, mostrando que a instrução na Palavra de Deus é essencial (veja também Deuteronômio 6:6-9 e Salmo 119:105)."
+    },
+    {
+      "ref": "17:10-13",
+      "texto": "O temor do Senhor se espalha em torno de Judá, resultando em paz e segurança. A proteção divina é uma consequência da obediência e do temor a Deus, ilustrando como a fidelidade a Deus traz bênçãos (veja também Salmo 34:7 e Salmo 91:1-2)."
+    },
+    {
+      "ref": "17:14-19",
+      "texto": "Josafá organiza suas forças militares e promove uma administração eficaz. A preparação e a estratégia no governo são essenciais para garantir a prosperidade e a segurança do povo, demonstrando responsabilidade no papel de liderança (veja também Provérbios 21:31 e Lucas 14:28-30)."
+    },
+    {
+      "ref": "17:19",
+      "texto": "A disposição das tropas mostra a grandeza e a força do reino sob a liderança de Josafá. Essa organização militar também reflete a confiança em Deus, que é a verdadeira fonte de segurança e proteção (veja também Salmo 20:7 e Salmo 144:1-2)."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "colossenses",
+  "nome": "Colossenses",
+  "testamento": "NT",
+  "capitulo": 4,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/colossenses/4/",
+  "capturadoEm": "2026-11-15T09:28:42-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Senhores, tratai vossos servos com justiça e igualdade. Sabeis perfeitamente que também vós tendes um Senhor no céu."
+    },
+    {
+      "numero": 2,
+      "texto": "Sede perseverantes, sede vigilantes na oração, acompanhada de ações de graças."
+    },
+    {
+      "numero": 3,
+      "texto": "Orai também por nós. Pedi a Deus que dê livre curso à nossa palavra para que possamos anunciar o mistério de Cristo. É por causa desse mistério que estou preso."
+    },
+    {
+      "numero": 4,
+      "texto": "Possa eu fazê-lo conhecido, como é meu dever."
+    },
+    {
+      "numero": 5,
+      "texto": "Procedei com sabedoria no trato com os de fora. Sabei aproveitar todas as circunstâncias.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Que as vossas conversas sejam sempre amáveis, temperadas com sal, e sabei responder a cada um devidamente.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "Quanto ao que me concerne, o caríssimo irmão Tíquico, ministro fiel e companheiro no Senhor, vos informará de tudo."
+    },
+    {
+      "numero": 8,
+      "texto": "Eu vo-lo envio para este fim, para que conheçais nossa situação e console os vossos corações."
+    },
+    {
+      "numero": 9,
+      "texto": "Ele vai juntamente com Onésimo, nosso caríssimo e fiel irmão, conterrâneo vosso. Ambos vos informarão de tudo o que aqui se passa.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Saúda-vos Aristarco, meu companheiro de prisão, e Marcos, primo de Barnabé, a respeito do qual já recebestes instruções. (Se este for ter convosco, acolhei-o bem.)",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Também Jesus, chamado o Justo, vos saúda. São os únicos da circuncisão que trabalham comigo no Reino de Deus. Eles se têm tornado a minha consolação."
+    },
+    {
+      "numero": 12,
+      "texto": "Saúda-vos Epafras, vosso concidadão, servo de Jesus Cristo. Ele não cessa de lutar por vós em suas orações, para que, numa perfeita e plena convicção, permaneçais plenamente submissos à vontade divina."
+    },
+    {
+      "numero": 13,
+      "texto": "Posso assegurar-vos que muito trabalha por vós e pelos que estão em Laodiceia e em Hierápolis."
+    },
+    {
+      "numero": 14,
+      "texto": "Saúda-vos Lucas, o caríssimo médico, e Demas.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Saudai os irmãos de Laodiceia, como também a Ninfas e a igreja que está em sua casa."
+    },
+    {
+      "numero": 16,
+      "texto": "Uma vez lida esta carta entre vós, fazei com que ela o seja também na igreja dos laodicenses. E vós, lede a de Laodiceia.",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "Finalmente, dizei a Arquipo: “Vê bem o ministério que recebeste em nome do Senhor, e desempenha-o plenamente”."
+    },
+    {
+      "numero": 18,
+      "texto": "Minha saudação, de próprio punho: PAULO. Lembrai-vos das minhas cadeias. A graça esteja convosco!"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "4:2-6",
+      "texto": "Paulo instrui os cristãos a perseverarem em oração e a viverem de forma sábia, aproveitando as oportunidades para proclamar o evangelho. A missão evangelística é apresentada como uma responsabilidade de todos os cristãos (veja também Efésios 6:18-20 e 1 Pedro 3:15)."
+    },
+    {
+      "ref": "4:7-9",
+      "texto": "Paulo apresenta Tíquico como um mensageiro fiel que levará notícias da Igreja. Ele destaca a importância da cooperação entre os cristãos para a propagação do evangelho (veja também Atos 20:4 e 2 Coríntios 8:23)."
+    },
+    {
+      "ref": "4:10-14",
+      "texto": "Paulo menciona vários colaboradores, incluindo Aristarco, Marcos e Lucas, que ajudam no ministério. A comunidade cristã é retratada como um corpo unido no serviço a Cristo (veja também Filipenses 2:25-30 e 2 Timóteo 4:11)."
+    },
+    {
+      "ref": "4:15-18",
+      "texto": "Paulo envia saudações e exorta os cristãos a permanecerem firmes na fé. A carta termina com um pedido para que a mensagem seja lida publicamente, enfatizando a importância da palavra de Deus na vida da Igreja (veja também 1 Coríntios 16:19-20 e Apocalipse 1:3)."
+    }
+  ]
+}

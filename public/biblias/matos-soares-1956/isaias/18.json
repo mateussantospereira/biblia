@@ -1,0 +1,59 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 18,
+  "totalVersiculos": 7,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/isaias/18/",
+  "capturadoEm": "2026-11-15T09:58:11-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ai da terra do zumbido de asas, que está além dos rios da Etiópia,"
+    },
+    {
+      "numero": 2,
+      "texto": "a qual envia embaixadores por mar, em barcos de junco sobre as águas. Ide, mensageiros velozes, a um povo de elevada estatura, de pele luzidia, a um povo temido ao longe, nação poderosa e esmagadora, cuja terra é cortada pelos rios."
+    },
+    {
+      "numero": 3,
+      "texto": "Vós todos, habitantes do mundo, que morais sobre a terra, quando for levantado o estandarte sobre os montes, olhai: quando soar a trombeta, escutai."
+    },
+    {
+      "numero": 4,
+      "texto": "Porque o Senhor me diz isto: Repousarei e contemplarei do meu lugar, como o calor sereno do sol brilhante, como a nuvem de orvalho no tempo da messe. (ver nota)"
+    },
+    {
+      "numero": 5,
+      "texto": "Porque antes da vindima, quando tiver passado a floração e quando a flor se tornar um cacho maduro serão cortados os sarmentos com a podadeira, serão até tiradas, arrancadas as cepas."
+    },
+    {
+      "numero": 6,
+      "texto": "E (os cadáveres dos Assírios) serão abandonados aos abutres dos montes e aos animais da terra: lançar-se-ão sobre eles os abutres, durante o estio, e, no inverno, os animais da terra."
+    },
+    {
+      "numero": 7,
+      "texto": "Naquele tempo serão levadas oferendas ao Senhor dos exércitos por um povo de elevada estatura e pele luzidia, Por um povo temido ao longe, nação poderosa e esmagadora, cuja terra é cortada pelos rios; (essas oferendas serão levadas) à morada do nome do Senhor dos exércitos, ao monte Sião."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "18:1-2",
+      "texto": "Deus dirige uma mensagem à \"terra de asas vibrantes\" (Cuxe), advertindo sobre suas alianças e enviando embaixadores. Este aviso sublinha que o plano de Deus para as nações prevalecerá sobre alianças políticas (veja também Sofonias 2:12 e Salmo 2:1-2)."
+    },
+    {
+      "ref": "18:3-4",
+      "texto": "Deus anuncia que todos os povos observarão Seus sinais e ouvirão Suas mensagens. Ele permanece vigilante e soberano, pronto para agir no momento adequado, destacando Sua justiça (veja também Isaías 25:6-8 e Habacuque 2:3)."
+    },
+    {
+      "ref": "18:5-6",
+      "texto": "Antes da colheita, Deus corta os brotos e elimina os ramos rebeldes. Este ato representa a purificação e a remoção de quem se opõe ao plano divino, enfatizando o poder de Deus em eliminar a injustiça (veja também João 15:2 e Malaquias 4:1)."
+    },
+    {
+      "ref": "18:7",
+      "texto": "No final, o povo de Cuxe trará presentes ao Senhor em Sião. Essa visão escatológica mostra que todas as nações, eventualmente, reconhecerão a soberania de Deus e O adorarão (veja também Salmo 68:31 e Isaías 60:9)."
+    }
+  ]
+}

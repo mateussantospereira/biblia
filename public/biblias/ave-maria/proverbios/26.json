@@ -1,0 +1,149 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "proverbios",
+  "nome": "Provérbios",
+  "testamento": "AT",
+  "capitulo": 26,
+  "totalVersiculos": 28,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/proverbios/26/",
+  "capturadoEm": "2026-11-15T09:19:35-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Assim como a neve é imprópria no estio e a chuva na ceifa, do mesmo modo não convém ao insensato a consideração."
+    },
+    {
+      "numero": 2,
+      "texto": "Como um pássaro que foge, uma andorinha que voa: uma maldição injustificada permanece sem efeito."
+    },
+    {
+      "numero": 3,
+      "texto": "O açoite para o cavalo, o freio para o asno: a vara para as costas do tolo."
+    },
+    {
+      "numero": 4,
+      "texto": "Não respondas ao néscio segundo sua insensatez, para não seres semelhante a ele."
+    },
+    {
+      "numero": 5,
+      "texto": "Responde ao tolo segundo sua loucura, para que ele não se julgue sábio aos seus olhos.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Corta os pés, bebe aflições quem confia uma mensagem a um tolo."
+    },
+    {
+      "numero": 7,
+      "texto": "As pernas de um coxo não têm força: do mesmo modo uma sentença na boca de um tolo."
+    },
+    {
+      "numero": 8,
+      "texto": "É colocar pedra na funda cumprimentar um tolo."
+    },
+    {
+      "numero": 9,
+      "texto": "Um espinho que cai na mão de um embriagado: tal é uma sentença na boca dos insensatos."
+    },
+    {
+      "numero": 10,
+      "texto": "Um arqueiro que fere a todos: tal é aquele que emprega um tolo ou um embriagado."
+    },
+    {
+      "numero": 11,
+      "texto": "Um cão que volta ao seu vômito: tal é o louco que reitera suas loucuras.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Tu tens visto um homem que se julga sábio? Há mais a esperar de um tolo do que dele."
+    },
+    {
+      "numero": 13,
+      "texto": "“Há um leão no caminho – diz o preguiçoso –, um leão na estrada!”"
+    },
+    {
+      "numero": 14,
+      "texto": "A porta gira sobre seus gonzos: assim o preguiçoso no seu leito."
+    },
+    {
+      "numero": 15,
+      "texto": "O preguiçoso põe sua mão no prato e custa-lhe muito levá-la à boca."
+    },
+    {
+      "numero": 16,
+      "texto": "O preguiçoso julga-se mais sábio do que sete homens que respondem com prudência."
+    },
+    {
+      "numero": 17,
+      "texto": "É pegar pelas orelhas um cão que passa envolver-se num debate que não interessa."
+    },
+    {
+      "numero": 18,
+      "texto": "Um louco furioso que lança chamas, flechas e morte:"
+    },
+    {
+      "numero": 19,
+      "texto": "tal é o homem que engana seu próximo e diz em seguida: “mas era para brincar”."
+    },
+    {
+      "numero": 20,
+      "texto": "Sem lenha o fogo se apaga: desaparecido o relator, acaba-se a questão."
+    },
+    {
+      "numero": 21,
+      "texto": "Carvão sobre a brasa, lenha sobre o fogo: tal é um intrigante para atiçar uma disputa."
+    },
+    {
+      "numero": 22,
+      "texto": "As palavras do mexeriqueiro são como guloseimas: penetram até o fundo das entranhas."
+    },
+    {
+      "numero": 23,
+      "texto": "Uma liga de prata sobre o pote de argila: tais são as palavras ardentes com um coração malévolo."
+    },
+    {
+      "numero": 24,
+      "texto": "O que odeia, fala com dissimulação; no seu interior maquina a fraude;"
+    },
+    {
+      "numero": 25,
+      "texto": "quando ele falar com amabilidade, não te fies nele porque há sete abominações em seu coração;"
+    },
+    {
+      "numero": 26,
+      "texto": "pode dissimular seu ódio sob aparências, e sua malícia acabará por ser revelada ao público."
+    },
+    {
+      "numero": 27,
+      "texto": "Quem cava uma fossa, ali cai; quem rola uma pedra, cairá debaixo dela."
+    },
+    {
+      "numero": 28,
+      "texto": "A língua mendaz odeia aqueles que ela atinge, a boca enganosa conduz à ruína."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "26:4-5",
+      "texto": "O provérbio ensina sobre como lidar com o tolo. Em algumas situações, não devemos responder ao tolo para não nos rebaixarmos ao seu nível; em outras, devemos responder para que ele não se ache sábio. A sabedoria está em discernir o momento certo (veja também Mateus 7:6 e Tito 3:9)."
+    },
+    {
+      "ref": "26:11",
+      "texto": "A repetição da insensatez é comparada a um cão que volta ao seu próprio vômito, ilustrando a tolice de retornar aos mesmos erros. Esse princípio destaca o perigo da falta de aprendizado com os próprios erros (veja também 2 Pedro 2:22 e Hebreus 6:4-6)."
+    },
+    {
+      "ref": "26:13-14",
+      "texto": "O preguiçoso é retratado como alguém que inventa desculpas para não agir e fica paralisado pela inércia. Essa metáfora critica a falta de iniciativa e a procrastinação (veja também Provérbios 6:9-11 e Eclesiastes 10:18)."
+    },
+    {
+      "ref": "26:20-21",
+      "texto": "Onde não há lenha, o fogo se apaga; assim, onde não há fofocas, as contendas cessam. Isso mostra o poder destrutivo das palavras e a necessidade de evitar a difamação e os conflitos (veja também Tiago 3:6 e Efésios 4:31)."
+    },
+    {
+      "ref": "26:27",
+      "texto": "Quem cava uma cova para os outros acaba caindo nela. Essa lição enfatiza que o mal planejado contra os outros acaba retornando para quem o praticou, uma advertência contra a malícia (veja também Salmo 7:15-16 e Eclesiastes 10:8)."
+    }
+  ]
+}

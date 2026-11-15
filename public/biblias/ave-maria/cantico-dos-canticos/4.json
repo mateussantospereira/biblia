@@ -1,0 +1,103 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "cantico-dos-canticos",
+  "nome": "Cântico dos Cânticos",
+  "testamento": "AT",
+  "capitulo": 4,
+  "totalVersiculos": 16,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/cantico-dos-canticos/4/",
+  "capturadoEm": "2026-11-15T09:19:57-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "– Tu és bela, minha querida, tu és formosa! Através do teu véu os teus olhos são como pombas, teus cabelos são como um rebanho de cabras, descendo impetuosas pela montanha de Galaad,",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "teus dentes são como um rebanho de ovelhas tosquiadas que saem do banho; cada uma leva dois cordeirinhos gêmeos, e nenhuma há estéril entre elas."
+    },
+    {
+      "numero": 3,
+      "texto": "Teus lábios são como um fio de púrpura, e graciosa é tua boca. Tua face é como um pedaço de romã debaixo do teu véu;"
+    },
+    {
+      "numero": 4,
+      "texto": "teu pescoço é semelhante à torre de Davi, construída para depósito de armas. Aí estão pendentes mil escudos, todos os escudos dos valentes.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Os teus dois seios são como filhotes gêmeos de uma gazela, pastando entre os lírios."
+    },
+    {
+      "numero": 6,
+      "texto": "Antes que sopre a brisa do dia, e se estendam as sombras, irei ao monte da mirra, e à colina do incenso."
+    },
+    {
+      "numero": 7,
+      "texto": "És toda bela, ó minha amada, e não há mancha em ti."
+    },
+    {
+      "numero": 8,
+      "texto": "Vem comigo do Líbano, ó esposa, vem comigo do Líbano! Olha dos cumes do Amaná, do cimo de Sanir e do Hermon, das cavernas dos leões, dos esconderijos das panteras."
+    },
+    {
+      "numero": 9,
+      "texto": "Tu me fazes delirar, minha irmã, minha noiva, tu me fazes delirar com um só dos teus olhares, com um só colar do teu pescoço.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Como são deliciosas as tuas carícias, minha irmã, minha noiva! Mais deliciosos que o vinho são teus amores, e o odor dos teus perfumes excede o de todos os aromas!"
+    },
+    {
+      "numero": 11,
+      "texto": "Teus lábios, ó noiva, destilam o mel; há mel e leite sob a tua língua. O perfume de tuas vestes é como o perfume do Líbano."
+    },
+    {
+      "numero": 12,
+      "texto": "És um jardim fechado, minha irmã, minha noiva, uma nascente fechada, uma fonte selada."
+    },
+    {
+      "numero": 13,
+      "texto": "Teus rebentos são como um bosque de romãs com frutos deliciosos; com ligústica e nardo,"
+    },
+    {
+      "numero": 14,
+      "texto": "nardo e açafrão, canela e cinamomo, com todas as árvores de incenso, mirra e aloés, com os bálsamos mais preciosos."
+    },
+    {
+      "numero": 15,
+      "texto": "És a fonte do meu jardim, uma fonte de água viva, um riacho que corre do Líbano."
+    },
+    {
+      "numero": 16,
+      "texto": "– Levanta-te, vento do norte, vem tu, vento do sul. Sopra no meu jardim para que se espalhem os meus perfumes. Entre meu amado no seu jardim, prove-lhe os frutos deliciosos.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "4:1-5",
+      "texto": "O amado descreve a beleza da amada, elogiando suas qualidades e virtudes. Essa admiração mútua é essencial em um relacionamento amoroso e reflete a apreciação que Deus tem por nós (veja também Provérbios 31:10 e Efésios 5:28-29)."
+    },
+    {
+      "ref": "4:6-7",
+      "texto": "O amado expressa seu desejo e compromisso, simbolizando o amor que é puro e cheio de paixão. O amor entre marido e mulher é uma representação do amor entre Cristo e a Igreja (veja também 1 Coríntios 7:3-5 e Efésios 5:25-27)."
+    },
+    {
+      "ref": "4:8-10",
+      "texto": "O convite do amado para que a amada venha com ele reflete a importância da jornada juntos no amor. Essa ideia de seguir a Deus juntos é essencial para um relacionamento saudável (veja também Amós 3:3 e Filipenses 2:2)."
+    },
+    {
+      "ref": "4:11-15",
+      "texto": "A amada é comparada a um jardim fechado, simbolizando a pureza e o valor do amor. O amor deve ser cultivado e protegido, refletindo a intenção divina para relacionamentos saudáveis (veja também Cânticos 2:15 e Efésios 4:3)."
+    },
+    {
+      "ref": "4:16",
+      "texto": "A amada convida o vento a soprar em seu jardim, simbolizando a entrega e o desejo de amor. Essa entrega ao amor verdadeiro é uma maneira de experimentar a plenitude do relacionamento (veja também Salmo 104:29-30 e João 7:37-39)."
+    }
+  ]
+}

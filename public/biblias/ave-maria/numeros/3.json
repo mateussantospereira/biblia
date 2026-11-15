@@ -1,0 +1,239 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "numeros",
+  "nome": "Números",
+  "testamento": "AT",
+  "capitulo": 3,
+  "totalVersiculos": 51,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/numeros/3/",
+  "capturadoEm": "2026-11-15T09:09:11-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eis a posteridade de Aarão e de Moisés, no tempo em que o Senhor falou a Moisés, no monte Sinai."
+    },
+    {
+      "numero": 2,
+      "texto": "Eis os nomes dos filhos de Aarão: Nadab, o mais velho, Abiú, Eleazar e Itamar."
+    },
+    {
+      "numero": 3,
+      "texto": "São esses os nomes dos filhos de Aarão, sacerdotes que receberam a unção e a investidura sacerdotal."
+    },
+    {
+      "numero": 4,
+      "texto": "Nadab e Abiú morreram diante do Senhor, quando levaram à sua presença um fogo estranho, no deserto do Sinai. Não tinham filhos. Eleazar e Itamar exerceram o ministério sacerdotal em presença de Aarão, seu pai."
+    },
+    {
+      "numero": 5,
+      "texto": "O Senhor disse a Moisés:"
+    },
+    {
+      "numero": 6,
+      "texto": "“Manda vir a tribo de Levi e apresenta-a ao sacerdote Aarão para servi-lo."
+    },
+    {
+      "numero": 7,
+      "texto": "Os levitas se encarregarão de tudo o que foi confiado aos seus cuidados e aos de toda a assembleia, diante da tenda de reunião: e farão assim o serviço do tabernáculo."
+    },
+    {
+      "numero": 8,
+      "texto": "Zelarão por todos os utensílios da tenda de reunião e do que foi confiado aos cuidados dos israelitas; e farão assim o serviço do tabernáculo."
+    },
+    {
+      "numero": 9,
+      "texto": "Darás os levitas a Aarão e seus filhos. Eles serão escolhidos dentre os filhos de Israel para serem inteiramente dele."
+    },
+    {
+      "numero": 10,
+      "texto": "Estabelecerás Aarão e seus filhos para exercerem o ministério sacerdotal. O estrangeiro que se aproximar do santuário será punido de morte”."
+    },
+    {
+      "numero": 11,
+      "texto": "O Senhor disse a Moisés:"
+    },
+    {
+      "numero": 12,
+      "texto": "“Eu tomei os levitas dentre os filhos de Israel em lugar de todo primogênito, que abre o seio de sua mãe entre todos os israelitas. Os levitas serão meus."
+    },
+    {
+      "numero": 13,
+      "texto": "Com efeito, todo primogênito é meu. No dia em que feri todos os primogênitos no Egito, reservei para mim todos os que nascem primeiro em Israel, desde os homens até os animais; são meus. Eu sou o Senhor”."
+    },
+    {
+      "numero": 14,
+      "texto": "O Senhor disse a Moisés, no deserto do Sinai:"
+    },
+    {
+      "numero": 15,
+      "texto": "“Conta os levitas segundo suas casas patriarcais e segundo suas famílias, todos os varões de um mês para cima”."
+    },
+    {
+      "numero": 16,
+      "texto": "E Moisés fez esse recenseamento conforme o Senhor lhe tinha ordenado."
+    },
+    {
+      "numero": 17,
+      "texto": "Eis os nomes dos filhos de Levi: Gérson, Caat e Merari."
+    },
+    {
+      "numero": 18,
+      "texto": "Eis os nomes dos filhos de Gérson, segundo suas famílias: Lobni e Semei."
+    },
+    {
+      "numero": 19,
+      "texto": "Filhos de Caat, segundo suas famílias: Amram, Isaar, Hebron e Oziel."
+    },
+    {
+      "numero": 20,
+      "texto": "Filhos de Merari, segundo suas famílias: Mooli e Musi. São estas as famílias de Levi, segundo suas casas patriarcais."
+    },
+    {
+      "numero": 21,
+      "texto": "De Gérson provêm as famílias de Lobni e de Semei: são as famílias dos gersonitas."
+    },
+    {
+      "numero": 22,
+      "texto": "Contando todos os varões da idade de um mês para cima, foram recenseados sete mil e quinhentos."
+    },
+    {
+      "numero": 23,
+      "texto": "As famílias dos gersonitas acampavam ao ocidente, atrás do tabernáculo."
+    },
+    {
+      "numero": 24,
+      "texto": "O príncipe da casa patriarcal dos gersonitas era Eliasaf, filho de Lael."
+    },
+    {
+      "numero": 25,
+      "texto": "Na tenda de reunião tinham os gersonitas o cuidado do tabernáculo e da tenda, de sua coberta, do véu que cobria a entrada da tenda de reunião,"
+    },
+    {
+      "numero": 26,
+      "texto": "das cortinas do átrio, do véu de entrada no átrio, que circundavam o tabernáculo e o altar, e de suas cordas para todo o serviço."
+    },
+    {
+      "numero": 27,
+      "texto": "De Caat provêm as famílias dos amramitas, dos jessaritas, dos habronitas e os ozielitas: essas são as famílias dos caatitas."
+    },
+    {
+      "numero": 28,
+      "texto": "Contando todos os varões da idade de um mês para cima, havia oito mil e trezentos encarregados do santuário."
+    },
+    {
+      "numero": 29,
+      "texto": "As famílias dos caatitas acampavam para a banda do meio-dia, ao lado do tabernáculo."
+    },
+    {
+      "numero": 30,
+      "texto": "O príncipe da casa patriarcal das famílias dos caatitas era Elisafã, filho de Oziel."
+    },
+    {
+      "numero": 31,
+      "texto": "Aos seus cuidados foi confiada a guarda da arca, da mesa, do candelabro, dos altares e dos utensílios do santuário que serviam para o ministério, o véu e tudo o que se relacionava com o seu serviço."
+    },
+    {
+      "numero": 32,
+      "texto": "O príncipe dos príncipes dos levitas era Eleazar, filho do sacerdote Aarão: ele tinha a superintendência sobre os que velavam pela guarda do santuário."
+    },
+    {
+      "numero": 33,
+      "texto": "De Merari provêm a família dos moolitas e as dos musitas: essas são as famílias dos meraritas."
+    },
+    {
+      "numero": 34,
+      "texto": "Contando todos os varões da idade de um mês para cima, foram recenseados seis mil e duzentos."
+    },
+    {
+      "numero": 35,
+      "texto": "O príncipe da casa patriarcal das famílias de Merari era Suriel, filho de Abiail. Acampavam ao norte do tabernáculo."
+    },
+    {
+      "numero": 36,
+      "texto": "Os filhos de Merari tinham a guarda das tábuas do tabernáculo, de suas travessas, suas colunas, seus pedestais, de todos os seus utensílios e de todo o seu serviço,"
+    },
+    {
+      "numero": 37,
+      "texto": "das colunas que se encontravam em volta do átrio com seus pedestais, suas estacas e suas cordas."
+    },
+    {
+      "numero": 38,
+      "texto": "Moisés, Aarão e seus filhos acampavam diante do tabernáculo, ao oriente, diante da tenda de reunião, ao nascente, e tinham o cuidado do santuário para os israelitas. O estrangeiro que se aproximasse devia ser punido de morte."
+    },
+    {
+      "numero": 39,
+      "texto": "O total dos levitas recenseados por Moisés, segundo suas famílias, assim como o Senhor ordenara todos os varões da idade de um mês para cima, era de vinte e dois mil."
+    },
+    {
+      "numero": 40,
+      "texto": "O Senhor disse a Moisés: “Faze o recenseamento de todos os primogênitos varões entre os israelitas, da idade de um mês para cima, e faze o levantamento dos seus nomes."
+    },
+    {
+      "numero": 41,
+      "texto": "Tomarás para mim os levitas em lugar de todos os primogênitos israelitas. Eu sou o Senhor. Tomarás o gado dos levitas em lugar de todos os primogênitos do gado dos israelitas”."
+    },
+    {
+      "numero": 42,
+      "texto": "Moisés recenseou todos os primogênitos israelitas segundo a ordem que lhe tinha dado o Senhor."
+    },
+    {
+      "numero": 43,
+      "texto": "Todos os primogênitos varões recenseados e contados nominalmente, da idade de um mês para cima, eram vinte e dois mil duzentos e setenta e tres."
+    },
+    {
+      "numero": 44,
+      "texto": "O Senhor disse a Moisés:"
+    },
+    {
+      "numero": 45,
+      "texto": "“Toma os levitas em lugar de todos os primogênitos israelitas, e o gado dos levitas, em lugar do deles. Os levitas serão meus. Eu sou o Senhor."
+    },
+    {
+      "numero": 46,
+      "texto": "Como resgate dos duzentos e setenta e tres primogênitos israelitas que excedem o número dos levitas,"
+    },
+    {
+      "numero": 47,
+      "texto": "tomarás cinco siclos por cabeça, de acordo com o siclo do santuário, o qual é de vinte gueras."
+    },
+    {
+      "numero": 48,
+      "texto": "Darás esse dinheiro a Aarão e a seus filhos para o resgate daqueles que ultrapassam o número dos levitas”."
+    },
+    {
+      "numero": 49,
+      "texto": "Moisés pegou o dinheiro do resgate dos primogênitos que ultrapassavam o número dos que tinham sido resgatados pelos levitas."
+    },
+    {
+      "numero": 50,
+      "texto": "Assim recolheu a quantia de mil trezentos e sessenta e cinco siclos, segundo o siclo do santuário."
+    },
+    {
+      "numero": 51,
+      "texto": "E Moisés entregou o dinheiro do resgate a Aarão e a seus filhos, conforme a ordem que o Senhor lhe tinha dado."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-4",
+      "texto": "Os filhos de Arão, Nadabe e Abiú, morreram ao oferecer fogo profano diante do Senhor. Essa tragédia reforça a seriedade da santidade de Deus e o cuidado necessário ao servi-Lo no Tabernáculo (veja também Levítico 10:1-2 e Hebreus 12:28-29)."
+    },
+    {
+      "ref": "3:5-10",
+      "texto": "Deus separa a tribo de Levi para servir no Tabernáculo, em substituição aos primogênitos de Israel. Isso demonstra a ideia de substituição e redenção no serviço a Deus (veja também Êxodo 13:2 e Números 8:14-18)."
+    },
+    {
+      "ref": "3:11-13",
+      "texto": "Deus reivindica os levitas como Seus, em troca da consagração dos primogênitos, lembrando o livramento de Israel no Egito. Esse ato de consagração simboliza o poder redentor de Deus e a necessidade de santificação (veja também Êxodo 12:12-13 e 1 Coríntios 6:19-20)."
+    },
+    {
+      "ref": "3:14-20",
+      "texto": "Moisés realiza um censo dos levitas por ordem de Deus, reforçando a importância da estrutura e da organização no serviço divino. Os levitas são contados de um mês para cima, destacando sua consagração desde a infância (veja também Números 4:46-48 e Salmo 127:3)."
+    },
+    {
+      "ref": "3:40-51",
+      "texto": "Os levitas são separados em troca dos primogênitos de Israel, e é feito um pagamento de resgate. Esse ato simboliza a redenção e a importância da substituição como princípio espiritual (veja também 1 Pedro 1:18-19 e Números 8:17-19)."
+    }
+  ]
+}

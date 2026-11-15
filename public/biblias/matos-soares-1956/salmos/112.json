@@ -1,0 +1,71 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 112,
+  "totalVersiculos": 9,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/112/",
+  "capturadoEm": "2026-11-15T09:54:13-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Aleluia. Louvai, ó servos do Senhor, louvai o nome do Senhor."
+    },
+    {
+      "numero": 2,
+      "texto": "Seja bendito o nome do Senhor, desde agora e para sempre."
+    },
+    {
+      "numero": 3,
+      "texto": "Desde o nascer do sol até ao seu ocaso, seja louvado o nome do Senhor."
+    },
+    {
+      "numero": 4,
+      "texto": "Excelso é o Senhor, sobre todas as gentes, e a sua glória está acima dos céus."
+    },
+    {
+      "numero": 5,
+      "texto": "Quem há como o Senhor nosso Deus, que está sentado nas alturas,"
+    },
+    {
+      "numero": 6,
+      "texto": "e baixa os olhos sobre o céu e sobre a terra?"
+    },
+    {
+      "numero": 7,
+      "texto": "Levanta do pó o desvalido, tira da imundície o pobre,"
+    },
+    {
+      "numero": 8,
+      "texto": "para o colocar com os príncipes, com os príncipes do seu povo."
+    },
+    {
+      "numero": 9,
+      "texto": "E a que era (antes) estéril, fá-la viver em sua casa, como mãe alegre de seus filhos."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "112:1",
+      "texto": "O salmo começa declarando que bem-aventurado é aquele que teme ao Senhor e se deleita nos Seus mandamentos. O temor de Deus é a base da vida justa e abençoada (veja também Salmo 1:1-2 e Provérbios 28:14)."
+    },
+    {
+      "ref": "112:2-3",
+      "texto": "A descendência dos justos será poderosa e abençoada. A prosperidade e a justiça caminham juntas para aqueles que seguem os caminhos do Senhor (veja também Salmo 128:1-4 e Provérbios 3:33)."
+    },
+    {
+      "ref": "112:4-5",
+      "texto": "Os justos são comparados à luz que brilha nas trevas, pois são misericordiosos e generosos. A bondade e a justiça são marcas de quem vive de acordo com os princípios de Deus (veja também Mateus 5:14-16 e Efésios 5:8-9)."
+    },
+    {
+      "ref": "112:6-7",
+      "texto": "O justo não teme más notícias, pois confia plenamente no Senhor. A confiança em Deus traz estabilidade e segurança em tempos de adversidade (veja também Isaías 26:3-4 e Filipenses 4:6-7)."
+    },
+    {
+      "ref": "112:8-9",
+      "texto": "O justo é firme e generoso, e sua justiça permanece para sempre. Suas boas obras são um testemunho duradouro de seu caráter diante de Deus e dos homens (veja também 2 Coríntios 9:9 e Mateus 6:19-20)."
+    }
+  ]
+}

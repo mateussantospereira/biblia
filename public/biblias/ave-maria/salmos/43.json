@@ -1,0 +1,138 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 43,
+  "totalVersiculos": 27,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/43/",
+  "capturadoEm": "2026-11-15T09:16:45-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. Hino dos filhos de Coré.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Ó Deus, ouvimos com os nossos próprios ouvidos: nossos pais nos contaram a obra que fizestes em seus dias, nos tempos de antanho."
+    },
+    {
+      "numero": 3,
+      "texto": "Para implantá-los, expulsastes com as vossas mãos nações pagãs; para lhes dardes lugar, abatestes povos.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Com efeito, não foi com sua espada que conquistaram essa terra, nem foi seu braço que os salvou, mas foi vossa mão, foi vosso braço, foi o resplendor de vossa face, porque os amastes."
+    },
+    {
+      "numero": 5,
+      "texto": "Meu Deus, vós sois o meu rei, vós que destes as vitórias a Jacó."
+    },
+    {
+      "numero": 6,
+      "texto": "Por vossa graça repelimos os nossos inimigos, em vosso nome esmagamos nossos adversários."
+    },
+    {
+      "numero": 7,
+      "texto": "Não foi em meu arco que pus minha confiança, nem foi minha espada que me salvou,"
+    },
+    {
+      "numero": 8,
+      "texto": "mas fostes vós que nos livrastes de nossos inimigos e confundistes os que nos odiavam."
+    },
+    {
+      "numero": 9,
+      "texto": "Era em Deus que em todo o tempo nos gloriávamos, e seu nome sempre celebrávamos."
+    },
+    {
+      "numero": 10,
+      "texto": "Agora, porém, nos rejeitais e confundis; e já não ides à frente de nossos exércitos."
+    },
+    {
+      "numero": 11,
+      "texto": "Vós nos fizestes recuar diante do inimigo, e os que nos odiavam pilharam nossos bens."
+    },
+    {
+      "numero": 12,
+      "texto": "Entregastes-nos como ovelhas para o corte, e nos dispersastes entre os pagãos."
+    },
+    {
+      "numero": 13,
+      "texto": "Vendestes vosso povo por um preço vil, e pouco lucrastes com esta venda."
+    },
+    {
+      "numero": 14,
+      "texto": "Fizeste-nos o opróbrio de nossos vizinhos, desprezo e zombaria daqueles que nos cercam."
+    },
+    {
+      "numero": 15,
+      "texto": "Fizestes de nós a sátira das nações pagãs, e os povos nos escarnecem à nossa vista."
+    },
+    {
+      "numero": 16,
+      "texto": "Continuamente estou envergonhado, a confusão cobre-me a face,"
+    },
+    {
+      "numero": 17,
+      "texto": "por causa dos insultos e ultrajes de um inimigo cheio de rancor."
+    },
+    {
+      "numero": 18,
+      "texto": "E, apesar de todos esses males que nos sobrevieram, não vos esquecemos, nem traímos a vossa aliança."
+    },
+    {
+      "numero": 19,
+      "texto": "Nosso coração não se desviou de vós, nem nossos passos se apartaram de vossos caminhos,"
+    },
+    {
+      "numero": 20,
+      "texto": "para que nos esmagueis no lugar da aflição e nos envolvais de trevas..."
+    },
+    {
+      "numero": 21,
+      "texto": "Se houvéramos olvidado o nome de nosso Deus e estendido as mãos a um deus estranho,"
+    },
+    {
+      "numero": 22,
+      "texto": "porventura Deus não o teria percebido, ele que conhece os segredos do coração?"
+    },
+    {
+      "numero": 23,
+      "texto": "Mas por vossa causa somos entregues à morte todos os dias e tratados como ovelhas de matadouro.",
+      "nota": true
+    },
+    {
+      "numero": 24,
+      "texto": "Acordai, Senhor! Por que dormis? Despertai! Não nos rejeiteis continuamente!"
+    },
+    {
+      "numero": 25,
+      "texto": "Por que ocultais a vossa face e esqueceis nossas misérias e opressões?"
+    },
+    {
+      "numero": 26,
+      "texto": "Nossa alma está prostrada até o pó, e colado no solo o nosso corpo."
+    },
+    {
+      "numero": 27,
+      "texto": "Levantai-vos em nosso socorro e livrai-nos, pela vossa misericórdia."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "43:1-2",
+      "texto": "O salmista clama por justiça, pedindo a Deus que o defenda de um povo ímpio. Essa súplica revela a necessidade de Deus como nosso defensor e juiz, mostrando que Ele é nossa esperança em tempos de opressão (veja também Salmo 7:1-2 e Romanos 12:19)."
+    },
+    {
+      "ref": "43:3-4",
+      "texto": "O pedido de Deus para enviar Sua luz e verdade reflete a busca pela orientação divina. Essa luz é fundamental para direcionar os passos do fiel e trazer esperança e segurança (veja também Salmo 119:105 e João 8:12)."
+    },
+    {
+      "ref": "43:5",
+      "texto": "O salmista exorta a si mesmo a esperar em Deus, reiterando a importância da esperança em meio às dificuldades. Essa autoexortação é um poderoso lembrete da força que encontramos em Deus (veja também Salmo 42:11 e Salmo 62:5)."
+    }
+  ]
+}

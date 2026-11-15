@@ -1,0 +1,145 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 65,
+  "totalVersiculos": 25,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/65/",
+  "capturadoEm": "2026-11-15T09:22:19-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Mantive-me à disposição das pessoas que não me consultavam, ofereci-me àqueles que não me procuravam. “Eis-me aqui, eis-me aqui” – dizia eu a um povo que não invocava meu nome."
+    },
+    {
+      "numero": 2,
+      "texto": "Estendia constantemente as mãos a uma nação indócil e rebelde, que seguia o mau caminho de acordo com suas inclinações;",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "há pessoas que não cessam de provocar-me diretamente, que sacrificam nos jardins, e queimam perfumes em cima de tijolos,"
+    },
+    {
+      "numero": 4,
+      "texto": "que se instalam nos túmulos, e passam a noite em antros, que comem carne de porco, e guarnecem seus pratos de alimentos imundos."
+    },
+    {
+      "numero": 5,
+      "texto": "“Mantém-te à distância” – dizem eles –, “não me toques, porque eu te santificaria.” Tudo isso me enche as narinas da fumaça, de um fogo que queima sempre.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Pois bem, eis a decisão que tomei: não me calarei enquanto não os fizer expiar",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "suas iniquidades e as de seus pais, que queimavam o incenso nas montanhas, e me ultrajavam nas colinas. Vou calcular o salário deles, e lançá-lo em seu próprio seio."
+    },
+    {
+      "numero": 8,
+      "texto": "Eis o que diz o Senhor: “Quando se encontra sumo num cacho de uvas, diz-se: ‘Não o destruam, há aí uma bênção’. Assim, por amor a meus servos, em lugar de destruir tudo,",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "tirarei de Jacó uma raça, e de Judá um herdeiro de minhas montanhas; meus eleitos as possuirão, e meus servos aí viverão."
+    },
+    {
+      "numero": 10,
+      "texto": "Saron servirá de pastagem ao rebanho miúdo, e no vale de Acor os bois se espojarão (para o povo que me tiver procurado)."
+    },
+    {
+      "numero": 11,
+      "texto": "Quanto a vós, desertores do Senhor, que haveis esquecido meu monte santo, que preparais a mesa para Gad, e encheis a taça de vinho aromatizado para Meni,",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "à espada eu vos destino; todos vós vos curvareis para serdes degolados, porque quando eu chamava, não respondíeis; quando falava, vos fazíeis de surdos; praticáveis o que eu acho ruim, e escolhíeis o que me desagrada.”",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Portanto, eis o que diz o Senhor Deus: “Meus servos comerão e vós tereis fome, meus servos beberão e vós tereis sede, meus servos se rejubilarão e vós ficareis envergonhados,"
+    },
+    {
+      "numero": 14,
+      "texto": "meus servos cantarão na alegria de seu coração, e vós vos lamentareis com o coração angustiado, rugireis com a alma em desespero."
+    },
+    {
+      "numero": 15,
+      "texto": "Vosso nome ficará como um termo de maldição entre meus eleitos: (“Que o Senhor Deus te faça morrer!”), enquanto meus servos receberão um novo nome.",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "Aquele que desejar ser abençoado na terra, desejará sê-lo pelo Deus fiel, e aquele que jurar na terra, jurará pelo Deus fiel, porque as desgraças de outrora serão esquecidas, já não lhes volverão ao espírito.",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "Pois eu vou criar novos céus, e uma nova terra; o passado já não será lembrado, já não volverá ao espírito,",
+      "nota": true
+    },
+    {
+      "numero": 18,
+      "texto": "mas será experimentada a alegria e a felicidade eterna daquilo que vou criar. Pois vou criar uma Jerusalém destinada à alegria, e seu povo ao júbilo;"
+    },
+    {
+      "numero": 19,
+      "texto": "Jerusalém me alegrará, e meu povo me rejubilará; doravante já não se ouvirá aí o ruído de soluços nem de gritos."
+    },
+    {
+      "numero": 20,
+      "texto": "Já não morrerá aí nenhum menino, nem ancião que não haja completado seus dias; será ainda jovem o que morrer aos cem anos: não atingir cem anos será uma maldição."
+    },
+    {
+      "numero": 21,
+      "texto": "Serão construídas casas onde habitarão, serão plantadas vinhas cujos frutos comerão."
+    },
+    {
+      "numero": 22,
+      "texto": "Não mais se construirá para que outro se instale; não mais se plantará para que outro se alimente. Os filhos de meu povo durarão tanto quanto as árvores, e meus eleitos gozarão do trabalho de suas mãos."
+    },
+    {
+      "numero": 23,
+      "texto": "Não trabalharão mais em vão, não darão mais à luz filhos votados a uma morte repentina, porque serão a raça abençoada pelo Senhor, eles e seus descendentes."
+    },
+    {
+      "numero": 24,
+      "texto": "Antes mesmo que me chamem, eu lhes responderei; estarão ainda falando e já serão atendidos."
+    },
+    {
+      "numero": 25,
+      "texto": "O lobo e o cordeiro pastarão juntos, o leão, como um boi, se alimentará de palha, e a serpente comerá terra. Nenhum mal nem desordem alguma será cometida, em todo o meu monte santo”, diz o Senhor.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "65:1-2",
+      "texto": "Deus se revela a um povo que não O buscava, mostrando Sua graça e paciência, mas também lamentando a rebeldia de Israel. Isso reflete o chamado universal de Deus (veja também Romanos 10:20-21 e Mateus 22:2-3)."
+    },
+    {
+      "ref": "65:3-7",
+      "texto": "Deus condena as práticas idólatras do povo, destacando a justiça de Seus julgamentos. O pecado coletivo é lembrado como causa do juízo divino (veja também Êxodo 20:5 e Jeremias 11:13)."
+    },
+    {
+      "ref": "65:8-10",
+      "texto": "Deus promete poupar um remanescente fiel, restaurando a terra e concedendo bênçãos àqueles que O buscam. Isso destaca a fidelidade de Deus às Suas promessas (veja também Isaías 11:11 e Romanos 11:5)."
+    },
+    {
+      "ref": "65:17-19",
+      "texto": "Deus promete novos céus e nova terra, onde não haverá mais tristeza nem dor. Essa visão de esperança aponta para a redenção final (veja também Apocalipse 21:1-4 e 2 Pedro 3:13)."
+    },
+    {
+      "ref": "65:24-25",
+      "texto": "Deus garante que responderá antes mesmo de ser chamado, prometendo uma era de paz e harmonia. Essa promessa reflete o caráter amoroso de Deus (veja também Isaías 11:6-9 e João 16:24)."
+    }
+  ]
+}

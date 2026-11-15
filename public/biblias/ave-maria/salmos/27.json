@@ -1,0 +1,73 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 27,
+  "totalVersiculos": 9,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/27/",
+  "capturadoEm": "2026-11-15T09:16:29-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "De Davi. É para vós, Senhor, que ergo meu clamor. Ó meu apoio, não fiqueis surdo à minha voz; não suceda que, vós não me ouvindo, eu me vá unir aos que desceram para o túmulo.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Ouvi a voz de minha súplica quando clamo, quando levanto as mãos para o vosso templo santo."
+    },
+    {
+      "numero": 3,
+      "texto": "Não me deixeis perecer com os pecadores e com os que praticam a iniquidade, que dizem ao próximo palavras de paz, mas guardam a maldade no coração."
+    },
+    {
+      "numero": 4,
+      "texto": "Tratai-os de acordo com as suas ações, e conforme a malícia de seus crimes. Retribuí-lhes segundo a obra de suas mãos; dai-lhes o que merecem,",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "pois não atendem às ações do Senhor nem às obras de suas mãos. Que ele os abata e não os levante."
+    },
+    {
+      "numero": 6,
+      "texto": "Bendito seja o Senhor, que ouviu a voz de minha súplica; nele confiou meu coração e fui socorrido."
+    },
+    {
+      "numero": 7,
+      "texto": "O Senhor é a minha força e o meu escudo! Por isso meu coração exulta e o louvo com meu cântico."
+    },
+    {
+      "numero": 8,
+      "texto": "O Senhor é a força do seu povo, uma fortaleza de salvação para o que lhe é consagrado."
+    },
+    {
+      "numero": 9,
+      "texto": "Salvai, Senhor, vosso povo e abençoai a vossa herança; sede seu pastor, levai-o nos braços eternamente."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "27:1",
+      "texto": "A declaração de que o Senhor é a luz e a salvação do salmista expressa a confiança plena em Deus. Essa afirmação sublinha a proteção e a orientação divina em meio à escuridão e ao medo (veja também Salmo 118:14 e João 8:12)."
+    },
+    {
+      "ref": "27:4",
+      "texto": "O desejo de habitar na casa do Senhor revela a importância da adoração e da presença de Deus na vida do crente. A busca pela beleza do Senhor é um anseio profundo por comunhão com Ele (veja também Salmo 84:1-2 e Hebreus 10:25)."
+    },
+    {
+      "ref": "27:7-8",
+      "texto": "O clamor do salmista para que Deus o ouça reflete a necessidade de relacionamento e comunicação com o Senhor. Esse desejo é fundamental para a vida de oração e intimidade com Deus (veja também Salmo 34:17 e 1 Pedro 5:7)."
+    },
+    {
+      "ref": "27:10",
+      "texto": "A lembrança de que, mesmo que a família o abandone, Deus o acolherá mostra a fidelidade divina em tempos de rejeição e solidão. Essa promessa é um consolo profundo para aqueles que enfrentam adversidades (veja também Salmo 68:6 e Isaías 49:15-16)."
+    },
+    {
+      "ref": "27:14",
+      "texto": "O chamado à espera pelo Senhor destaca a importância da paciência e da confiança na providência divina. A espera ativa é uma expressão de fé e esperança em Deus (veja também Salmo 37:7 e Lamentações 3:25-26)."
+    }
+  ]
+}

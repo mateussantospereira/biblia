@@ -1,0 +1,447 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/",
+  "capturadoEm": "2026-11-15T09:42:14-03:00",
+  "total": 73,
+  "livros": [
+    {
+      "ordem": 1,
+      "testamento": "AT",
+      "slug": "genesis",
+      "nome": "Gênesis"
+    },
+    {
+      "ordem": 2,
+      "testamento": "AT",
+      "slug": "exodo",
+      "nome": "Êxodo"
+    },
+    {
+      "ordem": 3,
+      "testamento": "AT",
+      "slug": "levitico",
+      "nome": "Levítico"
+    },
+    {
+      "ordem": 4,
+      "testamento": "AT",
+      "slug": "numeros",
+      "nome": "Números"
+    },
+    {
+      "ordem": 5,
+      "testamento": "AT",
+      "slug": "deuteronomio",
+      "nome": "Deuteronômio"
+    },
+    {
+      "ordem": 6,
+      "testamento": "AT",
+      "slug": "josue",
+      "nome": "Josué"
+    },
+    {
+      "ordem": 7,
+      "testamento": "AT",
+      "slug": "juizes",
+      "nome": "Juízes"
+    },
+    {
+      "ordem": 8,
+      "testamento": "AT",
+      "slug": "rute",
+      "nome": "Rute"
+    },
+    {
+      "ordem": 9,
+      "testamento": "AT",
+      "slug": "i-samuel",
+      "nome": "I Samuel"
+    },
+    {
+      "ordem": 10,
+      "testamento": "AT",
+      "slug": "ii-samuel",
+      "nome": "II Samuel"
+    },
+    {
+      "ordem": 11,
+      "testamento": "AT",
+      "slug": "i-reis",
+      "nome": "I Reis"
+    },
+    {
+      "ordem": 12,
+      "testamento": "AT",
+      "slug": "ii-reis",
+      "nome": "II Reis"
+    },
+    {
+      "ordem": 13,
+      "testamento": "AT",
+      "slug": "i-cronicas",
+      "nome": "I Crônicas"
+    },
+    {
+      "ordem": 14,
+      "testamento": "AT",
+      "slug": "ii-cronicas",
+      "nome": "II Crônicas"
+    },
+    {
+      "ordem": 15,
+      "testamento": "AT",
+      "slug": "esdras",
+      "nome": "Esdras"
+    },
+    {
+      "ordem": 16,
+      "testamento": "AT",
+      "slug": "neemias",
+      "nome": "Neemias"
+    },
+    {
+      "ordem": 17,
+      "testamento": "AT",
+      "slug": "tobias",
+      "nome": "Tobias"
+    },
+    {
+      "ordem": 18,
+      "testamento": "AT",
+      "slug": "judite",
+      "nome": "Judite"
+    },
+    {
+      "ordem": 19,
+      "testamento": "AT",
+      "slug": "ester",
+      "nome": "Ester"
+    },
+    {
+      "ordem": 20,
+      "testamento": "AT",
+      "slug": "jo",
+      "nome": "Jó"
+    },
+    {
+      "ordem": 21,
+      "testamento": "AT",
+      "slug": "salmos",
+      "nome": "Salmos"
+    },
+    {
+      "ordem": 22,
+      "testamento": "AT",
+      "slug": "i-macabeus",
+      "nome": "I Macabeus"
+    },
+    {
+      "ordem": 23,
+      "testamento": "AT",
+      "slug": "ii-macabeus",
+      "nome": "II Macabeus"
+    },
+    {
+      "ordem": 24,
+      "testamento": "AT",
+      "slug": "proverbios",
+      "nome": "Provérbios"
+    },
+    {
+      "ordem": 25,
+      "testamento": "AT",
+      "slug": "eclesiastes",
+      "nome": "Eclesiastes"
+    },
+    {
+      "ordem": 26,
+      "testamento": "AT",
+      "slug": "cantico-dos-canticos",
+      "nome": "Cântico dos Cânticos"
+    },
+    {
+      "ordem": 27,
+      "testamento": "AT",
+      "slug": "sabedoria",
+      "nome": "Sabedoria"
+    },
+    {
+      "ordem": 28,
+      "testamento": "AT",
+      "slug": "eclesiastico",
+      "nome": "Eclesiástico"
+    },
+    {
+      "ordem": 29,
+      "testamento": "AT",
+      "slug": "isaias",
+      "nome": "Isaías"
+    },
+    {
+      "ordem": 30,
+      "testamento": "AT",
+      "slug": "jeremias",
+      "nome": "Jeremias"
+    },
+    {
+      "ordem": 31,
+      "testamento": "AT",
+      "slug": "lamentacoes",
+      "nome": "Lamentações"
+    },
+    {
+      "ordem": 32,
+      "testamento": "AT",
+      "slug": "baruc",
+      "nome": "Baruc"
+    },
+    {
+      "ordem": 33,
+      "testamento": "AT",
+      "slug": "ezequiel",
+      "nome": "Ezequiel"
+    },
+    {
+      "ordem": 34,
+      "testamento": "AT",
+      "slug": "daniel",
+      "nome": "Daniel"
+    },
+    {
+      "ordem": 35,
+      "testamento": "AT",
+      "slug": "oseias",
+      "nome": "Oséias"
+    },
+    {
+      "ordem": 36,
+      "testamento": "AT",
+      "slug": "joel",
+      "nome": "Joel"
+    },
+    {
+      "ordem": 37,
+      "testamento": "AT",
+      "slug": "amos",
+      "nome": "Amós"
+    },
+    {
+      "ordem": 38,
+      "testamento": "AT",
+      "slug": "abdias",
+      "nome": "Abdias"
+    },
+    {
+      "ordem": 39,
+      "testamento": "AT",
+      "slug": "jonas",
+      "nome": "Jonas"
+    },
+    {
+      "ordem": 40,
+      "testamento": "AT",
+      "slug": "miqueias",
+      "nome": "Miquéias"
+    },
+    {
+      "ordem": 41,
+      "testamento": "AT",
+      "slug": "naum",
+      "nome": "Naum"
+    },
+    {
+      "ordem": 42,
+      "testamento": "AT",
+      "slug": "habacuc",
+      "nome": "Habacuc"
+    },
+    {
+      "ordem": 43,
+      "testamento": "AT",
+      "slug": "sofonias",
+      "nome": "Sofonias"
+    },
+    {
+      "ordem": 44,
+      "testamento": "AT",
+      "slug": "ageu",
+      "nome": "Ageu"
+    },
+    {
+      "ordem": 45,
+      "testamento": "AT",
+      "slug": "zacarias",
+      "nome": "Zacarias"
+    },
+    {
+      "ordem": 46,
+      "testamento": "AT",
+      "slug": "malaquias",
+      "nome": "Malaquias"
+    },
+    {
+      "ordem": 47,
+      "testamento": "NT",
+      "slug": "sao-mateus",
+      "nome": "São Mateus"
+    },
+    {
+      "ordem": 48,
+      "testamento": "NT",
+      "slug": "sao-marcos",
+      "nome": "São Marcos"
+    },
+    {
+      "ordem": 49,
+      "testamento": "NT",
+      "slug": "sao-lucas",
+      "nome": "São Lucas"
+    },
+    {
+      "ordem": 50,
+      "testamento": "NT",
+      "slug": "sao-joao",
+      "nome": "São João"
+    },
+    {
+      "ordem": 51,
+      "testamento": "NT",
+      "slug": "atos-dos-apostolos",
+      "nome": "Atos dos Apóstolos"
+    },
+    {
+      "ordem": 52,
+      "testamento": "NT",
+      "slug": "romanos",
+      "nome": "Romanos"
+    },
+    {
+      "ordem": 53,
+      "testamento": "NT",
+      "slug": "i-corintios",
+      "nome": "I Coríntios"
+    },
+    {
+      "ordem": 54,
+      "testamento": "NT",
+      "slug": "ii-corintios",
+      "nome": "II Coríntios"
+    },
+    {
+      "ordem": 55,
+      "testamento": "NT",
+      "slug": "galatas",
+      "nome": "Gálatas"
+    },
+    {
+      "ordem": 56,
+      "testamento": "NT",
+      "slug": "efesios",
+      "nome": "Efésios"
+    },
+    {
+      "ordem": 57,
+      "testamento": "NT",
+      "slug": "filipenses",
+      "nome": "Filipenses"
+    },
+    {
+      "ordem": 58,
+      "testamento": "NT",
+      "slug": "colossenses",
+      "nome": "Colossenses"
+    },
+    {
+      "ordem": 59,
+      "testamento": "NT",
+      "slug": "i-tessalonicenses",
+      "nome": "I Tessalonicenses"
+    },
+    {
+      "ordem": 60,
+      "testamento": "NT",
+      "slug": "ii-tessalonicenses",
+      "nome": "II Tessalonicenses"
+    },
+    {
+      "ordem": 61,
+      "testamento": "NT",
+      "slug": "i-timoteo",
+      "nome": "I Timóteo"
+    },
+    {
+      "ordem": 62,
+      "testamento": "NT",
+      "slug": "ii-timoteo",
+      "nome": "II Timóteo"
+    },
+    {
+      "ordem": 63,
+      "testamento": "NT",
+      "slug": "tito",
+      "nome": "Tito"
+    },
+    {
+      "ordem": 64,
+      "testamento": "NT",
+      "slug": "filemon",
+      "nome": "Filêmon"
+    },
+    {
+      "ordem": 65,
+      "testamento": "NT",
+      "slug": "hebreus",
+      "nome": "Hebreus"
+    },
+    {
+      "ordem": 66,
+      "testamento": "NT",
+      "slug": "sao-tiago",
+      "nome": "São Tiago"
+    },
+    {
+      "ordem": 67,
+      "testamento": "NT",
+      "slug": "i-sao-pedro",
+      "nome": "I São Pedro"
+    },
+    {
+      "ordem": 68,
+      "testamento": "NT",
+      "slug": "ii-sao-pedro",
+      "nome": "II São Pedro"
+    },
+    {
+      "ordem": 69,
+      "testamento": "NT",
+      "slug": "i-sao-joao",
+      "nome": "I São João"
+    },
+    {
+      "ordem": 70,
+      "testamento": "NT",
+      "slug": "ii-sao-joao",
+      "nome": "II São João"
+    },
+    {
+      "ordem": 71,
+      "testamento": "NT",
+      "slug": "iii-sao-joao",
+      "nome": "III São João"
+    },
+    {
+      "ordem": 72,
+      "testamento": "NT",
+      "slug": "sao-judas",
+      "nome": "São Judas"
+    },
+    {
+      "ordem": 73,
+      "testamento": "NT",
+      "slug": "apocalipse",
+      "nome": "Apocalipse"
+    }
+  ]
+}

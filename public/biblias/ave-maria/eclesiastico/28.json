@@ -1,0 +1,161 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "eclesiastico",
+  "nome": "Eclesiástico",
+  "testamento": "AT",
+  "capitulo": 28,
+  "totalVersiculos": 30,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/eclesiastico/28/",
+  "capturadoEm": "2026-11-15T09:20:49-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Aquele que quer vingar sofrerá a vingança do Senhor, que guardará cuidadosamente os seus pecados."
+    },
+    {
+      "numero": 2,
+      "texto": "Perdoa ao teu próximo o mal que te fez, e teus pecados serão perdoados quando o pedires."
+    },
+    {
+      "numero": 3,
+      "texto": "Um homem guarda rancor contra outro homem, e pede a Deus a sua cura!"
+    },
+    {
+      "numero": 4,
+      "texto": "Não tem misericórdia para com o seu semelhante, e roga o perdão dos seus pecados!"
+    },
+    {
+      "numero": 5,
+      "texto": "Ele, que é apenas carne, guarda rancor, e pede a Deus que lhe seja propício! Quem, então, lhe conseguirá o perdão de seus pecados?"
+    },
+    {
+      "numero": 6,
+      "texto": "Lembra-te do teu fim, e põe termo às tuas inimizades,"
+    },
+    {
+      "numero": 7,
+      "texto": "pois a decadência e a morte são uma ameaça para aqueles que transgridem os mandamentos.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Lembra-te do temor a Deus, e não fiques irado contra o próximo.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Lembra-te da aliança com o Altíssimo, e passa por cima do erro que o teu próximo cometeu inadvertidamente."
+    },
+    {
+      "numero": 10,
+      "texto": "Evita a desavença e diminuirás os pecados."
+    },
+    {
+      "numero": 11,
+      "texto": "O homem irascível provoca as querelas; o pecador espalha a inquietação entre seus amigos, e semeia a inimizade no meio de pessoas que vivem em paz."
+    },
+    {
+      "numero": 12,
+      "texto": "O fogo queima na proporção da lenha que há na floresta; a ira do homem inflama-se na medida de seu poder, e desenvolve-se em proporção de sua riqueza."
+    },
+    {
+      "numero": 13,
+      "texto": "Uma querela precipitada acende o fogo; a presteza na disputa derrama sangue; e a língua que presta falso testemunho causa a morte."
+    },
+    {
+      "numero": 14,
+      "texto": "Sopra sobre uma centelha e ela se abrasará; cospe sobre ela e ela se apagará: ambos saem de tua boca."
+    },
+    {
+      "numero": 15,
+      "texto": "Maldito o delator e o homem que diz branco e preto, pois semeiam a discórdia entre muita gente que vive em paz."
+    },
+    {
+      "numero": 16,
+      "texto": "A língua de um terceiro abalou muitos deles, e os afugentou de uma nação a outra.",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "Ela destruiu as cidades fortes dos ricos, e arrasou as casas dos poderosos."
+    },
+    {
+      "numero": 18,
+      "texto": "Desbaratou os exércitos dos povos, e dispersou nações valentes."
+    },
+    {
+      "numero": 19,
+      "texto": "A língua de um terceiro fez repudiar mulheres superiores, e privou-as do fruto de seu labor."
+    },
+    {
+      "numero": 20,
+      "texto": "Aquele que o ouve não terá paz, não terá amigo em quem tenha confiança.",
+      "nota": true
+    },
+    {
+      "numero": 21,
+      "texto": "A chicotada produz um ferimento, porém uma língua má quebra os ossos."
+    },
+    {
+      "numero": 22,
+      "texto": "Muitos homens morreram a fio de espada, mas não tantos quantos os que pereceram por causa da língua."
+    },
+    {
+      "numero": 23,
+      "texto": "Feliz aquele que está ao abrigo da língua perversa, que não passou pela cólera dela, que não atraiu sobre si o seu jugo, e que não foi atado pelas suas correntes,"
+    },
+    {
+      "numero": 24,
+      "texto": "pois o jugo dela é um jugo de ferro, e suas correntes, correntes de bronze."
+    },
+    {
+      "numero": 25,
+      "texto": "A morte que ela dá é morte desastrada, e a moradia dos mortos é-lhe preferível."
+    },
+    {
+      "numero": 26,
+      "texto": "Ela durará, mas não sempre; ela dominará o proceder dos injustos, e os justos não serão devorados pelas suas chamas.",
+      "nota": true
+    },
+    {
+      "numero": 27,
+      "texto": "Aqueles que abandonam Deus lhe serão entregues: ela os consumirá sem se apagar; ela se lançará sobre eles como um leão; e os estraçalhará como um leopardo."
+    },
+    {
+      "numero": 28,
+      "texto": "Protege teus ouvidos com uma sebe de espinhos; não dês ouvidos à língua maldosa, e põe em tua boca uma porta com ferrolhos."
+    },
+    {
+      "numero": 29,
+      "texto": "Derrete teu ouro e tua prata; faze uma balança para pesar as tuas palavras, e para a tua boca, um freio bem ajustado.",
+      "nota": true
+    },
+    {
+      "numero": 30,
+      "texto": "Tem cuidado para não pecar pela língua, para não caíres na presença dos inimigos que te espreitam, e para que não venha o teu pecado a ser incurável e mortal."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "28:1-2",
+      "texto": "O autor ensina que a pessoa que guarda rancor contra o próximo não encontrará perdão de Deus. O perdão dos pecados de uma pessoa está ligado à sua capacidade de perdoar os outros, um princípio central da misericórdia divina (veja também Mateus 6:14-15 e Colossenses 3:13)."
+    },
+    {
+      "ref": "28:3-5",
+      "texto": "Como pode alguém pedir perdão a Deus se não perdoa seu próximo? Isso reforça a ideia de que o perdão é um ato recíproco, e que nossa relação com Deus depende da nossa disposição de perdoar os outros (veja também Mateus 18:21-35 e Lucas 6:37)."
+    },
+    {
+      "ref": "28:7-9",
+      "texto": "O autor alerta contra a ira persistente, aconselhando que se evite disputas e rancores. A ira e a raiva levam à divisão e destruição de relacionamentos. O conselho da Escritura é buscar a paz e a reconciliação (veja também Provérbios 15:18 e Tiago 1:19-20)."
+    },
+    {
+      "ref": "28:12-13",
+      "texto": "A língua é comparada a uma arma poderosa que pode destruir amizades e criar inimizades. A fofoca é condenada como uma prática que espalha o mal e causa grande dano nas relações interpessoais (veja também Provérbios 16:28 e Tiago 3:6-8)."
+    },
+    {
+      "ref": "28:15-18",
+      "texto": "A língua que mente e difama é comparada a uma arma mortal, capaz de destruir tanto fisicamente quanto espiritualmente. O autor enfatiza o poder das palavras para causar danos e convoca os leitores a controlarem sua língua (veja também Provérbios 18:21 e Salmo 34:13)."
+    }
+  ]
+}

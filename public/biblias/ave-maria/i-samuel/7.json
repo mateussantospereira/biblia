@@ -1,0 +1,104 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-samuel",
+  "nome": "I Samuel",
+  "testamento": "AT",
+  "capitulo": 7,
+  "totalVersiculos": 17,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-samuel/7/",
+  "capturadoEm": "2026-11-15T09:11:20-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Vieram, pois, os habitantes de Caria-tarim, transportaram a arca do Senhor, puseram-na em casa de Abinadab, sobre a colina e consagraram o seu filho Eleazar para que a guardasse."
+    },
+    {
+      "numero": 2,
+      "texto": "E o tempo passou. Decorridos vinte anos desde o dia em que a arca fora levada para Cariatarim, todo o Israel se lamentava, invocando o Senhor."
+    },
+    {
+      "numero": 3,
+      "texto": "E Samuel falou a todo o povo de Israel, dizendo: “Se voltardes de todo o vosso coração para o Senhor, tirando do meio de vós os deuses estranhos e as Astarot, se vos apegardes de todo o vosso coração ao Senhor e só a ele servirdes, então ele vos livrará das mãos dos filisteus”."
+    },
+    {
+      "numero": 4,
+      "texto": "Os israelitas afastaram os baals e as astartes e serviram só ao Senhor."
+    },
+    {
+      "numero": 5,
+      "texto": "“Convocai todo o Israel em Masfa – disse Samuel – e orarei por vós ao Senhor.”"
+    },
+    {
+      "numero": 6,
+      "texto": "Reuniram-se em Masfa, tiraram água, derramaram-na diante do Senhor e jejuaram aquele dia, dizendo: “Pecamos contra o Senhor”. Samuel era juiz de Israel, em Masfa."
+    },
+    {
+      "numero": 7,
+      "texto": "Os filisteus foram informados de que os israelitas tinham se juntado em Masfa e os seus príncipes marcharam contra Israel. Os israelitas o souberam e ficaram aterrorizados."
+    },
+    {
+      "numero": 8,
+      "texto": "Disseram a Samuel: “Não cesses de clamar por nós ao Senhor, nosso Deus, para que ele nos salve das mãos dos filisteus”."
+    },
+    {
+      "numero": 9,
+      "texto": "Samuel tomou um cordeiro de leite e ofereceu-o inteiro em holocausto ao Senhor; depois, clamou ao Senhor por Israel e o Senhor o ouviu."
+    },
+    {
+      "numero": 10,
+      "texto": "Enquanto Samuel oferecia o holocausto, os filisteus começaram o combate contra Israel. O Senhor, porém, trovejou com a sua voz fortíssima sobre os filisteus naquele momento e eles se dispersaram, sendo batidos pelos israelitas."
+    },
+    {
+      "numero": 11,
+      "texto": "Os vencedores, saindo de Masfa, perseguiram os filisteus e feriram-nos até o lugar que está por baixo de Bet-Car."
+    },
+    {
+      "numero": 12,
+      "texto": "Tomou Samuel uma pedra e pô-la entre Masfa e Sen, dando-lhe o nome de Eben-Ezer, pois disse: “Até aqui nos socorreu o Senhor”.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Humilhados dessa forma, os filisteus não tentaram mais voltar ao território de Israel. A mão do Senhor pesou sobre os filisteus durante toda a vida de Samuel."
+    },
+    {
+      "numero": 14,
+      "texto": "Foram devolvidas a Israel as cidades que os filisteus lhes tinham tomado, desde Acaron até Gat. Israel livrou sua terra das mãos dos filisteus e havia paz entre Israel e os amorreus."
+    },
+    {
+      "numero": 15,
+      "texto": "Samuel foi juiz em Israel durante toda a sua vida."
+    },
+    {
+      "numero": 16,
+      "texto": "Ia a cada ano visitar Betel, Gálgala e Masfa, onde pronunciava os seus juízos em favor de todo o Israel."
+    },
+    {
+      "numero": 17,
+      "texto": "Voltava depois para Ramá, onde habitava. Ali também julgava Israel e edificou naquele lugar um altar ao Senhor."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "7:1-2",
+      "texto": "A Arca é levada para a casa de Abinadabe, onde permanece por muitos anos. Esse período reflete um tempo de espera e arrependimento para Israel, preparando o povo para um retorno à fidelidade a Deus (veja também 2 Samuel 6:3-4 e Isaías 30:18)."
+    },
+    {
+      "ref": "7:3-4",
+      "texto": "Samuel convoca Israel ao arrependimento, pedindo que removam os deuses estrangeiros e sirvam somente ao Senhor. Esse chamado à pureza espiritual e fidelidade é central para o relacionamento de Israel com Deus (veja também Josué 24:14-15 e Deuteronômio 6:13-14)."
+    },
+    {
+      "ref": "7:5-6",
+      "texto": "O povo se reúne em Mispá para confessar seus pecados e buscar o Senhor. A confissão pública de pecados e o jejum são atos de humildade diante de Deus, mostrando o reconhecimento da necessidade de perdão (veja também Salmo 32:5 e Tiago 5:16)."
+    },
+    {
+      "ref": "7:7-11",
+      "texto": "Deus concede vitória a Israel sobre os filisteus em resposta à intercessão de Samuel, reforçando a importância da oração e da dependência de Deus para triunfar sobre os inimigos (veja também 2 Crônicas 20:15 e Tiago 5:17-18)."
+    },
+    {
+      "ref": "7:12-14",
+      "texto": "Samuel ergue uma pedra, chamando-a de Ebenézer, que significa \"Até aqui nos ajudou o Senhor\". Este ato memorializa a fidelidade de Deus em proteger e sustentar Seu povo, servindo como lembrete constante de Sua presença (veja também Salmo 121:1-2 e Gênesis 28:18-19)."
+    }
+  ]
+}

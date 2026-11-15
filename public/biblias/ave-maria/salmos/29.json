@@ -1,0 +1,88 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 29,
+  "totalVersiculos": 13,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/29/",
+  "capturadoEm": "2026-11-15T09:16:31-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Salmo. Cântico para a dedicação da casa de Deus. De Davi.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Eu vos exaltarei, Senhor, porque me livrastes, não permitistes que exultassem sobre mim meus inimigos."
+    },
+    {
+      "numero": 3,
+      "texto": "Senhor, meu Deus, clamei a vós e fui curado."
+    },
+    {
+      "numero": 4,
+      "texto": "Senhor, minha alma foi tirada por vós da habitação dos mortos; dentre os que descem para o túmulo, vós me salvastes."
+    },
+    {
+      "numero": 5,
+      "texto": "Ó vós, fiéis do Senhor, cantai sua glória, dai graças ao seu santo nome."
+    },
+    {
+      "numero": 6,
+      "texto": "Porque a sua indignação dura apenas um momento, enquanto sua benevolência é para toda a vida. Pela tarde, vem o pranto, mas, de manhã, volta a alegria."
+    },
+    {
+      "numero": 7,
+      "texto": "Eu, porém, disse, seguro de mim: “Não serei jamais abalado”."
+    },
+    {
+      "numero": 8,
+      "texto": "Senhor, foi por favor que me destes honra e poder, mas quando escondestes vossa face fiquei aterrado."
+    },
+    {
+      "numero": 9,
+      "texto": "A vós, Senhor, eu clamo, e imploro a misericórdia de meu Deus."
+    },
+    {
+      "numero": 10,
+      "texto": "“Que proveito vos resultará de retomar-me a vida, de minha descida ao túmulo? Porventura vos louvará o meu pó? Apregoará ele a vossa fidelidade?"
+    },
+    {
+      "numero": 11,
+      "texto": "Ouvi-me, Senhor, e tende piedade de mim; Senhor, vinde em minha ajuda.”"
+    },
+    {
+      "numero": 12,
+      "texto": "Vós convertestes o meu pranto em prazer, tirastes minhas vestes de penitência e me cingistes de alegria."
+    },
+    {
+      "numero": 13,
+      "texto": "Assim, minha alma vos louvará sem calar jamais. Senhor, meu Deus, eu vos bendirei eternamente."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "29:1-2",
+      "texto": "O salmista convoca os filhos de Deus a reconhecerem a majestade de Deus. A adoração é apresentada como uma resposta natural à grandeza divina, ressaltando a importância de honrar a Deus em Sua glória (veja também 1 Crônicas 16:29 e Salmo 96:8-9)."
+    },
+    {
+      "ref": "29:3-4",
+      "texto": "A voz do Senhor é poderosa e cheia de majestade. Este versículo destaca a soberania de Deus sobre a criação e o poder transformador de Sua palavra, enfatizando a reverência que devemos ter diante de Sua voz (veja também Salmo 104:7 e Hebreus 4:12)."
+    },
+    {
+      "ref": "29:5-6",
+      "texto": "A voz do Senhor quebra os cedros e faz tremer o deserto. Essa imagem revela o controle de Deus sobre a natureza e Sua capacidade de trazer julgamento e transformação, lembrando-nos de que Ele é o Criador e Sustentador (veja também Isaías 40:12 e Apocalipse 1:8)."
+    },
+    {
+      "ref": "29:7-9",
+      "texto": "A descrição dos efeitos da voz de Deus destaca Sua autoridade e poder sobre as forças da natureza. A resposta da criação à voz de Deus deve nos inspirar a adorar e reconhecer Sua soberania (veja também Salmo 46:6 e Salmo 66:5)."
+    },
+    {
+      "ref": "29:10-11",
+      "texto": "Deus é exaltado acima do dilúvio e reina para sempre. Este versículo conclui com a certeza de que, em meio às tempestades da vida, Deus é nossa força e paz, oferecendo segurança e bênçãos aos Seus filhos (veja também Salmo 46:1 e Filipenses 4:7)."
+    }
+  ]
+}

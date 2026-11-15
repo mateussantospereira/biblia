@@ -1,0 +1,198 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "jeremias",
+  "nome": "Jeremias",
+  "testamento": "AT",
+  "capitulo": 23,
+  "totalVersiculos": 40,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/jeremias/23/",
+  "capturadoEm": "2026-11-15T09:22:43-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ai dos pastores que deixam perder-se e dispersar-se o rebanho miúdo de minha pastagem! – oráculo do Senhor."
+    },
+    {
+      "numero": 2,
+      "texto": "Por isso, assim fala o Senhor, Deus de Israel, acerca dos pastores que apascentam o meu povo: “Dispersastes o meu rebanho e o afugentastes, sem dele vos ocupar. Eu, porém, vou ocupar-me à vossa custa da malícia de tal procedimento – oráculo do Senhor."
+    },
+    {
+      "numero": 3,
+      "texto": "Reunirei o que restar das minhas ovelhas, espalhadas pelos países em que as exilei e as trarei para as pastagens em que se hão de multiplicar."
+    },
+    {
+      "numero": 4,
+      "texto": "Escolherei para elas pastores que as apascentarão, de sorte que não tenham receios nem temores, e já nenhuma delas se extravie – oráculo do Senhor”."
+    },
+    {
+      "numero": 5,
+      "texto": "Dias virão – oráculo do Senhor – em que farei brotar de Davi um rebento justo que será rei e governará com sabedoria e exercerá na terra o direito e a equidade.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Sob seu reinado será salvo Judá, e viverá Israel em segurança. E eis o nome com que será chamado: Javé-Nossa-Justiça!",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "Eis por que chegarão dias – oráculo do Senhor – em que não se dirá mais: “Viva Deus, que tirou do Egito os filhos de Israel”."
+    },
+    {
+      "numero": 8,
+      "texto": "Mas sim: “Viva Deus, que fez voltar os israelitas do norte e de todas as terras, aonde os exilara, trazendo-os à pátria”."
+    },
+    {
+      "numero": 9,
+      "texto": "Aos profetas. Parte-se dentro de mim o coração, e se me abalaram todos os ossos. Assemelho-me a um ébrio, qual homem prostrado pelo vinho, por causa do Senhor e de sua palavra santa.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "A terra está cheia de adultérios e está em luto esta terra maldita. As pastagens do deserto ressecaram e os homens correm para o mal. É a iniquidade que lhes dá forças."
+    },
+    {
+      "numero": 11,
+      "texto": "São profanos o próprio profeta e o sacerdote. Até no meu templo encontro sua perversidade – oráculo do Senhor."
+    },
+    {
+      "numero": 12,
+      "texto": "Por isso, o seu caminho será como um caminho escorregadio nas trevas, e lá se entrechocarão e hão de cair. Pois precipitarei a desgraça sobre eles no ano em que os castigar – oráculo do Senhor."
+    },
+    {
+      "numero": 13,
+      "texto": "Entre os profetas samaritanos vi absurdos: profetizaram em nome de Baal e desencaminharam meu povo de Israel."
+    },
+    {
+      "numero": 14,
+      "texto": "Mas entre os profetas de Jerusalém vejo coisas hediondas: adultério e hipocrisia. Encorajam os maus, para que nenhum se converta da maldade. A meus olhos são todos iguais a Sodoma e seus congêneres semelhantes a Gomorra.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Por isso, eis o oráculo do Senhor dos exércitos, contra os profetas: vou nutri-los com absinto, e dar-lhes de beber águas contaminadas. Porquanto, é pela atitude dos profetas de Jerusalém que a impiedade invadiu a terra."
+    },
+    {
+      "numero": 16,
+      "texto": "Eis o que diz o Senhor dos exércitos: Não escuteis os profetas que vos transmitem vãos oráculos; são visões do próprio espírito que vos divulgam, e não as palavras do Senhor."
+    },
+    {
+      "numero": 17,
+      "texto": "Não cessam de proclamar aos que me desprezam: “Oráculo do Senhor: Tudo irá bem para vós!” e aos que seguem, obstinadamente, as tendências do coração dizem ainda: “Nada de mal vos acontecerá”."
+    },
+    {
+      "numero": 18,
+      "texto": "Mas qual deles assistiu à deliberação do Senhor? Quem o viu, e lhe escutou a palavra? Quem a ouviu e lhe prestou atenção?"
+    },
+    {
+      "numero": 19,
+      "texto": "Ora, eis que explode a tempestade do Senhor, o seu furor, e a tormenta que redemoinha, prestes a cair sobre a cabeça dos maus."
+    },
+    {
+      "numero": 20,
+      "texto": "Não se acalmará a cólera do Senhor, enquanto não se executarem e cumprirem seus desígnios. Somente nos dias que virão os entendereis plenamente."
+    },
+    {
+      "numero": 21,
+      "texto": "Não enviei tais profetas: são eles que correm; nem jamais lhes falei; e, no entanto, proferiram oráculos."
+    },
+    {
+      "numero": 22,
+      "texto": "Houvessem eles assistido à minha deliberação, e seriam minhas as palavras que haveriam de proferir, fazendo que meu povo renunciasse à perversidade de seu procedimento."
+    },
+    {
+      "numero": 23,
+      "texto": "Porventura eu sou Deus apenas quando estou perto? – oráculo do Senhor. Não o sou também quando de longe?"
+    },
+    {
+      "numero": 24,
+      "texto": "Poderá um homem se ocultar de tal modo que eu o não veja? – oráculo do Senhor. Porventura não enche minha presença o céu e a terra? – oráculo do Senhor."
+    },
+    {
+      "numero": 25,
+      "texto": "Ouço o que dizem os profetas que proferem em meu nome falsos oráculos. “Tive um sonho. Tive um sonho!”"
+    },
+    {
+      "numero": 26,
+      "texto": "Quanto tempo vai durar isso? Julgam esses profetas, ao proferirem mentiras e as imposturas de seus corações,"
+    },
+    {
+      "numero": 27,
+      "texto": "que irão, pelos sonhos que contam uns aos outros, tornar meu nome esquecido do povo, assim como aconteceu a seus pais, que esqueceram o meu nome por causa do de Baal?"
+    },
+    {
+      "numero": 28,
+      "texto": "Conte o profeta o sonho que tiver! Mas, a quem for dado ouvir-me a palavra, que fielmente a reproduza. Que vem fazer a palha com o grão? – oráculo do Senhor.",
+      "nota": true
+    },
+    {
+      "numero": 29,
+      "texto": "Não se assemelha ao fogo minha palavra – oráculo do Senhor –, qual martelo que fende a rocha?"
+    },
+    {
+      "numero": 30,
+      "texto": "Eis por que – oráculo do Senhor – vou lançar-me contra os profetas que imitam minhas revelações falando a outros."
+    },
+    {
+      "numero": 31,
+      "texto": "Vou pedir contas aos profetas, cujas línguas não vacilam em proclamar: oráculo do Senhor."
+    },
+    {
+      "numero": 32,
+      "texto": "Irei contra os profetas de sonhos enganadores que, ao narrá-los, ludibriam com mentiras e fatuidade o meu povo, quando nem missão lhes outorguei, nem mandato algum, e de nenhuma valia são para esse povo – oráculo do Senhor."
+    },
+    {
+      "numero": 33,
+      "texto": "Quando esse povo ou algum profeta ou sacerdote vier perguntar-te: “Qual o novo fardo do Senhor que anuncias?” tu lhe dirás: “Fardo? És tu esse fardo, e dele me alijarei – oráculo do Senhor”.",
+      "nota": true
+    },
+    {
+      "numero": 34,
+      "texto": "E o profeta, o sacerdote ou o leigo, que ousar dizer: oráculo do Senhor, eu o castigarei, assim como a sua família."
+    },
+    {
+      "numero": 35,
+      "texto": "Eis como entre vós deveis exprimir-vos: “Que respondeu o Senhor?” ou: “Que disse o Senhor?”"
+    },
+    {
+      "numero": 36,
+      "texto": "Não repitais, porém: oráculo do Senhor, porquanto tal palavra se tornará um fardo para cada um, já que deturpais o sentido das palavras de Deus."
+    },
+    {
+      "numero": 37,
+      "texto": "Ao profeta dirás portanto: “Que te respondeu o Senhor? Que te disse o Senhor?”."
+    },
+    {
+      "numero": 38,
+      "texto": "Se, porém, empregardes esta palavra: oráculo do Senhor, sendo que vos adverti de que não a deveríeis repetir,"
+    },
+    {
+      "numero": 39,
+      "texto": "por tal motivo eu vos erguerei qual um fardo e longe de mim vos lançarei, bem como a cidade que a vós e a vossos pais havia outorgado.",
+      "nota": true
+    },
+    {
+      "numero": 40,
+      "texto": "Eu vos afligirei com um perpétuo opróbrio, uma eterna vergonha, inesquecível."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "23:1-2",
+      "texto": "A condenação aos pastores de Israel que falharam em cuidar do povo é dada. Os líderes corruptos são responsabilizados pela dispersão do rebanho. Deus promete restaurar o povo, enviando um \"Renovo Justo\", uma referência messiânica a Cristo (veja também Ezequiel 34:2-10 e João 10:11)."
+    },
+    {
+      "ref": "23:3-4",
+      "texto": "Deus promete reunir o remanescente de Israel e Judá, e o povo será governado por um líder justo e fiel. Isso aponta para o futuro messiânico e o governo de Cristo, o Pastor Supremo (veja também Isaías 11:10 e Mateus 2:6)."
+    },
+    {
+      "ref": "23:5-6",
+      "texto": "A promessa de um \"Renovo Justo\" que reinará com sabedoria e justiça é uma esperança para o futuro. Isso reforça o conceito de um líder divinamente enviado para corrigir a corrupção e restaurar a ordem (veja também Jeremias 33:15 e Lucas 1:32-33)."
+    },
+    {
+      "ref": "23:9-11",
+      "texto": "Jeremias lamenta a corrupção dos profetas e sacerdotes, denunciando a falsidade e a imoralidade que permeiam o povo. O pecado dos líderes espirituais prejudica toda a nação (veja também Ezequiel 13:2-16 e Mateus 7:15)."
+    }
+  ]
+}

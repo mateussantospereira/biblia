@@ -1,0 +1,84 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 142,
+  "totalVersiculos": 12,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/142/",
+  "capturadoEm": "2026-11-15T09:18:29-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Salmo de Davi. Senhor, ouvi a minha oração; pela vossa fidelidade, escutai a minha súplica, atendei-me em nome de vossa justiça.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Não entreis em juízo com o vosso servo, porque ninguém que viva é justo diante de vós."
+    },
+    {
+      "numero": 3,
+      "texto": "O inimigo trama contra a minha vida, ele me prostrou por terra; relegou-me para as trevas com os mortos."
+    },
+    {
+      "numero": 4,
+      "texto": "Desfalece-me o espírito dentro de mim, gela-me no peito o coração."
+    },
+    {
+      "numero": 5,
+      "texto": "Lembro-me dos dias de outrora, penso em tudo aquilo que fizestes, reflito nas obras de vossas mãos."
+    },
+    {
+      "numero": 6,
+      "texto": "Estendo para vós os braços: minha alma, como terra árida, tem sede de vós."
+    },
+    {
+      "numero": 7,
+      "texto": "Apressai-vos em me atender, Senhor, pois estou a ponto de desfalecer. Não me oculteis a vossa face, para que não me torne como os que descem à sepultura."
+    },
+    {
+      "numero": 8,
+      "texto": "Fazei-me sentir, logo, vossa bondade, porque ponho em vós a minha confiança. Mostrai-me o caminho que devo seguir, porque é para vós que se eleva a minha alma."
+    },
+    {
+      "numero": 9,
+      "texto": "Livrai-me, Senhor, de meus inimigos, porque é em vós que ponho a minha esperança."
+    },
+    {
+      "numero": 10,
+      "texto": "Ensinai-me a fazer vossa vontade, pois sois o meu Deus. Que vosso Espírito de bondade me conduza pelo caminho reto."
+    },
+    {
+      "numero": 11,
+      "texto": "Por amor de vosso nome, Senhor, conservai-me a vida; em nome de vossa clemência, livrai minha alma de suas angústias."
+    },
+    {
+      "numero": 12,
+      "texto": "Pela vossa bondade, destruí meus inimigos e exterminai todos os que me oprimem, pois sou vosso servo."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "142:1-2",
+      "texto": "O salmista derrama sua queixa perante Deus em oração, confiando que Ele ouve e se preocupa com as aflições de Seu povo. Esse ato de vulnerabilidade reflete a importância de levar as angústias ao Senhor em tempos de tribulação (veja também Filipenses 4:6-7 e Salmo 62:8)."
+    },
+    {
+      "ref": "142:3-4",
+      "texto": "Quando o salmista está cercado de dificuldades, ele se sente desamparado e abandonado pelos homens. No entanto, sua confiança em Deus permanece, reconhecendo que só o Senhor é seu verdadeiro socorro (veja também Isaías 41:10 e Hebreus 13:5)."
+    },
+    {
+      "ref": "142:5",
+      "texto": "O salmista declara que Deus é sua porção e refúgio na terra dos viventes, mostrando sua total dependência da providência divina. Isso reflete a entrega completa ao cuidado e à provisão de Deus (veja também Lamentações 3:24 e Salmo 73:26)."
+    },
+    {
+      "ref": "142:6",
+      "texto": "O clamor por livramento é um apelo ao poder de Deus para resgatar o salmista dos inimigos. Essa oração mostra que, mesmo nas circunstâncias mais sombrias, a esperança no livramento de Deus permanece viva (veja também Salmo 34:17 e Salmo 91:15)."
+    },
+    {
+      "ref": "142:7",
+      "texto": "O salmista pede para ser libertado do cativeiro para que possa louvar a Deus. Isso ressalta que a libertação divina é para a glória de Deus e para que Seu nome seja exaltado entre os justos (veja também Salmo 107:14-15 e Salmo 50:15)."
+    }
+  ]
+}

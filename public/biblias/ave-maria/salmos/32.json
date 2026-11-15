@@ -1,0 +1,124 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 32,
+  "totalVersiculos": 22,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/32/",
+  "capturadoEm": "2026-11-15T09:16:34-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Exultai no Senhor, ó justos, pois aos retos convém o louvor.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Celebrai o Senhor com a cítara, entoai-lhe hinos na harpa de dez cordas."
+    },
+    {
+      "numero": 3,
+      "texto": "Cantai-lhe um cântico novo, acompanhado de instrumentos de música,"
+    },
+    {
+      "numero": 4,
+      "texto": "porque a palavra do Senhor é reta, em todas as suas obras resplandece a fidelidade:"
+    },
+    {
+      "numero": 5,
+      "texto": "ele ama a justiça e o direito, da bondade do Senhor está cheia a terra."
+    },
+    {
+      "numero": 6,
+      "texto": "Pela palavra do Senhor foram feitos os céus, e pelo sopro de sua boca todo o seu exército."
+    },
+    {
+      "numero": 7,
+      "texto": "Ele junta as águas do mar como num cantil, e em reservatórios encerra as ondas."
+    },
+    {
+      "numero": 8,
+      "texto": "Tema ao Senhor toda a terra; reverenciem-no todos os habitantes do globo."
+    },
+    {
+      "numero": 9,
+      "texto": "Porque ele disse e tudo foi feito, ele ordenou e tudo existiu."
+    },
+    {
+      "numero": 10,
+      "texto": "O Senhor desfaz os planos das nações pagãs, reduz a nada os projetos dos povos."
+    },
+    {
+      "numero": 11,
+      "texto": "Só os desígnios do Senhor permanecem eternamente e os pensamentos de seu coração por todas as gerações."
+    },
+    {
+      "numero": 12,
+      "texto": "Feliz a nação que tem o Senhor por seu Deus, e o povo que ele escolheu para sua herança."
+    },
+    {
+      "numero": 13,
+      "texto": "O Senhor olha do céu, vê todos os filhos dos homens."
+    },
+    {
+      "numero": 14,
+      "texto": "Do alto de sua morada observa todos os habitantes da terra;"
+    },
+    {
+      "numero": 15,
+      "texto": "ele, que formou o coração de cada um, está atento a cada uma de suas ações."
+    },
+    {
+      "numero": 16,
+      "texto": "Não vence o rei pelo numeroso exército, nem se livra o guerreiro pela grande força."
+    },
+    {
+      "numero": 17,
+      "texto": "O cavalo não é penhor de vitória, nem salva pela sua resistência."
+    },
+    {
+      "numero": 18,
+      "texto": "Eis os olhos do Senhor pousados sobre os que o temem, sobre os que esperam na sua bondade,"
+    },
+    {
+      "numero": 19,
+      "texto": "a fim de livrar-lhes a alma da morte e nutri-los no tempo da fome."
+    },
+    {
+      "numero": 20,
+      "texto": "Nossa alma espera no Senhor, porque ele é nosso amparo e nosso escudo."
+    },
+    {
+      "numero": 21,
+      "texto": "Nele, pois, se alegra o nosso coração, em seu santo nome confiamos."
+    },
+    {
+      "numero": 22,
+      "texto": "Seja-nos manifestada, Senhor, a vossa misericórdia, como a esperamos de vós."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "32:1-2",
+      "texto": "A felicidade do homem cujas transgressões são perdoadas é um tema central. O salmista enfatiza a alegria que vem do perdão, mostrando que a verdadeira felicidade é encontrada em um relacionamento restaurado com Deus (veja também Salmo 51:10-12 e Mateus 5:8)."
+    },
+    {
+      "ref": "32:3-4",
+      "texto": "O peso do pecado não confessado traz angústia e sofrimento. A consciência do pecado afeta não apenas a relação com Deus, mas também a saúde emocional e espiritual, destacando a importância da confissão (veja também Salmo 38:4 e Provérbios 28:13)."
+    },
+    {
+      "ref": "32:5",
+      "texto": "O ato de confessar pecados leva à libertação. A promessa de que Deus perdoa aqueles que se voltam a Ele é um convite à sinceridade e à busca de reconciliação (veja também 1 João 1:9 e Salmo 51:17)."
+    },
+    {
+      "ref": "32:6-7",
+      "texto": "A exortação à oração em tempos de dificuldade ressalta a necessidade de buscar a proteção de Deus. Ele é nosso abrigo e segurança, especialmente em momentos de tribulação (veja também Salmo 91:1-2 e Filipenses 4:6-7)."
+    },
+    {
+      "ref": "32:8-11",
+      "texto": "Deus promete instruir e ensinar aqueles que se voltam para Ele. A alegria e a confiança que resultam de uma vida alinhada com a vontade divina são enfatizadas, lembrando-nos da importância de seguir a direção de Deus (veja também Provérbios 3:5-6 e Isaías 48:17-18)."
+    }
+  ]
+}

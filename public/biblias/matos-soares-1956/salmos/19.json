@@ -1,0 +1,75 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 19,
+  "totalVersiculos": 10,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/19/",
+  "capturadoEm": "2026-11-15T09:52:27-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre do coro. Salmo. De Davide."
+    },
+    {
+      "numero": 2,
+      "texto": "O Senhor te ouça no dia da tribulação, o nome do Deus de Jacob te proteja."
+    },
+    {
+      "numero": 3,
+      "texto": "Envie-te socorro do santuário, e de Sião te sustenha."
+    },
+    {
+      "numero": 4,
+      "texto": "Tenha presentes todas as tuas oblações, e o teu holocausto lhe seja agradável."
+    },
+    {
+      "numero": 5,
+      "texto": "Ele te dê o que o teu coração deseja e cumpra todos os teus desígnios."
+    },
+    {
+      "numero": 6,
+      "texto": "Possamos regozijar-nos com a tua vitória, e içar bandeiras em nome do nosso Deus; satisfaça o Senhor todas as tuas petições."
+    },
+    {
+      "numero": 7,
+      "texto": "Agora conheci que o Senhor concedeu a vitória ao seu ungido, e o ouviu do seu santo céu, com o poder da sua dextra vitoriosa."
+    },
+    {
+      "numero": 8,
+      "texto": "Estes (confiam) nas suas carroças, aqueles nos seus cavalos, nós, porém, somos fortes no nome do Senhor, nosso Deus."
+    },
+    {
+      "numero": 9,
+      "texto": "Eles vacilaram e caíram, mas nós conservamo-nos de pé e permanecemos firmes."
+    },
+    {
+      "numero": 10,
+      "texto": "Senhor, concedei a vitória ao rei, e ouve-nos no dia em que te invocamos."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "19:1-4",
+      "texto": "O salmista celebra a revelação de Deus através da criação. Os céus proclamam a glória de Deus, mostrando que a natureza é um testemunho silencioso de Sua majestade e poder (veja também Salmo 97:6 e Romanos 1:20)."
+    },
+    {
+      "ref": "19:5-6",
+      "texto": "O sol é usado como metáfora para a luz e a ordem que Deus trouxe ao mundo. A imagem do sol destaca a beleza e a regularidade da criação, refletindo o caráter fiel de Deus na manutenção da vida (veja também Eclesiastes 1:5 e Apocalipse 22:5)."
+    },
+    {
+      "ref": "19:7-10",
+      "texto": "A lei do Senhor é apresentada como perfeita, capaz de revigorar a alma e trazer sabedoria. Este trecho enfatiza a importância da Palavra de Deus como guia e fonte de vida para aqueles que a seguem (veja também 2 Timóteo 3:16-17 e Hebreus 4:12)."
+    },
+    {
+      "ref": "19:11-14",
+      "texto": "O salmista reconhece que os ensinamentos de Deus não apenas trazem benefícios, mas também alertam contra o pecado. O desejo de agradar a Deus é expresso através da oração por pureza e santidade (veja também Salmo 119:11 e Filipenses 4:8)."
+    },
+    {
+      "ref": "19:15",
+      "texto": "O desejo de que as palavras e meditações do coração do salmista sejam agradáveis a Deus reflete a importância da devoção pessoal e da busca por um relacionamento íntimo com o Criador (veja também Salmo 139:23-24 e Romanos 12:1)."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ii-cronicas",
+  "nome": "II Crônicas",
+  "testamento": "AT",
+  "capitulo": 14,
+  "totalVersiculos": 15,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ii-cronicas/14/",
+  "capturadoEm": "2026-11-15T09:13:43-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Abias adormeceu com seus pais e foi sepultado na Cidade de Davi. Seu filho Asa sucedeu-lhe no trono. Durante sua vida, a terra conheceu dez anos de tranquilidade."
+    },
+    {
+      "numero": 2,
+      "texto": "Asa fez o que era bom e justo aos olhos do Senhor, seu Deus."
+    },
+    {
+      "numero": 3,
+      "texto": "Destruiu os altares dos deuses estrangeiros e os lugares altos; quebrou as estelas e cortou as asserás."
+    },
+    {
+      "numero": 4,
+      "texto": "Ordenou aos filhos de Judá que buscassem o Senhor, o Deus de seus pais, e que pusessem em prática a Lei e seus mandamentos."
+    },
+    {
+      "numero": 5,
+      "texto": "Fez desaparecer de todas as cidades de Judá os lugares altos e os obeliscos. Sob seu reinado o reino esteve em paz."
+    },
+    {
+      "numero": 6,
+      "texto": "Durante esse tempo de tranquilidade, construiu cidades fortificadas em Judá. Efetivamente, não houve guerra contra ele durante esses anos, porque o Senhor lhe concedeu descanso."
+    },
+    {
+      "numero": 7,
+      "texto": "“Construamos – disse ele aos judeus – essas cidades e cerquemo-las de muralhas, torres, portas e ferrolhos. A terra está ainda livre diante de nós porque temos procurado o Senhor, nosso Deus, e por isso ele nos concedeu a paz com todos os nossos vizinhos.” Dispuseram-se, pois, a esse trabalho e o levaram a bom termo."
+    },
+    {
+      "numero": 8,
+      "texto": "Asa possuía um exército composto de trezentos mil homens de Judá, que carregavam escudo e lança e um de duzentos e oitenta mil de Benjamim, que carregavam escudo e entesavam o arco, todos valentes guerreiros.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Zara, o etíope, atacou-os com um exército de um milhão de homens e trezentos carros e avançou até Maresa."
+    },
+    {
+      "numero": 10,
+      "texto": "Asa saiu-lhe ao encontro e eles se formaram para a batalha no vale de Sefata, perto de Maresa."
+    },
+    {
+      "numero": 11,
+      "texto": "Asa invocou o Senhor, seu Deus, nestes termos: “Senhor, não vos é mais difícil ajudar o fraco do que o forte. Vinde em nosso socorro, nosso Deus! É em vós que nos apoiamos, é em vosso nome que viemos contra essa multidão. Senhor, vós sois nosso Deus; que não haja um só homem que prevaleça contra vós!”."
+    },
+    {
+      "numero": 12,
+      "texto": "O Senhor feriu os etíopes diante de Asa e dos homens de Judá. Os etíopes fugiram."
+    },
+    {
+      "numero": 13,
+      "texto": "Asa e seu exército os perseguiram até Gerara e deles tombou tão grande número que nem sequer um pôde salvar-se, destruídos como foram diante do Senhor e seu exército. Judá trouxe um grande despojo."
+    },
+    {
+      "numero": 14,
+      "texto": "Eles feriram todas as cidades dos arredores de Gerara, pois o terror do Senhor se tinha infundido neles. Pilharam-nos, porque eles possuíam um importante despojo."
+    },
+    {
+      "numero": 15,
+      "texto": "Feriram também os redis dos rebanhos e capturaram grande número de ovelhas e camelos. Em seguida, retornaram a Jerusalém."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "14:1-5",
+      "texto": "Asa, novo rei de Judá, promove reformas religiosas, removendo ídolos e restaurando o culto a Deus. Isso enfatiza a importância de um governo justo e da busca pela pureza espiritual na comunidade (veja também 2 Reis 18:3-4 e Salmo 101:3)."
+    },
+    {
+      "ref": "14:6-7",
+      "texto": "Asa confia em Deus para proteger seu reino, promovendo a paz e a prosperidade. Sua decisão de buscar ao Senhor destaca a importância de confiar em Deus em tempos de tranquilidade e de dificuldade (veja também Salmo 118:8-9 e Provérbios 3:5-6)."
+    },
+    {
+      "ref": "14:8-12",
+      "texto": "Asa enfrenta um exército maior, mas confia no Senhor. A vitória é um testemunho do poder de Deus em favor de Seus fiéis. Isso demonstra que a fé em Deus é fundamental para obter vitórias espirituais e temporais (veja também Salmo 20:7 e Isaías 41:10)."
+    },
+    {
+      "ref": "14:13-15",
+      "texto": "Asa e seu exército derrotam os etíopes, mostrando que Deus é um Deus de guerra. A intervenção divina em batalhas históricas é uma demonstração do Seu poder e do Seu compromisso em proteger o Seu povo (veja também Salmo 46:1 e Romanos 8:31)."
+    }
+  ]
+}

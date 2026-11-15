@@ -1,0 +1,52 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 126,
+  "totalVersiculos": 5,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/126/",
+  "capturadoEm": "2026-11-15T09:18:12-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cântico das peregrinações. De Salomão. Se o Senhor não edificar a casa, em vão trabalham os que a constroem. Se o Senhor não guardar a cidade, debalde vigiam as sentinelas.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Inútil levantar-vos antes da aurora, e atrasar até alta noite vosso descanso, para comer o pão de um duro trabalho, pois Deus o dá aos seus amados até durante o sono."
+    },
+    {
+      "numero": 3,
+      "texto": "Vede, os filhos são um dom de Deus: é uma recompensa o fruto das entranhas."
+    },
+    {
+      "numero": 4,
+      "texto": "Tais como as flechas nas mãos do guerreiro, assim são os filhos gerados na juventude."
+    },
+    {
+      "numero": 5,
+      "texto": "Feliz o homem que assim encheu sua aljava: não será confundido quando defender a sua causa contra seus inimigos à porta da cidade."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "126:1-2",
+      "texto": "O retorno do exílio é visto como um sonho realizado, enchendo o povo de alegria e risos. O salmista exalta a obra de Deus na restauração de Seu povo, transformando tristeza em júbilo (veja também Jeremias 31:10-12 e Lucas 1:46-49)."
+    },
+    {
+      "ref": "126:3",
+      "texto": "Grandes coisas fez o Senhor por nós reflete a gratidão profunda do povo por tudo o que Deus realizou. Esse reconhecimento é um chamado para lembrar a fidelidade de Deus nas dificuldades (veja também Salmo 116:12 e Efésios 5:20)."
+    },
+    {
+      "ref": "126:4",
+      "texto": "O salmista ora por uma restauração contínua, comparando-a às águas que enchem os vales do deserto. Isso expressa a esperança de renovação total, mesmo após a volta do exílio (veja também Isaías 35:6-7 e Joel 3:18)."
+    },
+    {
+      "ref": "126:5-6",
+      "texto": "Os que semeiam com lágrimas colherão com alegria traz a imagem de esperança, onde o sofrimento leva a recompensas. É uma promessa de que Deus converterá o sofrimento em bênçãos (veja também Mateus 5:4 e Gálatas 6:9)."
+    }
+  ]
+}

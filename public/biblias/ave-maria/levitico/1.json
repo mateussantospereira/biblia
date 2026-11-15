@@ -1,0 +1,103 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "levitico",
+  "nome": "Levítico",
+  "testamento": "AT",
+  "capitulo": 1,
+  "totalVersiculos": 17,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/levitico/1/",
+  "capturadoEm": "2026-11-15T09:08:42-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Senhor chamou Moisés e falou-lhe da tenda de reunião:"
+    },
+    {
+      "numero": 2,
+      "texto": "“Fala – disse-lhe ele – aos israelitas. Dize-lhes: Quando um de vós fizer uma oferta ao Senhor, será dentre o gado maior ou menor que oferecereis."
+    },
+    {
+      "numero": 3,
+      "texto": "Se a oferta for um holocausto tirado do gado maior, oferecerá um macho sem defeito; e o oferecerá à entrada da tenda de reunião para obter o favor do Senhor."
+    },
+    {
+      "numero": 4,
+      "texto": "Porá a mão sobre a cabeça da vítima, que será aceita em seu favor para lhe servir de expiação."
+    },
+    {
+      "numero": 5,
+      "texto": "Matará o novilho diante do Senhor. Os sacerdotes, filhos de Aarão, oferecerão o sangue e o derramarão ao redor sobre o altar que está à entrada da tenda de reunião."
+    },
+    {
+      "numero": 6,
+      "texto": "Tirará a pele da vítima e esta será cortada em pedaços."
+    },
+    {
+      "numero": 7,
+      "texto": "Os filhos do sacerdote Aarão porão fogo no altar e empilharão a lenha sobre ele,"
+    },
+    {
+      "numero": 8,
+      "texto": "dispondo, em seguida, por cima da lenha, os pedaços, a cabeça e a gordura."
+    },
+    {
+      "numero": 9,
+      "texto": "Lavarão com água as entranhas e as pernas, e o sacerdote queimará tudo sobre o altar. Esse é um holocausto, um sacrifício consumido pelo fogo, de odor agradável ao Senhor."
+    },
+    {
+      "numero": 10,
+      "texto": "Se a sua oferta for um holocausto tirado do gado menor, dos cordeiros ou das cabras, oferecerá um macho sem defeito."
+    },
+    {
+      "numero": 11,
+      "texto": "Matará o animal ao do lado norte do altar, diante do Senhor, e os sacerdotes, filhos de Aarão, derramarão o seu sangue em redor do altar."
+    },
+    {
+      "numero": 12,
+      "texto": "A vítima será, em seguida, cortada em pedaços, com a cabeça e a gordura, que o sacerdote disporá sobre a lenha colocada no fogo do altar."
+    },
+    {
+      "numero": 13,
+      "texto": "As entranhas e as pernas serão lavadas com água, e, em seguida, o sacerdote oferecerá tudo isso, queimando-o no altar. Esse é um holocausto, um sacrifício consumido pelo fogo, de odor agradável ao Senhor."
+    },
+    {
+      "numero": 14,
+      "texto": "Se a sua oferta ao Senhor for um holocausto tirado dentre as aves, oferecerá rolas ou pombinhos."
+    },
+    {
+      "numero": 15,
+      "texto": "O sacerdote porá a ave sobre o altar, lhe destroncará a cabeça e a queimará no altar, depois de haver espremido o seu sangue contra a parede do altar."
+    },
+    {
+      "numero": 16,
+      "texto": "Tirará o papo com as penas e os jogará perto do altar, para o oriente, no lugar onde se põem as cinzas."
+    },
+    {
+      "numero": 17,
+      "texto": "Abrirá em seguida a ave à altura das asas, sem as desprender, e a queimará no altar, em cima da lenha que está no fogo. Esse é um holocausto, um sacrifício consumido pelo fogo, de odor agradável ao Senhor”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:1-3",
+      "texto": "O Senhor instrui Moisés sobre as ofertas de holocausto, que deveriam ser animais sem defeito. O holocausto simboliza a total consagração a Deus e o reconhecimento de Sua soberania. Esse sacrifício é um ato de adoração completo (veja também Êxodo 29:18 e Romanos 12:1)."
+    },
+    {
+      "ref": "1:4-5",
+      "texto": "O ofertante colocava sua mão sobre o animal, significando a transferência de sua culpa. Isso demonstra a importância do sacrifício expiatório e da substituição como princípio do perdão divino (veja também Isaías 53:6 e 2 Coríntios 5:21)."
+    },
+    {
+      "ref": "1:6-9",
+      "texto": "O sacerdote deveria queimar o holocausto no altar, criando um aroma agradável ao Senhor. Isso simboliza o desejo de agradar a Deus com um sacrifício sincero e completo (veja também Efésios 5:2 e Gênesis 8:21)."
+    },
+    {
+      "ref": "1:10-13",
+      "texto": "As ofertas podiam incluir diferentes tipos de animais, permitindo que pessoas de várias condições sociais participassem. Isso demonstra a acessibilidade do culto a Deus, independentemente da condição econômica (veja também Lucas 2:24 e Marcos 12:41-44)."
+    },
+    {
+      "ref": "1:14-17",
+      "texto": "O sacrifício de aves era permitido para os mais pobres, mostrando a inclusão de todos no culto. Deus aceita ofertas que vêm de um coração puro, independentemente do valor material (veja também Salmo 51:17 e 2 Coríntios 8:12)."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 75,
+  "totalVersiculos": 13,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/75/",
+  "capturadoEm": "2026-11-15T09:53:31-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre do coro. Para instrumentos de corda. Salmo. De Asaf. Cântico."
+    },
+    {
+      "numero": 2,
+      "texto": "Deus deu-se a conhecer em Judá, grande é o seu nome em Israel."
+    },
+    {
+      "numero": 3,
+      "texto": "O seu tabernáculo está em Salem, e a sua morada em Sião."
+    },
+    {
+      "numero": 4,
+      "texto": "Ali quebrou os raios do arco, o escudo, a espada e as armas."
+    },
+    {
+      "numero": 5,
+      "texto": "Resplandecente de luz, tu vieste, ó Poderoso, do alto dos montes eternos."
+    },
+    {
+      "numero": 6,
+      "texto": "Os de coração esforçado foram despojados, dormem o seu sono, e desfaleceram as mãos de todos os valentes."
+    },
+    {
+      "numero": 7,
+      "texto": "Só com a tua ameaça, ó Deus de Jacob, ficaram inertes carros e cavalos."
+    },
+    {
+      "numero": 8,
+      "texto": "Tu és terrível, e quem te resistirá, perante o ímpeto da tua ira?"
+    },
+    {
+      "numero": 9,
+      "texto": "Do céu fizeste ouvir o teu juízo (contra os Assírios), a terra ficou espavorida e em silêncio,"
+    },
+    {
+      "numero": 10,
+      "texto": "quando Deus se levantou para fazer justiça, para salvar todos os humildes da terra."
+    },
+    {
+      "numero": 11,
+      "texto": "O furor de Edom te glorificará, e os sobreviventes de Emat te festejarão."
+    },
+    {
+      "numero": 12,
+      "texto": "Fazei votos ao Senhor vosso Deus e cumpri-os; todos os que o rodeiam tragam oferendas a este (Deus) Terrível,"
+    },
+    {
+      "numero": 13,
+      "texto": "àquele que tira respiração aos príncipes, que é terrível para os reis da terra."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "75:1",
+      "texto": "O salmista agradece a Deus por Sua justiça e poder. Essa gratidão é um reconhecimento da soberania divina na história, um tema central na adoração (veja também Salmo 100:4 e 1 Tessalonicenses 5:18)."
+    },
+    {
+      "ref": "75:2-3",
+      "texto": "A declaração de que Deus julgará as nações destaca a certeza do juízo divino e a importância da retidão. A visão do salmista reafirma a crença de que Deus não ignora a injustiça (veja também Salmo 9:7-8 e Apocalipse 20:11-12)."
+    },
+    {
+      "ref": "75:4-5",
+      "texto": "A advertência aos arrogantes sobre a necessidade de humildade é um lembrete da fragilidade humana. Este aviso se aplica a todos que se levantam contra a autoridade e a justiça de Deus (veja também Provérbios 16:18 e Tiago 4:6)."
+    },
+    {
+      "ref": "75:6-7",
+      "texto": "O salmista afirma que não é do Oriente ou do Ocidente que vem a exaltação, mas de Deus. Essa afirmação reafirma a soberania de Deus sobre todas as nações e poderes (veja também Daniel 2:21 e Romanos 13:1)."
+    },
+    {
+      "ref": "75:8-10",
+      "texto": "A descrição do cálice da ira de Deus simboliza o juízo contra os ímpios. A promessa de que os justos se alegrarão é uma esperança de vindicação e recompensa final (veja também Salmo 16:5-6 e Apocalipse 21:7)."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "apocalipse",
+  "nome": "Apocalipse",
+  "testamento": "NT",
+  "capitulo": 16,
+  "totalVersiculos": 21,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/apocalipse/16/",
+  "capturadoEm": "2026-11-15T09:29:55-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ouvi, então, uma voz forte saindo do templo, que dizia aos sete Anjos: “Ide, e derramai sobre a terra as sete taças da ira de Deus”."
+    },
+    {
+      "numero": 2,
+      "texto": "O primeiro, portanto, pôs-se a derramar a sua taça sobre a terra. Formou-se uma úlcera atroz e maligna nos homens que tinham o sinal da Fera e que se prostravam diante de sua imagem."
+    },
+    {
+      "numero": 3,
+      "texto": "O segundo derramou a sua taça sobre o mar. Este tornou-se sangue, como o de um morto, e pereceu todo ser que estava no mar."
+    },
+    {
+      "numero": 4,
+      "texto": "O terceiro derramou a sua taça sobre os rios e as fontes das águas, que se transformaram em sangue."
+    },
+    {
+      "numero": 5,
+      "texto": "Ouvi, então, o anjo das águas dizer: “Tu és justo, tu que és e que eras o Santo, que assim julgas."
+    },
+    {
+      "numero": 6,
+      "texto": "Porque eles derramaram o sangue dos santos e dos profetas, tu lhes deste também sangue para beber. Eles o merecem”."
+    },
+    {
+      "numero": 7,
+      "texto": "Ouvi o altar dizer: “Sim, Senhor Deus Dominador, são verdadeiros e justos os teus julgamentos”.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "O quarto derramou a sua taça sobre o sol, e foi-lhe dado queimar os homens com o fogo."
+    },
+    {
+      "numero": 9,
+      "texto": "E os homens foram queimados por grande calor, e amaldiçoaram o nome de Deus, que pode desencadear esses flagelos; e não quiseram arrepender-se e dar-lhe glória."
+    },
+    {
+      "numero": 10,
+      "texto": "O quinto derramou a sua taça sobre o trono da Fera. Seu reino se escureceu e seus súditos mordiam a língua de dor."
+    },
+    {
+      "numero": 11,
+      "texto": "Amaldiçoaram o Deus do céu por causa de seus sofrimentos e das suas feridas, sem se arrependerem dos seus atos."
+    },
+    {
+      "numero": 12,
+      "texto": "O sexto derramou a sua taça sobre o grande rio Eufrates, e secaram-se as suas águas para que se abrisse caminho aos reis do Oriente."
+    },
+    {
+      "numero": 13,
+      "texto": "Vi (saírem) da boca do Dragão, da boca da Fera e da boca do falso profeta três espíritos imundos semelhantes a rãs;",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "são os espíritos de demônios que realizam prodígios, e vão ter com os reis de toda a terra, a fim de reuni-los para a batalha do Grande Dia do Deus Dominador."
+    },
+    {
+      "numero": 15,
+      "texto": "(Eis que venho como um ladrão! Feliz aquele que vigia e guarda as suas vestes para que não ande nu, ostentando a sua vergonha!)"
+    },
+    {
+      "numero": 16,
+      "texto": "Eles os reuniram num lugar chamado em hebraico Har-Magedon.",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "O sétimo derramou a sua taça pelos ares e saiu do templo uma grande voz do trono, que dizia: “Está pronto!”."
+    },
+    {
+      "numero": 18,
+      "texto": "Houve, então, relâmpagos, vozes e trovões, assim como um terremoto tão grande como jamais houve desde que há homens na terra."
+    },
+    {
+      "numero": 19,
+      "texto": "A grande cidade foi dividida em três partes, e as cidades das nações caíram, e Deus lembrou-se da grande Babilônia, para lhe dar de beber o cálice do vinho de sua ira ardente."
+    },
+    {
+      "numero": 20,
+      "texto": "Todas as ilhas fugiram, e montanha alguma foi encontrada."
+    },
+    {
+      "numero": 21,
+      "texto": "Grandes pedras de gelo, que podiam pesar um talento, caíram do céu sobre os homens. Os homens amaldiçoaram a Deus por causa do flagelo da saraiva, pois este foi terrível.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "16:1-9",
+      "texto": "O derramamento das primeiras taças representa a ira de Deus contra os ímpios, refletindo a destruição de seus sistemas de idolatria e pecado. A resposta dos homens é de dureza de coração (veja também Êxodo 7:14-25 e Apocalipse 9:20-21)."
+    },
+    {
+      "ref": "16:10-11",
+      "texto": "A quinta taça traz escuridão e tormento sobre o trono da besta, refletindo o juízo de Deus sobre os reinos do mal. As pessoas ainda rejeitam o arrependimento, mostrando a obstinação humana em tempos de julgamento (veja também Jeremias 25:15-16 e Apocalipse 9:20)."
+    },
+    {
+      "ref": "16:12-16",
+      "texto": "A preparação para o Armagedom é marcada pela reunião das forças do mal para a batalha final contra Deus. Isso representa a culminação do conflito entre o bem e o mal (veja também Zacarias 14:2-4 e Apocalipse 19:11-21)."
+    }
+  ]
+}

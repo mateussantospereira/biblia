@@ -1,0 +1,144 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "atos-dos-apostolos",
+  "nome": "Atos dos Apóstolos",
+  "testamento": "NT",
+  "capitulo": 22,
+  "totalVersiculos": 30,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/atos-dos-apostolos/22/",
+  "capturadoEm": "2026-11-15T09:27:29-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "“Irmãos e pais, ouvi o que vos tenho a dizer em minha defesa.”"
+    },
+    {
+      "numero": 2,
+      "texto": "Quando ouviram que lhes falava em língua hebraica, escutaram-no com a maior atenção."
+    },
+    {
+      "numero": 3,
+      "texto": "Continuou ele: “Eu sou judeu, nasci em Tarso da Cilícia, mas criei-me nesta cidade, instruí-me aos pés de Gamaliel, em toda a observância da lei de nossos pais, partidário entusiasta da causa de Deus como todos vós também o sois no dia de hoje."
+    },
+    {
+      "numero": 4,
+      "texto": "Eu persegui de morte essa doutrina, prendendo e metendo em cárceres homens e mulheres."
+    },
+    {
+      "numero": 5,
+      "texto": "O sumo sacerdote e todo o conselho dos anciãos me são testemunhas. E foi deles que também recebi cartas para os irmãos de Damasco, para onde me dirigi, com o fim de prender os que lá se achassem e trazê-los a Jerusalém, para que fossem castigados."
+    },
+    {
+      "numero": 6,
+      "texto": "Ora, estando eu a caminho, e aproximando-me de Damasco, pelo meio-dia, de repente me cercou uma forte luz do céu."
+    },
+    {
+      "numero": 7,
+      "texto": "Caí por terra e ouvi uma voz que me dizia: Saulo, Saulo, por que me persegues?"
+    },
+    {
+      "numero": 8,
+      "texto": "Eu repliquei: Quem és tu, Senhor? A voz me disse: Eu sou Jesus de Nazaré, a quem tu persegues."
+    },
+    {
+      "numero": 9,
+      "texto": "Os meus companheiros viram a luz, mas não ouviram a voz de quem falava."
+    },
+    {
+      "numero": 10,
+      "texto": "Então, eu disse: Senhor, que devo fazer? E o Senhor me respondeu: Levanta-te, vai a Damasco e lá te será dito tudo o que deves fazer."
+    },
+    {
+      "numero": 11,
+      "texto": "Como eu não pudesse ver por causa da intensidade daquela luz, guiado pela mão dos meus companheiros, cheguei a Damasco."
+    },
+    {
+      "numero": 12,
+      "texto": "Um certo Ananias, homem piedoso e observador da Lei, muito bem conceituado entre todos os judeus daquela cidade,"
+    },
+    {
+      "numero": 13,
+      "texto": "veio ter comigo e disse-me: Irmão Saulo, recobra a tua vista. Naquela mesma hora pude enxergá-lo."
+    },
+    {
+      "numero": 14,
+      "texto": "Continuou ele: O Deus de nossos pais te predestinou para que conhecesses a sua vontade, visses o Justo e ouvisses a palavra da sua boca,",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "pois lhe serás, diante de todos os homens, testemunha das coisas que tens visto e ouvido."
+    },
+    {
+      "numero": 16,
+      "texto": "E agora, por que tardas? Levanta-te. Recebe o batismo e purifica-te dos teus pecados, invocando o seu nome."
+    },
+    {
+      "numero": 17,
+      "texto": "Voltei para Jerusalém e, orando no templo, fui arrebatado em êxtase."
+    },
+    {
+      "numero": 18,
+      "texto": "E vi Jesus que me dizia: Apressa-te e sai logo de Jerusalém, porque não receberão o teu testemunho a meu respeito."
+    },
+    {
+      "numero": 19,
+      "texto": "Eu repliquei: Senhor, eles sabem que eu encarcerava e açoitava com varas nas sinagogas os que creem em ti."
+    },
+    {
+      "numero": 20,
+      "texto": "E quando se derramou o sangue de Estêvão, tua testemunha, eu estava presente, consentia nisso e guardava os mantos dos que o matavam."
+    },
+    {
+      "numero": 21,
+      "texto": "Mas ele me respondeu: Vai, porque eu te enviarei para longe, às nações...”."
+    },
+    {
+      "numero": 22,
+      "texto": "Haviam-no escutado até essa palavra. Então, levantaram a voz: “Tira do mundo esse homem! Não é digno de viver!”."
+    },
+    {
+      "numero": 23,
+      "texto": "Como vociferassem, arrojassem de si as vestes e lançassem pó ao ar,"
+    },
+    {
+      "numero": 24,
+      "texto": "o tribuno mandou recolhê-lo à cidadela, açoitá-lo e submetê-lo a torturas, para saber por que causa clamavam assim contra ele."
+    },
+    {
+      "numero": 25,
+      "texto": "Quando o iam amarrando com a correia, Paulo perguntou a um centurião que estava presente: “É permitido açoitar um cidadão romano que nem sequer foi julgado?”."
+    },
+    {
+      "numero": 26,
+      "texto": "Ao ouvir isso, o centurião foi ter com o tribuno e avisou-o: “Que vais fazer? Este homem é cidadão romano”."
+    },
+    {
+      "numero": 27,
+      "texto": "Veio o tribuno e perguntou-lhe: “Dize-me, és romano?” – “Sim”, respondeu-lhe."
+    },
+    {
+      "numero": 28,
+      "texto": "O tribuno replicou: “Eu adquiri este direito de cidadão por grande soma de dinheiro.” Paulo respondeu: “Pois eu o sou de nascimento."
+    },
+    {
+      "numero": 29,
+      "texto": "Apartaram-se então dele os que iam torturá-lo. O tribuno alarmou-se porque o mandara acorrentar, sendo ele um cidadão romano."
+    },
+    {
+      "numero": 30,
+      "texto": "No dia seguinte, querendo saber com mais exatidão de que os judeus o acusavam, soltou-o e ordenou que se reunissem os sumos sacerdotes e todo o Grande Conselho. Trouxe Paulo e o mandou comparecer diante deles."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "22:1-21",
+      "texto": "Paulo defende sua fé diante do povo, narrando sua conversão e missão. Esse discurso destaca o poder transformador do encontro pessoal com Cristo (veja também Atos 9:1-22 e 1 Timóteo 1:12-16)."
+    },
+    {
+      "ref": "22:22-29",
+      "texto": "Paulo revela sua cidadania romana para evitar ser açoitado ilegalmente, mostrando a importância de se fazer valer os direitos civis para a propagação do evangelho (veja também Filipenses 3:20 e Atos 16:37)."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 119,
+  "totalVersiculos": 7,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/119/",
+  "capturadoEm": "2026-11-15T09:54:21-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cântico das subidas. Na minha tribulação, clamei ao Senhor, e ele ouviu-me. (ver nota)"
+    },
+    {
+      "numero": 2,
+      "texto": "Senhor, livra a minha alma do lábio iníquo, da língua enganadora."
+    },
+    {
+      "numero": 3,
+      "texto": "Que te dará ou que te acrescentará (Deus), ó língua enganadora?"
+    },
+    {
+      "numero": 4,
+      "texto": "Setas agudas dum potente, e brasas de giesta."
+    },
+    {
+      "numero": 5,
+      "texto": "Ai de mim, que vivo em Mosoc, habito nas tendas de Cedar."
+    },
+    {
+      "numero": 6,
+      "texto": "Demasiado habitou a minha alma com os que odeiam a paz."
+    },
+    {
+      "numero": 7,
+      "texto": "Quando lhes falo de paz, eles excitam à guerra."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "119:1-3",
+      "texto": "O salmo começa exaltando a bem-aventurança daqueles que seguem os caminhos de Deus. A obediência à Lei do Senhor é vista como o caminho para uma vida reta e abençoada (veja também Salmo 1:1-3 e Deuteronômio 28:1-2)."
+    },
+    {
+      "ref": "119:9-11",
+      "texto": "O salmista reflete sobre como o jovem pode manter seu caminho puro: guardando a Palavra de Deus no coração. Isso enfatiza o poder transformador das Escrituras para orientar a vida moral e espiritual (veja também Salmo 119:105 e 2 Timóteo 3:16-17)."
+    },
+    {
+      "ref": "119:18",
+      "texto": "O salmista pede a Deus para abrir seus olhos para as maravilhas da Sua Lei, refletindo o desejo de uma compreensão mais profunda das Escrituras. Este versículo destaca a importância da iluminação espiritual (veja também Efésios 1:17-18 e Salmo 19:7-8)."
+    },
+    {
+      "ref": "119:89-91",
+      "texto": "A Palavra de Deus é eterna, e Suas leis permanecem firmes no céu e na terra. Esse trecho enfatiza a imutabilidade e a soberania da Palavra de Deus, que sustenta toda a criação (veja também Isaías 40:8 e Mateus 24:35)."
+    },
+    {
+      "ref": "119:105",
+      "texto": "A Palavra de Deus é uma lâmpada para os pés e uma luz para o caminho. Esse versículo é uma poderosa metáfora que expressa como as Escrituras guiam a vida do crente em meio às trevas do mundo (veja também Provérbios 6:23 e 2 Pedro 1:19)."
+    }
+  ]
+}

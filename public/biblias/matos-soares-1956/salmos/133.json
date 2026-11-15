@@ -1,0 +1,43 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 133,
+  "totalVersiculos": 3,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/133/",
+  "capturadoEm": "2026-11-15T09:54:37-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cântico das subidas. Eia! bendizei ao Senhor, vós, todos os servos do Senhor, vós que assistis na casa do Senhor, durante as horas nocturnas."
+    },
+    {
+      "numero": 2,
+      "texto": "Levantai as vossas mãos para o santuário, e bendizei ao Senhor."
+    },
+    {
+      "numero": 3,
+      "texto": "Abençoe-te de Sião o Senhor, que fez o céu e a terra."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "133:1",
+      "texto": "Este versículo destaca a bênção e a alegria de viver em unidade e harmonia. A fraternidade entre os irmãos é um reflexo da paz e da comunhão desejada por Deus para o Seu povo (veja também João 17:21 e Efésios 4:3)."
+    },
+    {
+      "ref": "133:2",
+      "texto": "A unidade é comparada ao óleo precioso derramado sobre a cabeça de Arão, o sumo sacerdote. Isso simboliza a consagração, a bênção e a presença divina entre aqueles que vivem em comunhão (veja também Êxodo 29:7 e Levítico 8:12)."
+    },
+    {
+      "ref": "133:3",
+      "texto": "A comparação com o orvalho do Hermom reforça a ideia de que a unidade traz vida e renovação. O orvalho, essencial para a fertilidade, é uma metáfora para as bênçãos de Deus derramadas sobre o Seu povo (veja também Isaías 26:19 e Deuteronômio 32:2)."
+    },
+    {
+      "ref": "133:3",
+      "texto": "O salmo conclui afirmando que onde há unidade, ali o Senhor concede a bênção da vida eterna. A comunhão entre os irmãos é um sinal da graça divina e da vida que se perpetua (veja também João 13:35 e 1 João 3:14)."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 141,
+  "totalVersiculos": 8,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/141/",
+  "capturadoEm": "2026-11-15T09:54:46-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Maskil. De Davide, quando estava na caverna. Súplica."
+    },
+    {
+      "numero": 2,
+      "texto": "Em alta voz clamo ao Senhor, em alta voz suplico ao Senhor."
+    },
+    {
+      "numero": 3,
+      "texto": "Exponho diante dele a minha preocupação, manifesto-lhe a minha angústia."
+    },
+    {
+      "numero": 4,
+      "texto": "Quando está em ânsia em mim o meu espírito, tu conheces o meu caminho. No caminho por onde ando, armaram-me laços ocultos."
+    },
+    {
+      "numero": 5,
+      "texto": "Volto-me para a direita e olho, e não há quem se importe de mim. Não tenho para onde fugir, não há quem olhe pela minha vida."
+    },
+    {
+      "numero": 6,
+      "texto": "A ti clamo, Senhor: digo: Tu és o meu refúgio, a minha porção na terra dos viventes."
+    },
+    {
+      "numero": 7,
+      "texto": "Atende ao meu clamor, porque sou sumamente miserável. Livra-me dos que me perseguem, porque são mais fortes do que eu."
+    },
+    {
+      "numero": 8,
+      "texto": "Tira-me desta prisão, para que dê graças ao teu nome. Os justos me rodearão, quando me fizeres este benefício."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "141:1-2",
+      "texto": "O salmista clama a Deus com urgência, comparando sua oração com o incenso que sobe ao Senhor. Isso reflete a importância da oração sincera e constante na vida do fiel, como um sacrifício agradável a Deus (veja também Apocalipse 8:3-4 e Lucas 1:10)."
+    },
+    {
+      "ref": "141:3-4",
+      "texto": "O pedido para que Deus vigie a boca do salmista destaca a necessidade de autocontrole e de evitar o pecado através das palavras. A retidão no falar é um sinal de sabedoria e temor ao Senhor (veja também Tiago 3:2-6 e Provérbios 13:3)."
+    },
+    {
+      "ref": "141:5",
+      "texto": "O salmista aceita a correção dos justos como um ato de bondade. Isso mostra a importância da disciplina piedosa e de manter o coração aberto à repreensão que leva ao crescimento espiritual (veja também Provérbios 27:6 e Hebreus 12:11)."
+    },
+    {
+      "ref": "141:8",
+      "texto": "O salmista coloca sua confiança total em Deus, buscando refúgio contra os ímpios. Isso destaca a confiança na proteção divina e a certeza de que Deus é a rocha de salvação (veja também Salmo 16:1 e Salmo 18:2)."
+    },
+    {
+      "ref": "141:9-10",
+      "texto": "O salmista ora para ser guardado das armadilhas dos ímpios, confiando que aqueles que o perseguem cairão em suas próprias redes. Isso simboliza a justiça de Deus, que retribui os malfeitores (veja também Salmo 7:15-16 e Provérbios 26:27)."
+    }
+  ]
+}

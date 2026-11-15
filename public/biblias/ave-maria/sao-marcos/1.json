@@ -1,0 +1,218 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sao-marcos",
+  "nome": "São Marcos",
+  "testamento": "NT",
+  "capitulo": 1,
+  "totalVersiculos": 45,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sao-marcos/1/",
+  "capturadoEm": "2026-11-15T09:26:06-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Princípio da Boa-Nova de Jesus Cristo, Filho de Deus. Conforme está escrito no profeta Isaías:"
+    },
+    {
+      "numero": 2,
+      "texto": "Eis que envio o meu anjo diante de ti: ele preparará o teu caminho."
+    },
+    {
+      "numero": 3,
+      "texto": "Uma voz clama no deserto: Traçai o caminho do Senhor, aplanai as suas veredas (Ml 3,1; Is 40,3)."
+    },
+    {
+      "numero": 4,
+      "texto": "João Batista apareceu no deserto e pregava um batismo de conversão para a remissão dos pecados."
+    },
+    {
+      "numero": 5,
+      "texto": "E saíam para ir ter com ele toda a Judeia, toda Jerusalém, e eram batizados por ele no rio Jordão, confessando os seus pecados."
+    },
+    {
+      "numero": 6,
+      "texto": "João andava vestido de pêlo de camelo e trazia um cinto de couro em volta dos rins, e alimentava-se de gafanhotos e mel silvestre."
+    },
+    {
+      "numero": 7,
+      "texto": "Ele pôs-se a proclamar: “Depois de mim vem outro mais poderoso do que eu, ante o qual não sou digno de me prostrar para desatar-lhe a correia do calçado."
+    },
+    {
+      "numero": 8,
+      "texto": "Eu vos batizei com água; ele, porém, vos batizará no Espírito Santo”."
+    },
+    {
+      "numero": 9,
+      "texto": "Ora, naqueles dias veio Jesus de Nazaré, da Galileia, e foi batizado por João, no Jordão."
+    },
+    {
+      "numero": 10,
+      "texto": "No momento em que Jesus saía da água, João viu os céus abertos e descer o Espírito em forma de pomba sobre ele."
+    },
+    {
+      "numero": 11,
+      "texto": "E ouviu-se dos céus uma voz: “Tu és o meu Filho muito amado; em ti ponho minha afeição”."
+    },
+    {
+      "numero": 12,
+      "texto": "E logo o Espírito o impeliu para o deserto."
+    },
+    {
+      "numero": 13,
+      "texto": "Aí esteve quarenta dias. Foi tentado pelo demônio e esteve em companhia dos animais selvagens. E os anjos o serviam."
+    },
+    {
+      "numero": 14,
+      "texto": "Depois que João foi preso, Jesus dirigiu-se para a Galileia. Pregava o Evangelho de Deus, e dizia:"
+    },
+    {
+      "numero": 15,
+      "texto": "“Completou-se o tempo e o Reino de Deus está próximo; fazei penitência e crede no Evangelho”."
+    },
+    {
+      "numero": 16,
+      "texto": "Passando ao longo do mar da Galileia, viu Simão e André, seu irmão, que lançavam as redes ao mar, pois eram pescadores."
+    },
+    {
+      "numero": 17,
+      "texto": "Jesus disse-lhes: “Vinde após mim; eu vos farei pescadores de homens”."
+    },
+    {
+      "numero": 18,
+      "texto": "Eles, no mesmo instante, deixaram as redes e seguiram-no."
+    },
+    {
+      "numero": 19,
+      "texto": "Uns poucos passos mais adiante, viu Tiago, filho de Zebedeu, e João, seu irmão, que estavam numa barca, consertando as redes. E chamou-os logo."
+    },
+    {
+      "numero": 20,
+      "texto": "Eles deixaram na barca seu pai Zebedeu com os empregados e o seguiram. (= Lc 4,31-44)"
+    },
+    {
+      "numero": 21,
+      "texto": "Dirigiram-se para Cafarnaum. E já no dia de sábado, Jesus entrou na sinagoga e pôs-se a ensinar."
+    },
+    {
+      "numero": 22,
+      "texto": "Maravilhavam-se da sua doutrina, porque os ensinava como quem tem autoridade e não como os escribas.",
+      "nota": true
+    },
+    {
+      "numero": 23,
+      "texto": "Ora, na sinagoga deles achava-se um homem possesso de um espírito imundo, que gritou:"
+    },
+    {
+      "numero": 24,
+      "texto": "“Que tens tu conosco, Jesus de Nazaré? Vieste perder-nos? Sei quem és: o Santo de Deus!”.",
+      "nota": true
+    },
+    {
+      "numero": 25,
+      "texto": "Mas Jesus intimou-o, dizendo: “Cala-te, sai deste homem!”."
+    },
+    {
+      "numero": 26,
+      "texto": "O espírito imundo agitou-o violentamente e, dando um grande grito, saiu."
+    },
+    {
+      "numero": 27,
+      "texto": "Ficaram todos tão admirados, que perguntavam uns aos outros: “Que é isto? Eis um ensinamento novo, e feito com autoridade; além disso, ele manda até nos espíritos imundos e lhe obedecem!”."
+    },
+    {
+      "numero": 28,
+      "texto": "A sua fama divulgou-se logo por todos os arredores da Galileia."
+    },
+    {
+      "numero": 29,
+      "texto": "Assim que saíram da sinagoga, dirigiram-se com Tiago e João à casa de Simão e André."
+    },
+    {
+      "numero": 30,
+      "texto": "A sogra de Simão estava de cama, com febre; e, sem tardar, falaram-lhe a respeito dela."
+    },
+    {
+      "numero": 31,
+      "texto": "Aproximando-se ele, tomou-a pela mão e levantou-a; imediatamente a febre a deixou e ela pôs-se a servi-los."
+    },
+    {
+      "numero": 32,
+      "texto": "À tarde, depois do pôr do sol, levaram-lhe todos os enfermos e possessos do demônio."
+    },
+    {
+      "numero": 33,
+      "texto": "Toda a cidade estava reunida diante da porta."
+    },
+    {
+      "numero": 34,
+      "texto": "Ele curou muitos que estavam oprimidos de diversas doenças, e expulsou muitos demônios. Não lhes permitia falar, porque o conheciam."
+    },
+    {
+      "numero": 35,
+      "texto": "De manhã, tendo-se levantado muito antes do amanhecer, ele saiu e foi para um lugar deserto, e ali se pôs em oração."
+    },
+    {
+      "numero": 36,
+      "texto": "Simão e os seus companheiros saíram a procurá-lo."
+    },
+    {
+      "numero": 37,
+      "texto": "Encontraram-no e disseram-lhe: “Todos te procuram”."
+    },
+    {
+      "numero": 38,
+      "texto": "E ele respondeu-lhes: “Vamos às aldeias vizinhas, para que eu pregue também lá, pois, para isso é que vim”."
+    },
+    {
+      "numero": 39,
+      "texto": "Ele retirou-se dali, pregando em todas as sinagogas e por toda a Galileia, e expulsando os demônios. (= Mt 8,2-4 = Lc 5,12-16)"
+    },
+    {
+      "numero": 40,
+      "texto": "Aproximou-se dele um leproso, suplicando-lhe de joelhos: “Se queres, podes limpar-me”."
+    },
+    {
+      "numero": 41,
+      "texto": "Jesus compadeceu-se dele, estendeu a mão, tocou-o e lhe disse: “Eu quero, sê curado”."
+    },
+    {
+      "numero": 42,
+      "texto": "E imediatamente desapareceu dele a lepra e foi purificado."
+    },
+    {
+      "numero": 43,
+      "texto": "Jesus o despediu em seguida, com esta severa admoestação:"
+    },
+    {
+      "numero": 44,
+      "texto": "“Vê que não o digas a ninguém; mas vai, mostra-te ao sacerdote e apresenta, pela tua purificação, a oferenda prescrita por Moisés para lhe servir de testemunho”.",
+      "nota": true
+    },
+    {
+      "numero": 45,
+      "texto": "Este homem, porém, logo que se foi, começou a propagar e divulgar o acontecido, de modo que Jesus não podia entrar publicamente em uma cidade. Conservava-se fora, nos lugares despovoados; e de toda parte vinham ter com ele. (= Mt 9,1-8 = Lc 5,17-26)"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:1-3",
+      "texto": "O Evangelho começa com a declaração de que Jesus é o Cristo, o Filho de Deus, e faz referência a Isaías, indicando o cumprimento das profecias sobre a vinda do Messias. A preparação do caminho para o Senhor é central para a missão de João Batista e de Jesus (veja também Isaías 40:3 e Mateus 3:1-3)."
+    },
+    {
+      "ref": "1:4-8",
+      "texto": "João Batista prega o arrependimento e batiza com água, mas afirma que Jesus batizaria com o Espírito Santo. Isso destaca a importância do arrependimento e da preparação espiritual para a chegada do Reino de Deus (veja também Mateus 3:11 e João 1:33)."
+    },
+    {
+      "ref": "1:9-11",
+      "texto": "O batismo de Jesus no rio Jordão é um momento crucial, onde Ele se identifica com os pecadores, mesmo sendo sem pecado. A voz do Pai e a pomba do Espírito Santo confirmam a divindade de Jesus, marcando o início de Seu ministério (veja também Mateus 3:16-17 e João 1:32-34)."
+    },
+    {
+      "ref": "1:14-15",
+      "texto": "Jesus começa a pregar o evangelho do Reino de Deus, chamando ao arrependimento e à fé. O tempo de arrependimento é urgente, pois o Reino de Deus está próximo. Isso demonstra o cumprimento das promessas messiânicas e a necessidade de uma mudança de vida (veja também Mateus 4:17 e Lucas 4:43)."
+    },
+    {
+      "ref": "1:40-45",
+      "texto": "A cura de um leproso por Jesus destaca Seu poder sobre as doenças físicas e a compaixão para com os marginalizados. Ele instrui o homem curado a não divulgar o milagre, mas a mostrar-se ao sacerdote, enfatizando a importância da obediência às leis (veja também Levítico 14:1-32 e Mateus 8:4)."
+    }
+  ]
+}

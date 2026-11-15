@@ -1,0 +1,105 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ii-cronicas",
+  "nome": "II Crônicas",
+  "testamento": "AT",
+  "capitulo": 3,
+  "totalVersiculos": 17,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ii-cronicas/3/",
+  "capturadoEm": "2026-11-15T09:13:32-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Salomão começou a construção do Templo do Senhor, em Jerusalém, no monte Moriá, onde Deus tinha aparecido a seu pai Davi, no lugar que este tinha preparado, na eira de Ornã."
+    },
+    {
+      "numero": 2,
+      "texto": "Foi no segundo dia do segundo mês, no quarto ano de seu reinado, que iniciou a obra."
+    },
+    {
+      "numero": 3,
+      "texto": "Estes são os fundamentos determinados por Salomão para a construção do templo: de comprimento, sessenta côvados, segundo a antiga medida; de largura, vinte côvados."
+    },
+    {
+      "numero": 4,
+      "texto": "O pórtico, que se achava no frontispício e cujo comprimento correspondia à largura do edifício, tinha vinte côvados e vinte de altura. Era revestido de ouro puro por dentro.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "A grande sala foi forrada de ciprestes; ele a guarneceu de ouro puro nos lugares em que estavam esculpidas as palmas e as pequenas cadeias."
+    },
+    {
+      "numero": 6,
+      "texto": "Ornou essa sala com pedras preciosas; o ouro era de Parvaim."
+    },
+    {
+      "numero": 7,
+      "texto": "O rei revestiu de ouro a sala: traves, umbrais, paredes e portas; nas paredes mandou esculpir querubins."
+    },
+    {
+      "numero": 8,
+      "texto": "Fez também a construção da sala do Santo dos Santos, cujo comprimento, igual à largura do edifício, era de vinte côvados. O valor do ouro fino, com que o recobriu, era de seiscentos talentos."
+    },
+    {
+      "numero": 9,
+      "texto": "Mesmo os pregos eram de ouro e pesavam cinquenta siclos. Revestiu igualmente de ouro os aposentos."
+    },
+    {
+      "numero": 10,
+      "texto": "Para o interior do Santo dos Santos, mandou esculpir dois querubins e os revestiu de ouro."
+    },
+    {
+      "numero": 11,
+      "texto": "O comprimento de suas asas era de vinte côvados. Uma asa do primeiro, de cinco côvados de comprimento, tocava a parede da sala e a outra, de cinco côvados, tocava a asa do segundo querubim."
+    },
+    {
+      "numero": 12,
+      "texto": "Uma asa do segundo querubim, de cinco côvados de comprimento, tocava a parede da sala e a outra, de cinco côvados de comprimento, tocava a asa do primeiro."
+    },
+    {
+      "numero": 13,
+      "texto": "Assim, a envergadura das asas desses querubins era de vinte côvados. Sustentavam-se sobre seus pés com o rosto voltado para a sala."
+    },
+    {
+      "numero": 14,
+      "texto": "O rei mandou fazer a cortina de púrpura violeta, carmesim e de linho fino e nela mandou bordar querubins."
+    },
+    {
+      "numero": 15,
+      "texto": "Diante do edifício, levantou duas colunas de trinta e cinco côvados de altura, tendo no alto um capitel de cinco côvados.",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "Como para o santuário, fez pequenas cadeias, colocou-as no cimo das colunas e suspendeu nelas cem romãs."
+    },
+    {
+      "numero": 17,
+      "texto": "Levantou colunas, uma à direita e outra à esquerda da fachada do templo; chamou à da direita Jaquin e à da esquerda, Booz."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1",
+      "texto": "A escolha do monte Moriá como local para o templo é significativa, pois é o mesmo lugar onde Abraão esteve preparado para sacrificar Isaque. Essa conexão histórica enfatiza a continuidade da relação de Deus com Seu povo (veja também Gênesis 22:2 e Hebreus 11:17-19)."
+    },
+    {
+      "ref": "3:2-4",
+      "texto": "A descrição das dimensões e da estrutura do templo revela a atenção aos detalhes e a majestade do projeto. Isso demonstra que a adoração a Deus deve ser feita com excelência e reverência (veja também Salmo 96:6 e 1 Crônicas 29:1-2)."
+    },
+    {
+      "ref": "3:5-10",
+      "texto": "A ornamentação do templo, incluindo a arca da aliança, simboliza a presença de Deus entre o Seu povo. O templo é um espaço sagrado, e cada elemento tem um propósito espiritual significativo (veja também Hebreus 9:4 e Êxodo 25:22)."
+    },
+    {
+      "ref": "3:11-17",
+      "texto": "A construção dos querubins e de outros elementos do templo revela a beleza e a majestade de Deus. A arte sacra é uma forma de expressar a grandeza de Deus e deve ser utilizada para glorificá-Lo (veja também Salmo 29:9 e Apocalipse 4:8)."
+    },
+    {
+      "ref": "3:18",
+      "texto": "A grandeza e a singularidade do templo de Salomão tornam-se um símbolo da adoração a Deus. A construção do templo ressalta a importância de ter um lugar onde o povo possa se encontrar com Deus (veja também 1 Reis 8:29-30 e Salmo 132:13-14)."
+    }
+  ]
+}

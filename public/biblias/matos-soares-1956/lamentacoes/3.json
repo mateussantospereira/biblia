@@ -1,0 +1,299 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "lamentacoes",
+  "nome": "Lamentações",
+  "testamento": "AT",
+  "capitulo": 3,
+  "totalVersiculos": 66,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/lamentacoes/3/",
+  "capturadoEm": "2026-11-15T10:00:12-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "ALEF. Eu sou o homem que sentiu a miséria, debaixo da vara da sua indignação."
+    },
+    {
+      "numero": 2,
+      "texto": "ALEF. Conduziu-me e fez-me andar pelas trevas, e não pela luz."
+    },
+    {
+      "numero": 3,
+      "texto": "ALEF. Não cessa de voltar, contra mim só, a sua mão durante todo o dia."
+    },
+    {
+      "numero": 4,
+      "texto": "BET. Consumiu a minha carne e minha pele, partiu os meus ossos."
+    },
+    {
+      "numero": 5,
+      "texto": "BET. Ergueu construções contra mim, cercou-me de fel e de trabalho."
+    },
+    {
+      "numero": 6,
+      "texto": "BET. Pôs-me nas trevas, como os que estão mortos para sempre."
+    },
+    {
+      "numero": 7,
+      "texto": "CHIMEL. Cercou-me dum muro para que não possa sair; tornou pesados os meus grilhões."
+    },
+    {
+      "numero": 8,
+      "texto": "CHIMEL. Ainda que eu clame e rogue, fica inacessível à minha oração."
+    },
+    {
+      "numero": 9,
+      "texto": "CHIMEL. Fechou os meus caminhos com pedras de silharia, obstruiu as minhas veredas."
+    },
+    {
+      "numero": 10,
+      "texto": "DALET. Tornou-se para mim como um urso em emboscada, como um leão em esconderijos."
+    },
+    {
+      "numero": 11,
+      "texto": "DALET. Subverteu as minhas veredas, despedaçou-me, pôs-me na desolação."
+    },
+    {
+      "numero": 12,
+      "texto": "DALET. Retesou (para disparar) o seu arco, e pôs-me como alvo das suas flechas."
+    },
+    {
+      "numero": 13,
+      "texto": "HÉ. Cravou nos meus rins as setas da sua alvaja."
+    },
+    {
+      "numero": 14,
+      "texto": "HÉ. Tornei-me o escárnio de todo o meu povo o assunto das suas cantilenas diárias."
+    },
+    {
+      "numero": 15,
+      "texto": "HÉ. Encheu-me de amargura, embriagou-me de absinto."
+    },
+    {
+      "numero": 16,
+      "texto": "VAU. Quebrou todos os meus dentes com areia, deu-me a comer cinza."
+    },
+    {
+      "numero": 17,
+      "texto": "VAU. Está desterrada a minha alma da paz; já não sei o que é felicidade."
+    },
+    {
+      "numero": 18,
+      "texto": "VAU. Eu disse: Desapareceu a minha força, assim como a esperança que tinha no Senhor."
+    },
+    {
+      "numero": 19,
+      "texto": "ZAIN. Lembra-te da minha pobreza e tribulação absinto e fel (que me fazem beber)."
+    },
+    {
+      "numero": 20,
+      "texto": "ZAIN. Lembrando-me disto, sem cessar, a minha alma definha dentro de mim."
+    },
+    {
+      "numero": 21,
+      "texto": "ZAIN. Mas eis o que repassarei no meu coração, para retomar esperança:"
+    },
+    {
+      "numero": 22,
+      "texto": "HET. Por graça do Senhor não fomos consumidos (inteiramente); sim, as suas comiserações não se esgotaram."
+    },
+    {
+      "numero": 23,
+      "texto": "HET. Elas renovam-se todas as manhãs; grande é (ó Senhor) a tua fidelidade."
+    },
+    {
+      "numero": 24,
+      "texto": "HET. A minha porção é o Senhor, disse a minha alma; portanto esperarei nele."
+    },
+    {
+      "numero": 25,
+      "texto": "TET. O Senhor é bom para o que nele espera, para a alma que o busca."
+    },
+    {
+      "numero": 26,
+      "texto": "TET. É bom esperar em silêncio a salvação (que vem de) Deus."
+    },
+    {
+      "numero": 27,
+      "texto": "TET. É bom para o homem ter levado o jugo desde a sua mocidade."
+    },
+    {
+      "numero": 28,
+      "texto": "JOD. Sente-se solitário e fique (resignado) em silêncio, se Deus lho impuser."
+    },
+    {
+      "numero": 29,
+      "texto": "JOD. Ponha a sua boca no pó, a ver se há alguma esperança."
+    },
+    {
+      "numero": 30,
+      "texto": "JOD. Ofereça a face ao que o fere, sacie-se de opróbrios."
+    },
+    {
+      "numero": 31,
+      "texto": "CAF. Porque o Senhor não nos rejeita para sempre;"
+    },
+    {
+      "numero": 32,
+      "texto": "CAF. mesmo quando aflige, também se compadece (de nós), segundo a grande bondade."
+    },
+    {
+      "numero": 33,
+      "texto": "CAF. Com efeito não humilha nem atormenta, por gosto, os filhos dos homens."
+    },
+    {
+      "numero": 34,
+      "texto": "LAMED. Pisar aos seus pés todos os cativos da terra,"
+    },
+    {
+      "numero": 35,
+      "texto": "LAMED. violar o direito dum homem ante a presença do Altíssimo,"
+    },
+    {
+      "numero": 36,
+      "texto": "LAMED. prejudicar um homem na sua causa, o Senhor não há-de ver tudo isto?"
+    },
+    {
+      "numero": 37,
+      "texto": "MEM. Quem é que disse que se fizesse uma coisa, sem que o Senhor o mandasse?"
+    },
+    {
+      "numero": 38,
+      "texto": "MEM. Não saem da boca do Altíssimo os males e os bens?"
+    },
+    {
+      "numero": 39,
+      "texto": "MEM. Por que se queixa (pois) o homem, na sua vida? Queixe-se, sim, dos seus pecados."
+    },
+    {
+      "numero": 40,
+      "texto": "NUN. Examinemos, investiguemos os nossos passos, e voltemos ao Senhor."
+    },
+    {
+      "numero": 41,
+      "texto": "NUN. Levantemos os corações e as mãos para Deus nos céus."
+    },
+    {
+      "numero": 42,
+      "texto": "NUN. Procedemos injustamente, fomos rebeldes; e tu não perdoaste."
+    },
+    {
+      "numero": 43,
+      "texto": "SAMEG. Envolveste-te de cólera e perseguiste-nos, mataste sem misericórdia."
+    },
+    {
+      "numero": 44,
+      "texto": "SAMEG. Puseste uma nuvem diante de ti, para a oração não passar."
+    },
+    {
+      "numero": 45,
+      "texto": "SAMEC. Fizeste de nós varreduras e rebotalho, no meio dos povos."
+    },
+    {
+      "numero": 46,
+      "texto": "FE. Abriram contra nós a sua boca todos os nossos inimigos."
+    },
+    {
+      "numero": 47,
+      "texto": "FE. Foram a nossa parte o terror e a cova, a devastação e a ruína."
+    },
+    {
+      "numero": 48,
+      "texto": "FE. Os meus olhos derramam rios de lágrimas, por causa da ruína da filha do meu povo."
+    },
+    {
+      "numero": 49,
+      "texto": "AIN. Os meus olhos fundem-se em pranto contínuo, sem descanso,"
+    },
+    {
+      "numero": 50,
+      "texto": "AIN. até que olhe e veja o Senhor do alto dos céus."
+    },
+    {
+      "numero": 51,
+      "texto": "AIN. Os meus olhos atormentam-me, chorando sobre todas as filhas da minha cidade."
+    },
+    {
+      "numero": 52,
+      "texto": "SADE. Como a uma ave me deram caga, os meus inimigos sem causa."
+    },
+    {
+      "numero": 53,
+      "texto": "SADE. Quiseram precipitar a minha vida na cova, puseram sobre mim uma pedra."
+    },
+    {
+      "numero": 54,
+      "texto": "SADE. As águas submergiram a minha cabeça; eu disse então: Estou perdido."
+    },
+    {
+      "numero": 55,
+      "texto": "COF. Invoquei, Senhor, o teu nome, do fundo da cova."
+    },
+    {
+      "numero": 56,
+      "texto": "COF. Tu ouviste a minha voz: Não feches o teu ouvido aos meus soluços e clamores."
+    },
+    {
+      "numero": 57,
+      "texto": "COF. Tu te aproximaste no dia em que te invoquei, e disseste: Não temas."
+    },
+    {
+      "numero": 58,
+      "texto": "RES. Senhor, defendeste a causa da minha alma resgataste a minha vida."
+    },
+    {
+      "numero": 59,
+      "texto": "RES. Viste, Senhor, a iniquidade deles contra mim; faze-me justiça."
+    },
+    {
+      "numero": 60,
+      "texto": "RES. Viste todo o seu rancor, todas as suas maquinações contra mim."
+    },
+    {
+      "numero": 61,
+      "texto": "SIN. Ouviste senhor, os seus vitupérios todas as suas maquinações contra mim,"
+    },
+    {
+      "numero": 62,
+      "texto": "SIN. os intentos dos meus adversários, o que tramam contra mim todo o dia."
+    },
+    {
+      "numero": 63,
+      "texto": "SIN. Observa-os, quando sentados ou quando de pé: eu sou o objecto das suas canções (burlescas)."
+    },
+    {
+      "numero": 64,
+      "texto": "TAU. Tu, Senhor, lhes darás o pago, como merecem as obras das suas mãos."
+    },
+    {
+      "numero": 65,
+      "texto": "TAU. Dar-lhes-ás o endurecimento de coração; caia sobre eles a tua maldição."
+    },
+    {
+      "numero": 66,
+      "texto": "TAU. Tu os perseguirás com furor e exterminarás de debaixo dos céus, ó Senhor."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-3",
+      "texto": "O sofrimento pessoal do poeta é destacado, refletindo o sofrimento de todo o povo. A identificação com o sofrimento é uma maneira de expressar a solidariedade com o sofrimento coletivo e a dor causada pelo pecado (veja também Jeremias 15:18 e 2 Coríntios 1:4)."
+    },
+    {
+      "ref": "3:22-24",
+      "texto": "A esperança é renovada com a afirmação de que a misericórdia de Deus é infinita e constante. Mesmo em meio ao sofrimento, o poeta encontra consolo no caráter fiel e imutável de Deus, uma mensagem de esperança para todo o povo de Israel (veja também Salmo 136:1-3 e Hebreus 10:23)."
+    },
+    {
+      "ref": "3:25-30",
+      "texto": "Deus é descrito como bom para aqueles que O buscam com sinceridade, e a paciência é incentivada diante do sofrimento. Este é um chamado ao arrependimento e à esperança no agir de Deus, mesmo nas situações mais desesperadoras (veja também Isaías 40:31 e Tiago 5:7-8)."
+    },
+    {
+      "ref": "3:31-33",
+      "texto": "A confiança na bondade de Deus é reafirmada, mesmo diante de Seu juízo. Deus não rejeita eternamente, mas Ele permite o sofrimento para purificar e restaurar Seu povo. Isso revela a natureza disciplinadora do amor de Deus (veja também Salmo 30:5 e Hebreus 12:6-11)."
+    },
+    {
+      "ref": "3:40-42",
+      "texto": "O poeta conclama o povo a se examinar e voltar-se para Deus com arrependimento. Esse é um chamado ao autoconceito honesto, reconhecendo os próprios erros e buscando a restauração oferecida por Deus (veja também 2 Crônicas 7:14 e 1 João 1:9)."
+    }
+  ]
+}

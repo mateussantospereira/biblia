@@ -1,0 +1,117 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sao-tiago",
+  "nome": "São Tiago",
+  "testamento": "NT",
+  "capitulo": 5,
+  "totalVersiculos": 20,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sao-tiago/5/",
+  "capturadoEm": "2026-11-15T09:29:22-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Vós, ricos, chorai e gemei por causa das desgraças que sobre vós virão."
+    },
+    {
+      "numero": 2,
+      "texto": "Vossas riquezas apodreceram e vossas roupas foram comidas pela traça."
+    },
+    {
+      "numero": 3,
+      "texto": "Vosso ouro e vossa prata enferrujaram-se e a sua ferrugem dará testemunho contra vós e devorará vossas carnes como fogo. Entesourastes nos últimos dias!"
+    },
+    {
+      "numero": 4,
+      "texto": "Eis que o salário, que defraudastes aos trabalhadores que ceifavam os vossos campos, clama, e seus gritos de ceifadores chegaram aos ouvidos do Senhor dos exércitos."
+    },
+    {
+      "numero": 5,
+      "texto": "Tendes vivido em delícias e em dissoluções sobre a terra, e saciastes os vossos corações para o dia da matança!"
+    },
+    {
+      "numero": 6,
+      "texto": "Condenastes e matastes o justo, e ele não vos resistiu."
+    },
+    {
+      "numero": 7,
+      "texto": "Tende, pois, paciência, meus irmãos, até a vinda do Senhor. Vede o lavrador: ele aguarda o precioso fruto da terra e tem paciência até receber a chuva do outono e a da primavera.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Tende também vós paciência e fortalecei os vossos corações, porque a vinda do Senhor está próxima."
+    },
+    {
+      "numero": 9,
+      "texto": "Não vos queixeis uns dos outros, para que não sejais julgados. Eis que o juiz está à porta."
+    },
+    {
+      "numero": 10,
+      "texto": "Tomai, irmãos, por modelo de paciência e de coragem os profetas, que falaram em nome do Senhor."
+    },
+    {
+      "numero": 11,
+      "texto": "Vós sabeis que felicitamos os que suportam os sofrimentos de Jó. Vós conheceis o fim em que o Senhor o colocou, porque o Senhor é misericordioso e compassivo."
+    },
+    {
+      "numero": 12,
+      "texto": "Antes de mais nada, meus irmãos, abstende-vos de jurar. Não jureis nem pelo céu nem pela terra, nem empregueis qualquer outra fórmula de juramento. Que vosso sim, seja sim; que vosso não, seja não. Assim não caireis no golpe do julgamento."
+    },
+    {
+      "numero": 13,
+      "texto": "Alguém entre vós está triste? Reze! Está alegre? Cante."
+    },
+    {
+      "numero": 14,
+      "texto": "Está alguém enfermo? Chame os sacerdotes da Igreja, e estes façam oração sobre ele, ungindo-o com óleo em nome do Senhor.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "A oração da fé salvará o enfermo e o Senhor o restabelecerá. Se ele cometeu pecados, lhe serão perdoados."
+    },
+    {
+      "numero": 16,
+      "texto": "Confessai os vossos pecados uns aos outros, e orai uns pelos outros para serdes curados. A oração do justo tem grande eficácia."
+    },
+    {
+      "numero": 17,
+      "texto": "Elias era um homem pobre como nós e orou com fervor para que não chovesse sobre a terra, e por três anos e seis meses não choveu."
+    },
+    {
+      "numero": 18,
+      "texto": "Orou de novo, e o céu deu chuva, e a terra deu o seu fruto."
+    },
+    {
+      "numero": 19,
+      "texto": "Meus irmãos, se alguém fizer voltar ao bom caminho algum de vós que se afastou para longe da verdade,"
+    },
+    {
+      "numero": 20,
+      "texto": "saiba: aquele que fizer um pecador retroceder do seu erro, salvará sua alma da morte e fará desaparecer uma multidão de pecados."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "5:1-6",
+      "texto": "Tiago adverte os ricos que exploram os pobres e vivem em luxo, pois o juízo de Deus se aproxima. A injustiça econômica é um pecado grave, e Deus defende os oprimidos (veja também Lucas 6:24-26 e Amós 5:11-12)."
+    },
+    {
+      "ref": "5:7-11",
+      "texto": "Tiago exorta os cristãos a serem pacientes e firmes na fé, esperando com confiança o retorno de Cristo. O exemplo dos profetas e de Jó mostra que a paciência e a perseverança são recompensadas (veja também Mateus 24:42-44 e Romanos 5:3-4)."
+    },
+    {
+      "ref": "5:13-18",
+      "texto": "A oração tem poder de cura e restauração. Tiago enfatiza a importância de orar uns pelos outros, confessar os pecados e buscar a ajuda espiritual da Igreja (veja também 1 João 5:14-16 e Marcos 11:24)."
+    },
+    {
+      "ref": "5:19-20",
+      "texto": "Tiago conclui a carta exortando os cristãos a trazerem de volta à fé os que se desviaram. A restauração dos irmãos é uma obra de grande valor, pois cobre uma multidão de pecados (veja também Gálatas 6:1 e Provérbios 10:12)."
+    },
+    {
+      "ref": "5:14-15",
+      "texto": "A unção com óleo e a oração dos anciãos são meios de buscar cura física e espiritual, mostrando a importância da fé comunitária e do cuidado pastoral na Igreja (veja também Marcos 6:13 e 1 Coríntios 12:9)."
+    }
+  ]
+}

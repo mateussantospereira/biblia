@@ -1,0 +1,123 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-sao-joao",
+  "nome": "I São João",
+  "testamento": "NT",
+  "capitulo": 5,
+  "totalVersiculos": 21,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-sao-joao/5/",
+  "capturadoEm": "2026-11-15T09:29:35-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Todo o que crê que Jesus é o Cristo, nasceu de Deus; e todo o que ama aquele que o gerou, ama também aquele que dele foi gerado."
+    },
+    {
+      "numero": 2,
+      "texto": "Nisto conhecemos que amamos os filhos de Deus: se amamos a Deus e guardamos os seus mandamentos."
+    },
+    {
+      "numero": 3,
+      "texto": "Eis o amor de Deus: que guardemos seus mandamentos. E seus mandamentos não são penosos,"
+    },
+    {
+      "numero": 4,
+      "texto": "porque todo o que nasceu de Deus vence o mundo. E esta é a vitória que vence o mundo: a nossa fé."
+    },
+    {
+      "numero": 5,
+      "texto": "Quem é o vencedor do mundo senão aquele que crê que Jesus é o Filho de Deus?"
+    },
+    {
+      "numero": 6,
+      "texto": "Ei-lo, Jesus Cristo, aquele que veio pela água e pelo sangue; não só pela água, mas pela água e pelo sangue. E o Espírito é quem dá testemunho dele, porque o Espírito é a verdade."
+    },
+    {
+      "numero": 7,
+      "texto": "São, assim, três os que dão testemunho:"
+    },
+    {
+      "numero": 8,
+      "texto": "o Espírito, a água e o sangue; esses três dão o mesmo testemunho.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Aceitamos o testemunho dos homens. Ora, maior é o testemunho de Deus, porque se trata do próprio testemunho de Deus, aquele que ele deu do seu próprio Filho."
+    },
+    {
+      "numero": 10,
+      "texto": "Aquele que crê no Filho de Deus tem em si o testemunho de Deus. Aquele que não crê em Deus o faz mentiroso, porque não crê no testemunho que Deus deu a respeito de seu Filho."
+    },
+    {
+      "numero": 11,
+      "texto": "E o testemunho é este: Deus nos deu a vida eterna, e essa vida está em seu Filho."
+    },
+    {
+      "numero": 12,
+      "texto": "Quem possui o Filho possui a vida; quem não tem o Filho de Deus não tem a vida.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Isso vos escrevi para que saibais que tendes a vida eterna, vós que credes no nome do Filho de Deus."
+    },
+    {
+      "numero": 14,
+      "texto": "A confiança que depositamos nele é esta: em tudo quanto lhe pedirmos, se for conforme à sua vontade, ele nos atenderá."
+    },
+    {
+      "numero": 15,
+      "texto": "E se sabemos que ele nos atende em tudo quanto lhe pedirmos, sabemos daí que já recebemos o que pedimos."
+    },
+    {
+      "numero": 16,
+      "texto": "Se alguém vê seu irmão cometer um pecado que não o conduza à morte, reze, e Deus lhe dará a vida; isso para aqueles que não pecam para a morte. Há pecado que é para morte; não digo que se reze por esse."
+    },
+    {
+      "numero": 17,
+      "texto": "Toda iniquidade é pecado, mas há pecado que não leva à morte."
+    },
+    {
+      "numero": 18,
+      "texto": "Sabemos que aquele que nasceu de Deus não peca; mas o que é gerado de Deus se acautela, e o Maligno não o toca.",
+      "nota": true
+    },
+    {
+      "numero": 19,
+      "texto": "Sabemos que somos de Deus, e que o mundo todo jaz sob o Maligno."
+    },
+    {
+      "numero": 20,
+      "texto": "Sabemos que o Filho de Deus veio e nos deu entendimento para conhecermos o Verdadeiro. E estamos no Verdadeiro, nós que estamos em seu Filho Jesus Cristo. Este é o verdadeiro Deus e a vida eterna.",
+      "nota": true
+    },
+    {
+      "numero": 21,
+      "texto": "Filhinhos, guardai-vos dos ídolos!"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "5:1-5",
+      "texto": "Todo aquele que crê que Jesus é o Cristo é nascido de Deus. A fé em Cristo e a obediência a Seus mandamentos são os fundamentos da vida cristã (veja também João 3:16 e 1 João 2:23)."
+    },
+    {
+      "ref": "5:6-8",
+      "texto": "A água, o sangue e o Espírito testemunham sobre Jesus, enfatizando a verdade de Sua missão redentora. Esses três testemunhos são evidências da obra divina em Cristo (veja também Mateus 3:16-17 e João 19:34)."
+    },
+    {
+      "ref": "5:11-13",
+      "texto": "A vida eterna é dada por Deus através de Seu Filho. João escreve para que os crentes saibam que possuem a vida eterna, que é garantida pela fé em Jesus Cristo (veja também João 5:24 e 1 João 2:25)."
+    },
+    {
+      "ref": "5:14-15",
+      "texto": "A confiança em Deus é central na oração. João ensina que, se pedirmos segundo a Sua vontade, Ele nos ouvirá, reforçando a importância da oração alinhada com os planos divinos (veja também Filipenses 4:6-7 e 1 João 3:22)."
+    },
+    {
+      "ref": "5:18-21",
+      "texto": "João conclui afirmando que todo aquele que nasce de Deus não vive no pecado, mas é protegido por Deus do maligno. Ele também alerta para a idolatria, ressaltando a importância de viver em Cristo (veja também 1 João 3:9 e Efésios 6:16)."
+    }
+  ]
+}

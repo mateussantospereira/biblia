@@ -1,0 +1,87 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 62,
+  "totalVersiculos": 12,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/62/",
+  "capturadoEm": "2026-11-15T09:22:16-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Por amor a Sião, eu não me calarei, por amor de Jerusalém, não terei sossego, até que sua justiça brilhe como a aurora, e sua salvação como uma flama."
+    },
+    {
+      "numero": 2,
+      "texto": "As nações verão então tua vitória, e todos os reis teu triunfo. Receberás então um novo nome, determinado pela boca do Senhor.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "E tu serás uma esplêndida coroa na mão do Senhor, um diadema real entre as mãos do teu Deus;"
+    },
+    {
+      "numero": 4,
+      "texto": "não mais serás chamada a desamparada, nem tua terra, a abandonada; serás chamada: minha preferida, e tua terra: a desposada, porque o Senhor se comprazerá em ti e tua terra terá um esposo;"
+    },
+    {
+      "numero": 5,
+      "texto": "assim como um jovem desposa uma jovem, aquele que te tiver construído te desposará; e como a recém-casada faz a alegria de seu marido, tu farás a alegria de teu Deus."
+    },
+    {
+      "numero": 6,
+      "texto": "Sobre tuas muralhas, Jerusalém, coloquei vigias; nem de dia nem de noite devem calar-se. Vós, que deveis manter desperta a memória do Senhor, não vos concedais descanso algum",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "e não o deixeis em paz, até que tenha restabelecido Jerusalém para dela fazer a glória da terra."
+    },
+    {
+      "numero": 8,
+      "texto": "O Senhor o jurou por sua destra e por seu braço poderoso: “Não deixarei mais teus inimigos alimentarem-se de teu trigo, nem os estrangeiros beberem o vinho, produto de teu trabalho."
+    },
+    {
+      "numero": 9,
+      "texto": "Aqueles que colherem o trigo o comerão louvando o Senhor; aqueles que vindimarem beberão o vinho no átrio de meu santuário”.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Passai, passai pelas portas, preparai o caminho ao povo! Abri, abri a estrada, retirai dela as pedras! Alçai o estandarte para convocar os povos."
+    },
+    {
+      "numero": 11,
+      "texto": "Eis o que o Senhor proclama até os confins da terra: “Dizei a Sião: eis, aí vem teu salvador; eis com ele o preço de sua vitória, ele faz-se preceder dos frutos de sua conquista;"
+    },
+    {
+      "numero": 12,
+      "texto": "os resgatados do Senhor serão chamados ‘Povo Santo’, e tu, cidade não mais desamparada, serás chamada a ‘desejada’.”",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "62:1-2",
+      "texto": "Deus promete não descansar até que a justiça e a salvação de Jerusalém brilhem como a aurora. Isso reflete o compromisso de Deus com Seu povo e Sua fidelidade em cumprir Suas promessas (veja também Salmo 37:6 e Apocalipse 21:2)."
+    },
+    {
+      "ref": "62:3-5",
+      "texto": "Jerusalém será como uma coroa de glória nas mãos de Deus, mostrando o valor que Ele dá ao Seu povo. Deus se deleita em Jerusalém, comparando sua relação com o povo a um casamento (veja também Cântico dos Cânticos 2:16 e Apocalipse 19:7)."
+    },
+    {
+      "ref": "62:6-7",
+      "texto": "Deus coloca sentinelas nos muros de Jerusalém para clamarem incessantemente por restauração. Isso simboliza o papel da intercessão constante no plano divino (veja também Ezequiel 3:17 e Lucas 18:7-8)."
+    },
+    {
+      "ref": "62:8-9",
+      "texto": "Deus jura que o povo comerá o fruto de seu trabalho, sem que inimigos os saquem. Esta promessa de segurança reflete a restauração da terra prometida (veja também Levítico 26:4-5 e Amós 9:14)."
+    },
+    {
+      "ref": "62:10-12",
+      "texto": "Deus convoca o povo a preparar o caminho para a salvação, proclamando que Jerusalém será chamada de cidade santa, redimida pelo Senhor (veja também Isaías 35:8 e Zacarias 14:20-21)."
+    }
+  ]
+}

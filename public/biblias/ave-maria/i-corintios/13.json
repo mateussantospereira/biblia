@@ -1,0 +1,83 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-corintios",
+  "nome": "I Coríntios",
+  "testamento": "NT",
+  "capitulo": 13,
+  "totalVersiculos": 13,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-corintios/13/",
+  "capturadoEm": "2026-11-15T09:28:05-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ainda que eu falasse as línguas dos homens e dos anjos, se não tiver caridade, sou como o bronze que soa, ou como o címbalo que retine."
+    },
+    {
+      "numero": 2,
+      "texto": "Mesmo que eu tivesse o dom da profecia, e conhecesse todos os mistérios e toda a ciência; mesmo que tivesse toda a fé, a ponto de transportar montanhas, se não tiver caridade, não sou nada."
+    },
+    {
+      "numero": 3,
+      "texto": "Ainda que distribuísse todos os meus bens em sustento dos pobres, e ainda que entregasse o meu corpo para ser queimado, se não tiver caridade, de nada valeria!"
+    },
+    {
+      "numero": 4,
+      "texto": "A caridade é paciente, a caridade é bondosa. Não tem inveja. A caridade não é orgulhosa. Não é arrogante."
+    },
+    {
+      "numero": 5,
+      "texto": "Nem escandalosa. Não busca os seus próprios interesses, não se irrita, não guarda rancor."
+    },
+    {
+      "numero": 6,
+      "texto": "Não se alegra com a injustiça, mas se rejubila com a verdade."
+    },
+    {
+      "numero": 7,
+      "texto": "Tudo desculpa, tudo crê, tudo espera, tudo suporta."
+    },
+    {
+      "numero": 8,
+      "texto": "A caridade jamais acabará. As profecias desaparecerão, o dom das línguas cessará, o dom da ciência findará."
+    },
+    {
+      "numero": 9,
+      "texto": "A nossa ciência é parcial, a nossa profecia é imperfeita."
+    },
+    {
+      "numero": 10,
+      "texto": "Quando chegar o que é perfeito, o imperfeito desaparecerá."
+    },
+    {
+      "numero": 11,
+      "texto": "Quando eu era criança, falava como criança, pensava como criança, raciocinava como criança. Desde que me tornei homem, eliminei as coisas de criança."
+    },
+    {
+      "numero": 12,
+      "texto": "Hoje vemos como por um espelho, confusamente; mas então veremos face a face. Hoje conheço em parte; mas então conhecerei totalmente, como eu sou conhecido."
+    },
+    {
+      "numero": 13,
+      "texto": "Por ora subsistem a fé, a esperança e a caridade – as três. Porém, a maior delas é a caridade."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "13:1-3",
+      "texto": "Paulo enfatiza que sem amor, até as maiores virtudes, como a eloquência e o sacrifício, são inúteis. O amor é a essência da verdadeira espiritualidade, e sua ausência invalida até as boas ações (veja também 1 João 4:8 e Gálatas 5:6)."
+    },
+    {
+      "ref": "13:4-7",
+      "texto": "O amor é descrito como paciente, bondoso, e sem inveja. Essas qualidades ilustram o amor ágape, que reflete o caráter de Deus e é fundamental para a vida cristã (veja também Efésios 4:2 e 1 João 3:18)."
+    },
+    {
+      "ref": "13:8-10",
+      "texto": "O amor é eterno, enquanto os dons espirituais, como profecia e línguas, são temporários. Isso destaca a supremacia do amor sobre todos os outros dons espirituais (veja também 1 Coríntios 12:31 e Romanos 13:10)."
+    },
+    {
+      "ref": "13:11-13",
+      "texto": "Paulo afirma que o amor é a maior virtude, e a fé e esperança também são essenciais. No entanto, é no amor que se encontra a plenitude da vida cristã, porque é ele que reflete a natureza de Deus (veja também Colossenses 3:14 e 1 João 4:16)."
+    }
+  ]
+}

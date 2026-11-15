@@ -1,0 +1,155 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 43,
+  "totalVersiculos": 28,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/43/",
+  "capturadoEm": "2026-11-15T09:21:56-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E agora, eis o que diz o Senhor, aquele que te criou, Jacó, e te formou, Israel: “Nada temas, pois eu te resgato, eu te chamo pelo nome, és meu."
+    },
+    {
+      "numero": 2,
+      "texto": "Se tiveres de atravessar a água, estarei contigo. E os rios não te submergirão; se caminhares pelo fogo, não te queimarás, e a chama não te consumirá."
+    },
+    {
+      "numero": 3,
+      "texto": "Pois eu sou o Senhor, teu Deus, o Santo de Israel, teu salvador. Dou o Egito por teu resgate, a Etiópia e Sabá em compensação.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Porque és precioso a meus olhos, porque eu te aprecio e te amo, permuto reinos por ti, entrego nações em troca de ti."
+    },
+    {
+      "numero": 5,
+      "texto": "Fica tranquilo, pois estou contigo, do oriente trarei tua raça, e do ocidente eu te reunirei."
+    },
+    {
+      "numero": 6,
+      "texto": "‘Devolve-os!’ – direi ao setentrião e ao meio-dia –: ‘Não os retenhas! Traze meus filhos das longínquas paragens, e minhas filhas dos confins da terra;"
+    },
+    {
+      "numero": 7,
+      "texto": "todos aqueles que trazem meu nome, e que criei para minha glória’."
+    },
+    {
+      "numero": 8,
+      "texto": "Fazei comparecer o povo cego apesar de ter olhos, e os surdos que têm ouvidos!",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Que todas as nações se congreguem e que os povos se reúnam! Quem dentre eles soube predizer o que se passa, e foi o primeiro que no-lo fez saber? Que apresentem suas testemunhas para justificar suas pretensões, que sejam ouvidas para que se possa dizer: ‘É exato’.”"
+    },
+    {
+      "numero": 10,
+      "texto": "“Vós sois minhas testemunhas, diz o Senhor, e meus servos que eu escolhi, a fim de que se reconheça e que me acreditem e que se compreenda que sou eu. Nenhum deus foi formado antes de mim, e não haverá outros depois de mim.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Sou eu, sou eu o Senhor, não há outro salvador a não ser eu."
+    },
+    {
+      "numero": 12,
+      "texto": "Fui eu quem predisse e salvei, e não um deus estranho entre vós. “Vós sois minhas testemunhas” – diz o Senhor –, “eu sou Deus"
+    },
+    {
+      "numero": 13,
+      "texto": "desde toda a eternidade. Ninguém poderia escapar de minha mão; quando executo, quem poderia destruir minha obra?’’"
+    },
+    {
+      "numero": 14,
+      "texto": "Eis o que diz o Senhor, vosso Redentor, o Santo de Israel: “Por vossa causa, envio a Babilônia, a fim de fazer cair os ferrolhos dos cárceres, e os caldeus se lamentarão em altos brados.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Eu sou o Senhor, vosso Santo, o criador de Israel, vosso rei”."
+    },
+    {
+      "numero": 16,
+      "texto": "Eis o que diz o Senhor que abriu uma passagem através do mar, um caminho em meio às ondas,",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "que pôs em campo carros e cavalos, a tropa de soldados e chefes: “Eles caíram então para nunca mais se levantar; extinguiram-se como um pavio de vela."
+    },
+    {
+      "numero": 18,
+      "texto": "Não vos lembreis mais dos acontecimentos de outrora, não recordeis mais as coisas antigas,"
+    },
+    {
+      "numero": 19,
+      "texto": "porque eis que vou fazer obra nova, a qual já surge: não a vedes? Vou abrir uma via pelo deserto, e fazer correr arroios pela estepe."
+    },
+    {
+      "numero": 20,
+      "texto": "Os animais selvagens me darão glória os chacais e as avestruzes, pois terei feito jorrar água no deserto, e correr arroios na estepe, para saciar a sede de meu povo, meu eleito;"
+    },
+    {
+      "numero": 21,
+      "texto": "o povo, que formei para mim, contará meus feitos."
+    },
+    {
+      "numero": 22,
+      "texto": "No entanto, não foste tu que me chamaste, Jacó, tu não te fatigaste por mim, Israel.",
+      "nota": true
+    },
+    {
+      "numero": 23,
+      "texto": "Não me ofereceste carneiros em holocausto, nem me honraste com sacrifícios; não cobrei de ti um pesado imposto em oblações, nem te sobrecarreguei exigindo incenso."
+    },
+    {
+      "numero": 24,
+      "texto": "Não me compraste, a preço alto, cana perfumada, nem me fartaste com a gordura das vítimas. Mas me atormentaste com teus pecados, cansaste-me com tuas iniquidades."
+    },
+    {
+      "numero": 25,
+      "texto": "Sempre sou eu quem deve apagar tuas faltas, e não mais me lembrar de teus pecados.",
+      "nota": true
+    },
+    {
+      "numero": 26,
+      "texto": "Refresca tua memória e discutamos: apresenta tuas contas, para te justificar!"
+    },
+    {
+      "numero": 27,
+      "texto": "Já teu primeiro pai pecou, teus representantes me ofenderam,",
+      "nota": true
+    },
+    {
+      "numero": 28,
+      "texto": "teus príncipes profanaram meu santuário. Então, entreguei Jacó ao anátema e Israel às injúrias”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "43:1-2",
+      "texto": "Deus afirma que redimiu Israel, chamando-o pelo nome, e promete protegê-lo em meio às águas e ao fogo. Essas palavras simbolizam a presença constante de Deus nas provações (veja também Salmo 23:4 e João 10:14)."
+    },
+    {
+      "ref": "43:10-11",
+      "texto": "Deus declara que Israel é Sua testemunha, reforçando que não há outro salvador além Dele. Este é um chamado à missão de proclamar a singularidade de Deus (veja também Isaías 45:5 e Atos 4:12)."
+    },
+    {
+      "ref": "43:16-17",
+      "texto": "Deus relembra a travessia do Mar Vermelho, reafirmando Seu poder para libertar e transformar situações impossíveis em vitória (veja também Êxodo 14:21-22 e Salmo 77:16-19)."
+    },
+    {
+      "ref": "43:18-19",
+      "texto": "Deus chama o povo a esquecer as coisas passadas e esperar por algo novo. Essa promessa aponta para a renovação espiritual e a restauração futura (veja também Jeremias 31:31-34 e 2 Coríntios 5:17)."
+    },
+    {
+      "ref": "43:25",
+      "texto": "Deus anuncia que perdoa os pecados por amor ao Seu próprio nome. Isso enfatiza Sua graça e a relação pessoal que deseja com Seu povo (veja também Miqueias 7:18-19 e Efésios 1:7)."
+    }
+  ]
+}

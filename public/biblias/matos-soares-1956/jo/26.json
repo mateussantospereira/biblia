@@ -1,0 +1,83 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "jo",
+  "nome": "Jó",
+  "testamento": "AT",
+  "capitulo": 26,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/jo/26/",
+  "capturadoEm": "2026-11-15T09:51:46-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Job respondeu assim:"
+    },
+    {
+      "numero": 2,
+      "texto": "Que auxílio deste a um fraco! Como sustentaste o braço do que não tem força!"
+    },
+    {
+      "numero": 3,
+      "texto": "Que bem aconselhaste um ignorante! Que sabedoria demonstraste!"
+    },
+    {
+      "numero": 4,
+      "texto": "A quem quiseste tu ensinar? Que espírito falou pela tua boca?"
+    },
+    {
+      "numero": 5,
+      "texto": "Até os mortos tremem debaixo da terra, os mares e os que neles moram."
+    },
+    {
+      "numero": 6,
+      "texto": "Aberto está o inferno diante dele (Deus), e o abismo da perdição não tem nenhum véu."
+    },
+    {
+      "numero": 7,
+      "texto": "Ele é que estende o setentrião sobre o vácuo, e o que suspende a terra sobre o nada."
+    },
+    {
+      "numero": 8,
+      "texto": "Ele é o que prende as águas nas suas nuvens, e as nuvens não se rasgam com o seu peso."
+    },
+    {
+      "numero": 9,
+      "texto": "Ele esconde a vista do seu trono, espalhando sobre ele as suas nuvens."
+    },
+    {
+      "numero": 10,
+      "texto": "Pôs em roda limites às águas, até aos confins entre a luz e as trevas. (ver nota)"
+    },
+    {
+      "numero": 11,
+      "texto": "As colunas do céu estremecem, aterram-se às suas ameaças."
+    },
+    {
+      "numero": 12,
+      "texto": "Com a sua fortaleza levanta os mares, com a sua sabedoria doma o monstro."
+    },
+    {
+      "numero": 13,
+      "texto": "O seu espirito adornou os céus, e a sua mão produziu a cobra tortuosa."
+    },
+    {
+      "numero": 14,
+      "texto": "Eis que tudo isto não é senão uma (pequena) parte das suas obras, e, se apenas temos ouvido um leve sussurro da sua palavra, quem poderá compreender o trovão da sua grandeza?"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "26:1-4",
+      "texto": "Jó responde a Bildade, afirmando que ele também é capaz de falar sobre a grandeza de Deus. A defesa de Jó mostra que ele tem conhecimento sobre a majestade divina e a natureza do sofrimento (veja também Salmo 139:14 e 1 Coríntios 1:25)."
+    },
+    {
+      "ref": "26:5-6",
+      "texto": "Jó descreve como até os mortos tremem diante de Deus. Essa descrição enfatiza o poder de Deus sobre toda a criação, incluindo os seres que já partiram. A consciência da soberania divina deve levar à reverência (veja também Filipenses 2:10-11 e Salmo 33:8-9)."
+    },
+    {
+      "ref": "26:7-14",
+      "texto": "Jó fala sobre a criação do mundo, incluindo a separação entre a terra e as águas. Ele destaca a sabedoria e o poder de Deus na criação, demonstrando que Deus é incomparável em Sua majestade e sabedoria. Isso reforça a ideia de que Deus tem controle sobre todas as coisas (veja também Salmo 104:24-25 e Provérbios 3:19-20)."
+    }
+  ]
+}

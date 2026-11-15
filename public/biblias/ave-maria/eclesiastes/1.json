@@ -1,0 +1,108 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "eclesiastes",
+  "nome": "Eclesiastes",
+  "testamento": "AT",
+  "capitulo": 1,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/eclesiastes/1/",
+  "capturadoEm": "2026-11-15T09:19:42-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Palavras do Eclesiastes, filho de Davi, rei de Jerusalém.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "“Fugacidade das fugacidades!”, diz o Eclesiastes. “fugacidade das fugacidades! Tudo é fugaz!”"
+    },
+    {
+      "numero": 3,
+      "texto": "Que proveito tira o homem de todo o trabalho com que se afadiga debaixo do sol?"
+    },
+    {
+      "numero": 4,
+      "texto": "Uma geração passa, outra vem, mas a terra sempre subsiste."
+    },
+    {
+      "numero": 5,
+      "texto": "O sol se levanta, o sol se põe e se apressa a voltar a seu lugar onde renasce."
+    },
+    {
+      "numero": 6,
+      "texto": "O vento sopra para o sul, volta para o norte, volteia e gira nos mesmos circuitos."
+    },
+    {
+      "numero": 7,
+      "texto": "Todos os rios se dirigem para o mar, e o mar não transborda. Em direção ao mar, para onde correm os rios, para lá correm sem cessar."
+    },
+    {
+      "numero": 8,
+      "texto": "Todas as coisas se afadigam, mais do que se pode dizer. A vista não se farta de ver, o ouvido nunca se sacia de ouvir."
+    },
+    {
+      "numero": 9,
+      "texto": "O que foi é o que será. O que aconteceu é o que há de acontecer. Não há nada de novo debaixo do sol."
+    },
+    {
+      "numero": 10,
+      "texto": "Se é encontrada alguma coisa da qual se diz: “Veja, isto é novo”, ela já existia nos tempos passados."
+    },
+    {
+      "numero": 11,
+      "texto": "Não há memória do que é antigo, nem nossos descendentes não deixarão memória junto àqueles que virão depois deles."
+    },
+    {
+      "numero": 12,
+      "texto": "Eu, o Eclesiastes, fui rei de Israel, em Jerusalém."
+    },
+    {
+      "numero": 13,
+      "texto": "Apliquei meu espírito a um estudo atencioso e à sábia observação de tudo quanto se passa debaixo do céu. Deus impôs aos homens essa ocupação ingrata."
+    },
+    {
+      "numero": 14,
+      "texto": "Vi tudo o que se faz debaixo do sol: eis que tudo é fugaz e vento que passa."
+    },
+    {
+      "numero": 15,
+      "texto": "O que está torto não se pode endireitar, o que falta não se pode calcular."
+    },
+    {
+      "numero": 16,
+      "texto": "Eu disse comigo mesmo: “Eis que amontoei e acumulei sabedoria mais do que todos os que me precederam em Jerusalém. Porque minha mente estudou muito a sabedoria e a ciência,"
+    },
+    {
+      "numero": 17,
+      "texto": "e apliquei o meu coração ao discernimento da sabedoria, da loucura e da tolice. E cheguei à conclusão de que isso é também vento que passa."
+    },
+    {
+      "numero": 18,
+      "texto": "Porque no acúmulo de sabedoria, acumula-se tristeza, e quem aumenta a ciência, aumenta a dor”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:1-3",
+      "texto": "O autor, identificado como \"o Pregador\", introduz o tema da vaidade e da futilidade da vida terrena. Ele questiona o valor das realizações humanas, destacando a impermanência de tudo o que é feito \"debaixo do sol\" (veja também Salmo 39:5 e Romanos 8:20-21)."
+    },
+    {
+      "ref": "1:4-7",
+      "texto": "O Pregador observa os ciclos repetitivos da natureza para ilustrar a monotonia da existência humana. A criação, apesar de sua constância, não oferece um sentido duradouro à vida, enfatizando a limitação humana diante da eternidade (veja também Jó 14:1-2 e Salmo 90:3-4)."
+    },
+    {
+      "ref": "1:8-11",
+      "texto": "A insatisfação é um tema recorrente. Nenhuma conquista ou experiência é suficiente para preencher o vazio interior, e o esquecimento de gerações passadas demonstra a transitoriedade das realizações humanas (veja também Isaías 40:6-8 e Tiago 4:14)."
+    },
+    {
+      "ref": "1:12-14",
+      "texto": "O Pregador compartilha sua busca por sabedoria e conhecimento, apenas para descobrir que isso também é \"vaidade\". A sabedoria humana, por mais valiosa que seja, não pode eliminar as dificuldades da vida, mas sim aumentar a percepção delas (veja também Provérbios 1:7 e 1 Coríntios 1:20)."
+    },
+    {
+      "ref": "1:15-18",
+      "texto": "O aumento do conhecimento traz aumento da tristeza, pois a sabedoria expõe as dificuldades e limitações da existência humana. Este contraste entre sabedoria e aflição destaca a fraqueza da sabedoria sem Deus (veja também Eclesiastes 12:12 e 1 Coríntios 3:19)."
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ezequiel",
+  "nome": "Ezequiel",
+  "testamento": "AT",
+  "capitulo": 44,
+  "totalVersiculos": 31,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ezequiel/44/",
+  "capturadoEm": "2026-11-15T09:24:09-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ele reconduziu-me ao pórtico exterior do santuário, que fica fronteiro ao oriente, o qual se achava fechado."
+    },
+    {
+      "numero": 2,
+      "texto": "O Senhor disse-me: “Este pórtico ficará fechado. Ninguém o abrirá, ninguém aí passará, porque o Senhor, Deus de Israel, aí passou; ele permanecerá fechado."
+    },
+    {
+      "numero": 3,
+      "texto": "O príncipe, entretanto, enquanto tal, poderá aí assentar-se para tomar sua refeição diante do Senhor. Ele entrará pelo vestíbulo do pórtico e sairá pelo mesmo caminho”.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Ele conduziu-me em seguida pelo pórtico norte, diante do templo. Lá, pude contemplar a glória do Senhor que enchia o Templo do Senhor; a essa vista, caí com a face em terra."
+    },
+    {
+      "numero": 5,
+      "texto": "O Senhor disse-me: “Filho do homem, presta bem atenção; olha bem com teus olhos. Fica com o ouvido atento ao que te vou dizer: são as leis e as ordens concernentes ao Templo do Senhor. Vela com cuidado a admissão no templo, assim como a exclusão do santuário."
+    },
+    {
+      "numero": 6,
+      "texto": "Dirás a esses rebeldes israelitas: eis o que diz o Senhor Javé: israelitas, basta! Chega de abominações!"
+    },
+    {
+      "numero": 7,
+      "texto": "Quando fazíeis a oferenda do meu pão, da gordura e do sangue, introduzistes no meu santuário para profaná-lo estrangeiros cujo coração não é menos incircunciso que a carne; violastes, dessa forma, a minha aliança com todas as vossas abominações."
+    },
+    {
+      "numero": 8,
+      "texto": "Em vez de vos ocupardes vós mesmos com o serviço do meu santuário, encarregastes esses estrangeiros de fazê-lo em vosso lugar.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Eis o que diz o Senhor Javé: nenhum estrangeiro, cujo coração é incircunciso tanto quanto a carne, penetrará em meu santuário; não, nenhum dos estrangeiros que residem entre os israelitas.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Os levitas, que me deixaram desde o tempo em que Israel se desviava, abandonando-me para seguir os ídolos, esses levitas levarão a pena de sua falta.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Servirão em meu santuário na qualidade de porteiros e farão o serviço da casa; degolarão para o povo as vítimas destinadas aos holocaustos ou aos sacrifícios, e ficarão à disposição do povo para todo o serviço."
+    },
+    {
+      "numero": 12,
+      "texto": "Porque se puseram a seu serviço diante dos seus infames ídolos, e arrastaram os israelitas ao pecado, por causa disso – oráculo do Senhor Javé – ergo a mão contra eles, e sofrerão a pena de sua falta."
+    },
+    {
+      "numero": 13,
+      "texto": "Não poderão mais aproximar-se de mim para exercer diante de mim as funções sacerdotais, nem para tocar em minhas coisas santas, nem para entrar no lugar santíssimo: mas carregarão a vergonha que lhes mereceram suas práticas abomináveis."
+    },
+    {
+      "numero": 14,
+      "texto": "Eu os encarregarei da guarda do templo, de seu serviço e de todos os trabalhos que devem ser feitos aí."
+    },
+    {
+      "numero": 15,
+      "texto": "Os sacerdotes levíticos, descendentes de Sadoc, que asseguraram a guarda do meu santuário no tempo em que os israelitas se afastavam para longe de mim, são eles que se aproximarão de mim para me servir, são eles que ficarão em minha presença para me oferecerem a gordura e o sangue – oráculo do Senhor Javé."
+    },
+    {
+      "numero": 16,
+      "texto": "São eles que penetrarão em meu santuário, eles que se aproximarão da minha mesa para o meu serviço, que o cumprirão com fidelidade."
+    },
+    {
+      "numero": 17,
+      "texto": "Ao passarem as portas do átrio interior, deverão estar vestidos de linho; não terão lã sobre si, quando oficiarem nos pórticos do átrio interior e no templo."
+    },
+    {
+      "numero": 18,
+      "texto": "Trarão na cabeça turbantes de linho, e sobre os rins calções de linho; não trarão cinto que possa provocar a transpiração,"
+    },
+    {
+      "numero": 19,
+      "texto": "Quando passarem ao átrio exterior, lá onde o povo se encontra, despirão suas vestimentas litúrgicas e as deporão nas câmaras do santuário, e se revestirão de outros hábitos, a fim de que não toquem os leigos com suas vestimentas consagradas.",
+      "nota": true
+    },
+    {
+      "numero": 20,
+      "texto": "Não rasparão a cabeça, não deixarão crescer livremente sua cabeleira; apararão porém os cabelos.",
+      "nota": true
+    },
+    {
+      "numero": 21,
+      "texto": "Nenhum sacerdote beberá vinho quando tiver de penetrar no átrio interior."
+    },
+    {
+      "numero": 22,
+      "texto": "Eles não desposarão viúvas nem mulheres repudiadas, mas somente virgens de descendência israelita; poderão, entretanto, casar com a viúva de um sacerdote."
+    },
+    {
+      "numero": 23,
+      "texto": "Ensinarão meu povo a distinguir o sagrado do profano, a discernir o que é imundo do que é puro."
+    },
+    {
+      "numero": 24,
+      "texto": "Nos debates, terão de julgar; e o farão de acordo com meu direito. Em todas as solenidades observarão as minhas leis e ordenações e santificarão os meus sábados."
+    },
+    {
+      "numero": 25,
+      "texto": "Não tocarão em cadáver, para não se contaminarem; entretanto, essa mancha será tolerável para um pai ou uma mãe, um filho ou uma filha, um irmão ou uma irmã não casada."
+    },
+    {
+      "numero": 26,
+      "texto": "Após sua purificação, serão contados sete dias;"
+    },
+    {
+      "numero": 27,
+      "texto": "depois, no dia em que entrar de novo para o seu serviço no santuário ou no átrio interior, oferecerá um sacrifício de expiação – oráculo do Senhor Javé."
+    },
+    {
+      "numero": 28,
+      "texto": "Quanto ao seu patrimônio, sou eu que serei o seu patrimônio: não lhes assinalareis propriedade em Israel; sou eu que serei a sua propriedade.",
+      "nota": true
+    },
+    {
+      "numero": 29,
+      "texto": "Eles se nutrirão das oferendas e das vítimas oferecidas pelos pecados e pelo delito: será para eles tudo o que tiver sido votado a interdito em Israel."
+    },
+    {
+      "numero": 30,
+      "texto": "O melhor de todas as primícias e de todas as espécies de oferendas será dos sacerdotes. Vós lhes dareis também as primícias de vossa farinha, para que possais merecer a bênção sobre a vossa casa."
+    },
+    {
+      "numero": 31,
+      "texto": "Os sacerdotes não comerão carne de nenhum animal morto ou despedaçado, quer seja de um pássaro quer de outro qualquer animal”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "44:1-4",
+      "texto": "O retorno da glória de Deus ao templo é seguido por instruções sobre o acesso ao santuário. Somente os sacerdotes e levitas que permaneceram fiéis poderão entrar no lugar santo. Isso sublinha a santidade do culto e a necessidade de pureza para se aproximar de Deus (veja também Apocalipse 21:27 e Levítico 10:1-2)."
+    },
+    {
+      "ref": "44:5-9",
+      "texto": "A separação entre os sacerdotes fiéis e os infiéis destaca a necessidade de pureza e santidade na liderança espiritual. A fidelidade ao Senhor é essencial para o ministério e a liderança na casa de Deus (veja também 1 Timóteo 3:1-7 e Tiago 3:1)."
+    },
+    {
+      "ref": "44:10-14",
+      "texto": "Deus proíbe que os sacerdotes infiéis sirvam no templo, destacando a responsabilidade e o caráter necessários para servir a Deus. A pureza moral e espiritual é vital para aqueles que ministram diante de Deus (veja também Tito 1:5-9 e 1 Pedro 2:9)."
+    },
+    {
+      "ref": "44:15-16",
+      "texto": "Os sacerdotes filhos de Zadoc são escolhidos por sua fidelidade. Isso destaca a importância da fidelidade pessoal e do compromisso com a santidade ao servir a Deus (veja também 1 Coríntios 4:2 e Apocalipse 3:10)."
+    },
+    {
+      "ref": "44:17-19",
+      "texto": "As instruções para os sacerdotes sobre vestimentas e comportamento reforçam a separação entre o sagrado e o profano. A pureza no serviço de Deus é essencial para refletir Sua santidade (veja também 1 Timóteo 2:9-10 e Levítico 11:44-45)."
+    }
+  ]
+}

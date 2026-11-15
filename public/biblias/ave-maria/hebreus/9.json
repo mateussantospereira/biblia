@@ -1,0 +1,151 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "hebreus",
+  "nome": "Hebreus",
+  "testamento": "NT",
+  "capitulo": 9,
+  "totalVersiculos": 28,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/hebreus/9/",
+  "capturadoEm": "2026-11-15T09:29:13-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "A primeira aliança, na verdade, teve regulamentos rituais e seu santuário terrestre."
+    },
+    {
+      "numero": 2,
+      "texto": "Consistia numa tenda: a parte anterior encerrava o candelabro e a mesa com os pães da proposição; chamava-se Santo."
+    },
+    {
+      "numero": 3,
+      "texto": "Atrás do segundo véu achava-se a parte chamada Santo dos Santos."
+    },
+    {
+      "numero": 4,
+      "texto": "Aí estava o altar de ouro para os perfumes, e a arca da aliança coberta de ouro por todos os lados; dentro dela, a urna de ouro contendo o maná, a vara de Aarão que floresceu e as tábuas da aliança;"
+    },
+    {
+      "numero": 5,
+      "texto": "em cima da arca, os querubins da glória estendendo a sombra de suas asas sobre o propiciatório. Mas não é aqui o lugar de falarmos destas coisas pormenorizadamente.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Assim sendo, enquanto na primeira parte do tabernáculo entram continuamente os sacerdotes para desempenhar as funções,"
+    },
+    {
+      "numero": 7,
+      "texto": "no segundo entra apenas o sumo sacerdote, somente uma vez ao ano, e ainda levando consigo o sangue para oferecer pelos seus próprios pecados e pelos do povo."
+    },
+    {
+      "numero": 8,
+      "texto": "Com o que significava o Espírito Santo que o caminho do Santo dos Santos ainda não estava livre, enquanto subsistisse o primeiro tabernáculo.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Isto é também uma figura que se refere ao tempo presente, sinal de que os dons e sacrifícios que se ofereciam eram incapazes de justificar a consciência daquele que praticava o culto."
+    },
+    {
+      "numero": 10,
+      "texto": "Culto que consistia unicamente em comidas, bebidas e abluções diversas, ritos materiais que só podiam ter valor enquanto não fossem instituídos outros mais perfeitos.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Porém, já veio Cristo, Sumo Sacerdote dos bens vindouros. E através de um tabernáculo mais excelente e mais perfeito, não construído por mãos humanas (não deste mundo),"
+    },
+    {
+      "numero": 12,
+      "texto": "sem levar consigo o sangue de carneiros ou novilhos, mas com seu próprio sangue, entrou de uma vez por todas no santuário, adquirindo-nos uma redenção eterna."
+    },
+    {
+      "numero": 13,
+      "texto": "Pois se o sangue de carneiros e de touros e a cinza de uma vaca, com que se aspergem os impuros, santificam e purificam pelo menos os corpos,"
+    },
+    {
+      "numero": 14,
+      "texto": "quanto mais o sangue de Cristo, que pelo Espírito eterno se ofereceu como vítima sem mácula a Deus, purificará a nossa consciência das obras mortas para o serviço do Deus vivo?"
+    },
+    {
+      "numero": 15,
+      "texto": "Por isso, ele é mediador do novo testamento. Pela sua morte expiou os pecados cometidos no decorrer do primeiro testamento, para que os eleitos recebam a herança eterna que lhes foi prometida.",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "Porque, onde há testamento, é necessário que intervenha a morte do testador."
+    },
+    {
+      "numero": 17,
+      "texto": "Um testamento só entra em vigor depois da morte do testador. Permanece sem efeito enquanto ele vive."
+    },
+    {
+      "numero": 18,
+      "texto": "Por essa razão, nem mesmo o primeiro testamento foi inaugurado sem uma efusão de sangue."
+    },
+    {
+      "numero": 19,
+      "texto": "Moisés, ao concluir a proclamação de todos os mandamentos da Lei, em presença de todo o povo reunido, tomou o sangue dos touros e dos cabritos imolados, bem como água, lã escarlate e hissopo, aspergiu com sangue não só o próprio livro, como também todo o povo,"
+    },
+    {
+      "numero": 20,
+      "texto": "dizendo: Este é o sangue da aliança que Deus contraiu convosco (Ex 24,8)."
+    },
+    {
+      "numero": 21,
+      "texto": "E da mesma maneira aspergiu o tabernáculo e todos os objetos do culto."
+    },
+    {
+      "numero": 22,
+      "texto": "Aliás, conforme a Lei, o sangue é utilizado para quase todas as purificações, e sem efusão de sangue não há perdão."
+    },
+    {
+      "numero": 23,
+      "texto": "Se os meros símbolos das realidades celestes exigiam uma tal purificação, necessário se tornava que as realidades mesmo fossem purificadas por sacrifícios ainda superiores."
+    },
+    {
+      "numero": 24,
+      "texto": "Eis por que Cristo entrou, não em santuário feito por mãos de homens, que fosse apenas figura do santuário verdadeiro, mas no próprio céu, para agora se apresentar intercessor nosso ante a face de Deus."
+    },
+    {
+      "numero": 25,
+      "texto": "E não entrou para se oferecer muitas vezes a si mesmo, como o pontífice que entrava todos os anos no santuário para oferecer sangue alheio."
+    },
+    {
+      "numero": 26,
+      "texto": "Do contrário, lhe seria necessário padecer muitas vezes desde o princípio do mundo; quando é certo que apareceu uma só vez ao final dos tempos para destruição do pecado pelo sacrifício de si mesmo."
+    },
+    {
+      "numero": 27,
+      "texto": "Como está determinado que os homens morram uma só vez, e logo em seguida vem o juízo,"
+    },
+    {
+      "numero": 28,
+      "texto": "assim Cristo se ofereceu uma só vez para tomar sobre si os pecados da multidão, e aparecerá uma segunda vez, não porém em razão do pecado, mas para trazer a salvação àqueles que o esperam."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "9:1-5",
+      "texto": "O autor de Hebreus descreve o tabernáculo e os móveis sagrados, apontando para a importância do ritual e da adoração no Antigo Testamento. Este sistema simbólico prepara o caminho para o sacrifício perfeito de Cristo (veja também Êxodo 25:10-22 e Lucas 1:9)."
+    },
+    {
+      "ref": "9:11-12",
+      "texto": "Cristo, como Sumo Sacerdote, entra no Santo dos Santos com Seu próprio sangue, oferecendo um sacrifício eterno. Sua obra substitui os sacrifícios temporais e incompletos da antiga aliança (veja também Levítico 16:14-15 e 1 João 2:2)."
+    },
+    {
+      "ref": "9:15",
+      "texto": "Jesus, como Mediador de uma nova aliança, traz a redenção eterna, garantindo a promessa da salvação para os chamados. Sua morte é o preço da purificação da transgressão (veja também Efésios 1:7 e 1 Pedro 1:18-19)."
+    },
+    {
+      "ref": "9:22",
+      "texto": "Sem derramamento de sangue não há remissão de pecados. O autor reforça a necessidade do sacrifício de Cristo como cumprimento dos rituais do Antigo Testamento (veja também Levítico 17:11 e Romanos 3:25)."
+    },
+    {
+      "ref": "9:24",
+      "texto": "Jesus entrou no céu para interceder por nós, não em um santuário terrestre, mas no verdadeiro, na presença de Deus. Sua intercessão continua, oferecendo-nos acesso direto ao Pai (veja também 1 João 2:1 e Romanos 8:34)."
+    }
+  ]
+}

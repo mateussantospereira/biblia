@@ -1,0 +1,83 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 96,
+  "totalVersiculos": 12,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/96/",
+  "capturadoEm": "2026-11-15T09:53:55-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Senhor reina: regozije-se a terra, alegrem-se as numerosas ilhas. (ver nota)"
+    },
+    {
+      "numero": 2,
+      "texto": "Nuvens e escuridão estão ao redor dele, a justiça e o direito são a base do seu trono. (ver nota)"
+    },
+    {
+      "numero": 3,
+      "texto": "O fogo avança diante dele, e abrasa ao redor os seus inimigos."
+    },
+    {
+      "numero": 4,
+      "texto": "Os seus relâmpagos iluminam o mundo; a terra vê e treme."
+    },
+    {
+      "numero": 5,
+      "texto": "Os montes fundem-se como cera diante do Senhor, diante do dominador de toda terra,"
+    },
+    {
+      "numero": 6,
+      "texto": "Os céus proclamam a sua justiça, e todos os povos vêem a sua glória."
+    },
+    {
+      "numero": 7,
+      "texto": "Confundidos sejam todos os que adoram está tuas, e os que se gloriam nos ídolos; perante ele se prostram todos os deuses."
+    },
+    {
+      "numero": 8,
+      "texto": "Sião ouve e alegra-se, e as cidades de Judá regozijam-se, por causa dos teus juízos, Senhor."
+    },
+    {
+      "numero": 9,
+      "texto": "Com efeito, Senhor, és excelso sobre toda a terra, sumamente elevado acima de todos os deuses."
+    },
+    {
+      "numero": 10,
+      "texto": "O Senhor ama os que odeiam o mal, guarda as almas dos seus santos, livra-os da mão dos ímpios."
+    },
+    {
+      "numero": 11,
+      "texto": "Nasce a luz para os justos, e a alegria para os rectos de coração."
+    },
+    {
+      "numero": 12,
+      "texto": "Alegrai-vos, justos, no Senhor, e celebrai o seu santo nome."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "96:1-3",
+      "texto": "O salmo começa com um convite para cantar um novo cântico ao Senhor e proclamar Suas maravilhas entre as nações. Este chamado à adoração reflete a missão de tornar conhecido o poder e a glória de Deus a todos os povos (veja também Salmo 98:1 e Isaías 12:4-5)."
+    },
+    {
+      "ref": "96:4-5",
+      "texto": "O Senhor é grande e digno de todo louvor, e os deuses das nações são ídolos. O contraste entre o Deus verdadeiro e os falsos deuses reforça a singularidade e a supremacia do Senhor (veja também Isaías 44:6-8 e 1 Coríntios 8:5-6)."
+    },
+    {
+      "ref": "96:6-9",
+      "texto": "A majestade e a força de Deus são vistas em Sua criação. O salmista convoca todas as nações a adorarem o Senhor com temor e reverência, reconhecendo Sua glória e santidade (veja também Salmo 29:2 e Apocalipse 14:7)."
+    },
+    {
+      "ref": "96:10",
+      "texto": "O salmista proclama que o Senhor reina e que o mundo está firmemente estabelecido. A mensagem do reino de Deus e Seu domínio sobre o mundo é central para a fé bíblica (veja também Salmo 97:1 e Isaías 52:7)."
+    },
+    {
+      "ref": "96:11-13",
+      "texto": "A criação inteira se alegra diante do Senhor, pois Ele vem julgar o mundo com justiça. A justiça de Deus é motivo de alegria para todas as criaturas, refletindo Sua retidão e fidelidade (veja também Salmo 98:7-9 e Romanos 2:6-8)."
+    }
+  ]
+}

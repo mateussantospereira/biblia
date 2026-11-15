@@ -1,0 +1,69 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 3,
+  "totalVersiculos": 9,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/3/",
+  "capturadoEm": "2026-11-15T09:16:04-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Salmo de Davi, quando fugia de Absalão, seu filho.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Senhor, como são numerosos os meus perseguidores! É uma turba que se dirige contra mim."
+    },
+    {
+      "numero": 3,
+      "texto": "Uma multidão inteira grita a meu respeito: “Não, não há mais salvação para ele em seu Deus!”."
+    },
+    {
+      "numero": 4,
+      "texto": "Mas vós sois, Senhor, para mim um escudo; vós sois minha glória, vós me levantais a cabeça.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Apenas elevei a voz para o Senhor, ele me responde de sua montanha santa."
+    },
+    {
+      "numero": 6,
+      "texto": "Eu, que me tinha deitado e adormecido, levanto-me, porque o Senhor me sustenta."
+    },
+    {
+      "numero": 7,
+      "texto": "Nada temo diante desta multidão de povo, que de todos os lados se dirige contra mim."
+    },
+    {
+      "numero": 8,
+      "texto": "Levantai-vos, Senhor! Salvai-me, ó meu Deus! Feris no rosto todos os que me perseguem, quebrais os dentes dos pecadores."
+    },
+    {
+      "numero": 9,
+      "texto": "Sim, Senhor, a salvação vem de vós. Desça a vossa bênção sobre vosso povo."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-2",
+      "texto": "Davi clama a Deus em meio a adversidades, reconhecendo a magnitude de seus inimigos. Este salmo expressa a realidade da luta e a confiança que devemos ter no Senhor, mesmo quando cercados por dificuldades (veja também Salmo 27:1-3 e 2 Timóteo 4:17)."
+    },
+    {
+      "ref": "3:3",
+      "texto": "A declaração de que Deus é um escudo para Davi ressalta a proteção divina em tempos de crise. Essa imagem poderosa destaca a segurança que encontramos em nossa relação com Deus (veja também Salmo 91:2 e Efésios 6:16)."
+    },
+    {
+      "ref": "3:4-5",
+      "texto": "O clamor de Davi é respondido por Deus, que lhe dá descanso e segurança. Isso enfatiza a importância da oração e da confiança em Deus como fonte de paz em meio ao caos (veja também Filipenses 4:6-7 e 1 Pedro 5:7)."
+    },
+    {
+      "ref": "3:6-8",
+      "texto": "Davi declara que não temerá a multidão de adversários, mostrando sua fé em Deus. O reconhecimento de que a salvação pertence ao Senhor é um tema central na vida de fé (veja também Salmo 37:39-40 e Romanos 8:31)."
+    }
+  ]
+}

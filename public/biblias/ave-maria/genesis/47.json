@@ -1,0 +1,160 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "genesis",
+  "nome": "Gênesis",
+  "testamento": "AT",
+  "capitulo": 47,
+  "totalVersiculos": 31,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/genesis/47/",
+  "capturadoEm": "2026-11-15T09:07:55-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "José foi, pois, informar o faraó: “Meu pai – disse ele – e meus irmãos chegaram da terra de Canaã com suas ovelhas, seus bois e tudo o que lhes pertence. Eles estão na terra de Gessen”."
+    },
+    {
+      "numero": 2,
+      "texto": "José levara cinco de seus irmãos, que apresentou ao faraó."
+    },
+    {
+      "numero": 3,
+      "texto": "Este disse-lhes: “Qual é vossa profissão?”. Responderam: “Teus servos são pastores, como sempre o foram nossos pais."
+    },
+    {
+      "numero": 4,
+      "texto": "Viemos – ajuntaram eles – para morar no país porque não há mais pastagem para os rebanhos de teus servos, sendo muito grande a fome na terra de Canaã. Permite, pois, aos teus servos habitarem na terra de Gessen”."
+    },
+    {
+      "numero": 5,
+      "texto": "O faraó disse a José: “Teu pai e teus irmãos vieram para junto de ti; a terra do Egito está à tua disposição: instala-os na melhor parte do país."
+    },
+    {
+      "numero": 6,
+      "texto": "Que eles habitem na terra de Gessen; e, se conheces entre eles alguns que sejam capazes, os porás à frente dos rebanhos que me pertencem”."
+    },
+    {
+      "numero": 7,
+      "texto": "José fez então vir Jacó, seu pai, e o apresentou ao faraó."
+    },
+    {
+      "numero": 8,
+      "texto": "Jacó abençoou o faraó. Este disse-lhe: “Que idade tens?”."
+    },
+    {
+      "numero": 9,
+      "texto": "Jacó respondeu-lhe: “O número dos anos de minha peregrinação é de cento e trinta anos. Curtos e maus foram os anos de minha vida, e não atingiriam o número dos que viveram meus pais durante sua peregrinação”."
+    },
+    {
+      "numero": 10,
+      "texto": "E, depois de ter abençoado o faraó, Jacó despediu-se dele."
+    },
+    {
+      "numero": 11,
+      "texto": "José instalou seu pai e seus irmãos em uma propriedade do país do Egito, na melhor parte da região, a terra de Ramsés, como o tinha ordenado o faraó."
+    },
+    {
+      "numero": 12,
+      "texto": "E José forneceu víveres a seu pai, a seus irmãos e a toda sua família, proporcionalmente ao número dos filhos."
+    },
+    {
+      "numero": 13,
+      "texto": "E faltou pão em toda a terra, porque a fome era tão violenta que a terra do Egito e a terra de Canaã estavam esgotadas."
+    },
+    {
+      "numero": 14,
+      "texto": "José tinha ajuntado todo o dinheiro que se encontrava no Egito e em Canaã, como preço do trigo que compravam, e o tinha depositado no tesouro do faraó."
+    },
+    {
+      "numero": 15,
+      "texto": "Quando havia acabado todo o dinheiro do Egito e de Canaã, todos os egípcios vieram dizer a José: “Dá-nos pão. Por que morreremos na tua presença por falta de dinheiro?”."
+    },
+    {
+      "numero": 16,
+      "texto": "José respondeu: “Trazei vossos animais, se não tendes dinheiro, e vos darei pão em troca”."
+    },
+    {
+      "numero": 17,
+      "texto": "Trouxeram, pois, seus animais a José, o qual lhes deu pão em troca dos cavalos, dos rebanhos de ovelhas, dos bois e dos jumentos. Dessa forma, naquele ano, fornecera-lhes pão em troca de todos os seus rebanhos."
+    },
+    {
+      "numero": 18,
+      "texto": "E aquele ano passou. No ano seguinte, voltaram a ele e disseram-lhe: “Não podemos ocultar do meu senhor que o dinheiro, tendo-se esgotado, e nossos animais, tendo já passado para as mãos de meu senhor, não nos restam agora senão nossos corpos e nossas terras para oferecer ao meu senhor."
+    },
+    {
+      "numero": 19,
+      "texto": "Por que perecermos diante de teus olhos, nós e nossas terras? Compra-nos a nós e a nossas terras em troca de pão, e nós e nossas terras seremos escravos do faraó. Dá-nos sementes, para que vivamos e não morramos, e não seja desolado o nosso solo”."
+    },
+    {
+      "numero": 20,
+      "texto": "José adquiriu, assim, para o faraó, todas as terras do Egito, porque cada egípcio vendia o seu campo, obrigado pela fome; e o país tornou-se propriedade do faraó."
+    },
+    {
+      "numero": 21,
+      "texto": "De um extremo a outro do território, ele reduziu a população à servidão."
+    },
+    {
+      "numero": 22,
+      "texto": "As terras dos sacerdotes foram as únicas que não comprou, porque estes recebiam do faraó uma ração determinada para o seu sustento. Por isso, não venderam suas propriedades."
+    },
+    {
+      "numero": 23,
+      "texto": "José disse ao povo: “Eu vos comprei hoje, vós e vossas terras, para o faraó. Aqui tendes sementes: semeai vossos campos."
+    },
+    {
+      "numero": 24,
+      "texto": "No tempo da colheita, dareis a quinta parte ao faraó: as outras quatro partes vos servirão para semente do campo e para vosso alimento com vossos filhos e os que moram convosco”."
+    },
+    {
+      "numero": 25,
+      "texto": "Eles responderam: “Tu nos salvaste a vida. Tenhamos graça aos olhos de meu senhor e seremos de bom grado escravos do faraó”."
+    },
+    {
+      "numero": 26,
+      "texto": "José instituiu assim uma lei que ainda hoje está em vigor, em virtude da qual uma quinta parte da colheita pertence ao faraó. Somente as terras dos sacerdotes não se tornaram sua propriedade."
+    },
+    {
+      "numero": 27,
+      "texto": "Israel estabeleceu-se, pois, no Egito, na terra de Gessen. Adquiriram ali propriedades, foram fecundos e multiplicaram-se grandemente."
+    },
+    {
+      "numero": 28,
+      "texto": "Jacó viveu ainda dezessete anos no Egito. A duração de sua vida foi de cento e quarenta e sete anos."
+    },
+    {
+      "numero": 29,
+      "texto": "E, aproximando-se do seu termo os dias de Israel, chamou o seu filho José e disse-lhe: “Se achei graça diante de teus olhos, põe, rogo-te, tua mão debaixo de minha coxa e promete-me, com toda a bondade e fidelidade, que não me enterrarás no Egito."
+    },
+    {
+      "numero": 30,
+      "texto": "Quando eu me tiver deitado com meus pais, me levarás para fora do Egito e me enterrarás junto deles em seu túmulo”. José respondeu: “Farei como dizes”. “Jura-me” – replicou Jacó."
+    },
+    {
+      "numero": 31,
+      "texto": "José jurou-lhe e Israel prostrou-se sobre a cabeceira de sua cama.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "47:1-6",
+      "texto": "José apresenta sua família a Faraó, que os acolhe. A disposição de Faraó em conceder-lhes a melhor terra reflete a graça e a favor de Deus sobre aqueles que O seguem (veja também Gênesis 41:46 e Provérbios 16:7)."
+    },
+    {
+      "ref": "47:7-10",
+      "texto": "Jacó abençoa Faraó, mostrando que, mesmo em terra estrangeira, a bênção de Deus se estende. Isso simboliza a soberania divina sobre todas as nações e a importância do povo de Deus como canal de bênção (veja também Gênesis 12:3 e Mateus 5:13-16)."
+    },
+    {
+      "ref": "47:11-12",
+      "texto": "José provê para sua família e os sustenta durante a fome. Essa ação ressalta a responsabilidade de cuidar dos necessitados e a importância da provisão divina em tempos de crise (veja também Salmo 37:25 e Filipenses 4:19)."
+    },
+    {
+      "ref": "47:13-26",
+      "texto": "José implementa um sistema de controle da comida durante a fome, mostrando sabedoria e discernimento. Essa narrativa enfatiza a importância da administração adequada dos recursos e do planejamento em tempos difíceis (veja também Provérbios 21:5 e Lucas 14:28)."
+    },
+    {
+      "ref": "47:27-31",
+      "texto": "A prosperidade dos israelitas no Egito e a declaração de Jacó sobre sua sepultura em Canaã demonstram a esperança em promessas futuras. Isso simboliza a fé de Jacó nas promessas de Deus e a importância da identidade espiritual (veja também Gênesis 48:21 e Hebreus 11:13-16)."
+    }
+  ]
+}

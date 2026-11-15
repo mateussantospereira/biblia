@@ -1,0 +1,107 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "rute",
+  "nome": "Rute",
+  "testamento": "AT",
+  "capitulo": 3,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/rute/3/",
+  "capturadoEm": "2026-11-15T09:11:11-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Noemi, sua sogra, disse-lhe: “Minha filha, é preciso que eu te assegure uma existência tranquila, para que sejas feliz."
+    },
+    {
+      "numero": 2,
+      "texto": "Este Booz, nosso parente, cujas servas seguiste, deverá joeirar esta tarde a cevada de sua eira."
+    },
+    {
+      "numero": 3,
+      "texto": "Lava-te, unge-te, põe tuas melhores vestes e desce à eira, mas não te deixes reconhecer por ele antes que ele tenha acabado de comer."
+    },
+    {
+      "numero": 4,
+      "texto": "Quando for dormir, observa o lugar em que dorme. Entra, então, levanta a cobertura de seus pés e deita-te! Ele mesmo te dirá o que deves fazer”."
+    },
+    {
+      "numero": 5,
+      "texto": "“Farei – disse ela – tudo o que me indicas.”"
+    },
+    {
+      "numero": 6,
+      "texto": "Ela desceu à eira e fez tudo o que sua sogra lhe tinha recomendado."
+    },
+    {
+      "numero": 7,
+      "texto": "Booz comeu e bebeu e o seu coração tornou-se alegre. Depois disso, foi e deitou-se junto de um monte de feixes. Rute aproximou-se de mansinho, levantou o manto de seus pés e deitou-se também."
+    },
+    {
+      "numero": 8,
+      "texto": "Pelo meio da noite, o homem despertou, de repente, voltou-se e viu uma mulher deitada a seus pés."
+    },
+    {
+      "numero": 9,
+      "texto": "“Quem és tu?” – perguntou-lhe ele –. “Eu sou Rute, tua serva” – respondeu ela –. “Estende o teu manto sobre a tua serva, porque tens o direito de resgate.”"
+    },
+    {
+      "numero": 10,
+      "texto": "Ele disse: “Deus te abençoe, minha filha. Esta tua última bondade vale mais que a primeira, porque não buscaste jovens, pobres ou ricos."
+    },
+    {
+      "numero": 11,
+      "texto": "Agora, minha filha, não temas. Tudo o que disseres eu te farei, porque todos em Belém sabem que és uma mulher virtuosa."
+    },
+    {
+      "numero": 12,
+      "texto": "Tenho, realmente, o direito de resgate, mas há outro mais próximo parente do que eu."
+    },
+    {
+      "numero": 13,
+      "texto": "Passa aqui esta noite. Amanhã, se ele quiser usar de seu direito de resgate sobre ti, está bem, que o faça. Do contrário, eu o farei; juro pelo Senhor! Dorme, pois até pela manhã”."
+    },
+    {
+      "numero": 14,
+      "texto": "Ela ficou deitada aos seus pés até de madrugada. Levantou-se quando ainda não se podiam distinguir as pessoas. Booz tinha dito: “Não é bom que se saiba ter esta mulher entrado na eira”."
+    },
+    {
+      "numero": 15,
+      "texto": "E acrescentou: “Estende o manto que tens sobre ti e segura-o”. Ela estendeu-o e Booz encheu-o com seis medidas de cevada, que lhe pôs às costas. Em seguida, ela voltou à cidade."
+    },
+    {
+      "numero": 16,
+      "texto": "Rute voltou para junto de sua sogra, que lhe disse: “Como vais, minha filha?”. Rute contou-lhe então tudo o que aquele homem fizera por ela. E acrescentou:"
+    },
+    {
+      "numero": 17,
+      "texto": "“Ele deu-me estas seis medidas de cevada, dizendo-me: ‘Não voltarás com as mãos vazias para a tua sogra’.”"
+    },
+    {
+      "numero": 18,
+      "texto": "“Espera, minha filha – retomou Noemi –, até sabermos como vai terminar tudo isso. Esse homem não descansará enquanto não tiver resolvido esse assunto e o fará hoje mesmo.”"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-4",
+      "texto": "Noemi orienta Rute a buscar Boaz como redentor, seguindo os costumes israelitas. Esse ato de buscar redenção é central à história e ao entendimento da misericórdia e restauração divinas (veja também Levítico 25:25 e Deuteronômio 25:5-6)."
+    },
+    {
+      "ref": "3:7-9",
+      "texto": "Rute se aproxima de Boaz, pedindo que ele a redima. Essa cena destaca a humildade de Rute e a importância da coragem ao buscar a justiça e o cuidado providencial (veja também Isaías 54:5 e Mateus 11:28-30)."
+    },
+    {
+      "ref": "3:10-11",
+      "texto": "Boaz elogia Rute por sua lealdade e compromisso, prometendo resolver a questão da redenção. Isso mostra o caráter íntegro de Boaz e seu desejo de fazer o que é certo, seguindo a lei de Deus (veja também Provérbios 31:10-11 e Tiago 1:27)."
+    },
+    {
+      "ref": "3:12-13",
+      "texto": "Boaz revela que há um outro parente mais próximo que tem o direito de redimir Rute primeiro, mas promete resolver a questão. Isso demonstra a importância da justiça e da ordem na comunidade israelita (veja também Deuteronômio 21:15-17 e Mateus 5:37)."
+    },
+    {
+      "ref": "3:15-18",
+      "texto": "Boaz garante a Rute uma generosa provisão de cevada e a envia de volta a Noemi. Esse ato de provisão simboliza o cuidado de Deus em todas as situações e a certeza de que Ele nunca abandona os Seus (veja também Filipenses 4:19 e Salmo 23:1)."
+    }
+  ]
+}

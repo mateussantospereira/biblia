@@ -1,0 +1,208 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "eclesiastico",
+  "nome": "Eclesiástico",
+  "testamento": "AT",
+  "capitulo": 31,
+  "totalVersiculos": 42,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/eclesiastico/31/",
+  "capturadoEm": "2026-11-15T09:20:52-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "As vigílias para enriquecer ressecam a carne, as preocupações que elas trazem tiram o sono."
+    },
+    {
+      "numero": 2,
+      "texto": "A inquietação pelo porvir perturba o sentido. Uma doença grave torna a alma moderada.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "O rico trabalha para juntar riquezas; quando se entrega ao repouso, goza o fruto de seus haveres."
+    },
+    {
+      "numero": 4,
+      "texto": "O pobre trabalha por não possuir com que viver, e, ao término da vida, tudo lhe falta."
+    },
+    {
+      "numero": 5,
+      "texto": "Aquele que ama o ouro não estará isento de pecado; aquele que busca a corrupção será por ela cumulado."
+    },
+    {
+      "numero": 6,
+      "texto": "O ouro abateu a muitos, e seus encantos os perderam.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "O ouro é um obstáculo para aqueles que se lhe oferecem em sacrifício; infelizes daqueles que o buscam com ardor: ele fará perecer todos os insensatos."
+    },
+    {
+      "numero": 8,
+      "texto": "Bem-aventurado o rico que foi achado sem mácula, que não correu atrás do ouro, que não colocou sua esperança no dinheiro e nos tesouros!"
+    },
+    {
+      "numero": 9,
+      "texto": "Quem é esse homem para que o felicitemos? Ele fez prodígios durante sua vida."
+    },
+    {
+      "numero": 10,
+      "texto": "Áquele que foi tentado pelo ouro e foi encontrado perfeito, está reservada uma glória eterna: ele podia transgredir a Lei e não a violou; ele podia fazer o mal e não o fez."
+    },
+    {
+      "numero": 11,
+      "texto": "Por isso, seus bens serão fortalecidos no Senhor, e toda a assembleia dos santos louvará suas esmolas."
+    },
+    {
+      "numero": 12,
+      "texto": "Se estiveres sentado a uma mesa bem abastecida, não comeces abrindo a boca."
+    },
+    {
+      "numero": 13,
+      "texto": "Não digas: “Que abundância de iguarias há sobre ela!”."
+    },
+    {
+      "numero": 14,
+      "texto": "Lembra-te de que um olhar maldoso é coisa funesta."
+    },
+    {
+      "numero": 15,
+      "texto": "Que coisa há pior que o olho? É por isso que há de se desfazer em lágrimas."
+    },
+    {
+      "numero": 16,
+      "texto": "Quando ele olhar, não sejas o primeiro a estender a mão, para que não cores, envergonhado pela tua cobiça.",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "Não comas demasiadamente num banquete."
+    },
+    {
+      "numero": 18,
+      "texto": "Julga os desejos de teu próximo segundo os teus."
+    },
+    {
+      "numero": 19,
+      "texto": "Serve-te como um homem sóbrio do que te é apresentado, para que não te tornes odioso, comendo muito."
+    },
+    {
+      "numero": 20,
+      "texto": "Acaba de comer em primeiro lugar, por decoro, e evita todo excesso, para que não desgostes a ninguém."
+    },
+    {
+      "numero": 21,
+      "texto": "Se tiveres tomado assento em meio de uma sociedade numerosa, não sejas o primeiro a estender a mão para o prato, nem sejas o primeiro a pedir de beber."
+    },
+    {
+      "numero": 22,
+      "texto": "Não é um pouco de vinho suficiente para um homem bem-educado? Assim não terás sono pesado, e não sentirás dor."
+    },
+    {
+      "numero": 23,
+      "texto": "A insônia, o mal-estar e as cólicas são o tributo do intemperante."
+    },
+    {
+      "numero": 24,
+      "texto": "Para um homem sóbrio, um sono salutar; ele dorme até de manhã e sente-se bem."
+    },
+    {
+      "numero": 25,
+      "texto": "Se tiveres sido obrigado a comer demais, levanta-te e vomita; isso te aliviará, e não te exporás à doença."
+    },
+    {
+      "numero": 26,
+      "texto": "Ouve-me, meu filho, não me desprezes: reconhecerás no fim a veracidade de minhas palavras."
+    },
+    {
+      "numero": 27,
+      "texto": "Em todas as tuas ações, sê diligente, e nenhuma doença te acometerá."
+    },
+    {
+      "numero": 28,
+      "texto": "Muitos lábios abençoarão aquele que dá refeições com liberalidade; o testemunho prestado à honestidade dele é verídico."
+    },
+    {
+      "numero": 29,
+      "texto": "Toda a cidade resmunga contra aquele que dá de comer com mesquinhez e o testemunho prestado à avareza dele é exato."
+    },
+    {
+      "numero": 30,
+      "texto": "Não incites a beber aquele que ama o vinho, pois o vinho perdeu a muitos.",
+      "nota": true
+    },
+    {
+      "numero": 31,
+      "texto": "O fogo põe à prova a dureza do ferro: assim o vinho, bebido em excesso, revela o coração dos orgulhosos.",
+      "nota": true
+    },
+    {
+      "numero": 32,
+      "texto": "O vinho bebido sobriamente é como uma vida para os homens. Se o beberes moderadamente, serás sóbrio."
+    },
+    {
+      "numero": 33,
+      "texto": "Que é a vida do homem a quem falta o vinho?"
+    },
+    {
+      "numero": 34,
+      "texto": "Que coisa tira a vida? A morte."
+    },
+    {
+      "numero": 35,
+      "texto": "No princípio, o vinho foi criado para a alegria e não para a embriaguez."
+    },
+    {
+      "numero": 36,
+      "texto": "O vinho, bebido moderadamente, é a alegria da alma e do coração."
+    },
+    {
+      "numero": 37,
+      "texto": "A sobriedade no beber é a saúde da alma e do corpo."
+    },
+    {
+      "numero": 38,
+      "texto": "O excesso na bebida causa irritação, cólera e numerosas catástrofes."
+    },
+    {
+      "numero": 39,
+      "texto": "O vinho, bebido em demasia, é a aflição da alma."
+    },
+    {
+      "numero": 40,
+      "texto": "A embriaguez inspira a ousadia e faz pecar o insensato; abafa as forças e causa feridas."
+    },
+    {
+      "numero": 41,
+      "texto": "Não repreendas o próximo durante uma refeição regada a vinho; não o trates com desprezo enquanto ele se entrega à alegria."
+    },
+    {
+      "numero": 42,
+      "texto": "Não lhe faças censuras, não o atormentes, reclamando o que te é devido."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "31:1-3",
+      "texto": "A preocupação excessiva com o dinheiro e as riquezas rouba o sono e a paz. O autor adverte que a busca incessante por bens materiais acaba por causar desgaste e sofrimento (veja também Mateus 6:19-21 e 1 Timóteo 6:9-10)."
+    },
+    {
+      "ref": "31:5-8",
+      "texto": "A avareza é condenada como uma fonte de pecado e destruição. Aqueles que são justos e temem a Deus sabem que a riqueza material é passageira e que a verdadeira segurança vem do Senhor (veja também Salmo 62:10 e Lucas 12:15)."
+    },
+    {
+      "ref": "31:12-13",
+      "texto": "O texto exorta à moderação à mesa. A prudência e o autocontrole no comer e no beber são sinais de sabedoria e respeito pelos outros (veja também Provérbios 23:1-3 e Filipenses 4:5)."
+    },
+    {
+      "ref": "31:19-20",
+      "texto": "A moderação no comer e no beber traz saúde e paz interior. O autor afirma que quem se controla evita muitos males físicos e espirituais (veja também 1 Coríntios 6:19-20 e Romanos 13:13)."
+    },
+    {
+      "ref": "31:21-31",
+      "texto": "A embriaguez é duramente criticada, sendo vista como uma degradação moral e física. A temperança é elogiada como um caminho para a sabedoria e o bem-estar (veja também Efésios 5:18 e Provérbios 20:1)."
+    }
+  ]
+}

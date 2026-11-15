@@ -1,0 +1,49 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 132,
+  "totalVersiculos": 3,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/132/",
+  "capturadoEm": "2026-11-15T09:18:18-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cântico das peregrinações. Oh, como é bom, como é agradável para irmãos unidos viverem juntos.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "É como um óleo suave derramado sobre a fronte, e que desce para a barba, a barba de Aarão, para correr em seguida até a orla de seu manto.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "É como o orvalho do Hermon, que desce pela colina de Sião; pois ali derrama o Senhor a vida e uma bênção eterna."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "132:1-5",
+      "texto": "O salmo começa com um pedido para que Deus se lembre das aflições de Davi e sua promessa de encontrar um lugar para o Senhor habitar. Esse compromisso destaca a prioridade que Davi deu à adoração a Deus (veja também 2 Samuel 7:1-2 e Atos 13:22)."
+    },
+    {
+      "ref": "132:6-9",
+      "texto": "O salmista relembra a descoberta da arca em Efrata e seu desejo de levá-la ao templo. A arca simboliza a presença de Deus entre o povo, e seu retorno à Jerusalém representa a restauração da adoração verdadeira (veja também 1 Crônicas 13:5-6 e Salmo 24:7-10)."
+    },
+    {
+      "ref": "132:10-12",
+      "texto": "Deus promete a Davi que seus descendentes reinarão sobre Israel se forem fiéis. Essa aliança com Davi aponta para a linhagem messiânica de Cristo, que cumpre essa promessa de forma definitiva (veja também 2 Samuel 7:12-16 e Lucas 1:32-33)."
+    },
+    {
+      "ref": "132:13-14",
+      "texto": "O Senhor escolheu Sião reflete o plano de Deus de fazer de Jerusalém Seu lugar de habitação. Esse versículo destaca o amor e a escolha soberana de Deus por Israel e pelo templo (veja também 2 Crônicas 6:6 e Salmo 68:16)."
+    },
+    {
+      "ref": "132:15-18",
+      "texto": "Deus promete abençoar Sião com provisão, proteger seu povo e fortalecer a linhagem de Davi. Essas bênçãos incluem tanto prosperidade material quanto espiritual, e apontam para o reinado eterno de Cristo (veja também Isaías 9:6-7 e João 6:35)."
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "atos-dos-apostolos",
+  "nome": "Atos dos Apóstolos",
+  "testamento": "NT",
+  "capitulo": 5,
+  "totalVersiculos": 41,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/atos-dos-apostolos/5/",
+  "capturadoEm": "2026-11-15T09:27:12-03:00",
+  "versiculos": [
+    {
+      "numero": 2,
+      "texto": "e, combinando com ela, reteve uma parte da quantia da venda. Levando apenas a outra parte, depositou-a aos pés dos apóstolos."
+    },
+    {
+      "numero": 3,
+      "texto": "Pedro, porém, disse: “Ananias, por que tomou conta Satanás do teu coração, para que mentisses ao Espírito Santo e enganasses acerca do valor do campo?"
+    },
+    {
+      "numero": 4,
+      "texto": "Acaso não o podias conservar sem vendê-lo? E, depois de vendido, não podias livremente dispor dessa quantia? Por que imaginaste isso em teu coração? Não foi aos homens que mentiste, mas a Deus”."
+    },
+    {
+      "numero": 5,
+      "texto": "Ao ouvir estas palavras, Ananias caiu morto. Apoderou-se grande terror de todos os que o ouviram."
+    },
+    {
+      "numero": 6,
+      "texto": "Uns moços retiraram-no dali, levaram-no para fora e o enterraram."
+    },
+    {
+      "numero": 7,
+      "texto": "Depois de umas três horas, entrou também sua mulher, nada sabendo do ocorrido."
+    },
+    {
+      "numero": 8,
+      "texto": "Pedro perguntou-lhe: “Dize-me, mulher, foi por tanto que vendestes o vosso campo?”. Respondeu ela: “Sim, por esse preço”."
+    },
+    {
+      "numero": 9,
+      "texto": "Replicou Pedro: “Por que combinastes para pôr à prova o Espírito do Senhor? Estão ali, à porta, os pés daqueles que sepultaram teu marido. Hão de levar-te também a ti”."
+    },
+    {
+      "numero": 10,
+      "texto": "Imediatamente caiu aos seus pés e expirou. Entrando aqueles moços, acharam-na morta. Levaram-na para fora e a enterraram junto do seu marido."
+    },
+    {
+      "numero": 11,
+      "texto": "Sobreveio grande pavor a toda a comunidade e a todos os que ouviram falar desse acontecimento.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Enquanto isso, realizavam-se entre o povo pelas mãos dos apóstolos muitos milagres e prodígios. Reuniam-se eles todos, unânimes, no pórtico de Salomão.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Dos outros ninguém ousava juntar-se a eles, mas o povo lhes tributava grandes louvores."
+    },
+    {
+      "numero": 14,
+      "texto": "Cada vez mais aumentava a multidão dos homens e mulheres que acreditavam no Senhor."
+    },
+    {
+      "numero": 15,
+      "texto": "De maneira que traziam os doentes para as ruas e punham-nos em leitos e macas, a fim de que, quando Pedro passasse, ao menos a sua sombra cobrisse alguns deles."
+    },
+    {
+      "numero": 16,
+      "texto": "Também das cidades vizinhas de Jerusalém afluía muita gente, trazendo os enfermos e os atormentados por espíritos imundos, e todos eles eram curados."
+    },
+    {
+      "numero": 17,
+      "texto": "Levantaram-se então o sumo sacerdote e seus partidários (isto é, a seita dos saduceus) cheios de inveja,"
+    },
+    {
+      "numero": 18,
+      "texto": "e deitaram as mãos nos apóstolos e meteram-nos na cadeia pública."
+    },
+    {
+      "numero": 19,
+      "texto": "Mas um anjo do Senhor abriu de noite as portas do cárcere e, conduzindo-os para fora, disse-lhes:"
+    },
+    {
+      "numero": 20,
+      "texto": "“Ide, apresentai-vos no templo e pregai ao povo as palavras desta vida”."
+    },
+    {
+      "numero": 21,
+      "texto": "Obedecendo a essa ordem, eles entraram no templo ao amanhecer e puseram-se a ensinar. Enquanto isso, o sumo sacerdote e os seus partidários reuniram-se e convocaram o Grande Conselho e todos os anciãos de Israel, e mandaram trazer os apóstolos do cárcere."
+    },
+    {
+      "numero": 22,
+      "texto": "Dirigiram-se para lá os guardas, mas, ao abrirem o cárcere, não os encontraram, e voltaram a informar:"
+    },
+    {
+      "numero": 23,
+      "texto": "“Achamos o cárcere fechado com toda a segurança e os guardas de pé diante das portas, e, no entanto, abrindo-as, não achamos ninguém lá dentro”."
+    },
+    {
+      "numero": 24,
+      "texto": "A essa notícia, os sumos sacerdotes e o chefe do templo ficaram perplexos e indagaram entre si sobre o que significava isso."
+    },
+    {
+      "numero": 25,
+      "texto": "Mas, neste momento, alguém transmitiu-lhes esta notícia: “Aqueles homens que metestes no cárcere estão no templo ensinando o povo!”."
+    },
+    {
+      "numero": 26,
+      "texto": "Foi então o comandante do templo com seus guardas e trouxe-os sem violência, porque temiam ser apedrejados pelo povo."
+    },
+    {
+      "numero": 27,
+      "texto": "Trouxeram-nos e os introduziram no Grande Conselho, onde o sumo sacerdote os interrogou, dizendo:"
+    },
+    {
+      "numero": 28,
+      "texto": "“Expressamente vos ordenamos que não ensinásseis nesse nome. Não obstante isso, tendes enchido Jerusalém de vossa doutrina! Quereis fazer recair sobre nós o sangue deste homem?”."
+    },
+    {
+      "numero": 29,
+      "texto": "Pedro e os apóstolos replicaram: “Importa obedecer antes a Deus do que aos homens."
+    },
+    {
+      "numero": 30,
+      "texto": "O Deus de nossos pais ressuscitou Jesus, que vós matastes, suspendendo-o num madeiro."
+    },
+    {
+      "numero": 31,
+      "texto": "Deus elevou-o pela mão direita como Príncipe e Salvador, a fim de dar a Israel o arrependimento e a remissão dos pecados."
+    },
+    {
+      "numero": 32,
+      "texto": "Deste fato nós somos testemunhas, nós e o Espírito Santo, que Deus deu a todos aqueles que lhe obedecem”."
+    },
+    {
+      "numero": 33,
+      "texto": "Ao ouvirem essas palavras, enfureceram-se e resolveram matá-los."
+    },
+    {
+      "numero": 34,
+      "texto": "Levantou-se, porém, um membro do Grande Conselho. Era Gamaliel, um fariseu, doutor da Lei, respeitado por todo o povo."
+    },
+    {
+      "numero": 35,
+      "texto": "Mandou que se retirassem aqueles homens por um momento, e então lhes disse: “Homens de Israel, considerai bem o que ides fazer com estes homens."
+    },
+    {
+      "numero": 36,
+      "texto": "Faz algum tempo apareceu um certo Teudas, que se considerava um grande homem. A ele se associaram cerca de quatrocentos homens: foi morto e todos os seus partidários foram dispersados e reduzidos a nada.",
+      "nota": true
+    },
+    {
+      "numero": 37,
+      "texto": "Depois deste, levantou-se Judas, o galileu, nos dias do recenseamento, e arrastou o povo consigo, mas também ele pereceu e todos quantos o seguiam foram dispersados."
+    },
+    {
+      "numero": 38,
+      "texto": "Agora, pois, eu vos aconselho: não vos metais com estes homens. Deixai-os! Se o seu projeto ou a sua obra provém de homens, por si mesma se destruirá;"
+    },
+    {
+      "numero": 39,
+      "texto": "mas se provier de Deus, não podereis desfazê-la. Vós vos arriscaríeis a entrar em luta contra o próprio Deus”. Aceitaram o seu conselho."
+    },
+    {
+      "numero": 40,
+      "texto": "Chamaram os apóstolos e mandaram açoitá-los. Ordenaram-lhes então que não pregassem mais em nome de Jesus, e os soltaram."
+    },
+    {
+      "numero": 41,
+      "texto": "Eles saíram da sala do Grande Conselho, cheios de alegria, por terem sido achados dignos de sofrer afrontas pelo nome de Jesus."
+    },
+    {
+      "numero": 42,
+      "texto": "E todos os dias não cessavam de ensinar e de pregar o Evangelho de Jesus Cristo no templo e pelas casas."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "5:1-11",
+      "texto": "Ananias e Safira mentem ao Espírito Santo sobre a venda de uma propriedade, resultando em sua morte. Esse episódio enfatiza a santidade de Deus e a seriedade de ser honesto com Ele (veja também Levítico 10:1-3 e Provérbios 12:22)."
+    },
+    {
+      "ref": "5:12-16",
+      "texto": "Muitos milagres são realizados pelos apóstolos, e o povo os busca com fé. Essa seção mostra o crescimento da Igreja pelo poder de Deus (veja também Marcos 16:17-18 e Hebreus 2:3-4)."
+    },
+    {
+      "ref": "5:19-20",
+      "texto": "Um anjo do Senhor liberta os apóstolos da prisão, ordenando que continuem pregando. Este evento destaca o apoio divino à missão apostólica (veja também Salmos 34:7 e Atos 12:7-10)."
+    },
+    {
+      "ref": "5:29-32",
+      "texto": "Pedro afirma que é necessário obedecer a Deus em vez de aos homens. Ele proclama a ressurreição de Jesus como base da fé cristã (veja também Gálatas 1:10 e João 14:15)."
+    },
+    {
+      "ref": "5:40-42",
+      "texto": "Após serem açoitados, os apóstolos continuam pregando com alegria. Essa perseverança reflete o compromisso com a missão de Cristo (veja também Mateus 5:11-12 e 2 Timóteo 2:12)."
+    }
+  ]
+}

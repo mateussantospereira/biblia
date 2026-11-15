@@ -1,0 +1,163 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ezequiel",
+  "nome": "Ezequiel",
+  "testamento": "AT",
+  "capitulo": 34,
+  "totalVersiculos": 31,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ezequiel/34/",
+  "capturadoEm": "2026-11-15T09:23:59-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "A palavra do Senhor foi-me dirigida nestes termos:"
+    },
+    {
+      "numero": 2,
+      "texto": "“Filho do homem, profetiza contra os pastores de Israel; dize-lhes, a esses pastores, este oráculo: eis o que diz o Senhor Javé: ai dos pastores de Israel que só cuidam do seu próprio pasto. Não é seu rebanho que devem pastorear os pastores?",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Vós bebeis o leite, vestis-vos de lã, matais as reses mais gordas e sacrificais, tudo isso sem nutrir o rebanho."
+    },
+    {
+      "numero": 4,
+      "texto": "Vós não fortaleceis as ovelhas fracas; a doente, não a tratais; a ferida, não a curais; a transviada, não a reconduzis; a perdida, não a procurais; a todas tratais com violência e dureza."
+    },
+    {
+      "numero": 5,
+      "texto": "Assim, por falta de pastor, dispersaram-se minhas ovelhas, e em sua dispersão foram expostas a tornarem-se presa de todas as feras."
+    },
+    {
+      "numero": 6,
+      "texto": "Minhas ovelhas vagueiam em toda parte sobre a montanha e sobre as colinas, elas se acham espalhadas sobre toda a superfície da terra, sem que ninguém cuide delas ou se ponha a procurá-las."
+    },
+    {
+      "numero": 7,
+      "texto": "Pois bem, pastores, escutai a palavra do Senhor:"
+    },
+    {
+      "numero": 8,
+      "texto": "por minha vida – oráculo do Senhor Javé –, já que por falta de pastor foram minhas ovelhas entregues à pilhagem, e serviram de pasto às feras, pois os meus pastores não têm o mínimo cuidado com elas, e que, em vez de pastoreá-las, só têm procurado se fartar eles próprios,"
+    },
+    {
+      "numero": 9,
+      "texto": "por isso, escutai, pastores, o que diz o Senhor."
+    },
+    {
+      "numero": 10,
+      "texto": "Eis o que diz o Senhor Javé: vou castigar esses pastores, vou reclamar deles as minhas ovelhas, vou tirar deles a guarda do rebanho, de modo que não mais possam fartar a si mesmos; arrancarei minhas ovelhas da sua goela, de modo que não mais poderão devorá-las."
+    },
+    {
+      "numero": 11,
+      "texto": "Pois eis o que diz o Senhor Javé: vou tomar eu próprio o cuidado com minhas ovelhas, velarei sobre elas.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Como o pastor se inquieta por causa de seu rebanho, quando se acha no meio de suas ovelhas tresmalhadas, assim me inquietarei por causa do meu; eu o reconduzirei de todos os lugares por onde tinha sido disperso em um dia de nuvens e de trevas."
+    },
+    {
+      "numero": 13,
+      "texto": "Eu as recolherei dentre os povos e as reunirei de diversos países, para reconduzi-las ao seu próprio solo e fazê-las pastar nos montes de Israel, nos vales e nos lugares habitados da região."
+    },
+    {
+      "numero": 14,
+      "texto": "Eu as apascentarei em boas pastagens, elas serão levadas a gordos campos sobre as montanhas de Israel; elas repousarão sobre as verdes relvas, terão sobre os montes de Israel abundantes pastagens."
+    },
+    {
+      "numero": 15,
+      "texto": "Sou eu que apascentarei minhas ovelhas, sou eu que as farei repousar – oráculo do Senhor Javé."
+    },
+    {
+      "numero": 16,
+      "texto": "A ovelha perdida eu a procurarei; a desgarrada, eu a reconduzirei; a ferida, eu a curarei; a doente, eu a restabelecerei, e velarei sobre a que estiver gorda e vigorosa. Irei apascentá-las todas com justiça.",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "Quanto a vós, minhas ovelhas, eis o que diz o Senhor Javé: vou julgar entre ovelha e ovelha, vou julgar os carneiros e os bodes."
+    },
+    {
+      "numero": 18,
+      "texto": "Não vos bastava pastorear em uma excelente pastagem, para que calqueis ainda aos pés o resto do prado? Não vos bastava beber as águas límpidas, para que calqueis ainda o resto com os pés?"
+    },
+    {
+      "numero": 19,
+      "texto": "E minhas ovelhas devem comer o que pisastes e beber o que sujastes?"
+    },
+    {
+      "numero": 20,
+      "texto": "Pois bem, eis o que diz o Senhor Javé: vou julgar entre ovelha gorda e magra."
+    },
+    {
+      "numero": 21,
+      "texto": "Porque tendes batido o flanco ou a espádua, e ferido com vossos chifres todas as ovelhas fracas, até lançá-las fora,"
+    },
+    {
+      "numero": 22,
+      "texto": "eu irei em socorro de minhas ovelhas para poupá-las de serem atiradas à pilhagem; e julgarei entre ovelha e ovelha."
+    },
+    {
+      "numero": 23,
+      "texto": "Para pastoreá-las suscitarei um só pastor, meu servo Davi. Será ele quem as conduzirá à pastagem e lhes servirá de pastor.",
+      "nota": true
+    },
+    {
+      "numero": 24,
+      "texto": "Eu, o Senhor, serei seu Deus, enquanto o meu servo Davi será um príncipe no meio delas. Sou eu, o Senhor, que o declaro."
+    },
+    {
+      "numero": 25,
+      "texto": "Eu concluirei com elas um tratado de paz; suprimirei as feras de sua terra, de sorte que possam habitar o deserto com segurança e dormir nos bosques."
+    },
+    {
+      "numero": 26,
+      "texto": "Farei deles e das imediações de minha colina uma bênção; farei cair chuva em tempo oportuno: serão chuvas de bênção."
+    },
+    {
+      "numero": 27,
+      "texto": "As árvores dos bosques darão seus frutos e a terra dará o seu produto. Viverão com segurança na terra. Quando eu tiver rompido as cadeias de seu jugo, e os houver livrado das mãos de seus tiranos, eles saberão que sou eu o Senhor."
+    },
+    {
+      "numero": 28,
+      "texto": "Não mais serão pilhados pelas nações nem devorados pelas feras; habitarão a terra com segurança, sem serem incomodados mais por ninguém."
+    },
+    {
+      "numero": 29,
+      "texto": "Farei crescer para eles uma vegetação luxuriante, que constituirá o seu orgulho. Não haverá mais fome devoradora na terra; não mais sofrerão os insultos das nações."
+    },
+    {
+      "numero": 30,
+      "texto": "Saberão que sou eu o Senhor, que sou o seu Deus, e que eles, os israelitas, são o meu povo – oráculo do Senhor Javé."
+    },
+    {
+      "numero": 31,
+      "texto": "E vós, minhas ovelhas, vós sois homens, o rebanho que apascento. E eu, eu sou o vosso Deus – oráculo do Senhor Javé’’."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "34:1-10",
+      "texto": "Deus condena os líderes de Israel, comparando-os a pastores que falham em cuidar do rebanho. A liderança negligente que não cuida do povo é uma grande ofensa a Deus, e Ele promete julgar os líderes por suas falhas (veja também Jeremias 23:1-2 e Mateus 23:1-4)."
+    },
+    {
+      "ref": "34:11-16",
+      "texto": "Deus promete ser o Pastor de Israel, procurando e resgatando Suas ovelhas perdidas. Este versículo aponta para a vinda do Messias, que é o Pastor divino e cuidadoso, trazendo cura e restauração ao Seu povo (veja também João 10:11-14 e Lucas 19:10)."
+    },
+    {
+      "ref": "34:17-22",
+      "texto": "Deus promete julgar as ovelhas entre si, separando as boas das más. Isso enfatiza a justiça de Deus, que não tolera a injustiça nem a exploração dentro de Seu povo, prometendo livrar os fiéis da opressão (veja também Mateus 25:31-46 e 1 Pedro 4:17)."
+    },
+    {
+      "ref": "34:23-24",
+      "texto": "Deus promete levantar um único pastor, Seu servo Davi, para cuidar do Seu povo. Este é um tipo de Cristo, que viria da linhagem de Davi, como o bom pastor que cuida e conduz as ovelhas com justiça (veja também João 10:14 e Apocalipse 7:17)."
+    },
+    {
+      "ref": "34:25-31",
+      "texto": "Deus promete estabelecer uma aliança de paz com Seu povo, restaurando a terra e abençoando-os abundantemente. Essa promessa é um sinal da restauração e do novo pacto que se cumprirá em Cristo (veja também Jeremias 31:31-34 e Hebreus 8:6-13)."
+    }
+  ]
+}

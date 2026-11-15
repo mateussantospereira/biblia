@@ -1,0 +1,198 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "atos-dos-apostolos",
+  "nome": "Atos dos Apóstolos",
+  "testamento": "NT",
+  "capitulo": 16,
+  "totalVersiculos": 40,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/atos-dos-apostolos/16/",
+  "capturadoEm": "2026-11-15T09:27:23-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Chegou a Derbe e depois a Listra. Havia ali um discípulo, chamado Timóteo, filho de uma judia cristã, mas de pai grego,"
+    },
+    {
+      "numero": 2,
+      "texto": "que gozava de ótima reputação junto dos irmãos de Listra e de Icônio."
+    },
+    {
+      "numero": 3,
+      "texto": "Paulo quis que ele fosse em sua companhia. Ao tomá-lo consigo, circuncidou-o, por causa dos judeus daqueles lugares, pois todos sabiam que o seu pai era grego."
+    },
+    {
+      "numero": 4,
+      "texto": "Nas cidades pelas quais passavam, ensinavam que observassem as decisões que haviam sido tomadas pelos apóstolos e anciãos em Jerusalém."
+    },
+    {
+      "numero": 5,
+      "texto": "Assim as igrejas eram confirmadas na fé, e cresciam em número dia a dia."
+    },
+    {
+      "numero": 6,
+      "texto": "Atravessando em seguida a Frígia e a província da Galácia, foram impedidos pelo Espírito Santo de anunciar a Palavra de Deus na (província da) Ásia."
+    },
+    {
+      "numero": 7,
+      "texto": "Ao chegarem aos confins da Mísia, tencionavam seguir para a Bitínia, mas o Espírito de Jesus não o permitiu."
+    },
+    {
+      "numero": 8,
+      "texto": "Depois de haverem atravessado rapidamente a Mísia, desceram a Trôade."
+    },
+    {
+      "numero": 9,
+      "texto": "De noite, Paulo teve uma visão: um macedônio, em pé, diante dele, lhe rogava: “Passa à Macedônia, e vem em nosso auxílio!”."
+    },
+    {
+      "numero": 10,
+      "texto": "Assim que teve essa visão, procuramos partir para a Macedônia, certos de que Deus nos chamava a pregar-lhes o Evangelho.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Embarcados em Trôade, fomos diretamente à Samotrácia e no outro dia a Neápolis;"
+    },
+    {
+      "numero": 12,
+      "texto": "e dali a Filipos, que é a cidade principal daquele distrito da Macedônia, uma colônia romana. Nessa cidade nos detivemos por alguns dias."
+    },
+    {
+      "numero": 13,
+      "texto": "No sábado, saímos fora da porta para junto do rio, onde pensávamos haver lugar de oração. Aí nos assentamos e falávamos às mulheres que se haviam reunido.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Uma mulher, chamada Lídia, da cidade dos tiatirenos, vendedora de púrpura, temente a Deus, nos escutava. O Senhor abriu-lhe o coração, para atender às coisas que Paulo dizia."
+    },
+    {
+      "numero": 15,
+      "texto": "Foi batizada juntamente com a sua família e fez-nos este pedido: “Se julgais que tenho fé no Senhor, entrai em minha casa e ficai comigo”. E obrigou-nos a isso."
+    },
+    {
+      "numero": 16,
+      "texto": "Certo dia, quando íamos à oração, eis que nos veio ao encontro uma moça escrava que tinha o espírito de Pitão, a qual com as suas adivinhações dava muito lucro a seus senhores.",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "Pondo-se a seguir a Paulo e a nós, gritava: “Estes homens são servos do Deus Altíssimo, que vos anunciam o caminho da salvação”."
+    },
+    {
+      "numero": 18,
+      "texto": "Repetiu isto por muitos dias. Por fim, Paulo enfadou-se. Voltou-se para ela e disse ao espírito: “Ordeno-te em nome de Jesus Cristo que saias dela”. E na mesma hora ele saiu."
+    },
+    {
+      "numero": 19,
+      "texto": "Vendo seus amos que se lhes esvaecera a esperança do lucro, pegaram Paulo e Silas e levaram-nos ao foro, à presença das autoridades."
+    },
+    {
+      "numero": 20,
+      "texto": "Em seguida, apresentaram-nos aos magistrados, acusando: “Estes homens são judeus; amotinam a nossa cidade"
+    },
+    {
+      "numero": 21,
+      "texto": "e pregam um modo de vida que nós, romanos, não podemos admitir nem seguir”."
+    },
+    {
+      "numero": 22,
+      "texto": "O povo insurgiu-se contra eles. Os magistrados mandaram arrancar-lhes as vestes para açoitá-los com varas."
+    },
+    {
+      "numero": 23,
+      "texto": "Depois de lhes terem feito muitas chagas, meteram-nos na prisão, mandando ao carcereiro que os guardasse com segurança."
+    },
+    {
+      "numero": 24,
+      "texto": "Este, conforme a ordem recebida, meteu-os na prisão inferior e prendeu-lhes os pés ao cepo."
+    },
+    {
+      "numero": 25,
+      "texto": "Pela meia-noite, Paulo e Silas rezavam e cantavam um hino a Deus, e os prisioneiros os escutavam."
+    },
+    {
+      "numero": 26,
+      "texto": "Subitamente, sentiu-se um terremoto tão grande que se abalaram até os fundamentos do cárcere. Abriram-se logo todas as portas e soltaram-se as algemas de todos."
+    },
+    {
+      "numero": 27,
+      "texto": "Acordou o carcereiro e, vendo abertas as portas do cárcere, supôs que os presos haviam fugido. Tirou da espada e queria matar-se."
+    },
+    {
+      "numero": 28,
+      "texto": "Mas Paulo bradou em alta voz: “Não te faças nenhum mal, pois estamos todos aqui”."
+    },
+    {
+      "numero": 29,
+      "texto": "Então, o carcereiro pediu luz, entrou e lançou-se trêmulo aos pés de Paulo e Silas."
+    },
+    {
+      "numero": 30,
+      "texto": "Depois os conduziu para fora e perguntou-lhes: “Senhores, que devo fazer para me salvar?”."
+    },
+    {
+      "numero": 31,
+      "texto": "Disseram-lhe: “Crê no Senhor Jesus e serás salvo, tu e tua família”."
+    },
+    {
+      "numero": 32,
+      "texto": "Anunciaram-lhe a Palavra de Deus, a ele e a todos os que estavam em sua casa."
+    },
+    {
+      "numero": 33,
+      "texto": "Então, naquela mesma hora da noite, ele cuidou deles e lavou-lhes as chagas. Imediatamente foi batizado, ele e toda a sua família."
+    },
+    {
+      "numero": 34,
+      "texto": "Em seguida, ele os fez subir para sua casa, pôs-lhes a mesa e alegrou-se com toda a sua casa por haver crido em Deus."
+    },
+    {
+      "numero": 35,
+      "texto": "Quando amanheceu, os magistrados mandaram os lictores dizerem: “Solta esses homens”."
+    },
+    {
+      "numero": 36,
+      "texto": "O carcereiro transmitiu essa mensagem a Paulo: “Os magistrados mandaram-me dizer que vos ponha em liberdade. Saí, pois, e ide em paz”."
+    },
+    {
+      "numero": 37,
+      "texto": "Mas Paulo replicou: “Sem nenhum julgamento nos açoitaram publicamente, a nós que somos cidadãos romanos, e meteram-nos no cárcere, e agora nos lançam fora ocultamente... Não há de ser assim! Mas venham e soltem-nos pessoalmente!”."
+    },
+    {
+      "numero": 38,
+      "texto": "Os lictores deram parte dessas palavras aos magistrados. Estes temeram, ao ouvir dizer que eram romanos."
+    },
+    {
+      "numero": 39,
+      "texto": "Foram e lhes falaram brandamente. Pedindo desculpas, rogavam-lhes que se retirassem da cidade."
+    },
+    {
+      "numero": 40,
+      "texto": "Saindo do cárcere, entraram em casa de Lídia, onde reviram e consolaram os irmãos. Depois partiram."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "16:6-10",
+      "texto": "Paulo é impedido pelo Espírito Santo de pregar na Ásia e recebe uma visão para ir à Macedônia. Este episódio ilustra como Deus direciona os passos dos missionários para cumprir Seus planos divinos (veja também Atos 13:2-4 e Provérbios 16:9)."
+    },
+    {
+      "ref": "16:14-15",
+      "texto": "Lídia, uma mulher de negócios, é batizada e se torna a primeira conversão na Europa. Sua hospitalidade e fé demonstram como a Igreja primitiva foi expandida através de mulheres influentes (veja também 2 Coríntios 8:1-4 e Filipenses 4:2-3)."
+    },
+    {
+      "ref": "16:16-18",
+      "texto": "Paulo exorciza uma escrava possuída por um espírito de adivinhação, mostrando a autoridade de Jesus sobre as forças demoníacas. Este evento reflete a luta espiritual presente na expansão do evangelho (veja também Marcos 16:17 e Atos 19:13-16)."
+    },
+    {
+      "ref": "16:25-34",
+      "texto": "Paulo e Silas são libertos da prisão por um terremoto, e o carcereiro se converte. Esse milagre demonstra o poder de Deus em agir em momentos de aflição e como a salvação é oferecida a todos, mesmo aos inimigos (veja também Atos 12:5-10 e Filipenses 1:12-14)."
+    },
+    {
+      "ref": "16:40",
+      "texto": "Após serem libertos da prisão, Paulo e Silas retornam à casa de Lídia, mostrando o poder do perdão e a importância do testemunho cristão em tempos de perseguição (veja também Atos 5:41 e 1 Coríntios 4:12)."
+    }
+  ]
+}

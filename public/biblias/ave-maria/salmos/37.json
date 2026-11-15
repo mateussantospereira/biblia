@@ -1,0 +1,128 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 37,
+  "totalVersiculos": 23,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/37/",
+  "capturadoEm": "2026-11-15T09:16:39-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Salmo de Davi. Para servir de lembrança.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Senhor, em vossa cólera não me repreendais, em vosso furor não me castigueis,"
+    },
+    {
+      "numero": 3,
+      "texto": "porque as vossas flechas me atingiram, e desceu sobre mim a vossa mão."
+    },
+    {
+      "numero": 4,
+      "texto": "Vossa cólera nada poupou em minha carne, por causa de meu pecado nada há de intato nos meus ossos."
+    },
+    {
+      "numero": 5,
+      "texto": "Porque minhas culpas se elevaram acima de minha cabeça, como pesado fardo me oprimem em demasia."
+    },
+    {
+      "numero": 6,
+      "texto": "São fétidas e purulentas as chagas que a minha loucura me causou."
+    },
+    {
+      "numero": 7,
+      "texto": "Estou abatido, extremamente recurvado, todo o dia ando cheio de tristeza."
+    },
+    {
+      "numero": 8,
+      "texto": "Inteiramente inflamados os meus rins, não há parte sã em minha carne."
+    },
+    {
+      "numero": 9,
+      "texto": "Ao extremo enfraquecido e alquebrado, agitado o coração, lanço gritos lancinantes."
+    },
+    {
+      "numero": 10,
+      "texto": "Senhor, diante de vós estão todos os meus desejos, e meu gemido não vos é oculto."
+    },
+    {
+      "numero": 11,
+      "texto": "Palpita-me o coração, abandonam-me as forças, e me falta a própria luz dos olhos."
+    },
+    {
+      "numero": 12,
+      "texto": "Amigos e companheiros fogem de minha chaga, e meus parentes permanecem longe."
+    },
+    {
+      "numero": 13,
+      "texto": "Os que odeiam a minha vida armam-me ciladas; os que me procuram perder ameaçam-me de morte; não cessam de planejar traições."
+    },
+    {
+      "numero": 14,
+      "texto": "Eu, porém, sou como um surdo: não ouço; sou como um mudo que não abre os lábios."
+    },
+    {
+      "numero": 15,
+      "texto": "Fiz-me como um homem que não ouve, e que não tem na boca réplicas a dar."
+    },
+    {
+      "numero": 16,
+      "texto": "Porque é em vós, Senhor, que eu espero; vós me atendereis, Senhor, ó meu Deus."
+    },
+    {
+      "numero": 17,
+      "texto": "Eis meu desejo: “Não se alegrem com minha perda; não se engrandeçam quando meu pé resvala”;"
+    },
+    {
+      "numero": 18,
+      "texto": "pois estou prestes a cair, e minha dor é permanente."
+    },
+    {
+      "numero": 19,
+      "texto": "Sim, minha culpa eu a confesso, meu pecado me atormenta."
+    },
+    {
+      "numero": 20,
+      "texto": "Entretanto, são vigorosos e fortes os meus inimigos, e muitos os que me odeiam sem razão."
+    },
+    {
+      "numero": 21,
+      "texto": "Retribuem-me o mal pelo bem, hostilizam-me porque quero fazer o bem."
+    },
+    {
+      "numero": 22,
+      "texto": "Não me abandoneis, Senhor. Ó meu Deus, não fiqueis longe de mim."
+    },
+    {
+      "numero": 23,
+      "texto": "Depressa, vinde em meu auxílio, Senhor, minha salvação!"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "37:1-2",
+      "texto": "Este salmo começa com uma exortação a não se irritar com os ímpios, enfatizando a temporariedade da prosperidade dos injustos. A confiança em Deus é apresentada como um antídoto contra a inveja e a preocupação (veja também Salmo 73:3-5 e Provérbios 24:19)."
+    },
+    {
+      "ref": "37:3-5",
+      "texto": "A instrução para confiar no Senhor e fazer o bem destaca a importância da ação correta e da dependência divina. Ao nos entregarmos a Deus, encontramos verdadeira satisfação e direções em nossas vidas (veja também Provérbios 3:5-6 e Mateus 6:33)."
+    },
+    {
+      "ref": "37:7-9",
+      "texto": "O salmista exorta a esperar pacientemente pelo Senhor e a não se incomodar com a prosperidade dos ímpios. Essa paciência é um testemunho de fé e confiança no plano divino, que assegura justiça (veja também Lamentações 3:25-26 e Tiago 5:7-8)."
+    },
+    {
+      "ref": "37:25-26",
+      "texto": "A afirmação de que os justos nunca serão desamparados é uma poderosa declaração sobre a fidelidade de Deus. A provisão de Deus para com os justos é um tema recorrente nas Escrituras, reafirmando Seu cuidado constante (veja também Salmo 23:1 e Filipenses 4:19)."
+    },
+    {
+      "ref": "37:39-40",
+      "texto": "A salvação do Senhor para os justos e o refúgio que Ele oferece é uma mensagem de esperança. Este salmo conclui com uma promessa de proteção e libertação para aqueles que confiam em Deus, sublinhando Sua misericórdia (veja também Salmo 91:14-16 e Romanos 10:13)."
+    }
+  ]
+}

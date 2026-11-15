@@ -1,0 +1,255 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "i-cronicas",
+  "nome": "I Crônicas",
+  "testamento": "AT",
+  "capitulo": 2,
+  "totalVersiculos": 55,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/i-cronicas/2/",
+  "capturadoEm": "2026-11-15T09:48:47-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Os filhos de Israel foram: Ruben, Simeão, Levi, Judá, Issacar, Zabulon,"
+    },
+    {
+      "numero": 2,
+      "texto": "Dan, José, Benjamin, Neftali, Gad e Aser."
+    },
+    {
+      "numero": 3,
+      "texto": "Filhos de Judá: Her, Onan e Sela; estes três nasceram da filha de Sué, a Cananeia. Her, primogênito de Judá, foi mau diante do Senhor, e o Senhor fê-lo morrer."
+    },
+    {
+      "numero": 4,
+      "texto": "Tamar, nora de Judá, deu-lhe à luz Farés e Zara. Todos os filhos de Judá foram pois cinco."
+    },
+    {
+      "numero": 5,
+      "texto": "Filhos de Farés: Hesron e Hamul."
+    },
+    {
+      "numero": 6,
+      "texto": "Filhos de Zara: Zamri, Etan, Eman, Calcai e Dara, cinco a o todo."
+    },
+    {
+      "numero": 7,
+      "texto": "Filhos de Carmi: Acar, que turbou Israel e pecou num furto de coisa votada anátema."
+    },
+    {
+      "numero": 8,
+      "texto": "Filho de Etan: Azarias."
+    },
+    {
+      "numero": 9,
+      "texto": "Os filhos que nasceram de Hesron (foram): Jerameel, Ram e Calubi."
+    },
+    {
+      "numero": 10,
+      "texto": "Ram gerou Aminadab, Aminadab gerou Naasson príncipe dos filhos de Judá;"
+    },
+    {
+      "numero": 11,
+      "texto": "Naasson gerou Salma, do qual procedeu Booz;"
+    },
+    {
+      "numero": 12,
+      "texto": "Booz gerou Obed, o qual gerou Isaí;"
+    },
+    {
+      "numero": 13,
+      "texto": "Isaí teve por primogênito a Ellab, sendo seu segundo (filho) Abinadab, terceiro Simaa,"
+    },
+    {
+      "numero": 14,
+      "texto": "quarto Natanael, quinto Radal,"
+    },
+    {
+      "numero": 15,
+      "texto": "sexto Asom, sétimo Davide."
+    },
+    {
+      "numero": 16,
+      "texto": "Foram irmãs destes Sarvla e Abigall. Os filhos de Sarvia (foram) três; Abisai, Joab e Asael."
+    },
+    {
+      "numero": 17,
+      "texto": "Abigall gerou Amasa, cujo pai foi Jeter Ismaelita."
+    },
+    {
+      "numero": 18,
+      "texto": "Caleb, filho de Hesron, teve filhos de sua mulher Azuba, assim como de Jeriot. Os filhos de Azuba foram: Jaser, Sobab e Ardon."
+    },
+    {
+      "numero": 19,
+      "texto": "Tendo morrido Azuba, Caleb tomou por mulher Efrata, da qual teve Hur."
+    },
+    {
+      "numero": 20,
+      "texto": "Hur gerou Uri; Uri gerou Bezeleel."
+    },
+    {
+      "numero": 21,
+      "texto": "Depois Hesron tomou por mulher a filha de Maquir pai de Galaad; recebeu-a, tendo sessenta anos, e teve dela Segub."
+    },
+    {
+      "numero": 22,
+      "texto": "Segub também gerou Jair, o qual foi senhor de vinte e três cidades na terra Galaad."
+    },
+    {
+      "numero": 23,
+      "texto": "Gessur e Arão tomaram as cidades de Jair, assim como Canat, com as suas aldeias, sessenta cidades. Todos estes eram filhos de Maquir, pai de Galaad."
+    },
+    {
+      "numero": 24,
+      "texto": "Depois da morte de Hesron, em Caleb-Efrata, Abia, mulher de Hesron, deu-lhe à luz Azur, pai de Técua."
+    },
+    {
+      "numero": 25,
+      "texto": "A Jerameel, primogênito de Hesron, nasceram os filhos: Ram, primogênito, Buna, Arão, Ason e Aquia."
+    },
+    {
+      "numero": 26,
+      "texto": "Jerameel também casou com outra mulher chamada Atara, que foi mãe de Onam."
+    },
+    {
+      "numero": 27,
+      "texto": "Bam, primogênito de Jerameel, teve por filhos a Moos, a Jamim e a Acar."
+    },
+    {
+      "numero": 28,
+      "texto": "Onam teve por filhos a Semei e a Jada. Os filhos de Semei foram: Nadab e Abisur."
+    },
+    {
+      "numero": 29,
+      "texto": "A mulher de Abisur chamava-se Abiail, a qual lhe deu à luz Aoban e Molid."
+    },
+    {
+      "numero": 30,
+      "texto": "Os filhos de Nadab foram Saled e Afaim. Saled morreu sem filhos."
+    },
+    {
+      "numero": 31,
+      "texto": "Afaim teve um filho chamado Jesi, o qual Jesi gerou Sesan. Sesan gerou Oolai."
+    },
+    {
+      "numero": 32,
+      "texto": "Os filhos de Jada, irmão de Semei, foram: Jeter e Jonatan. Jeter morreu sem filhos."
+    },
+    {
+      "numero": 33,
+      "texto": "Jonatan gerou Falet e Ziza. Estes foram os filhos de Jerameel."
+    },
+    {
+      "numero": 34,
+      "texto": "Sesan não teve filhos, mas sòmente filhas; (tomou) um escravo egípcio, chamado Jeraa,"
+    },
+    {
+      "numero": 35,
+      "texto": "a quem deu por mulher uma sua filha, a qual lhe deu à luz Etei."
+    },
+    {
+      "numero": 36,
+      "texto": "Etei gerou Natan, e Natan gerou Zabad;"
+    },
+    {
+      "numero": 37,
+      "texto": "Zabad gerou Oflal, e Oflal gerou Obed;"
+    },
+    {
+      "numero": 38,
+      "texto": "Obed gerou Jeú; Jeú gerou Azarias;"
+    },
+    {
+      "numero": 39,
+      "texto": "Azarias gerou Heles; Heles gerou Elasa:"
+    },
+    {
+      "numero": 40,
+      "texto": "Elasa gerou Sisamoi; Sisamoi gerou Selum;"
+    },
+    {
+      "numero": 41,
+      "texto": "Selum gerou Icamia, e Icamia gerou Elisama."
+    },
+    {
+      "numero": 42,
+      "texto": "Os filhos de Caleb, irmão de Jerameel, foram Mesa, seu primogênito, que foi pai de Zif, e os descendentes de Maresa, pai de Hebron."
+    },
+    {
+      "numero": 43,
+      "texto": "Filhos de Hebron: Coré, Tafua, Recem e Sama."
+    },
+    {
+      "numero": 44,
+      "texto": "Sarna gerou Raão, pai de Jercaão; Recera gerou Samai;"
+    },
+    {
+      "numero": 45,
+      "texto": "Samai teve um filho, chamado Maou; Maon foi pai de Betsur."
+    },
+    {
+      "numero": 46,
+      "texto": "Efa, mulher de segunda ordem de Caleb, deu à luz Haran, Mosa e Gezez. Haran gerou Gezez."
+    },
+    {
+      "numero": 47,
+      "texto": "Filhos de Joadai: Regom, Joatan, Gesan, Falet, Efa e Saaf."
+    },
+    {
+      "numero": 48,
+      "texto": "Maaca, mulher de segunda ordem de Caleb, deu à luz Saber e Tarana."
+    },
+    {
+      "numero": 49,
+      "texto": "Ela deu também à luz Saaf, pai de Madmena, e Sue, pai de Maquebena e pai de Gabaa. Acsa foi filha de Caleb."
+    },
+    {
+      "numero": 50,
+      "texto": "Filhos de Caleb, filho de Hur, primogênito de Efrata, foram estes: Sobal, pai de Cariatiarim,"
+    },
+    {
+      "numero": 51,
+      "texto": "Salma. pai de Belém, Harif, pai de Betgader."
+    },
+    {
+      "numero": 52,
+      "texto": "Sobal, pai de Cariatiarim, teve por filhos Haroé, Hatsi-Hamme-nuhoth."
+    },
+    {
+      "numero": 53,
+      "texto": "As famílias que eles fundaram em Cariatiarim foram: os Jetreus, os Afuteus, os Semateus e os Masereus. Destes procederam os Saraítas e os Estaolitas."
+    },
+    {
+      "numero": 54,
+      "texto": "Filhos de Salma: Belém e os Netofatlanos, Ataroth-Beth-Joab, metade dos Manaquitianos, os Saraítas, (foi) dos descendentes de Sarai."
+    },
+    {
+      "numero": 55,
+      "texto": "e também as famílias dos escribas, que habitavam em Jabes: Os Tiriatianos, os Squimatianos e os Sucatianos. Estes são os Cinens, que descendem de Hamath, pai da casa de Recab."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "2:1-2",
+      "texto": "Os filhos de Israel (Jacó) são listados, introduzindo as doze tribos de Israel. Essas tribos são fundamentais para a organização do povo de Deus no Antigo Testamento (veja também Gênesis 35:22-26 e Êxodo 1:1-5)."
+    },
+    {
+      "ref": "2:3-4",
+      "texto": "A linhagem de Judá é destacada devido à sua importância na história messiânica. De Judá viria o rei Davi, e mais tarde, o próprio Jesus Cristo (veja também Mateus 1:2-3 e Gênesis 49:10)."
+    },
+    {
+      "ref": "2:5-12",
+      "texto": "As genealogias dos descendentes de Judá continuam, enfatizando personagens como Perez e Hesrom. Isso demonstra a importância da fidelidade de Deus ao preservar a linhagem prometida (veja também Rute 4:18-22 e Números 26:20-21)."
+    },
+    {
+      "ref": "2:13-17",
+      "texto": "A genealogia de Davi é apresentada, com menção especial a seus irmãos. Davi, o grande rei de Israel, ocupa um lugar central na história de salvação de Deus (veja também 1 Samuel 16:6-13 e 2 Samuel 7:12-16)."
+    },
+    {
+      "ref": "2:18-24",
+      "texto": "A narrativa segue com os descendentes de Hesrom, mostrando como Deus continua a manter Sua aliança através das gerações. Essa linhagem culmina em Boaz, que se casa com Rute e se torna ancestral de Davi (veja também Rute 4:18-22 e Mateus 1:5-6)."
+    }
+  ]
+}

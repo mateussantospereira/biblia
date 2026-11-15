@@ -1,0 +1,84 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ester",
+  "nome": "Ester",
+  "testamento": "AT",
+  "capitulo": 11,
+  "totalVersiculos": 12,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ester/11/",
+  "capturadoEm": "2026-11-15T09:15:12-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "No quarto ano do reino de Ptolomeu e de Cleópatra, Dositeu que se dizia sacerdote e levita e igualmente seu filho, Ptolomeu, trouxeram a presente carta concernente aos Purim, dizendo que ela tinha sido traduzida por Lisímaco, filho de Ptolomeu, em Jerusalém.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "No segundo ano do reino de Assuero, o grande rei, no primeiro dia do mês de Nisã, Mardoqueu, filho de Jair, filho de Semei, filho de Cis, da tribo de Benjamim, teve um sonho."
+    },
+    {
+      "numero": 3,
+      "texto": "Havia um judeu estabelecido em Susa, grande personagem, adido à corte do rei."
+    },
+    {
+      "numero": 4,
+      "texto": "Era do número dos cativos que Nabucodonosor, rei da Babilônia, tinha deportado de Jerusalém com o rei Jeconias, de Judá."
+    },
+    {
+      "numero": 5,
+      "texto": "Esta foi sua visão: clamores repentinos, tumultos, trovões, um tremor de terra, o terror por toda a terra."
+    },
+    {
+      "numero": 6,
+      "texto": "Em seguida, repentinamente, avançaram dois grandes dragões, dispostos para acometer um ao outro."
+    },
+    {
+      "numero": 7,
+      "texto": "Ao grito que lançaram, as nações se comoveram para combater contra a nação dos justos."
+    },
+    {
+      "numero": 8,
+      "texto": "Foi um dia de escuridão e trevas: tribulação, angústia, perigo e terror sobre toda a terra."
+    },
+    {
+      "numero": 9,
+      "texto": "O povo inteiro dos justos, cheio de terror, temendo todos os males, julgou-se a ponto de perecer"
+    },
+    {
+      "numero": 10,
+      "texto": "e clamou a Deus. Enquanto levantavam clamores eis que uma pequenina fonte toma proporções de um grande rio, uma massa de água."
+    },
+    {
+      "numero": 11,
+      "texto": "A luz apareceu com o sol; os que estavam na humilhação foram exaltados e devoraram os nobres."
+    },
+    {
+      "numero": 12,
+      "texto": "Depois de ter visto esse sonho e o que Deus queria fazer, Mardoqueu se levantou. Até a noite conservou esse sonho gravado no seu espírito, procurando conhecer o seu sentido."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "11:1",
+      "texto": "O capítulo inicia com uma oração de Mordecai, expressando sua angústia diante da opressão do povo. Isso ressalta a importância da oração como um meio de buscar a intervenção de Deus em tempos de crise (veja também Salmo 34:17 e Filipenses 4:6-7)."
+    },
+    {
+      "ref": "11:2-3",
+      "texto": "A descrição da situação dos judeus evidencia a urgência de sua necessidade de salvação. A opressão é um tema central que destaca a necessidade de um redentor, simbolizando a espera messiânica (veja também Salmo 22:1 e Isaías 53:3-5)."
+    },
+    {
+      "ref": "11:4-5",
+      "texto": "A visão de Mordecai revela o papel essencial de Ester como intercessora. A intercessão é uma prática poderosa que reflete o amor e a compaixão de Deus por Seu povo (veja também Romanos 8:34 e 1 Timóteo 2:1-2)."
+    },
+    {
+      "ref": "11:6-7",
+      "texto": "Mordecai convoca todos os judeus a se unirem em jejum e oração, mostrando a importância da comunhão e da solidariedade em tempos difíceis. O jejum é um ato de humildade diante de Deus (veja também Joel 2:12-13 e Mateus 6:16-18)."
+    },
+    {
+      "ref": "11:8-9",
+      "texto": "A resposta de Deus à oração e ao jejum de Mordecai e do povo ressalta a fidelidade divina. O Senhor sempre ouve os clamores de Seu povo e responde em Seu tempo perfeito (veja também Salmo 18:6 e 1 João 5:14-15)."
+    }
+  ]
+}

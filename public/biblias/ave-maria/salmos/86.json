@@ -1,0 +1,66 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 86,
+  "totalVersiculos": 7,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/86/",
+  "capturadoEm": "2026-11-15T09:17:31-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Salmo dos filhos de Coré. Cântico."
+    },
+    {
+      "numero": 2,
+      "texto": "O Senhor ama a cidade que fundou nos montes santos; ele prefere as portas de Sião às tendas de Jacó.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "De ti se anuncia um glorioso destino, ó cidade de Deus."
+    },
+    {
+      "numero": 4,
+      "texto": "Ajuntarei Raab e Babilônia aos que me honram; eis a Filisteia e Tiro com a Etiópia, lá todos nasceram.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Será dito de Sião: “Um por um, todos esses homens nela nasceram; foi o próprio Altíssimo quem a fundou”."
+    },
+    {
+      "numero": 6,
+      "texto": "O Senhor inscreverá então no registro dos povos: “Aquele também nasceu em Sião”."
+    },
+    {
+      "numero": 7,
+      "texto": "E cantarão entre danças: “Todas as minhas fontes se acham em ti”.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "86:1-4",
+      "texto": "Davi clama a Deus por misericórdia, confiando que Ele ouve as súplicas dos necessitados. O salmo destaca a humildade e a confiança em Deus como fonte de auxílio e consolo (veja também Salmo 34:17 e Tiago 4:6)."
+    },
+    {
+      "ref": "86:5-7",
+      "texto": "O salmista exalta a bondade e a prontidão de Deus em perdoar e mostrar amor fiel àqueles que clamam por Ele. A prontidão de Deus em ouvir é um tema central (veja também 1 João 1:9 e Salmo 145:18)."
+    },
+    {
+      "ref": "86:8-10",
+      "texto": "O salmista reconhece que não há outro deus como o Senhor, exaltando Seu poder e Suas obras grandiosas. Este trecho destaca a singularidade de Deus e Seu domínio sobre todas as nações (veja também Isaías 45:5-6 e 1 Coríntios 8:4-6)."
+    },
+    {
+      "ref": "86:11-13",
+      "texto": "Davi pede a Deus um coração íntegro para que possa temê-Lo e andar em Seus caminhos. A fidelidade de Deus é motivo de louvor, e Sua graça traz libertação (veja também Provérbios 3:5-6 e Salmo 119:33-34)."
+    },
+    {
+      "ref": "86:14-17",
+      "texto": "Davi enfrenta inimigos, mas confia na compaixão e proteção de Deus. Ele conclui com um pedido para que Deus mostre um sinal de Sua bondade e proteção (veja também Salmo 23:4 e Romanos 8:31)."
+    }
+  ]
+}

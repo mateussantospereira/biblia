@@ -1,0 +1,75 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 111,
+  "totalVersiculos": 10,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/111/",
+  "capturadoEm": "2026-11-15T09:54:12-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Aleluia. Bem-aventurado o homem que teme o Senhor, que põe as suas delícias nos seus mandamentos."
+    },
+    {
+      "numero": 2,
+      "texto": "Poderosa será a sua posteridade sobre a terra; bendita será a geração dos justos."
+    },
+    {
+      "numero": 3,
+      "texto": "Haverá abundância e riquezas na sua casa, e a sua munificência durará sempre."
+    },
+    {
+      "numero": 4,
+      "texto": "Nas trevas (do infortúnio) surge como uma luz para os rectos; (ele é) clemente, misericordioso e justo."
+    },
+    {
+      "numero": 5,
+      "texto": "Ditoso o homem que se compadece e empresta (aos pobres), que dispõe as suas coisas com justiça."
+    },
+    {
+      "numero": 6,
+      "texto": "Jamais vacilará; a memória do justo será eterna."
+    },
+    {
+      "numero": 7,
+      "texto": "Não temerá ouvir notícias funestas; o seu coração está firme, esperando no Senhor."
+    },
+    {
+      "numero": 8,
+      "texto": "Inalterável está o seu coração, não temerá, até que veja os seus adversários confundidos."
+    },
+    {
+      "numero": 9,
+      "texto": "Distribui, dá aos pobres, a sua munificência durará sempre; o seu poder será exaltado com glória."
+    },
+    {
+      "numero": 10,
+      "texto": "Vê-lo-á o pecador e se indignará, rangerá os dentes e se consumirá; porém o desejo dos pecadores perecerá."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "111:1",
+      "texto": "O salmo começa com uma exortação ao louvor a Deus com todo o coração, refletindo a importância da adoração comunitária e individual diante das grandes obras de Deus (veja também Salmo 9:1 e Hebreus 13:15)."
+    },
+    {
+      "ref": "111:2-3",
+      "texto": "As obras do Senhor são grandes e majestosas, inspirando reverência. O salmo destaca que aqueles que as estudam encontram prazer, refletindo a importância da meditação nas ações de Deus (veja também Salmo 92:5 e Romanos 11:33)."
+    },
+    {
+      "ref": "111:4-5",
+      "texto": "Deus é gracioso e misericordioso, sempre se lembrando do Seu pacto. A fidelidade de Deus em prover e cuidar do Seu povo é um tema central da aliança (veja também Êxodo 34:6 e Salmo 105:8)."
+    },
+    {
+      "ref": "111:7-8",
+      "texto": "As obras de Deus são fiéis e justas, e Seus mandamentos são firmes. Isso ressalta a imutabilidade e a justiça dos decretos divinos (veja também Salmo 19:9 e Isaías 40:8)."
+    },
+    {
+      "ref": "111:9-10",
+      "texto": "Deus envia redenção ao Seu povo e ordena Sua aliança para sempre. O temor do Senhor é o princípio da sabedoria, destacando a importância de viver em reverência a Deus (veja também Provérbios 1:7 e Colossenses 2:3)."
+    }
+  ]
+}

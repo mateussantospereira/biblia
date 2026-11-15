@@ -1,0 +1,226 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "levitico",
+  "nome": "Levítico",
+  "testamento": "AT",
+  "capitulo": 11,
+  "totalVersiculos": 47,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/levitico/11/",
+  "capturadoEm": "2026-11-15T09:08:52-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Senhor disse a Moisés e a Aarão: “Dize aos israelitas o seguinte:"
+    },
+    {
+      "numero": 2,
+      "texto": "Entre todos os animais da terra, podereis comer:"
+    },
+    {
+      "numero": 3,
+      "texto": "todo animal que tem a unha fendida e o casco dividido, e que rumina."
+    },
+    {
+      "numero": 4,
+      "texto": "Mas não comereis aqueles que só ruminam ou só têm a unha fendida. A estes, os tereis por impuros: tal como o camelo, que rumina mas não tem o casco fendido."
+    },
+    {
+      "numero": 5,
+      "texto": "E como o coelho igualmente, que rumina mas não tem a unha fendida; os tereis por impuros."
+    },
+    {
+      "numero": 6,
+      "texto": "E como a lebre também, que rumina, mas não tem a unha fendida; a tereis por impura;"
+    },
+    {
+      "numero": 7,
+      "texto": "e, enfim, como o porco, que tem a unha fendida e o pé dividido, mas não rumina; o tereis por impuro."
+    },
+    {
+      "numero": 8,
+      "texto": "Não comereis da sua carne e não tocareis nos seus cadáveres: vós os tereis por impuros."
+    },
+    {
+      "numero": 9,
+      "texto": "Estes são os animais que vivem na água, que podereis comer: os que têm barbatanas e escamas, nas águas, no mar e nos rios."
+    },
+    {
+      "numero": 10,
+      "texto": "Mas tereis em abominação todos os que não têm barbatanas nem escama, nos mares e nos rios, entre todos os animais que vivem nas águas e entre todos os seres vivos que nelas se encontram."
+    },
+    {
+      "numero": 11,
+      "texto": "A esses, os tereis em abominação: não comereis de sua carne e tereis em abominação os seus cadáveres."
+    },
+    {
+      "numero": 12,
+      "texto": "Todos os que nas águas não têm barbatanas nem escamas, os tereis em abominação."
+    },
+    {
+      "numero": 13,
+      "texto": "Entre as aves, eis as que tereis abominação e de cuja carne não comereis, porque é uma abominação: a águia, o falcão e o abutre, o milhafre e toda variedade"
+    },
+    {
+      "numero": 14,
+      "texto": "dos falcões, em toda sociedade de"
+    },
+    {
+      "numero": 15,
+      "texto": "corvo,"
+    },
+    {
+      "numero": 16,
+      "texto": "a avestruz, a andorinha, a gaivota e toda a espécie de gavião,"
+    },
+    {
+      "numero": 17,
+      "texto": "o mocho, a coruja e o íbis,"
+    },
+    {
+      "numero": 18,
+      "texto": "o cisne, o pelicano, o alcatraz e a cegonha,"
+    },
+    {
+      "numero": 19,
+      "texto": "toda a variedade de garça, a poupa e o morcego."
+    },
+    {
+      "numero": 20,
+      "texto": "Todo volátil que anda sobre quatro pés vos será uma abominação."
+    },
+    {
+      "numero": 21,
+      "texto": "Todavia, entre os insetos voláteis que andam sobre quatro pés podereis comer aqueles que, além de seus quatro pés, têm pernas para saltar em cima da terra."
+    },
+    {
+      "numero": 22,
+      "texto": "Eis, pois, os que podereis comer: toda a espécie de gafanhotos, assim como as variedades de solam, de hargol e de hagab.",
+      "nota": true
+    },
+    {
+      "numero": 23,
+      "texto": "Qualquer outro volátil que tenha quatro pés vos será uma abominação."
+    },
+    {
+      "numero": 24,
+      "texto": "Tornarei-vos imundos se os tocardes: se alguém tocar os seus cadáveres será impuro até a tarde,"
+    },
+    {
+      "numero": 25,
+      "texto": "e aquele que levar os seus cadáveres lavará suas vestes e será impuro até a tarde."
+    },
+    {
+      "numero": 26,
+      "texto": "Tereis por impuro todo animal que tenha a unha fendida, mas que não tem o pé dividido e não rumina; se alguém o tocar será imundo."
+    },
+    {
+      "numero": 27,
+      "texto": "Tereis também por impuros todos os quadrúpedes que andam nas plantas dos pés; se alguém tocar seus cadáveres será impuro até a tarde;"
+    },
+    {
+      "numero": 28,
+      "texto": "e aquele que levar os seus cadáveres lavará suas vestes e será impuro até a tarde. Tereis esses animais por impuros."
+    },
+    {
+      "numero": 29,
+      "texto": "Entre os animais que se movem em cima da terra, eis os que tereis por impuros: a toupeira, o rato e toda a variedade de lagartos,",
+      "nota": true
+    },
+    {
+      "numero": 30,
+      "texto": "o musaranho, a rã, a tartaruga, a lagartixa e o camaleão."
+    },
+    {
+      "numero": 31,
+      "texto": "Tais são os répteis que tereis por impuros; quem tocar neles, quando mortos, ficará impuro até a tarde."
+    },
+    {
+      "numero": 32,
+      "texto": "Todo objeto sobre o qual caírem os seus cadáveres será impuro: vasos de madeira, vestes, peles, sacos e qualquer outro utensílio. Deve-se passar esse objeto na água e ele ficará imundo até a tarde; depois disso, estará puro."
+    },
+    {
+      "numero": 33,
+      "texto": "Se cair uma parte desses cadáveres num vaso de terra, tudo o que se encontrar nele será impuro, e devereis quebrar esse vaso."
+    },
+    {
+      "numero": 34,
+      "texto": "Todo alimento preparado com água (desse vaso) será impuro como também toda bebida, seja qual for o recipiente que a contenha, será impura."
+    },
+    {
+      "numero": 35,
+      "texto": "Todo objeto sobre o qual cair alguma coisa dos seus cadáveres será impuro; se for um forno ou fogão serão destruídos: serão impuros, e vós os tereis como tais."
+    },
+    {
+      "numero": 36,
+      "texto": "Contudo, as fontes e as cisternas em que há depósito de água ficarão puras, mas aquele que tocar os cadáveres será impuro."
+    },
+    {
+      "numero": 37,
+      "texto": "Se cair alguma coisa dos seus cadáveres sobre uma semente qualquer, esta ficará pura."
+    },
+    {
+      "numero": 38,
+      "texto": "Mas se se derramar água sobre a semente e alguma coisa dos seus cadáveres cair sobre ela, vós a tratareis como por impura."
+    },
+    {
+      "numero": 39,
+      "texto": "Se morrer algum animal que vos é lícito comer, aquele que tocar o seu cadáver será impuro até a tarde."
+    },
+    {
+      "numero": 40,
+      "texto": "Quem comer de sua carne lavará suas vestes e será impuro até a tarde; e aquele que levar esse cadáver lavará suas vestes e ficará impuro até a tarde."
+    },
+    {
+      "numero": 41,
+      "texto": "Todo animal que se arrasta sobre a terra vos será uma coisa abominável: não se comerá dele."
+    },
+    {
+      "numero": 42,
+      "texto": "Não comereis animal algum que se arrasta sobre a terra, tanto aqueles que se arrastam sobre o ventre como aqueles que andam sobre quatro ou mais pés, pois são abomináveis."
+    },
+    {
+      "numero": 43,
+      "texto": "Não vos torneis abomináveis, comendo um desses répteis, e não vos façais impuros por eles, porque vos tornaríeis imundos."
+    },
+    {
+      "numero": 44,
+      "texto": "Pois eu sou o Senhor, vosso Deus. Vós vos santificareis e sereis santos, porque eu sou santo. Não vos contaminareis com esses animais que se arrastam sobre a terra,",
+      "nota": true
+    },
+    {
+      "numero": 45,
+      "texto": "porque eu sou o Senhor que vos tirou da terra do Egito para ser o vosso Deus. Sereis santos porque eu sou santo."
+    },
+    {
+      "numero": 46,
+      "texto": "Tal é a lei relativa aos quadrúpedes, às aves, a todos os seres vivos que se movem nas águas e a todos aqueles que se arrastam sobre a terra."
+    },
+    {
+      "numero": 47,
+      "texto": "Essa lei vos fará discernir o que é puro do que é impuro, o animal que pode ser comido do que não pode”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "11:1-8",
+      "texto": "Deus dá instruções sobre os animais puros e impuros, destacando a separação que Ele requer entre o santo e o profano. A distinção entre os alimentos é um símbolo da pureza e da obediência ao Senhor (veja também Deuteronômio 14:3-8 e Atos 10:14-15)."
+    },
+    {
+      "ref": "11:9-12",
+      "texto": "As regras alimentares também se aplicam às criaturas aquáticas, sendo permitidos apenas os que têm barbatanas e escamas. Isso reforça o princípio da pureza e a obediência aos mandamentos divinos, mesmo nos detalhes da vida cotidiana (veja também Mateus 5:17-18 e 1 Coríntios 10:31)."
+    },
+    {
+      "ref": "11:13-19",
+      "texto": "Deus proíbe o consumo de várias aves e criaturas aladas, instruindo o povo a manter a pureza até nas suas escolhas alimentares. A obediência às leis de pureza reflete a santidade de Deus (veja também Isaías 65:4 e Romanos 12:1)."
+    },
+    {
+      "ref": "11:20-23",
+      "texto": "Instruções sobre os insetos que podem ou não ser consumidos reforçam a preocupação divina com a pureza em todos os aspectos da vida. Essa separação é um lembrete constante de que o povo de Deus deve ser santo (veja também 1 Pedro 1:15-16 e Colossenses 3:17)."
+    },
+    {
+      "ref": "11:44-45",
+      "texto": "Deus ordena que Seu povo seja santo, pois Ele é santo. A separação dos alimentos impuros é uma maneira prática de lembrar Israel de sua identidade como nação santa, separada para o serviço do Senhor (veja também Êxodo 19:6 e 1 Pedro 2:9)."
+    }
+  ]
+}

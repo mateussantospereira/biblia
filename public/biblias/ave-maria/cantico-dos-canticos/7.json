@@ -1,0 +1,94 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "cantico-dos-canticos",
+  "nome": "Cântico dos Cânticos",
+  "testamento": "AT",
+  "capitulo": 7,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/cantico-dos-canticos/7/",
+  "capturadoEm": "2026-11-15T09:20:00-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "– Volta, volta, ó Sulamita; volta, volta, para que nós te vejamos. – Por que olhais a Sulamita, quando ela entra na dança de Maanaim?",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "– Como são graciosos os teus pés nas tuas sandálias, filha de príncipe! A curva de teus quadris assemelha-se a um colar, obra de mãos de artista;",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "teu umbigo é uma taça redonda, cheia de vinho perfumado; teu corpo é um monte de trigo cercado de lírios;"
+    },
+    {
+      "numero": 4,
+      "texto": "teus dois seios são como dois filhotes gêmeos de uma gazela;"
+    },
+    {
+      "numero": 5,
+      "texto": "teu pescoço é uma torre de marfim; teus olhos são as fontes de Hesebon junto à porta de Bat-Rabim. Teu nariz é como a torre do Líbano, que olha para os lados de Damasco;"
+    },
+    {
+      "numero": 6,
+      "texto": "tua cabeça ergue-se sobre ti como o Carmelo; tua cabeleira é como a púrpura, e um rei se acha preso aos seus cachos."
+    },
+    {
+      "numero": 7,
+      "texto": "– Como és bela e graciosa, ó meu amor, ó minhas delícias!",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Teu porte assemelha-se ao da palmeira, de que teus dois seios são os cachos."
+    },
+    {
+      "numero": 9,
+      "texto": "“Vou subir à palmeira – disse eu comigo mesmo – e colherei os seus frutos.” Sejam-me os teus seios como cachos da vinha."
+    },
+    {
+      "numero": 10,
+      "texto": "E o perfume de tua boca como o odor das maçãs; teus beijos são como um vinho delicioso que corre para o bem-amado, umedecendo-lhe os lábios na hora do sono."
+    },
+    {
+      "numero": 11,
+      "texto": "– Eu sou para o meu amado o objeto de seus desejos."
+    },
+    {
+      "numero": 12,
+      "texto": "Vem, meu bem-amado, saiamos ao campo, passemos a noite nos pomares;"
+    },
+    {
+      "numero": 13,
+      "texto": "pela manhã iremos às vinhas, para ver se a vinha lançou rebentos, se as suas flores se abrem, se as romãzeiras estão em flor. Ali te darei as minhas carícias."
+    },
+    {
+      "numero": 14,
+      "texto": "As mandrágoras exalam o seu perfume; temos à nossa porta frutos excelentes, novos e velhos que guardei para ti, meu bem-amado."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "7:1-5",
+      "texto": "O noivo exalta a beleza da noiva, enfatizando a alegria da apreciação mútua. A linguagem poética sobre o corpo da noiva revela a importância da atração física no amor (veja também Cânticos 4:1-5 e 1 Coríntios 7:3-5)."
+    },
+    {
+      "ref": "7:6-9",
+      "texto": "O noivo expressa seu amor e desejo pela noiva, ressaltando a profundidade emocional do relacionamento. A metáfora do vinho e do perfume simboliza a doçura e a alegria do amor verdadeiro (veja também Salmo 104:15 e Efésios 5:18)."
+    },
+    {
+      "ref": "7:10-12",
+      "texto": "A noiva responde ao noivo, afirmando seu amor e disponibilidade. Essa reciprocidade é essencial para um relacionamento saudável, evidenciando a natureza mútua do amor (veja também Filipenses 2:3-4 e Colossenses 3:14)."
+    },
+    {
+      "ref": "7:13",
+      "texto": "A noiva faz um convite ao noivo para desfrutar da beleza do amor. Esse chamado para a intimidade expressa a liberdade e a alegria de um amor autêntico (veja também 1 João 4:16 e Salmo 37:4)."
+    },
+    {
+      "ref": "7:14-15",
+      "texto": "O noivo é convidado a vir para os vinhedos, simbolizando a alegria da comunhão e a abundância do amor. O amor é comparado a um banquete, enfatizando a riqueza da vida compartilhada (veja também Cânticos 2:4 e João 10:10)."
+    }
+  ]
+}

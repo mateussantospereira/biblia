@@ -1,0 +1,76 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-sao-joao",
+  "nome": "I São João",
+  "testamento": "NT",
+  "capitulo": 1,
+  "totalVersiculos": 10,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-sao-joao/1/",
+  "capturadoEm": "2026-11-15T09:29:31-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O que era desde o princípio, o que temos ouvido, o que temos visto com os nossos olhos, o que temos contemplado e as nossas mãos têm apalpado no tocante ao Verbo da vida –"
+    },
+    {
+      "numero": 2,
+      "texto": "porque a vida se manifestou, e nós a temos visto; damos testemunho e vos anunciamos a vida eterna, que estava no Pai e que se nos manifestou –,"
+    },
+    {
+      "numero": 3,
+      "texto": "o que vimos e ouvimos nós vos anunciamos, para que também vós tenhais comunhão conosco. Ora, a nossa comunhão é com o Pai e com o seu Filho Jesus Cristo.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Escrevemo-vos estas coisas para que a vossa alegria seja completa."
+    },
+    {
+      "numero": 5,
+      "texto": "A nova que dele temos ouvido e vos anunciamos é esta: Deus é luz e nele não há treva alguma."
+    },
+    {
+      "numero": 6,
+      "texto": "Se dizemos ter comunhão com ele, mas andamos nas trevas, mentimos e não seguimos a verdade."
+    },
+    {
+      "numero": 7,
+      "texto": "Se, porém, andamos na luz como ele mesmo está na luz, temos comunhão recíproca uns com os outros, e o sangue de Jesus Cristo, seu Filho, nos purifica de todo pecado."
+    },
+    {
+      "numero": 8,
+      "texto": "Se dizemos que não temos pecado, enganamo-nos a nós mesmos, e a verdade não está em nós."
+    },
+    {
+      "numero": 9,
+      "texto": "Se reconhecemos os nossos pecados, (Deus aí está) fiel e justo para nos perdoar os pecados e para nos purificar de toda iniquidade."
+    },
+    {
+      "numero": 10,
+      "texto": "Se pensamos não ter pecado, nós o declaramos mentiroso e a sua palavra não está em nós."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:1-4",
+      "texto": "João afirma que a experiência de ver, ouvir e tocar a Palavra da Vida é essencial para a fé cristã. Ele enfatiza a importância do relacionamento pessoal com Jesus, como fundamento da comunhão com Deus e uns com os outros (veja também João 1:14 e 1 João 4:14)."
+    },
+    {
+      "ref": "1:5-7",
+      "texto": "Deus é luz, e nEle não há trevas. A santidade de Deus exige que andemos na luz, em contrapartida ao pecado. A comunhão com Deus é mantida na purificação do pecado, realizada através do sangue de Cristo (veja também João 8:12 e 1 João 2:1)."
+    },
+    {
+      "ref": "1:8-10",
+      "texto": "A confissão de pecados é essencial para a purificação. João destaca a fidelidade de Deus em perdoar aqueles que reconhecem seus erros. Este versículo chama os cristãos a viverem em transparência e arrependimento (veja também Provérbios 28:13 e 1 João 2:1)."
+    },
+    {
+      "ref": "1:9",
+      "texto": "Se confessarmos nossos pecados, Ele é fiel e justo para nos perdoar. Este versículo sublinha o caráter de Deus, que perdoa e purifica, oferecendo renovação e restauração aos que se arrependem sinceramente (veja também Salmos 51:1-2 e Lucas 15:7)."
+    },
+    {
+      "ref": "1:10",
+      "texto": "A negação do pecado é uma mentira. João desafia os cristãos a reconhecerem sua natureza pecaminosa e a necessidade constante de dependência da graça divina (veja também 1 João 2:1 e Romanos 7:18)."
+    }
+  ]
+}

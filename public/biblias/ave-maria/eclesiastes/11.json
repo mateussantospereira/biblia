@@ -1,0 +1,79 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "eclesiastes",
+  "nome": "Eclesiastes",
+  "testamento": "AT",
+  "capitulo": 11,
+  "totalVersiculos": 10,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/eclesiastes/11/",
+  "capturadoEm": "2026-11-15T09:19:52-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Atira teu pão sobre a superfície das águas, porque depois de muito tempo o acharás.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Faze de tua riqueza sete e mesmo oito partes, porque não sabes que calamidade sobrevirá à terra."
+    },
+    {
+      "numero": 3,
+      "texto": "Quando as nuvens estiverem carregadas, derramarão a chuva sobre a terra. Quando tomba uma árvore para o sul ou para o norte, lá onde cai, fica."
+    },
+    {
+      "numero": 4,
+      "texto": "Quem observa o vento jamais semeará; quem examina as nuvens nunca segará."
+    },
+    {
+      "numero": 5,
+      "texto": "Do mesmo modo que não sabes qual é o caminho do sopro da vida e como se formam os ossos no seio de uma mãe, assim também ignoras a ação de Deus, que faz todas as coisas.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Semeia a tua semente desde a manhã e não deixes tuas mãos ociosas até a noite. Porque não sabes o que terá bom êxito, se isto ou aquilo, ou se ambas as coisas são igualmente úteis."
+    },
+    {
+      "numero": 7,
+      "texto": "Doce é a luz, e é um deleite para os olhos ver o sol.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Por mais numerosos que sejam os anos de vida, regozija-se o homem em todos eles, mas deve pensar nos dias obscuros que serão numerosos. Tudo o que acontece é vaidade."
+    },
+    {
+      "numero": 9,
+      "texto": "Jovem, rejubila-te na tua adolescência e, enquanto ainda és jovem, entrega teu coração à alegria. Anda nos caminhos de teu coração e segundo os olhares de teus olhos, mas fica sabendo que de tudo isso Deus te fará prestar conta!",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Afasta a tristeza do teu coração e poupa o sofrimento a teu corpo, porque a juventude e a adolescência são passageiras."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "11:1-2",
+      "texto": "A exortação para lançar o pão sobre as águas ilustra o princípio da generosidade e da ação, mostrando que devemos aproveitar as oportunidades de fazer o bem, mesmo que não saibamos o resultado (veja também Lucas 6:38 e Gálatas 6:9)."
+    },
+    {
+      "ref": "11:3-4",
+      "texto": "A incerteza sobre o futuro deve nos encorajar a trabalhar diligentemente. O autor nos lembra de que devemos agir com sabedoria e fé, mesmo sem garantias, e não ser paralisados pelo medo (veja também Provérbios 16:3 e Mateus 25:14-30)."
+    },
+    {
+      "ref": "11:5-6",
+      "texto": "A comparação da criação com a incapacidade humana de entender o processo de vida nos convida a confiar na sabedoria de Deus. A importância de agir enquanto se tem a oportunidade é enfatizada (veja também Isaías 55:8-9 e Efésios 5:15-16)."
+    },
+    {
+      "ref": "11:7-8",
+      "texto": "A luz é doce e a vida deve ser apreciada, mesmo em meio a dificuldades. A valorização da vida, apesar das incertezas, nos lembra da necessidade de gratidão e alegria em cada dia (veja também Salmo 118:24 e Filipenses 4:4)."
+    },
+    {
+      "ref": "11:9-10",
+      "texto": "A exortação para desfrutar a juventude e a advertência sobre as responsabilidades futuras destacam a necessidade de viver plenamente, mas com sabedoria. Isso nos lembra que nossas escolhas têm consequências duradouras (veja também Eclesiastes 12:1 e 1 Timóteo 4:12)."
+    }
+  ]
+}

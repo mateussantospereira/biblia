@@ -1,0 +1,96 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "miqueias",
+  "nome": "Miquéias",
+  "testamento": "AT",
+  "capitulo": 6,
+  "totalVersiculos": 16,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/miqueias/6/",
+  "capturadoEm": "2026-11-15T09:25:06-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ouvi o que diz o Senhor: Vamos, advoga tua causa diante das montanhas, ouçam as colinas a tua voz!"
+    },
+    {
+      "numero": 2,
+      "texto": "Ouvi, montanhas, o processo do Senhor, e vós, fundamentos perenes da terra. Porque o Senhor entrou em juízo com seu povo, ele vai pleitear com Israel:"
+    },
+    {
+      "numero": 3,
+      "texto": "“Povo meu, que te fiz, ou em que te contristei? Responde-me."
+    },
+    {
+      "numero": 4,
+      "texto": "Fiz-te sair do Egito, livrei-te da escravidão, e mandei diante de ti Moisés, Aarão e Maria."
+    },
+    {
+      "numero": 5,
+      "texto": "Povo meu, lembra-te dos desígnios de Balac, rei de Moab, e a resposta que lhe deu Balaão, filho de Beor; lembra-te da etapa entre Setim e Guilgal, para reconheceres os benefícios do Senhor”.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "“Com que me apresentarei diante do Senhor e me prostrarei diante do Deus soberano? Irei à sua presença com holocaustos e novilhos de um ano?",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "Porventura, agradará ao Senhor com milhares de carneiros, ou com milhões de torrentes de óleo? Eu lhe sacrificarei pela minha maldade o meu primogênito, o fruto de minhas entranhas por meus próprios pecados?”"
+    },
+    {
+      "numero": 8,
+      "texto": "Já te foi dito, ó homem, o que convém, o que o Senhor reclama de ti: que pratiques a justiça, que ames a bondade, e que andes com humildade diante do teu Deus.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "A voz do Senhor eleva-se contra a cidade – é sabedoria temer o vosso nome. Ouve, tribo: ouve, assembleia da cidade.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Haverá ainda na casa do ímpio tesouros mal adquiridos e um efá diminuído e maldito?",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Pode-se ser inocente com balanças falsas e com um saco cheio de pesos enganosos?"
+    },
+    {
+      "numero": 12,
+      "texto": "Os ricos da cidade são homens violentos, os seus habitantes proferem mentiras, e em sua boca a língua só serve para enganar."
+    },
+    {
+      "numero": 13,
+      "texto": "Por isso, vou começar a ferir-te por minha vez, a devastar-te por causa de teus pecados."
+    },
+    {
+      "numero": 14,
+      "texto": "O que comeres não te saciará, haverá fome em tua casa; porás os teus bens em lugar seguro, mas não os salvarás, e o que tiveres salvo, eu o entregarei à espada..."
+    },
+    {
+      "numero": 15,
+      "texto": "Semearás e não colherás, espremerás a oliva mas não terás óleo com que te ungir; pisarás o mosto, mas não terás vinho para beber."
+    },
+    {
+      "numero": 16,
+      "texto": "Observam-se as leis de Amri, seguem-se os exemplos da casa de Acab; procede como eles, para que eu te reduza à desolação, e teus habitantes às vaias e assobios; suporta os insultos de meu povo."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "6:1-5",
+      "texto": "Deus apresenta uma acusação contra Israel, lembrando-lhes de Seus atos passados de libertação e provisão. Ele desafia o povo a refletir sobre como responder a Seu amor e graça (veja também Êxodo 19:4-6 e Salmo 78:5-8)."
+    },
+    {
+      "ref": "6:6-8",
+      "texto": "Miquéias questiona como o povo pode agradar a Deus, destacando que sacrifícios e rituais não são suficientes sem um coração puro. A verdadeira adoração envolve justiça, misericórdia e humildade (veja também Oséias 6:6 e Mateus 23:23)."
+    },
+    {
+      "ref": "6:9-16",
+      "texto": "O profeta denuncia a corrupção e a injustiça em Israel, alertando sobre o julgamento que virá. O capítulo fala sobre o comportamento imoral de governantes e líderes, enfatizando a importância de viver de acordo com os mandamentos de Deus (veja também Amós 5:12-15 e Tiago 5:1-6)."
+    }
+  ]
+}

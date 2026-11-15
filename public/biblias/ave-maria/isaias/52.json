@@ -1,0 +1,101 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 52,
+  "totalVersiculos": 15,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/52/",
+  "capturadoEm": "2026-11-15T09:22:05-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Desperta, desperta, põe teus adornos, Sião, veste teus trajes de gala, Jerusalém, cidade santa, porque não mais verás penetrar em tua casa nem incircuncisos nem impuros!"
+    },
+    {
+      "numero": 2,
+      "texto": "Sacode a poeira que te cobre, levanta-te, Jerusalém, e reina, desvencilha-te das cadeias que te prendem o pescoço, filha cativa de Sião.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Porque eis o que diz o Senhor: “Vós fostes vendidos gratuitamente e sereis resgatados sem pagamento”."
+    },
+    {
+      "numero": 4,
+      "texto": "Porque eis o que diz o Senhor Deus: “Meu povo desceu outrora do Egito para aí habitar, depois a Assíria o oprimiu sem motivo."
+    },
+    {
+      "numero": 5,
+      "texto": "E agora que faço eu aqui, diz o Senhor, já que meu povo foi levado gratuitamente? Seus opressores soltam brados de triunfo, diz o Senhor, e meu nome é ultrajado todo dia, sem cessar.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Por isso, meu povo vai saber meu nome: naquele dia, compreenderá que sou eu quem diz: ‘Eis-me aqui!’.”"
+    },
+    {
+      "numero": 7,
+      "texto": "Como são belos sobre as montanhas os pés do mensageiro que anuncia a felicidade, que traz as boas-novas e anuncia a libertação, que diz a Sião: “Teu Deus reina!”.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Ouve! Tuas sentinelas elevam a voz, e todas juntas soltam alegres gritos, porque veem com seus próprios olhos o Senhor voltar a Sião."
+    },
+    {
+      "numero": 9,
+      "texto": "Prorrompei todas em brados de alegria, ruínas de Jerusalém, porque o Senhor se compadece de seu povo, e resgata Jerusalém!"
+    },
+    {
+      "numero": 10,
+      "texto": "O Senhor descobre seu braço santo aos olhares das nações, e todos os confins da terra verão o triunfo de nosso Deus."
+    },
+    {
+      "numero": 11,
+      "texto": "Parti, parti! Retirai-vos daí, não toqueis nada de impuro! Deixai estas paragens, purificai-vos, vós que levais os vasos do Senhor,",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "porque não partireis com precipitação, não vos retirareis como fugitivos, porquanto diante de vós irá o Senhor, e o Deus de Israel seguirá à vossa retaguarda."
+    },
+    {
+      "numero": 13,
+      "texto": "Eis que meu Servo prosperará, crescerá, ele se elevará, será exaltado."
+    },
+    {
+      "numero": 14,
+      "texto": "Assim como, à sua vista, muitos ficaram embaraçados – tão desfigurado estava que havia perdido a aparência humana –,",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "assim o admirarão muitos povos: os reis permanecerão mudos diante dele, porque verão o que nunca lhes tinha sido contado, e observarão um prodígio inaudito.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "52:1-2",
+      "texto": "Deus convoca Jerusalém a despertar e vestir-se de força e esplendor, simbolizando a restauração e a santidade de Seu povo. Isso prefigura a redenção em Cristo (veja também Apocalipse 21:2-4 e Isaías 60:1)."
+    },
+    {
+      "ref": "52:3-6",
+      "texto": "Deus promete resgatar Seu povo sem custo, reafirmando Seu compromisso com a libertação dos cativos. Isso aponta para a obra gratuita da salvação (veja também Romanos 6:23 e Efésios 2:8-9)."
+    },
+    {
+      "ref": "52:7",
+      "texto": "A proclamação das boas novas de paz e salvação exalta a beleza daqueles que anunciam a chegada do Reino de Deus. Essa passagem é citada no Novo Testamento como referência ao Evangelho (veja também Romanos 10:15 e Naum 1:15)."
+    },
+    {
+      "ref": "52:10",
+      "texto": "Deus manifesta Seu poder perante todas as nações, mostrando que a salvação é universal. Isso reflete a inclusão dos gentios no plano de Deus (veja também Salmo 98:2-3 e Lucas 2:30-32)."
+    },
+    {
+      "ref": "52:13-15",
+      "texto": "O Servo do Senhor é exaltado, mas também descrito como alguém que sofre para redimir muitos. Essa profecia aponta diretamente para a paixão de Cristo e Sua obra redentora (veja também Isaías 53:3-5 e Filipenses 2:9-11)."
+    }
+  ]
+}

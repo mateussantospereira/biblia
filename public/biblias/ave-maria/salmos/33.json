@@ -1,0 +1,128 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 33,
+  "totalVersiculos": 23,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/33/",
+  "capturadoEm": "2026-11-15T09:16:35-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "De Davi. Quando simulou alienação na presença de Abimelec e, despedido por ele, partiu.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Bendirei continuamente o Senhor, seu louvor não deixará meus lábios."
+    },
+    {
+      "numero": 3,
+      "texto": "Glorie-se a minha alma no Senhor; ouçam-me os humildes, e se alegrem."
+    },
+    {
+      "numero": 4,
+      "texto": "Glorificai comigo o Senhor, juntos exaltemos o seu nome."
+    },
+    {
+      "numero": 5,
+      "texto": "Procurei o Senhor e ele me atendeu, livrou-me de todos os temores."
+    },
+    {
+      "numero": 6,
+      "texto": "Olhai para ele a fim de vos alegrardes, e não se cobrir de vergonha o vosso rosto."
+    },
+    {
+      "numero": 7,
+      "texto": "Vede, este miserável clamou e o Senhor o ouviu, de todas as angústias o livrou."
+    },
+    {
+      "numero": 8,
+      "texto": "O anjo do Senhor acampa em redor dos que o temem e os salva."
+    },
+    {
+      "numero": 9,
+      "texto": "Provai e vede como o Senhor é bom, feliz o homem que se refugia junto dele."
+    },
+    {
+      "numero": 10,
+      "texto": "Reverenciai o Senhor, vós, seus fiéis, porque nada falta àqueles que o temem."
+    },
+    {
+      "numero": 11,
+      "texto": "Os poderosos empobrecem e passam fome, mas aos que buscam o Senhor nada lhes falta."
+    },
+    {
+      "numero": 12,
+      "texto": "Vinde, meus filhos, ouvi-me: eu vos ensinarei o temor do Senhor."
+    },
+    {
+      "numero": 13,
+      "texto": "Qual é o homem que ama a vida e deseja longos dias para gozar de felicidade?"
+    },
+    {
+      "numero": 14,
+      "texto": "Guarda tua língua do mal, e teus lábios das palavras enganosas."
+    },
+    {
+      "numero": 15,
+      "texto": "Aparta-te do mal e faze o bem, busca a paz e vai ao seu encalço."
+    },
+    {
+      "numero": 16,
+      "texto": "Os olhos do Senhor estão voltados para os justos, e seus ouvidos atentos aos seus clamores."
+    },
+    {
+      "numero": 17,
+      "texto": "O Senhor volta a sua face irritada contra os que fazem o mal, para apagar da terra a lembrança deles."
+    },
+    {
+      "numero": 18,
+      "texto": "Apenas clamaram os justos, o Senhor os atendeu e os livrou de todas as suas angústias."
+    },
+    {
+      "numero": 19,
+      "texto": "O Senhor está perto dos contritos de coração, e salva os que têm o espírito abatido."
+    },
+    {
+      "numero": 20,
+      "texto": "São numerosas as tribulações do justo, mas de todas o livra o Senhor."
+    },
+    {
+      "numero": 21,
+      "texto": "Ele protege cada um de seus ossos: nem um só deles será quebrado."
+    },
+    {
+      "numero": 22,
+      "texto": "A malícia do ímpio o leva à morte, e os que odeiam o justo serão castigados."
+    },
+    {
+      "numero": 23,
+      "texto": "O Senhor livra a alma de seus servos; não será punido quem a ele se acolhe."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "33:1-3",
+      "texto": "Este salmo começa com um convite à adoração. A alegria e o louvor ao Senhor são temas centrais, ressaltando que a adoração deve ser expressa com entusiasmo e gratidão. Essa prática enriquece a vida espiritual (veja também Filipenses 4:4 e Salmo 100:1-2)."
+    },
+    {
+      "ref": "33:4-5",
+      "texto": "A Palavra de Deus é descrita como verdadeira e justa, destacando a confiabilidade de Suas promessas. Esse versículo reforça a importância de fundamentar a vida nas verdades divinas (veja também Isaías 55:10-11 e João 17:17)."
+    },
+    {
+      "ref": "33:6-9",
+      "texto": "A criação do mundo pela Palavra de Deus demonstra Seu poder e autoridade. A narrativa do cosmos enfatiza que Deus é o Criador e que Sua ordem e soberania devem ser reconhecidas (veja também Gênesis 1:3 e Hebreus 11:3)."
+    },
+    {
+      "ref": "33:10-12",
+      "texto": "A soberania de Deus sobre as nações e Seu plano para o mundo são ressaltados. Essa passagem revela que, apesar das aparências, Deus está no controle e abençoa as nações que O temem (veja também Provérbios 21:30 e Salmo 2:1-4)."
+    },
+    {
+      "ref": "33:18-22",
+      "texto": "A confiança em Deus é um refúgio seguro. Ele observa aqueles que O temem e espera em Seu amor, oferecendo segurança em tempos de incerteza e tribulação (veja também Salmo 91:1-2 e Romanos 8:38-39)."
+    }
+  ]
+}

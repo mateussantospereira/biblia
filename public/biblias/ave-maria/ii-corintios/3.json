@@ -1,0 +1,107 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ii-corintios",
+  "nome": "II Coríntios",
+  "testamento": "NT",
+  "capitulo": 3,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ii-corintios/3/",
+  "capturadoEm": "2026-11-15T09:28:11-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Recomeçamos a fazer o nosso próprio elogio? Temos, acaso, como alguns, necessidade de vos apresentar ou receber de vós carta de recomendação?"
+    },
+    {
+      "numero": 2,
+      "texto": "Vós mesmos sois a nossa carta, escrita em nossos corações, conhecida e lida por todos os homens."
+    },
+    {
+      "numero": 3,
+      "texto": "Não há dúvida de que vós sois uma carta de Cristo, redigida por nosso ministério e escrita, não com tinta, mas com o Espírito de Deus vivo, não em tábuas de pedra, mas em tábuas de carne, isto é, em vossos corações."
+    },
+    {
+      "numero": 4,
+      "texto": "Tal é a convicção que temos em Deus por Cristo."
+    },
+    {
+      "numero": 5,
+      "texto": "Não que sejamos capazes por nós mesmos de ter algum pensamento, como de nós mesmos. Nossa capacidade vem de Deus."
+    },
+    {
+      "numero": 6,
+      "texto": "Ele é que nos fez aptos para ser ministros da Nova Aliança, não a da letra, e sim a do Espírito. Porque a letra mata, mas o Espírito vivifica."
+    },
+    {
+      "numero": 7,
+      "texto": "Ora, se o ministério da morte, gravado com letras em pedras, se revestiu de tal glória que os filhos de Israel não podiam fitar os olhos no rosto de Moisés, por causa do resplendor de sua face (embora transitório),",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "quanto mais glorioso não será o ministério do Espírito!",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Se o ministério da condenação já foi glorioso, muito mais o há de sobrepujar em glória o ministério da justificação!"
+    },
+    {
+      "numero": 10,
+      "texto": "Aliás, sob esse aspecto e em comparação dessa glória eminentemente superior, empalidece a glória do primeiro ministério."
+    },
+    {
+      "numero": 11,
+      "texto": "Se o transitório era glorioso, muito mais glorioso é o que permanece!"
+    },
+    {
+      "numero": 12,
+      "texto": "Em posse de tal esperança, procedemos com total desassombro."
+    },
+    {
+      "numero": 13,
+      "texto": "Não fazemos como Moisés, que cobria o rosto com um véu para que os filhos de Israel não fixassem os olhos no fim daquilo que era transitório.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Em consequência, a inteligência deles permaneceu obscurecida. Ainda agora, quando leem o Antigo Testamento, esse mesmo véu permanece abaixado, porque é só em Cristo que ele deve ser levantado."
+    },
+    {
+      "numero": 15,
+      "texto": "Por isso, até o dia de hoje, quando leem Moisés, um véu cobre-lhes o coração."
+    },
+    {
+      "numero": 16,
+      "texto": "Esse véu só será tirado quando se converterem ao Senhor."
+    },
+    {
+      "numero": 17,
+      "texto": "Ora, o Senhor é Espírito e, onde está o Espírito do Senhor, aí há liberdade.",
+      "nota": true
+    },
+    {
+      "numero": 18,
+      "texto": "Mas todos nós temos o rosto descoberto, refletimos como num espelho a glória do Senhor e nos vemos transformados nessa mesma imagem, sempre mais resplandecentes, pela ação do Espírito do Senhor."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:2-3",
+      "texto": "Paulo elogia os coríntios como cartas vivas de Cristo, conhecidas e lidas por todos. A transformação espiritual é visível e reflete o caráter de Cristo em nossas vidas (veja também Mateus 5:16 e Filipenses 2:15)."
+    },
+    {
+      "ref": "3:4-6",
+      "texto": "Paulo fala da confiança que temos diante de Deus, não porque sejamos suficientes, mas porque Deus nos capacita através do Espírito. A graça é o fundamento do ministério cristão, que não se baseia na habilidade humana, mas no poder divino (veja também 2 Coríntios 4:7 e Filipenses 4:13)."
+    },
+    {
+      "ref": "3:7-11",
+      "texto": "Paulo compara a antiga aliança, que trouxe morte, com a nova aliança em Cristo, que traz vida e glória. A superioridade do novo pacto é evidenciada pela permanência e eficácia do Espírito (veja também Jeremias 31:31-34 e Hebreus 8:6)."
+    },
+    {
+      "ref": "3:18",
+      "texto": "Ao contemplarmos a glória de Cristo, somos transformados de glória em glória, refletindo a imagem de Deus. A santificação é um processo contínuo na vida do crente, impulsionado pela ação do Espírito (veja também Romanos 12:2 e 1 João 3:2)."
+    }
+  ]
+}

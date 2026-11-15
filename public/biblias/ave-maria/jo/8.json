@@ -1,0 +1,126 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "jo",
+  "nome": "Jó",
+  "testamento": "AT",
+  "capitulo": 8,
+  "totalVersiculos": 22,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/jo/8/",
+  "capturadoEm": "2026-11-15T09:15:26-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Bildad de Suás tomou a palavra e disse:"
+    },
+    {
+      "numero": 2,
+      "texto": "Até quando dirás semelhantes coisas, e tuas palavras serão como um furacão?"
+    },
+    {
+      "numero": 3,
+      "texto": "Porventura Deus fará curvar o que é reto? E o Todo-poderoso subverterá a justiça?"
+    },
+    {
+      "numero": 4,
+      "texto": "Se teus filhos o ofenderam, ele os entregou às consequências de suas culpas.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Se recorreres a Deus, e implorares ao Todo-poderoso,"
+    },
+    {
+      "numero": 6,
+      "texto": "se fores puro e reto, ele atenderá a tua oração e restaurará a morada de tua justiça."
+    },
+    {
+      "numero": 7,
+      "texto": "Teu começo parecerá pouca coisa diante da grandeza do que se seguirá.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Interroga, pois, as gerações passadas e examina com cuidado a experiência dos antepassados."
+    },
+    {
+      "numero": 9,
+      "texto": "Porque somos de ontem e nada sabemos, e nossos dias sobre a terra passam como a sombra."
+    },
+    {
+      "numero": 10,
+      "texto": "Elas podem instruir-te, falar-te e de seu coração tirar estas palavras:"
+    },
+    {
+      "numero": 11,
+      "texto": "“Pode o papiro crescer fora do brejo ou o junco germinar sem água?"
+    },
+    {
+      "numero": 12,
+      "texto": "Verde ainda, e sem ser colhido, ele seca antes de todas as ervas."
+    },
+    {
+      "numero": 13,
+      "texto": "Assim acabam todos os que esquecem de Deus, pois a esperança do ímpio perecerá."
+    },
+    {
+      "numero": 14,
+      "texto": "A sua confiança será quebrada e a sua segurança é teia de aranha."
+    },
+    {
+      "numero": 15,
+      "texto": "Ele se apoia sobre uma casa que não se sustenta, atém-se a uma morada que não se mantém de pé."
+    },
+    {
+      "numero": 16,
+      "texto": "Cheio de vigor, ao sol, faz brotar seus ramos em seu jardim."
+    },
+    {
+      "numero": 17,
+      "texto": "Suas raízes se entrelaçam num montão de pedras e penetram entre as rochas."
+    },
+    {
+      "numero": 18,
+      "texto": "Mas se é arrancado de seu lugar, este o renega e diz: ‘Não te conheço!’."
+    },
+    {
+      "numero": 19,
+      "texto": "Eis onde termina seu destino, e outros germinarão do solo”."
+    },
+    {
+      "numero": 20,
+      "texto": "De fato, Deus não rejeita o homem íntegro, nem dá a mão aos malvados.",
+      "nota": true
+    },
+    {
+      "numero": 21,
+      "texto": "Ele porá de novo o riso em tua boca e em teus lábios, gritos de alegria."
+    },
+    {
+      "numero": 22,
+      "texto": "Teus inimigos serão cobertos de vergonha e a tenda dos maus desaparecerá."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "8:1-4",
+      "texto": "Bildade, o segundo amigo de Jó, confronta-o sobre a necessidade de se arrepender, sugerindo que o sofrimento é sempre uma punição pelo pecado. Essa perspectiva reflete uma visão tradicional de retribuição divina, que pode ser problemática (veja também Provérbios 3:11-12 e Salmo 34:21)."
+    },
+    {
+      "ref": "8:5-7",
+      "texto": "Bildade encoraja Jó a buscar a Deus para que sua vida seja restaurada, indicando que a verdadeira resposta para o sofrimento está na relação com Deus. Isso destaca a importância da fé em tempos de crise (veja também Hebreus 11:6 e Salmo 55:22)."
+    },
+    {
+      "ref": "8:8-10",
+      "texto": "A apelação de Bildade à sabedoria dos antigos enfatiza a importância da tradição e do aprendizado, embora possa ser uma abordagem limitada diante da situação complexa de Jó (veja também Provérbios 1:5 e Eclesiastes 1:9)."
+    },
+    {
+      "ref": "8:11-13",
+      "texto": "A metáfora da planta que não prospera sem água reflete a fragilidade da vida humana sem o sustento de Deus. Isso ilustra a dependência do ser humano em relação ao Criador para sua sobrevivência e prosperidade (veja também Salmo 1:3 e João 15:5)."
+    },
+    {
+      "ref": "8:20-22",
+      "texto": "Bildade afirma que Deus não rejeita o justo e que a recompensa espera os que andam em integridade. Essa declaração ressalta a esperança de restauração, mas também reforça a ideia de que o sofrimento é um sinal de desagrado divino (veja também Salmo 37:25-26 e Mateus 5:10-12)."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "deuteronomio",
+  "nome": "Deuteronômio",
+  "testamento": "AT",
+  "capitulo": 34,
+  "totalVersiculos": 12,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/deuteronomio/34/",
+  "capturadoEm": "2026-11-15T09:10:21-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Subiu Moisés das planícies de Moab ao monte Nebo, ao cimo do Fasga, defronte de Jericó. O Senhor mostrou-lhe toda a terra, desde Galaad até Dã,"
+    },
+    {
+      "numero": 2,
+      "texto": "todo o Neftali, a terra de Efraim e de Manassés, todo o território de Judá até o mar ocidental,"
+    },
+    {
+      "numero": 3,
+      "texto": "o Negueb, a planície do Jordão, o vale de Jericó, a cidade das palmeiras, até Segor."
+    },
+    {
+      "numero": 4,
+      "texto": "O Senhor disse-lhe: “Eis a terra que jurei a Abraão, a Isaac e a Jacó dar à sua posteridade. Viste-a com os teus olhos, mas não entrarás nela”."
+    },
+    {
+      "numero": 5,
+      "texto": "E Moisés, o servo do Senhor, morreu ali na terra de Moab, como o Senhor decidira.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "E ele o enterrou no vale da terra de Moab, defronte de Bet-Fegor, e ninguém jamais soube o lugar do seu sepulcro."
+    },
+    {
+      "numero": 7,
+      "texto": "Moisés tinha cento e vinte anos no momento de sua morte: sua vista não se tinha enfraquecido, e o seu vigor não se tinha abalado."
+    },
+    {
+      "numero": 8,
+      "texto": "Os israelitas choraram-no durante trinta dias, nas planícies de Moab; e, passado esse tempo, acabaram-se os dias de pranto consagrados ao luto por Moisés."
+    },
+    {
+      "numero": 9,
+      "texto": "Josué, filho de Nun, ficou cheio do espírito de sabedoria, porque Moisés lhe tinha imposto as suas mãos. Os israelitas obedeceram-lhe, assim como o Senhor tinha ordenado a Moisés."
+    },
+    {
+      "numero": 10,
+      "texto": "Não se levantou mais em Israel profeta comparável a Moisés, com quem o Senhor conversava face a face."
+    },
+    {
+      "numero": 11,
+      "texto": "(Ninguém o igualou) quanto a todos os sinais e prodígios que o Senhor o mandou fazer na terra do Egito, diante do faraó, de seus servos e de sua terra,"
+    },
+    {
+      "numero": 12,
+      "texto": "nem quanto a todos os feitos e às terríveis ações que ele operou sob os olhos de todo o Israel."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "34:1-4",
+      "texto": "A visão da Terra Prometida que Deus dá a Moisés, mesmo após sua morte, simboliza a fidelidade divina à Sua promessa. Moisés vê a terra, mas não pode entrar, mostrando que a promessa de Deus pode se estender além da vida de Seus servos (veja também Hebreus 11:13-16 e Lucas 16:31)."
+    },
+    {
+      "ref": "34:5-6",
+      "texto": "A morte de Moisés e seu sepultamento em um lugar desconhecido ressaltam a soberania de Deus sobre a vida e a morte. O fato de que ninguém conhece seu sepulcro aponta para a intimidade da relação de Moisés com Deus, sugerindo que sua vida foi inteiramente dedicada ao Senhor (veja também Salmo 116:15 e João 12:26)."
+    },
+    {
+      "ref": "34:7",
+      "texto": "A descrição da idade avançada e vigor de Moisés no momento de sua morte é um testemunho da força que Deus concede aos Seus servos. Isso serve como um lembrete de que a fidelidade a Deus traz bênçãos duradouras (veja também Salmo 92:12-15 e 2 Coríntios 4:16)."
+    },
+    {
+      "ref": "34:9-12",
+      "texto": "A sucessão de Josué como líder é uma transição importante que destaca a continuidade da liderança em Israel. A capacitação de Josué por Deus garante a permanência do plano divino, incentivando o povo a confiar na liderança escolhida (veja também Josué 1:5-9 e 1 Timóteo 4:14)."
+    },
+    {
+      "ref": "34:10-12",
+      "texto": "O reconhecimento de Moisés como um profeta único enfatiza sua importância na história de Israel. Sua relação íntima com Deus e as maravilhas que ele realizou são um modelo de fé e obediência para as futuras gerações (veja também Números 12:6-8 e Mateus 17:1-5)."
+    }
+  ]
+}

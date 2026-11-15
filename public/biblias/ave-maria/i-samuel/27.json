@@ -1,0 +1,83 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-samuel",
+  "nome": "I Samuel",
+  "testamento": "AT",
+  "capitulo": 27,
+  "totalVersiculos": 12,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-samuel/27/",
+  "capturadoEm": "2026-11-15T09:11:41-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "“Dia virá – pensava Davi –, em que perecerei pelas mãos de Saul! O melhor que posso fazer é refugiar-me na terra dos filisteus. Saul renunciará então a buscar-me por todo o território de Israel e eu lhe escaparei.”"
+    },
+    {
+      "numero": 2,
+      "texto": "Partiu, pois, Davi com seus seiscentos homens e foi para junto de Aquis, filho de Maoc, rei de Gat."
+    },
+    {
+      "numero": 3,
+      "texto": "Permaneceu junto de Aquis em Gat, ele e sua gente, cada um com sua família. Levou consigo suas duas mulheres, Aquinoam, de Jezrael e Abigail, de Carmelo, viúva de Nabal."
+    },
+    {
+      "numero": 4,
+      "texto": "Saul, tendo sabido que Davi se refugiara em Gat, desistiu de persegui-lo."
+    },
+    {
+      "numero": 5,
+      "texto": "Davi disse a Aquis: “Se achei graça aos teus olhos, dá-me um lugar nas cidades do campo, onde eu possa morar. Por que haveria o teu servo de morar contigo na cidade real?”."
+    },
+    {
+      "numero": 6,
+      "texto": "Aquis deu-lhe Siceleg. Por isso, Siceleg ficou pertencendo aos reis de Judá até o presente."
+    },
+    {
+      "numero": 7,
+      "texto": "O tempo que Davi passou na terra dos filisteus foi um ano e quatro meses."
+    },
+    {
+      "numero": 8,
+      "texto": "Davi e os seus homens saíam e faziam incursões entre os gessureus, os gerezeus e os amalecitas, populações que habitavam de longa data a região de Sur até a terra do Egito."
+    },
+    {
+      "numero": 9,
+      "texto": "Davi assolava a região, sem deixar com vida homem ou mulher. Tomava as ovelhas, os bois, os jumentos, os camelos, as vestes e voltava para Aquis."
+    },
+    {
+      "numero": 10,
+      "texto": "“Onde fizestes hoje incursão?” – perguntava Aquis. E Davi respondia: “Para o leste de Judá, ou para o sul dos jerameelitas, ou para o sul dos cineus”."
+    },
+    {
+      "numero": 11,
+      "texto": "Mas não deixava com vida homem ou mulher, para não ter de levá-los a Gat, temendo que o denunciassem, contando a verdade do que ele fazia. Assim o fez durante todo o tempo que passou entre os filisteus."
+    },
+    {
+      "numero": 12,
+      "texto": "Aquis confiava em Davi: “Ele se torna odioso ao seu povo de Israel – pensava ele – e será para sempre o meu servo”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "27:1-2",
+      "texto": "Davi foge para o território dos filisteus, buscando refúgio de Saul. Isso reflete o desespero de Davi diante da perseguição implacável de Saul e sua necessidade de segurança (veja também Salmo 31:1-2 e Salmo 56:3-4)."
+    },
+    {
+      "ref": "27:5-7",
+      "texto": "Davi recebe a cidade de Ziclague de Aquis, rei dos filisteus, onde ele e seus homens vivem por um ano e quatro meses. Esse período representa uma fase de sobrevivência em território inimigo, mas também de tática e diplomacia (veja também 1 Reis 2:39-40 e 2 Samuel 1:1)."
+    },
+    {
+      "ref": "27:8-9",
+      "texto": "Davi realiza ataques contra tribos inimigas de Israel, sem deixar sobreviventes. Ele age com astúcia, enganando Aquis para fazê-lo acreditar que ele estava atacando o próprio Israel. Isso demonstra a inteligência estratégica de Davi (veja também Josué 6:21 e Juízes 1:17)."
+    },
+    {
+      "ref": "27:10-11",
+      "texto": "Davi mente a Aquis sobre suas campanhas militares, mantendo seu verdadeiro alvo em segredo. Essa narrativa levanta questões sobre moralidade, guerra e sobrevivência, destacando os dilemas enfrentados por Davi (veja também Êxodo 1:19-21 e Romanos 3:8)."
+    },
+    {
+      "ref": "27:12",
+      "texto": "Aquis confia em Davi, acreditando que ele se tornou odiado por Israel. Isso garante a Davi uma posição segura entre os filisteus, preparando o cenário para seus futuros movimentos estratégicos (veja também 1 Samuel 29:6 e Provérbios 16:7)."
+    }
+  ]
+}

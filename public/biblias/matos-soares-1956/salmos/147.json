@@ -1,0 +1,71 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 147,
+  "totalVersiculos": 9,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/147/",
+  "capturadoEm": "2026-11-15T09:54:53-03:00",
+  "versiculos": [
+    {
+      "numero": 12,
+      "texto": "Louva, ó Jerusalém, ao Senhor, louva, ó Sião, ao teu Deus,"
+    },
+    {
+      "numero": 13,
+      "texto": "porque reforçou os ferrolhos das tuas portas, abençoou os teus filhos (que habitam) dentro de ti;"
+    },
+    {
+      "numero": 14,
+      "texto": "pôs em paz as tuas fronteiras, da flor da farinha te sacia."
+    },
+    {
+      "numero": 15,
+      "texto": "É ele que envia as suas ordens à terra, a sua palavra corre velozmente."
+    },
+    {
+      "numero": 16,
+      "texto": "É ele que faz cair a neve como lã, que espalha a geada como cinza."
+    },
+    {
+      "numero": 17,
+      "texto": "Atira o seu gelo como pedaços de pão; ante o seu frio congelam as águas."
+    },
+    {
+      "numero": 18,
+      "texto": "Envia a sua palavra, e (logo) as derrete; faz soprar o seu vento, e (logo) as águas correm."
+    },
+    {
+      "numero": 19,
+      "texto": "É ele que anunciou a sua palavra a Jacob, os seus estatutos e os seus preceitos a Israel."
+    },
+    {
+      "numero": 20,
+      "texto": "Não fez assim a qualquer outra nação: não lhes manifestou os seus preceitos. Aleluia."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "147:1",
+      "texto": "Louvar ao Senhor é um ato de alegria, pois Ele é digno de adoração. Este versículo ressalta que o louvor é um reflexo da gratidão e do reconhecimento da grandeza de Deus (veja também Salmo 149:1 e Efésios 5:19-20)."
+    },
+    {
+      "ref": "147:2-3",
+      "texto": "Deus restaura Jerusalém e cura os quebrantados de coração. Isso demonstra o amor de Deus pela cidade e pelo Seu povo, refletindo Seu desejo de restaurar e curar (veja também Isaías 61:1 e Salmo 34:18)."
+    },
+    {
+      "ref": "147:4-5",
+      "texto": "Deus conhece cada estrela pelo nome e Sua sabedoria é infinita. Isso revela a grandeza de Deus em criar e sustentar o universo, mostrando que Ele se importa com os detalhes da criação (veja também Salmo 8:3-4 e Isaías 40:26)."
+    },
+    {
+      "ref": "147:6-9",
+      "texto": "O Senhor sustenta os humildes e cuida dos animais, demonstrando Sua compaixão por toda a criação. Isso nos lembra da responsabilidade que temos em cuidar do meio ambiente e das criaturas de Deus (veja também Mateus 6:26 e Provérbios 12:10)."
+    },
+    {
+      "ref": "147:10-11",
+      "texto": "Deus não se alegra na força dos homens, mas sim nos que O temem e confiam em Seu amor. Essa passagem ressalta a verdadeira base da força, que é a fé e a reverência ao Senhor (veja também Salmo 33:16-18 e Hebreus 11:6)."
+    }
+  ]
+}

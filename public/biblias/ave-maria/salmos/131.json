@@ -1,0 +1,102 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 131,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/131/",
+  "capturadoEm": "2026-11-15T09:18:17-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cântico das peregrinações. Senhor, lembrai-vos de Davi e de sua grande piedade,",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "como ele fez ao Senhor este juramento, e este voto ao Poderoso de Jacó:"
+    },
+    {
+      "numero": 3,
+      "texto": "“Não entrarei na tenda em que moro, não me deitarei no leito de meu repouso,"
+    },
+    {
+      "numero": 4,
+      "texto": "não darei sono aos meus olhos, nem repouso às minhas pálpebras,"
+    },
+    {
+      "numero": 5,
+      "texto": "até que encontre uma residência para o Senhor, uma morada ao Poderoso de Jacó”."
+    },
+    {
+      "numero": 6,
+      "texto": "Ouvimos dizer que a arca estava em Éfrata, nós a encontramos nas campinas de Jaar.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "Entremos em sua morada, prostremo-nos diante do escabelo de seus pés."
+    },
+    {
+      "numero": 8,
+      "texto": "Levantai-vos, Senhor, para vir ao vosso repouso, vós e a arca de vossa majestade."
+    },
+    {
+      "numero": 9,
+      "texto": "Vistam-se de justiça os vossos sacerdotes, e jubilosos cantem de alegria vossos fiéis."
+    },
+    {
+      "numero": 10,
+      "texto": "Pelo nome de Davi, vosso servo, não rejeiteis a face daquele que vos é consagrado."
+    },
+    {
+      "numero": 11,
+      "texto": "O Senhor fez a Davi um juramento, de que não há de se retratar: “Colocarei em teu trono um descendente de tua raça."
+    },
+    {
+      "numero": 12,
+      "texto": "Se teus filhos guardarem minha aliança e os preceitos que eu lhes hei de ensinar, também os descendentes deles, para sempre, se sentarão em teu trono”."
+    },
+    {
+      "numero": 13,
+      "texto": "Porque o Senhor escolheu Sião, ele a preferiu para sua morada."
+    },
+    {
+      "numero": 14,
+      "texto": "“É aqui para sempre o lugar de meu repouso, é aqui que habitarei porque o escolhi."
+    },
+    {
+      "numero": 15,
+      "texto": "Abençoarei copiosamente sua subsistência, fartarei de pão os seus pobres."
+    },
+    {
+      "numero": 16,
+      "texto": "Revestirei de salvação seus sacerdotes, e seus fiéis exultarão de alegria.",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "Aí farei crescer o poder de Davi, aí prepararei uma lâmpada para o que me é consagrado."
+    },
+    {
+      "numero": 18,
+      "texto": "Cobrirei de confusão seus inimigos; em sua fronte, porém, brilhará meu diadema.”"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "131:1",
+      "texto": "O salmista expressa humildade, dizendo que não se envolve com coisas grandiosas ou inalcançáveis. Esse versículo enfatiza a importância de uma atitude de humildade diante de Deus (veja também Mateus 18:4 e Provérbios 16:19)."
+    },
+    {
+      "ref": "131:2",
+      "texto": "A imagem de uma criança desmamada no colo da mãe simboliza a confiança pacífica no Senhor. Assim como uma criança confia plenamente em sua mãe, o salmista demonstra uma confiança plena e serena em Deus (veja também Isaías 66:13 e Mateus 11:29)."
+    },
+    {
+      "ref": "131:3",
+      "texto": "Israel é convidado a esperar no Senhor, em uma confiança humilde e tranquila. Essa confiança não se baseia em força humana, mas na fé constante em Deus (veja também Salmo 62:5-6 e Hebreus 10:23)."
+    }
+  ]
+}

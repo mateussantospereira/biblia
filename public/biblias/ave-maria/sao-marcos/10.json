@@ -1,0 +1,245 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sao-marcos",
+  "nome": "São Marcos",
+  "testamento": "NT",
+  "capitulo": 10,
+  "totalVersiculos": 52,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sao-marcos/10/",
+  "capturadoEm": "2026-11-15T09:26:15-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Saindo dali, ele foi para a região da Judeia, além do Jordão. As multidões voltaram a segui-lo pelo caminho e de novo ele pôs-se a ensiná-las, como era seu costume."
+    },
+    {
+      "numero": 2,
+      "texto": "Chegaram os fariseus e perguntaram-lhe, para o pôr à prova, se era permitido ao homem repudiar sua mulher."
+    },
+    {
+      "numero": 3,
+      "texto": "Ele respondeu-lhes: “Que vos ordenou Moisés?”."
+    },
+    {
+      "numero": 4,
+      "texto": "Eles responderam: “Moisés permitiu escrever carta de divórcio e despedir a mulher”."
+    },
+    {
+      "numero": 5,
+      "texto": "Continuou Jesus: “Foi devido à dureza do vosso coração que ele vos deu essa Lei;"
+    },
+    {
+      "numero": 6,
+      "texto": "mas, no princípio da Criação, Deus os fez homem e mulher."
+    },
+    {
+      "numero": 7,
+      "texto": "Por isso, deixará o homem pai e mãe e se unirá à sua mulher;",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "e os dois não serão senão uma só carne. Assim, já não são dois, mas uma só carne."
+    },
+    {
+      "numero": 9,
+      "texto": "Não separe, pois, o homem o que Deus uniu”."
+    },
+    {
+      "numero": 10,
+      "texto": "Em casa, os discípulos fizeram-lhe perguntas sobre o mesmo assunto."
+    },
+    {
+      "numero": 11,
+      "texto": "E ele disse-lhes: “Quem repudia sua mulher e se casa com outra, comete adultério contra a primeira."
+    },
+    {
+      "numero": 12,
+      "texto": "E se a mulher repudia o marido e se casa com outro, comete adultério”. (= Mt 19,13ss = Lc 18,15ss)"
+    },
+    {
+      "numero": 13,
+      "texto": "Apresentaram-lhe então crianças para que as tocasse; mas os discípulos repreendiam os que as apresentavam."
+    },
+    {
+      "numero": 14,
+      "texto": "Vendo-o, Jesus indignou-se e disse-lhes: “Deixai vir a mim os pequeninos e não os impeçais, porque o Reino de Deus é daqueles que se lhes assemelham."
+    },
+    {
+      "numero": 15,
+      "texto": "Em verdade vos digo: todo o que não receber o Reino de Deus com a mentalidade de uma criança, nele não entrará”.",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "Em seguida, ele as abraçou e as abençoou, impondo-lhes as mãos. (= Mt 19,16-29 = Lc 18,18-30)"
+    },
+    {
+      "numero": 17,
+      "texto": "Tendo ele saído para se pôr a caminho, veio alguém correndo e, dobrando os joelhos diante dele, suplicou-lhe: “Bom Mestre, que farei para alcançar a vida eterna?”."
+    },
+    {
+      "numero": 18,
+      "texto": "Jesus disse-lhe: “Por que me chamas bom? Só Deus é bom."
+    },
+    {
+      "numero": 19,
+      "texto": "Conheces os mandamentos: não mates; não cometas adultério; não furtes; não digas falso testemunho; não cometas fraudes; honra pai e mãe”."
+    },
+    {
+      "numero": 20,
+      "texto": "Ele respondeu-lhe: “Mestre, tudo isso tenho observado desde a minha mocidade”."
+    },
+    {
+      "numero": 21,
+      "texto": "Jesus fixou nele o olhar, amou-o e disse-lhe: “Uma só coisa te falta; vai, vende tudo o que tens e dá-o aos pobres e terás um tesouro no céu. Depois, vem e segue-me”.",
+      "nota": true
+    },
+    {
+      "numero": 22,
+      "texto": "Ele entristeceu-se com essas palavras e foi-se todo abatido, porque possuía muitos bens."
+    },
+    {
+      "numero": 23,
+      "texto": "E, olhando Jesus em derredor, disse a seus discípulos: “Quão dificilmente entrarão no Reino de Deus os ricos!”."
+    },
+    {
+      "numero": 24,
+      "texto": "Os discípulos ficaram assombrados com suas palavras. Mas Jesus replicou: “Filhinhos, quão difícil é entrarem no Reino de Deus os que põem a sua confiança nas riquezas!"
+    },
+    {
+      "numero": 25,
+      "texto": "É mais fácil passar o camelo pelo fundo de uma agulha do que entrar o rico no Reino de Deus”.",
+      "nota": true
+    },
+    {
+      "numero": 26,
+      "texto": "Eles ainda mais se admiravam, dizendo a si próprios: “Quem pode então salvar-se?”."
+    },
+    {
+      "numero": 27,
+      "texto": "Olhando Jesus para eles, disse: “Aos homens isso é impossível, mas não a Deus; pois a Deus tudo é possível”."
+    },
+    {
+      "numero": 28,
+      "texto": "Pedro começou a dizer-lhe: “Eis que deixamos tudo e te seguimos”."
+    },
+    {
+      "numero": 29,
+      "texto": "Respondeu-lhe Jesus: “Em verdade vos digo: ninguém há que tenha deixado casa ou irmãos, ou irmãs, ou pai, ou mãe, ou filhos, ou terras por causa de mim e por causa do Evangelho"
+    },
+    {
+      "numero": 30,
+      "texto": "que não receba, já neste século, cem vezes mais casas, irmãos, irmãs, mães, filhos e terras, com perseguições – e no século vindouro a vida eterna."
+    },
+    {
+      "numero": 31,
+      "texto": "Muitos dos primeiros serão os últimos, e dos últimos serão os primeiros”. (= Mt 20,17ss = Lc 18,31-34)"
+    },
+    {
+      "numero": 32,
+      "texto": "Estavam a caminho de Jerusalém e Jesus ia adiante deles. Estavam perturbados e o seguiam com medo. E tomando novamente a si os Doze, começou a predizer-lhes as coisas que lhe haviam de acontecer:",
+      "nota": true
+    },
+    {
+      "numero": 33,
+      "texto": "“Eis que subimos a Jerusalém e o Filho do Homem será entregue aos príncipes dos sacerdotes e aos escribas; irão condená-lo à morte e será entregue aos gentios."
+    },
+    {
+      "numero": 34,
+      "texto": "Escarnecerão dele, cuspirão nele, irão açoitá-lo e hão de matá-lo; mas ao terceiro dia ele ressurgirá”. (= Mt 20,20-28 = Lc 22,24-30)"
+    },
+    {
+      "numero": 35,
+      "texto": "Aproximaram-se de Jesus Tiago e João, filhos de Zebedeu, e disseram-lhe: “Mestre, queremos que nos concedas tudo o que te pedirmos” –."
+    },
+    {
+      "numero": 36,
+      "texto": "“Que quereis que vos faça?” –"
+    },
+    {
+      "numero": 37,
+      "texto": "“Concede-nos que nos sentemos na tua glória, um à tua direita e outro à tua esquerda.”"
+    },
+    {
+      "numero": 38,
+      "texto": "– “Não sabeis o que pedis – retorquiu Jesus –. Podeis vós beber o cálice que eu vou beber, ou ser batizados no batismo em que eu vou ser batizado?”* –"
+    },
+    {
+      "numero": 39,
+      "texto": "“Podemos” – asseguraram eles. Jesus prosseguiu: “Vós bebereis o cálice que eu devo beber e sereis batizados no batismo em que eu devo ser batizado."
+    },
+    {
+      "numero": 40,
+      "texto": "Mas, quanto a assentardes à minha direita ou à minha esquerda, isto não depende de mim: o lugar compete àqueles a quem está destinado”."
+    },
+    {
+      "numero": 41,
+      "texto": "Ouvindo isso, os outros dez começaram a indignar-se contra Tiago e João."
+    },
+    {
+      "numero": 42,
+      "texto": "Jesus chamou-os e deu-lhes esta lição: “Sabeis que os que são considerados chefes das nações dominam sobre elas e os seus intendentes exercem poder sobre elas."
+    },
+    {
+      "numero": 43,
+      "texto": "Entre vós, porém, não será assim: todo o que quiser tornar-se grande entre vós, seja o vosso servo;"
+    },
+    {
+      "numero": 44,
+      "texto": "e todo o que entre vós quiser ser o primeiro, seja escravo de todos."
+    },
+    {
+      "numero": 45,
+      "texto": "Porque o Filho do Homem não veio para ser servido, mas para servir e dar a sua vida em redenção por muitos”. (= Mt 20,29-34 = Lc 18,35-43)"
+    },
+    {
+      "numero": 46,
+      "texto": "Chegaram a Jericó. Ao sair dali Jesus, seus discípulos e numerosa multidão, estava sentado à beira do caminho, mendigando, Bartimeu, que era cego, filho de Timeu."
+    },
+    {
+      "numero": 47,
+      "texto": "Sabendo que era Jesus de Nazaré, começou a gritar: “Jesus, filho de Davi, tem compaixão de mim!”."
+    },
+    {
+      "numero": 48,
+      "texto": "Muitos o repreendiam, para que se calasse, mas ele gritava ainda mais alto: “Filho de Davi, tem compaixão de mim!”."
+    },
+    {
+      "numero": 49,
+      "texto": "Jesus parou e disse: “Chamai-o”. Chamaram o cego, dizendo-lhe: “Coragem! Levanta-te, ele te chama”."
+    },
+    {
+      "numero": 50,
+      "texto": "Lançando fora a capa, o cego ergueu-se de um salto e foi ter com ele."
+    },
+    {
+      "numero": 51,
+      "texto": "Jesus, tomando a palavra, perguntou-lhe: “Que queres que te faça?” “Rabôni” –, respondeu-lhe o cego – “que eu veja!”.",
+      "nota": true
+    },
+    {
+      "numero": 52,
+      "texto": "Jesus disse-lhe: “Vai, a tua fé te salvou”. No mesmo instante, ele recuperou a vista e foi seguindo Jesus pelo caminho. (= Mt 21,1-11 = Lc 19,29-40 = Jo 12,12-19)"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "10:1-12",
+      "texto": "Jesus ensina sobre o casamento e o divórcio, destacando o propósito original de Deus para o casamento, como uma união indissolúvel. Ele enfatiza a sacralidade do casamento e a importância da fidelidade conjugal (veja também Mateus 19:1-9 e 1 Coríntios 7:10-16)."
+    },
+    {
+      "ref": "10:13-16",
+      "texto": "Jesus recebe as crianças, ensinando sobre a necessidade de se tornar como uma criança para entrar no Reino de Deus. Esse gesto demonstra a aceitação do Senhor a todos, sem distinção, e a importância de uma fé simples e confiante (veja também Mateus 18:3-4 e Lucas 18:15-17)."
+    },
+    {
+      "ref": "10:17-22",
+      "texto": "O encontro com o jovem rico revela que o apego ao dinheiro pode ser um obstáculo para seguir a Cristo. Jesus desafia o jovem a se desapegar de suas posses e a segui-Lo, mostrando que a salvação é impossível pelas próprias forças humanas, mas possível com Deus (veja também Mateus 19:16-24 e Lucas 18:18-25)."
+    },
+    {
+      "ref": "10:35-45",
+      "texto": "Jesus ensina sobre a verdadeira grandeza no Reino de Deus, contrastando com os sistemas de poder mundanos. Ele revela que o líder verdadeiro é aquele que serve, e Ele mesmo exemplifica isso ao se entregar como resgate por muitos (veja também Mateus 20:20-28 e Filipenses 2:5-11)."
+    }
+  ]
+}

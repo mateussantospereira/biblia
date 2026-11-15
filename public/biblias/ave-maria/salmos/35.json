@@ -1,0 +1,89 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 35,
+  "totalVersiculos": 13,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/35/",
+  "capturadoEm": "2026-11-15T09:16:37-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. De Davi, servo do Senhor.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "A iniquidade fala ao ímpio no seu coração; não existe o temor a Deus ante os seus olhos,",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "porque ele se gloria de que sua culpa não será descoberta nem detestada por ninguém."
+    },
+    {
+      "numero": 4,
+      "texto": "Suas palavras são más e enganosas; renunciou a proceder sabiamente e a fazer o bem."
+    },
+    {
+      "numero": 5,
+      "texto": "Em seu leito ele medita o crime, anda pelo mau caminho, não detesta o mal."
+    },
+    {
+      "numero": 6,
+      "texto": "Senhor, vossa bondade chega até os céus, vossa fidelidade se eleva até as nuvens."
+    },
+    {
+      "numero": 7,
+      "texto": "Vossa justiça é semelhante às montanhas de Deus, vossos juízos são profundos como o mar. Vós protegeis, Senhor, os homens como os animais."
+    },
+    {
+      "numero": 8,
+      "texto": "Como é preciosa a vossa bondade, ó Deus! À sombra de vossas asas se refugiam os filhos dos homens."
+    },
+    {
+      "numero": 9,
+      "texto": "Eles se saciam da abundância de vossa casa, e lhes dais de beber das torrentes de vossas delícias,"
+    },
+    {
+      "numero": 10,
+      "texto": "porque em vós está a fonte da vida, e é na vossa luz que vemos a luz."
+    },
+    {
+      "numero": 11,
+      "texto": "Continuai a dar vossa bondade aos que vos honram, e a vossa justiça aos retos de coração."
+    },
+    {
+      "numero": 12,
+      "texto": "Não me calque o pé do orgulhoso, não me faça fugir a mão do pecador."
+    },
+    {
+      "numero": 13,
+      "texto": "Eis que caíram os defensores da iniquidade, foram prostrados para não mais se erguer."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "35:1-3",
+      "texto": "O salmista clama a Deus por ajuda contra os adversários. A invocação do Senhor para ser o defensor revela a necessidade de buscar a proteção divina em tempos de batalha espiritual (veja também Salmo 70:1 e Salmo 28:1-2)."
+    },
+    {
+      "ref": "35:4-8",
+      "texto": "A descrição do desejo de ver a justiça prevalecer é central. O salmista expressa sua confiança de que Deus se levantará em favor dele e trará vindicação contra os injustos (veja também Salmo 37:35-36 e Salmo 9:9-10)."
+    },
+    {
+      "ref": "35:9-10",
+      "texto": "A alegria pela salvação que vem de Deus é um tema de louvor. A declaração de que a alma do salmista se alegrará em Deus enfatiza a importância da gratidão na vida de fé (veja também Salmo 30:11-12 e 1 Pedro 1:8)."
+    },
+    {
+      "ref": "35:11-16",
+      "texto": "O salmista fala sobre falsos testemunhos e traições, enfatizando a dor da injustiça. A experiência de sofrimento e a necessidade de apoio divino são realidades na vida do crente (veja também Salmo 41:9 e João 15:25)."
+    },
+    {
+      "ref": "35:27-28",
+      "texto": "A exultação no Senhor e a proclamação de Suas justas causas são o clímax do salmo. A ação de louvar a Deus é uma resposta à Sua fidelidade e justiça (veja também Salmo 40:9-10 e Salmo 71:15-16)."
+    }
+  ]
+}

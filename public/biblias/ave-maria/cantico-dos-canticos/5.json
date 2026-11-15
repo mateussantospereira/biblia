@@ -1,0 +1,104 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "cantico-dos-canticos",
+  "nome": "Cântico dos Cânticos",
+  "testamento": "AT",
+  "capitulo": 5,
+  "totalVersiculos": 16,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/cantico-dos-canticos/5/",
+  "capturadoEm": "2026-11-15T09:19:58-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "– Entro no meu jardim, minha irmã, minha noiva, colho a minha mirra e o meu bálsamo, como o meu favo com meu mel, bebo o meu vinho com o meu leite. Amigos, comei e bebei; inebriai-vos, ó caríssimos.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Eu dormia, mas meu coração velava. Eis a voz do meu amado. Ele bate. Abre-me, minha irmã, minha amada, minha pomba, minha perfeita; minha cabeça está coberta de orvalho, e os cachos de meus cabelos cheios das gotas da noite."
+    },
+    {
+      "numero": 3,
+      "texto": "Tirei minha túnica; como irei revesti-la? Lavei os meus pés; por que sujá-los de novo?"
+    },
+    {
+      "numero": 4,
+      "texto": "Meu bem-amado passou a mão pela abertura (da porta) e o meu coração estremeceu."
+    },
+    {
+      "numero": 5,
+      "texto": "Levantei-me para abrir ao meu amado; a mirra escorria de minhas mãos, de meus dedos a mirra líquida sobre os trincos do ferrolho."
+    },
+    {
+      "numero": 6,
+      "texto": "Abri ao meu bem-amado, mas ele já se tinha ido, já tinha desaparecido; ouvindo-o falar, eu ficava fora de mim. Procurei-o e não o encontrei; chamei-o, mas ele não respondeu.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "Os guardas encontraram-me, quando faziam sua ronda na cidade. Bateram-me, feriram-me, arrancaram-me o manto os guardas das muralhas.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Conjuro-vos, ó filhas de Jerusalém, se encontrardes o meu amado, que lhe haveis de dizer? Dizei-lhe que estou enferma de amor."
+    },
+    {
+      "numero": 9,
+      "texto": "– Que tem o teu bem-amado a mais que os outros, ó tu, a mais bela das mulheres? Que tem o teu bem-amado a mais que os outros, para que assim nos conjures?",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "– Meu amado é forte e corado, distingue-se entre dez mil."
+    },
+    {
+      "numero": 11,
+      "texto": "Sua cabeça é de ouro puro, seus cachos flexíveis são negros como o corvo.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Seus olhos são como pombas à beira dos regatos, banhando-se em leite, pousadas nas praias."
+    },
+    {
+      "numero": 13,
+      "texto": "Suas faces são um jardim perfumado onde crescem plantas perfumadas. Seus lábios são lírios que destilam mirra líquida."
+    },
+    {
+      "numero": 14,
+      "texto": "Suas mãos são argolas de ouro incrustadas de pedrarias. Seu corpo é um bloco de marfim recoberto de safiras."
+    },
+    {
+      "numero": 15,
+      "texto": "Suas pernas são colunas de alabastro erguidas sobre pedestais de ouro puro. Seu aspecto é como o do Líbano, imponente como os cedros."
+    },
+    {
+      "numero": 16,
+      "texto": "Sua boca é cheia de doçura, tudo nele é encanto. Assim é o meu amigo, tal é o meu amado, ó filhas de Jerusalém!"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "5:1",
+      "texto": "O amor entre o noivo e a noiva é celebrado na intimidade da união. A expressão “comi meu mel” simboliza a alegria e satisfação do amor pleno. Isso ressalta a importância do amor conjugal como uma experiência sagrada (veja também Gênesis 2:24 e Efésios 5:31)."
+    },
+    {
+      "ref": "5:2-3",
+      "texto": "A noiva descreve seu estado de sonolência e o convite do noivo, simbolizando a tensão entre desejo e indiferença. Essa passagem destaca a necessidade de atenção e prontidão no amor, refletindo a relação entre Cristo e a Igreja (veja também Mateus 25:1-13 e Apocalipse 3:20)."
+    },
+    {
+      "ref": "5:4-5",
+      "texto": "A busca da noiva pelo noivo mostra a profundidade do amor e a vulnerabilidade do coração. Este momento ilustra o desejo de intimidade e a dor da separação, representando a busca do ser humano por Deus (veja também Salmo 42:1-2 e Jeremias 29:13)."
+    },
+    {
+      "ref": "5:6-8",
+      "texto": "A dor da ausência do amado leva a noiva a clamar por sua presença. Isso revela a importância da conexão emocional no relacionamento. A busca pelo amado é uma metáfora da busca espiritual por Deus (veja também Salmo 63:1-3 e Isaías 55:6)."
+    },
+    {
+      "ref": "5:9-16",
+      "texto": "A noiva descreve a beleza do noivo, ressaltando a importância da valorização mútua no amor. Essa apreciação da beleza do parceiro enfatiza a importância da admiração e respeito no casamento (veja também Provérbios 31:10-31 e Efésios 5:28-29)."
+    }
+  ]
+}

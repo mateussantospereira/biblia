@@ -1,0 +1,88 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 61,
+  "totalVersiculos": 13,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/61/",
+  "capturadoEm": "2026-11-15T09:17:04-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. Segundo Iditun. Salmo de Davi.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Só em Deus repousa minha alma, só dele me vem a salvação."
+    },
+    {
+      "numero": 3,
+      "texto": "Só ele é meu rochedo, minha salvação; minha fortaleza: jamais vacilarei."
+    },
+    {
+      "numero": 4,
+      "texto": "Até quando, juntos, atacareis o próximo para derribá-lo como a uma parede já inclinada, como a um muro que se fendeu?"
+    },
+    {
+      "numero": 5,
+      "texto": "Sim, de meu excelso lugar pretendem derrubar-me; eles se comprazem na mentira. Enquanto me bendizem com os lábios, amaldiçoam-me no coração."
+    },
+    {
+      "numero": 6,
+      "texto": "Só em Deus repousa a minha alma, é dele que me vem o que eu espero."
+    },
+    {
+      "numero": 7,
+      "texto": "Só ele é meu rochedo e minha salvação; minha fortaleza: jamais vacilarei."
+    },
+    {
+      "numero": 8,
+      "texto": "Só em Deus encontrarei glória e salvação. Ele é meu rochedo protetor, meu refúgio está nele."
+    },
+    {
+      "numero": 9,
+      "texto": "Ó povo, confia nele de uma vez por todas; expandi, em sua presença, os vossos corações. Nosso refúgio está em Deus."
+    },
+    {
+      "numero": 10,
+      "texto": "Os homens não passam de um sopro, e de uma mentira os filhos dos homens. Eles sobem na concha da balança, pois todos juntos são mais leves que o vento."
+    },
+    {
+      "numero": 11,
+      "texto": "Não confieis na violência, nem espereis vãmente no roubo; crescendo vossas riquezas, não prendais nelas os vossos corações."
+    },
+    {
+      "numero": 12,
+      "texto": "Numa só palavra de Deus compreendi duas coisas: a Deus pertence o poder,"
+    },
+    {
+      "numero": 13,
+      "texto": "ao Senhor pertence a bondade. Pois vós dais a cada um segundo suas obras."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "61:1-2",
+      "texto": "O salmista clama a Deus em momentos de necessidade, reconhecendo Sua soberania e proteção. Esse clamor demonstra a dependência do crente em tempos de angústia e a certeza de que Deus é um refúgio seguro (veja também Salmo 46:1 e Filipenses 4:6-7)."
+    },
+    {
+      "ref": "61:3-4",
+      "texto": "A menção da \"torre forte\" e do \"abrigo\" simboliza a segurança que Deus oferece. O salmista encontra consolo em saber que Deus é um lugar de segurança em meio às tempestades da vida (veja também Salmo 91:1-2 e Provérbios 18:10)."
+    },
+    {
+      "ref": "61:5-6",
+      "texto": "O salmista expressa confiança nas promessas de Deus e na proteção divina. Essa confiança ressalta a importância da fé em Deus e da esperança em Suas promessas para o futuro (veja também Salmo 37:5 e Hebreus 10:23)."
+    },
+    {
+      "ref": "61:7-8",
+      "texto": "A oração do salmista é uma declaração de que ele deseja viver de acordo com os princípios de Deus. Isso destaca o desejo de servir a Deus e de louvar Seu nome todos os dias, mostrando a importância da gratidão e adoração (veja também Salmo 50:23 e Colossenses 3:16)."
+    },
+    {
+      "ref": "61:8",
+      "texto": "O salmista conclui afirmando sua intenção de louvar a Deus em reconhecimento por Suas bênçãos. Isso demonstra como a adoração deve ser uma resposta contínua à bondade divina (veja também Salmo 100:4 e 1 Tessalonicenses 5:18)."
+    }
+  ]
+}

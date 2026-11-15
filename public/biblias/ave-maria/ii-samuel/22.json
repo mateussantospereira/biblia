@@ -1,0 +1,242 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ii-samuel",
+  "nome": "II Samuel",
+  "testamento": "AT",
+  "capitulo": 22,
+  "totalVersiculos": 51,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ii-samuel/22/",
+  "capturadoEm": "2026-11-15T09:12:08-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Davi dirigiu ao Senhor as palavras do cântico que segue, no dia em que o Senhor o livrou da mão de todos os seus inimigos e da mão de Saul.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "“O Senhor é meu rochedo, minha fortaleza e meu libertador."
+    },
+    {
+      "numero": 3,
+      "texto": "Meu Deus é minha rocha onde encontro o meu abrigo. Meu escudo e força de minha salvação, minha cidadela e meu refúgio. Meu salvador que me salva da violência!"
+    },
+    {
+      "numero": 4,
+      "texto": "Invoco o Senhor que é digno de todo o louvor e fico livre dos meus inimigos."
+    },
+    {
+      "numero": 5,
+      "texto": "Circundavam-me os vagalhões da morte, torrentes devastadoras me atemorizavam,",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "enlaçavam-se as cadeias da habitação dos mortos, a própria morte me prendia em suas redes."
+    },
+    {
+      "numero": 7,
+      "texto": "Na minha angústia, invoquei o Senhor, gritei para meu Deus; do seu templo ele ouviu a minha voz, e o meu clamor chegou aos seus ouvidos."
+    },
+    {
+      "numero": 8,
+      "texto": "A terra vacilou e tremeu, os fundamentos dos céus estremeceram, abalaram-se, porque Deus se abrasou em cólera."
+    },
+    {
+      "numero": 9,
+      "texto": "Suas narinas exalavam fumaça, sua boca, fogo devorador, brasas incandescentes."
+    },
+    {
+      "numero": 10,
+      "texto": "Ele inclinou o céu e desceu, calcando aos pés escuras nuvens,"
+    },
+    {
+      "numero": 11,
+      "texto": "cavalgou sobre um querubim e voou, planando nas asas do vento."
+    },
+    {
+      "numero": 12,
+      "texto": "Envolveu-se nas trevas como numa tenda, nas águas tenebrosas, densas nuvens."
+    },
+    {
+      "numero": 13,
+      "texto": "Do esplendor de sua presença flamejaram centelhas de fogo,"
+    },
+    {
+      "numero": 14,
+      "texto": "dos céus trovejou o Senhor, o Altíssimo fez ressoar a sua voz,"
+    },
+    {
+      "numero": 15,
+      "texto": "lançou setas e dispersou os inimigos, fulminou relâmpagos e os desbaratou."
+    },
+    {
+      "numero": 16,
+      "texto": "E apareceu descoberto o leito do mar, os fundamentos da terra, ante a voz ameaçadora do Senhor, ante o furacão de sua cólera."
+    },
+    {
+      "numero": 17,
+      "texto": "Do alto estendeu a sua mão e me pegou e retirou-me das águas profundas,"
+    },
+    {
+      "numero": 18,
+      "texto": "livrou-me do inimigo poderoso, dos meus adversários, mais fortes do que eu."
+    },
+    {
+      "numero": 19,
+      "texto": "Investiram contra mim no dia do meu infortúnio, mas o Senhor foi o meu arrimo,"
+    },
+    {
+      "numero": 20,
+      "texto": "pôs-me a salvo e livrou-me, porque me ama."
+    },
+    {
+      "numero": 21,
+      "texto": "O Senhor me tratou segundo a minha inocência, retribuiu-me segundo a pureza de minhas mãos,"
+    },
+    {
+      "numero": 22,
+      "texto": "porque guardei os caminhos do Senhor e não pequei separando-me do meu Deus."
+    },
+    {
+      "numero": 23,
+      "texto": "Tenho diante dos olhos todos os seus preceitos e não me desvio de suas leis."
+    },
+    {
+      "numero": 24,
+      "texto": "Ando irrepreensivelmente diante dele, guardando-me do meu pecado."
+    },
+    {
+      "numero": 25,
+      "texto": "O Senhor retribuiu-me segundo a minha justiça, segundo a minha pureza diante dos seus olhos."
+    },
+    {
+      "numero": 26,
+      "texto": "Com quem é bondoso vos mostrais bondoso, com homem íntegro vos mostrais íntegro,"
+    },
+    {
+      "numero": 27,
+      "texto": "puro, com quem é puro; prudente, com quem é astuto."
+    },
+    {
+      "numero": 28,
+      "texto": "Aos humildes salvais; os semblantes soberbos humilhais."
+    },
+    {
+      "numero": 29,
+      "texto": "Senhor, sois meu farol; é o Senhor quem dissipa as minhas trevas."
+    },
+    {
+      "numero": 30,
+      "texto": "Convosco afrontarei batalhões; com meu Deus escalarei muralhas."
+    },
+    {
+      "numero": 31,
+      "texto": "Os caminhos de Deus são perfeitos; a palavra do Senhor é pura. Ele é o escudo de todos os que nele se refugiam."
+    },
+    {
+      "numero": 32,
+      "texto": "Pois, quem é Deus senão o Senhor? Quem é o rochedo, senão o nosso Deus?"
+    },
+    {
+      "numero": 33,
+      "texto": "É Deus quem me cinge de coragem e aplana o meu caminho.",
+      "nota": true
+    },
+    {
+      "numero": 34,
+      "texto": "Torna os meus pés velozes como os das gazelas e me instala nas alturas."
+    },
+    {
+      "numero": 35,
+      "texto": "Adestra minhas mãos para o combate e meus braços para o tiro de arco."
+    },
+    {
+      "numero": 36,
+      "texto": "Vós me dais o escudo que me salva e vossa bondade me engrandece."
+    },
+    {
+      "numero": 37,
+      "texto": "Alargais o caminho a meus passos para meus pés não resvalarem."
+    },
+    {
+      "numero": 38,
+      "texto": "Dou caça aos inimigos e os extermino. E não volto sem que os tenha aniquilado."
+    },
+    {
+      "numero": 39,
+      "texto": "De tal sorte os aniquilo e despedaço, que não mais se levantam; eles estão caídos a meus pés."
+    },
+    {
+      "numero": 40,
+      "texto": "Vós me cingis de coragem para a luta e ante mim dobrais os meus adversários."
+    },
+    {
+      "numero": 41,
+      "texto": "Afugentais da minha presença os meus inimigos. E reduzo ao silêncio os que me aborrecem."
+    },
+    {
+      "numero": 42,
+      "texto": "Gritam por socorro, mas não há quem os salve, clamam ao Senhor, mas não responde..."
+    },
+    {
+      "numero": 43,
+      "texto": "Eu os trituro como ao pó da terra. E os esmago aos pés como ao barro das estradas."
+    },
+    {
+      "numero": 44,
+      "texto": "Vós me livrais das revoltas do meu povo e me guardais à frente das nações. Povos que eu desconhecia se tornaram meus servos."
+    },
+    {
+      "numero": 45,
+      "texto": "Gente estranha me serve abnegadamente e obedecem-me à primeira intimação."
+    },
+    {
+      "numero": 46,
+      "texto": "Gente estranha desfalece e sai tremendo de seus esconderijos."
+    },
+    {
+      "numero": 47,
+      "texto": "Viva o Senhor e bendito seja o meu rochedo! Exaltado seja Deus, Rocha que me salva!"
+    },
+    {
+      "numero": 48,
+      "texto": "Deus, que me proporciona a vingança e avassala nações a meus pés."
+    },
+    {
+      "numero": 49,
+      "texto": "Sois vós quem me libertais dos meus inimigos, me exaltais acima dos meus adversários e me salvais do homem violento."
+    },
+    {
+      "numero": 50,
+      "texto": "Por isso vos louvarei, ó Senhor, entre as nações e celebrarei o vosso nome."
+    },
+    {
+      "numero": 51,
+      "texto": "Ele prepara grandes vitórias a seu rei e faz misericórdia a seu ungido. A Davi e sua descendência para sempre.”"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "22:1-4",
+      "texto": "O cântico de Davi é uma declaração de louvor e gratidão a Deus, que o libertou de seus inimigos. Essa canção destaca a fidelidade de Deus e Sua proteção ao longo da vida, enfatizando a importância da adoração em tempos de tribulação (veja também Salmo 18:1-3 e Filipenses 4:6-7)."
+    },
+    {
+      "ref": "22:5-7",
+      "texto": "Davi descreve suas angústias e clama a Deus por socorro. Essa honestidade nas dificuldades serve como um exemplo de como devemos buscar a ajuda divina em tempos de crise e desespero (veja também Salmo 34:17 e Mateus 7:7)."
+    },
+    {
+      "ref": "22:8-16",
+      "texto": "A descrição da intervenção divina nas batalhas de Davi mostra a natureza poderosa de Deus como salvador. Ele é apresentado como um Deus que age de forma sobrenatural em favor dos que O buscam (veja também Salmo 46:1-3 e Hebreus 11:32-34)."
+    },
+    {
+      "ref": "22:17-20",
+      "texto": "Davi reconhece a graça de Deus ao ser resgatado de suas aflições. A experiência de Davi é um testemunho da bondade divina que nos busca e nos salva mesmo quando nos sentimos perdidos (veja também Salmo 40:1-3 e Romanos 5:8)."
+    },
+    {
+      "ref": "22:21-25",
+      "texto": "Davi reconhece que a justiça de Deus o abençoa, refletindo a importância de viver em integridade. A vida reta é um caminho para receber as bênçãos e promessas divinas (veja também Provérbios 10:24-25 e 1 Pedro 3:12)."
+    }
+  ]
+}

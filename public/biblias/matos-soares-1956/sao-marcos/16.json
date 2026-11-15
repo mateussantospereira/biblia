@@ -1,0 +1,115 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "sao-marcos",
+  "nome": "São Marcos",
+  "testamento": "NT",
+  "capitulo": 16,
+  "totalVersiculos": 20,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/sao-marcos/16/",
+  "capturadoEm": "2026-11-15T10:03:39-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Passado o dia de sábado, Maria Madalena, Maria, mãe de Tiago, e Salomé compraram aromas para irem embalsamar Jesus."
+    },
+    {
+      "numero": 2,
+      "texto": "Partindo no primeiro dia da semana, de manhã cedo, chegaram ao sepulcro, quando o sol já era nascido."
+    },
+    {
+      "numero": 3,
+      "texto": "Diziam entre si: \"Quem nos hã-de revolver a pedra da boca do sepulcro?"
+    },
+    {
+      "numero": 4,
+      "texto": "Mas, olhando, viram revolvida a pedra, que era muito grande."
+    },
+    {
+      "numero": 5,
+      "texto": "Entrando no sepulcro, viram um jovem sentado do lado direito, vestido de uma túnica branca, e ficaram assustadas."
+    },
+    {
+      "numero": 6,
+      "texto": "Ele disse-lhes: \"Não temais. Buscais a Jesus Nazareno, o crucificado? Ressuscitou, não está aqui. Eis o lugar onde o depositaram."
+    },
+    {
+      "numero": 7,
+      "texto": "Mas ide, dizei a seus discípulos, e especialmente a Pedro, que ele vai adiante de vós para a Galileia; lá o vereis, como ele vos disse.\""
+    },
+    {
+      "numero": 8,
+      "texto": "Elas, saindo do sepulcro, fugiram, porque as tinha assaltado o temor e estavam fora de si. Não disseram nada a ninguém, tal era o medo que tinham."
+    },
+    {
+      "numero": 9,
+      "texto": "Jesus tendo ressuscitado de manhã, no primeiro dia da semana, apareceu primeiramente a Maria Madalena, da qual tinha expulsado sete demônios. (ver nota)"
+    },
+    {
+      "numero": 10,
+      "texto": "Ela foi noticiá-lo aos que tinham andado com ele, os quais estavam aflitos e chorosos."
+    },
+    {
+      "numero": 11,
+      "texto": "Tendo eles ouvido dizer que Jesus estava vivo, e que fora visto por ela, não acreditaram."
+    },
+    {
+      "numero": 12,
+      "texto": "Depois disto, mostrou-se sob outra forma a dois deles, enquanto iam para a aldeia;"
+    },
+    {
+      "numero": 13,
+      "texto": "os quais foram anunciar aos outros, que nem a estes deram crédito."
+    },
+    {
+      "numero": 14,
+      "texto": "Finalmente apareceu aos onze, quando estavam à mesa, e censurou-lhes a sua incredulidade e dureza de coração, por não terem dado crédito aos que o viram ressuscitado."
+    },
+    {
+      "numero": 15,
+      "texto": "Disse-lhes: \"Ide por todo o mundo, pregai o Evangelho a toda a criatura."
+    },
+    {
+      "numero": 16,
+      "texto": "O que crer e for batizado, será salvo; o que, porém, não crer, será condenado. (ver nota)"
+    },
+    {
+      "numero": 17,
+      "texto": "Eis os milagres que acompanharão os que crerem: Expulsarão os demônios em meu nome, falarão novas línguas, (ver nota)"
+    },
+    {
+      "numero": 18,
+      "texto": "manusearão as serpentes, e, se beberem alguma coisa mortífera, não lhes fará mal; imporão as mãos sobre os enfermos, e serão curados.\" (ver nota)"
+    },
+    {
+      "numero": 19,
+      "texto": "O Senhor, depois que assim lhes falou, elevou-se ao céu, e foi sentar-se à direita de Deus. (ver nota)"
+    },
+    {
+      "numero": 20,
+      "texto": "Eles, tendo partido, pregaram por toda a parte, cooperando com eles o Senhor, e confirmando a palavra com os milagres que a acompanhavam."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "16:1-8",
+      "texto": "As mulheres encontram o túmulo vazio e são instruídas a anunciar a ressurreição de Jesus. O vazio do túmulo é um sinal poderoso de que a morte foi vencida, e a missão de espalhar o evangelho começa com a mensagem da ressurreição (veja também Mateus 28:1-10 e Lucas 24:1-12)."
+    },
+    {
+      "ref": "16:9-11",
+      "texto": "Jesus aparece primeiro a Maria Madalena, que se torna a primeira a testemunhar Sua ressurreição. A escolha de Jesus em revelar-Se a ela demonstra o caráter inclusivo e a transformação do status da mulher no Reino de Deus (veja também João 20:11-18 e Lucas 8:2)."
+    },
+    {
+      "ref": "16:12-13",
+      "texto": "Jesus aparece a dois discípulos a caminho de Emaús, revelando-Se a eles de maneira misteriosa. Esse encontro destaca a importância de reconhecer a presença de Cristo em nossas vidas, mesmo nos momentos de dúvida e incerteza (veja também Lucas 24:13-35 e Atos 1:3)."
+    },
+    {
+      "ref": "16:14-18",
+      "texto": "Jesus repreende a incredulidade dos discípulos e os comissiona a pregar o evangelho a toda criatura. A missão cristã é uma responsabilidade de todos os seguidores de Cristo, e os sinais de fé confirmam essa mensagem (veja também Mateus 28:18-20 e Atos 1:8)."
+    },
+    {
+      "ref": "16:19-20",
+      "texto": "A ascensão de Jesus marca o fim de Sua presença física na terra, mas Sua autoridade e poder continuam através dos discípulos, que começam a proclamar o evangelho com sinais e maravilhas. A missão de Cristo é agora confiada aos Seus seguidores, que devem continuar Seu trabalho (veja também Lucas 24:50-53 e Atos 1:9-11)."
+    }
+  ]
+}

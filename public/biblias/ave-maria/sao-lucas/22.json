@@ -1,0 +1,324 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sao-lucas",
+  "nome": "São Lucas",
+  "testamento": "NT",
+  "capitulo": 22,
+  "totalVersiculos": 71,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sao-lucas/22/",
+  "capturadoEm": "2026-11-15T09:26:44-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Aproximava-se a festa dos pães sem fermento, chamada Páscoa.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Os príncipes dos sacerdotes e os escribas buscavam um meio de matar Jesus, mas temiam o povo."
+    },
+    {
+      "numero": 3,
+      "texto": "Entretanto, Satanás entrou em Judas, que tinha por sobrenome Iscariotes, um dos Doze."
+    },
+    {
+      "numero": 4,
+      "texto": "Judas foi procurar os príncipes dos sacerdotes e os oficiais para se entender com eles sobre o modo de lho entregar."
+    },
+    {
+      "numero": 5,
+      "texto": "Eles se alegraram com isso, e concordaram em lhe dar dinheiro."
+    },
+    {
+      "numero": 6,
+      "texto": "Também ele se obrigou. E buscava ocasião oportuna para o trair, sem que a multidão o soubesse. (= Mt 26,17-29 = Mc 14,12-25)"
+    },
+    {
+      "numero": 7,
+      "texto": "Raiou o dia dos pães sem fermento, em que se devia imolar a Páscoa.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Jesus enviou Pedro e João, dizendo: “Ide e preparai-nos a ceia da Páscoa”."
+    },
+    {
+      "numero": 9,
+      "texto": "Perguntaram-lhe eles: “Onde queres que a preparemos?”."
+    },
+    {
+      "numero": 10,
+      "texto": "Ele respondeu: “Ao entrardes na cidade, encontrareis um homem carregando uma bilha de água; segui-o até a casa em que ele entrar,"
+    },
+    {
+      "numero": 11,
+      "texto": "e direis ao dono da casa: O Mestre pergunta-te: Onde está a sala em que comerei a Páscoa com os meus discípulos?"
+    },
+    {
+      "numero": 12,
+      "texto": "Ele vos mostrará no andar superior uma grande sala mobiliada, e ali fazei os preparativos”."
+    },
+    {
+      "numero": 13,
+      "texto": "Foram, pois, e acharam tudo como Jesus lhes dissera; e prepararam a Páscoa."
+    },
+    {
+      "numero": 14,
+      "texto": "Chegada que foi a hora, Jesus pôs-se à mesa, e com ele os apóstolos."
+    },
+    {
+      "numero": 15,
+      "texto": "Disse-lhes: “Tenho desejado ardentemente comer convosco esta Páscoa, antes de sofrer."
+    },
+    {
+      "numero": 16,
+      "texto": "Pois vos digo: não tornarei a comê-la, até que ela se cumpra no Reino de Deus”."
+    },
+    {
+      "numero": 17,
+      "texto": "Pegando o cálice, deu graças e disse: “Tomai este cálice e distribuí-o entre vós."
+    },
+    {
+      "numero": 18,
+      "texto": "Pois vos digo: já não tornarei a beber do fruto da videira, até que venha o Reino de Deus”."
+    },
+    {
+      "numero": 19,
+      "texto": "Tomou em seguida o pão e depois de ter dado graças, partiu-o e deu-lho, dizendo: “Isto é o meu corpo, que é dado por vós; fazei isto em memória de mim”."
+    },
+    {
+      "numero": 20,
+      "texto": "Do mesmo modo tomou também o cálice, depois de cear, dizendo: “Este cálice é a Nova Aliança em meu sangue, que é derramado por vós...",
+      "nota": true
+    },
+    {
+      "numero": 21,
+      "texto": "Entretanto, eis que a mão de quem me trai está à mesa comigo."
+    },
+    {
+      "numero": 22,
+      "texto": "O Filho do Homem vai, segundo o que está determinado, mas ai daquele homem por quem ele é traído!”."
+    },
+    {
+      "numero": 23,
+      "texto": "Perguntavam então os discípulos entre si quem deles seria o que tal haveria de fazer. (= Mt 20,25-28 = Mc 10,42-45 = Jo 13,1-20)"
+    },
+    {
+      "numero": 24,
+      "texto": "Surgiu também entre eles uma discussão: qual deles seria o maior."
+    },
+    {
+      "numero": 25,
+      "texto": "E Jesus disse-lhes: “Os reis dos pagãos dominam como senhores, e os que exercem sobre eles autoridade chamam-se benfeitores.",
+      "nota": true
+    },
+    {
+      "numero": 26,
+      "texto": "Que não seja assim entre vós; mas o que entre vós é o maior, torne-se como o último; e o que governa seja como o servo."
+    },
+    {
+      "numero": 27,
+      "texto": "Pois qual é o maior: o que está sentado à mesa ou o que serve? Não é aquele que está sentado à mesa? Todavia, eu estou no meio de vós, como aquele que serve."
+    },
+    {
+      "numero": 28,
+      "texto": "E vós tendes permanecido comigo nas minhas provações;"
+    },
+    {
+      "numero": 29,
+      "texto": "eu, pois, disponho do Reino a vosso favor, assim como meu Pai o dispôs a meu favor,"
+    },
+    {
+      "numero": 30,
+      "texto": "para que comais e bebais à minha mesa no meu Reino e vos senteis em tronos, para julgar as doze tribos de Israel”. (= Mt 26,30-35 = Mc 14,26-31 = Jo 13,36ss)"
+    },
+    {
+      "numero": 31,
+      "texto": "“Simão, Simão, eis que Satanás vos reclamou para vos peneirar como o trigo;"
+    },
+    {
+      "numero": 32,
+      "texto": "mas eu roguei por ti, para que a tua confiança não desfaleça; e tu, por tua vez, confirma os teus irmãos.”",
+      "nota": true
+    },
+    {
+      "numero": 33,
+      "texto": "Pedro disse-lhe: “Senhor, estou pronto a ir contigo tanto para a prisão como para a morte”."
+    },
+    {
+      "numero": 34,
+      "texto": "Jesus respondeu-lhe: “Digo-te, Pedro, não cantará hoje o galo, até que três vezes hajas negado que me conheces”."
+    },
+    {
+      "numero": 35,
+      "texto": "Depois ajuntou: “Quando vos mandei sem bolsa, sem mochila e sem calçado, faltou-vos porventura alguma coisa?”. Eles responderam: “Nada”."
+    },
+    {
+      "numero": 36,
+      "texto": "“Mas agora” – disse-lhes ele –, “aquele que tem uma bolsa, tome-a; aquele que tem uma mochila, tome-a igualmente; e aquele que não tiver uma espada, venda sua capa para comprar uma."
+    },
+    {
+      "numero": 37,
+      "texto": "Pois vos digo: é necessário que se cumpra em mim ainda este oráculo: E foi contado entre os malfeitores (Is 53,12). Com efeito, aquilo que me diz respeito está próximo de se cumprir.”"
+    },
+    {
+      "numero": 38,
+      "texto": "Eles replicaram: “Senhor, eis aqui duas espadas”. “Basta” – respondeu ele.* (= Mt 26,36-46 = Mc 14,32-42)"
+    },
+    {
+      "numero": 39,
+      "texto": "Conforme o seu costume, Jesus saiu dali e dirigiu-se para o monte das Oliveiras, seguido dos seus discípulos."
+    },
+    {
+      "numero": 40,
+      "texto": "Ao chegar àquele lugar, disse-lhes: “Orai para que não caiais em tentação”."
+    },
+    {
+      "numero": 41,
+      "texto": "Depois se afastou deles à distância de um tiro de pedra e, ajoelhando-se, orava:"
+    },
+    {
+      "numero": 42,
+      "texto": "“Pai, se é de teu agrado, afasta de mim este cálice! Não se faça, todavia, a minha vontade, mas sim a tua”."
+    },
+    {
+      "numero": 43,
+      "texto": "Apareceu-lhe então um anjo do céu para confortá-lo."
+    },
+    {
+      "numero": 44,
+      "texto": "Ele entrou em agonia e orava ainda com mais instância, e seu suor tornou-se como gotas de sangue a escorrer pela terra."
+    },
+    {
+      "numero": 45,
+      "texto": "Depois de ter rezado, levantou-se, foi ter com os discípulos e achou-os adormecidos de tristeza."
+    },
+    {
+      "numero": 46,
+      "texto": "Disse-lhes: “Por que dormis? Levantai-vos, orai, para não cairdes em tentação”. (= Mt 26,47-56 = Mc 14,43-52 = Jo 18,1-11)"
+    },
+    {
+      "numero": 47,
+      "texto": "Ele ainda falava, quando apareceu uma multidão de gente; e à testa deles vinha um dos Doze, que se chamava Judas. Achegou-se de Jesus para o beijar."
+    },
+    {
+      "numero": 48,
+      "texto": "Jesus perguntou-lhe: “Judas, com um beijo trais o Filho do Homem!”."
+    },
+    {
+      "numero": 49,
+      "texto": "Os que estavam ao redor dele, vendo o que ia acontecer, perguntaram: “Senhor, devemos atacá-los à espada?”."
+    },
+    {
+      "numero": 50,
+      "texto": "E um deles feriu o servo do príncipe dos sacerdotes, decepando-lhe a orelha direita."
+    },
+    {
+      "numero": 51,
+      "texto": "Mas Jesus interveio: “Deixai, basta”. E, tocando na orelha daquele homem, curou-o."
+    },
+    {
+      "numero": 52,
+      "texto": "Voltando-se para os príncipes dos sacerdotes, para os oficiais do templo e para os anciãos que tinham vindo contra ele, disse-lhes: “Saístes armados de espadas e cacetes, como se viésseis contra um ladrão."
+    },
+    {
+      "numero": 53,
+      "texto": "Entretanto, eu estava todos os dias convosco no templo, e não estendestes as mãos contra mim; mas esta é a vossa hora e do poder das trevas”. (= Mt 26,69-75 = Mc 14,66-72 = Jo 18,13-27)"
+    },
+    {
+      "numero": 54,
+      "texto": "Prenderam-no então e conduziram-no à casa do príncipe dos sacerdotes. Pedro seguia-o de longe."
+    },
+    {
+      "numero": 55,
+      "texto": "Acenderam um fogo no meio do pátio, e sentaram-se em redor. Pedro veio sentar-se com eles."
+    },
+    {
+      "numero": 56,
+      "texto": "Uma criada percebeu-o sentado junto ao fogo, encarou-o de perto e disse: “Também este homem estava com ele”."
+    },
+    {
+      "numero": 57,
+      "texto": "Mas ele negou-o: “Mulher, não o conheço”."
+    },
+    {
+      "numero": 58,
+      "texto": "Pouco depois, viu-o outro e disse-lhe: “Também tu és um deles”. Pedro respondeu: “Não, eu não o sou”."
+    },
+    {
+      "numero": 59,
+      "texto": "Passada quase uma hora, afirmava um outro: “Certamente também este homem estava com ele, pois também é galileu”."
+    },
+    {
+      "numero": 60,
+      "texto": "Mas Pedro disse: “Meu amigo, não sei o que queres dizer.” E, no mesmo instante, quando ainda falava, cantou o galo."
+    },
+    {
+      "numero": 61,
+      "texto": "Voltando-se o Senhor, olhou para Pedro. Então, Pedro se lembrou da palavra do Senhor: “Hoje, antes que o galo cante, tu me negarás três vezes”."
+    },
+    {
+      "numero": 62,
+      "texto": "Saiu dali e chorou amargamente. (= Mt 26,57-68 = Mc 14,61-64 = Jo 18,19-24)"
+    },
+    {
+      "numero": 63,
+      "texto": "Entretanto, os homens que guardavam Jesus escarneciam dele e davam-lhe bofetadas."
+    },
+    {
+      "numero": 64,
+      "texto": "Cobriam-lhe o rosto e diziam: “Adivinha quem te bateu!”."
+    },
+    {
+      "numero": 65,
+      "texto": "E injuriavam-no ainda de outros modos."
+    },
+    {
+      "numero": 66,
+      "texto": "Ao amanhecer, reuniram-se os anciãos do povo, os príncipes dos sacerdotes e os escribas, e mandaram trazer Jesus ao seu conselho."
+    },
+    {
+      "numero": 67,
+      "texto": "Perguntaram-lhe: “Dize-nos se és o Cristo!” Respondeu-lhes ele: “Se eu vo-lo disser, não me acreditareis;"
+    },
+    {
+      "numero": 68,
+      "texto": "e se vos fizer qualquer pergunta, não me respondereis."
+    },
+    {
+      "numero": 69,
+      "texto": "Mas, doravante, o Filho do Homem estará sentado à direita do poder de Deus”."
+    },
+    {
+      "numero": 70,
+      "texto": "Então, perguntaram todos: “Logo, tu és o Filho de Deus?”. Respondeu: “Sim, eu sou."
+    },
+    {
+      "numero": 71,
+      "texto": "Eles então exclamaram: “Temos nós ainda necessidade de testemunho? Nós mesmos o ouvimos de sua boca”. (= Mt 27,11-26 = Mc 15,1-15 = Jo 18,28-19,16)"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "22:1-6",
+      "texto": "Os líderes religiosos conspiram contra Jesus, planejando Sua morte. Esse episódio marca o início da Paixão de Cristo e é o cumprimento das Escrituras que preveem o sofrimento do Messias (veja também Mateus 26:1-5 e Atos 2:23)."
+    },
+    {
+      "ref": "22:7-13",
+      "texto": "A preparação para a Páscoa é descrita, e Jesus dá instruções para a preparação da ceia. Ele demonstra Seu controle sobre os eventos e o cumprimento de Sua missão de estabelecer a Nova Aliança por meio de Seu corpo e sangue (veja também Marcos 14:12-16 e Mateus 26:17-19)."
+    },
+    {
+      "ref": "22:19-20",
+      "texto": "Durante a Ceia, Jesus institui a Eucaristia, entregando Seu corpo e sangue em um ato de sacrifício. Ele estabelece um novo pacto com os Seus discípulos, simbolizando a redenção por meio da Sua morte (veja também 1 Coríntios 11:23-26 e Mateus 26:26-28)."
+    },
+    {
+      "ref": "22:31-34",
+      "texto": "Jesus avisa a Pedro sobre sua negação e enfatiza a necessidade de vigilância espiritual. A advertência de Jesus sobre as falhas humanas é um lembrete de nossa dependência da graça divina (veja também Mateus 26:31-35 e João 13:36-38)."
+    },
+    {
+      "ref": "22:39-46",
+      "texto": "No Jardim das Oliveiras, Jesus ora em agonia, pedindo ao Pai que afaste o cálice do sofrimento. Sua oração revela Sua humanidade e submissão à vontade de Deus, oferecendo um modelo de oração em momentos de provação (veja também Mateus 26:36-46 e Hebreus 5:7)."
+    }
+  ]
+}

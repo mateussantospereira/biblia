@@ -1,0 +1,67 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "josue",
+  "nome": "Josué",
+  "testamento": "AT",
+  "capitulo": 20,
+  "totalVersiculos": 8,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/josue/20/",
+  "capturadoEm": "2026-11-15T09:46:12-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Senhor falou a Josué, dizendo: Fala aos filhos de Israel e diz-lhes:"
+    },
+    {
+      "numero": 2,
+      "texto": "Separai as cidades para os fugitivos, das quais vos falei por meio de Moisés,"
+    },
+    {
+      "numero": 3,
+      "texto": "a fim do que se refugie nelas todo o que matar uma pessoa, sem querer, e possa evitar a ira do vingador do sangue."
+    },
+    {
+      "numero": 4,
+      "texto": "Quando ele se refugiar em uma destas cidades, apresentar-se-á à porta da cidade e exporá aos anciães dela tudo o que possa comprovar a sua inocência; deste modo o receberão, e lhe darão lugar em que habite."
+    },
+    {
+      "numero": 5,
+      "texto": "Se aquele, que quer vingar o morto, o perseguir, não lho entregarão às suas mãos, porque matou por ignorância o seu próximo, sem que antes fosse seu inimigo."
+    },
+    {
+      "numero": 6,
+      "texto": "Habitará nesta cidade, até que compareça em juízo, para dar conta do que fez e até que morra o sumo sacerdote, que estiver (em exercício) naquele tempo. Então voltará o homicida, e entrará na sua cidade e na sua casa, donde tinha fugido."
+    },
+    {
+      "numero": 7,
+      "texto": "(Consequentemente) decretaram (que fossem cidades de refúgio) Cedes na Galileia, sobre o monte de Neftali, e Siquem sobre o monte de Efraim, e Cariatarbe, que é Hebron, sobre o monte de Judá."
+    },
+    {
+      "numero": 8,
+      "texto": "Na outra banda do Jordão, para o nascente de Jericó, destinaram Bosor, que está situada na planície do deserto, da tribo de Buben, e Ramot em Galaad, da tribo de Gad, e Gaulon em Basan, da tribo de Manassés."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "20:1-3",
+      "texto": "Deus ordena a criação de cidades de refúgio, refletindo Sua preocupação com a justiça e a proteção dos inocentes. Essas cidades são um exemplo do amor de Deus pela vida e pela equidade (veja também Números 35:9-15 e Deuteronômio 19:2-4)."
+    },
+    {
+      "ref": "20:4-6",
+      "texto": "O processo de buscar abrigo em uma cidade de refúgio revela a importância do arrependimento e da busca pela misericórdia. A narrativa sublinha a possibilidade de restauração e redenção, mesmo em situações difíceis (veja também Salmo 51:1-2 e 1 João 1:9)."
+    },
+    {
+      "ref": "20:7-8",
+      "texto": "A designação das cidades de refúgio entre as tribos ilustra a misericórdia de Deus em meio ao juízo. Essas cidades são um símbolo da esperança e do plano de Deus para a proteção dos vulneráveis (veja também Salmo 46:1 e Isaías 25:4)."
+    },
+    {
+      "ref": "20:9",
+      "texto": "A proteção garantida nas cidades de refúgio enfatiza o valor da vida e a justiça de Deus. Esse sistema reflete a sabedoria divina em cuidar do povo e assegurar que a justiça seja feita (veja também Provérbios 21:15 e Miquéias 6:8)."
+    },
+    {
+      "ref": "20:10-15",
+      "texto": "A provisão das cidades de refúgio como um lugar seguro reflete a intenção de Deus de oferecer proteção e refúgio em tempos de crise. Esse conceito é central na experiência de salvação e libertação em toda a Bíblia (veja também Salmo 91:1-2 e Mateus 11:28-30)."
+    }
+  ]
+}

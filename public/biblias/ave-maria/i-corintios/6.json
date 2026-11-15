@@ -1,0 +1,109 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-corintios",
+  "nome": "I Coríntios",
+  "testamento": "NT",
+  "capitulo": 6,
+  "totalVersiculos": 20,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-corintios/6/",
+  "capturadoEm": "2026-11-15T09:27:58-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Quando algum de vós tem litígio contra outro, como é que se atreve a pedir justiça perante os injustos, em vez de recorrer aos (irmãos) santos?",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Não sabeis que os santos julgarão o mundo? E, se o mundo há de ser julgado por vós, seríeis indignos de julgar os processos de mínima importância?"
+    },
+    {
+      "numero": 3,
+      "texto": "Não sabeis que julgaremos os anjos? Quanto mais as pequenas questões desta vida!"
+    },
+    {
+      "numero": 4,
+      "texto": "No entanto, quando tendes contendas desse gênero, escolheis para juízes pessoas cuja opinião é tida em nada pela Igreja."
+    },
+    {
+      "numero": 5,
+      "texto": "Digo-o para confusão vossa. Será possível que não há entre vós um homem sábio, nem um sequer que possa julgar entre seus irmãos?"
+    },
+    {
+      "numero": 6,
+      "texto": "Mas um irmão litiga com outro irmão, e isso diante de infiéis!"
+    },
+    {
+      "numero": 7,
+      "texto": "Na verdade, já é um mal para vós o fato de terdes processos uns contra os outros. Por que não preferis sofrer injustiça? Por que não preferis ser espoliados?"
+    },
+    {
+      "numero": 8,
+      "texto": "Não! Vós é que fazeis injustiça, vós é que espoliais – e isso entre irmãos!"
+    },
+    {
+      "numero": 9,
+      "texto": "Acaso não sabeis que os injustos não hão de possuir o Reino de Deus? Não vos enganeis: nem os impuros, nem os idólatras, nem os adúlteros, nem os efeminados, nem os devassos,"
+    },
+    {
+      "numero": 10,
+      "texto": "nem os ladrões, nem os avarentos, nem os bêbados, nem os difamadores, nem os assaltantes hão de possuir o Reino de Deus."
+    },
+    {
+      "numero": 11,
+      "texto": "Ao menos alguns de vós têm sido isso. Mas fostes lavados, mas fostes santificados, mas fostes justificados, em nome do Senhor Jesus Cristo e pelo Espírito de nosso Deus."
+    },
+    {
+      "numero": 12,
+      "texto": "Tudo me é permitido, mas nem tudo convém. Tudo me é permitido, mas eu não me deixarei dominar por coisa alguma."
+    },
+    {
+      "numero": 13,
+      "texto": "Os alimentos são para o estômago e o estômago para os alimentos: Deus destruirá tanto aqueles como este. O corpo, porém, não é para a impureza, mas para o Senhor e o Senhor para o corpo:"
+    },
+    {
+      "numero": 14,
+      "texto": "Deus, que ressuscitou o Senhor, também nos ressuscitará a nós pelo seu poder."
+    },
+    {
+      "numero": 15,
+      "texto": "Não sabeis que vossos corpos são membros de Cristo? Tomarei, então, os membros de Cristo e os farei membros de uma prostituta? De modo algum!"
+    },
+    {
+      "numero": 16,
+      "texto": "Ou não sabeis que o que se ajunta a uma prostituta se torna um só corpo com ela? Está escrito: Os dois serão uma só carne (Gn 2,24)."
+    },
+    {
+      "numero": 17,
+      "texto": "Pelo contrário, quem se une ao Senhor torna-se com ele um só espírito."
+    },
+    {
+      "numero": 18,
+      "texto": "Fugi da fornicação. Qualquer outro pecado que o homem comete é fora do corpo, mas o impuro peca contra o seu próprio corpo."
+    },
+    {
+      "numero": 19,
+      "texto": "Ou não sabeis que o vosso corpo é templo do Espírito Santo, que habita em vós, o qual recebestes de Deus e que, por isso mesmo, já não vos pertenceis?"
+    },
+    {
+      "numero": 20,
+      "texto": "Porque fostes comprados por um grande preço. Glorificai, pois, a Deus no vosso corpo.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "6:1-6",
+      "texto": "Paulo questiona a vergonha de os cristãos levarem seus casos à justiça secular. A incapacidade de resolver disputas dentro da igreja prejudica o testemunho cristão no mundo (veja também Mateus 18:15-17 e Efésios 4:3)."
+    },
+    {
+      "ref": "6:9-11",
+      "texto": "Paulo lista os pecadores que não herdarão o Reino de Deus, incluindo os imorais, idólatras e mentirosos. Ele lembra que os coríntios foram lavados, santificados e justificados pelo nome de Jesus, chamando-os a viver de acordo com sua nova identidade (veja também Gálatas 5:19-21 e Efésios 5:5)."
+    },
+    {
+      "ref": "6:12-20",
+      "texto": "Paulo ensina que o corpo do cristão é templo do Espírito Santo, e por isso deve ser tratado com respeito. Ele condena a prática de imoralidade sexual, mostrando que o corpo não foi feito para a impureza, mas para o Senhor (veja também 1 Tessalonicenses 4:3-8 e Romanos 12:1)."
+    }
+  ]
+}

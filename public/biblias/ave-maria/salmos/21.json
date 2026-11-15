@@ -1,0 +1,165 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 21,
+  "totalVersiculos": 31,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/21/",
+  "capturadoEm": "2026-11-15T09:16:22-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. Segundo a melodia “A corça da aurora”. Salmo de Davi.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Meu Deus, meu Deus, por que me abandonastes? E permaneceis longe de minhas súplicas e de meus gemidos?",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Meu Deus, clamo de dia e não me respondeis; imploro de noite e não me atendeis."
+    },
+    {
+      "numero": 4,
+      "texto": "Entretanto, vós habitais em vosso santuário, vós que sois a glória de Israel."
+    },
+    {
+      "numero": 5,
+      "texto": "Nossos pais puseram sua confiança em vós, esperaram em vós e os livrastes."
+    },
+    {
+      "numero": 6,
+      "texto": "A vós clamaram e foram salvos; confiaram em vós e não foram confundidos."
+    },
+    {
+      "numero": 7,
+      "texto": "Eu, porém, sou um verme, não sou homem, o opróbrio de todos e a abjeção da plebe."
+    },
+    {
+      "numero": 8,
+      "texto": "Todos os que me vêem zombam de mim; dizem, meneando a cabeça:"
+    },
+    {
+      "numero": 9,
+      "texto": "“Esperou no Senhor, pois que ele o livre, que o salve, se o ama”.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Sim, fostes vós que me tirastes das entranhas de minha mãe e, seguro, me fizestes repousar em seu seio."
+    },
+    {
+      "numero": 11,
+      "texto": "Eu vos fui entregue desde o meu nascer, desde o ventre de minha mãe vós sois o meu Deus."
+    },
+    {
+      "numero": 12,
+      "texto": "Não fiqueis longe de mim, pois estou atribulado; vinde para perto de mim, porque não há quem me ajude."
+    },
+    {
+      "numero": 13,
+      "texto": "Cercam-me touros numerosos, rodeiam-me touros de Basã;"
+    },
+    {
+      "numero": 14,
+      "texto": "contra mim eles abrem suas fauces, como o leão que ruge e arrebata."
+    },
+    {
+      "numero": 15,
+      "texto": "Derramo-me como água, todos os meus ossos se desconjuntam; meu coração tornou-se como cera e derrete-se nas minhas entranhas."
+    },
+    {
+      "numero": 16,
+      "texto": "Minha garganta está seca qual barro cozido, pega-se no paladar a minha língua: vós me reduzistes ao pó da morte."
+    },
+    {
+      "numero": 17,
+      "texto": "Sim, rodeia-me uma malta de cães, cerca-me um bando de malfeitores. Traspassaram minhas mãos e meus pés:"
+    },
+    {
+      "numero": 18,
+      "texto": "poderia contar todos os meus ossos. Eles me olham e me observam com alegria,"
+    },
+    {
+      "numero": 19,
+      "texto": "repartem entre si as minhas vestes, e lançam sorte sobre a minha túnica.",
+      "nota": true
+    },
+    {
+      "numero": 20,
+      "texto": "Porém, vós, Senhor, não vos afasteis de mim; ó meu auxílio, bem depressa me ajudai."
+    },
+    {
+      "numero": 21,
+      "texto": "Livrai da espada a minha alma, e das garras dos cães a minha vida."
+    },
+    {
+      "numero": 22,
+      "texto": "Salvai-me a mim, mísero, das fauces do leão e dos chifres dos búfalos."
+    },
+    {
+      "numero": 23,
+      "texto": "Então, anunciarei vosso nome a meus irmãos, e vos louvarei no meio da assembleia.",
+      "nota": true
+    },
+    {
+      "numero": 24,
+      "texto": "“Vós que temeis o Senhor, louvai-o; vós todos, descendentes de Jacó, aclamai-o; temei-o, todos vós, estirpe de Israel,"
+    },
+    {
+      "numero": 25,
+      "texto": "porque ele não rejeitou nem desprezou a miséria do infeliz, nem dele desviou a sua face, mas o ouviu, quando lhe suplicava.”"
+    },
+    {
+      "numero": 26,
+      "texto": "De vós procede o meu louvor na grande assembleia, cumprirei meus votos na presença dos que vos temem."
+    },
+    {
+      "numero": 27,
+      "texto": "Os pobres comerão e serão saciados; louvarão o Senhor aqueles que o procuram: “Vivam para sempre os nossos corações”."
+    },
+    {
+      "numero": 28,
+      "texto": "Hão de se lembrar do Senhor e a ele se converter todos os povos da terra; e diante dele se prostrarão todas as famílias das nações,"
+    },
+    {
+      "numero": 29,
+      "texto": "porque a realeza pertence ao Senhor e ele impera sobre as nações."
+    },
+    {
+      "numero": 30,
+      "texto": "Todos os que dormem no seio da terra o adorarão; diante dele se prostrarão os que retornam ao pó."
+    },
+    {
+      "numero": 31,
+      "texto": "Para ele viverá a minha alma, há de servi-lo minha descendência. Ela falará do Senhor às gerações futuras e proclamará sua justiça ao povo que vai nascer: “Eis o que fez o Senhor”.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "21:1-2",
+      "texto": "O salmista exalta a alegria do rei diante das vitórias que Deus lhe concede. Isso ressalta a importância da confiança em Deus como fonte de força e triunfo, refletindo a relação entre fé e sucesso (veja também Salmo 20:7 e Filipenses 4:13)."
+    },
+    {
+      "ref": "21:3-5",
+      "texto": "Deus responde ao desejo do rei com bênçãos de longevidade e glória. Isso demonstra a fidelidade de Deus em atender as orações dos justos e sua disposição em abençoar aqueles que O buscam (veja também Salmo 91:15-16 e 1 João 5:14-15)."
+    },
+    {
+      "ref": "21:6-7",
+      "texto": "A segurança do rei em Deus é enfatizada, mostrando que sua confiança não está nas forças humanas, mas na proteção divina. Isso reflete a importância da fé em tempos de adversidade (veja também Provérbios 3:5-6 e Salmo 46:1)."
+    },
+    {
+      "ref": "21:8-10",
+      "texto": "O salmista declara que os inimigos do rei serão derrotados. Essa mensagem enfatiza o julgamento de Deus sobre os ímpios e Sua justiça em proteger os justos (veja também Salmo 37:9-10 e Romanos 12:19)."
+    },
+    {
+      "ref": "21:11-13",
+      "texto": "O salmo conclui com um clamor por força e proteção contínuas, reconhecendo a soberania de Deus. Isso serve como um lembrete da necessidade de perseverança na oração e na dependência de Deus (veja também Salmo 31:14-15 e Hebreus 4:16)."
+    }
+  ]
+}

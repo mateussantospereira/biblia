@@ -1,0 +1,161 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-corintios",
+  "nome": "I Coríntios",
+  "testamento": "NT",
+  "capitulo": 1,
+  "totalVersiculos": 31,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-corintios/1/",
+  "capturadoEm": "2026-11-15T09:27:53-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Paulo, apóstolo de Jesus Cristo por chamado e vontade de Deus, e o irmão Sóstenes,"
+    },
+    {
+      "numero": 2,
+      "texto": "à igreja de Deus que está em Corinto, aos fiéis santificados em Jesus Cristo, chamados à santidade, juntamente com todos os que, em qualquer lugar que estejam, invocam o nome de nosso Senhor Jesus Cristo, Senhor deles e nosso;"
+    },
+    {
+      "numero": 3,
+      "texto": "a vós, graça e paz da parte de Deus, nosso Pai, e da parte do Senhor Jesus Cristo!"
+    },
+    {
+      "numero": 4,
+      "texto": "Não cesso de agradecer a Deus por vós, pela graça divina que vos foi dada em Jesus Cristo."
+    },
+    {
+      "numero": 5,
+      "texto": "Nele fostes ricamente contemplados com todos os dons, com os da palavra e os da ciência,"
+    },
+    {
+      "numero": 6,
+      "texto": "tão solidamente foi confirmado em vós o testemunho de Cristo."
+    },
+    {
+      "numero": 7,
+      "texto": "Assim, enquanto aguardais a manifestação de nosso Senhor Jesus Cristo, não vos falta dom algum."
+    },
+    {
+      "numero": 8,
+      "texto": "Ele há de vos confirmar até o fim, para que sejais irrepreensíveis no dia de nosso Senhor Jesus Cristo.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Fiel é Deus, por quem fostes chamados à comunhão de seu Filho Jesus Cristo, nosso Senhor."
+    },
+    {
+      "numero": 10,
+      "texto": "Rogo-vos, irmãos, em nome de nosso Senhor Jesus Cristo, que todos estejais em pleno acordo e que não haja entre vós divisões. Vivei em boa harmonia, no mesmo espírito e no mesmo sentimento."
+    },
+    {
+      "numero": 11,
+      "texto": "Pois acerca de vós, irmãos meus, fui informado pelos que são da casa de Cloé, que há contendas entre vós."
+    },
+    {
+      "numero": 12,
+      "texto": "Refiro-me ao fato de entre vós se usar esta linguagem: “Eu sou discípulo de Paulo; eu, de Apolo; eu, de Cefas; eu, de Cristo”.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Então, estaria Cristo dividido? É Paulo quem foi crucificado por vós? É em nome de Paulo que fostes batizados?"
+    },
+    {
+      "numero": 14,
+      "texto": "Graças a Deus, não batizei nenhum de vós, à exceção de Crispo e Gaio."
+    },
+    {
+      "numero": 15,
+      "texto": "Assim ninguém poderá dizer que fostes batizados em meu nome."
+    },
+    {
+      "numero": 16,
+      "texto": "(Aliás, batizei também a família de Estéfanas. Além destes, não me consta ter batizado ninguém mais.)"
+    },
+    {
+      "numero": 17,
+      "texto": "Cristo não me enviou para batizar, mas para pregar o Evangelho; e isso sem recorrer à habilidade da arte oratória, para que não se desvirtue a cruz de Cristo."
+    },
+    {
+      "numero": 18,
+      "texto": "A linguagem da cruz é loucura para os que se perdem, mas, para os que foram salvos, para nós, é uma força divina."
+    },
+    {
+      "numero": 19,
+      "texto": "Está escrito: Destruirei a sabedoria dos sábios, e anularei a prudência dos prudentes (Is 29,14)."
+    },
+    {
+      "numero": 20,
+      "texto": "Onde está o sábio? Onde o erudito? Onde o argumentador deste mundo? Acaso não declarou Deus por loucura a sabedoria deste mundo?"
+    },
+    {
+      "numero": 21,
+      "texto": "Já que o mundo, com a sua sabedoria, não reconheceu a Deus na sabedoria divina, aprouve a Deus salvar os que creem pela loucura de sua mensagem.",
+      "nota": true
+    },
+    {
+      "numero": 22,
+      "texto": "Os judeus pedem milagres, os gregos reclamam a sabedoria;"
+    },
+    {
+      "numero": 23,
+      "texto": "mas nós pregamos Cristo crucificado, escândalo para os judeus e loucura para os pagãos;"
+    },
+    {
+      "numero": 24,
+      "texto": "mas, para os eleitos – quer judeus quer gregos –, força de Deus e sabedoria de Deus."
+    },
+    {
+      "numero": 25,
+      "texto": "Pois a loucura de Deus é mais sábia do que os homens, e a fraqueza de Deus é mais forte do que os homens.",
+      "nota": true
+    },
+    {
+      "numero": 26,
+      "texto": "Vede, irmãos, o vosso grupo de eleitos: não há entre vós muitos sábios, humanamente falando, nem muitos poderosos, nem muitos nobres.",
+      "nota": true
+    },
+    {
+      "numero": 27,
+      "texto": "O que é estulto no mundo, Deus o escolheu para confundir os sábios; e o que é fraco no mundo, Deus o escolheu para confundir os fortes;"
+    },
+    {
+      "numero": 28,
+      "texto": "e o que é vil e desprezível no mundo, Deus o escolheu, como também aquelas coisas que nada são, para destruir as que são."
+    },
+    {
+      "numero": 29,
+      "texto": "Assim, nenhuma criatura se vangloriará diante de Deus."
+    },
+    {
+      "numero": 30,
+      "texto": "É por sua graça que estais em Jesus Cristo, que, da parte de Deus, se tornou para nós sabedoria, justiça, santificação e redenção,"
+    },
+    {
+      "numero": 31,
+      "texto": "para que, como está escrito: quem se gloria, glorie-se no Senhor (Jr 9,23).",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:10-13",
+      "texto": "Paulo apela à unidade na igreja, advertindo contra as divisões causadas por lealdade a líderes humanos. A verdadeira unidade vem de Cristo e não de seguidores de Apolo, Paulo ou Pedro (veja também João 17:21 e Efésios 4:3)."
+    },
+    {
+      "ref": "1:18-21",
+      "texto": "A mensagem da cruz é loucura para os sábios deste mundo, mas é o poder de Deus para os que são salvos. Este contraste entre sabedoria humana e divina é central para a compreensão do evangelho (veja também Isaías 29:14 e Mateus 11:25-26)."
+    },
+    {
+      "ref": "1:26-29",
+      "texto": "Deus escolheu os fracos e os humildes para confundir os sábios e poderosos, destacando que a salvação não vem pela sabedoria humana, mas pela graça de Deus (veja também Mateus 11:25 e Tiago 2:5)."
+    },
+    {
+      "ref": "1:30-31",
+      "texto": "Cristo é a nossa sabedoria, justiça, santificação e redenção. A salvação é um ato de Deus, não algo que podemos conquistar, e é dada àqueles que são humildes diante de Sua graça (veja também Jeremias 23:6 e Filipenses 3:9)."
+    }
+  ]
+}

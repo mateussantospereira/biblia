@@ -1,0 +1,105 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ester",
+  "nome": "Ester",
+  "testamento": "AT",
+  "capitulo": 4,
+  "totalVersiculos": 17,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ester/4/",
+  "capturadoEm": "2026-11-15T09:15:05-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Quando Mardoqueu soube o que se tinha passado rasgou suas vestes, cobriu-se de saco e de cinza. Em seguida, percorreu a cidade, dando gritos de dor."
+    },
+    {
+      "numero": 2,
+      "texto": "Veio desse modo até diante da porta do rei, pela qual ninguém tinha o direito de passar com vestes de luto.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Em cada província, em toda a parte onde chegavam a ordem do rei e seu edito, havia grande desolação entre os judeus. Jejuaram, choraram e fizeram lamentações; e muitos se deitavam sobre o saco e a cinza."
+    },
+    {
+      "numero": 4,
+      "texto": "As servas de Ester e seus eunucos vieram contar-lhe o que se passava, e isso lhe causou grande temor. Mandou roupas para revestir Mardoqueu, fazendo-lhe despir o saco de que estava coberto, mas ele não as aceitou."
+    },
+    {
+      "numero": 5,
+      "texto": "Então, Ester, chamando Atac, um dos eunucos que o rei tinha colocado a seu serviço, encarregou-o de perguntar a Mardoqueu o que significavam aqueles sinais de dor."
+    },
+    {
+      "numero": 6,
+      "texto": "Atac foi ter com Mardoqueu, que estava na praça da cidade, diante da porta do rei."
+    },
+    {
+      "numero": 7,
+      "texto": "Soube dele tudo o que tinha acontecido e a quantia de dinheiro que Amã tinha prometido depositar no tesouro real, em troca da destruição dos judeus."
+    },
+    {
+      "numero": 8,
+      "texto": "Mardoqueu lhe entregou também uma cópia do edito, publicado em Susa, para exterminá-los. Devia mostrá-la a Ester, para que ficasse informada de tudo e movê-la a ir ter com o rei para implorar sua graça e interceder junto dele em favor do povo."
+    },
+    {
+      "numero": 9,
+      "texto": "Atac veio relatar a Ester as palavras de Mardoqueu,"
+    },
+    {
+      "numero": 10,
+      "texto": "mas a rainha mandou Atac responder-lhe:"
+    },
+    {
+      "numero": 11,
+      "texto": "“Todos os servos do rei e o povo de suas províncias sabem bem que, para quem quer que seja, homem ou mulher, que penetrar sem ser chamado na câmara interior do palácio, há uma lei real condenando-o à morte, exceção feita somente àquele para o qual o rei estender seu cetro de ouro, conservando-lhe a vida. E eis que são já trinta dias que não sou chamada à presença do rei”."
+    },
+    {
+      "numero": 12,
+      "texto": "As palavras de Ester foram referidas a Mardoqueu, que lhe mandou responder:"
+    },
+    {
+      "numero": 13,
+      "texto": "“Não imagines que serás a única entre todos os judeus a escapar, por estares no palácio."
+    },
+    {
+      "numero": 14,
+      "texto": "Se te calares agora, o socorro e a libertação virão aos judeus de outra parte; mas tu e a casa de teu pai perecereis. E quem sabe se não foi para essas circunstâncias que chegaste à realeza?”."
+    },
+    {
+      "numero": 15,
+      "texto": "Ester mandou responder a Mardoqueu:"
+    },
+    {
+      "numero": 16,
+      "texto": "“Vai reunir todos os judeus de Susa. Jejuai por mim sem comer nem beber durante três dias e três noites. Eu e minhas servas também jejuaremos. Depois disso, apesar da lei, irei ter com o rei. Se for preciso morrer, morrerei”.",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "Mardoqueu se retirou e fez o que Ester pediu."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "4:1-3",
+      "texto": "A resposta de Mordecai ao decreto revela a dor e o desespero do povo judeu. O luto e o arrependimento são sinais da necessidade de voltar-se para Deus em busca de ajuda e direção (veja também Salmo 30:5 e Joel 2:12-13)."
+    },
+    {
+      "ref": "4:4-8",
+      "texto": "Ester recebe a mensagem de Mordecai e se vê confrontada com a realidade da situação. A disposição de Mordecai em informar Ester sobre o perigo é um exemplo da responsabilidade de todos na luta pela justiça (veja também Provérbios 27:17 e Gálatas 6:2)."
+    },
+    {
+      "ref": "4:9-11",
+      "texto": "A hesitação de Ester em se apresentar ao rei reflete o medo e a pressão da cultura persa. Essa situação destaca a coragem necessária para se posicionar em favor dos oprimidos (veja também 2 Timóteo 1:7 e Efésios 6:10-11)."
+    },
+    {
+      "ref": "4:12-14",
+      "texto": "A declaração de Mordecai sobre o destino de Ester e a possibilidade de que ela tenha sido chamada para tal posição é um lembrete poderoso da soberania de Deus. Ele usa pessoas e circunstâncias para cumprir Seus propósitos (veja também Jeremias 29:11 e Romanos 8:28)."
+    },
+    {
+      "ref": "4:15-17",
+      "texto": "A decisão de Ester de interceder pelo povo demonstra fé e coragem. A importância da oração e do jejum é ressaltada como preparação para enfrentar desafios. A ação coletiva do povo de Deus é vital para a vitória espiritual (veja também Mateus 17:21 e 1 Tessalonicenses 5:16-18)."
+    }
+  ]
+}

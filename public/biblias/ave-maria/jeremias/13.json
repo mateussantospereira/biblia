@@ -1,0 +1,146 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "jeremias",
+  "nome": "Jeremias",
+  "testamento": "AT",
+  "capitulo": 13,
+  "totalVersiculos": 27,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/jeremias/13/",
+  "capturadoEm": "2026-11-15T09:22:33-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Disse-me o Senhor: “Vai e compra um cinto de linho e coloca-o sobre os rins, sem, contudo, mergulhá-lo na água”.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Comprei-o, conforme ordenara o Senhor, e com ele me cingi."
+    },
+    {
+      "numero": 3,
+      "texto": "Pela segunda vez, assim me falou o Senhor:"
+    },
+    {
+      "numero": 4,
+      "texto": "“Toma o cinto que compraste e que trazes contigo e encaminha-te para as margens do Eufrates. Lá ocultarás esse cinto na cavidade de um rochedo”."
+    },
+    {
+      "numero": 5,
+      "texto": "Fui assim escondê-lo, junto do Eufrates, como me havia dito o Senhor."
+    },
+    {
+      "numero": 6,
+      "texto": "Tempos depois, voltou o Senhor a dizer-me: “Põe-te a caminho em demanda das margens do Eufrates, a fim de buscar o cinto que, conforme minhas ordens, lá escondeste”."
+    },
+    {
+      "numero": 7,
+      "texto": "Dirigi-me, então, ao rio e, tendo cavado, retirei o cinto do local onde o escondera. O cinto, porém, apodrecera, e para nada mais servia."
+    },
+    {
+      "numero": 8,
+      "texto": "Então, nestes termos, foi-me dirigida a palavra do Senhor:"
+    },
+    {
+      "numero": 9,
+      "texto": "“Eis o que diz o Senhor: assim também destruirei a soberba de Judá, e o orgulho imenso de Jerusalém."
+    },
+    {
+      "numero": 10,
+      "texto": "Esse povo perverso que recusa executar-me as ordens, que segue os pendores do coração empedernido, que corre aos deuses estranhos para render-lhes homenagens e prostrar-se ante eles, se tornará semelhante a esse cinto sem mais serventia alguma."
+    },
+    {
+      "numero": 11,
+      "texto": "À semelhança de um cinto que se prende aos rins de um homem, assim uni a mim toda a casa de Israel e toda a casa de Judá – oráculo do Senhor –, a fim de que constituíssem meu povo, minha honra, glória e ufania. Elas, porém, não obedeceram”."
+    },
+    {
+      "numero": 12,
+      "texto": "“Vai, portanto, e assim lhes fala: Eis o que diz o Senhor, Deus de Israel: uma vasilha é destinada a ser enchida de vinho. Responderão eles: bem sabíamos que toda vasilha é para ser enchida de vinho!"
+    },
+    {
+      "numero": 13,
+      "texto": "Mas tu lhes dirás: Eis o que diz o Senhor: Vou encher de embriaguez todos os habitantes desta terra: os reis que ocupam o trono de Davi, os sacerdotes, os profetas e a população inteira de Jerusalém;"
+    },
+    {
+      "numero": 14,
+      "texto": "e vou quebrá-los, uns contra os outros, pais e filhos – oráculo do Senhor –, sem que compaixão, piedade ou perdão me impeçam de destruí-los.”",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Escutai, prestai ouvidos e não vos enchais de orgulho, pois quem fala é o Senhor.",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "Rendei glória ao Senhor, vosso Deus, antes que surjam as trevas, e antes que se choquem vossos pés nos montes invadidos pelas sombras. A luz que esperais será transformada em escuridão, pois que ele a converterá em noite profunda."
+    },
+    {
+      "numero": 17,
+      "texto": "Se não prestardes ouvidos, a minha alma derramará lágrimas em segredo por vosso orgulho, e meus olhos se fundirão em pranto, por causa da deportação do rebanho do Senhor."
+    },
+    {
+      "numero": 18,
+      "texto": "Dize ao rei e à rainha: sentai-vos no chão, porque caiu de vossa cabeça o diadema que a ornava."
+    },
+    {
+      "numero": 19,
+      "texto": "As cidades do sul estão fechadas, e não há quem as abra. Judá foi arrebatada; completou-se a deportação."
+    },
+    {
+      "numero": 20,
+      "texto": "Ergue os olhos; vê os que chegam do norte. Onde está o rebanho que te fora confiado, onde os carneiros que constituíam tua glória?"
+    },
+    {
+      "numero": 21,
+      "texto": "Que dirás, quando Deus te der por senhores aqueles que exercitaste contra ti? E acaso não se apossarão de ti dores quais as da mulher que está de parto?"
+    },
+    {
+      "numero": 22,
+      "texto": "Se vieres a dizer em teu coração: “Por que me acontecem tais coisas?”. É por causa da enormidade de tua falta que foram levantadas as tuas vestes e puseram brutalmente teu calcanhar a nu."
+    },
+    {
+      "numero": 23,
+      "texto": "Pode um etíope mudar a própria pele? Ou um leopardo apagar as malhas de que se reveste? E vós, como podereis praticar o bem, se estais impregnados de maldade?"
+    },
+    {
+      "numero": 24,
+      "texto": "Eu os dispersarei como palha que o vento do deserto arrebata."
+    },
+    {
+      "numero": 25,
+      "texto": "Tal é teu destino, a partilha que receberás de mim – oráculo do Senhor –, porque te esqueceste de mim, confiando no que é apenas mentira."
+    },
+    {
+      "numero": 26,
+      "texto": "Até a cabeça erguerei tuas vestes, a fim de expor aos olhares tua nudez!"
+    },
+    {
+      "numero": 27,
+      "texto": "Teus adultérios e desregramentos, e tua luxúria infame nas colinas e nos campos, todas essas abominações, eu as vi. Desgraçadas de ti, Jerusalém! Por quanto tempo, ainda, permanecerás impura?"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "13:1-11",
+      "texto": "A parábola do cinto sujo é usada para ilustrar a corrupção do povo de Judá. Deus compara Israel a um cinto, que, quando usado incorretamente, se torna inútil. A desobediência ao Senhor leva à degradação espiritual (veja também Ezequiel 16:59-63 e Salmo 32:9)."
+    },
+    {
+      "ref": "13:12-14",
+      "texto": "A profecia de que os jarros de vinho se quebrarão simboliza a destruição iminente de Judá. O orgulho do povo e sua confiança nas riquezas serão destruídos pelo juízo divino (veja também Amós 6:6 e Isaías 22:12-14)."
+    },
+    {
+      "ref": "13:15-17",
+      "texto": "O chamado ao arrependimento é feito para evitar a destruição. Deus adverte o povo a não endurecer o coração, pois o juízo divino se aproxima, e o arrependimento é a única forma de evitar a calamidade (veja também 2 Crônicas 7:14 e Joel 2:12-13)."
+    },
+    {
+      "ref": "13:18-23",
+      "texto": "A humilhação de Judá e o juízo sobre a nação são preditos, pois o povo se afastou de Deus. A analogia com a mulher e o cinto ilustra a proximidade do juízo que será imposto sobre Judá (veja também 2 Reis 24:10-16 e Lamentações 1:18)."
+    },
+    {
+      "ref": "13:24-27",
+      "texto": "O povo será espalhado entre as nações, e suas idolatrias serão punidas. Deus fala contra o orgulho do povo, anunciando a dispersão e a punição pelo pecado, mas com a esperança de um futuro retorno (veja também Ezequiel 36:19-21 e João 7:34)."
+    }
+  ]
+}

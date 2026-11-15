@@ -1,0 +1,200 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "jo",
+  "nome": "Jó",
+  "testamento": "AT",
+  "capitulo": 31,
+  "totalVersiculos": 40,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/jo/31/",
+  "capturadoEm": "2026-11-15T09:15:50-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eu havia feito um pacto com os meus olhos, para não desejar nunca olhar para uma virgem."
+    },
+    {
+      "numero": 2,
+      "texto": "Que parte me daria Deus lá do alto, que sorte o Todo-poderoso me enviaria do céu?"
+    },
+    {
+      "numero": 3,
+      "texto": "Acaso a infelicidade não está reservada ao injusto e o infortúnio ao iníquo?"
+    },
+    {
+      "numero": 4,
+      "texto": "Não conhece Deus os meus caminhos e não conta todos os meus passos?"
+    },
+    {
+      "numero": 5,
+      "texto": "Se caminhei com a mentira e meu pé correu atrás da fraude,"
+    },
+    {
+      "numero": 6,
+      "texto": "que Deus me pese na balança da justiça e reconhecerá a minha integridade."
+    },
+    {
+      "numero": 7,
+      "texto": "Se meus passos se desviaram do caminho e meu coração seguiu meus olhos, e se às minhas mãos se apegou qualquer mácula,"
+    },
+    {
+      "numero": 8,
+      "texto": "que semeie eu e outro o coma, e minhas plantações sejam desenraizadas!"
+    },
+    {
+      "numero": 9,
+      "texto": "Se meu coração foi seduzido por uma mulher, se fiquei à espreita à porta de meu vizinho,"
+    },
+    {
+      "numero": 10,
+      "texto": "que minha mulher gire a mó para um outro e que estranhos a possuam!"
+    },
+    {
+      "numero": 11,
+      "texto": "Pois isso seria um crime, um delito digno de julgamento,"
+    },
+    {
+      "numero": 12,
+      "texto": "um fogo que devoraria até o abismo e que teria arruinado todos os meus bens."
+    },
+    {
+      "numero": 13,
+      "texto": "Nunca violei o direito de meu escravo ou de minha serva, em suas discussões comigo."
+    },
+    {
+      "numero": 14,
+      "texto": "Que farei eu quando Deus se levantar? Quando me interrogar, que lhe responderei?"
+    },
+    {
+      "numero": 15,
+      "texto": "Aquele que me criou no ventre, não o criou também a ele? Um mesmo criador nos formou!"
+    },
+    {
+      "numero": 16,
+      "texto": "Acaso recusei aos pobres aquilo que desejavam e fiz desfalecer os olhos da viúva?"
+    },
+    {
+      "numero": 17,
+      "texto": "Ou comi sozinho meu pedaço de pão, sem que o órfão tivesse a sua parte?"
+    },
+    {
+      "numero": 18,
+      "texto": "Antes, desde minha infância cuidei-o como um pai e desde o ventre materno fui o seu guia."
+    },
+    {
+      "numero": 19,
+      "texto": "Se vi perecer um homem por falta de roupa e um pobre que não tinha com que cobrir-se,"
+    },
+    {
+      "numero": 20,
+      "texto": "sem que seus rins me tenham abençoado, aquecido como estava com a lã de minhas ovelhas;"
+    },
+    {
+      "numero": 21,
+      "texto": "se levantei a mão contra o órfão, quando me via apoiado pelos juízes,",
+      "nota": true
+    },
+    {
+      "numero": 22,
+      "texto": "que meu ombro caia de minhas costas e meu braço seja arrancado de seu cotovelo!"
+    },
+    {
+      "numero": 23,
+      "texto": "Pois o terror de Deus me invadiu e diante de sua majestade não posso subsistir."
+    },
+    {
+      "numero": 24,
+      "texto": "Nunca pus no ouro minha segurança e jamais disse ao ouro puro: ‘És minha esperança!’."
+    },
+    {
+      "numero": 25,
+      "texto": "Nunca me rejubilei por ser grande a minha riqueza, nem pelo fato de minha mão ter ajuntado muito."
+    },
+    {
+      "numero": 26,
+      "texto": "Quando via o sol brilhar e a lua levantar-se em seu esplendor,"
+    },
+    {
+      "numero": 27,
+      "texto": "jamais meu coração deixou-se seduzir em segredo e minha mão não foi levada à boca para um beijo.",
+      "nota": true
+    },
+    {
+      "numero": 28,
+      "texto": "Isso seria um crime digno de castigo, pois eu teria renegado o Deus que está no alto."
+    },
+    {
+      "numero": 29,
+      "texto": "Nunca me alegrei com a ruína de meu inimigo, nem exultei quando a infelicidade o feriu."
+    },
+    {
+      "numero": 30,
+      "texto": "Não permiti que minha boca pecasse, reclamando sua morte por uma imprecação."
+    },
+    {
+      "numero": 31,
+      "texto": "Jamais as pessoas de minha tenda me disseram: ‘Há alguém que não tenha ficado satisfeito da carne?’.",
+      "nota": true
+    },
+    {
+      "numero": 32,
+      "texto": "O estrangeiro não passava a noite fora, eu abria a minha porta ao viajante."
+    },
+    {
+      "numero": 33,
+      "texto": "Nunca dissimulei minha culpa aos homens, escondendo em meu peito minha iniquidade,"
+    },
+    {
+      "numero": 34,
+      "texto": "como se temesse a multidão e receasse o desprezo das famílias, a ponto de me manter quieto sem pôr o pé fora da porta."
+    },
+    {
+      "numero": 35,
+      "texto": "Oh! Se eu tivesse alguém para me ouvir! Eis a minha assinatura: que o Todo-poderoso me responda! Que o meu adversário escreva também um memorial."
+    },
+    {
+      "numero": 36,
+      "texto": "Por certo eu o carregaria sobre meus ombros e cingiria minha fronte com ele como de uma coroa!"
+    },
+    {
+      "numero": 37,
+      "texto": "Eu lhe prestaria contas de todos os meus passos e me apresentaria diante dele altivo como um príncipe."
+    },
+    {
+      "numero": 38,
+      "texto": "Se minha terra clamou contra mim e seus sulcos derramaram lágrimas,",
+      "nota": true
+    },
+    {
+      "numero": 39,
+      "texto": "se comi seus frutos sem pagar, se afligi os seus donos,"
+    },
+    {
+      "numero": 40,
+      "texto": "que em vez de trigo nasçam espinhos e joio em vez de cevada!”. Aqui terminam os discursos de Jó.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "31:1-4",
+      "texto": "Jó reafirma sua integridade e retidão, fazendo um voto de pureza. Este compromisso pessoal enfatiza a importância de viver de acordo com os princípios de Deus, mesmo em meio à adversidade (veja também Salmo 26:1-2 e 1 Pedro 1:15-16)."
+    },
+    {
+      "ref": "31:5-8",
+      "texto": "Jó desafia qualquer acusação de desonestidade, afirmando que suas ações são justas. A honestidade e a responsabilidade são características fundamentais na vida de um crente, que deve sempre buscar a verdade (veja também Provérbios 12:22 e Efésios 4:25)."
+    },
+    {
+      "ref": "31:9-12",
+      "texto": "Jó menciona o adultério e a necessidade de pureza sexual, ressaltando a seriedade desse pecado. A santidade na vida pessoal e nas relações é uma prioridade para aqueles que desejam agradar a Deus (veja também Hebreus 13:4 e 1 Coríntios 6:18-20)."
+    },
+    {
+      "ref": "31:13-15",
+      "texto": "Ele reflete sobre como tratou seus servos, reconhecendo a igualdade de todos diante de Deus. A justiça social é um princípio que deve guiar a vida dos crentes, reconhecendo a dignidade de cada pessoa (veja também Gálatas 3:28 e Tiago 2:1-9)."
+    },
+    {
+      "ref": "31:16-23",
+      "texto": "Jó menciona sua responsabilidade com os pobres e necessitados, sublinhando a importância da compaixão e do apoio mútuo. Essa chamada à ação prática é essencial na vivência da fé (veja também 1 João 3:17 e Provérbios 19:17)."
+    }
+  ]
+}

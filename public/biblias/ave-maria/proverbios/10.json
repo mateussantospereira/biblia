@@ -1,0 +1,168 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "proverbios",
+  "nome": "Provérbios",
+  "testamento": "AT",
+  "capitulo": 10,
+  "totalVersiculos": 32,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/proverbios/10/",
+  "capturadoEm": "2026-11-15T09:19:19-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O filho sábio é a alegria de seu pai; o insensato, porém, a aflição de sua mãe."
+    },
+    {
+      "numero": 2,
+      "texto": "Tesouros mal adquiridos de nada servem, mas a justiça livra da morte.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "O Senhor não deixa o justo passar fome, mas repele a cobiça do ímpio."
+    },
+    {
+      "numero": 4,
+      "texto": "A mão preguiçosa causa a indigência; a mão diligente se enriquece."
+    },
+    {
+      "numero": 5,
+      "texto": "Quem recolhe no verão é um filho prudente; quem dorme na ceifa merece a vergonha."
+    },
+    {
+      "numero": 6,
+      "texto": "As bênçãos descansam sobre a cabeça do justo, mas a boca dos maus oculta a injustiça."
+    },
+    {
+      "numero": 7,
+      "texto": "A memória do justo alcança as bênçãos; o nome dos ímpios apodrecerá."
+    },
+    {
+      "numero": 8,
+      "texto": "O sábio de coração recebe os preceitos, mas o insensato caminha para a ruína."
+    },
+    {
+      "numero": 9,
+      "texto": "Quem anda na integridade caminha com segurança, mas quem emprega astúcias será descoberto."
+    },
+    {
+      "numero": 10,
+      "texto": "Quem pisca os olhos traz desgosto, mas o que repreende com franqueza procura a paz.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "A boca do justo é uma fonte de vida; a do ímpio, porém, esconde injustiça."
+    },
+    {
+      "numero": 12,
+      "texto": "O ódio desperta rixas; a caridade, porém, supre todas as faltas.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Nos lábios do sábio encontra-se a sabedoria; no dorso do insensato a correção."
+    },
+    {
+      "numero": 14,
+      "texto": "Os sábios entesouram a sabedoria, mas a boca do tolo é uma desgraça sempre ameaçadora."
+    },
+    {
+      "numero": 15,
+      "texto": "A fortuna do rico é a sua cidade forte; a pobreza dos indigentes ocasiona-lhes ruína."
+    },
+    {
+      "numero": 16,
+      "texto": "O salário do justo é para a vida; o fruto do ímpio produz o pecado.",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "O que observa a disciplina está no caminho da vida; anda errado o que esquece a repressão."
+    },
+    {
+      "numero": 18,
+      "texto": "Quem dissimula o ódio é um mistificador; um insensato o que profere calúnias."
+    },
+    {
+      "numero": 19,
+      "texto": "Não pode faltar o pecado num caudal de palavras; quem modera os lábios é um homem prudente."
+    },
+    {
+      "numero": 20,
+      "texto": "A língua do justo é prata finíssima; o coração dos maus, porém, para nada serve."
+    },
+    {
+      "numero": 21,
+      "texto": "Os lábios dos justos nutrem a muitos; mas os néscios perecem por falta de inteligência."
+    },
+    {
+      "numero": 22,
+      "texto": "É a bênção do Senhor que enriquece; o labor nada acrescenta a ela."
+    },
+    {
+      "numero": 23,
+      "texto": "É um divertimento para o ímpio praticar o mal; e para o sensato, ser sábio."
+    },
+    {
+      "numero": 24,
+      "texto": "O que receia o mal, este cai sobre ele. O desejo do justo lhe é concedido."
+    },
+    {
+      "numero": 25,
+      "texto": "Quando passa a tormenta, desaparece o perverso, mas o justo descansa sobre fundamentos duráveis."
+    },
+    {
+      "numero": 26,
+      "texto": "Como o vinagre nos dentes e a fumaça nos olhos, assim é o preguiçoso para os que o mandam."
+    },
+    {
+      "numero": 27,
+      "texto": "O temor do Senhor prolonga os dias, mas os anos dos ímpios serão abreviados."
+    },
+    {
+      "numero": 28,
+      "texto": "A expectativa dos justos causa alegria; a esperança dos ímpios, porém, perecerá."
+    },
+    {
+      "numero": 29,
+      "texto": "Para o homem íntegro o Senhor é uma fortaleza, mas é a ruína dos que fazem o mal."
+    },
+    {
+      "numero": 30,
+      "texto": "Jamais o justo será abalado, mas os ímpios não habitarão a terra.",
+      "nota": true
+    },
+    {
+      "numero": 31,
+      "texto": "A boca do justo produz sabedoria, mas a língua perversa será arrancada."
+    },
+    {
+      "numero": 32,
+      "texto": "Os lábios do justo sabem dizer o que é agradável; a boca dos maus, o que é mau."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "10:1",
+      "texto": "“O filho sábio é a alegria do pai; o filho insensato é a tristeza de sua mãe.” Este provérbio destaca a importância da sabedoria nos relacionamentos familiares, mostrando que as ações dos filhos afetam profundamente seus pais (veja também Provérbios 17:21 e Efésios 6:1-3)."
+    },
+    {
+      "ref": "10:4-5",
+      "texto": "A diligência conduz à riqueza, enquanto a preguiça leva à pobreza. O provérbio valoriza o trabalho árduo e a prudência, mostrando que o sucesso está diretamente relacionado ao esforço e à responsabilidade (veja também Provérbios 6:6-8 e Colossenses 3:23-24)."
+    },
+    {
+      "ref": "10:12",
+      "texto": "“O ódio provoca brigas, mas o amor cobre todas as ofensas.” O poder do amor para promover a reconciliação e a paz é enfatizado aqui, em contraste com o ódio que leva à divisão e conflito (veja também 1 Pedro 4:8 e 1 Coríntios 13:4-7)."
+    },
+    {
+      "ref": "10:19",
+      "texto": "O provérbio ensina que “quando as palavras são muitas, o pecado está presente”, aconselhando a moderação no falar. A sabedoria envolve saber quando e como falar, evitando o pecado por meio da prudência nas palavras (veja também Tiago 1:19 e Tiago 3:2-6)."
+    },
+    {
+      "ref": "10:22",
+      "texto": "“A bênção do Senhor enriquece, e Ele não a acrescenta dores.” Isso destaca que a verdadeira riqueza e prosperidade vêm de Deus e não trazem tristeza, ao contrário das riquezas obtidas de maneira injusta (veja também Salmo 127:2 e 1 Timóteo 6:6-10)."
+    }
+  ]
+}

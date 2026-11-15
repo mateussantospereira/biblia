@@ -1,0 +1,56 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 1,
+  "totalVersiculos": 6,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/1/",
+  "capturadoEm": "2026-11-15T09:16:02-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Feliz o homem que não procede conforme o conselho dos ímpios, não trilha o caminho dos pecadores, nem se assenta entre os escarnecedores.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Feliz aquele que se compraz no serviço do Senhor e medita sua lei dia e noite."
+    },
+    {
+      "numero": 3,
+      "texto": "Ele é como a árvore plantada na margem das águas correntes: dá fruto na época própria, sua folhagem não murchará jamais. Tudo o que empreende, prospera."
+    },
+    {
+      "numero": 4,
+      "texto": "Os ímpios não são assim! Mas são como a palha que o vento leva."
+    },
+    {
+      "numero": 5,
+      "texto": "Por isso não suportarão o juízo, nem permanecerão os pecadores na assembleia dos justos."
+    },
+    {
+      "numero": 6,
+      "texto": "Porque o Senhor vela pelo caminho dos justos, ao passo que o dos ímpios leva à perdição."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:1-2",
+      "texto": "O Salmo 1 apresenta o contraste entre o justo e o ímpio, destacando a importância de evitar más companhias. A felicidade do justo é ligada à sua meditação na Lei do Senhor, que oferece sabedoria e direção para a vida (veja também Provérbios 4:14-15 e Josué 1:8)."
+    },
+    {
+      "ref": "1:3",
+      "texto": "O justo é comparado a uma árvore plantada junto a ribeiros de água, simbolizando a estabilidade e a frutificação que vêm de uma vida enraizada em Deus. Isso ressalta a importância da dependência divina para o crescimento espiritual (veja também Jeremias 17:7-8 e João 15:5)."
+    },
+    {
+      "ref": "1:4-5",
+      "texto": "Os ímpios são descritos como a palha que o vento dispersa, mostrando a fragilidade e a instabilidade da vida sem Deus. A condição dos ímpios no juízo final é uma advertência sobre as consequências de uma vida longe do Senhor (veja também Salmo 37:20 e Mateus 7:26-27)."
+    },
+    {
+      "ref": "1:6",
+      "texto": "O Senhor conhece o caminho dos justos, enquanto o caminho dos ímpios perecerá. Isso destaca a soberania de Deus e Sua capacidade de discernir entre o bem e o mal, oferecendo esperança aos justos e advertência aos ímpios (veja também Salmo 146:9 e 1 Pedro 3:12)."
+    }
+  ]
+}

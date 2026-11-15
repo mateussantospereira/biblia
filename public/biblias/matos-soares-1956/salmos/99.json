@@ -1,0 +1,55 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 99,
+  "totalVersiculos": 5,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/99/",
+  "capturadoEm": "2026-11-15T09:53:58-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Salmo. Para acção de graças. Aclamai o Senhor, todas as terras,"
+    },
+    {
+      "numero": 2,
+      "texto": "servi o Senhor com alegria, vinde à sua presença com alvoroço."
+    },
+    {
+      "numero": 3,
+      "texto": "Sabei que o Senhor é Deus; ele nos fez, e somos seus, seu povo e ovelhas do seu pasto."
+    },
+    {
+      "numero": 4,
+      "texto": "Transponde as suas portas com louvor, os seus átrios com hinos; exaltai-o, bendizei o seu nome."
+    },
+    {
+      "numero": 5,
+      "texto": "Porque o Senhor é bom, a sua misericórdia é eterna, e a sua fidelidade permanece de geração em geração."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "99:1",
+      "texto": "O Senhor reina, tremam os povos. A majestade de Deus faz com que as nações tremam diante de Sua santidade. O trono de Deus está sobre os querubins, simbolizando Sua presença gloriosa (veja também Êxodo 25:22 e Salmo 80:1)."
+    },
+    {
+      "ref": "99:3",
+      "texto": "Louvem o teu nome, grande e temível. O nome de Deus é santo e inspira reverência. O povo de Deus deve reconhecer a grandeza de Seu nome e louvá-lo continuamente (veja também Êxodo 3:14 e Apocalipse 4:11)."
+    },
+    {
+      "ref": "99:4",
+      "texto": "O Rei é forte, ama a justiça. Deus governa com justiça e retidão. Seu amor pela justiça é refletido em Suas ações, trazendo equidade ao Seu povo (veja também Salmo 11:7 e Isaías 9:7)."
+    },
+    {
+      "ref": "99:6-7",
+      "texto": "Moisés, Arão e Samuel são apresentados como intercessores fiéis que clamaram a Deus e foram ouvidos. Isso destaca a importância da oração e da intercessão na relação com Deus (veja também Jeremias 15:1 e Êxodo 32:11)."
+    },
+    {
+      "ref": "99:9",
+      "texto": "Exaltai ao Senhor, nosso Deus. O Salmo encerra com um chamado à adoração e exaltação a Deus, que é santo e digno de todo louvor (veja também Apocalipse 15:4 e Salmo 95:6)."
+    }
+  ]
+}

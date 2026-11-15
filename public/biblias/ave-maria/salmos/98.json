@@ -1,0 +1,72 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 98,
+  "totalVersiculos": 9,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/98/",
+  "capturadoEm": "2026-11-15T09:17:44-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Senhor reina, tremem os povos; seu trono está sobre os querubins: vacila a terra."
+    },
+    {
+      "numero": 2,
+      "texto": "Grande é o Senhor em Sião, elevado acima de todos os povos."
+    },
+    {
+      "numero": 3,
+      "texto": "Seja celebrado vosso grande e temível nome, porque ele é Santo."
+    },
+    {
+      "numero": 4,
+      "texto": "Reina o rei poderoso que ama a justiça; sois vós que estabeleceis o que é reto, sois vós que exerceis em Jacó o direito e a justiça."
+    },
+    {
+      "numero": 5,
+      "texto": "Exaltai ao Senhor, nosso Deus, e prostrai-vos ante o escabelo de seus pés, porque ele é Santo.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Entre seus sacerdotes estavam Moisés e Aarão, e Samuel um dos que invocaram o seu nome: clamavam ao Senhor, que os atendia."
+    },
+    {
+      "numero": 7,
+      "texto": "Falava-lhes na coluna de nuvem, eles guardavam os seus preceitos e a Lei que lhes havia dado."
+    },
+    {
+      "numero": 8,
+      "texto": "Senhor, nosso Deus, vós os ouvistes, fostes para eles um Deus propício, ainda quando puníeis as suas injustiças."
+    },
+    {
+      "numero": 9,
+      "texto": "Exaltai o Senhor, nosso Deus, e prostrai-vos ante sua montanha santa, porque santo é o Senhor, nosso Deus."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "98:1",
+      "texto": "Cantai ao Senhor um cântico novo. Este versículo convida os fiéis a louvar a Deus por Suas maravilhosas obras. O \"cântico novo\" simboliza a renovação contínua da graça divina (veja também Isaías 42:10 e Apocalipse 5:9)."
+    },
+    {
+      "ref": "98:4-6",
+      "texto": "Celebrai com júbilo ao Senhor. A adoração a Deus deve ser marcada por alegria e louvor com música, trombetas e cânticos. A criação inteira é chamada a celebrar o reinado justo de Deus (veja também Salmo 150:3-6 e 1 Crônicas 16:23-24)."
+    },
+    {
+      "ref": "98:7-8",
+      "texto": "O mar, os rios e os montes \"batem palmas\" e \"exultam\" diante de Deus. A natureza responde ao Criador, refletindo a harmonia entre o mundo criado e seu Rei soberano (veja também Salmo 96:11-12 e Romanos 8:19-22)."
+    },
+    {
+      "ref": "98:9",
+      "texto": "Porque ele vem julgar a terra. O Senhor julga o mundo com justiça e equidade. O Salmo conclui com a expectativa do justo julgamento de Deus, que restaurará a ordem (veja também Isaías 11:4 e Atos 17:31)."
+    },
+    {
+      "ref": "98:3",
+      "texto": "Deus se lembra de Sua misericórdia e fidelidade para com a casa de Israel. Este versículo destaca a aliança de Deus com Seu povo, cumprindo Suas promessas de salvação (veja também Lucas 1:54-55 e Salmo 105:8-10)."
+    }
+  ]
+}

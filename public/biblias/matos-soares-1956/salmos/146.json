@@ -1,0 +1,79 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 146,
+  "totalVersiculos": 11,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/146/",
+  "capturadoEm": "2026-11-15T09:54:52-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Aleluia. Louvai o Senhor, porque é bom, cantai salmos ao nosso Deus, porque é suave: ele é digno de louvor. (ver nota)"
+    },
+    {
+      "numero": 2,
+      "texto": "O Senhor edifica Jerusalém, congrega os dispersos de Israel;"
+    },
+    {
+      "numero": 3,
+      "texto": "ele sara os atribulados de coração, e liga as suas chagas."
+    },
+    {
+      "numero": 4,
+      "texto": "Fixa o número das estrelas, chama cada uma pelo seu nome."
+    },
+    {
+      "numero": 5,
+      "texto": "Grande é o nosso Senhor, e forte o seu poder, a sua sabedoria não tem limites."
+    },
+    {
+      "numero": 6,
+      "texto": "O Senhor eleva os humildes, abate os ímpios até à terra."
+    },
+    {
+      "numero": 7,
+      "texto": "Cantai ao Senhor um cântico de acção de graças, cantai salmos ao som da cítara ao nosso Deus,"
+    },
+    {
+      "numero": 8,
+      "texto": "que cobre o céu de nuvens, que prepara (assim) chuva para a terra; que produz erva nos montes, e verduras para uso dos homens;"
+    },
+    {
+      "numero": 9,
+      "texto": "que dá o seu alimento próprio aos animais e aos filhinhos dos corvos, que clamam a ele."
+    },
+    {
+      "numero": 10,
+      "texto": "Não se deleita com a força do cavalo, nem se compraz nos pés do homem. (ver nota)"
+    },
+    {
+      "numero": 11,
+      "texto": "Agradam ao Senhor os que o temem, os que confiam na sua bondade."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "146:1-2",
+      "texto": "O salmista inicia o salmo com uma declaração de louvor a Deus, destacando a importância de confiar no Senhor e não nos homens. Essa confiança deve ser um princípio fundamental da fé (veja também Salmo 111:1 e Jeremias 17:5-7)."
+    },
+    {
+      "ref": "146:3-4",
+      "texto": "O salmo adverte contra confiar em príncipes e líderes humanos, que são temporários e falíveis. Essa mensagem enfatiza a fragilidade das certezas humanas e a necessidade de confiar no Senhor (veja também Salmo 118:8-9 e Isaías 2:22)."
+    },
+    {
+      "ref": "146:5-7",
+      "texto": "A verdadeira felicidade vem de confiar em Deus, que é o Criador e Redentor. Deus é descrito como aquele que faz justiça e cuida dos necessitados, o que nos inspira a agir com compaixão (veja também Salmo 146:9 e Mateus 5:7)."
+    },
+    {
+      "ref": "146:8-10",
+      "texto": "O Senhor abre os olhos dos cegos e levanta os oprimidos, demonstrando Seu amor e cuidado pelas pessoas em necessidade. Isso destaca o caráter redentor de Deus e a missão da Igreja de seguir Seu exemplo (veja também Lucas 4:18 e Mateus 25:40)."
+    },
+    {
+      "ref": "146:10",
+      "texto": "O Senhor reinará para sempre, reafirmando Sua soberania eterna. Esta verdade nos dá esperança e segurança, mesmo em tempos de incerteza. A confiança em Deus é fundamental para uma vida de fé (veja também Salmo 93:1 e Apocalipse 11:15)."
+    }
+  ]
+}

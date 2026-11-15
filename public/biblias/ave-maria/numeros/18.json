@@ -1,0 +1,165 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "numeros",
+  "nome": "Números",
+  "testamento": "AT",
+  "capitulo": 18,
+  "totalVersiculos": 32,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/numeros/18/",
+  "capturadoEm": "2026-11-15T09:09:26-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Senhor disse a Aarão: “Tu, teus filhos e tua família contigo, levareis a responsabilidade dos pecados cometidos no santuário. Tu e teus filhos contigo levareis a responsabilidade dos pecados cometidos em vosso sacerdócio.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Farás aproximarem-se do santuário contigo os teus irmãos, a tribo de Levi e a tribo de teu pai, para que se juntem a ti e te ajudem quando estiveres com teus filhos diante da tenda do testemunho."
+    },
+    {
+      "numero": 3,
+      "texto": "Eles farão o serviço que te é devido e o serviço da tenda, mas não se aproximarão dos objetos sagrados, nem do altar, para que não morram, e vós juntamente com eles."
+    },
+    {
+      "numero": 4,
+      "texto": "Serão teus auxiliares e terão a seu cuidado a tenda de reunião para fazer todo o seu serviço. Nenhum estrangeiro se aproximará de vós."
+    },
+    {
+      "numero": 5,
+      "texto": "Fareis o serviço do santuário e do altar, para que não venha de novo a cólera ferir os israelitas."
+    },
+    {
+      "numero": 6,
+      "texto": "Fui eu que escolhi os levitas, vossos irmãos, entre os israelitas. Dados ao Senhor, vos são de novo entregues para fazerem o serviço da tenda de reunião."
+    },
+    {
+      "numero": 7,
+      "texto": "Tu, porém, e teus filhos contigo, exercereis o vosso sacerdócio no altar e atrás do véu: esse é o vosso serviço. O sacerdócio é um dom que eu vos faço; o estrangeiro que se aproximar será morto”."
+    },
+    {
+      "numero": 8,
+      "texto": "O Senhor disse a Aarão: “Dou-te o que se reserva de tudo o que é separado para mim, dentre todas as coisas consagradas dos israelitas. Dou isso a ti e a teus filhos em virtude de uma lei perpétua, por causa da unção que recebeste."
+    },
+    {
+      "numero": 9,
+      "texto": "Eis o que receberás das coisas santíssimas que não são queimadas; todas as suas ofertas, oblações, sacrifícios pelo pecado, sacrifícios de reparação; todas essas coisas santíssimas serão para ti e teus filhos."
+    },
+    {
+      "numero": 10,
+      "texto": "Tu as comerás em lugar santíssimo. Todo varão poderá comer delas; e serão para ti coisas sagradas."
+    },
+    {
+      "numero": 11,
+      "texto": "Eis ainda o que será teu: o que é tomado dentre os dons, dentre toda oferta agitada dos israelitas. Eu o dou a ti, a teus filhos e a tuas filhas em virtude de uma lei perpétua. Todo membro de tua família que estiver puro comerá dessas coisas."
+    },
+    {
+      "numero": 12,
+      "texto": "Dou-te também as primícias que os israelitas oferecerem ao Senhor: o melhor de seu óleo, de seu vinho e de seu trigo."
+    },
+    {
+      "numero": 13,
+      "texto": "Serão para ti as primícias dos produtos da terra que trouxerem ao Senhor. Todo membro de tua família que estiver puro poderá comer delas."
+    },
+    {
+      "numero": 14,
+      "texto": "Tudo o que for votado ao interdito em Israel será teu."
+    },
+    {
+      "numero": 15,
+      "texto": "Será teu igualmente todo primogênito de toda criatura, homem ou animal, que os israelitas oferecerem ao Senhor; ordenarás, não obstante, que se resgate o primogênito do homem, assim como os primogênitos dos animais impuros."
+    },
+    {
+      "numero": 16,
+      "texto": "O seu resgate será feito logo que ele tiver um mês, segundo tua estimação, à razão de cinco siclos de prata (conforme o siclo do santuário, que vale vinte gueras)."
+    },
+    {
+      "numero": 17,
+      "texto": "Mas não farás resgatar o primogênito da vaca, nem o da ovelha, nem o da cabra: estes são coisas sagradas. Derramarás o seu sangue sobre o altar e queimarás a sua gordura em sacrifício feito pelo fogo, de agradável odor ao Senhor."
+    },
+    {
+      "numero": 18,
+      "texto": "Sua carne será para ti da mesma forma que o peito agitado e a perna direita."
+    },
+    {
+      "numero": 19,
+      "texto": "Tudo o que é tomado das coisas santas que os israelitas oferecem ao Senhor, dou-o a ti, a teus filhos e a tuas filhas em virtude de uma lei perpétua. Essa é uma aliança de sal, que vale perpetuamente diante do Senhor, para ti e para toda a tua posteridade contigo”.",
+      "nota": true
+    },
+    {
+      "numero": 20,
+      "texto": "O Senhor disse a Aarão: “Não possuirás nada na terra deles, e não terás parte alguma entre eles. Eu sou a tua parte e a tua herança no meio dos israelitas."
+    },
+    {
+      "numero": 21,
+      "texto": "Quanto aos levitas, dou-lhes como patrimônio todos os dízimos de Israel pelo serviço que prestam na tenda de reunião."
+    },
+    {
+      "numero": 22,
+      "texto": "Os israelitas não se aproximarão mais da tenda de reunião, para que não caia sobre eles o peso de um pecado que lhes cause a morte."
+    },
+    {
+      "numero": 23,
+      "texto": "São os levitas que farão o trabalho na tenda de reunião e que levarão a responsabilidade de suas faltas: essa é uma lei perpétua para todos os vossos descendentes. Eles não terão herança no meio dos israelitas,"
+    },
+    {
+      "numero": 24,
+      "texto": "porque lhes dou como herança os dízimos que os israelitas tomarem para o Senhor. Eis por que declaro que eles não possuirão herança alguma no meio dos israelitas”."
+    },
+    {
+      "numero": 25,
+      "texto": "O Senhor disse a Moisés:"
+    },
+    {
+      "numero": 26,
+      "texto": "“Dirás aos levitas: Quando receberdes dos israelitas o dízimo que vos dei de seus bens por vossa herança, tomareis dele uma oferta para o Senhor: o dízimo do dízimo."
+    },
+    {
+      "numero": 27,
+      "texto": "Essa reserva será como o trigo tomado da eira e como o vinho tomado do lagar."
+    },
+    {
+      "numero": 28,
+      "texto": "Desse modo, fareis também vós uma reserva devida ao Senhor de todos os dízimos que receberdes dos israelitas, e essa oferta reservada para o Senhor, vós a entregareis ao sacerdote Aarão."
+    },
+    {
+      "numero": 29,
+      "texto": "De todos os dons que receberdes, separareis uma parte para o Senhor, isto é, tomareis a porção consagrada do que houver de melhor em vossos dízimos."
+    },
+    {
+      "numero": 30,
+      "texto": "Dize-lhes também: Quando tiverdes separado o melhor do dízimo, o resto será para os levitas como o produto da eira ou do lagar."
+    },
+    {
+      "numero": 31,
+      "texto": "Podereis comê-lo com vossa família, porque é o vosso salário pelo serviço que prestais na tenda de reunião."
+    },
+    {
+      "numero": 32,
+      "texto": "Não cometereis pecado algum por causa disso, e não profanareis as santas ofertas dos israelitas, quando tiverdes separado o melhor do dízimo, para que não morrais”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "18:1-7",
+      "texto": "Deus reafirma o papel dos sacerdotes e levitas no serviço do tabernáculo e sua responsabilidade por qualquer transgressão. Isso sublinha a importância da pureza no serviço a Deus e a responsabilidade espiritual dos líderes (veja também 1 Pedro 2:9 e Levítico 10:1-2)."
+    },
+    {
+      "ref": "18:8-14",
+      "texto": "Os sacerdotes recebem porção das ofertas santas como herança. Isso estabelece que o sustento dos sacerdotes virá do serviço ao Senhor e de Sua provisão (veja também 1 Coríntios 9:13-14 e Levítico 7:31-34)."
+    },
+    {
+      "ref": "18:15-19",
+      "texto": "Os primogênitos dos animais e o resgate dos primogênitos dos homens são dados aos sacerdotes. Essa prática reflete a santidade do primeiro fruto e a consagração de tudo que é primogênito a Deus (veja também Êxodo 13:2 e Lucas 2:23-24)."
+    },
+    {
+      "ref": "18:20-24",
+      "texto": "Deus declara que os levitas não terão herança na terra, mas que Ele próprio será a sua herança. Isso reforça a separação do sacerdócio como serviço dedicado unicamente a Deus (veja também Deuteronômio 10:9 e Salmo 16:5)."
+    },
+    {
+      "ref": "18:25-32",
+      "texto": "Os levitas, por sua vez, devem oferecer um dízimo dos dízimos ao Senhor. Isso mostra que mesmo aqueles que servem a Deus diretamente devem participar da oferta e da dedicação ao Senhor (veja também Malaquias 3:10 e Hebreus 7:5-6)."
+    }
+  ]
+}

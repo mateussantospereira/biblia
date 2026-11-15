@@ -1,0 +1,64 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 39,
+  "totalVersiculos": 8,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/39/",
+  "capturadoEm": "2026-11-15T09:21:52-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Nessa mesma época, o rei de Babilônia, Merodac-Baladã, enviou a Ezequias embaixadores levando uma mensagem e presentes, porque soubera da doença e do restabelecimento do rei.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Ezequias sentiu-se lisonjeado e os fez visitar os tesouros de seu palácio: a baixela de prata e ouro, os perfumes, os unguentos preciosos, assim como seu arsenal e todos os seus depósitos. Nada houve em seu palácio e em todos os seus domínios que Ezequias não lhes mostrasse."
+    },
+    {
+      "numero": 3,
+      "texto": "Então, o profeta Isaías veio visitar o rei Ezequias e lhe disse: “Que disseram esses homens, e de onde vieram eles para fazer-te visita?”. “Vieram ver-me de longe, de Babilônia” – respondeu Ezequias –."
+    },
+    {
+      "numero": 4,
+      "texto": "“E que visitaram eles em tua casa?” – replicou Isaías –. “Viram tudo o que se encontra em meu palácio” – respondeu Ezequias –; “nada há em meus tesouros que eu não lhes tenha mostrado.”"
+    },
+    {
+      "numero": 5,
+      "texto": "Então, Isaías disse a Ezequias: “Escuta a palavra do Senhor dos exércitos!"
+    },
+    {
+      "numero": 6,
+      "texto": "Aproxima-se o tempo em que se levará para Babilônia tudo aquilo que há em teu palácio, tudo o que acumularam os teus pais até este dia. Nada ficará, declara o Senhor."
+    },
+    {
+      "numero": 7,
+      "texto": "Tomarão até os teus próprios filhos, que geraste, para fazer deles eunucos no palácio do rei de Babilônia”."
+    },
+    {
+      "numero": 8,
+      "texto": "Ezequias respondeu a Isaías: “A sentença do Senhor, que acabas de proferir, é justa”. Pois dizia a si mesmo: “Ao menos terei paz e segurança enquanto viver”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "39:1-2",
+      "texto": "Ezequias mostra seus tesouros aos mensageiros da Babilônia, demonstrando orgulho e falta de discernimento. Essa atitude revela o perigo do exibicionismo e da autossuficiência (veja também Provérbios 16:18 e 1 João 2:16)."
+    },
+    {
+      "ref": "39:3-4",
+      "texto": "Isaías repreende Ezequias por sua falta de sabedoria em revelar tudo aos babilônios. Esse evento destaca a necessidade de buscar orientação divina antes de tomar decisões importantes (veja também Provérbios 3:5-6 e Mateus 10:16)."
+    },
+    {
+      "ref": "39:5-7",
+      "texto": "Isaías profetiza que a Babilônia levará os tesouros e os descendentes de Ezequias ao exílio. Essa profecia ressalta que decisões imprudentes podem trazer consequências sérias para as gerações futuras (veja também 2 Reis 20:17-18 e Jeremias 25:11)."
+    },
+    {
+      "ref": "39:8",
+      "texto": "A resposta de Ezequias reflete uma atitude egoísta, ao aceitar a profecia desde que não afete seu próprio tempo. Essa atitude contrasta com o chamado bíblico para buscar o bem comum e pensar nas gerações futuras (veja também Filipenses 2:3-4 e Provérbios 13:22)."
+    }
+  ]
+}

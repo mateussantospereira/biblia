@@ -1,0 +1,91 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "i-timoteo",
+  "nome": "I Timóteo",
+  "testamento": "NT",
+  "capitulo": 2,
+  "totalVersiculos": 15,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/i-timoteo/2/",
+  "capturadoEm": "2026-11-15T10:06:26-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Recomendo-te, pois, antes de tudo, que se façam súplicas, orações, petições, acções de graças por todos os homens,"
+    },
+    {
+      "numero": 2,
+      "texto": "pelos reis e por todos os que estão constituídos em autoridade, para que levemos uma vida sossegada e tranquila, em toda a piedade e dignidade. (ver nota)"
+    },
+    {
+      "numero": 3,
+      "texto": "Em verdade, isto é bom e agradável diante de Deus nosso Salvador,"
+    },
+    {
+      "numero": 4,
+      "texto": "o qual quer que todos os homens se salvem e cheguem ao conhecimento da verdade."
+    },
+    {
+      "numero": 5,
+      "texto": "Com efeito, há um só Deus e um só mediador entre Deus e os homens, que é Jesus Cristo homem, (ver nota)"
+    },
+    {
+      "numero": 6,
+      "texto": "o qual se deu a si mesmo para redenção de todos: tal é o testemunho dado (por Deus) no tempo devido,"
+    },
+    {
+      "numero": 7,
+      "texto": "para o qual fui constituído pregador e apóstolo (digo a verdade, não minto), doutor das gentes na fé e na verdade."
+    },
+    {
+      "numero": 8,
+      "texto": "Quero, pois, que os homens orem em todo o lugar, levantando as mãos puras, sem ira e sem contenda."
+    },
+    {
+      "numero": 9,
+      "texto": "Do mesmo modo orem também as mulheres em traje honesto, ataviando-se com modéstia e sobriedade, e não com cabelos frisados, nem com ouro, pérolas ou vestidos custosos,"
+    },
+    {
+      "numero": 10,
+      "texto": "mas sim com boas obras, como convém a mulheres que fazem profissão de piedade."
+    },
+    {
+      "numero": 11,
+      "texto": "A mulher aprenda, em silêncio, com toda a sujeição."
+    },
+    {
+      "numero": 12,
+      "texto": "Não permito à mulher que ensine (em público), nem que tenha domínio sobre o homem (exercendo na Igreja uma autoridade sobre ele), mas esteja em silêncio,"
+    },
+    {
+      "numero": 13,
+      "texto": "porque Adão foi formado primeiro, e depois Eva."
+    },
+    {
+      "numero": 14,
+      "texto": "E Adão não foi seduzido, mas a mulher (é que, sendo) seduzida, prevaricou."
+    },
+    {
+      "numero": 15,
+      "texto": "Contudo, salvar-se-a pela (legitima) procriação dos filhos, se permanecer na fé, na caridade e na santidade, unidas à modéstia."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "2:1-2",
+      "texto": "Paulo instrui Timóteo a orar por todos, incluindo líderes e autoridades. A oração é vista como um meio de promover a paz e a justiça, essencial para uma vida cristã tranquila (veja também Efésios 6:18 e 1 Pedro 2:1-2)."
+    },
+    {
+      "ref": "2:3-4",
+      "texto": "A oração por todos é boa e agradável a Deus, que deseja que todos sejam salvos. Este versículo enfatiza a universalidade da salvação em Cristo e a missão de levar o evangelho a todos os povos (veja também João 3:16 e 2 Pedro 3:9)."
+    },
+    {
+      "ref": "2:8",
+      "texto": "Paulo exorta os homens a orarem com mãos santas, sem ira e sem contendas. Isso destaca a importância da pureza no coração ao se aproximar de Deus em oração (veja também Mateus 5:23-24 e Hebreus 12:14)."
+    },
+    {
+      "ref": "2:9-10",
+      "texto": "As mulheres são exortadas a se vestirem com modéstia, refletindo a beleza interior e o bom testemunho cristão. Este ensinamento ressalta o caráter de piedade como mais importante do que a aparência externa (veja também 1 Pedro 3:3-4 e Provérbios 31:30)."
+    }
+  ]
+}

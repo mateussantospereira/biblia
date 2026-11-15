@@ -1,0 +1,82 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 61,
+  "totalVersiculos": 11,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/61/",
+  "capturadoEm": "2026-11-15T09:22:15-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Espírito do Senhor repousa sobre mim, porque o Senhor consagrou-me pela unção; enviou-me a levar a boa-nova aos humildes, a curar os corações doloridos, a anunciar aos cativos a redenção, e aos prisioneiros a liberdade;",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "a proclamar um ano de graças da parte do Senhor, e um dia de vingança de nosso Deus; a consolar todos os aflitos,"
+    },
+    {
+      "numero": 3,
+      "texto": "a dar-lhes um diadema em vez de cinzas, o óleo da alegria em vez de vestidos de luto, cânticos de glória em lugar de desespero. Então, os chamarão as azinheiras da justiça, plantadas pelo Senhor para sua glória."
+    },
+    {
+      "numero": 4,
+      "texto": "Reconstruirão as ruínas antigas, reerguerão as relíquias do passado, restaurarão as cidades destruídas, repararão as devastações seculares;"
+    },
+    {
+      "numero": 5,
+      "texto": "virão estrangeiros apascentar vosso gado miúdo, gente de fora vos servirá de lavradores e vinhateiros;"
+    },
+    {
+      "numero": 6,
+      "texto": "a vós vos chamarão sacerdotes do Senhor, de ministros de nosso Deus sereis qualificados. Vós vos alimentareis com as riquezas das nações, e brilhareis com sua opulência."
+    },
+    {
+      "numero": 7,
+      "texto": "Já que tiveram parte dupla de vergonha e tiveram como quinhão opróbrios e escarros, receberão em sua terra parte dupla de herança, e a alegria deles será eterna.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Porque eu, o Senhor, amo a equidade, e detesto o fruto da rapina; por isso, vou dar-lhes fielmente sua recompensa, e concluir com eles uma aliança eterna."
+    },
+    {
+      "numero": 9,
+      "texto": "Sua raça se tornará célebre entre as nações, e sua descendência entre os povos: todos, vendo-os, reconhecerão que são a abençoada raça do Senhor."
+    },
+    {
+      "numero": 10,
+      "texto": "“Com grande alegria eu me rejubilarei no Senhor e meu coração exultará de alegria em meu Deus, porque me fez revestir as vestimentas da salvação. Envolveu-me com o manto de justiça, como um neo-esposo cinge o turbante, como uma jovem esposa se enfeita com suas joias.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Porque, quão certo o sol faz germinar seus grãos e um jardim faz brotar suas sementes, o Senhor Deus fará germinar a justiça e a glória diante de todas as nações.”"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "61:1-3",
+      "texto": "O Espírito do Senhor capacita o servo para proclamar boas-novas, curar corações quebrantados e libertar os oprimidos. Esse texto é cumprido em Cristo (veja também Lucas 4:18-19 e Mateus 5:4)."
+    },
+    {
+      "ref": "61:4-6",
+      "texto": "Deus promete restaurar os lugares arruinados e transformar Seu povo em sacerdotes do Senhor, simbolizando o papel do povo de Deus como mediadores espirituais (veja também 1 Pedro 2:9 e Apocalipse 1:6)."
+    },
+    {
+      "ref": "61:7-8",
+      "texto": "Em lugar da vergonha, Deus dará dupla honra ao Seu povo, reafirmando Sua justiça e fidelidade em manter Sua aliança eterna (veja também Isaías 54:4-5 e Zacarias 9:12)."
+    },
+    {
+      "ref": "61:9-10",
+      "texto": "O povo será conhecido como abençoado por Deus, e a salvação será motivo de grande alegria. A justiça é comparada a vestes nupciais, apontando para o relacionamento entre Deus e Seu povo (veja também Apocalipse 19:7-8 e Isaías 62:5)."
+    },
+    {
+      "ref": "61:11",
+      "texto": "Assim como a terra produz frutos, Deus fará brotar a justiça e o louvor diante de todas as nações. Essa visão final destaca a soberania de Deus em toda a criação (veja também Salmo 85:11 e 2 Coríntios 9:10)."
+    }
+  ]
+}

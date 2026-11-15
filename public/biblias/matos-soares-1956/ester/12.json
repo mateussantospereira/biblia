@@ -1,0 +1,59 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "ester",
+  "nome": "Ester",
+  "testamento": "AT",
+  "capitulo": 12,
+  "totalVersiculos": 6,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/ester/12/",
+  "capturadoEm": "2026-11-15T09:51:11-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Mardoqueu estava então na corte do rei com Ragata e Tara, eunucos do rei, os quais eram porteiros do palácio."
+    },
+    {
+      "numero": 2,
+      "texto": "Tendo entendido os seus pensamentos e reconhecido exactamente os seus desígnios, descobriu que intentavam pôr a mão na pessoa do rei Artaxerxes; avisou disso o rei,"
+    },
+    {
+      "numero": 3,
+      "texto": "o qual, feito o processo de ambos, e tendo eles confessado, ordenou que fossem supliciados."
+    },
+    {
+      "numero": 4,
+      "texto": "O rei mandou escrever nas Crônicas o que se tinha passado, e Mardoqueu também o pôs por escrito para conservar a sua memória,"
+    },
+    {
+      "numero": 5,
+      "texto": "O rei deu-lhe um lugar no palácio e mandou-lhe presentes pela denúncia."
+    },
+    {
+      "numero": 6,
+      "texto": "Mas Aman, filho de Amadati, o Agagita, gozava de grande crédito junto do rei, e quis perder Mardoqueu e o seu povo, por causa dos dois eunucos do rei, que tinham sido mortos. (ver nota)"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "12:1",
+      "texto": "O capítulo fala sobre a vitória dos judeus sobre seus inimigos e como essa salvação se torna uma festa de alegria. A alegria em Deus por Sua salvação é um tema recorrente na Escritura (veja também Salmo 126:3 e Lucas 1:47)."
+    },
+    {
+      "ref": "12:2",
+      "texto": "A celebração da vitória é importante para a identidade do povo, e a lembrança do que Deus fez é um ato de gratidão e adoração (veja também Salmo 103:2 e 1 Crônicas 16:8)."
+    },
+    {
+      "ref": "12:3",
+      "texto": "A instituição de festividades por Mordecai mostra a relevância da cultura e da tradição na vida religiosa. Celebrar as obras de Deus fortalece a fé da comunidade (veja também Salmo 145:4 e Deuteronômio 16:16)."
+    },
+    {
+      "ref": "12:4",
+      "texto": "A mensagem de esperança para futuras gerações é fundamental, refletindo a importância da transmissão da fé. Ensinar os filhos sobre as obras de Deus é um mandamento bíblico (veja também Deuteronômio 6:7 e Salmo 78:4-7)."
+    },
+    {
+      "ref": "12:5",
+      "texto": "O fechamento do livro destaca a soberania de Deus sobre a história e a vitória do Seu povo. Isso reforça a ideia de que, apesar das adversidades, Deus está sempre presente (veja também Romanos 8:28 e 1 Coríntios 15:57)."
+    }
+  ]
+}

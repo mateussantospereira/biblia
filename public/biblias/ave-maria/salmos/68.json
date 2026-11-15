@@ -1,0 +1,190 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 68,
+  "totalVersiculos": 37,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/68/",
+  "capturadoEm": "2026-11-15T09:17:12-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. Segundo a melodia: “Os lírios”.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Salvai-me, ó Deus, porque as águas me vão submergir."
+    },
+    {
+      "numero": 3,
+      "texto": "Estou imerso num abismo de lodo, no qual não há onde firmar o pé. Vim a dar em águas profundas, encobrem-me as ondas."
+    },
+    {
+      "numero": 4,
+      "texto": "Já cansado de tanto gritar, enrouqueceu-me a garganta. Enfraqueceram-se meus olhos, enquanto espero meu Deus."
+    },
+    {
+      "numero": 5,
+      "texto": "Mais numerosos que os cabelos de minha cabeça são os que me detestam sem razão. São mais fortes que meus ossos os meus injustos inimigos.* Porventura posso restituir o que não roubei?"
+    },
+    {
+      "numero": 6,
+      "texto": "Vós conheceis, ó Deus, a minha insipiência, e minhas faltas não vos são ocultas."
+    },
+    {
+      "numero": 7,
+      "texto": "Os que esperam em vós, ó Senhor, Senhor dos exércitos, por minha causa não sejam confundidos. Que os que vos procuram, ó Deus de Israel, não tenham de que se envergonhar por minha causa,",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "pois foi por vós que eu sofri afrontas, cobrindo-se meu o rosto de confusão."
+    },
+    {
+      "numero": 9,
+      "texto": "Tornei-me um estranho para meus irmãos, um desconhecido para os filhos de minha mãe."
+    },
+    {
+      "numero": 10,
+      "texto": "É que o zelo de vossa casa me consumiu, e os insultos dos que vos ultrajam caíram sobre mim.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Por mortificar minha alma com jejuns, só recebi ultrajes."
+    },
+    {
+      "numero": 12,
+      "texto": "Por trocar minhas roupas por um saco, tornei-me zombaria deles."
+    },
+    {
+      "numero": 13,
+      "texto": "Falam de mim os que se assentam às portas da cidade, escarnecem-me os que bebem vinho.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Minha oração, porém, sobe até vós, Senhor, na hora de vossa misericórdia, ó Deus. Na vossa imensa bondade, escutai-me, segundo a fidelidade de vosso socorro."
+    },
+    {
+      "numero": 15,
+      "texto": "Tirai-me do lodo, para que não me afunde. Livrai-me dos que me detestam, salvai-me das águas profundas."
+    },
+    {
+      "numero": 16,
+      "texto": "Não me deixeis submergir nas muitas águas, nem me devore o abismo. Nem se feche sobre mim a boca do poço."
+    },
+    {
+      "numero": 17,
+      "texto": "Ouvi-me, Senhor, pois que vossa bondade é compassiva; em nome de vossa misericórdia, voltai-vos para mim."
+    },
+    {
+      "numero": 18,
+      "texto": "Não escondais ao vosso servo a vista de vossa face; atendei-me depressa, pois estou muito atormentado."
+    },
+    {
+      "numero": 19,
+      "texto": "Aproximai-vos de minha alma, livrai-me de meus inimigos."
+    },
+    {
+      "numero": 20,
+      "texto": "Bem vedes minha vergonha, confusão e ignomínia. Ante vossos olhos estão os que me perseguem:"
+    },
+    {
+      "numero": 21,
+      "texto": "seus ultrajes abateram meu coração e desfaleci. Esperei em vão quem tivesse compaixão de mim, quem me consolasse, e não encontrei."
+    },
+    {
+      "numero": 22,
+      "texto": "Puseram fel no meu alimento, na minha sede deram-me vinagre para beber.",
+      "nota": true
+    },
+    {
+      "numero": 23,
+      "texto": "Torne-se a sua mesa um laço para eles, e uma armadilha para os seus amigos."
+    },
+    {
+      "numero": 24,
+      "texto": "Que seus olhos se escureçam para não mais ver, que seus passos sejam sempre vacilantes.",
+      "nota": true
+    },
+    {
+      "numero": 25,
+      "texto": "Despejai sobre eles a vossa cólera, e os atinja o fogo de vossa ira."
+    },
+    {
+      "numero": 26,
+      "texto": "Seja devastada a sua morada, não haja quem habite em suas tendas,",
+      "nota": true
+    },
+    {
+      "numero": 27,
+      "texto": "porque perseguiram aquele a quem atingistes, e aumentaram a dor daquele a quem feristes."
+    },
+    {
+      "numero": 28,
+      "texto": "Deixai-os acumular falta sobre falta, e jamais sejam por vós reconhecidos como justos."
+    },
+    {
+      "numero": 29,
+      "texto": "Sejam riscados do livro dos vivos, e não se inscrevam os seus nomes entre os justos."
+    },
+    {
+      "numero": 30,
+      "texto": "Eu, porém, miserável e sofredor, seja protegido, ó Deus, pelo vosso auxílio."
+    },
+    {
+      "numero": 31,
+      "texto": "Cantarei um cântico de louvor ao nome do Senhor, e o glorificarei com um hino de gratidão."
+    },
+    {
+      "numero": 32,
+      "texto": "E isso a Deus será mais agradável que um touro, do que um novilho com chifres e unhas."
+    },
+    {
+      "numero": 33,
+      "texto": "Ó vós, humildes, olhai e alegrai-vos; vós que buscais a Deus, reanime-se o vosso coração,"
+    },
+    {
+      "numero": 34,
+      "texto": "porque o Senhor ouve os necessitados, e seu povo cativo não despreza."
+    },
+    {
+      "numero": 35,
+      "texto": "Louvem-no os céus e a terra, os mares e tudo o que neles se move."
+    },
+    {
+      "numero": 36,
+      "texto": "Sim, Deus salvará Sião e reconstruirá as cidades de Judá. Para aí hão de voltar e a possuirão."
+    },
+    {
+      "numero": 37,
+      "texto": "A linhagem de seus servos a receberá em herança, e os que amam o seu nome aí fixarão sua morada."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "68:1-3",
+      "texto": "O Salmo inicia com uma declaração de que Deus deve se levantar e Seus inimigos devem ser dispersos. Essa imagem de luta espiritual reflete a vitória de Deus sobre as forças do mal e a proteção que Ele oferece ao Seu povo (veja também Números 10:35 e Efésios 6:12)."
+    },
+    {
+      "ref": "68:4-6",
+      "texto": "O caráter de Deus como pai dos órfãos e defensor das viúvas revela Sua preocupação com os necessitados e marginalizados. Isso enfatiza o chamado à justiça social e à compaixão no coração da fé (veja também Salmo 146:9 e Tiago 1:27)."
+    },
+    {
+      "ref": "68:7-10",
+      "texto": "A lembrança da libertação do Egito e das jornadas no deserto destaca a fidelidade de Deus em guiar e sustentar o Seu povo. Essas histórias de libertação são fundamentais para entender o caráter de Deus como Redentor (veja também Deuteronômio 8:2-4 e Isaías 43:2)."
+    },
+    {
+      "ref": "68:19-20",
+      "texto": "A passagem destaca a importância de reconhecer a ajuda divina em nossas vidas. O \"Deus que salva\" é um tema recorrente que enfatiza a necessidade de dependência de Deus para a salvação e a proteção (veja também Salmo 46:1 e Romanos 10:13)."
+    },
+    {
+      "ref": "68:31-35",
+      "texto": "O Salmo conclui com uma declaração da glória de Deus e Sua soberania sobre as nações. Isso nos lembra que, em última análise, toda a criação deve se curvar diante de Deus, que é digno de toda a adoração e louvor (veja também Filipenses 2:9-11 e Apocalipse 5:13)."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 120,
+  "totalVersiculos": 8,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/120/",
+  "capturadoEm": "2026-11-15T09:18:06-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cântico das peregrinações. Para os montes levanto os olhos: de onde me virá socorro?",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "O meu socorro virá do Senhor, criador do céu e da terra."
+    },
+    {
+      "numero": 3,
+      "texto": "Ele não permitirá que teus pés resvalem; não dormirá aquele que te guarda."
+    },
+    {
+      "numero": 4,
+      "texto": "Não, não há de dormir, nem adormecer o guarda de Israel."
+    },
+    {
+      "numero": 5,
+      "texto": "O Senhor é teu guarda, o Senhor é teu abrigo, sempre ao teu lado."
+    },
+    {
+      "numero": 6,
+      "texto": "De dia, o sol não te fará mal; nem a lua durante a noite."
+    },
+    {
+      "numero": 7,
+      "texto": "O Senhor te resguardará de todo o mal; ele velará sobre tua alma."
+    },
+    {
+      "numero": 8,
+      "texto": "O Senhor guardará os teus passos, agora e para todo o sempre.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "120:1",
+      "texto": "O salmista clama ao Senhor em sua angústia, e Deus o ouve. Esse versículo destaca o conforto e a certeza de que Deus responde às orações dos aflitos (veja também Salmo 34:17 e 1 João 5:14-15)."
+    },
+    {
+      "ref": "120:2-4",
+      "texto": "O salmista pede livramento de mentirosos e enganosos. Isso reflete a dor causada pelas palavras falsas e a justiça de Deus em julgar aqueles que causam dano com a língua (veja também Provérbios 12:19 e Tiago 3:5-6)."
+    },
+    {
+      "ref": "120:5-7",
+      "texto": "O salmista lamenta sua permanência entre povos violentos, ansiando por paz. Isso expressa a tensão entre o desejo de paz e a realidade de viver entre aqueles que promovem conflito (veja também Mateus 5:9 e Romanos 12:18)."
+    }
+  ]
+}

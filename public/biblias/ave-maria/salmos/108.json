@@ -1,0 +1,162 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 108,
+  "totalVersiculos": 31,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/108/",
+  "capturadoEm": "2026-11-15T09:17:54-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. Salmo de Davi. Ó Deus de meu louvor, não fiqueis insensível,"
+    },
+    {
+      "numero": 2,
+      "texto": "porque contra mim se abriu boca ímpia e pérfida."
+    },
+    {
+      "numero": 3,
+      "texto": "Falaram-me com palavras mentirosas, com discursos odiosos me envolveram; e sem motivo me atacaram."
+    },
+    {
+      "numero": 4,
+      "texto": "Em resposta ao meu afeto me acusaram. Eu, porém, orava."
+    },
+    {
+      "numero": 5,
+      "texto": "Pagaram-me o bem com o mal, e o amor com o ódio."
+    },
+    {
+      "numero": 6,
+      "texto": "Suscitai contra ele um ímpio, levante-se à sua direita um acusador.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "Quando o julgarem, saia condenado, e sem efeito o seu recurso."
+    },
+    {
+      "numero": 8,
+      "texto": "Sejam abreviados os seus dias, tome outro o seu encargo.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Fiquem órfãos os seus filhos, e viúva a sua esposa."
+    },
+    {
+      "numero": 10,
+      "texto": "Andem errantes e mendigos os seus filhos, expulsos de suas casas devastadas."
+    },
+    {
+      "numero": 11,
+      "texto": "Arrebate o credor todos os seus bens, estrangeiros pilhem o fruto de seu trabalho."
+    },
+    {
+      "numero": 12,
+      "texto": "Ninguém lhes tenha misericórdia, nem haja quem se condoa de seus órfãos."
+    },
+    {
+      "numero": 13,
+      "texto": "Exterminada seja a sua descendência, extinga-se o seu nome desde a segunda geração."
+    },
+    {
+      "numero": 14,
+      "texto": "Conserve o Senhor a lembrança da culpa de seus pais, jamais se apague o pecado de sua mãe."
+    },
+    {
+      "numero": 15,
+      "texto": "Deus os tenha sempre presentes na memória, e risque-se da terra a sua lembrança,"
+    },
+    {
+      "numero": 16,
+      "texto": "porque jamais pensou em ter misericórdia, mas perseguiu o pobre e desvalido e teve ódio mortal ao homem de coração abatido."
+    },
+    {
+      "numero": 17,
+      "texto": "Amou a maldição: que ela caia sobre ele! Recusou a bênção: que ela o abandone!"
+    },
+    {
+      "numero": 18,
+      "texto": "Seja coberto de maldição como de um manto: que ela penetre em suas entranhas como água e se infiltre em seus ossos como óleo."
+    },
+    {
+      "numero": 19,
+      "texto": "Seja-lhe como a veste que o cobre, como um cinto que o cinja para sempre."
+    },
+    {
+      "numero": 20,
+      "texto": "Esta, a paga do Senhor àqueles que me acusam e que só dizem mal de mim."
+    },
+    {
+      "numero": 21,
+      "texto": "Mas vós, Senhor Deus, tratai-me segundo a honra de vosso nome. Salvai-me em nome de vossa benigna misericórdia,"
+    },
+    {
+      "numero": 22,
+      "texto": "porque sou pobre e miserável; trago, dentro de mim, um coração ferido."
+    },
+    {
+      "numero": 23,
+      "texto": "Vou-me extinguindo como a sombra da tarde que declina, sou levado para longe como o gafanhoto.",
+      "nota": true
+    },
+    {
+      "numero": 24,
+      "texto": "Vacilam-me os joelhos à força de jejuar, e meu corpo se definha de magreza."
+    },
+    {
+      "numero": 25,
+      "texto": "Fizeram-me objeto de escárnio, abanam a cabeça ao me ver."
+    },
+    {
+      "numero": 26,
+      "texto": "Ajudai-me, Senhor, meu Deus. Salvai-me segundo a vossa misericórdia."
+    },
+    {
+      "numero": 27,
+      "texto": "Que reconheçam aqui a vossa mão, e saibam que fostes vós que assim fizestes."
+    },
+    {
+      "numero": 28,
+      "texto": "Enquanto amaldiçoam, abençoai-me. Sejam confundidos os que se insurgem contra mim, e que vosso servo seja cumulado de alegria."
+    },
+    {
+      "numero": 29,
+      "texto": "Cubram-se de ignomínia meus detratores, e envolvam-se de vergonha como de um manto."
+    },
+    {
+      "numero": 30,
+      "texto": "Celebrarei altamente o Senhor, e o louvarei em meio à multidão,"
+    },
+    {
+      "numero": 31,
+      "texto": "porque ele se pôs à direita do pobre, para o salvar dos que o condenam."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "108:1-5",
+      "texto": "O salmista começa com uma declaração de confiança em Deus, louvando Seu amor e fidelidade. O louvor a Deus é central para o coração do crente, mesmo em meio às adversidades (veja também Salmo 57:7-11 e Efésios 5:19-20)."
+    },
+    {
+      "ref": "108:6-9",
+      "texto": "O pedido de salvação e vitória é fundamentado na certeza de que Deus é soberano sobre todas as nações. Ele concede vitória ao Seu povo, pois Ele controla o destino das nações (veja também Salmo 60:5-7 e Provérbios 21:31)."
+    },
+    {
+      "ref": "108:10-13",
+      "texto": "O salmista reconhece que, sem a ajuda de Deus, todo esforço é inútil. A confiança em Deus para obter vitória sobre os inimigos é um tema recorrente nos salmos (veja também Salmo 20:7 e 2 Coríntios 10:4)."
+    },
+    {
+      "ref": "108:4",
+      "texto": "Grande é o teu amor, mais alto do que os céus. A elevação do amor de Deus acima dos céus é uma metáfora poderosa da imensidão e incomparabilidade da misericórdia divina (veja também Efésios 3:18-19 e Lamentações 3:22-23)."
+    },
+    {
+      "ref": "108:12-13",
+      "texto": "A conclusão do salmo reforça que, com Deus, o povo de Israel fará proezas, enquanto a ajuda humana é insuficiente. Isso reflete a dependência completa de Deus para alcançar a verdadeira vitória (veja também Jeremias 17:5-7 e Romanos 8:31)."
+    }
+  ]
+}

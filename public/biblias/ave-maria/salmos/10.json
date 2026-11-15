@@ -1,0 +1,65 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 10,
+  "totalVersiculos": 7,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/10/",
+  "capturadoEm": "2026-11-15T09:16:11-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. De Davi. É junto do Senhor que procuro refúgio. Por que dizer-me: “Foge, velozmente, para a montanha, como um pássaro;",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "eis que os maus entesam seu arco e ajustam a flecha na corda, para ferir, de noite, os que têm o coração reto."
+    },
+    {
+      "numero": 3,
+      "texto": "Quando os próprios fundamentos se abalam, que pode fazer ainda o justo?”."
+    },
+    {
+      "numero": 4,
+      "texto": "Entretanto, o Senhor habita em seu templo, o Senhor tem seu trono no céu. Sua vista está atenta, seus olhares observam os filhos dos homens.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "O Senhor sonda o justo como o ímpio, mas aquele que ama a injustiça, ele o aborrece."
+    },
+    {
+      "numero": 6,
+      "texto": "Sobre os ímpios ele fará cair uma chuva de fogo e de enxofre; um vento abrasador de procela será o seu quinhão."
+    },
+    {
+      "numero": 7,
+      "texto": "Porque o Senhor é justo, ele ama a justiça; e os homens retos contemplarão a sua face."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "10:1",
+      "texto": "O salmista clama a Deus em meio ao sofrimento e à injustiça. A sensação de abandono por parte de Deus é uma experiência comum na vida de fé, mostrando que o lamento é parte da oração (veja também Salmo 22:1 e Mateus 27:46)."
+    },
+    {
+      "ref": "10:2-4",
+      "texto": "A descrição do ímpio que persegue o justo destaca a realidade da opressão e da injustiça. O orgulho e a arrogância dos ímpios são contrastados com a humildade do justo, refletindo a batalha entre o bem e o mal (veja também Salmo 37:12-14 e Romanos 12:19)."
+    },
+    {
+      "ref": "10:5-7",
+      "texto": "As características do ímpio são apresentadas: desonestidade, maldade e desprezo por Deus. Isso alerta os crentes sobre as táticas de engano do mal e a necessidade de vigilância (veja também Efésios 6:11-12 e 1 Pedro 5:8)."
+    },
+    {
+      "ref": "10:8-10",
+      "texto": "O salmista observa a injustiça dos opressores que atacam os vulneráveis. A compaixão por aqueles que são oprimidos deve ser uma marca dos seguidores de Cristo (veja também Provérbios 31:8-9 e Mateus 25:40)."
+    },
+    {
+      "ref": "10:16-18",
+      "texto": "A afirmação de que Deus é Rei para sempre traz esperança e encorajamento. O salmista pede a intervenção de Deus para trazer justiça e restaurar a ordem, reforçando a crença na justiça divina (veja também Salmo 72:12-14 e Apocalipse 21:4)."
+    }
+  ]
+}

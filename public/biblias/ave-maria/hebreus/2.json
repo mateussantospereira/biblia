@@ -1,0 +1,108 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "hebreus",
+  "nome": "Hebreus",
+  "testamento": "NT",
+  "capitulo": 2,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/hebreus/2/",
+  "capturadoEm": "2026-11-15T09:29:06-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Por isso, é necessário prestarmos a maior atenção à mensagem que temos recebido, para não acontecer que nos desviemos do caminho reto."
+    },
+    {
+      "numero": 2,
+      "texto": "A palavra anunciada por intermédio dos anjos era a tal ponto válida, que toda transgressão ou desobediência recebeu o justo castigo.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Como, então, escaparemos nós se agora desprezarmos a mensagem da salvação, tão sublime, anunciada primeiramente pelo Senhor e depois confirmada pelos que a ouviram,"
+    },
+    {
+      "numero": 4,
+      "texto": "comprovando-a o próprio Deus por sinais, prodígios, milagres e pelos dons do Espírito Santo, repartidos segundo a sua vontade?"
+    },
+    {
+      "numero": 5,
+      "texto": "Não foi tampouco aos anjos que Deus submeteu o mundo vindouro, de que falamos.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Alguém em certa passagem afirmou: Que é o homem para que dele te lembres, ou o filho do homem, para que o visites?"
+    },
+    {
+      "numero": 7,
+      "texto": "Por pouco tempo o colocaste inferior aos anjos; de glória e de honra o coroaste,",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "e sujeitaste a seus pés todas as coisas (Sl 8,5s). Ora, se lhe sujeitou todas as coisas, nada deixou que não lhe ficasse sujeito. Atualmente, é verdade, não vemos que tudo lhe esteja sujeito."
+    },
+    {
+      "numero": 9,
+      "texto": "Mas aquele que fora colocado por pouco tempo abaixo dos anjos, Jesus, nós o vemos, por sua Paixão e morte, coroado de glória e de honra. Assim, pela graça de Deus, a sua morte aproveita a todos os homens."
+    },
+    {
+      "numero": 10,
+      "texto": "Aquele para quem e por quem todas as coisas existem, desejando conduzir à glória numerosos filhos, deliberou elevar à perfeição, pelo sofrimento, o autor da salvação deles,"
+    },
+    {
+      "numero": 11,
+      "texto": "para que santificador e santificados formem um só todo. Por isso, (Jesus) não hesita em chamá-los seus irmãos,",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "dizendo: Anunciarei teu nome a meus irmãos, no meio da assembleia cantarei os teus louvores (Sl 21,23)."
+    },
+    {
+      "numero": 13,
+      "texto": "E outra vez: Quanto a mim, ponho nele a minha confiança (Is 8,17); e: Eis-me aqui, eu e os filhos que Deus me deu (Is 8,18)."
+    },
+    {
+      "numero": 14,
+      "texto": "Porquanto os filhos participam da mesma natureza, da mesma carne e do sangue, também ele participou, a fim de destruir pela morte aquele que tinha o império da morte, isto é, o demônio,",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "e libertar aqueles que, pelo medo da morte, estavam toda a vida sujeitos a uma verdadeira escravidão."
+    },
+    {
+      "numero": 16,
+      "texto": "Veio em socorro, não dos anjos, e sim da raça de Abraão;"
+    },
+    {
+      "numero": 17,
+      "texto": "e por isso convinha que ele se tornasse em tudo semelhante aos seus irmãos, para ser um pontífice compassivo e fiel no serviço de Deus, capaz de expiar os pecados do povo."
+    },
+    {
+      "numero": 18,
+      "texto": "De fato, por ter ele mesmo suportado tribulações, está em condição de vir em auxílio dos que são atribulados."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "2:5-9",
+      "texto": "O autor explica que Cristo, embora divino, se fez humano para sofrer a morte em benefício da humanidade, conquistando a vitória sobre o mal. Esse texto reflete o papel de Jesus como Salvador e Redentor (veja também Filipenses 2:7-8 e Mateus 20:28)."
+    },
+    {
+      "ref": "2:10-12",
+      "texto": "A dignidade de Cristo é destacada como aquele que traz muitos filhos à glória. A união entre Jesus e os que creem é enfatizada, refletindo a intimidade e a solidariedade no corpo de Cristo (veja também João 17:22-23 e 1 Coríntios 12:12-13)."
+    },
+    {
+      "ref": "2:14-15",
+      "texto": "Jesus destruiu o poder do diabo, libertando os que estavam sob o medo da morte. Sua morte na cruz é a vitória definitiva sobre o mal e a promessa de liberdade para todos os crentes (veja também Colossenses 2:15 e 1 João 3:8)."
+    },
+    {
+      "ref": "2:17-18",
+      "texto": "Cristo se tornou misericordioso e fiel, sendo perfeitamente qualificado para ser o Sumo Sacerdote que intercede pelos pecadores. Ele nos entende por Sua experiência humana e oferece ajuda nas dificuldades (veja também Hebreus 4:15-16 e 1 João 2:1)."
+    }
+  ]
+}

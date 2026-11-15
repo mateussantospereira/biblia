@@ -1,0 +1,73 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 53,
+  "totalVersiculos": 9,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/53/",
+  "capturadoEm": "2026-11-15T09:16:56-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. Com instrumentos de corda. Hino de Davi,",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "quando os zifeus vieram dizer a Saul: “Davi encontra-se escondido entre nós”.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Pela honra de vosso nome, salvai-me, meu Deus! Por vosso poder, fazei-me justiça."
+    },
+    {
+      "numero": 4,
+      "texto": "Ó meu Deus, escutai minha oração, atendei às minhas palavras,"
+    },
+    {
+      "numero": 5,
+      "texto": "pois homens soberbos insurgiram-se contra mim; homens violentos odeiam a minha vida: não têm Deus em sua presença."
+    },
+    {
+      "numero": 6,
+      "texto": "Mas eis que Deus vem em meu auxílio, o Senhor sustenta a minha vida."
+    },
+    {
+      "numero": 7,
+      "texto": "Fazei recair o mal em meus adversários e, segundo vossa fidelidade, destruí-os."
+    },
+    {
+      "numero": 8,
+      "texto": "De bom grado irei oferecer-vos um sacrifício, cantarei a glória de vosso nome, Senhor, porque é bom,"
+    },
+    {
+      "numero": 9,
+      "texto": "pois me livrou de todas as tribulações, e pude ver meus inimigos derrotados."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "53:1",
+      "texto": "O salmista declara que o insensato diz em seu coração que não há Deus. Isso reflete a rebeldia e a ignorância do ser humano frente à soberania divina. A negação da existência de Deus é uma falácia que leva à moralidade distorcida (veja também Salmo 14:1 e Romanos 1:21)."
+    },
+    {
+      "ref": "53:2",
+      "texto": "Deus olha dos céus para ver se há alguém que busca a sabedoria e a justiça. Este versículo ressalta a busca de Deus por um relacionamento com a humanidade e a importância de buscá-Lo com sinceridade (veja também Jeremias 29:13 e Tiago 4:8)."
+    },
+    {
+      "ref": "53:3",
+      "texto": "A constatação de que todos se desviaram e se corromperam enfatiza a condição pecaminosa da humanidade. Este versículo reforça a necessidade de redenção e a universalidade do pecado (veja também Romanos 3:23 e 1 João 1:8)."
+    },
+    {
+      "ref": "53:4",
+      "texto": "O salmista pergunta se os malfeitores não aprenderão. Este questionamento destaca a falta de entendimento e arrependimento por parte dos ímpios, evidenciando a importância do temor a Deus (veja também Salmo 36:1 e Provérbios 1:7)."
+    },
+    {
+      "ref": "53:6",
+      "texto": "A salvação de Israel é um motivo de júbilo e esperança. Isso aponta para a fidelidade de Deus em restaurar Seu povo e garantir um futuro de segurança e paz, enfatizando a intervenção divina na história (veja também Salmo 14:7 e Romanos 11:26)."
+    }
+  ]
+}

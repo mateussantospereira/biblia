@@ -1,0 +1,83 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 56,
+  "totalVersiculos": 12,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/isaias/56/",
+  "capturadoEm": "2026-11-15T09:58:55-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eis o que diz o Senhor: Respeitai o direito, praticai a justiça, porque a minha salvação não tardará a vir, a minha justiça vai manifestar-se."
+    },
+    {
+      "numero": 2,
+      "texto": "Bem-aventurado o homem que assim procede, e o filho do homem que a isto se aplica, que guarda o sábado para não o profanar, que guarda as suas mãos para não fazer mal algum."
+    },
+    {
+      "numero": 3,
+      "texto": "Não diga o filho do estrangeiro (ou pagão) que está unido (pela fé) ao Senhor: O Senhor com certeza me separará do seu povo. E não diga o eunuco: Eu sou um lenho seco (e estéril)."
+    },
+    {
+      "numero": 4,
+      "texto": "Eis, com efeito, o que diz o Senhor aos eunucos: Aos que guardarem os meus sábados, praticarem o que eu quero, e se prenderem à minha aliança,"
+    },
+    {
+      "numero": 5,
+      "texto": "darei um lugar na minha casa, e das minhas muralhas a dentro, um monumento e um nome melhores que filhos e filhas; dar-lhes-ei um nome sempiterno, que não perecerá jamais."
+    },
+    {
+      "numero": 6,
+      "texto": "Quanto aos filhos do estrangeiro, que se ligarem ao Senhor para o honrarem e amarem o seu nome, para serem seus servos; a todo o que guardar o sábado para o não profanar, ao que for fiel à minha aliança,"
+    },
+    {
+      "numero": 7,
+      "texto": "conduzi-los-ei ao meu santo monte e alegrá-los-ei na minha casa de oração; os seus holocaustos e as suas vítimas ser-me-ão agradáveis sobre o meu altar, porque a minha casa será chamada casa de oração para todos os povos,"
+    },
+    {
+      "numero": 8,
+      "texto": "O Senhor Deus, que congrega os dispersos de Israel, diz: Ainda lhe reunirei outros, que se hão-de juntar aos já congregados."
+    },
+    {
+      "numero": 9,
+      "texto": "Animais todos do campo, feras do bosque, vinde devorar. (ver nota)"
+    },
+    {
+      "numero": 10,
+      "texto": "As sentinelas (de Israel) estão todas cegas, nada sabem; são cães mudos, que não podem ladrar, que sonham deitados, e que gostam de dormir."
+    },
+    {
+      "numero": 11,
+      "texto": "São cães devoradores e insaciáveis. São pastores que não têm nenhuma inteligência. Todos seguem o seu caminho, cada um segundo o seu interesse, desde o mais alto até o mais baixo."
+    },
+    {
+      "numero": 12,
+      "texto": "Vinde (dizem eles), vou buscar vinho, embriaguemo-nos; e, como hoje, também amanhã será grande, muito grande (dia de festa)."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "56:1-2",
+      "texto": "Deus chama Seu povo a praticar a justiça e guardar o sábado, preparando-se para Sua salvação. Essa exortação enfatiza a importância da fidelidade e da santidade (veja também Êxodo 20:8-11 e Mateus 5:16)."
+    },
+    {
+      "ref": "56:3-5",
+      "texto": "Deus promete incluir os estrangeiros e eunucos no Seu povo, dando-lhes um lugar especial em Sua casa. Isso reflete a universalidade da aliança em Cristo (veja também Efésios 2:19-22 e Atos 10:34-35)."
+    },
+    {
+      "ref": "56:6-7",
+      "texto": "Todos que guardarem a aliança, estrangeiros ou israelitas, serão bem-vindos na casa de oração de Deus. Isso prenuncia a inclusão de todas as nações no reino de Deus (veja também Mateus 21:13 e Apocalipse 7:9-10)."
+    },
+    {
+      "ref": "56:8",
+      "texto": "Deus reunirá ainda outros ao Seu povo, expandindo o alcance da salvação. Essa promessa enfatiza a missão global de Deus para alcançar os perdidos (veja também João 10:16 e Isaías 49:6)."
+    },
+    {
+      "ref": "56:9-12",
+      "texto": "Deus condena os líderes negligentes de Israel, chamando-os de pastores irresponsáveis. Isso ressalta a importância de uma liderança espiritual fiel e vigilante (veja também Jeremias 23:1-4 e Ezequiel 34:2-6)."
+    }
+  ]
+}

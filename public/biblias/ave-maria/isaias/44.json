@@ -1,0 +1,150 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 44,
+  "totalVersiculos": 28,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/44/",
+  "capturadoEm": "2026-11-15T09:21:57-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Agora escuta, Jacó, meu servo, Israel, a quem escolhi."
+    },
+    {
+      "numero": 2,
+      "texto": "Eis o que diz o Senhor que te criou, que te formou desde o seio materno e te socorreu: “Nada temas, Jacó, meu servo, meu Israel, a quem escolhi!"
+    },
+    {
+      "numero": 3,
+      "texto": "Porque derramarei água sobre o solo sequioso, eu a farei correr sobre a terra árida, derramarei meu espírito sobre tua posteridade, e minha bênção sobre teus rebentos."
+    },
+    {
+      "numero": 4,
+      "texto": "Crescerão como a vegetação irrigada, como os álamos à beira dos arroios."
+    },
+    {
+      "numero": 5,
+      "texto": "Um dirá: ‘Eu sou do Senhor’, outro reclamará para si o nome de Jacó, um terceiro escreverá na sua mão: ‘Ao Senhor’, e receberá o cognome de Israel”.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Eis o que diz o Senhor, o rei de Israel, seu Redentor, o Senhor dos exércitos: “Eu sou o primeiro e o último, não há outro Deus afora eu."
+    },
+    {
+      "numero": 7,
+      "texto": "Quem é igual a mim? Que venha sustentar suas pretensões! Que prove e pleiteie contra mim! Quem anunciou o futuro, desde a origem? Que nos predigam o que deve ainda acontecer!"
+    },
+    {
+      "numero": 8,
+      "texto": "Não tenhais medo então, e não tremais! Não vos tenho esclarecido desde há muito tempo? Vós sois minhas testemunhas: existe outro Deus a não ser eu? Haverá outro rochedo além de mim?”."
+    },
+    {
+      "numero": 9,
+      "texto": "Os fabricantes de ídolos nada são e suas preciosas obras nada valem; para confusão deles, suas testemunhas não sabem ver nem compreender.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Aquele que quer modelar um deus, funde uma estátua que não servirá para nada."
+    },
+    {
+      "numero": 11,
+      "texto": "Seus fiéis ficarão decepcionados e seus operários são apenas homens. Que todos se congreguem e compareçam. Ficarão assustados e decepcionados."
+    },
+    {
+      "numero": 12,
+      "texto": "O ferreiro manipula o formão e trabalha no forno; talha o ídolo com golpes de martelo; modela-o com mão vigorosa; mas tem fome, sente-se esgotado, tem sede, está extenuado."
+    },
+    {
+      "numero": 13,
+      "texto": "O escultor em madeira estica o cordel, traça o esquema a lápis, desbasta a imagem com o cinzel, mede-a com o compasso; dá-lhe forma humana, fá-la um belo tipo de homem, para colocá-la numa casa."
+    },
+    {
+      "numero": 14,
+      "texto": "Vai cortar madeira, apanha um roble ou um carvalho que tinham deixado crescer entre as árvores da floresta que o Senhor havia plantado, e que a chuva havia feito crescer."
+    },
+    {
+      "numero": 15,
+      "texto": "Depois faz com a madeira um fogo, e leva-o para se aquecer; queima-a também para cozer o pão; enfim, serve-se dela para fabricar um ídolo diante do qual se prosterna."
+    },
+    {
+      "numero": 16,
+      "texto": "Queima a metade de sua madeira, sobre a brasa assa a carne, come esse assado até fartar-se. Então, aquece-se e diz: “Como é bom sentir o calor e admirar a chama!”."
+    },
+    {
+      "numero": 17,
+      "texto": "Com a sobra faz um deus, um ídolo diante do qual se prostra para adorá-lo e orar dizendo: “Salva-me, tu és meu deus”."
+    },
+    {
+      "numero": 18,
+      "texto": "Falta bom senso e juízo a essa gente; têm os olhos tão fechados que não veem, seus corações não podem compreender."
+    },
+    {
+      "numero": 19,
+      "texto": "Ninguém reflete nem tem bom senso e inteligência para se dizer: “Queimei metade, cozi pão sobre a brasa, aí assei a carne que comi e iria eu fazer do resto um ídolo miserável? Eu me prostraria diante de um pedaço de madeira?”."
+    },
+    {
+      "numero": 20,
+      "texto": "Este homem se nutre de cinzas, seu coração desabusado o desencaminha, ele não consegue salvar-se nem dizer: “Não será um logro o que tenho nas mãos?”.",
+      "nota": true
+    },
+    {
+      "numero": 21,
+      "texto": "Lembra-te dessas coisas, Jacó! Recorda-te, Israel, que tu és meu servo. Eu te formei, tu és meu servo, Israel, não posso esquecer-te."
+    },
+    {
+      "numero": 22,
+      "texto": "Fiz desaparecer tuas iniquidades como uma nuvem, e teus pecados como uma neblina: volve a mim, porque te resgatei."
+    },
+    {
+      "numero": 23,
+      "texto": "Céus, regozijai-vos, pois o Senhor agiu: Ressoai de alegria, profundezas da terra! Explodi de alegria, ó montanhas! E tu também, floresta, com todas as tuas árvores, porque o Senhor resgatou Jacó, e manifestou sua glória em Israel."
+    },
+    {
+      "numero": 24,
+      "texto": "Eis o que diz o Senhor, teu Redentor, que te formou desde o seio de tua mãe: “Sou eu, o Senhor, que fiz todas as coisas, sozinho estendi os céus. Firmei a terra: quem estava comigo?"
+    },
+    {
+      "numero": 25,
+      "texto": "Confundo os sinais dos falsos profetas, faço delirar os adivinhos, faço voltar atrás os sábios, e transformo sua sabedoria em loucura."
+    },
+    {
+      "numero": 26,
+      "texto": "Mantenho a palavra de meus servos, cumpro o que predizem meus enviados; digo que Jerusalém deve ser reabitada. Que as cidades de Judá devem ser reedificadas. Delas reerguerei as ruínas."
+    },
+    {
+      "numero": 27,
+      "texto": "Digo ao abismo: ‘Seca-te, vou estancar tuas torrentes’."
+    },
+    {
+      "numero": 28,
+      "texto": "Digo de Ciro: ‘É meu pastor, executará em tudo a minha vontade’. Falando de Jerusalém: ‘Que seja reedificada!’. E do templo: ‘Que seja reconstruído!’.”"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "44:1-3",
+      "texto": "Deus promete derramar Seu Espírito sobre a descendência de Israel, trazendo vida e bênçãos abundantes. Isso prefigura o Pentecostes e a renovação espiritual (veja também Joel 2:28-29 e Atos 2:17-18)."
+    },
+    {
+      "ref": "44:6-8",
+      "texto": "Deus declara: \"Eu sou o primeiro e o último\", afirmando Sua eternidade e soberania. Isso aponta para a exclusividade de Deus como o único digno de confiança (veja também Apocalipse 1:8 e 22:13)."
+    },
+    {
+      "ref": "44:9-11",
+      "texto": "Os ídolos são descritos como inúteis e incapazes de ajudar seus adoradores. Essa crítica destaca a insensatez da idolatria em contraste com a fidelidade do Deus vivo (veja também Salmo 115:4-8 e Romanos 1:21-23)."
+    },
+    {
+      "ref": "44:21-22",
+      "texto": "Deus chama Israel a lembrar-se de que foi escolhido e redimido. Ele apaga as transgressões como uma nuvem, mostrando Sua misericórdia e graça (veja também Isaías 1:18 e Colossenses 2:13-14)."
+    },
+    {
+      "ref": "44:24-28",
+      "texto": "Deus reafirma Seu papel como Criador e Governante, que cumpre Suas promessas. Ele menciona Ciro como Seu instrumento, prefigurando a libertação do exílio babilônico (veja também Esdras 1:1-3 e Isaías 45:1)."
+    }
+  ]
+}

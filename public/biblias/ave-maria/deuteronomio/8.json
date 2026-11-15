@@ -1,0 +1,116 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "deuteronomio",
+  "nome": "Deuteronômio",
+  "testamento": "AT",
+  "capitulo": 8,
+  "totalVersiculos": 20,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/deuteronomio/8/",
+  "capturadoEm": "2026-11-15T09:09:53-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "“Tereis muito cuidado em praticar tudo o que hoje vos prescrevo, para que possais viver e multiplicar-vos, e entrar na possessão da terra que o Senhor jurou dar a vossos pais."
+    },
+    {
+      "numero": 2,
+      "texto": "Lembra-te de todo o caminho por onde o Senhor te conduziu durante esses quarenta anos no deserto, para humilhar-te e provar-te, e para conhecer os sentimentos de teu coração, e saber se observarias ou não os seus mandamentos."
+    },
+    {
+      "numero": 3,
+      "texto": "Humilhou-te com a fome; deu-te por sustento o maná, que não conhecias nem tinham conhecido os teus pais, para ensinar-te que o homem não vive só de pão, mas de tudo o que sai da boca do Senhor.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Tuas vestes não se gastaram sobre ti, e teu pé não se enchou durante estes quarenta anos."
+    },
+    {
+      "numero": 5,
+      "texto": "Reconhece, pois, em teu coração, que assim como um homem corrige seu filho, assim te corrige o Senhor, teu Deus."
+    },
+    {
+      "numero": 6,
+      "texto": "Guardarás os mandamentos do Senhor, teu Deus, andando em seus caminhos e temendo-o."
+    },
+    {
+      "numero": 7,
+      "texto": "Porque o Senhor, teu Deus, vai conduzir-te a uma terra excelente, cheia de torrentes, de fontes e de águas profundas que brotam nos vales e nos montes;"
+    },
+    {
+      "numero": 8,
+      "texto": "uma terra de trigo e de cevada, de vinhas, de figueiras, de romãzeiras, uma terra de óleo de oliva e de mel,"
+    },
+    {
+      "numero": 9,
+      "texto": "uma terra onde não será racionado o pão que comeres, e onde nada faltará; terra cujas pedras são de ferro e de cujas montanhas extrairás o bronze."
+    },
+    {
+      "numero": 10,
+      "texto": "Comerás à saciedade, e bendirás o Senhor, teu Deus, pela boa terra que te deu."
+    },
+    {
+      "numero": 11,
+      "texto": "Guarda-te de esquecer o Senhor, teu Deus, negligenciando a observância de suas ordens, seus preceitos e suas leis que hoje te prescrevo."
+    },
+    {
+      "numero": 12,
+      "texto": "Não suceda que, depois de teres comido à saciedade, de teres construído e habitado formosas casas,"
+    },
+    {
+      "numero": 13,
+      "texto": "de teres visto multiplicar-se teus bois e tuas ovelhas, e aumentar a tua prata, o teu ouro e o teu bem,"
+    },
+    {
+      "numero": 14,
+      "texto": "o teu coração se eleve, e te esqueças do Senhor, teu Deus, que te tirou do Egito, da casa da servidão."
+    },
+    {
+      "numero": 15,
+      "texto": "Foi ele o teu guia neste vasto e terrível deserto, cheio de serpentes ardentes e escorpiões, terra árida e sem água, onde fez jorrar para ti água do rochedo duríssimo;"
+    },
+    {
+      "numero": 16,
+      "texto": "foi ele quem te alimentou no deserto com um maná desconhecido de teus pais, para humilhar-te e provar-te, a fim de te fazer o bem depois disso."
+    },
+    {
+      "numero": 17,
+      "texto": "Não digas no teu coração: ‘A minha força e o vigor do meu braço adquiriram-me todos esses bens’."
+    },
+    {
+      "numero": 18,
+      "texto": "Lembra-te de que é o Senhor, teu Deus, quem te dá a força para adquiri-los, a fim de confirmar, como o faz hoje, a aliança que jurou a teus pais."
+    },
+    {
+      "numero": 19,
+      "texto": "Se, esquecendo-te do Senhor, teu Deus, seguires outros deuses, rendendo-lhes culto e prostrando-te diante deles, desde hoje vos declaro que perecereis com toda a certeza."
+    },
+    {
+      "numero": 20,
+      "texto": "Como as nações que o Senhor exterminou diante de vós, assim também perecereis vós, se não ouvirdes a voz do Senhor, vosso Deus.”"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "8:2-3",
+      "texto": "Deus guiou Israel pelo deserto para testá-los e ensiná-los a depender dEle. A lição central é que o homem não vive só de pão, mas de toda palavra que procede da boca de Deus (veja também Mateus 4:4 e Lucas 4:4)."
+    },
+    {
+      "ref": "8:5-6",
+      "texto": "Deus disciplina Seu povo como um pai disciplina seus filhos, revelando Seu cuidado e amor paternal. A obediência aos mandamentos de Deus é uma resposta à disciplina amorosa (veja também Hebreus 12:5-6 e Provérbios 3:11-12)."
+    },
+    {
+      "ref": "8:7-9",
+      "texto": "Deus promete levar Israel a uma terra rica e fértil, destacando Sua fidelidade em cumprir Suas promessas. A Terra Prometida é uma imagem do cuidado e provisão de Deus (veja também Deuteronômio 11:10-12 e Salmo 105:42-44)."
+    },
+    {
+      "ref": "8:10-11",
+      "texto": "Moisés adverte o povo a lembrar de Deus e agradecê-Lo após entrarem na Terra Prometida e se tornarem prósperos. A ingratidão e o esquecimento de Deus são perigos espirituais (veja também Deuteronômio 6:12 e Salmo 103:1-2)."
+    },
+    {
+      "ref": "8:17-18",
+      "texto": "O povo é advertido a não confiar em sua própria força e habilidades, mas a reconhecer que é Deus quem dá o poder para adquirir riquezas. A dependência de Deus em todos os aspectos da vida é enfatizada (veja também 1 Coríntios 4:7 e Tiago 1:17)."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "apocalipse",
+  "nome": "Apocalipse",
+  "testamento": "NT",
+  "capitulo": 6,
+  "totalVersiculos": 17,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/apocalipse/6/",
+  "capturadoEm": "2026-11-15T09:29:45-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Depois, vi o Cordeiro abrir o primeiro selo e ouvi um dos quatro Animais clamar com voz de trovão: “Vem!”.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Vi aparecer então um cavalo branco. O seu cavaleiro tinha um arco; foi-lhe dada uma coroa e ele partiu como vencedor para tornar a vencer."
+    },
+    {
+      "numero": 3,
+      "texto": "Quando abriu o segundo selo, ouvi o segundo Animal clamar: “Vem!”."
+    },
+    {
+      "numero": 4,
+      "texto": "Partiu então outro cavalo, vermelho. A quem o montava foi dado tirar a paz da terra, de modo que os homens se matassem uns aos outros; e foi-lhe dada uma grande espada.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Quando abriu o terceiro selo, ouvi o terceiro Animal clamar: “Vem!”. E vi aparecer um cavalo preto. Seu cavaleiro tinha uma balança na mão.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Ouvi então como que uma voz clamar no meio dos quatro Animais: “Uma medida de trigo por um denário, e três medidas de cevada por um denário; mas não danifiques o azeite e o vinho!”."
+    },
+    {
+      "numero": 7,
+      "texto": "Quando abriu o quarto selo, ouvi a voz do quarto Animal, que clamava: “Vem!”."
+    },
+    {
+      "numero": 8,
+      "texto": "E vi aparecer um cavalo esverdeado. Seu cavaleiro tinha por nome Morte; e a região dos mortos o seguia. Foi-lhe dado poder sobre a quarta parte da terra, para matar pela espada, pela fome, pela peste e pelas feras.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Quando abriu o quinto selo, vi debaixo do altar as almas dos homens imolados por causa da Palavra de Deus e por causa do testemunho de que eram depositários."
+    },
+    {
+      "numero": 10,
+      "texto": "E clamavam em alta voz, dizendo: “Até quando tu, que és o Senhor, o Santo, o Verdadeiro, ficarás sem fazer justiça e sem vingar o nosso sangue contra os habitantes da terra?”."
+    },
+    {
+      "numero": 11,
+      "texto": "Foi então dada a cada um deles uma veste branca, e foi-lhes dito que aguardassem ainda um pouco, até que se completasse o número dos companheiros de serviço e irmãos que estavam com eles para serem mortos."
+    },
+    {
+      "numero": 12,
+      "texto": "Depois vi o Cordeiro abrir o sexto selo; e sobreveio então um grande terremoto. O sol se escureceu como um tecido de crina, a lua tornou-se toda vermelha como sangue",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "e as estrelas do céu caíram na terra, como frutos verdes que caem da figueira agitada por forte ventania."
+    },
+    {
+      "numero": 14,
+      "texto": "O céu desapareceu como um pedaço de papiro que se enrola e todos os montes e ilhas foram tirados dos seus lugares."
+    },
+    {
+      "numero": 15,
+      "texto": "Então os reis da terra, os grandes, os chefes, os ricos, os poderosos, todos, tanto escravos como livres, esconderam-se nas cavernas e grutas das montanhas."
+    },
+    {
+      "numero": 16,
+      "texto": "E diziam às montanhas e aos rochedos: “Caí sobre nós e escondei-nos da face daquele que está sentado no trono e da ira do Cordeiro,"
+    },
+    {
+      "numero": 17,
+      "texto": "porque chegou o Grande Dia da sua ira, e quem poderá subsistir?”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "6:1-2",
+      "texto": "O primeiro selo é aberto, revelando um cavaleiro montado em um cavalo branco. Este cavaleiro é interpretado como a conquista e propagação do evangelho, representando a missão de Cristo (veja também Mateus 28:19-20 e Marcos 16:15)."
+    },
+    {
+      "ref": "6:3-4",
+      "texto": "O segundo selo revela um cavaleiro montado em um cavalo vermelho, representando guerra e conflito. Ele simboliza as lutas que marcam a história da humanidade, refletindo a presença do mal no mundo (veja também Mateus 24:6-7 e Marcos 13:7-8)."
+    },
+    {
+      "ref": "6:5-6",
+      "texto": "O terceiro selo revela um cavaleiro montado em um cavalo preto, simbolizando a fome e a escassez. A descrição do peso da balança sugere a gravidade das condições de privação (veja também Amós 8:4-6 e Lucas 6:25)."
+    },
+    {
+      "ref": "6:7-8",
+      "texto": "O quarto selo revela um cavaleiro montado em um cavalo pálido, personificando a morte e o Hades. Esse cavaleiro mostra o poder da morte sobre a humanidade e o domínio do mal durante os tempos difíceis (veja também Hebreus 2:14-15 e 1 Coríntios 15:26)."
+    }
+  ]
+}

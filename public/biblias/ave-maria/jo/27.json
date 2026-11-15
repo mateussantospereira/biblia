@@ -1,0 +1,121 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "jo",
+  "nome": "Jó",
+  "testamento": "AT",
+  "capitulo": 27,
+  "totalVersiculos": 23,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/jo/27/",
+  "capturadoEm": "2026-11-15T09:15:46-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Jó continuou seu discurso nestes termos:"
+    },
+    {
+      "numero": 2,
+      "texto": "“Pelo Deus vivo que me recusa justiça, pelo Todo-poderoso, que enche minha alma de amargura."
+    },
+    {
+      "numero": 3,
+      "texto": "Enquanto em mim restar alento e o sopro de Deus passar por minhas narinas,"
+    },
+    {
+      "numero": 4,
+      "texto": "meus lábios não falarão maldades e minha língua não proferirá mentiras."
+    },
+    {
+      "numero": 5,
+      "texto": "Longe de mim dar-vos razão! Até meu último suspiro defenderei minha inocência,"
+    },
+    {
+      "numero": 6,
+      "texto": "mantenho firme minha justiça, não a abandonarei; minha consciência não acusa nenhum de meus dias."
+    },
+    {
+      "numero": 7,
+      "texto": "Que meu inimigo seja tratado como ímpio e meu adversário, como perverso!"
+    },
+    {
+      "numero": 8,
+      "texto": "Que pode esperar o ímpio de sua oração, quando eleva para Deus a sua alma?"
+    },
+    {
+      "numero": 9,
+      "texto": "Deus escutará seu clamor, quando a angústia cair sobre ele?"
+    },
+    {
+      "numero": 10,
+      "texto": "Encontrará ele seu conforto no Todo-poderoso e invocará ele Deus em todo o tempo?"
+    },
+    {
+      "numero": 11,
+      "texto": "Eu vos ensinarei o poder de Deus, não vos ocultarei os desígnios do Todo-poderoso."
+    },
+    {
+      "numero": 12,
+      "texto": "Mas todos vós já o sabeis; por que proferis palavras vãs?"
+    },
+    {
+      "numero": 13,
+      "texto": "Esta é a sorte que Deus reserva ao ímpio e a parte reservada ao violento pelo Todo-poderoso.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Se seus filhos se multiplicam, é para a espada e seus descendentes não terão o que comer."
+    },
+    {
+      "numero": 15,
+      "texto": "Seus sobreviventes serão sepultados na ruína e suas viúvas não os chorarão."
+    },
+    {
+      "numero": 16,
+      "texto": "Se amontoa prata como pó e se ajunta vestimentas como barro,"
+    },
+    {
+      "numero": 17,
+      "texto": "que amontoe, mas é o justo quem as vestirá e o inocente herdará a prata."
+    },
+    {
+      "numero": 18,
+      "texto": "Constrói sua casa como a casa da aranha, como a choupana que o vigia constrói.",
+      "nota": true
+    },
+    {
+      "numero": 19,
+      "texto": "Deita-se rico, mas é pela última vez. Quando abre os olhos, já deixou de sê-lo."
+    },
+    {
+      "numero": 20,
+      "texto": "O terror o invade como um dilúvio e um redemoinho o arrebata durante a noite."
+    },
+    {
+      "numero": 21,
+      "texto": "O vento do leste o leva e o faz desaparecer, varrendo-o violentamente de seu lugar."
+    },
+    {
+      "numero": 22,
+      "texto": "Precipitam-se sobre ele sem compaixão e é arrastado numa fuga desvairada."
+    },
+    {
+      "numero": 23,
+      "texto": "Sua ruína é aplaudida. De sua própria casa assobiarão sobre ele."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "27:1-4",
+      "texto": "Jó reafirma sua integridade e determinação de não se afastar da justiça. Sua posição é firme, e ele declara que sua consciência não o acusa. Isso reflete a importância da integridade pessoal em meio ao sofrimento (veja também Salmo 26:1 e 2 Coríntios 1:12)."
+    },
+    {
+      "ref": "27:5-6",
+      "texto": "Jó recusa a ideia de que ele é um pecador, desafiando seus amigos a admitirem que ele é justo diante de Deus. Ele insiste que sua integridade é um testemunho contra as acusações que recebeu, enfatizando a justiça e a verdade (veja também Salmo 119:46 e Provérbios 12:22)."
+    },
+    {
+      "ref": "27:7-10",
+      "texto": "Jó afirma que os ímpios, que rejeitam a Deus, enfrentam um destino de destruição. Ele contrasta seu próprio destino com o dos injustos, reforçando a ideia de que aqueles que confiam em Deus serão vindicados (veja também Salmo 37:1-2 e Eclesiastes 8:13)."
+    }
+  ]
+}

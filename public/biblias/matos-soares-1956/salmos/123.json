@@ -1,0 +1,55 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 123,
+  "totalVersiculos": 8,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/123/",
+  "capturadoEm": "2026-11-15T09:54:26-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cântico das subidas De Davide. Se o Senhor não tivesse estado por nós, diga-o agora Israel,"
+    },
+    {
+      "numero": 2,
+      "texto": "se o Senhor não tivesse estado por nós, quando os homens se levantaram contra nós,"
+    },
+    {
+      "numero": 3,
+      "texto": "de certo nos teriam engulido vivos. Quando se acendia o seu furor contra nós,"
+    },
+    {
+      "numero": 4,
+      "texto": "então a água (da desgraça) nos teria submergido; a torrente teria passado sobre nós;"
+    },
+    {
+      "numero": 5,
+      "texto": "então teriam passado sobre nós as águas entumecidas."
+    },
+    {
+      "numero": 6,
+      "texto": "Bendito o Senhor, que não nos deu aos seus dentes por presa."
+    },
+    {
+      "numero": 7,
+      "texto": "A nossa alma (ou vida), como o pássaro, escapou do laço dos caçadores: o laço foi quebrado, e nós ficamos livres."
+    },
+    {
+      "numero": 8,
+      "texto": "O nosso socorro está no nome do Senhor, que fez o céu e a terra."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "123:1-2",
+      "texto": "O salmista eleva seus olhos ao Senhor, esperando por Sua misericórdia, assim como os servos esperam por instruções de seus mestres. Esse gesto de dependência simboliza a confiança total em Deus para receber graça e direção (veja também Salmo 25:15 e Hebreus 12:2)."
+    },
+    {
+      "ref": "123:3-4",
+      "texto": "O salmista clama por misericórdia, expressando o cansaço causado pelo desprezo e zombaria dos arrogantes. A oração reflete a dor do povo de Deus diante da opressão, mas também a esperança na compaixão divina (veja também Êxodo 3:7-8 e 2 Coríntios 12:9)."
+    }
+  ]
+}

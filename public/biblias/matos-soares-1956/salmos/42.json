@@ -1,0 +1,55 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 42,
+  "totalVersiculos": 5,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/42/",
+  "capturadoEm": "2026-11-15T09:52:53-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Faz-me justiça, ó Deus, e defende a minha causa contra uma gente não santa; livra-me do homem enganador e iníquo,"
+    },
+    {
+      "numero": 2,
+      "texto": "porque tu és, ó Deus, a minha fortaleza: por que me repeliste? Por que ando triste, sob a opressão do meu inimigo? (ver nota)"
+    },
+    {
+      "numero": 3,
+      "texto": "Envia a tua luz e a tua fidelidade: elas me guiem, me conduzam ao teu santo monte e aos teus tabernáculos."
+    },
+    {
+      "numero": 4,
+      "texto": "E subirei ao altar de Deus, ao Deus do meu júbilo e da minha alegria, e te louvarei ao som da citara, ó Deus, Deus meu!"
+    },
+    {
+      "numero": 5,
+      "texto": "Por que te deprimes, minha alma? Por que te conturbas dentro de mim? Espera em Deus, porque novamente o hei-de louvar, (a ele que é) a salvação do meu rosto e o meu Deus."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "42:1-2",
+      "texto": "O salmista expressa seu anseio por Deus, comparando essa busca à sede de uma corça por água. Essa metáfora destaca a profundidade do desejo espiritual e a necessidade de conexão com o Criador (veja também Salmo 63:1 e João 7:37-38)."
+    },
+    {
+      "ref": "42:3-4",
+      "texto": "A lembrança dos tempos de adoração traz tristeza ao salmista, refletindo a dor da separação de Deus. Isso enfatiza a importância da comunhão e da comunidade na vida espiritual (veja também Salmo 27:4 e Hebreus 10:25)."
+    },
+    {
+      "ref": "42:5-6",
+      "texto": "O salmista fala sobre sua tristeza, mas também se exorta a esperar em Deus. Essa luta interna mostra a importância da esperança e da fé em meio às dificuldades (veja também Salmo 43:5 e Romanos 15:13)."
+    },
+    {
+      "ref": "42:7-8",
+      "texto": "A profunda angústia é seguida pela declaração da presença de Deus em meio às tribulações. A consciência da soberania divina traz conforto e segurança ao crente (veja também Salmo 46:1 e Isaías 43:2)."
+    },
+    {
+      "ref": "42:9-11",
+      "texto": "O salmista encerra o salmo com uma afirmação de fé e esperança. Essa mensagem final é um lembrete da importância de manter a confiança em Deus, mesmo nas situações mais desafiadoras (veja também Salmo 62:5 e Lamentações 3:21-23)."
+    }
+  ]
+}

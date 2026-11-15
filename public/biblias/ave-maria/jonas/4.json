@@ -1,0 +1,78 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "jonas",
+  "nome": "Jonas",
+  "testamento": "AT",
+  "capitulo": 4,
+  "totalVersiculos": 11,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/jonas/4/",
+  "capturadoEm": "2026-11-15T09:25:00-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Jonas ficou profundamente indignado com isso e, muito irritado, dirigiu ao Senhor esta prece: “Ah, Senhor, era bem isto que eu dizia quando estava ainda na minha terra! É por isso que eu tentei esquivar-me, fugindo para Társis,",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "porque sabia que sois um Deus clemente e misericordioso, de coração grande, de muita benignidade e compaixão pelos nossos males."
+    },
+    {
+      "numero": 3,
+      "texto": "Agora, Senhor, toma a minha alma, porque me é melhor a morte que a vida”.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "O Senhor respondeu-lhe: “(Julgas que) tens razão para te afligires assim?”."
+    },
+    {
+      "numero": 5,
+      "texto": "Então, saiu Jonas da cidade e fixou-se a oriente da mesma cidade. Fez uma cabana para si e lá permaneceu, à sombra, esperando para ver o que aconteceria à cidade."
+    },
+    {
+      "numero": 6,
+      "texto": "O Senhor Deus fez crescer um pé de mamona, que se levantou acima de Jonas, para fazer sombra à sua cabeça e curá-lo de seu mau humor. Jonas alegrou-se grandemente com aquela mamoneira.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "Mas, no dia seguinte, ao romper da manhã, mandou Deus um verme que roeu a raiz da mamona, e esta secou."
+    },
+    {
+      "numero": 8,
+      "texto": "Quando o sol se levantou, Deus fez soprar um vento ardente do Oriente, e o sol dardejou seus raios sobre a cabeça de Jonas, de forma que o profeta, desfalecido, desejou a morte, dizendo: “Prefiro a morte à vida”."
+    },
+    {
+      "numero": 9,
+      "texto": "O Senhor disse a Jonas: “Julgas que fazes bem em te irritares por causa de uma planta?”. Jonas respondeu: “Sim, tenho razão de me irar até a morte”."
+    },
+    {
+      "numero": 10,
+      "texto": "“Tiveste compaixão de um arbusto” – replicou-lhe o Senhor – “pelo qual nada fizeste, que não fizeste crescer, que nasceu numa noite e numa noite morreu."
+    },
+    {
+      "numero": 11,
+      "texto": "E, então, não hei de ter compaixão da grande cidade de Nínive, onde há mais de cento e vinte mil seres humanos, que não sabem discernir entre a sua mão direita e a sua mão esquerda, e uma inumerável multidão de animais?”"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "4:1-3",
+      "texto": "Jonas fica furioso com a misericórdia de Deus para com Nínive. Esse episódio revela o desafio humano de compreender a graça divina, especialmente quando ela se estende a aqueles que consideramos inimigos ou indignos (veja também Mateus 5:44 e Lucas 15:28-32)."
+    },
+    {
+      "ref": "4:4-6",
+      "texto": "Deus faz crescer uma planta para dar sombra a Jonas, e depois a faz murchar. A lição é que devemos confiar na sabedoria e providência de Deus, que conhece o que é melhor para nós e nos ensina através das circunstâncias (veja também Filipenses 4:12-13 e Tiago 1:5)."
+    },
+    {
+      "ref": "4:7-9",
+      "texto": "Deus questiona Jonas sobre sua raiva em relação à planta que morreu. Essa situação ilustra a tendência humana de se apegar ao que é efêmero e de não entender a compaixão divina que visa o bem maior de todos (veja também Romanos 9:20-21 e 1 Coríntios 9:24-27)."
+    },
+    {
+      "ref": "4:10-11",
+      "texto": "Deus explica a Jonas que Ele tem compaixão de Nínive, uma cidade grande com mais de 120.000 pessoas. Isso reforça a ideia de que a misericórdia divina é estendida a todos, sem exceção, e que Deus deseja que todos sejam salvos (veja também 2 Pedro 3:9 e 1 Timóteo 2:4)."
+    }
+  ]
+}

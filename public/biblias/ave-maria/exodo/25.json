@@ -1,0 +1,198 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "exodo",
+  "nome": "Êxodo",
+  "testamento": "AT",
+  "capitulo": 25,
+  "totalVersiculos": 40,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/exodo/25/",
+  "capturadoEm": "2026-11-15T09:08:25-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Senhor disse a Moisés:"
+    },
+    {
+      "numero": 2,
+      "texto": "“Dize aos israelitas que me façam uma oferta. Aceitareis essa oferenda de todo homem que a fizer de bom coração."
+    },
+    {
+      "numero": 3,
+      "texto": "Eis o que aceitareis à guisa de oferta: ouro, prata, cobre,"
+    },
+    {
+      "numero": 4,
+      "texto": "púrpura violeta e escarlate, carmesim, linho fino, peles de cabra,"
+    },
+    {
+      "numero": 5,
+      "texto": "peles de carneiro tingidas de vermelho, peles de golfinho, madeira de acácia,"
+    },
+    {
+      "numero": 6,
+      "texto": "azeite para candeeiro, aromas para o óleo de unção e para os incensos odoríferos,"
+    },
+    {
+      "numero": 7,
+      "texto": "pedras de ônix e outras pedras para os cabochões do efod e do peitoral."
+    },
+    {
+      "numero": 8,
+      "texto": "Eles me farão um santuário e habitarei no meio deles."
+    },
+    {
+      "numero": 9,
+      "texto": "Construireis o tabernáculo e todo o seu mobiliário exatamente segundo o modelo que vou mostrar-vos”."
+    },
+    {
+      "numero": 10,
+      "texto": "“Farão uma arca de madeira de acácia; seu comprimento será de dois côvados e meio, sua largura de um côvado e meio, e sua altura de um côvado e meio."
+    },
+    {
+      "numero": 11,
+      "texto": "Tu a recobrirás de ouro puro por dentro, e farás por fora, em volta dela, uma bordadura de ouro."
+    },
+    {
+      "numero": 12,
+      "texto": "Fundirás para a arca quatro argolas de ouro, que porás nos seus quatro pés, duas de um lado e duas de outro."
+    },
+    {
+      "numero": 13,
+      "texto": "Farás dois varais de madeira de acácia, revestidos de ouro,"
+    },
+    {
+      "numero": 14,
+      "texto": "que passarás nas argolas fixadas dos lados da arca, para se poder transportá-la."
+    },
+    {
+      "numero": 15,
+      "texto": "Uma vez passados os varais nas argolas, delas não serão mais removidos."
+    },
+    {
+      "numero": 16,
+      "texto": "Porás na arca o testemunho que eu te der.",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "Farás também uma tampa de ouro puro, cujo comprimento será de dois côvados e meio, e a largura de um côvado e meio.",
+      "nota": true
+    },
+    {
+      "numero": 18,
+      "texto": "Farás dois querubins de ouro; e os farás de ouro batido, nas duas extremidades da tampa, um de um lado e outro de outro,"
+    },
+    {
+      "numero": 19,
+      "texto": "fixando-os de modo a formar uma só peça com as extremidades da tampa."
+    },
+    {
+      "numero": 20,
+      "texto": "Terão esses querubins suas asas estendidas para o alto, e protegerão com elas a tampa, sobre a qual terão a face inclinada."
+    },
+    {
+      "numero": 21,
+      "texto": "Colocarás a tampa sobre a arca e porás dentro da arca o testemunho que eu te der."
+    },
+    {
+      "numero": 22,
+      "texto": "Ali virei ter contigo, e é de cima da tampa, do meio dos querubins que estão sobre a arca da aliança, que te darei todas as minhas ordens para os israelitas.”"
+    },
+    {
+      "numero": 23,
+      "texto": "“Farás uma mesa de madeira de acácia, cujo comprimento será de dois côvados, a largura de um côvado e a altura de um côvado e meio."
+    },
+    {
+      "numero": 24,
+      "texto": "Tu a recobrirás de ouro puro e farás em volta dela uma bordadura de ouro."
+    },
+    {
+      "numero": 25,
+      "texto": "Farás em volta dela uma orla de um palmo de largura com uma bordadura de ouro corrente ao redor."
+    },
+    {
+      "numero": 26,
+      "texto": "Farás para essa mesa quatro argolas de ouro, que fixarás nos quatro ângulos de seus pés."
+    },
+    {
+      "numero": 27,
+      "texto": "Essas argolas, colocadas à altura da orla, receberão os varais destinados a transportar a mesa."
+    },
+    {
+      "numero": 28,
+      "texto": "Farás, de madeira de acácia, varais revestidos de ouro, que servirão para o transporte da mesa."
+    },
+    {
+      "numero": 29,
+      "texto": "Farás de ouro puro os seus pratos, seus incensários, seus copos e suas taças, que servirão para as libações."
+    },
+    {
+      "numero": 30,
+      "texto": "Porás sobre essa mesa os pães da proposição, que ficarão constantemente diante de mim.”"
+    },
+    {
+      "numero": 31,
+      "texto": "“Farás um candelabro de ouro puro; e o farás de ouro batido, com o seu pedestal e sua haste: seus cálices, seus botões e suas flores formarão uma só peça com ele."
+    },
+    {
+      "numero": 32,
+      "texto": "Seis braços sairão dos seus lados, três de um lado e três de outro."
+    },
+    {
+      "numero": 33,
+      "texto": "Num braço haverá três cálices em forma de flor de amendoeira, com um botão e uma flor; noutro haverá três cálices em forma de flor de amendoeira, com um botão e uma flor e assim por diante para os seis braços do candelabro."
+    },
+    {
+      "numero": 34,
+      "texto": "No próprio candelabro haverá quatro cálices em forma de flor de amendoeira, com seus botões e suas flores:"
+    },
+    {
+      "numero": 35,
+      "texto": "um botão sob os dois primeiros braços do candelabro, um botão sob os dois braços seguintes e um botão sob os dois últimos: e assim será com os seis braços que saem do candelabro."
+    },
+    {
+      "numero": 36,
+      "texto": "Esses botões e esses braços formarão um todo com o candelabro, tudo formando uma só peça de ouro puro batido."
+    },
+    {
+      "numero": 37,
+      "texto": "Farás sete lâmpadas, que serão colocadas em cima, de maneira a alumiar a frente do candelabro."
+    },
+    {
+      "numero": 38,
+      "texto": "Seus espevitadores e seus cinzeiros serão de ouro puro."
+    },
+    {
+      "numero": 39,
+      "texto": "Será empregado um talento de ouro puro para confeccionar o candelabro e seus acessórios."
+    },
+    {
+      "numero": 40,
+      "texto": "Cuida para que se execute esse trabalho segundo o modelo que te mostrei no monte.”",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "25:1-9",
+      "texto": "Deus instrui Moisés a coletar ofertas voluntárias para a construção do Tabernáculo, o lugar onde Ele habitará entre o povo. O Tabernáculo simboliza a presença contínua de Deus no meio de Seu povo (veja também 1 Reis 8:27 e João 1:14)."
+    },
+    {
+      "ref": "25:10-16",
+      "texto": "A Arca da Aliança, feita de ouro puro, é o primeiro item descrito. Ela simboliza a presença de Deus e contém os testemunhos da aliança entre Deus e Israel (veja também Hebreus 9:3-4 e Deuteronômio 10:1-2)."
+    },
+    {
+      "ref": "25:17-22",
+      "texto": "O propiciatório, coberto pelos querubins, é descrito como o lugar onde Deus Se encontrará com Moisés. Isso aponta para o lugar da expiação e da misericórdia divina (veja também Levítico 16:14-15 e Romanos 3:25)."
+    },
+    {
+      "ref": "25:23-30",
+      "texto": "A mesa dos pães da proposição, feita de madeira de acácia e revestida de ouro, é um símbolo da provisão de Deus e da comunhão contínua com o povo (veja também Levítico 24:5-9 e João 6:35)."
+    },
+    {
+      "ref": "25:31-40",
+      "texto": "O candelabro de ouro puro, com sete lâmpadas, é descrito em detalhes. Ele representa a luz de Deus que guia Seu povo e a perfeição divina (veja também Zacarias 4:2 e Apocalipse 1:12-13)."
+    }
+  ]
+}

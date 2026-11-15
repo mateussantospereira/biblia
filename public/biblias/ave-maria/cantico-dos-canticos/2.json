@@ -1,0 +1,108 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "cantico-dos-canticos",
+  "nome": "Cântico dos Cânticos",
+  "testamento": "AT",
+  "capitulo": 2,
+  "totalVersiculos": 17,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/cantico-dos-canticos/2/",
+  "capturadoEm": "2026-11-15T09:19:55-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Sou o narciso de Saron, o lírio dos vales."
+    },
+    {
+      "numero": 2,
+      "texto": "– Como o lírio entre os espinhos, assim é minha amada entre as jovens."
+    },
+    {
+      "numero": 3,
+      "texto": "– Como a macieira entre as árvores da floresta, assim é o meu amado entre os jovens; gosto de sentar-me à sua sombra, e seu fruto é doce à minha boca."
+    },
+    {
+      "numero": 4,
+      "texto": "Ele introduziu-me num celeiro, e o estandarte, que levanta sobre mim, é o amor.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Restaurou-me com tortas de uva, fortaleceu-me com maçãs, porque estou enferma de amor."
+    },
+    {
+      "numero": 6,
+      "texto": "Sua mão esquerda está sob minha cabeça, e sua direita abraça-me."
+    },
+    {
+      "numero": 7,
+      "texto": "– Conjuro-vos, ó filhas de Jerusalém, pelas gazelas e as corças dos campos, que não desperteis nem perturbeis o amor, até que ele o queira.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "– Oh, esta é a voz do meu amado! Ei-lo que aí vem, saltando sobre os montes, pulando sobre as colinas.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Meu amado é como a gazela ou como um cervozinho. Ei-lo que está atrás da nossa parede. Olha pela janela, espreita pelas grades."
+    },
+    {
+      "numero": 10,
+      "texto": "Meu bem-amado disse-me: “Levanta-te, minha amada; vem, formosa minha."
+    },
+    {
+      "numero": 11,
+      "texto": "Eis que o inverno passou: cessaram e desapareceram as chuvas."
+    },
+    {
+      "numero": 12,
+      "texto": "Apareceram as flores na nossa terra, voltou o tempo das canções. Em nossas terras já se ouve a voz da rola."
+    },
+    {
+      "numero": 13,
+      "texto": "A figueira já começa a dar os seus figos, e a vinha em flor exala o seu perfume; levanta-te, minha amada, formosa minha, e vem."
+    },
+    {
+      "numero": 14,
+      "texto": "Minha pomba, oculta nas fendas do rochedo, e nos abrigos das rochas escarpadas, mostra-me o teu rosto, faze-me ouvir a tua voz. Tua voz é tão doce e delicado teu rosto!”."
+    },
+    {
+      "numero": 15,
+      "texto": "– Apanhai-nos as raposas, essas pequenas raposas que devastam nossas vinhas, pois nossas vinhas estão em flor.",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "– Meu bem-amado é para mim, e eu para ele; ele apascenta entre os lírios."
+    },
+    {
+      "numero": 17,
+      "texto": "Antes que sopre a brisa do dia, e se estendam as sombras, volta, ó meu amado, como a gazela ou o cervozinho para os montes escarpados.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "2:1-2",
+      "texto": "A amada se vê como uma flor do campo, destacando a beleza da simplicidade e da humildade. Essa autoidentificação revela a graça de Deus em reconhecer e valorizar cada um de nós em nossa individualidade (veja também 1 Pedro 5:6-7 e Mateus 6:28-30)."
+    },
+    {
+      "ref": "2:3-4",
+      "texto": "O amado é comparado a uma árvore frutífera, simbolizando proteção e nutrição. Essa imagem reflete o amor de Deus que nos acolhe e nos sustenta, oferecendo abrigo e alimento espiritual (veja também Salmo 91:1 e João 15:5)."
+    },
+    {
+      "ref": "2:5-7",
+      "texto": "A amada expressa seu desejo e necessidade de segurança e amor. A importância de esperar pelo tempo certo no amor é enfatizada, assim como a proteção que Deus oferece em tempos de insegurança (veja também Salmo 46:1 e Filipenses 4:6-7)."
+    },
+    {
+      "ref": "2:8-10",
+      "texto": "O amado aparece, trazendo alegria e esperança. Sua chegada é um símbolo da presença de Deus que traz renovação e vida, indicando que a presença do amado é uma bênção e um conforto (veja também Salmo 30:5 e Isaías 40:31)."
+    },
+    {
+      "ref": "2:11-13",
+      "texto": "A mudança das estações é mencionada, simbolizando o tempo de amor. Essa passagem fala sobre a beleza do amor que floresce em seu devido tempo, refletindo o plano divino para os relacionamentos (veja também Eclesiastes 3:1-8 e Gálatas 6:9)."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "miqueias",
+  "nome": "Miquéias",
+  "testamento": "AT",
+  "capitulo": 4,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/miqueias/4/",
+  "capturadoEm": "2026-11-15T09:25:04-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Acontecerá, no fim dos tempos, que a montanha da casa do Senhor será estabelecida no ápice das montanhas, e será mais elevada que todos os outeiros. Os povos afluirão para ela,"
+    },
+    {
+      "numero": 2,
+      "texto": "numerosas nações ali virão, dizendo: “Vinde, subamos à montanha do Senhor, à casa do Deus de Jacó. Ele nos ensinará os seus caminhos, e andaremos por suas veredas”. Porque de Sião sairá a doutrina, e de Jerusalém a palavra do Senhor.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Ele será árbitro de numerosas nações e juiz de povos longínquos e poderosos. De suas espadas forjarão arados, e de suas lanças, foices; uma nação não levantará mais a espada contra outra, e não se exercitará mais para a guerra.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Mas cada um habitará debaixo de sua vinha e debaixo de sua figueira, sem que ninguém o moleste; porque assim o prometeu, por sua boca, o Senhor dos exércitos."
+    },
+    {
+      "numero": 5,
+      "texto": "Com efeito, todos os povos andam, cada um em nome de seu deus; nós, porém, andaremos para sempre em nome do Senhor, nosso Deus."
+    },
+    {
+      "numero": 6,
+      "texto": "Naquele dia – oráculo do Senhor –, recolherei os coxos, reunirei os dispersos e os que eu tinha afligido."
+    },
+    {
+      "numero": 7,
+      "texto": "Dos estropiados farei um resto, dos afastados, uma nação robusta; e o Senhor será o seu rei sobre o monte Sião, desde agora e para sempre."
+    },
+    {
+      "numero": 8,
+      "texto": "E tu, torre do Rebanho, colina da filha de Sião: voltará a ti tua soberania de outrora, a realeza sobre a casa de Israel.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "E agora, por que gritas? Acaso não há rei em ti? Ou pereceu o teu conselheiro, para que se apoderem de ti dores como as de uma parturiente?"
+    },
+    {
+      "numero": 10,
+      "texto": "Convulsiona-te e geme, filha de Sião, como uma mulher que dá à luz. Vais ter que deixar a cidade e morar no campo; irás até a Babilônia e ali serás salva; ali te resgatará o Senhor da mão de teus inimigos."
+    },
+    {
+      "numero": 11,
+      "texto": "Agora se juntam contra ti numerosas nações que dizem: “Seja profanada Sião! Possam nossos olhos ver esta ruína!”."
+    },
+    {
+      "numero": 12,
+      "texto": "Todavia, elas desconhecem os planos do Senhor, não entendem o seu desígnio, que é de ajuntá-los como grãos na eira.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Eia, filha de Sião! Tritura aos pés o grão! Pois te darei uma testa de ferro e te darei cascos de bronze, para que esmagues numerosos povos; votarás seus despojos ao Senhor e suas riquezas ao Senhor da terra."
+    },
+    {
+      "numero": 14,
+      "texto": "Agora, reúne tuas tropas, filha de guerreiros! Vieram e nos cercaram, ferem com uma vara a face do juiz de Israel."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "4:1-2",
+      "texto": "Miquéias faz uma profecia de esperança, descrevendo um tempo em que as montanhas serão exaltadas e as nações virão a Jerusalém para adorar a Deus. Isso simboliza a futura paz e o reinado de Deus sobre todas as nações (veja também Isaías 2:2-4 e Zacarias 8:20-23)."
+    },
+    {
+      "ref": "4:3-4",
+      "texto": "A paz que Deus trará para o Seu povo é simbolizada pela prosperidade e segurança de cada pessoa. Este é um retrato do Reino de Deus, onde a violência e a opressão não terão lugar (veja também Isaías 11:6-9 e Apocalipse 21:1-4)."
+    },
+    {
+      "ref": "4:5-7",
+      "texto": "Miquéias profetiza que Deus reunirá o Seu remanescente e restaurará a prosperidade de Israel, um contraste com o presente sofrimento. O remanescente fiel será a base da nova Jerusalém, simbolizando a fidelidade de Deus para com o Seu povo (veja também Isaías 10:20-22 e Romanos 11:5)."
+    },
+    {
+      "ref": "4:8",
+      "texto": "A profecia fala sobre a exaltação da \"torre de Sião\", que representa o centro do governo divino e a futura Jerusalém restaurada. Isso simboliza o estabelecimento do Reino de Deus de forma plena (veja também Isaías 60:14 e Apocalipse 21:10-14)."
+    },
+    {
+      "ref": "4:9-13",
+      "texto": "Apesar das dificuldades presentes, Miquéias profetiza que a restauração será assegurada por Deus. Mesmo em tempos de sofrimento, Ele vai fortalecer Israel, simbolizando Sua soberania e o triunfo do bem sobre o mal (veja também Isaías 54:7-10 e Romanos 8:18-23)."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 143,
+  "totalVersiculos": 15,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/143/",
+  "capturadoEm": "2026-11-15T09:18:30-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "De Davi. Bendito seja o Senhor, meu rochedo, que adestra minhas mãos para o combate, meus dedos para a guerra;",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "meu benfeitor e meu refúgio, minha cidadela e meu libertador, meu escudo e meu asilo, que submete a mim os povos."
+    },
+    {
+      "numero": 3,
+      "texto": "Que é o homem, Senhor, para cuidardes dele, que é o Filho do Homem para que vos ocupeis dele?"
+    },
+    {
+      "numero": 4,
+      "texto": "O homem é semelhante ao sopro da brisa, seus dias são como a sombra que passa."
+    },
+    {
+      "numero": 5,
+      "texto": "Inclinai, Senhor, os vossos céus e descei, tocai as montanhas para que se abrasem,"
+    },
+    {
+      "numero": 6,
+      "texto": "fulminai o raio e dispersai-os, lançai vossas setas e afugentai-os."
+    },
+    {
+      "numero": 7,
+      "texto": "Estendei do alto a vossa mão, tirai-me do caudal, das mãos do estrangeiro,"
+    },
+    {
+      "numero": 8,
+      "texto": "cuja boca só diz mentiras e cuja mão só faz juramentos falsos."
+    },
+    {
+      "numero": 9,
+      "texto": "Ó Deus, vou cantar-vos um cântico novo, vos louvarei com a harpa de dez cordas."
+    },
+    {
+      "numero": 10,
+      "texto": "Vós que aos reis dais a vitória, que livrastes Davi, vosso servo;"
+    },
+    {
+      "numero": 11,
+      "texto": "salvai-me da espada da malícia, e livrai-me das mãos de estrangeiros, cuja boca só diz mentiras e cuja mão só faz juramentos falsos."
+    },
+    {
+      "numero": 12,
+      "texto": "Sejam nossos filhos como as plantas novas, que crescem na sua juventude; sejam nossas filhas como as colunas angulares esculpidas, como os pilares do templo."
+    },
+    {
+      "numero": 13,
+      "texto": "Encham-se os nossos celeiros de frutos variados e abundantes, multipliquem-se aos milhares nossos rebanhos, por miríades cresçam eles em nossos campos; sejam fecundas as nossas novilhas."
+    },
+    {
+      "numero": 14,
+      "texto": "Não haja brechas em nossos muros, nem ruptura nem lamentações em nossas praças."
+    },
+    {
+      "numero": 15,
+      "texto": "Feliz o povo agraciado com tais bens; feliz o povo cujo Deus é o Senhor."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "143:1-2",
+      "texto": "O salmista implora a misericórdia de Deus, reconhecendo que nenhum ser humano é justo aos olhos de Deus. Isso destaca a necessidade da graça divina para a salvação e o perdão dos pecados (veja também Romanos 3:10-12 e Efésios 2:8-9)."
+    },
+    {
+      "ref": "143:3-4",
+      "texto": "O salmista descreve a opressão dos inimigos que o deixaram em um estado de desespero. Esse lamento revela a angústia que muitas vezes acompanha a vida de fé e a necessidade de confiar no consolo de Deus (veja também Salmo 22:1-2 e 2 Coríntios 4:8-9)."
+    },
+    {
+      "ref": "143:5-6",
+      "texto": "O salmista medita nas obras de Deus e estende suas mãos em oração, sedento por um encontro com o Senhor. Essa busca por Deus em momentos de desespero é um tema central da espiritualidade bíblica (veja também Salmo 63:1-2 e Isaías 26:9)."
+    },
+    {
+      "ref": "143:8-9",
+      "texto": "O salmista confia que a bondade de Deus o guiará e o livrará dos inimigos. Ele reconhece que o caminho da justiça é encontrado através da orientação divina e da dependência de Sua vontade (veja também Salmo 25:4-5 e Provérbios 3:5-6)."
+    },
+    {
+      "ref": "143:10-11",
+      "texto": "O pedido para que Deus ensine Seu caminho e mantenha o salmista vivo é um apelo à sabedoria e à preservação espiritual. A vontade de Deus é o guia para a vida justa, e Seu Espírito é o consolador nas provações (veja também Salmo 119:33 e João 14:26)."
+    }
+  ]
+}

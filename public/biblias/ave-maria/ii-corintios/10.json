@@ -1,0 +1,101 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ii-corintios",
+  "nome": "II Coríntios",
+  "testamento": "NT",
+  "capitulo": 10,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ii-corintios/10/",
+  "capturadoEm": "2026-11-15T09:28:18-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eu, Paulo, vos exorto pela mansidão e bondade de Cristo, eu que me mostro humilde quando estou entre vós, mas, quando longe, sou ousado convosco.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Peço-vos que, quando eu estiver presente, não me veja obrigado a usar de minha autoridade de que pretendo realmente usar com certas pessoas que imaginam que nós procedemos com intenções humanas.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Porque, ainda que vivamos na carne, não militamos segundo a carne."
+    },
+    {
+      "numero": 4,
+      "texto": "Não são carnais as armas com que lutamos. São poderosas, em Deus, capazes de arrasar fortificações."
+    },
+    {
+      "numero": 5,
+      "texto": "Nós aniquilamos todo raciocínio e todo orgulho que se levanta contra o conhecimento de Deus, e cativamos todo pensamento e o reduzimos à obediência a Cristo."
+    },
+    {
+      "numero": 6,
+      "texto": "Estamos prontos também para castigar todos os desobedientes, assim que for perfeita a vossa obediência."
+    },
+    {
+      "numero": 7,
+      "texto": "Julgais as coisas pela aparência!... Quem se gloria de pertencer a Cristo considere que, como ele é de Cristo, assim também nós o somos."
+    },
+    {
+      "numero": 8,
+      "texto": "Ainda que eu me orgulhasse um pouco em demasia da autoridade que o Senhor nos deu, para vossa edificação e não para vossa ruína, não teria de que envergonhar-me."
+    },
+    {
+      "numero": 9,
+      "texto": "Não quero, porém, dar a impressão de querer aterrar-vos com minhas cartas."
+    },
+    {
+      "numero": 10,
+      "texto": "“Suas cartas” – dizem – “são imperativas e fortes, mas, quando está presente, a sua pessoa é fraca e a palavra desprezível.”"
+    },
+    {
+      "numero": 11,
+      "texto": "Quem assim pensa, fique sabendo que quais somos por escrito nas cartas, quando estamos ausentes, tais seremos também de fato, quando estivermos presentes."
+    },
+    {
+      "numero": 12,
+      "texto": "Em verdade, não ousamos equiparar-nos nem comparar-nos com alguns que se preconizam a si próprios. Medindo-se eles conforme a sua própria medida e comparando-se consigo mesmos, dão provas de pouco bom senso."
+    },
+    {
+      "numero": 13,
+      "texto": "Nós outros não nos gloriaremos além da medida, mas permaneceremos dentro do campo de ação que Deus nos determinou, levando-nos até vós."
+    },
+    {
+      "numero": 14,
+      "texto": "Não passamos além dos limites. Estaríamos passando, caso não houvéssemos chegado até vós. Ora, realmente temos chegado até vós, pregando o Evangelho de Cristo."
+    },
+    {
+      "numero": 15,
+      "texto": "Não nos ufanamos além da medida, cobrindo-nos de trabalhos alheios. Esperamos que, com o progresso de vossa fé, nossa obra cresça entre vós dentro do quadro de ação que nos foi determinado."
+    },
+    {
+      "numero": 16,
+      "texto": "Assim esperamos levar o Evangelho aos países que ficam além de vós, sem nos gloriarmos das obras realizadas por outros dentro do domínio reservado a eles."
+    },
+    {
+      "numero": 17,
+      "texto": "Ora, quem se gloria, glorie-se no Senhor."
+    },
+    {
+      "numero": 18,
+      "texto": "Pois merece a aprovação não aquele que se recomenda a si mesmo, mas aquele que o Senhor recomenda."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "10:3-5",
+      "texto": "Paulo fala sobre a guerra espiritual, onde as armas não são carnais, mas espirituais. Ele exorta os cristãos a tomar todo pensamento cativo à obediência de Cristo. A mente cristã deve estar submetida a Cristo (veja também Efésios 6:12 e 2 Coríntios 5:10)."
+    },
+    {
+      "ref": "10:7",
+      "texto": "Paulo adverte sobre a importância de olhar as coisas com olhos espirituais, para não se enganar pela aparência. A verdadeira autoridade e força vêm de Deus (veja também 1 Samuel 16:7 e João 7:24)."
+    },
+    {
+      "ref": "10:12-13",
+      "texto": "Paulo destaca que a comparação com outros não é a medida de seu ministério, e ele não se gloria nas conquistas humanas, mas no chamado de Deus. A humildade é uma característica essencial da vida cristã (veja também Gálatas 6:4-5 e 2 Coríntios 3:5)."
+    }
+  ]
+}

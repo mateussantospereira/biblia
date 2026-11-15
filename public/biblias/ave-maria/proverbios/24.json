@@ -1,0 +1,172 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "proverbios",
+  "nome": "Provérbios",
+  "testamento": "AT",
+  "capitulo": 24,
+  "totalVersiculos": 34,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/proverbios/24/",
+  "capturadoEm": "2026-11-15T09:19:33-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Não invejes os maus, nem desejes estar com eles,"
+    },
+    {
+      "numero": 2,
+      "texto": "porque seus corações maquinam a violência e seus lábios só proclamam a iniquidade."
+    },
+    {
+      "numero": 3,
+      "texto": "É com sabedoria que se constrói a casa, pela prudência ela se consolida."
+    },
+    {
+      "numero": 4,
+      "texto": "Pela ciência enchem-se os celeiros de todo bem precioso e agradável."
+    },
+    {
+      "numero": 5,
+      "texto": "O sábio é um homem forte, o douto é cheio de vigor."
+    },
+    {
+      "numero": 6,
+      "texto": "É com a prudência que empreenderás a guerra e a vitória depende de grande número de conselheiros."
+    },
+    {
+      "numero": 7,
+      "texto": "A sabedoria é por demais sublime para o tolo; à porta da cidade, ele não abre a boca."
+    },
+    {
+      "numero": 8,
+      "texto": "Quem medita fazer o mal, é chamado mestre intrigante."
+    },
+    {
+      "numero": 9,
+      "texto": "O desígnio da loucura é o pecado; e detrator é terror para os outros."
+    },
+    {
+      "numero": 10,
+      "texto": "Se te deixas abater no dia da adversidade, minguada é a tua força.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Livra os que foram entregues à morte, salva os que cambaleiam indo para o massacre."
+    },
+    {
+      "numero": 12,
+      "texto": "Se disseres: “Mas, não o sabia!”. Aquele que pesa os corações não o verá? Aquele que vigia tua alma não o saberá? E não retribuirá a cada qual segundo seu procedimento?"
+    },
+    {
+      "numero": 13,
+      "texto": "Meu filho, come mel, pois é bom; um favo de mel é doce para teu paladar."
+    },
+    {
+      "numero": 14,
+      "texto": "Sabe, pois, que assim será a sabedoria para tua alma. Se tu a encontrares, haverá para ti um bom futuro e tua esperança não será frustrada."
+    },
+    {
+      "numero": 15,
+      "texto": "Não conspires, ó ímpio, contra a casa do justo, não destruas sua habitação!"
+    },
+    {
+      "numero": 16,
+      "texto": "Porque o justo cai sete vezes, mas ergue-se, enquanto os ímpios desfalecem na desgraça."
+    },
+    {
+      "numero": 17,
+      "texto": "Não te alegres, se teu inimigo cair, se tropeçar, que não se rejubile teu coração,"
+    },
+    {
+      "numero": 18,
+      "texto": "para não suceder que o Senhor o veja, e isto lhe desagrade, e tire de cima dele sua ira."
+    },
+    {
+      "numero": 19,
+      "texto": "Não te indignes à vista dos maus, não invejes os ímpios,"
+    },
+    {
+      "numero": 20,
+      "texto": "porque para o mal não há futuro e o luzeiro dos ímpios se extinguirá."
+    },
+    {
+      "numero": 21,
+      "texto": "Meu filho, teme o Senhor e o rei, não te mistures com os sediciosos,"
+    },
+    {
+      "numero": 22,
+      "texto": "porque, de repente, surgirá sua desgraça. Quem conhece a destruição de uns e de outros?"
+    },
+    {
+      "numero": 23,
+      "texto": "O que segue é ainda dos sábios: Não é bom mostrar-se parcial no julgamento."
+    },
+    {
+      "numero": 24,
+      "texto": "Ao que diz ao culpado: “Tu és inocente”, os povos o amaldiçoarão, as nações o abominarão."
+    },
+    {
+      "numero": 25,
+      "texto": "Aqueles que sabem repreender são louvados, sobre eles cai uma chuva de bênçãos."
+    },
+    {
+      "numero": 26,
+      "texto": "Dá um beijo nos lábios aquele que responde com sinceridade."
+    },
+    {
+      "numero": 27,
+      "texto": "Cuida da tua tarefa de fora, aplica-te ao teu campo e depois edificarás tua habitação."
+    },
+    {
+      "numero": 28,
+      "texto": "Não sejas testemunha inconsiderada contra teu próximo. Queres, acaso, que teus lábios te enganem?"
+    },
+    {
+      "numero": 29,
+      "texto": "Não digas: “Eu lhe farei o que me fez, pagarei a este homem segundo seus atos”."
+    },
+    {
+      "numero": 30,
+      "texto": "Perto da terra do preguiçoso eu passei, junto à vinha de um homem insensato:"
+    },
+    {
+      "numero": 31,
+      "texto": "eis que, por toda a parte, cresciam abrolhos, urtigas cobriam o solo, o muro de pedra estava por terra."
+    },
+    {
+      "numero": 32,
+      "texto": "Vendo isso, refleti; daquilo que havia visto, tirei esta lição:"
+    },
+    {
+      "numero": 33,
+      "texto": "um pouco de sono, um pouco de torpor, um pouco cruzando as mãos para descansar"
+    },
+    {
+      "numero": 34,
+      "texto": "e virá a indigência como um vagabundo, a miséria como um homem armado!"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "24:3-4",
+      "texto": "Com sabedoria edifica-se a casa, e com discernimento ela se firma; pelo conhecimento os seus quartos se enchem de bens preciosos e agradáveis. A sabedoria é fundamental para construir uma vida próspera e estável (veja também Tiago 1:5 e Salmo 127:1)."
+    },
+    {
+      "ref": "24:10",
+      "texto": "Se você vacila no dia da adversidade, como será limitada a sua força! Este provérbio enfatiza a importância da perseverança e da resiliência nos tempos difíceis (veja também 2 Coríntios 4:8-9 e Isaías 40:29-31)."
+    },
+    {
+      "ref": "24:17-18",
+      "texto": "Não se alegre quando o seu inimigo cair, nem exulte o seu coração quando ele tropeçar, para que o Senhor não veja isso e Se desagrade. Este versículo adverte contra o sentimento de vingança e a satisfação pelo fracasso alheio (veja também Mateus 5:44 e Romanos 12:19-21)."
+    },
+    {
+      "ref": "24:19-20",
+      "texto": "Não se aborreça por causa dos malfeitores, nem tenha inveja dos ímpios, pois eles não têm futuro. Este versículo tranquiliza os justos, lembrando que o fim dos ímpios é a destruição (veja também Salmo 37:7-9 e 1 Pedro 3:12)."
+    },
+    {
+      "ref": "24:30-34",
+      "texto": "O preguiçoso é advertido ao observar o campo cheio de espinhos e a falta de cuidado com a propriedade. A negligência leva à pobreza e à ruína. A diligência e o trabalho são caminhos para o sucesso (veja também Provérbios 6:6-11 e 2 Tessalonicenses 3:10)."
+    }
+  ]
+}

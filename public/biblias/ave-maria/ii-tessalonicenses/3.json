@@ -1,0 +1,111 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ii-tessalonicenses",
+  "nome": "II Tessalonicenses",
+  "testamento": "NT",
+  "capitulo": 3,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ii-tessalonicenses/3/",
+  "capturadoEm": "2026-11-15T09:28:50-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Por fim, irmãos, orai por nós, para que a palavra do Senhor se propague e seja estimada, tal como acontece entre vós,"
+    },
+    {
+      "numero": 2,
+      "texto": "e para que sejamos livres dos homens perversos e maus; porque nem todos possuem a fé."
+    },
+    {
+      "numero": 3,
+      "texto": "Mas o Senhor é fiel, e ele há de vos dar forças e vos preservar do mal."
+    },
+    {
+      "numero": 4,
+      "texto": "Quanto a vós, temos plena certeza no Senhor de que estareis cumprindo e continuareis a cumprir o que vos prescrevemos."
+    },
+    {
+      "numero": 5,
+      "texto": "Que o Senhor dirija os vossos corações para o amor de Deus e a paciência de Cristo.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Intimamo-vos, irmãos, em nome de nosso Senhor Jesus Cristo, que eviteis a convivência de todo irmão que leve vida ociosa e contrária à tradição que de nós tendes recebido.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "Sabeis perfeitamente o que deveis fazer para nos imitar. Não temos vivido entre vós desregradamente,"
+    },
+    {
+      "numero": 8,
+      "texto": "nem temos comido de graça o pão de ninguém. Mas, com trabalho e fadiga, labutamos noite e dia, para não sermos pesados a nenhum de vós."
+    },
+    {
+      "numero": 9,
+      "texto": "Não porque não tivéssemos direito para isso, mas foi para vos oferecer em nós mesmos um exemplo a imitar.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Aliás, quando estávamos convosco, nós vos dizíamos formalmente: Quem não quiser trabalhar não tem o direito de comer."
+    },
+    {
+      "numero": 11,
+      "texto": "Entretanto, soubemos que entre vós há alguns desordeiros, vadios, que só se preocupam em intrometer-se em assuntos alheios."
+    },
+    {
+      "numero": 12,
+      "texto": "A esses indivíduos ordenamos e exortamos a que se dediquem tranquilamente ao trabalho para merecerem ganhar o que comer."
+    },
+    {
+      "numero": 13,
+      "texto": "Vós, irmãos, não vos canseis de fazer o bem."
+    },
+    {
+      "numero": 14,
+      "texto": "Se alguém não obedecer ao que ordenamos por esta carta, notai-o e, para que ele se envergonhe, deixai de ter familiaridade com ele."
+    },
+    {
+      "numero": 15,
+      "texto": "Porém, não deveis considerá-lo como inimigo, mas repreendê-lo como irmão."
+    },
+    {
+      "numero": 16,
+      "texto": "O Senhor da paz vos conceda a paz em todo o tempo e em todas as circunstâncias. O Senhor esteja com todos vós."
+    },
+    {
+      "numero": 17,
+      "texto": "A saudação vai de meu próprio punho: PAULO. É esta a minha assinatura em todas as minhas cartas. É assim que eu escrevo.",
+      "nota": true
+    },
+    {
+      "numero": 18,
+      "texto": "A graça de nosso Senhor Jesus Cristo esteja com todos vós!"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-2",
+      "texto": "Paulo pede orações para o avanço do evangelho e proteção contra os malfeitores. A missão da Igreja continua sendo difundir o evangelho com eficácia e força, apesar da oposição (veja também Romanos 15:30-32 e Colossenses 4:3-4)."
+    },
+    {
+      "ref": "3:3-5",
+      "texto": "Deus é fiel para fortalecer e proteger os cristãos. Paulo ora para que os tessalonicenses sejam firmados em seu amor e em sua perseverança em Cristo (veja também 1 Coríntios 1:8-9 e Filipenses 4:7)."
+    },
+    {
+      "ref": "3:6-10",
+      "texto": "Paulo instrui os tessalonicenses a se afastarem dos desordeiros que não trabalham. O trabalho diligente é visto como parte integrante da vida cristã, refletindo o testemunho de Cristo (veja também 1 Tessalonicenses 4:11-12 e 2 Tessalonicenses 3:12)."
+    },
+    {
+      "ref": "3:11-13",
+      "texto": "A exortação de Paulo contra a ociosidade e o comportamento preguiçoso reforça o valor do trabalho para sustentar a comunidade. A perseverança na fé também é necessária para viver de maneira digna (veja também 2 Coríntios 3:10 e 1 Tessalonicenses 5:14)."
+    },
+    {
+      "ref": "3:16-18",
+      "texto": "Paulo conclui com uma bênção de paz e exorta os cristãos a seguirem sua doutrina e exemplo. A paz de Deus é um fruto da obediência e do compromisso com os ensinamentos apostólicos (veja também Filipenses 4:9 e 1 Coríntios 14:33)."
+    }
+  ]
+}

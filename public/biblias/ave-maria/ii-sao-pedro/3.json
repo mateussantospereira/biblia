@@ -1,0 +1,111 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ii-sao-pedro",
+  "nome": "II São Pedro",
+  "testamento": "NT",
+  "capitulo": 3,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ii-sao-pedro/3/",
+  "capturadoEm": "2026-11-15T09:29:30-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Caríssimos, esta é a segunda carta que vos escrevo. Tanto numa como noutra, apelo às vossas recordações para despertar em vós uma sã compreensão,"
+    },
+    {
+      "numero": 2,
+      "texto": "e para vos lembrar as predições dos santos profetas, bem como o mandamento de nosso Senhor e Salvador, ensinado por vossos apóstolos."
+    },
+    {
+      "numero": 3,
+      "texto": "Sabei, antes de tudo, o seguinte: nos últimos tempos virão escarnecedores cheios de zombaria, que viverão segundo as suas próprias concupiscências."
+    },
+    {
+      "numero": 4,
+      "texto": "Eles dirão: “Onde está a promessa de sua vinda? Desde que nossos pais morreram, tudo continua como desde o princípio do mundo”.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Esquecem-se propositadamente que desde o princípio existiam os céus e igualmente uma terra que a Palavra de Deus fizera surgir do seio das águas, no meio da água,",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "e desse modo o mundo de então perecia afogado na água."
+    },
+    {
+      "numero": 7,
+      "texto": "Mas os céus e a terra que agora existem são guardados pela mesma palavra divina e reservados para o fogo no dia do juízo e da perdição dos ímpios."
+    },
+    {
+      "numero": 8,
+      "texto": "Mas há uma coisa, caríssimos, de que não vos deveis esquecer: um dia diante do Senhor é como mil anos, e mil anos como um dia."
+    },
+    {
+      "numero": 9,
+      "texto": "O Senhor não retarda o cumprimento de sua promessa, como alguns pensam, mas usa da paciência para convosco. Não quer que alguém pereça; ao contrário, quer que todos se arrependam."
+    },
+    {
+      "numero": 10,
+      "texto": "Entretanto, virá o dia do Senhor como ladrão. Naquele dia, os céus passarão com ruído, os elementos abrasados se dissolverão, e será consumida a terra com todas as obras que ela contém."
+    },
+    {
+      "numero": 11,
+      "texto": "Uma vez que todas essas coisas se hão de desagregar, considerai qual deve ser a santidade de vossa vida e de vossa piedade,"
+    },
+    {
+      "numero": 12,
+      "texto": "enquanto esperais e apressais o dia de Deus, esse dia em que se hão de dissolver os céus inflamados e se hão de fundir os elementos abrasados!"
+    },
+    {
+      "numero": 13,
+      "texto": "Nós, porém, segundo sua promessa, esperamos novos céus e uma nova terra, nos quais habitará a justiça."
+    },
+    {
+      "numero": 14,
+      "texto": "Portanto, caríssimos, esperando essas coisas, esforçai-vos em ser por ele achados sem mácula e irrepreensíveis na paz."
+    },
+    {
+      "numero": 15,
+      "texto": "Reconhecei que a longa paciência de nosso Senhor vos é salutar, como também vosso caríssimo irmão Paulo vos escreveu, segundo o dom de sabedoria que lhe foi dado.",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "É o que ele faz em todas as suas cartas, nas quais fala nesses assuntos. Nelas há algumas passagens difíceis de entender, cujo sentido os espíritos ignorantes ou pouco fortalecidos deturpam, para a sua própria ruína, como o fazem também com as demais Escrituras.",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "Vós, pois, caríssimos, advertidos de antemão, tomai cuidado para que não caiais da vossa firmeza, levados pelo erro desses homens ímpios."
+    },
+    {
+      "numero": 18,
+      "texto": "Mas crescei na graça e no conhecimento de nosso Senhor e Salvador Jesus Cristo. A ele a glória, agora e eternamente."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:3-7",
+      "texto": "Pedro alerta contra os zombadores que negam o retorno de Cristo. A paciência de Deus é uma oportunidade para arrependimento, mas o julgamento virá no tempo determinado por Ele (veja também Mateus 24:36 e Apocalipse 22:12)."
+    },
+    {
+      "ref": "3:8-9",
+      "texto": "A demora na volta de Cristo não deve ser vista como uma falha, mas como um ato de misericórdia, dando tempo para que todos cheguem ao arrependimento. Deus não deseja que ninguém se perca (veja também 1 Timóteo 2:4 e Ezequiel 33:11)."
+    },
+    {
+      "ref": "3:10-13",
+      "texto": "A vinda do Dia do Senhor será repentina e transformará o mundo. A expectativa da nova criação deve motivar os cristãos a viverem em santidade e devoção, aguardando a promessa de um novo céu e nova terra (veja também Apocalipse 21:1 e Isaías 65:17)."
+    },
+    {
+      "ref": "3:14-15",
+      "texto": "Os cristãos devem estar preparados para o retorno de Cristo, buscando viver em paz, sem mancha e irrepreensíveis. A paciência de Deus deve ser vista como salvação, não como indiferença (veja também Filipenses 3:14 e Romanos 2:7)."
+    },
+    {
+      "ref": "3:16-18",
+      "texto": "Pedro adverte sobre a dificuldade de entender as cartas de Paulo, que podem ser distorcidas pelos ignorantes e instáveis. Ele conclama os cristãos a crescerem na graça e no conhecimento de Jesus, permanecendo firmes na fé (veja também Efésios 4:14 e 2 Timóteo 2:15)."
+    }
+  ]
+}

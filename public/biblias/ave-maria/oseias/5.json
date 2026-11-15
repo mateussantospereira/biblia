@@ -1,0 +1,96 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "oseias",
+  "nome": "Oséias",
+  "testamento": "AT",
+  "capitulo": 5,
+  "totalVersiculos": 15,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/oseias/5/",
+  "capturadoEm": "2026-11-15T09:24:33-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ouvi isto, ó sacerdotes, sede atentos, chefes de Israel, escuta, gente de casa do rei! Contra vós será feito o julgamento, porque vos tornastes um laço para a sentinela, uma rede estendida no Tabor."
+    },
+    {
+      "numero": 2,
+      "texto": "Os perseguidores levaram ao extremo a maldade, mas vou castigá-los todos."
+    },
+    {
+      "numero": 3,
+      "texto": "Conheço Efraim, e Israel não me é oculto. Ora, Efraim transviou-se e Israel maculou-se;"
+    },
+    {
+      "numero": 4,
+      "texto": "seu proceder não lhes permite voltar ao seu Deus, porque um espírito de prostituição os possui; eles desconhecem o Senhor."
+    },
+    {
+      "numero": 5,
+      "texto": "A arrogância de Israel dá testemunho contra ele, Israel e Efraim tropeçarão em sua iniquidade, e também Judá cairá com eles."
+    },
+    {
+      "numero": 6,
+      "texto": "Irão buscar o Senhor com suas ovelhas e seus bois, mas não o encontrarão:"
+    },
+    {
+      "numero": 7,
+      "texto": "o Senhor retirou-se deles porque o traíram, porque geraram filhos bastardos. O destruidor vai devorá-los, eles e seus campos."
+    },
+    {
+      "numero": 8,
+      "texto": "Tocai a corneta em Gabaá, a trombeta em Ramá, dai o alarme em Bet-Áven, alertai Benjamim!"
+    },
+    {
+      "numero": 9,
+      "texto": "Efraim será devastado no dia do castigo. Sobre as tribos de Israel profiro um decreto irrevogável:"
+    },
+    {
+      "numero": 10,
+      "texto": "os chefes de Judá procedem como aqueles que mudam os marcos. Derramarei sobre eles as torrentes do meu furor."
+    },
+    {
+      "numero": 11,
+      "texto": "Efraim é opressor, transgride o direito porque se compraz em abandonar a regra.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Serei para Efraim como a tinha, e para a casa de Judá, como a cárie."
+    },
+    {
+      "numero": 13,
+      "texto": "Efraim verá o seu mal, e Judá a sua chaga; Efraim recorrerá à Assíria e Judá se dirigirá ao grande rei. Mas este não vos poderá curar nem dar remédio à vossa chaga,"
+    },
+    {
+      "numero": 14,
+      "texto": "porque serei como um leão para Efraim, como um leão para a casa de Judá; eu, eu mesmo despedaçarei a presa e partirei; eu a levarei e ninguém de mim a arrebatará."
+    },
+    {
+      "numero": 15,
+      "texto": "Regressarei à minha morada, até que se arrependam de seus pecados e me procurem, e em sua miséria recorram a mim."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "5:1-2",
+      "texto": "O chamado de Deus aos sacerdotes e líderes de Israel destaca a responsabilidade deles na direção espiritual do povo. A falha desses líderes em conduzir o povo em fidelidade a Deus resulta em julgamento iminente. O pecado da liderança reflete-se no comportamento do povo (veja também Tiago 3:1 e Ezequiel 34:2-10)."
+    },
+    {
+      "ref": "5:3-4",
+      "texto": "Deus observa que a infidelidade de Israel não é apenas externa, mas interna, no coração. O pecado de Israel é profundo e só pode ser curado por meio de um arrependimento genuíno e transformação interior (veja também Jeremias 17:9 e Mateus 15:19)."
+    },
+    {
+      "ref": "5:5-7",
+      "texto": "A vergonha e a destruição que se aproximam de Israel refletem as consequências do afastamento de Deus. O orgulho e a autossuficiência do povo os conduziram a essa queda, e agora enfrentam o juízo divino (veja também Isaías 5:15 e Provérbios 16:18)."
+    },
+    {
+      "ref": "5:8-12",
+      "texto": "O juízo de Deus também se estende às tribos de Israel, especialmente Efraim e Judá. O arrependimento sincero é a única solução, mas o povo ainda insiste em seus pecados. Esse trecho ilustra como as divisões internas de Israel amplificam a crise espiritual (veja também Isaías 1:15 e Ezequiel 22:30)."
+    },
+    {
+      "ref": "5:13-15",
+      "texto": "O Senhor promete retirar-Se de Israel até que o povo se arrependa sinceramente. O sofrimento e a angústia são vistos como meios de levar o povo ao reconhecimento de sua dependência de Deus e ao retorno a Ele (veja também Amós 5:6 e Jeremias 29:12-14)."
+    }
+  ]
+}

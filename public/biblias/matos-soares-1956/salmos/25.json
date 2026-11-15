@@ -1,0 +1,83 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 25,
+  "totalVersiculos": 12,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/25/",
+  "capturadoEm": "2026-11-15T09:52:33-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "De Davide. Faz-me justiça. Senhor, pois tenho andado na inocência, e, confiando no Senhor, não vacilei."
+    },
+    {
+      "numero": 2,
+      "texto": "Sonda-me, Senhor, põe-me à prova; explora os meus rins e o meu coração."
+    },
+    {
+      "numero": 3,
+      "texto": "Porque a tua bondade está diante dos meus olhos, e caminho na tua verdade."
+    },
+    {
+      "numero": 4,
+      "texto": "Não me sento entre os homens perversos, nem me associo com os traiçoeiros."
+    },
+    {
+      "numero": 5,
+      "texto": "Aborreço a sociedade dos malfeitores e não me sento com os ímpios."
+    },
+    {
+      "numero": 6,
+      "texto": "Lavo as minhas mãos em inocência e ando ao redor do teu altar, Senhor,"
+    },
+    {
+      "numero": 7,
+      "texto": "para fazer ressoar a voz do (teu) louvor e narrar todas as tuas maravilhas."
+    },
+    {
+      "numero": 8,
+      "texto": "Senhor, eu amo o acolhimento da tua casa e o lugar do tabernáculo da tua glória."
+    },
+    {
+      "numero": 9,
+      "texto": "Não arrebates a minha alma juntamente com os pecadores, nem a minha vida com os homens sanguinários,"
+    },
+    {
+      "numero": 10,
+      "texto": "em cujas mãos está o crime, cuja dextra está repleta de dádivas."
+    },
+    {
+      "numero": 11,
+      "texto": "Eu, porém, ando na minha inocência: resgata-me e tem compaixão em mim."
+    },
+    {
+      "numero": 12,
+      "texto": "O meu pé está no caminho recto, nas reuniões bendirei o Senhor."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "25:1-2",
+      "texto": "O salmista clama a Deus, expressando sua confiança e dependência d'Ele. Essa abertura destaca a importância da oração como um meio de buscar ajuda divina em tempos de necessidade (veja também Salmo 62:8 e Filipenses 4:6-7)."
+    },
+    {
+      "ref": "25:4-5",
+      "texto": "O pedido de orientação do salmista reflete a busca pela sabedoria divina e o desejo de conhecer os caminhos do Senhor. A humildade em reconhecer a necessidade de direção é essencial para a vida espiritual (veja também Provérbios 3:5-6 e Tiago 1:5)."
+    },
+    {
+      "ref": "25:6-7",
+      "texto": "O salmista lembra a Deus de Sua misericórdia e bondade. Essa invocação ressalta a importância de recordar as promessas de Deus, especialmente em tempos de dificuldade, e Sua disposição para perdoar (veja também Salmo 103:8-12 e 1 João 1:9)."
+    },
+    {
+      "ref": "25:10",
+      "texto": "A afirmação de que todos os caminhos do Senhor são amor e fidelidade destaca a natureza de Deus como um guia confiável. Reconhecer isso é fundamental para a fé e a confiança em Suas promessas (veja também Salmo 100:5 e Romanos 8:28)."
+    },
+    {
+      "ref": "25:20-21",
+      "texto": "O pedido por proteção e integridade reflete a vulnerabilidade do salmista diante dos inimigos e da tentação. A confiança em Deus como refúgio é uma constante na vida do crente (veja também Salmo 91:2 e 2 Timóteo 4:18)."
+    }
+  ]
+}

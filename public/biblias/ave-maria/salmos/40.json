@@ -1,0 +1,94 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 40,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/40/",
+  "capturadoEm": "2026-11-15T09:16:42-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. Salmo de Davi.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Feliz quem se lembra do necessitado e do pobre, porque no dia da desgraça o Senhor o salvará."
+    },
+    {
+      "numero": 3,
+      "texto": "O Senhor há de guardá-lo e o conservará vivo, há de torná-lo feliz na terra e não o abandonará à mercê de seus inimigos."
+    },
+    {
+      "numero": 4,
+      "texto": "O Senhor o assistirá no leito de dores, e na sua doença o reconfortará."
+    },
+    {
+      "numero": 5,
+      "texto": "Quanto a mim, eu vos digo: “Piedade para mim, Senhor; sarai-me, porque pequei contra vós”."
+    },
+    {
+      "numero": 6,
+      "texto": "Meus inimigos falam de mim maldizendo: “Quando há de morrer e se extinguir o seu nome?”."
+    },
+    {
+      "numero": 7,
+      "texto": "Se alguém me vem visitar, fala hipocritamente. Seu coração recolhe calúnias e, saindo fora, se apressa em divulgá-las."
+    },
+    {
+      "numero": 8,
+      "texto": "Todos os que me odeiam murmuram contra mim, e só procuram fazer-me mal."
+    },
+    {
+      "numero": 9,
+      "texto": "“Um mal mortal – dizem eles – o atingiu; ei-lo deitado, para não mais se levantar.”"
+    },
+    {
+      "numero": 10,
+      "texto": "Até o próprio amigo em que eu confiava, que partilhava do meu pão, levantou contra mim o calcanhar.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Ao menos vós, Senhor, tende piedade de mim; erguei-me, para eu lhes dar a paga que merecem."
+    },
+    {
+      "numero": 12,
+      "texto": "Nisso verei que me sois favorável, se meu inimigo não triunfar de mim."
+    },
+    {
+      "numero": 13,
+      "texto": "Vós, porém, me conservareis incólume, e na vossa presença me poreis para sempre."
+    },
+    {
+      "numero": 14,
+      "texto": "Bendito seja o Senhor, Deus de Israel, de eternidade em eternidade! Assim seja! Assim seja!",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "40:1-3",
+      "texto": "A confiança do salmista em Deus e sua espera pela resposta são fundamentais. Deus ouve e responde, mostrando que a paciência na oração é recompensada com libertação e novos cânticos de louvor (veja também Salmo 34:17 e Salmo 145:19)."
+    },
+    {
+      "ref": "40:4-5",
+      "texto": "A bem-aventurança daqueles que confiam no Senhor destaca a importância da fé. O salmista lembra das maravilhas de Deus e Seu plano para a vida, evidenciando a gratidão como resposta à salvação (veja também Salmo 103:2 e Efésios 2:4-7)."
+    },
+    {
+      "ref": "40:6-8",
+      "texto": "O salmista expressa que Deus não se agrada de sacrifícios vazios, mas busca um coração disposto. Essa ideia aponta para a necessidade de autenticidade na adoração (veja também 1 Samuel 15:22 e Romanos 12:1)."
+    },
+    {
+      "ref": "40:9-10",
+      "texto": "A proclamação da justiça e a declaração do evangelho refletem o chamado do crente para compartilhar as boas novas. A responsabilidade de testemunhar é uma parte importante da vida de fé (veja também Mateus 28:19-20 e Marcos 16:15)."
+    },
+    {
+      "ref": "40:11-13",
+      "texto": "O pedido por misericórdia e ajuda em tempos de necessidade enfatiza a contínua dependência de Deus. A humildade e a busca pela ajuda divina são essenciais na caminhada cristã (veja também Salmo 54:1 e Filipenses 4:6-7)."
+    }
+  ]
+}

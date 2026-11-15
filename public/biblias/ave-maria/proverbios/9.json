@@ -1,0 +1,112 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "proverbios",
+  "nome": "Provérbios",
+  "testamento": "AT",
+  "capitulo": 9,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/proverbios/9/",
+  "capturadoEm": "2026-11-15T09:19:18-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "A Sabedoria edificou sua casa, talhou sete colunas.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Matou seus animais, preparou seu vinho e dispôs a mesa."
+    },
+    {
+      "numero": 3,
+      "texto": "Enviou servas, para que anunciassem nos pontos mais elevados da cidade:"
+    },
+    {
+      "numero": 4,
+      "texto": "“Quem for simples apresente-se!”. Aos insensatos ela disse:"
+    },
+    {
+      "numero": 5,
+      "texto": "“Vinde comer o meu pão e beber o vinho que preparei."
+    },
+    {
+      "numero": 6,
+      "texto": "Deixai a insensatez e vivereis; andai direito no caminho da inteligência!”."
+    },
+    {
+      "numero": 7,
+      "texto": "Quem censura um mofador, atrai sobre si a zombaria; o que repreende o ímpio, arrisca-se a uma afronta.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Não repreendas o mofador, pois ele te odiará. Repreende o sábio e ele te amará."
+    },
+    {
+      "numero": 9,
+      "texto": "Dá ao sábio: ele se tornará mais sábio ainda, ensina ao justo e seu saber aumentará."
+    },
+    {
+      "numero": 10,
+      "texto": "O temor do Senhor é o princípio da Sabedoria, e o conhecimento do Santo é a inteligência,",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "porque por mim se multiplicarão teus dias e anos de vida te serão acrescentados."
+    },
+    {
+      "numero": 12,
+      "texto": "Se tu és sábio, é para teu bem que o és, mas se tu és um “soberbo”, só tu sofrerás as consequências."
+    },
+    {
+      "numero": 13,
+      "texto": "A senhora Loucura é irrequieta, uma tola que não sabe nada."
+    },
+    {
+      "numero": 14,
+      "texto": "Ela se assenta à porta de sua casa, numa cadeira, nos pontos mais altos da cidade,"
+    },
+    {
+      "numero": 15,
+      "texto": "para convidar os viandantes que seguem direito seu caminho."
+    },
+    {
+      "numero": 16,
+      "texto": "“Quem for simples venha para cá!” Aos insensatos, ela diz:"
+    },
+    {
+      "numero": 17,
+      "texto": "“As águas furtivas são mais doces e o pão tomado às escondidas é mais delicioso”.",
+      "nota": true
+    },
+    {
+      "numero": 18,
+      "texto": "Ignora ele que ali há sombras e que os convidados da senhora Loucura jazem nas profundezas da região dos mortos.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "9:1-6",
+      "texto": "A sabedoria é personificada como uma mulher que constrói uma casa e convida todos a participarem de seu banquete. Esse convite à sabedoria mostra que o conhecimento de Deus é acessível a todos os que buscam entendimento (veja também Tiago 1:5 e Mateus 7:7)."
+    },
+    {
+      "ref": "9:7-9",
+      "texto": "A reação à correção é um teste de caráter. O sábio aceita e se torna ainda mais sábio, enquanto o zombador rejeita a correção e permanece insensato. Isso destaca a humildade e a disposição de aprender como características essenciais da verdadeira sabedoria (veja também Salmo 141:5 e Hebreus 12:5-6)."
+    },
+    {
+      "ref": "9:10",
+      "texto": "O temor do Senhor é o princípio da sabedoria. Este versículo reforça a centralidade de Deus no processo de adquirir verdadeira sabedoria, indicando que o respeito reverente por Deus é a base para viver uma vida plena e correta (veja também Jó 28:28 e Salmo 111:10)."
+    },
+    {
+      "ref": "9:13-18",
+      "texto": "A insensatez também é personificada como uma mulher que atrai os ignorantes para a destruição. O contraste entre a sabedoria e a insensatez revela que há dois caminhos na vida: um leva à vida e o outro à morte, reforçando a importância de escolher sabiamente (veja também Mateus 7:13-14 e Romanos 6:23)."
+    },
+    {
+      "ref": "9:11-12",
+      "texto": "O temor do Senhor e a sabedoria prolongam os dias de uma pessoa e trazem recompensas. Isso destaca que viver com sabedoria e obediência a Deus traz benefícios tanto espirituais quanto físicos (veja também Provérbios 3:1-2 e Efésios 6:2-3)."
+    }
+  ]
+}

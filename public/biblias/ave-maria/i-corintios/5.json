@@ -1,0 +1,88 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-corintios",
+  "nome": "I Coríntios",
+  "testamento": "NT",
+  "capitulo": 5,
+  "totalVersiculos": 13,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-corintios/5/",
+  "capturadoEm": "2026-11-15T09:27:57-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ouve-se dizer constantemente que se comete, em vosso meio, a luxúria, e uma luxúria tão grave que não se costuma encontrar nem mesmo entre os pagãos: há entre vós quem vive com a mulher de seu pai!...",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "E continuais cheios de orgulho, em vez de manifestardes tristeza, para que seja tirado dentre vós o que cometeu tal ação!"
+    },
+    {
+      "numero": 3,
+      "texto": "Pois eu, em verdade, ainda que distante corporalmente, mas presente em espírito, já julguei, como se estivesse presente, aquele que assim se comportou."
+    },
+    {
+      "numero": 4,
+      "texto": "Em nome do Senhor Jesus – reunidos vós e o meu espírito, com o poder de nosso Senhor Jesus –,"
+    },
+    {
+      "numero": 5,
+      "texto": "seja esse homem entregue a Satanás, para mortificação do seu corpo, a fim de que a sua alma seja salva no dia do Senhor Jesus."
+    },
+    {
+      "numero": 6,
+      "texto": "Não é nada belo o motivo da vossa jactância! Não sabeis que um pouco de fermento leveda a massa toda?"
+    },
+    {
+      "numero": 7,
+      "texto": "Purificai-vos do velho fermento, para que sejais massa nova, porque sois pães ázimos, porquanto Cristo, nossa Páscoa, foi imolado.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Celebremos, pois, a festa, não com o fermento velho nem com o fermento da malícia e da corrupção, mas com os pães não fermentados de pureza e de verdade."
+    },
+    {
+      "numero": 9,
+      "texto": "Na minha carta vos escrevi que não tivésseis familiaridade com os impudicos.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Porém, não me referia de um modo absoluto a todos os impudicos deste mundo, os avarentos, os ladrões ou os idólatras, pois neste caso deveríeis sair deste mundo."
+    },
+    {
+      "numero": 11,
+      "texto": "Mas eu simplesmente quis dizer-vos que não tenhais comunicação com aquele que, chamando-se irmão, é impuro, avarento, idólatra, difamador, beberrão, ladrão. Com tais indivíduos nem sequer deveis comer."
+    },
+    {
+      "numero": 12,
+      "texto": "Pois que tenho eu de julgar os que estão fora? Não são os de dentro que deveis julgar?",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Os de fora é Deus que os julgará... Tirai o perverso de vosso meio.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "5:1-2",
+      "texto": "Paulo denuncia um caso de imoralidade na igreja de Corinto, onde um homem estava vivendo com a esposa de seu pai. A tolerância do pecado dentro da igreja é inaceitável, e a correção é necessária para manter a pureza da comunidade (veja também Levítico 18:8 e Mateus 18:15-17)."
+    },
+    {
+      "ref": "5:3-5",
+      "texto": "Paulo instrui a excomunhão do pecador, entregando-o a Satanás para destruição da carne, a fim de que o espírito seja salvo no Dia do Senhor. Isso destaca a seriedade do pecado e a necessidade de disciplina na igreja (veja também 1 Timóteo 1:20 e Mateus 7:5)."
+    },
+    {
+      "ref": "5:6-8",
+      "texto": "Paulo adverte que um pouco de fermento leveda toda a massa, simbolizando como o pecado pode se espalhar e corromper a comunidade. Ele exorta os cristãos a viverem como pães sem fermento, mantendo sua santidade (veja também Gálatas 5:9 e 1 Pedro 1:13-16)."
+    },
+    {
+      "ref": "5:9-13",
+      "texto": "Paulo esclarece que a excomunhão deve se aplicar aos imorais dentro da igreja, mas não aos que estão fora da fé, pois a responsabilidade da igreja é com seus membros. O julgamento de Deus sobre os de fora é uma realidade (veja também Mateus 7:1-2 e Lucas 6:37)."
+    }
+  ]
+}

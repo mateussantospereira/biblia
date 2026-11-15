@@ -1,0 +1,244 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sao-lucas",
+  "nome": "São Lucas",
+  "testamento": "NT",
+  "capitulo": 2,
+  "totalVersiculos": 52,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sao-lucas/2/",
+  "capturadoEm": "2026-11-15T09:26:24-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Naqueles tempos, apareceu um decreto de César Augusto, ordenando o recenseamento de toda a terra."
+    },
+    {
+      "numero": 2,
+      "texto": "Esse recenseamento foi feito antes do governo de Quirino, na Síria."
+    },
+    {
+      "numero": 3,
+      "texto": "Todos iam alistar-se, cada um na sua cidade."
+    },
+    {
+      "numero": 4,
+      "texto": "Também José subiu da Galileia, da cidade de Nazaré, à Judeia, à Cidade de Davi, chamada Belém, porque era da casa e família de Davi,"
+    },
+    {
+      "numero": 5,
+      "texto": "para se alistar com a sua esposa, Maria, que estava grávida."
+    },
+    {
+      "numero": 6,
+      "texto": "Estando eles ali, completaram-se os dias dela."
+    },
+    {
+      "numero": 7,
+      "texto": "E deu à luz seu filho primogênito, e, envolvendo-o em faixas, reclinou-o num presépio; porque não havia lugar para eles na hospedaria.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Havia nos arredores uns pastores, que vigiavam e guardavam seu rebanho nos campos durante as vigílias da noite."
+    },
+    {
+      "numero": 9,
+      "texto": "Um anjo do Senhor apareceu-lhes e a glória do Senhor refulgiu ao redor deles, e tiveram grande temor."
+    },
+    {
+      "numero": 10,
+      "texto": "O anjo disse-lhes: “Não temais, eis que vos anuncio uma Boa-Nova que será alegria para todo o povo:"
+    },
+    {
+      "numero": 11,
+      "texto": "hoje vos nasceu na Cidade de Davi um Salvador, que é o Cristo Senhor."
+    },
+    {
+      "numero": 12,
+      "texto": "Isto vos servirá de sinal: achareis um recém-nascido envolto em faixas e posto numa manjedoura”."
+    },
+    {
+      "numero": 13,
+      "texto": "E subitamente ao anjo se juntou uma multidão do exército celeste, que louvava a Deus e dizia:"
+    },
+    {
+      "numero": 14,
+      "texto": "“Glória a Deus no mais alto dos céus e na terra paz aos homens, objetos da benevolência (divina).”",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Depois que os anjos os deixaram e voltaram para o céu, falaram os pastores uns com os outros: “Vamos até Belém e vejamos o que se realizou e o que o Senhor nos manifestou”."
+    },
+    {
+      "numero": 16,
+      "texto": "Foram com grande pressa e acharam Maria e José, e o menino deitado na manjedoura."
+    },
+    {
+      "numero": 17,
+      "texto": "Vendo-o, contaram o que se lhes havia dito a respeito deste menino."
+    },
+    {
+      "numero": 18,
+      "texto": "Todos os que os ouviam admiravam-se das coisas que lhes contavam os pastores."
+    },
+    {
+      "numero": 19,
+      "texto": "Maria conservava todas essas palavras, meditando-as no seu coração."
+    },
+    {
+      "numero": 20,
+      "texto": "Voltaram os pastores, glorificando e louvando a Deus por tudo o que tinham ouvido e visto, e que estava de acordo com o que lhes fora dito."
+    },
+    {
+      "numero": 21,
+      "texto": "Completados que foram os oito dias para ser circuncidado o menino, foi-lhe posto o nome de Jesus, como lhe tinha chamado o anjo, antes de ser concebido no seio materno."
+    },
+    {
+      "numero": 22,
+      "texto": "Concluídos os dias da sua purificação segundo a Lei de Moisés, levaram-no a Jerusalém para o apresentar ao Senhor,"
+    },
+    {
+      "numero": 23,
+      "texto": "conforme o que está escrito na Lei do Senhor: “Todo primogênito do sexo masculino será consagrado ao Senhor” (Ex 13,2);"
+    },
+    {
+      "numero": 24,
+      "texto": "e para oferecerem o sacrifício prescrito pela Lei do Senhor, um par de rolas ou dois pombinhos."
+    },
+    {
+      "numero": 25,
+      "texto": "Ora, havia em Jerusalém um homem chamado Simeão. Esse homem, justo e piedoso, esperava a consolação de Israel, e o Espírito Santo estava nele.",
+      "nota": true
+    },
+    {
+      "numero": 26,
+      "texto": "Fora-lhe revelado pelo Espírito Santo que não morreria sem primeiro ver o Cristo do Senhor."
+    },
+    {
+      "numero": 27,
+      "texto": "Impelido pelo Espírito Santo, foi ao templo. E tendo os pais apresentado o menino Jesus, para cumprirem a respeito dele os preceitos da Lei,"
+    },
+    {
+      "numero": 28,
+      "texto": "tomou-o em seus braços e louvou a Deus nestes termos:"
+    },
+    {
+      "numero": 29,
+      "texto": "“Agora, Senhor, deixai o vosso servo ir em paz, segundo a vossa palavra."
+    },
+    {
+      "numero": 30,
+      "texto": "Porque os meus olhos viram a vossa salvação"
+    },
+    {
+      "numero": 31,
+      "texto": "que preparastes diante de todos os povos,"
+    },
+    {
+      "numero": 32,
+      "texto": "como luz para iluminar as nações, e para a glória de vosso povo de Israel”."
+    },
+    {
+      "numero": 33,
+      "texto": "Seu pai e sua mãe estavam admirados das coisas que dele se diziam."
+    },
+    {
+      "numero": 34,
+      "texto": "Simeão abençoou-os e disse a Maria, sua mãe: “Eis que este menino está destinado a ser uma causa de queda e de soerguimento para muitos homens em Israel, e a ser um sinal que provocará contradições,"
+    },
+    {
+      "numero": 35,
+      "texto": "a fim de serem revelados os pensamentos de muitos corações. E uma espada transpassará a tua alma”.",
+      "nota": true
+    },
+    {
+      "numero": 36,
+      "texto": "Havia também uma profetisa chamada Ana, filha de Fanuel, da tribo de Aser; era de idade avançada."
+    },
+    {
+      "numero": 37,
+      "texto": "Depois de ter vivido sete anos com seu marido desde a sua virgindade, ficara viúva e agora, com oitenta e quatro anos, não se apartava do templo, servindo a Deus noite e dia em jejuns e orações."
+    },
+    {
+      "numero": 38,
+      "texto": "Chegando ela à mesma hora, louvava a Deus e falava de Jesus a todos aqueles que em Jerusalém esperavam a libertação."
+    },
+    {
+      "numero": 39,
+      "texto": "Após terem observado tudo segundo a Lei do Senhor, voltaram para a Galileia, à sua cidade de Nazaré."
+    },
+    {
+      "numero": 40,
+      "texto": "O menino ia crescendo e se fortificava: estava cheio de sabedoria, e a graça de Deus repousava nele."
+    },
+    {
+      "numero": 41,
+      "texto": "Seus pais iam todos os anos a Jerusalém para a festa da Páscoa."
+    },
+    {
+      "numero": 42,
+      "texto": "Tendo ele atingido doze anos, subiram a Jerusalém, segundo o costume da festa."
+    },
+    {
+      "numero": 43,
+      "texto": "Acabados os dias da festa, quando voltavam, ficou o menino Jesus em Jerusalém, sem que os seus pais o percebessem."
+    },
+    {
+      "numero": 44,
+      "texto": "Pensando que ele estivesse com os seus companheiros de comitiva, andaram caminho de um dia e o buscaram entre os parentes e conhecidos."
+    },
+    {
+      "numero": 45,
+      "texto": "Mas não o encontrando, voltaram a Jerusalém, à procura dele."
+    },
+    {
+      "numero": 46,
+      "texto": "Três dias depois o acharam no templo, sentado no meio dos doutores, ouvindo-os e interrogando-os."
+    },
+    {
+      "numero": 47,
+      "texto": "Todos os que o ouviam estavam maravilhados da sabedoria de suas respostas."
+    },
+    {
+      "numero": 48,
+      "texto": "Quando eles o viram, ficaram admirados. E sua mãe disse-lhe: “Meu filho, que nos fizeste?! Eis que teu pai e eu andávamos à tua procura, cheios de aflição”."
+    },
+    {
+      "numero": 49,
+      "texto": "Respondeu-lhes ele: “Por que me procuráveis? Não sabíeis que devo ocupar-me das coisas de meu Pai?”.",
+      "nota": true
+    },
+    {
+      "numero": 50,
+      "texto": "Eles, porém, não compreenderam o que ele lhes dissera."
+    },
+    {
+      "numero": 51,
+      "texto": "Em seguida, desceu com eles a Nazaré e lhes era submisso. Sua mãe guardava todas essas coisas no seu coração."
+    },
+    {
+      "numero": 52,
+      "texto": "E Jesus crescia em estatura, em sabedoria e graça, diante de Deus e dos homens. (= Mt 3,1-12 = Mc 1,1-8)"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "2:1-7",
+      "texto": "O nascimento de Jesus em Belém, em circunstâncias humildes, é uma expressão do plano de Deus de se identificar com os pobres e os necessitados. O nascimento do Salvador é um momento de grande significado, simbolizando a chegada da esperança para toda a humanidade (veja também Mateus 1:18-25 e Filipenses 2:6-8)."
+    },
+    {
+      "ref": "2:8-20",
+      "texto": "A visita dos pastores à manjedoura revela como o nascimento de Jesus foi anunciado aos humildes e excluídos da sociedade. Os anjos proclamam a boa nova de grande alegria para todos, destacando a universalidade da salvação em Cristo (veja também Mateus 2:1-12 e Isaías 9:6)."
+    },
+    {
+      "ref": "2:21-38",
+      "texto": "A apresentação de Jesus no Templo e as bênçãos de Simeão e Ana destacam o reconhecimento de Jesus como o Messias, não apenas pelos judeus, mas também pelos gentios. Simeão e Ana profetizam sobre a missão de Jesus de trazer salvação a todas as nações (veja também Isaías 42:6 e Atos 13:47)."
+    },
+    {
+      "ref": "2:39-52",
+      "texto": "A infância de Jesus em Nazaré é marcada pela sabedoria e crescimento em graça diante de Deus e dos homens. O episódio no templo, aos 12 anos, revela a consciência precoce de Jesus sobre Sua missão divina e Sua submissão a Seus pais (veja também João 2:13-22 e Filipenses 2:6-8)."
+    }
+  ]
+}

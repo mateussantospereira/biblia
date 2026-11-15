@@ -1,0 +1,68 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 149,
+  "totalVersiculos": 9,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/149/",
+  "capturadoEm": "2026-11-15T09:18:36-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Aleluia. Cantai ao Senhor um cântico novo, ressoe o seu louvor na assembleia dos fiéis.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Alegre-se Israel em seu criador, exultem em seu rei os filhos de Sião."
+    },
+    {
+      "numero": 3,
+      "texto": "Em coros louvem o seu nome, cantem-lhe salmos com o tambor e a cítara,"
+    },
+    {
+      "numero": 4,
+      "texto": "porque o Senhor ama o seu povo, e dá aos humildes a honra da vitória."
+    },
+    {
+      "numero": 5,
+      "texto": "Exultem os fiéis na glória, alegrem-se em seus leitos."
+    },
+    {
+      "numero": 6,
+      "texto": "Tenham nos lábios o louvor de Deus, e nas mãos a espada de dois gumes,"
+    },
+    {
+      "numero": 7,
+      "texto": "para tirar vingança das nações pagãs, e impor castigos aos povos;"
+    },
+    {
+      "numero": 8,
+      "texto": "para lançar em ferros os seus reis, e pôr algemas em seus príncipes,"
+    },
+    {
+      "numero": 9,
+      "texto": "executando contra eles o julgamento pronunciado. Tal é a glória reservada a todos os seus fiéis."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "149:1-3",
+      "texto": "O salmo começa com um chamado à nova canção e à adoração, reforçando a alegria da comunidade de fé em louvar a Deus. A música é uma expressão poderosa de gratidão e devoção, essencial na vida espiritual (veja também Salmo 95:1-2 e Colossenses 3:16)."
+    },
+    {
+      "ref": "149:4",
+      "texto": "Deus se alegra em Seu povo e dá vitória aos humildes, enfatizando a relação pessoal entre Deus e os que O adoram. Essa promessa de vitória reflete a bondade e a proteção divina, trazendo esperança em tempos de tribulação (veja também Salmo 34:18-19 e Tiago 4:6)."
+    },
+    {
+      "ref": "149:5-6",
+      "texto": "A exultação dos justos e a adoração a Deus são acompanhadas por ações de justiça. Isso implica que a adoração verdadeira deve se manifestar em ações justas e em defesa dos direitos dos oprimidos (veja também Salmo 37:28 e Miquéias 6:8)."
+    },
+    {
+      "ref": "149:7-9",
+      "texto": "O salmo menciona a execução da vingança e a justiça divina contra as nações. Isso enfatiza que Deus é um juiz justo e que a adoração deve ser acompanhada da busca pela justiça em Sua criação (veja também Salmo 2:8-9 e Apocalipse 19:11-16)."
+    }
+  ]
+}

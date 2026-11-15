@@ -1,0 +1,75 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "eclesiastes",
+  "nome": "Eclesiastes",
+  "testamento": "AT",
+  "capitulo": 11,
+  "totalVersiculos": 10,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/eclesiastes/11/",
+  "capturadoEm": "2026-11-15T09:56:19-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Lança o teu pão sobre as águas que passam, porque depois de muito tempo o acharás."
+    },
+    {
+      "numero": 2,
+      "texto": "Reparte dele com sete e mesmo com oito (ou mais pessoas), porque não sabes o mal que pode vir sobre a terra. (ver nota)"
+    },
+    {
+      "numero": 3,
+      "texto": "Quando as nuvens estiverem carregadas, derramarão chuva sobre a terra. Se a árvore cair para a parte do Meio-dia, ou para a do norte, onde cair, aí ficará. (ver nota)"
+    },
+    {
+      "numero": 4,
+      "texto": "O que observa o vento não semeia, e o que considera as nuvens nunca segará."
+    },
+    {
+      "numero": 5,
+      "texto": "Do mesmo modo que ignoras qual é o caminho do espirito, e de que sorte se formam os ossos no ventre da mulher grávida, assim também não conheces as obras de Deus, que é o criador de todas as coisas."
+    },
+    {
+      "numero": 6,
+      "texto": "Semeia de manhã a tua semente, e de tarde não deixes a tua mão repousar, porque não sabes o que terá bom êxito, se isto, se aquilo, ou se ambas as coisas são igualmente boas. (ver nota)"
+    },
+    {
+      "numero": 7,
+      "texto": "A luz é doce, e é coisa deleitável aos olhos o ver o sol."
+    },
+    {
+      "numero": 8,
+      "texto": "Se um homem viver muitos anos, e em todos eles se alegrar, deve lembrar-se dos dias de trevas que serão numerosos: tudo o que sucede é vaidade."
+    },
+    {
+      "numero": 9,
+      "texto": "Regozija-te, pois, ó jovem, na tua mocidade, e viva em alegria o teu coração na flor de teus anos; segue as inclinações do teu coração e o que agrada aos teus olhos, mas sabe que Deus te chamará a dar contas de todas estas coisas. (ver nota)"
+    },
+    {
+      "numero": 10,
+      "texto": "Lança fora do teu coração a tristeza, e afasta o mal da tua carne, porque a juventude e a adolescência são vaidade."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "11:1-2",
+      "texto": "A exortação para lançar o pão sobre as águas ilustra o princípio da generosidade e da ação, mostrando que devemos aproveitar as oportunidades de fazer o bem, mesmo que não saibamos o resultado (veja também Lucas 6:38 e Gálatas 6:9)."
+    },
+    {
+      "ref": "11:3-4",
+      "texto": "A incerteza sobre o futuro deve nos encorajar a trabalhar diligentemente. O autor nos lembra de que devemos agir com sabedoria e fé, mesmo sem garantias, e não ser paralisados pelo medo (veja também Provérbios 16:3 e Mateus 25:14-30)."
+    },
+    {
+      "ref": "11:5-6",
+      "texto": "A comparação da criação com a incapacidade humana de entender o processo de vida nos convida a confiar na sabedoria de Deus. A importância de agir enquanto se tem a oportunidade é enfatizada (veja também Isaías 55:8-9 e Efésios 5:15-16)."
+    },
+    {
+      "ref": "11:7-8",
+      "texto": "A luz é doce e a vida deve ser apreciada, mesmo em meio a dificuldades. A valorização da vida, apesar das incertezas, nos lembra da necessidade de gratidão e alegria em cada dia (veja também Salmo 118:24 e Filipenses 4:4)."
+    },
+    {
+      "ref": "11:9-10",
+      "texto": "A exortação para desfrutar a juventude e a advertência sobre as responsabilidades futuras destacam a necessidade de viver plenamente, mas com sabedoria. Isso nos lembra que nossas escolhas têm consequências duradouras (veja também Eclesiastes 12:1 e 1 Timóteo 4:12)."
+    }
+  ]
+}

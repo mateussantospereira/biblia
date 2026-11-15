@@ -1,0 +1,75 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 8,
+  "totalVersiculos": 10,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/8/",
+  "capturadoEm": "2026-11-15T09:52:14-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre do coro. Segundo a melodia do cântico \"Os Lagares\" ... Salmo. De Davide."
+    },
+    {
+      "numero": 2,
+      "texto": "Senhor, Senhor nosso, quão admirável é o teu nome em toda a terra, tu que elevaste a tua majestade acima dos céus."
+    },
+    {
+      "numero": 3,
+      "texto": "Da boca das crianças e meninos de peito fizeste sair louvor contra os teus adversários, para reprimir o inimigo e o agressor. (ver nota)"
+    },
+    {
+      "numero": 4,
+      "texto": "Quando contemplo os teus céus, obra dos teus dedos, a lua e as estrelas, que tu criaste,"
+    },
+    {
+      "numero": 5,
+      "texto": "(exclamo): Que é o homem, para te lembrares dele? ou que é o filho do homem, para cuidares dele?"
+    },
+    {
+      "numero": 6,
+      "texto": "Tu o fizeste pouco inferior aos anjos, de glória e de honra o coroaste;"
+    },
+    {
+      "numero": 7,
+      "texto": "deste-lhe o mando sobre as obras das tuas mãos, sujeitaste todas as coisas debaixo de seus pés:"
+    },
+    {
+      "numero": 8,
+      "texto": "Todas as ovelhas e todos os bois e, além destes, os outros animais do campo,"
+    },
+    {
+      "numero": 9,
+      "texto": "as aves do céu e os peixes do mar: tudo o que percorre as veredas dos oceanos."
+    },
+    {
+      "numero": 10,
+      "texto": "Senhor, Senhor nosso, quão admirável é o teu nome em toda a terra!"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "8:1-2",
+      "texto": "O salmista exalta a grandeza de Deus, observando como o céu e a criação proclamam Sua glória. A admiração pela criação destaca a majestade divina e a responsabilidade do ser humano em adorá-Lo (veja também Salmo 19:1-4 e Romanos 1:20)."
+    },
+    {
+      "ref": "8:3-4",
+      "texto": "A reflexão sobre a fragilidade do ser humano em comparação com a vastidão do universo revela a dignidade do ser humano como criação à imagem de Deus. Essa dignidade confere valor à vida humana e ao propósito divino para cada pessoa (veja também Gênesis 1:26-27 e Salmo 139:13-14)."
+    },
+    {
+      "ref": "8:5-6",
+      "texto": "O salmista destaca que Deus fez o ser humano um pouco menor que os anjos e lhe deu autoridade sobre a criação. Essa posição privilegiada mostra o papel do homem como mordomo da terra e reflexo da imagem divina (veja também Hebreus 2:6-8 e Gênesis 2:15)."
+    },
+    {
+      "ref": "8:7-8",
+      "texto": "A referência aos rebanhos e animais sublinha a responsabilidade humana sobre a criação. O cuidado que Deus tem por todas as criaturas destaca a interdependência entre o ser humano e o resto da criação (veja também Salmo 104:25-26 e Mateus 10:29)."
+    },
+    {
+      "ref": "8:9",
+      "texto": "O fechamento do salmo com a exaltação do nome de Deus reafirma a centralidade de Deus na adoração e na criação. A invocação do Seu nome destaca a relação pessoal entre Deus e a humanidade (veja também Salmo 113:1-3 e Filipenses 2:9-11)."
+    }
+  ]
+}

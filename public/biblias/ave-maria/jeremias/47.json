@@ -1,0 +1,64 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "jeremias",
+  "nome": "Jeremias",
+  "testamento": "AT",
+  "capitulo": 47,
+  "totalVersiculos": 7,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/jeremias/47/",
+  "capturadoEm": "2026-11-15T09:23:08-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eis a palavra do Senhor, dirigida ao profeta Jeremias acerca dos filisteus, antes que o faraó se apoderasse de Gaza."
+    },
+    {
+      "numero": 2,
+      "texto": "Assim fala o Senhor: “Vede as águas que se levantam do Norte, semelhantes a uma torrente que transborda, submergindo a terra e o quanto ela contém, a cidade e seus habitantes. Lançam gritos os homens e clama a população inteira,"
+    },
+    {
+      "numero": 3,
+      "texto": "ao estrépito das patas dos corcéis, do estrondo dos carros e do ranger das rodas. Os próprios pais nem olham mais para os filhos e, alquebrados, deixam pender os braços."
+    },
+    {
+      "numero": 4,
+      "texto": "É que surgiu o dia da destruição dos filisteus, e de Tiro e Sidônia será tirado o que lhes resta de aliados, porque o Senhor vai arruinar os filisteus, e os restos da ilha de Caftor.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Gaza raspou a cabeça, Ascalon está aniquilada como o vale que a cerca. Até quando farás em ti incisões?"
+    },
+    {
+      "numero": 6,
+      "texto": "Quando repousarás, espada do Senhor? Entra na tua bainha, acalma-te, não te agites mais!"
+    },
+    {
+      "numero": 7,
+      "texto": "Como descansará, porém, se o Senhor lhe deu ordens? É contra Ascalon e as costas do mar que a dirigiu”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "47:1-3",
+      "texto": "A profecia contra os filisteus é pronunciada, destacando a chegada do juízo de Deus sobre as cidades costeiras. Isso demonstra que nenhum povo está fora do alcance de Seu juízo, independentemente de sua força ou posição (veja também Amós 1:6-8 e Ezequiel 25:15-17)."
+    },
+    {
+      "ref": "47:4-5",
+      "texto": "O juízo de Deus sobre os filisteus será severo, trazendo destruição e lamento. A responsabilidade humana pelos pecados e injustiças é enfatizada, com a punição refletindo o mal cometido (veja também Isaías 14:29-32 e Ezequiel 25:15-17)."
+    },
+    {
+      "ref": "47:6-7",
+      "texto": "A terra de Filístia é descrita como uma área de lamento, com a esperança de recuperação, mas com a ênfase de que o juízo de Deus é irreversível. O arrependimento pode ser a chave para a misericórdia de Deus (veja também Joel 2:12-13 e Apocalipse 3:19)."
+    },
+    {
+      "ref": "47:8-11",
+      "texto": "A profecia fala da destruição das principais cidades filisteias, como Gaza e Ascalom, que seriam invadidas e destruídas. Isso destaca a incapacidade humana diante do poder de Deus, que age em justiça (veja também Isaías 25:4-5 e Ezequiel 30:18-19)."
+    },
+    {
+      "ref": "47:12-14",
+      "texto": "Apesar da devastação, Deus promete que os filisteus, como outras nações, terão uma chance de arrependimento, mas as consequências da desobediência serão graves (veja também 2 Crônicas 7:14 e Zacarias 1:3)."
+    }
+  ]
+}

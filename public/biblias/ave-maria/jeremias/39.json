@@ -1,0 +1,101 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "jeremias",
+  "nome": "Jeremias",
+  "testamento": "AT",
+  "capitulo": 39,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/jeremias/39/",
+  "capturadoEm": "2026-11-15T09:23:00-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "No ano nono do reinado de Sedecias, rei de Judá, no décimo mês, Nabucodonosor, rei da Babilônia, veio sitiar Jerusalém com todo o seu exército.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "No undécimo ano do reinado de Sedecias, no nono dia do quarto mês, foi aberta uma brecha na cidade."
+    },
+    {
+      "numero": 3,
+      "texto": "Penetraram então por essa brecha os oficiais da Babilônia e se apossaram da porta do centro. Eram eles Nebusasbã, chefe dos eunucos, Nergalsereser, chefe dos magos, e todos os demais oficiais do rei da Babilônia.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Ao vê-los, Sedecias, rei de Judá, e todos os seus guerreiros, puseram-se em fuga, saindo da cidade durante a noite, pelo caminho do jardim real e pela porta entre os dois muros, e tomaram o rumo da planície do Jordão."
+    },
+    {
+      "numero": 5,
+      "texto": "Mas as tropas dos caldeus perseguiram-nos e alcançaram Sedecias nas planícies de Jericó. Aprisionaram-no então e o conduziram à presença de Nabucodonosor, rei da Babilônia, em Rebla, na terra de Emat. Após ter pronunciado contra ele uma sentença,"
+    },
+    {
+      "numero": 6,
+      "texto": "o rei da Babilônia mandou decapitar os filhos de Sedecias ante os olhos do pai, assim como os nobres de Judá."
+    },
+    {
+      "numero": 7,
+      "texto": "Em seguida, mandou furar os olhos de Sedecias e metê-lo em grilhões de bronze, a fim de conduzi-lo para a Babilônia."
+    },
+    {
+      "numero": 8,
+      "texto": "Então, os caldeus atearam fogo ao palácio real, assim como às casas particulares, e demoliram as muralhas de Jerusalém."
+    },
+    {
+      "numero": 9,
+      "texto": "Nebuzardã, chefe dos guardas, deportou para Babilônia o que restava da população da cidade, os que se lhe haviam rendido e o resto do povo."
+    },
+    {
+      "numero": 10,
+      "texto": "Deixou, contudo, na terra de Judá, uma parte dos pobres do povo, aqueles que não possuíam bens, e entre eles distribuiu naquele dia vinhas e terras."
+    },
+    {
+      "numero": 11,
+      "texto": "Quando da tomada de Jerusalém, Nabucodonosor, rei da Babilônia, deu a Nebuzardã, chefe dos guardas, a seguinte ordem a respeito de Jeremias:"
+    },
+    {
+      "numero": 12,
+      "texto": "“Toma-o e nele põe os olhos. Não lhe faças porém mal algum, agindo a respeito dele conforme seus desejos.”"
+    },
+    {
+      "numero": 13,
+      "texto": "Então, Nebuzardã, chefe dos guardas, Nabusazbã, chefe dos eunucos, Nergal-Sereser, chefe dos magos, e todos os principais oficiais do rei da Babilônia,"
+    },
+    {
+      "numero": 14,
+      "texto": "mandaram buscar Jeremias no pátio do cárcere, e o entregaram a Godolias, filho de Aicam, filho de Safã, para que fosse reconduzido à sua casa. E assim permaneceu Jeremias no meio do povo."
+    },
+    {
+      "numero": 15,
+      "texto": "Enquanto Jeremias estava ainda detido no pátio do cárcere, foi-lhe dirigida a palavra do Senhor nestes termos:"
+    },
+    {
+      "numero": 16,
+      "texto": "“Vai e dize ao etíope Ebed-Melec: Eis o que diz o Senhor dos exércitos, Deus de Israel: Vou executar contra essa cidade as predições que fiz para sua desgraça e não para o bem. E elas se realizarão naquele dia à tua vista."
+    },
+    {
+      "numero": 17,
+      "texto": "Então, porém, te salvarei – oráculo do Senhor – e não serás entregue aos homens que temes."
+    },
+    {
+      "numero": 18,
+      "texto": "Farei com que escapes, e não cairás a golpe de espada. A vida a salvo será o teu espólio, porque em mim puseste confiança – oráculo do Senhor”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "39:1-10",
+      "texto": "A queda de Jerusalém é profetizada e finalmente acontece. A destruição de Jerusalém mostra o cumprimento das palavras de Deus sobre o juízo contra a iniquidade. A soberania de Deus sobre as nações é um tema central neste capítulo (veja também 2 Crônicas 36:17-21 e Mateus 23:37-39)."
+    },
+    {
+      "ref": "39:11-14",
+      "texto": "Jeremias é libertado da prisão pelos babilônios, mostrando que, apesar da destruição, Deus preserva Sua mensagem e Seu profeta. A restauração de Jeremias, mesmo em meio ao caos, é um sinal da fidelidade de Deus ao Seu plano (veja também 2 Coríntios 1:10 e 2 Timóteo 4:17)."
+    },
+    {
+      "ref": "39:15-18",
+      "texto": "Deus faz uma promessa de livramento a Ebed-Meleque, o etíope, por sua fidelidade em salvar Jeremias. A recompensa pela fidelidade em tempos difíceis é uma característica da justiça divina (veja também Hebreus 6:10 e Mateus 25:21)."
+    }
+  ]
+}

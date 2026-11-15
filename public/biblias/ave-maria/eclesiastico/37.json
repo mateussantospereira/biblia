@@ -1,0 +1,178 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "eclesiastico",
+  "nome": "Eclesiástico",
+  "testamento": "AT",
+  "capitulo": 37,
+  "totalVersiculos": 35,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/eclesiastico/37/",
+  "capturadoEm": "2026-11-15T09:20:58-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Todo amigo diz: “Eu também contraí amizade”. Há porém um amigo que só o é de nome. Não é uma dor que dura até a morte"
+    },
+    {
+      "numero": 2,
+      "texto": "ver um amigo e um companheiro mudarem-se em inimigos?"
+    },
+    {
+      "numero": 3,
+      "texto": "Ó presunção criminosa, onde tiveste origem, para cobrir a terra com tua malícia e tua perfídia?"
+    },
+    {
+      "numero": 4,
+      "texto": "O amigo distrai-se com seu amigo nas suas alegrias; no dia da tribulação, ele se tornará seu adversário."
+    },
+    {
+      "numero": 5,
+      "texto": "O amigo compartilha da desventura do seu amigo no interesse de seu ventre; ao ver o inimigo, tomará do escudo."
+    },
+    {
+      "numero": 6,
+      "texto": "Não te esqueças de teu amigo nos teus pensamentos; no meio da riqueza, não percas a sua lembrança."
+    },
+    {
+      "numero": 7,
+      "texto": "Não te aconselhes com aquele que te arma um laço. Esconde tuas intenções àqueles que te têm inveja."
+    },
+    {
+      "numero": 8,
+      "texto": "Todo conselheiro dá sua opinião, mas há conselheiros que só têm em vista o próprio interesse."
+    },
+    {
+      "numero": 9,
+      "texto": "Estejas prevenido quando tratar-se de um conselheiro; informa-te primeiro quais são os seus interesses, pois ele pensa em si mesmo antes de tudo."
+    },
+    {
+      "numero": 10,
+      "texto": "Teme que ele plante uma estaca no solo e te diga:",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "“Estás no bom caminho”, enquanto se põe defronte para ver o que te acontecerá."
+    },
+    {
+      "numero": 12,
+      "texto": "Vai consultar um homem sem religião sobre as coisas santas; um injusto sobre a justiça; uma mulher sobre sua rival; um tímido sobre a guerra; um mercador sobre o negócio; um comprador sobre uma coisa para vender; um invejoso sobre a gratidão;",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "um ímpio sobre a piedade; um homem desonrado sobre a honestidade; um lavrador sobre o seu trabalho;"
+    },
+    {
+      "numero": 14,
+      "texto": "um operário, contratado por um ano, sobre o término de seu contrato; um criado preguiçoso sobre uma grande tarefa! Não confies neles e em nenhum de seus conselhos."
+    },
+    {
+      "numero": 15,
+      "texto": "Sê, porém, assíduo junto a um santo homem, quando conheceres um que seja fiel ao temor a Deus,"
+    },
+    {
+      "numero": 16,
+      "texto": "cuja alma se irmana à tua, e que compartilhará da tua dor quando titubeares nas trevas."
+    },
+    {
+      "numero": 17,
+      "texto": "Fortalece em ti um coração prudente, pois nada tem mais valor para ti."
+    },
+    {
+      "numero": 18,
+      "texto": "A alma de um santo homem descobre às vezes melhor a verdade que sete sentinelas postas em observação numa colina."
+    },
+    {
+      "numero": 19,
+      "texto": "Mas em todas as coisas ora ao Altíssimo, para que ele dirija teus passos na verdade."
+    },
+    {
+      "numero": 20,
+      "texto": "Que uma palavra de verdade preceda todos os teus atos, e um conselho firme preceda toda a tua diligência."
+    },
+    {
+      "numero": 21,
+      "texto": "Uma palavra má transtorna o coração; dela vêm quatro coisas: o bem e o mal, a vida e a morte; sobre estas quem domina de contínuo é a língua.",
+      "nota": true
+    },
+    {
+      "numero": 22,
+      "texto": "Há homem hábil que ensina a muita gente, mas que é inútil para si mesmo."
+    },
+    {
+      "numero": 23,
+      "texto": "Outro é esclarecido e instrui a muitos, e é agradável a si próprio."
+    },
+    {
+      "numero": 24,
+      "texto": "Aquele que afeta sabedoria nas palavras é odioso; ficará desprovido de tudo."
+    },
+    {
+      "numero": 25,
+      "texto": "Não recebeu o favor do Senhor, pois é desprovido de toda sabedoria."
+    },
+    {
+      "numero": 26,
+      "texto": "Há um sábio que é sábio para si mesmo, e os frutos de sua sabedoria são verdadeiramente louváveis."
+    },
+    {
+      "numero": 27,
+      "texto": "O sábio ensina o seu povo, e os frutos de sua sabedoria são duradouros."
+    },
+    {
+      "numero": 28,
+      "texto": "O homem sábio será cumulado de bênçãos. Aqueles que o virem o louvarão."
+    },
+    {
+      "numero": 29,
+      "texto": "A vida do homem conta poucos dias, mas os dias de Israel são inúmeros."
+    },
+    {
+      "numero": 30,
+      "texto": "O sábio herdará a honra no meio do povo, e o seu nome viverá eternamente."
+    },
+    {
+      "numero": 31,
+      "texto": "Meu filho, experimenta tua alma durante tua vida; se o poder lhe for nefasto, não lho dês,"
+    },
+    {
+      "numero": 32,
+      "texto": "pois nem tudo é vantajoso para todos, e todos não se comprazem nas mesmas coisas."
+    },
+    {
+      "numero": 33,
+      "texto": "Nunca sejas guloso em banquete algum; não te lances sobre tudo o que se serve,"
+    },
+    {
+      "numero": 34,
+      "texto": "pois o excesso no alimento é causa de doença, e a intemperança leva à cólica."
+    },
+    {
+      "numero": 35,
+      "texto": "Muitos morreram por causa de sua intemperança, o homem sóbrio, porém, prolonga sua vida."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "37:1-2",
+      "texto": "O autor alerta sobre a falsidade em amizades. Nem todos os que se dizem amigos realmente se importam; alguns se aproveitam em momentos de prosperidade, mas abandonam na adversidade. A sabedoria bíblica valoriza a amizade verdadeira e desmascara a falsidade (veja também Provérbios 17:17 e João 15:13)."
+    },
+    {
+      "ref": "37:6-7",
+      "texto": "O conselheiro deve ser alguém sábio e confiável. O conselho mal dado pode levar à ruína. A importância de procurar conselhos com discernimento é ressaltada, tanto na vida cotidiana quanto na vida espiritual (veja também Provérbios 15:22 e Tiago 1:5)."
+    },
+    {
+      "ref": "37:12-14",
+      "texto": "É preferível buscar conselhos de pessoas tementes a Deus, pois suas palavras são baseadas na sabedoria divina. Aqui, a virtude e o temor a Deus são colocados como critérios para confiar em um conselheiro (veja também Salmo 1:1-3 e Provérbios 13:20)."
+    },
+    {
+      "ref": "37:16-19",
+      "texto": "O discernimento é essencial para tomar decisões corretas. Antes de agir, deve-se buscar a paz interior e refletir com sabedoria. A oração também é um recurso importante no processo de decisão (veja também Filipenses 4:6-7 e Tiago 1:5-6)."
+    },
+    {
+      "ref": "37:27-31",
+      "texto": "O autor exalta a moderação e o equilíbrio na vida, inclusive nos prazeres da mesa. O autocontrole é uma virtude valorizada, que leva a uma vida saudável e plena. A moderação é vista como um sinal de sabedoria (veja também 1 Coríntios 9:25 e Provérbios 23:1-3)."
+    }
+  ]
+}

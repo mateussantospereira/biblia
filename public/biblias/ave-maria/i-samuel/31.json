@@ -1,0 +1,88 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-samuel",
+  "nome": "I Samuel",
+  "testamento": "AT",
+  "capitulo": 31,
+  "totalVersiculos": 13,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-samuel/31/",
+  "capturadoEm": "2026-11-15T09:11:45-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Entretanto, os filisteus atacaram Israel e os israelitas fugiram diante deles, caindo feridos de morte no monte de Gelboé."
+    },
+    {
+      "numero": 2,
+      "texto": "Os filisteus investiram contra Saul e seus filhos, matando Jônatas, Abinadab e Melquisua, filhos de Saul."
+    },
+    {
+      "numero": 3,
+      "texto": "A violência do combate concentrou-se contra Saul. Os arqueiros descobriram-no e ele foi ferido no ventre.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Disse ao seu escudeiro: “Tira a tua espada e traspassa-me para que não o venham fazer esses incircuncisos, ultrajando-me!”. Mas o escudeiro não o quis fazer, porque se apoderou dele um grande terror. Então tomou Saul a sua espada e jogou-se sobre ela."
+    },
+    {
+      "numero": 5,
+      "texto": "O escudeiro, vendo que Saul estava morto, arremessou-se também ele sobre a sua espada e morreu com ele."
+    },
+    {
+      "numero": 6,
+      "texto": "Assim, morreram naquele mesmo dia, Saul e seus três filhos, seu escudeiro e todos os seus homens."
+    },
+    {
+      "numero": 7,
+      "texto": "Os israelitas que moravam além do vale e além do Jordão, vendo a derrota do exército de Israel e a morte de Saul com seus filhos, abandonaram as suas cidades e fugiram; e os filisteus vieram e estabeleceram-se nelas."
+    },
+    {
+      "numero": 8,
+      "texto": "No dia seguinte, vieram os filisteus para despojar os cadáveres e encontraram Saul e seus três filhos caídos no monte Gelboé."
+    },
+    {
+      "numero": 9,
+      "texto": "Cortaram-lhe a cabeça, despojaram-no de suas armas e as enviaram por toda a terra dos filisteus, para que se publicasse essa boa-nova nos templos de seus ídolos e entre o povo."
+    },
+    {
+      "numero": 10,
+      "texto": "Puseram as armas de Saul no templo de Astarte e suspenderam o seu cadáver nos muros de Betsã."
+    },
+    {
+      "numero": 11,
+      "texto": "Quando os habitantes de Jabes em Galaad souberam do que os filisteus tinham feito a Saul,"
+    },
+    {
+      "numero": 12,
+      "texto": "puseram-se a caminho os mais valentes dentre eles e andaram toda a noite. Tiraram das muralhas de Betsã os cadáveres de Saul e de seus filhos e voltaram a Jabes, onde os queimaram."
+    },
+    {
+      "numero": 13,
+      "texto": "Tomaram os ossos e os enterraram debaixo da tamareira, em Jabes. Depois disso jejuaram sete dias."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "31:1-2",
+      "texto": "Os filisteus derrotam os israelitas na batalha e matam os filhos de Saul, incluindo Jônatas. A morte de Jônatas, amigo fiel de Davi, marca um momento trágico, mostrando as consequências da desobediência de Saul (veja também 1 Samuel 13:13-14 e 2 Samuel 1:25-26)."
+    },
+    {
+      "ref": "31:3-4",
+      "texto": "Saul, gravemente ferido, pede para ser morto, mas seu escudeiro se recusa. Saul então tira a própria vida. Sua morte trágica reflete o fim de um reinado marcado por desobediência e declínio espiritual (veja também 1 Samuel 28:19 e 1 Crônicas 10:13-14)."
+    },
+    {
+      "ref": "31:5-6",
+      "texto": "O escudeiro de Saul, vendo a morte do rei, também se suicida. Esse ato destaca o desespero no campo de batalha e a lealdade desesperada do escudeiro a seu senhor (veja também Juízes 9:54 e 1 Reis 16:18)."
+    },
+    {
+      "ref": "31:7",
+      "texto": "Quando os israelitas veem que Saul está morto, fogem, e os filisteus tomam posse das cidades israelitas. A derrota de Israel marca uma crise nacional e uma transição de poder iminente (veja também 1 Samuel 4:10-11 e 2 Samuel 2:4)."
+    },
+    {
+      "ref": "31:8-13",
+      "texto": "Os filisteus expõem o corpo de Saul e de seus filhos, mas os homens de Jabes-Gileade recuperam e enterram os corpos. A devoção dos homens de Jabes a Saul, por ele ter os libertado, demonstra uma memória de gratidão e honra, mesmo após sua morte (veja também 1 Samuel 11:1-11 e 2 Samuel 2:4-7)."
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "atos-dos-apostolos",
+  "nome": "Atos dos Apóstolos",
+  "testamento": "NT",
+  "capitulo": 2,
+  "totalVersiculos": 47,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/atos-dos-apostolos/2/",
+  "capturadoEm": "2026-11-15T09:27:09-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Chegando o dia de Pentecostes, estavam todos reunidos no mesmo lugar.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "De repente, veio do céu um ruído, como se soprasse um vento impetuoso, e encheu toda a casa onde estavam sentados."
+    },
+    {
+      "numero": 3,
+      "texto": "Apareceu-lhes então uma espécie de línguas de fogo, que se repartiram e pousaram sobre cada um deles."
+    },
+    {
+      "numero": 4,
+      "texto": "Ficaram todos cheios do Espírito Santo e começaram a falar em outras línguas, conforme o Espírito Santo lhes concedia que falassem."
+    },
+    {
+      "numero": 5,
+      "texto": "Achavam-se então em Jerusalém judeus piedosos de todas as nações que há debaixo do céu."
+    },
+    {
+      "numero": 6,
+      "texto": "Ouvindo aquele ruído, reuniu-se muita gente e maravilhava-se de que cada um os ouvia falar na sua própria língua."
+    },
+    {
+      "numero": 7,
+      "texto": "Profundamente impressionados, manifestavam a sua admiração: “Não são, porventura, galileus todos estes que falam?"
+    },
+    {
+      "numero": 8,
+      "texto": "Como então todos nós os ouvimos falar, cada um em nossa própria língua materna?"
+    },
+    {
+      "numero": 9,
+      "texto": "Partos, medos, elamitas; os que habitam a Mesopotâmia, a Judeia, a Capadócia, o Ponto, a Ásia,",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "a Frígia, a Panfília, o Egito e as províncias da Líbia próximas a Cirene; peregrinos romanos,"
+    },
+    {
+      "numero": 11,
+      "texto": "judeus ou prosélitos, cretenses e árabes; ouvimo-los publicarem em nossas línguas as maravilhas de Deus!”.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Estavam, pois, todos atônitos e, sem saber o que pensar, perguntavam uns aos outros: “Que significam estas coisas?”."
+    },
+    {
+      "numero": 13,
+      "texto": "Outros, porém, escarnecendo, diziam: “Estão todos embriagados de vinho doce”."
+    },
+    {
+      "numero": 14,
+      "texto": "Pedro, então, pondo-se de pé em companhia dos Onze, com voz forte lhes disse: “Homens da Judeia e vós todos que habitais em Jerusalém: seja-vos isto conhecido e prestai atenção às minhas palavras."
+    },
+    {
+      "numero": 15,
+      "texto": "Estes homens não estão embriagados, como vós pensais, visto não ser ainda a hora terceira do dia.",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "Mas cumpre-se o que foi dito pelo profeta Joel:"
+    },
+    {
+      "numero": 17,
+      "texto": "Acontecerá nos últimos dias – é Deus quem fala –, que derramarei do meu Espírito sobre todo ser vivo: profetizarão os vossos filhos e as vossas filhas. Os vossos jovens terão visões, e os vossos anciãos sonharão."
+    },
+    {
+      "numero": 18,
+      "texto": "Sobre os meus servos e sobre as minhas servas derramarei naqueles dias do meu Espírito e profetizarão."
+    },
+    {
+      "numero": 19,
+      "texto": "Farei aparecer prodígios em cima, no céu, e milagres embaixo, na terra: sangue, fogo e vapor de fumaça."
+    },
+    {
+      "numero": 20,
+      "texto": "O sol se converterá em trevas e a lua em sangue, antes que venha o grande e glorioso dia do Senhor."
+    },
+    {
+      "numero": 21,
+      "texto": "E, então, todo o que invocar o nome do Senhor será salvo (Jl 3,1-5)”."
+    },
+    {
+      "numero": 22,
+      "texto": "“Israelitas, ouvi estas palavras: Jesus de Nazaré, homem de quem Deus tem dado testemunho diante de vós com milagres, prodígios e sinais que Deus por ele realizou no meio de vós como vós mesmos o sabeis,"
+    },
+    {
+      "numero": 23,
+      "texto": "depois de ter sido entregue, segundo determinado desígnio e presciência de Deus, vós o matastes, crucificando-o por mãos de ímpios."
+    },
+    {
+      "numero": 24,
+      "texto": "Mas Deus o ressuscitou, rompendo os grilhões da morte, porque não era possível que ela o retivesse em seu poder."
+    },
+    {
+      "numero": 25,
+      "texto": "Pois dele diz Davi: Eu via sempre o Senhor perto de mim, pois ele está à minha direita, para que eu não seja abalado."
+    },
+    {
+      "numero": 26,
+      "texto": "Alegrou-se por isso o meu coração e a minha língua exultou. Sim, também a minha carne repousará na esperança,"
+    },
+    {
+      "numero": 27,
+      "texto": "pois não deixarás a minha alma na região dos mortos, nem permitirás que o teu Santo conheça a corrupção."
+    },
+    {
+      "numero": 28,
+      "texto": "Fizeste-me conhecer os caminhos da vida, e me encherás de alegria com a visão de tua face (Sl 15,8-11)."
+    },
+    {
+      "numero": 29,
+      "texto": "Irmãos, seja permitido dizer-vos com franqueza: do patriarca Davi dizemos que morreu e foi sepultado, e o seu sepulcro está entre nós até o dia de hoje."
+    },
+    {
+      "numero": 30,
+      "texto": "Mas ele era profeta e sabia que Deus lhe havia jurado que um dos seus descendentes seria colocado no seu trono."
+    },
+    {
+      "numero": 31,
+      "texto": "É, portanto, a ressurreição de Cristo que ele previu e anunciou por estas palavras: Ele não foi abandonado na região dos mortos, e sua carne não conheceu a corrupção."
+    },
+    {
+      "numero": 32,
+      "texto": "A este Jesus, Deus o ressuscitou: do que todos nós somos testemunhas."
+    },
+    {
+      "numero": 33,
+      "texto": "Exaltado pela direita de Deus, havendo recebido do Pai o Espírito Santo prometido, derramou-o como vós vedes e ouvis."
+    },
+    {
+      "numero": 34,
+      "texto": "Pois Davi pessoalmente não subiu ao céu, todavia diz: O Senhor disse a meu Senhor: Senta-te à minha direita"
+    },
+    {
+      "numero": 35,
+      "texto": "até que eu ponha os teus inimigos por escabelo dos teus pés (Sl 109,1)."
+    },
+    {
+      "numero": 36,
+      "texto": "Que toda a casa de Israel saiba, portanto, com a maior certeza de que este Jesus, que vós crucificastes, Deus o constituiu Senhor e Cristo.”",
+      "nota": true
+    },
+    {
+      "numero": 37,
+      "texto": "Ao ouvirem essas coisas, ficaram compungidos no íntimo do coração e indagaram de Pedro e dos demais apóstolos: “Que devemos fazer, irmãos?”."
+    },
+    {
+      "numero": 38,
+      "texto": "Pedro lhes respondeu: “Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo para remissão dos vossos pecados, e recebereis o dom do Espírito Santo,"
+    },
+    {
+      "numero": 39,
+      "texto": "pois a promessa é para vós, para os vossos filhos e para todos os que ouvirem de longe o apelo do Senhor, nosso Deus”.",
+      "nota": true
+    },
+    {
+      "numero": 40,
+      "texto": "Ainda com muitas outras palavras exortava-os, dizendo: “Salvai-vos do meio dessa geração perversa!”."
+    },
+    {
+      "numero": 41,
+      "texto": "Os que receberam a sua palavra foram batizados. E naquele dia elevou-se a mais ou menos três mil o número de adeptos."
+    },
+    {
+      "numero": 42,
+      "texto": "Perseveravam eles na doutrina dos apóstolos, nas reuniões em comum, na fração do pão e nas orações.",
+      "nota": true
+    },
+    {
+      "numero": 43,
+      "texto": "De todos eles se apoderou o temor, pois pelos apóstolos foram feitos também muitos prodígios e milagres em Jerusalém, e o temor estava em todos os corações."
+    },
+    {
+      "numero": 44,
+      "texto": "Todos os fiéis viviam unidos e tinham tudo em comum."
+    },
+    {
+      "numero": 45,
+      "texto": "Vendiam as suas propriedades e os seus bens, e dividiam-nos por todos, segundo a necessidade de cada um."
+    },
+    {
+      "numero": 46,
+      "texto": "Unidos de coração, frequentavam todos os dias o templo. Partiam o pão nas casas e tomavam a comida com alegria e singeleza de coração,"
+    },
+    {
+      "numero": 47,
+      "texto": "louvando a Deus e cativando a simpatia de todo o povo. E o Senhor cada dia lhes ajuntava outros, que estavam a caminho da salvação.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "2:1-4",
+      "texto": "No Pentecostes, o Espírito Santo desce sobre os discípulos, capacitando-os a proclamar o evangelho em várias línguas. Este evento marca o nascimento da Igreja como comunidade missionária (veja também Joel 2:28-29 e João 20:22)."
+    },
+    {
+      "ref": "2:14-21",
+      "texto": "Pedro cita o profeta Joel para explicar o Pentecostes, ligando-o às promessas de Deus para os últimos dias. A universalidade da salvação é central nesta mensagem (veja também Romanos 10:13 e Isaías 44:3)."
+    },
+    {
+      "ref": "2:42-47",
+      "texto": "A descrição da comunidade cristã primitiva destaca a comunhão, a oração e o compartilhamento de bens. Este modelo de vida comunitária reflete o impacto transformador do Espírito Santo (veja também Hebreus 10:24-25 e Salmos 133:1)."
+    }
+  ]
+}

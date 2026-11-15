@@ -1,0 +1,83 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "tobias",
+  "nome": "Tobias",
+  "testamento": "AT",
+  "capitulo": 9,
+  "totalVersiculos": 12,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/tobias/9/",
+  "capturadoEm": "2026-11-15T09:14:39-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Tobias chamou então a si o anjo, que ele julgava ser um homem e disse-lhe: “Azarias, meu irmão, peço-te que me ouças."
+    },
+    {
+      "numero": 2,
+      "texto": "Ainda que eu me fizesse teu escravo, não seria isso uma retribuição digna por teus cuidados."
+    },
+    {
+      "numero": 3,
+      "texto": "Não obstante, vou pedir-te ainda que tomes contigo cavalos e servos e vás à casa de Gabael, em Ragés, na Média. Devolve-lhe o seu recibo e recebe o dinheiro. Convida-o também para o meu casamento."
+    },
+    {
+      "numero": 4,
+      "texto": "Bem sabes que meu pai conta os dias. Se eu tardar um dia mais, ele sofrerá com isso."
+    },
+    {
+      "numero": 5,
+      "texto": "Vês, por outro lado, como Raguel insistiu em que eu me demorasse aqui e não lho posso recusar”."
+    },
+    {
+      "numero": 6,
+      "texto": "Rafael tomou então quatro servos de Raguel, dois camelos e partiu para Ragés, na Média. Encontrando Gabael, entregou-lhe o recibo e recebeu dele todo o dinheiro."
+    },
+    {
+      "numero": 7,
+      "texto": "Contou-lhe toda a aventura de Tobias e fê-lo vir consigo às núpcias."
+    },
+    {
+      "numero": 8,
+      "texto": "Tobias estava à mesa, quando Gabael entrou na casa de Raguel. Lançaram-se nos braços um do outro e Gabael louvava a Deus com lágrimas de alegria."
+    },
+    {
+      "numero": 9,
+      "texto": "“Que o Deus de Israel te abençoe – disse ele – porque és filho de um homem de bem, justo, piedoso e esmoler."
+    },
+    {
+      "numero": 10,
+      "texto": "Abençoe também a tua mulher e os vossos pais;"
+    },
+    {
+      "numero": 11,
+      "texto": "possais ver os vossos filhos e os filhos de vossos filhos, até a terceira e a quarta gerações!"
+    },
+    {
+      "numero": 12,
+      "texto": "Bendita seja a vossa raça pelo Deus de Israel que reina em toda a eternidade!” “Amém” – responderam eles. E todos se puseram à mesa. E foi no temor do Senhor que celebraram o festim das núpcias."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "9:1-6",
+      "texto": "Tobias pede a Rafael que leve as cartas para Gabael, demonstrando a importância da comunicação e da administração de bens. Isso ilustra como a confiança em Deus se manifesta em ações práticas no cotidiano (veja também Provérbios 16:3 e 1 Pedro 5:7)."
+    },
+    {
+      "ref": "9:7-10",
+      "texto": "Rafael apresenta a Tobias a importância de reconhecer os dons e bênçãos que Deus oferece. A entrega das cartas de Gabael reflete a confiança em Deus como provedor e a necessidade de cuidar dos assuntos financeiros com integridade (veja também Lucas 16:10 e 2 Coríntios 9:6-8)."
+    },
+    {
+      "ref": "9:11-13",
+      "texto": "A viagem de Rafael de volta a Ragués é um símbolo de proteção e a certeza de que Deus está sempre presente nas decisões que tomamos. A presença de um anjo como guia enfatiza a assistência divina em momentos críticos da vida (veja também Salmo 91:11-12 e Hebreus 1:14)."
+    },
+    {
+      "ref": "9:14-15",
+      "texto": "A entrega dos recursos por Gabael é um exemplo de generosidade e ajuda mútua. Isso demonstra a importância da solidariedade na comunidade e a continuidade do amor fraternal entre os membros da família (veja também Atos 2:44-45 e Gálatas 6:2)."
+    },
+    {
+      "ref": "9:16-17",
+      "texto": "A gratidão de Tobias ao receber os bens de seu pai e a bênção que Rafael lhe oferece destacam a importância do reconhecimento e da oração como forma de agradecimento pelas bênçãos recebidas (veja também Salmo 107:1 e 1 Tessalonicenses 5:16-18)."
+    }
+  ]
+}

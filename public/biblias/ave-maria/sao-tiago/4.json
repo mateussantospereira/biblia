@@ -1,0 +1,104 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sao-tiago",
+  "nome": "São Tiago",
+  "testamento": "NT",
+  "capitulo": 4,
+  "totalVersiculos": 17,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sao-tiago/4/",
+  "capturadoEm": "2026-11-15T09:29:21-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Donde vêm as lutas e as contendas entre vós? Não vêm elas de vossas paixões, que combatem em vossos membros?"
+    },
+    {
+      "numero": 2,
+      "texto": "Cobiçais, e não recebeis; sois invejosos e ciumentos, e não conseguis o que desejais; litigais e fazeis guerra. Não obtendes, porque não pedis.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Pedis e não recebeis, porque pedis mal, com o fim de satisfazerdes as vossas paixões."
+    },
+    {
+      "numero": 4,
+      "texto": "Adúlteros, não sabeis que o amor do mundo é abominado por Deus? Todo aquele que quer ser amigo do mundo constitui-se inimigo de Deus."
+    },
+    {
+      "numero": 5,
+      "texto": "Ou imaginais que em vão diz a Escritura: Sois amados até o ciúme pelo espírito que habita em vós?"
+    },
+    {
+      "numero": 6,
+      "texto": "Deus, porém, dá uma graça ainda mais abundante. Por isso, ele diz: Deus resiste aos soberbos, mas dá sua graça aos humildes (Pr 3,34)."
+    },
+    {
+      "numero": 7,
+      "texto": "Sede submissos a Deus. Resisti ao demônio, e ele fugirá para longe de vós."
+    },
+    {
+      "numero": 8,
+      "texto": "Aproximai-vos de Deus, e ele se aproximará de vós. Lavai as mãos, pecadores, e purificai os vossos corações, ó homens de dupla atitude."
+    },
+    {
+      "numero": 9,
+      "texto": "Reconhecei a vossa miséria, afligi-vos e chorai. Converta-se o vosso riso em pranto e a vossa alegria em tristeza."
+    },
+    {
+      "numero": 10,
+      "texto": "Humilhai-vos na presença do Senhor, e ele vos exaltará."
+    },
+    {
+      "numero": 11,
+      "texto": "Meus irmãos, não faleis mal uns dos outros. Quem fala mal de seu irmão, ou o julga, fala mal da Lei e julga a Lei. E se julgas a Lei, já não és observador da Lei, mas seu juiz."
+    },
+    {
+      "numero": 12,
+      "texto": "Não há mais que um legislador e um juiz: aquele que pode salvar e perder. Mas quem és tu, que julgas o teu próximo?"
+    },
+    {
+      "numero": 13,
+      "texto": "Agora dizeis: “Hoje ou amanhã iremos à tal cidade, ficaremos ali um ano, comerciaremos e tiraremos o nosso lucro”."
+    },
+    {
+      "numero": 14,
+      "texto": "E, entretanto, não sabeis o que acontecerá amanhã! Pois que é a vossa vida? Sois um vapor que aparece por um instante e depois se desvanece."
+    },
+    {
+      "numero": 15,
+      "texto": "Em vez de dizerdes: “Se Deus quiser, viveremos e faremos esta ou aquela coisa”."
+    },
+    {
+      "numero": 16,
+      "texto": "Mas agora vós vos jactais das vossas presunções. Toda jactância desse gênero é viciosa."
+    },
+    {
+      "numero": 17,
+      "texto": "Aquele que souber fazer o bem, e não o faz, peca."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "4:1-3",
+      "texto": "Tiago explica que as brigas e contendas nas igrejas são fruto dos desejos egoístas. A oração e a humildade diante de Deus são necessárias para vencer a tentação e a luta interior (veja também Filipenses 4:6-7 e 1 João 2:16)."
+    },
+    {
+      "ref": "4:7-10",
+      "texto": "Tiago exorta os cristãos a se submeterem a Deus, resistirem ao diabo e se humilharem diante de Sua presença. O arrependimento e a busca pela pureza de coração são essenciais para a reconciliação com Deus (veja também 1 Pedro 5:6-7 e Mateus 5:3)."
+    },
+    {
+      "ref": "4:11-12",
+      "texto": "Tiago adverte contra o julgamento dos outros, lembrando que só Deus é o verdadeiro juiz. O cristão deve viver com humildade, evitando condenar ou desprezar os outros (veja também Mateus 7:1-5 e Romanos 14:10-13)."
+    },
+    {
+      "ref": "4:13-17",
+      "texto": "Tiago alerta contra o orgulho e a presunção de planejar o futuro sem levar em conta a vontade de Deus. A vida é efêmera, e o cristão deve reconhecer a soberania de Deus em todas as suas decisões (veja também Lucas 12:16-21 e Provérbios 16:9)."
+    },
+    {
+      "ref": "4:6-10",
+      "texto": "A graça de Deus é dada aos humildes, e Ele resiste aos orgulhosos. A humildade, o arrependimento e a busca pela pureza de coração são fundamentais para a restauração e a proximidade com Deus (veja também 1 Pedro 5:5-6 e Provérbios 3:34)."
+    }
+  ]
+}

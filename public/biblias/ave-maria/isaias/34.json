@@ -1,0 +1,110 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 34,
+  "totalVersiculos": 17,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/34/",
+  "capturadoEm": "2026-11-15T09:21:47-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Aproximai-vos, nações, para ouvir, e vós, povos, estai atentos! Que ouça a terra e tudo o que ela contém, o mundo e tudo o que ele produz,"
+    },
+    {
+      "numero": 2,
+      "texto": "porque o Senhor está indignado contra todas as nações e enfurecido contra todas as suas tropas. Ele as devotou ao massacre e as destinou ao morticínio."
+    },
+    {
+      "numero": 3,
+      "texto": "Os que forem mortos serão atirados sem sepultura, e o mau cheiro exalará de seus cadáveres; os montes serão banhados de sangue,"
+    },
+    {
+      "numero": 4,
+      "texto": "que escorrerá de todas as colinas; os céus se enrolarão como um livro, e todo o seu exército tombará, como cai da vinha a folha morta, como deixa a figueira o verdor emurchecido,",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "porque, nos céus, está inebriada de cólera a espada do Senhor. Ela vai precipitar-se sobre Edom, sobre o povo que ele destinou ao castigo.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "A espada do Senhor está coberta de sangue, está impregnada de gordura, do sangue dos cordeiros e dos bodes, da gordura dos rins dos carneiros. Porque há um sacrifício ao Senhor em Bosra, uma grande carnificina na terra de Edom;"
+    },
+    {
+      "numero": 7,
+      "texto": "em vez de búfalos, os povos aí tombarão, uma multidão de robustos guerreiros, em lugar de touros. Sua terra se embeberá de sangue, o chão se impregnará de gordura."
+    },
+    {
+      "numero": 8,
+      "texto": "Porque é para o Senhor um dia de vingança, um ano de desforra para o defensor de Sião."
+    },
+    {
+      "numero": 9,
+      "texto": "As torrentes da terra se mudarão em pez, e sua terra em enxofre; o chão se tornará pez que arderá",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "dia e noite; jamais se extinguirá, e sua fumaça subirá de geração em geração; (ela) será transformada em deserto por toda a eternidade, e jamais alguém passará por ali."
+    },
+    {
+      "numero": 11,
+      "texto": "Será domínio do mocho e da garça, a coruja e o corvo a habitarão. O Senhor estenderá sobre ela o cordel da destruição, e o fio de prumo da desolação."
+    },
+    {
+      "numero": 12,
+      "texto": "Os sátiros farão aí sua morada..., seus covis. Nela não mais se falará em rei, e todos os seus príncipes terão desaparecido.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Os espinhos crescerão em seus palácios, as urtigas e os cardos, em suas fortalezas; será o covil dos chacais e o parque das avestruzes.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Nela se encontrarão cães e gatos selvagens, e os sátiros chamarão uns pelos outros; o espectro noturno frequentará esses lugares e neles encontrará o seu repouso.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "A serpente lá fará seu ninho e porá ovos, os chocará e fará sair da casca os filhotes; lá também se ajuntarão os abutres, nenhum estará ausente."
+    },
+    {
+      "numero": 16,
+      "texto": "Procurai no livro do Senhor e lede: nem um só deles faltará, porque é a boca do Senhor que os mandou, e seu espírito que os ajuntou.",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "Foi ele que lhes designou seu quinhão, foi sua mão que lhes repartiu a terra com o cordel. Eles a possuirão para sempre, a habitarão de geração em geração."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "34:1-4",
+      "texto": "Deus convoca as nações para testemunhar Seu juízo sobre Edom, simbolizando o julgamento universal. Essa passagem destaca a soberania de Deus sobre todos os povos e a inevitabilidade de Seu juízo (veja também Joel 3:2 e Apocalipse 6:13-14)."
+    },
+    {
+      "ref": "34:5-7",
+      "texto": "O juízo sobre Edom é descrito de forma simbólica e vívida, mostrando o poder de Deus em destruir os inimigos de Seu povo. Isso reforça a justiça divina (veja também Jeremias 49:7-8 e Malaquias 1:3-4)."
+    },
+    {
+      "ref": "34:8-10",
+      "texto": "O dia da vingança do Senhor é proclamado, trazendo desolação completa à terra de Edom. Essa visão aponta para o julgamento final sobre o pecado (veja também Isaías 61:2 e Apocalipse 19:15)."
+    },
+    {
+      "ref": "34:11-15",
+      "texto": "A desolação de Edom é descrita com simbolismos da natureza, indicando o abandono total por causa do pecado. A mensagem é que o juízo de Deus é completo e definitivo (veja também Sofonias 2:13-14 e Lucas 21:24)."
+    },
+    {
+      "ref": "34:16-17",
+      "texto": "A certeza do cumprimento das palavras de Deus é enfatizada. Isso sublinha a fidelidade de Deus em cumprir Suas promessas, sejam de juízo ou de restauração (veja também Números 23:19 e Mateus 5:18)."
+    }
+  ]
+}

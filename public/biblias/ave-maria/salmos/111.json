@@ -1,0 +1,77 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 111,
+  "totalVersiculos": 10,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/111/",
+  "capturadoEm": "2026-11-15T09:17:57-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Aleluia. Feliz o homem que teme o Senhor, e põe o seu prazer em observar os seus mandamentos.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Será poderosa sua descendência na terra, e bendita a raça dos homens retos."
+    },
+    {
+      "numero": 3,
+      "texto": "Suntuosa riqueza haverá em sua casa, e para sempre durará sua abundância."
+    },
+    {
+      "numero": 4,
+      "texto": "Como luz, se eleva, nas trevas, para os retos, o homem benfazejo, misericordioso e justo."
+    },
+    {
+      "numero": 5,
+      "texto": "Feliz o homem que se compadece e empresta, que regula suas ações pela justiça."
+    },
+    {
+      "numero": 6,
+      "texto": "Nada jamais há de abalá-lo: eterna será a memória do justo."
+    },
+    {
+      "numero": 7,
+      "texto": "Não temerá notícias funestas, porque seu coração está firme e confiante no Senhor."
+    },
+    {
+      "numero": 8,
+      "texto": "Inabalável é seu coração, livre de medo, até que possa ver confundidos os seus adversários."
+    },
+    {
+      "numero": 9,
+      "texto": "Com largueza distribuiu, deu aos pobres; sua liberalidade permanecerá para sempre. Pode levantar a cabeça com altivez.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "O pecador, porém, não pode vê-lo sem inveja, range os dentes e definha; anulam-se, assim, os desejos dos maus."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "111:1",
+      "texto": "O salmo começa com uma exortação ao louvor a Deus com todo o coração, refletindo a importância da adoração comunitária e individual diante das grandes obras de Deus (veja também Salmo 9:1 e Hebreus 13:15)."
+    },
+    {
+      "ref": "111:2-3",
+      "texto": "As obras do Senhor são grandes e majestosas, inspirando reverência. O salmo destaca que aqueles que as estudam encontram prazer, refletindo a importância da meditação nas ações de Deus (veja também Salmo 92:5 e Romanos 11:33)."
+    },
+    {
+      "ref": "111:4-5",
+      "texto": "Deus é gracioso e misericordioso, sempre se lembrando do Seu pacto. A fidelidade de Deus em prover e cuidar do Seu povo é um tema central da aliança (veja também Êxodo 34:6 e Salmo 105:8)."
+    },
+    {
+      "ref": "111:7-8",
+      "texto": "As obras de Deus são fiéis e justas, e Seus mandamentos são firmes. Isso ressalta a imutabilidade e a justiça dos decretos divinos (veja também Salmo 19:9 e Isaías 40:8)."
+    },
+    {
+      "ref": "111:9-10",
+      "texto": "Deus envia redenção ao Seu povo e ordena Sua aliança para sempre. O temor do Senhor é o princípio da sabedoria, destacando a importância de viver em reverência a Deus (veja também Provérbios 1:7 e Colossenses 2:3)."
+    }
+  ]
+}

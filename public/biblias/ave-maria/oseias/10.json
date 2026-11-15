@@ -1,0 +1,103 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "oseias",
+  "nome": "Oséias",
+  "testamento": "AT",
+  "capitulo": 10,
+  "totalVersiculos": 15,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/oseias/10/",
+  "capturadoEm": "2026-11-15T09:24:38-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Israel era uma vinha frondosa, que dava muitos frutos. Porém, quanto mais frutos, mais multiplicava seus altares; quanto mais prosperou a terra, mais ricas estelas construiu."
+    },
+    {
+      "numero": 2,
+      "texto": "Hipócrita é o seu coração: vai receber o devido castigo; ele mesmo vai derrubar seus altares e quebrar suas estelas.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "E dizem, com efeito: “Não temos rei, porque não tememos o Senhor; e que nos fará o nosso rei?”.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Proferem vãos discursos e juram falso quando concluem suas alianças; os processos brotam como a erva venenosa nos sulcos."
+    },
+    {
+      "numero": 5,
+      "texto": "Os habitantes de Samaria tremerão por causa do bezerro de Bet-Áven. Seu povo toma luto por ele, e o bando dos seus sacerdotes lamenta-se por causa dele, temendo que sua riqueza lhes seja tirada.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Também ele será levado para a Assíria para ser oferecido em homenagem ao grande rei. A confusão se apoderará de Efraim. E Israel se envergonhará de seu ídolo."
+    },
+    {
+      "numero": 7,
+      "texto": "Samaria está aniquilada, seu rei é como espuma à tona da água."
+    },
+    {
+      "numero": 8,
+      "texto": "Serão destruídos os lugares altos de Bet-Áven, o pecado de Israel. Espinhos e abrolhos crescerão nos seus altares; dirão, então, às montanhas: “Cobri-nos!”. E às colinas: “Caí sobre nós!”.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Desde os dias de Gabaá, tens pecado, ó Israel. Ali se revoltaram contra mim; não os atingirá em Gabaá a guerra contra os maus?",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Virei castigá-los; os povos se unirão contra eles, porque devem ser punidos pelo seu duplo crime.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Efraim é uma novilha bem tratada, que gosta de calcar a eira; mas porei a canga em seu pescoço; atrelarei Efraim, Judá lavrará, Jacó puxará o arado."
+    },
+    {
+      "numero": 12,
+      "texto": "Semeai na justiça, e colhereis bondade em proporção. Lavrai novas terras! É tempo de buscar o Senhor, até que venha espalhar a justiça sobre vós."
+    },
+    {
+      "numero": 13,
+      "texto": "Cultivastes o mal e colhestes o pecado; comestes o fruto da mentira; confiastes em vossa política e no grande número de vossos soldados.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "O tumulto da guerra vai elevar-se em tuas cidades, e todas as tuas fortalezas vão ser destruídas, assim como Sálmana destruiu a dinastia de Jeroboão, no dia do combate em que a mãe foi esmagada com seus filhos.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Assim sereis tratada, Betel, por causa de vossa maldade; desde a aurora desaparecerá o rei de Israel."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "10:1-2",
+      "texto": "A corrupção de Israel é comparada a uma vinha que produziu frutos adulterados. O povo, que deveria ser fiel a Deus, tornou-se idólatra e enganador. A duplicidade de Israel é o motivo para a separação de Deus e a promessa de juízo (veja também Jeremias 2:21 e Ezequiel 22:25-27)."
+    },
+    {
+      "ref": "10:3-6",
+      "texto": "Israel é descrito como uma nação que, diante da opressão, procura uma solução nas falsas esperanças e em sua própria força. A dependência de ídolos é uma grande falha que levará à destruição do reino (veja também Salmo 115:4-8 e Isaías 30:1-3)."
+    },
+    {
+      "ref": "10:7-10",
+      "texto": "A destruição de Israel é iminente, com o rei sendo levado ao exílio e a nação sofrendo o castigo divino. O povo está sendo punido por sua rebeldia, e Deus lamenta a destruição, mas a justiça é necessária devido à sua infidelidade (veja também Amós 6:7 e Jeremias 22:18-19)."
+    },
+    {
+      "ref": "10:11-12",
+      "texto": "Deus faz um apelo ao arrependimento de Israel, comparando-os a uma terra que precisa ser semeada de justiça. Ele chama o povo a cultivar a justiça e a voltar-se para Ele, para que possam ser restaurados (veja também Joel 2:12-13 e Mateus 7:16-20)."
+    },
+    {
+      "ref": "10:13-15",
+      "texto": "O pecado de Israel é comparado a uma ferida profunda, e o povo continuará a ser punido até que se arrependa. O juízo de Deus é inevitável, mas se o povo se voltar para Ele, haverá restauração (veja também Amós 4:12-13 e Jeremias 31:18-20)."
+    }
+  ]
+}

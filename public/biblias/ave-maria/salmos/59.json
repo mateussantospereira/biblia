@@ -1,0 +1,96 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 59,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/59/",
+  "capturadoEm": "2026-11-15T09:17:02-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. Conforme: “A lei é como o lírio”. Poema didático de Davi,",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "quando guerreou contra os sírios da Mesopotâmia e os sírios de Soba e quando Joab, voltando, derrotou doze mil edomitas no Vale do Sal.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Ó Deus, vós nos rejeitastes, rompestes nossas fileiras, estais irado; restabelecei-nos."
+    },
+    {
+      "numero": 4,
+      "texto": "Fizestes nossa terra tremer e a fendestes; reparai suas brechas, pois ela vacila."
+    },
+    {
+      "numero": 5,
+      "texto": "Impusestes duras provas ao vosso povo, fizestes-nos sorver um vinho atordoante."
+    },
+    {
+      "numero": 6,
+      "texto": "Mas aos que vos temem destes um estandarte, a fim de que das flechas escapassem.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "Para que vossos amigos fiquem livres, ajudai-nos com vossa destra, ouvi-nos."
+    },
+    {
+      "numero": 8,
+      "texto": "Deus falou no seu santuário: “Triunfarei, repartindo Siquém; medirei com o cordel o vale de Sucot.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Minha é a terra de Galaad, minha a de Manassés; Efraim é o elmo de minha cabeça; Judá, o meu cetro;"
+    },
+    {
+      "numero": 10,
+      "texto": "Moab é a bacia em que me lavo; sobre Edom atirarei minhas sandálias, cantarei vitória sobre a Filisteia”.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Quem me conduzirá à cidade fortificada? Quem me levará até Edom?"
+    },
+    {
+      "numero": 12,
+      "texto": "Quem, senão vós, ó Deus, que nos repelistes e já não saís à frente de nossas forças?"
+    },
+    {
+      "numero": 13,
+      "texto": "Dai-nos auxílio contra o inimigo, porque é vão qualquer socorro humano."
+    },
+    {
+      "numero": 14,
+      "texto": "Com o auxílio de Deus faremos proezas: ele abaterá nossos inimigos."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "59:1",
+      "texto": "O clamor do salmista por proteção contra seus inimigos ilustra a urgência da ajuda divina em tempos de necessidade. Essa súplica reforça a ideia de que Deus é o refúgio em meio à opressão (veja também Salmo 46:1 e Salmo 3:2)."
+    },
+    {
+      "ref": "59:4",
+      "texto": "A consciência do salmista de ser injustamente atacado reflete a experiência de muitos que enfrentam perseguições. Esse reconhecimento da injustiça é um convite à confiança em Deus como defensor (veja também Salmo 17:1-3 e 1 Pedro 4:12-13)."
+    },
+    {
+      "ref": "59:10",
+      "texto": "A afirmação de que Deus é a força que ajuda o salmista ressalta a dependência da força divina. A presença de Deus traz conforto e coragem em meio à adversidade (veja também Salmo 46:1 e Filipenses 4:13)."
+    },
+    {
+      "ref": "59:12-13",
+      "texto": "O pedido de julgamento sobre os ímpios é uma expressão da certeza de que a justiça divina prevalecerá. Essa invocação à ação de Deus é uma declaração de fé em Sua soberania e justiça (veja também Salmo 37:28 e Romanos 12:19)."
+    },
+    {
+      "ref": "59:16-17",
+      "texto": "O louvor contínuo ao Senhor mesmo em tempos de dificuldade reflete a determinação do salmista em adorar a Deus. Essa prática de louvor é uma resposta de fé e gratidão à provisão divina (veja também Salmo 34:1 e Hebreus 13:15)."
+    }
+  ]
+}

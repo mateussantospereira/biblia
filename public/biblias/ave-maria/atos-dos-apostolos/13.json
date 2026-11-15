@@ -1,0 +1,248 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "atos-dos-apostolos",
+  "nome": "Atos dos Apóstolos",
+  "testamento": "NT",
+  "capitulo": 13,
+  "totalVersiculos": 52,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/atos-dos-apostolos/13/",
+  "capturadoEm": "2026-11-15T09:27:20-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Havia então na Igreja de Antioquia profetas e doutores, entre eles Barnabé, Simão, apelidado o Negro, Lúcio de Cirene, Manaém, companheiro de infância do tetrarca Herodes, e Saulo.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Enquanto celebravam o culto do Senhor, depois de terem jejuado, disse-lhes o Espírito Santo: “Separai-me Barnabé e Saulo para a obra a que os tenho destinado”."
+    },
+    {
+      "numero": 3,
+      "texto": "Então, jejuando e orando, impuseram-lhes as mãos e os despediram."
+    },
+    {
+      "numero": 4,
+      "texto": "Enviados assim pelo Espírito Santo, foram a Selêucia e dali navegaram para a ilha de Chipre."
+    },
+    {
+      "numero": 5,
+      "texto": "Chegados a Salamina, pregavam a Palavra de Deus nas sinagogas dos judeus. Tinham com eles João para auxiliá-los.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Percorreram toda a ilha até Pafos e acharam um judeu chamado Barjesus, mago e falso profeta,"
+    },
+    {
+      "numero": 7,
+      "texto": "que vivia na companhia do procônsul Sérgio Paulo, homem sensato. Este chamou Barnabé e Saulo, e exprimiu-lhes o desejo de ouvir a Palavra de Deus."
+    },
+    {
+      "numero": 8,
+      "texto": "Mas Élimas, o Mago – pois assim é interpretado o seu nome –, se lhes opunha, procurando desviar da fé o procônsul."
+    },
+    {
+      "numero": 9,
+      "texto": "Então Saulo, chamado também Paulo, cheio do Espírito Santo, cravou nele os olhos e disse-lhe:"
+    },
+    {
+      "numero": 10,
+      "texto": "“Filho do demônio, cheio de todo engano e de toda astúcia, inimigo de toda justiça, não cessas de perverter os caminhos retos do Senhor!"
+    },
+    {
+      "numero": 11,
+      "texto": "Eis que agora está sobre ti a mão do Senhor e ficarás cego. Não verás o sol até nova ordem!”. Caíram logo sobre ele a escuridão e as trevas, e, andando à roda, buscava quem lhe desse a mão."
+    },
+    {
+      "numero": 12,
+      "texto": "À vista desse prodígio, o procônsul abraçou a fé, admirando vivamente a doutrina do Senhor."
+    },
+    {
+      "numero": 13,
+      "texto": "Paulo e os seus companheiros navegaram de Pafos e chegaram a Perge, na Panfília, de onde João, apartando-se deles, voltou para Jerusalém."
+    },
+    {
+      "numero": 14,
+      "texto": "Mas eles, deixando Perge, foram para Antioquia da Pisídia. Ali entraram em dia de sábado na sinagoga, e sentaram-se."
+    },
+    {
+      "numero": 15,
+      "texto": "Depois da leitura da Lei e dos profetas, mandaram-lhes dizer os chefes da sinagoga: “Irmãos, se tendes alguma palavra de exortação ao povo, falai-a”."
+    },
+    {
+      "numero": 16,
+      "texto": "Paulo levantou-se, fez um sinal com a mão e falou: “Homens de Israel e vós que temeis a Deus, ouvi."
+    },
+    {
+      "numero": 17,
+      "texto": "O Deus do povo de Israel escolheu nossos pais e exaltou este povo no tempo em que habitava na terra do Egito, de onde os tirou com o poder de seu braço."
+    },
+    {
+      "numero": 18,
+      "texto": "Por espaço de quarenta anos alimentou-os no deserto."
+    },
+    {
+      "numero": 19,
+      "texto": "Destruiu sete nações na terra de Canaã e distribuiu-lhes por sorte aquela terra durante quase quatrocentos e cinquenta anos."
+    },
+    {
+      "numero": 20,
+      "texto": "Em seguida, lhes deu juízes até o profeta Samuel."
+    },
+    {
+      "numero": 21,
+      "texto": "Pediram então um rei, e Deus lhes deu, por quarenta anos, Saul, filho de Cis, da tribo de Benjamim."
+    },
+    {
+      "numero": 22,
+      "texto": "Depois, Deus o rejeitou e mandou-lhes Davi como rei, de quem deu este testemunho: Achei Davi, filho de Jessé, homem segundo o meu coração, que fará todas as minhas vontades."
+    },
+    {
+      "numero": 23,
+      "texto": "De sua descendência, conforme a promessa, Deus fez sair para Israel o Salvador Jesus."
+    },
+    {
+      "numero": 24,
+      "texto": "João tinha pregado, desde antes da sua vinda, o batismo do arrependimento a todo o povo de Israel."
+    },
+    {
+      "numero": 25,
+      "texto": "Terminando a sua carreira, dizia: Eu não sou aquele que vós pensais, mas após mim virá aquele de quem não sou digno de desatar o calçado."
+    },
+    {
+      "numero": 26,
+      "texto": "Irmãos, filhos de Abraão, e os que entre vós temem a Deus: a nós é que foi dirigida a mensagem de salvação."
+    },
+    {
+      "numero": 27,
+      "texto": "Com efeito, os habitantes de Jerusalém e os seus magistrados não conheceram Jesus, e, sentenciando-o, cumpriram os oráculos dos profetas, que cada sábado são lidos."
+    },
+    {
+      "numero": 28,
+      "texto": "Embora não achassem nele culpa alguma de morte, pediram a Pilatos que lhe tirasse a vida."
+    },
+    {
+      "numero": 29,
+      "texto": "Depois de realizarem todas as coisas que dele estavam escritas, tirando-o do madeiro, puseram-no num sepulcro."
+    },
+    {
+      "numero": 30,
+      "texto": "Mas Deus o ressuscitou dentre os mortos."
+    },
+    {
+      "numero": 31,
+      "texto": "Durante muitos dias apareceu àqueles que com ele subiram da Galileia a Jerusalém, os quais até agora são testemunhas dele junto ao povo."
+    },
+    {
+      "numero": 32,
+      "texto": "Nós vos anunciamos: a promessa feita a nossos pais,"
+    },
+    {
+      "numero": 33,
+      "texto": "Deus a tem cumprido diante de nós, seus filhos, suscitando Jesus, como também está escrito no Salmo segundo: Tu és meu Filho, eu hoje te gerei (Sl 2,7)."
+    },
+    {
+      "numero": 34,
+      "texto": "Que Deus o ressuscitou dentre os mortos, para nunca mais tornar à corrupção, ele o declarou desta maneira: Eu vos darei as coisas sagradas prometidas a Davi (Is 55,3)."
+    },
+    {
+      "numero": 35,
+      "texto": "E diz também noutra passagem: Não permitirás que teu Santo experimente a corrupção (Sl 15,10)."
+    },
+    {
+      "numero": 36,
+      "texto": "Ora, Davi, depois de ter servido em vida aos desígnios de Deus, morreu. Foi reunido a seus pais e experimentou a corrupção."
+    },
+    {
+      "numero": 37,
+      "texto": "Mas aquele a quem Deus ressuscitou não experimentou a corrupção."
+    },
+    {
+      "numero": 38,
+      "texto": "Sabei, pois, irmãos, que por ele se vos anuncia a remissão dos pecados."
+    },
+    {
+      "numero": 39,
+      "texto": "Todo aquele que crê é justificado por ele de tudo aquilo que não pôde ser pela Lei de Moisés."
+    },
+    {
+      "numero": 40,
+      "texto": "Cuidai, pois, que não venha sobre vós o que foi dito pelos profetas:"
+    },
+    {
+      "numero": 41,
+      "texto": "Vede, ó desprezadores, pasmai e morrei de espanto. Pois eu vou realizar uma obra em vossos dias, obra em que não creríeis, se alguém vo-la contasse” (Hab 1,5)."
+    },
+    {
+      "numero": 42,
+      "texto": "Ao saírem, rogavam que lhes repetissem essas palavras no sábado seguinte."
+    },
+    {
+      "numero": 43,
+      "texto": "Depois que a assembleia terminou, muitos judeus e prosélitos devotos seguiram Paulo e Barnabé, os quais com muitas palavras os exortavam a perseverar na graça de Deus."
+    },
+    {
+      "numero": 44,
+      "texto": "No sábado seguinte, afluiu quase toda a cidade para ouvir a Palavra de Deus."
+    },
+    {
+      "numero": 45,
+      "texto": "Os judeus, vendo a multidão, encheram-se de inveja e puseram-se a protestar com injúrias contra o que Paulo falava."
+    },
+    {
+      "numero": 46,
+      "texto": "Então, Paulo e Barnabé disseram-lhes resolutamente: “Era a vós que em primeiro lugar se devia anunciar a Palavra de Deus. Mas, porque a rejeitais e vos julgais indignos da vida eterna, eis que nos voltamos para os pagãos."
+    },
+    {
+      "numero": 47,
+      "texto": "Porque o Senhor assim no-lo mandou: Eu te estabeleci para seres luz das nações, e levares a salvação até os confins da terra” (Is 49,6)."
+    },
+    {
+      "numero": 48,
+      "texto": "Essas palavras encheram de alegria os pagãos que glorificavam a palavra do Senhor. Todos os que estavam predispostos para a vida eterna fizeram ato de fé.",
+      "nota": true
+    },
+    {
+      "numero": 49,
+      "texto": "Divulgava-se, assim, a palavra do Senhor por toda a região."
+    },
+    {
+      "numero": 50,
+      "texto": "Mas os judeus instigaram certas mulheres religiosas da aristocracia e os principais da cidade, que excitaram uma perseguição contra Paulo e Barnabé e os expulsaram do seu território.",
+      "nota": true
+    },
+    {
+      "numero": 51,
+      "texto": "Estes sacudiram contra eles o pó dos seus pés, e foram a Icônio.",
+      "nota": true
+    },
+    {
+      "numero": 52,
+      "texto": "Os discípulos, por sua vez, estavam cheios de alegria e do Espírito Santo."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "13:1-3",
+      "texto": "A separação de Barnabé e Saulo para a missão é um exemplo de como a Igreja primitiva era guiada pelo Espírito Santo em suas decisões, destacando o envio dos missionários para o trabalho evangelístico (veja também Atos 1:8 e Mateus 28:19-20)."
+    },
+    {
+      "ref": "13:6-12",
+      "texto": "O confronto entre Paulo e Elimas, o mágico, demonstra o poder de Deus contra as forças do mal. A cegueira temporária de Elimas serve como um símbolo da cegueira espiritual de muitos diante da verdade do evangelho (veja também 2 Coríntios 4:4 e Mateus 15:14)."
+    },
+    {
+      "ref": "13:16-41",
+      "texto": "Paulo prega no sinagoga de Antioquia da Pisídia, destacando que Jesus é o cumprimento das promessas feitas a Israel. Sua pregação aponta para a ressurreição como fundamento da fé cristã (veja também 1 Coríntios 15:14 e Romanos 1:4)."
+    },
+    {
+      "ref": "13:44-52",
+      "texto": "A oposição dos judeus à mensagem de Paulo reflete a resistência à nova aliança em Cristo, mas a resposta de Paulo e Barnabé ao se voltar para os gentios mostra a missão universal do evangelho (veja também Romanos 11:11 e Lucas 4:25-27)."
+    },
+    {
+      "ref": "13:50-52",
+      "texto": "A perseguição contra Paulo e Barnabé em Antioquia ressalta o custo da missão e a resistência que frequentemente acompanha a pregação do evangelho. A alegria dos discípulos diante da perseguição demonstra a força da fé (veja também Mateus 5:10-12 e Atos 5:41)."
+    }
+  ]
+}

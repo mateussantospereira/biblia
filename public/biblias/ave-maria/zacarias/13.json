@@ -1,0 +1,74 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "zacarias",
+  "nome": "Zacarias",
+  "testamento": "AT",
+  "capitulo": 13,
+  "totalVersiculos": 9,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/zacarias/13/",
+  "capturadoEm": "2026-11-15T09:25:32-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Naquele dia, jorrará uma fonte para a casa de Deus e para os habitantes de Jerusalém, que apagará os seus pecados e suas impurezas."
+    },
+    {
+      "numero": 2,
+      "texto": "Naquele dia – oráculo do Senhor –, exterminarei da terra até os nomes dos ídolos: não se falará mais deles; expulsarei os falsos profetas e todo espírito impuro."
+    },
+    {
+      "numero": 3,
+      "texto": "Se alguém intentar ainda dar um oráculo, seu pai e sua mãe que o geraram o repreenderão: “Vais morrer, porque dizes mentiras em nome do Senhor”. E quando ele proferir os seus oráculos, eles mesmos, seu pai e sua mãe que o geraram, o transpassarão."
+    },
+    {
+      "numero": 4,
+      "texto": "Naquele dia, os profetas terão vergonha de suas visões proféticas, e não mais se cobrirão com o manto de peles para mentir.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Cada um dirá: “Não sou profeta, mas lavrador, e possuo terras desde a minha juventude”."
+    },
+    {
+      "numero": 6,
+      "texto": "Se alguém lhe disser: “Que ferimentos são esses em tuas mãos?”. “São ferimentos que recebi na casa de meus amigos” – responderá ele.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "Espada, levanta-te contra o meu pastor, contra o meu companheiro – oráculo do Senhor dos exércitos. Fere o pastor, que as ovelhas sejam dispersas: Voltarei a minha mão até mesmo contra os pequenos.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Em toda a terra – oráculo do Senhor –, dois terços dos habitantes serão exterminados e um terço subsistirá."
+    },
+    {
+      "numero": 9,
+      "texto": "Mas farei passar este terço pelo fogo; irei purificá-lo como se purifica a prata, irei prová-lo como se prova o ouro. Então, ele invocará o meu nome, eu o ouvirei, e direi: “Este é o meu povo” – e ele responderá –: “O Senhor é o meu Deus”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "13:1",
+      "texto": "A purificação de Israel é prometida no futuro, quando uma fonte será aberta para a remissão dos pecados e da impureza. Isso aponta para a obra redentora de Cristo, que oferece perdão completo para todos os crentes (veja também João 19:34 e 1 João 1:7)."
+    },
+    {
+      "ref": "13:2-6",
+      "texto": "A profecia sobre a erradicação dos ídolos e profetas falsos simboliza o fim da idolatria e a restauração da verdadeira adoração a Deus. A destruição da falsidade é uma parte essencial da purificação do povo de Deus (veja também 1 Coríntios 10:14 e 1 João 5:21)."
+    },
+    {
+      "ref": "13:7-9",
+      "texto": "A promessa de que Deus purificará Seu povo através do fogo reflete o processo de refinação espiritual, em que a fé verdadeira será separada da falsa. Isso é ilustrado pela referência ao \"pastor ferido\", que se aplica à paixão de Cristo e ao sofrimento pelo povo (veja também Mateus 26:31-35 e 1 Pedro 1:6-7)."
+    },
+    {
+      "ref": "13:7-9",
+      "texto": "O \"pastor ferido\" é uma referência direta ao sofrimento de Cristo, que seria abandonado por Seus discípulos, mas através desse sofrimento, Deus purificará Seu povo. A promessa de restaurar os remanescentes de Israel aponta para o futuro da Igreja (veja também Isaías 53:3-5 e Lucas 22:61-62)."
+    },
+    {
+      "ref": "13:9",
+      "texto": "A promessa de refinar o remanescente de Israel como ouro e prata fala sobre o processo de santificação que os crentes enfrentam, sendo purificados e tornados mais semelhantes a Cristo (veja também 1 Pedro 1:6-7 e Malaquias 3:3)."
+    }
+  ]
+}

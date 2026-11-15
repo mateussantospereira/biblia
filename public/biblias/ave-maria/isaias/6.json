@@ -1,0 +1,91 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 6,
+  "totalVersiculos": 13,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/6/",
+  "capturadoEm": "2026-11-15T09:21:19-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "No ano da morte do rei Ozias, eu vi o Senhor sentado num trono muito ele-vado; as franjas de seu manto enchiam o templo.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Os serafins se mantinham junto dele. Cada um deles tinha seis asas; com um par de asas velavam a face; com outro cobriam os pés; e, com o terceiro, voavam.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Suas vozes se revezavam e diziam: “Santo, santo, santo é o Senhor Deus do universo! A terra inteira proclama a sua glória!”."
+    },
+    {
+      "numero": 4,
+      "texto": "A este brado as portas estremeceram em seus gonzos e a casa encheu-se de fumo."
+    },
+    {
+      "numero": 5,
+      "texto": "“Ai de mim” – gritava eu –. “Estou perdido porque sou um homem de lábios impuros, e habito com um povo (também) de lábios impuros e, entretanto, meus olhos viram o rei, o Senhor dos exércitos!”"
+    },
+    {
+      "numero": 6,
+      "texto": "Porém, um dos serafins voou em minha direção; trazia na mão uma brasa viva, que tinha tomado do altar com uma tenaz."
+    },
+    {
+      "numero": 7,
+      "texto": "Aplicou-a na minha boca e disse: “Tendo esta brasa tocado teus lábios, teu pecado foi tirado, e tua falta, apagada”."
+    },
+    {
+      "numero": 8,
+      "texto": "Ouvi então a voz do Senhor que dizia: “Quem enviarei eu? E quem irá por nós?”. “Eis-me aqui” – disse eu –, “enviai-me.’’"
+    },
+    {
+      "numero": 9,
+      "texto": "“Vai, pois, dizer a esse povo” – disse ele: “Escutai, sem chegar a compreender, olhai, sem chegar a ver."
+    },
+    {
+      "numero": 10,
+      "texto": "Obceca o coração desse povo, ensurdece-lhe os ouvidos, fecha-lhe os olhos, de modo que não veja nada com seus olhos, não ouça com seus ouvidos, não compreenda nada com seu espírito. E não se cure de novo”.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "“Até quando, Senhor?” – disse eu. E ele respondeu: “Até que as cidades fiquem devastadas e sem habitantes, as casas, sem gente, e a terra, deserta;"
+    },
+    {
+      "numero": 12,
+      "texto": "até que o Senhor tenha banido os homens, e seja grande a solidão na terra."
+    },
+    {
+      "numero": 13,
+      "texto": "Se restar um décimo da população, ele será lançado ao fogo, como o terebinto e o carvalho, cuja linhagem permanece quando são abatidos.” Sua linhagem é um germe santo.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "6:1-4",
+      "texto": "Isaías tem uma visão do trono de Deus, onde serafins proclamam a santidade divina. Essa cena enfatiza a pureza absoluta de Deus e Sua separação do pecado, inspirando reverência e humildade (veja também Apocalipse 4:8 e Hebreus 12:29)."
+    },
+    {
+      "ref": "6:5-7",
+      "texto": "Isaías, consciente de seu pecado, clama por purificação. Deus purifica Isaías com uma brasa, simbolizando a redenção e o chamado à santidade para todos os que servem a Ele (veja também Salmo 51:10 e 1 João 1:9)."
+    },
+    {
+      "ref": "6:8",
+      "texto": "Deus pergunta: \"A quem enviarei?\" e Isaías responde prontamente, “Eis-me aqui, envia-me a mim!” Essa disposição para servir a Deus exemplifica o compromisso e a prontidão para cumprir a missão divina (veja também Êxodo 3:10 e Romanos 12:1)."
+    },
+    {
+      "ref": "6:9-10",
+      "texto": "Isaías recebe uma mensagem de julgamento para o povo, indicando que ouviriam, mas não entenderiam. Isso reflete a dureza do coração humano e a necessidade de arrependimento (veja também Mateus 13:14-15 e João 12:40)."
+    },
+    {
+      "ref": "6:11-13",
+      "texto": "Isaías questiona até quando o juízo durará, e Deus responde que será até que a terra esteja desolada, mas com uma promessa de esperança, pois um remanescente permanecerá. Essa visão revela a justiça e a fidelidade de Deus (veja também Romanos 11:5 e Isaías 1:9)."
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "levitico",
+  "nome": "Levítico",
+  "testamento": "AT",
+  "capitulo": 8,
+  "totalVersiculos": 36,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/levitico/8/",
+  "capturadoEm": "2026-11-15T09:08:49-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Senhor disse a Moisés:"
+    },
+    {
+      "numero": 2,
+      "texto": "“Toma Aarão e seus filhos, as vestes, o óleo para a unção, o touro do sacrifício pelo pecado, os dois carneiros e a cesta de pães ázimos,"
+    },
+    {
+      "numero": 3,
+      "texto": "e convoca toda a assembleia à entrada da tenda de reunião”."
+    },
+    {
+      "numero": 4,
+      "texto": "Moisés fez o que lhe ordenou o Senhor, e a assembleia se reuniu à entrada da tenda de reunião."
+    },
+    {
+      "numero": 5,
+      "texto": "Moisés disse então: “Eis o que o Senhor ordenou que se fizesse”."
+    },
+    {
+      "numero": 6,
+      "texto": "Fez aproximarem-se Aarão e seus filhos e os lavou com água."
+    },
+    {
+      "numero": 7,
+      "texto": "Vestiu Aarão com a túnica, o cinto e o manto; pôs sobre ele o efod e cingiu-o com o cinto do efod, atando-o."
+    },
+    {
+      "numero": 8,
+      "texto": "Pôs-lhe em seguida o peitoral, ao qual fixou os urim e os tumim."
+    },
+    {
+      "numero": 9,
+      "texto": "Cobriu-lhe a cabeça com a tiara, diante da qual colocou a lâmina de ouro, o santo diadema, como o Senhor lhe tinha ordenado."
+    },
+    {
+      "numero": 10,
+      "texto": "Tomou, além disso, o óleo da unção, ungiu com ele o tabernáculo e tudo o que continha, e os consagrou."
+    },
+    {
+      "numero": 11,
+      "texto": "Aspergiu sete vezes o altar e ungiu-o com todos os seus utensílios, assim como a bacia e seu pedestal, para consagrá-los."
+    },
+    {
+      "numero": 12,
+      "texto": "Derramou o óleo da unção na cabeça de Aarão para consagrá-lo."
+    },
+    {
+      "numero": 13,
+      "texto": "Depois mandou que se aproximassem os filhos de Aarão, e os revestiu de túnicas e de cintos, pondo-lhes também mitras nas cabeças, como o Senhor lhe tinha ordenado."
+    },
+    {
+      "numero": 14,
+      "texto": "Então mandou vir o touro do sacrifício pelo pecado, e Aarão e seus filhos puseram as mãos sobre a sua cabeça."
+    },
+    {
+      "numero": 15,
+      "texto": "Moisés o imolou, tomou o sangue e, com o dedo, o pôs sobre os chifres do altar, purificando o altar; derramou o resto ao pé do altar e o consagrou, fazendo sobre ele a expiação."
+    },
+    {
+      "numero": 16,
+      "texto": "Tomou, em seguida, toda a gordura que envolve as entranhas, a pele que recobre o fígado e os dois rins com sua gordura, e os queimou no altar."
+    },
+    {
+      "numero": 17,
+      "texto": "Mas queimou fora do acampamento o touro, seu couro, sua carne e seus excrementos, como o Senhor lhe tinha ordenado."
+    },
+    {
+      "numero": 18,
+      "texto": "Mandou vir o carneiro do holocausto, sobre cuja cabeça Aarão e seus filhos impuseram as mãos."
+    },
+    {
+      "numero": 19,
+      "texto": "Foi imolado, e Moisés derramou seu sangue em todo o redor do altar."
+    },
+    {
+      "numero": 20,
+      "texto": "Foi, em seguida, cortado em pedaços, e Moisés queimou a cabeça, os pedaços e a gordura."
+    },
+    {
+      "numero": 21,
+      "texto": "Lavaram com água as entranhas e as patas, e Moisés queimou o carneiro todo sobre o altar: era um holocausto de agradável odor, um sacrifício consumido pelo fogo ao Senhor, como o Senhor o tinha ordenado a Moisés."
+    },
+    {
+      "numero": 22,
+      "texto": "Mandou que se aproximasse o outro carneiro, o carneiro de empossamento, sobre cuja cabeça Aarão e seus filhos impuseram as mãos."
+    },
+    {
+      "numero": 23,
+      "texto": "Moisés o imolou, tomou seu sangue e o pôs na ponta da orelha direita de Aarão e nos polegares de sua mão direita e de seu pé direito."
+    },
+    {
+      "numero": 24,
+      "texto": "E mandou então que se aproximassem os filhos de Aarão: pôs-lhes o sangue na ponta da orelha direita, no polegar da mão direita e no hálux do pé direito e, depois, derramou o resto do sangue em todo o redor do altar."
+    },
+    {
+      "numero": 25,
+      "texto": "Depois tomou a gordura, a cauda, toda a gordura que envolve as entranhas, a pele que recobre o fígado, os dois rins com sua gordura e a coxa direita."
+    },
+    {
+      "numero": 26,
+      "texto": "Tomou também da cesta de pães ázimos, colocada diante do Senhor, um bolo amassado sem fermento, um bolo amassado com óleo e uma bolacha, e os pôs sobre a gordura e a coxa direita."
+    },
+    {
+      "numero": 27,
+      "texto": "Meteu tudo isso nas mãos de Aarão e de seus filhos para agitá-los como oferta diante do Senhor."
+    },
+    {
+      "numero": 28,
+      "texto": "Tomou-os em seguida Moisés nas suas próprias mãos e os queimou sobre o altar, por cima do holocausto; esse foi o sacrifício de empossamento, de agradável odor, consumado pelo fogo ao Senhor."
+    },
+    {
+      "numero": 29,
+      "texto": "Tomou também o peito do carneiro de empossamento e o agitou como oferta diante do Senhor a sua porção, como o Senhor lhe tinha ordenado."
+    },
+    {
+      "numero": 30,
+      "texto": "Tomou, finalmente, o óleo da unção e o sangue que estava sobre o altar e aspergiu sobre Aarão e suas vestes, seus filhos e suas vestes, e consagrou assim Aarão e seus filhos com suas vestes."
+    },
+    {
+      "numero": 31,
+      "texto": "Depois Moisés disse-lhes: “Cozei a carne à entrada da tenda de reunião. Ali a comereis com o pão que está na cesta de empossamento, como vos ordenei quando disse: Aarão e seus filhos a comerão."
+    },
+    {
+      "numero": 32,
+      "texto": "O que sobrar da carne e do pão, o queimareis no fogo."
+    },
+    {
+      "numero": 33,
+      "texto": "Não saireis da entrada da tenda de reunião durante sete dias, até se cumprirem os dias de vosso empossamento, o qual durará sete dias."
+    },
+    {
+      "numero": 34,
+      "texto": "O que se fez hoje, prescreveu o Senhor que se faça novamente, em expiação por vós."
+    },
+    {
+      "numero": 35,
+      "texto": "Ficareis, pois, sete dias à entrada da tenda de reunião, dia e noite, e observareis as ordens do Senhor, para que não morrais. Essa é a ordem que recebi”."
+    },
+    {
+      "numero": 36,
+      "texto": "Aarão e seus filhos fizeram tudo o que o Senhor lhes tinha ordenado por meio de Moisés."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "8:1-5",
+      "texto": "A consagração de Arão e seus filhos como sacerdotes é um marco importante no estabelecimento do culto a Deus. O chamado e a santificação dos líderes espirituais refletem o caráter sagrado de seu serviço (veja também Êxodo 29:1-9 e Hebreus 5:1-4)."
+    },
+    {
+      "ref": "8:6-9",
+      "texto": "A lavagem de Arão e seus filhos simboliza a purificação necessária para se aproximar de Deus. O uso de vestes especiais reflete a santidade e a dignidade do ofício sacerdotal (veja também Zacarias 3:3-4 e Apocalipse 19:8)."
+    },
+    {
+      "ref": "8:10-13",
+      "texto": "A unção com óleo sagrado representa a consagração total ao serviço de Deus. O ato de ungir é uma marca de separação para uma obra santa e revela o Espírito de Deus capacitando Seus servos (veja também 1 Samuel 16:13 e 2 Coríntios 1:21-22)."
+    },
+    {
+      "ref": "8:14-17",
+      "texto": "O sacrifício do novilho pelo pecado simboliza a expiação dos sacerdotes antes de começarem o serviço no tabernáculo. Isso aponta para a necessidade de pureza entre aqueles que ministram diante de Deus (veja também Hebreus 9:6-7 e Levítico 16:6)."
+    },
+    {
+      "ref": "8:18-21",
+      "texto": "A oferta queimada simboliza a consagração completa a Deus. O aroma suave subindo ao Senhor reflete a aceitação da obediência e o sacrifício sincero dos servos de Deus (veja também Efésios 5:2 e Filipenses 4:18)."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 122,
+  "totalVersiculos": 4,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/122/",
+  "capturadoEm": "2026-11-15T09:18:08-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cântico das peregrinações. Levanto os olhos para vós, que habitais nos céus.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Como os olhos dos servos estão fixos nas mãos de seus senhores, como os olhos das servas estão fixos nas mãos de suas senhoras, assim nossos olhos estão voltados para o Senhor, nosso Deus, esperando que ele tenha piedade de nós."
+    },
+    {
+      "numero": 3,
+      "texto": "Tende misericórdia de nós, Senhor, tende misericórdia de nós, porque estamos saturados de desprezo."
+    },
+    {
+      "numero": 4,
+      "texto": "Nossa alma está em excesso repleta da zombaria dos opulentos e do desprezo dos soberbos."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "122:1-2",
+      "texto": "O salmista expressa alegria ao ouvir o convite para ir à casa do Senhor. Esse versículo reflete o amor pela adoração comunitária e pela presença de Deus em Jerusalém, a cidade santa (veja também Salmo 84:1-2 e Hebreus 10:25)."
+    },
+    {
+      "ref": "122:3-5",
+      "texto": "Jerusalém é descrita como uma cidade compacta, símbolo de unidade e lugar do trono de julgamento. Isso enfatiza o papel de Jerusalém como o centro da vida espiritual e judicial do povo de Deus (veja também 1 Reis 8:44-48 e Zacarias 8:3)."
+    },
+    {
+      "ref": "122:6-7",
+      "texto": "O salmista ora pela paz de Jerusalém, pedindo prosperidade para aqueles que amam a cidade. Essa oração por paz e prosperidade reflete o desejo de harmonia entre o povo de Deus e a cidade escolhida (veja também Isaías 66:10 e Jeremias 29:7)."
+    },
+    {
+      "ref": "122:8-9",
+      "texto": "O salmista compromete-se a buscar o bem de Jerusalém por causa de seus irmãos e do templo do Senhor. Isso mostra a importância da solidariedade e da intercessão pela comunidade de fé (veja também Neemias 2:17 e Hebreus 13:14)."
+    }
+  ]
+}

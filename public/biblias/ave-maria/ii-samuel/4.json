@@ -1,0 +1,86 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ii-samuel",
+  "nome": "II Samuel",
+  "testamento": "AT",
+  "capitulo": 4,
+  "totalVersiculos": 12,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ii-samuel/4/",
+  "capturadoEm": "2026-11-15T09:11:49-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Quando o filho de Saul soube da morte de Abner, em Hebron, perdeu o ânimo e todo o Israel ficou consternado.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Ora, tinha ele a seu serviço dois chefes de bando, um chamado Baana e o outro Recab, ambos filhos de Remon de Berot, benjaminitas. Porque Berot também fora contada entre os benjaminitas,"
+    },
+    {
+      "numero": 3,
+      "texto": "embora seus habitantes se tenham refugiado em Getaim, onde residem até hoje."
+    },
+    {
+      "numero": 4,
+      "texto": "Jônatas, filho de Saul, tinha também um filho paralítico dos dois pés. Ele tinha cinco anos, quando chegou de Jezrael a notícia da morte de Saul e de Jônatas. Sua ama fugiu levando-o consigo, mas, na precipitação da fuga, o menino caiu e ficou manco. Chamava-se Mifiboset.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Os filhos de Remon de Berot partiram no maior calor do dia e foram à casa de Isbaal, que estava dormindo a sesta."
+    },
+    {
+      "numero": 6,
+      "texto": "Penetraram na casa sob o pretexto de buscar trigo e feriram-no no ventre. Recab e seu irmão Baana conseguiram entrar furtivamente",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "e, tendo penetrado na casa, onde Isbaal repousava no seu leito, no quarto de dormir, feriram-no de morte e cortaram-lhe a cabeça. Tomaram-na depois consigo e andaram toda a noite pelo caminho da planície."
+    },
+    {
+      "numero": 8,
+      "texto": "E levaram a cabeça de Isbaal a Davi, em Hebron. “Eis aqui – disseram-lhe – a cabeça de Isbaal, filho de Saul, teu inimigo que queria matar-te. O Senhor vingou hoje o rei, meu senhor, de Saul e de sua raça.”"
+    },
+    {
+      "numero": 9,
+      "texto": "Mas Davi respondeu a Recab e ao seu irmão Baana, filhos de Remon de Berot: “Pela vida de Deus que me salvou de todos os perigos!"
+    },
+    {
+      "numero": 10,
+      "texto": "O homem que me veio anunciar a morte de Saul, cuidando trazer-me uma boa notícia, tomei-o e matei-o em Siceleg, em recompensa de sua boa mensagem."
+    },
+    {
+      "numero": 11,
+      "texto": "Quanto mais agora a homens celerados que mataram um inocente dentro de sua casa, em seu leito, não vos pedirei eu conta de seu sangue e não vos farei desaparecer da terra?”."
+    },
+    {
+      "numero": 12,
+      "texto": "Davi ordenou aos seus homens que os matassem. Cortaram-lhes as mãos e os pés e penduraram-nos junto da piscina de Hebron. A cabeça de Isbaal foi recolhida e depositada no túmulo de Abner, em Hebron."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "4:1-3",
+      "texto": "A notícia da morte de Abner causa pânico na casa de Is-Bosete. Isso revela como a instabilidade política pode gerar medo e desespero em um governo (veja também Salmo 11:3 e 1 João 4:18)."
+    },
+    {
+      "ref": "4:4",
+      "texto": "Mefibosete, o filho aleijado de Jônatas, é mencionado, destacando a continuidade da linhagem de Saul e a importância da aliança feita entre Davi e Jônatas. Isso mostra o coração de Davi em preservar a família de seu amigo (veja também 1 Samuel 20:14-15 e Salmo 89:28)."
+    },
+    {
+      "ref": "4:5-7",
+      "texto": "A traição e a morte de Is-Bosete pelas mãos de seus próprios capitães ilustram as consequências do poder e da ambição desmedida. A instabilidade leva à violência e à deslealdade (veja também Gálatas 5:15 e 1 Pedro 5:8)."
+    },
+    {
+      "ref": "4:8-12",
+      "texto": "A entrega da cabeça de Is-Bosete a Davi por seus assassinos mostra a falta de compreensão das leis e da justiça. Davi rejeita a violência e demonstra que o verdadeiro líder não se alegra com a morte de seus inimigos (veja também Mateus 5:44 e Romanos 12:19)."
+    },
+    {
+      "ref": "4:13-16",
+      "texto": "A justiça de Davi em punir os assassinos de Is-Bosete reflete seu caráter como líder. Ele se recusa a usar a violência para obter o poder, destacando a importância da integridade e da ética na liderança (veja também 1 Timóteo 3:2 e 2 Pedro 2:9)."
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "exodo",
+  "nome": "Êxodo",
+  "testamento": "AT",
+  "capitulo": 17,
+  "totalVersiculos": 16,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/exodo/17/",
+  "capturadoEm": "2026-11-15T09:08:16-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Segundo uma ordem do Senhor, toda a assembleia dos israelitas partiu, por etapas, do deserto de Sin. Acamparam em Rafidim, onde não havia água para o povo beber."
+    },
+    {
+      "numero": 2,
+      "texto": "E vieram então discutir com Moisés: “Dá-nos água para beber” – disseram eles. Moisés respondeu-lhes: “Por que procurais contendas comigo? Por que provocais o Senhor?”."
+    },
+    {
+      "numero": 3,
+      "texto": "Entretanto, o povo que ali estava privado de água e devorado pela sede, murmurava contra Moisés: “Por que nos fizeste sair do Egito? Para nos fazer morrer de sede com nossos filhinhos e nossos rebanhos?”."
+    },
+    {
+      "numero": 4,
+      "texto": "Então dirigiu Moisés esta prece ao Senhor: “Que farei a este povo? Mais um pouco e irão apedrejar-me”."
+    },
+    {
+      "numero": 5,
+      "texto": "O Senhor respondeu a Moisés: “Passa adiante do povo, e leva contigo alguns dos anciãos de Israel; toma na mão tua vara, com que feriste o Nilo, e vai."
+    },
+    {
+      "numero": 6,
+      "texto": "Eis que estarei ali diante de ti. Sobre o rochedo do monte Horeb ferirás o rochedo e a água jorrará dele: assim o povo poderá beber”. Isso fez Moisés em presença dos anciãos de Israel.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "Chamaram esse lugar Massa e Meriba, por causa da contenda que os israelitas tiveram com ele, e porque tinham provocado o Senhor, dizendo: “O Senhor está ou não no meio de nós?”.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Amalec veio atacar Israel em Rafidim."
+    },
+    {
+      "numero": 9,
+      "texto": "Moisés disse a Josué: “Escolhe-nos homens e vai combater Amalec. Amanhã estarei no alto da colina com a vara de Deus na mão”."
+    },
+    {
+      "numero": 10,
+      "texto": "Josué obedeceu Moisés e foi combater Amalec, enquanto Moisés, Aarão e Hur subiam ao alto da colina."
+    },
+    {
+      "numero": 11,
+      "texto": "E, quando Moisés tinha a mão levantada, Israel vencia, mas logo que a abaixava, Amalec triunfava."
+    },
+    {
+      "numero": 12,
+      "texto": "Mas como se fatigassem os braços de Moisés, puseram-lhe uma pedra por baixo e ele assentou-se nela, enquanto Aarão e Hur lhe sustentavam as mãos de cada lado: suas mãos puderam assim conservar-se levantadas até o pôr do sol,"
+    },
+    {
+      "numero": 13,
+      "texto": "e Josué derrotou Amalec e seu povo a fio da espada."
+    },
+    {
+      "numero": 14,
+      "texto": "O Senhor disse a Moisés: “Escreve isto para lembrar, e dize a Josué que eu apagarei a memória de Amalec de debaixo do céu”."
+    },
+    {
+      "numero": 15,
+      "texto": "Moisés construiu um altar que chamou de “O Senhor é minha bandeira”.",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "“Já que a mão – disse ele – foi levantada contra o trono do Senhor, o Senhor está em guerra perpétua contra Amalec.”"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "17:1-2",
+      "texto": "O povo murmura pela falta de água em Refidim, testando a paciência de Moisés e duvidando da presença de Deus. Isso reflete a fraqueza da fé em momentos de adversidade (veja também Números 20:2-5 e 1 Coríntios 10:9)."
+    },
+    {
+      "ref": "17:5-6",
+      "texto": "Moisés, sob a orientação de Deus, fere a rocha em Horebe, de onde jorra água. Esse milagre simboliza o poder de Deus de prover para Seu povo e é uma imagem da graça divina (veja também 1 Coríntios 10:4 e João 4:14)."
+    },
+    {
+      "ref": "17:8-9",
+      "texto": "Os amalequitas atacam Israel, e Moisés ordena que Josué lidere o exército. Aqui, vemos a necessidade da liderança espiritual e militar para proteger o povo de Deus (veja também Deuteronômio 25:17-19 e 1 Timóteo 6:12)."
+    },
+    {
+      "ref": "17:11-13",
+      "texto": "Enquanto Moisés mantém as mãos levantadas, Israel prevalece na batalha. Quando suas mãos cansam, Arão e Hur o sustentam, simbolizando o poder da intercessão e o apoio comunitário (veja também 1 Timóteo 2:1-2 e Êxodo 18:12)."
+    },
+    {
+      "ref": "17:15-16",
+      "texto": "Moisés constrói um altar e o chama de “O Senhor é minha bandeira”, proclamando que Deus é o protetor e a vitória de Seu povo. Esse ato reflete a glória de Deus em tempos de batalha e livramento (veja também Salmo 60:4 e Isaías 11:10)."
+    }
+  ]
+}

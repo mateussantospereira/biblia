@@ -1,0 +1,60 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 12,
+  "totalVersiculos": 6,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/12/",
+  "capturadoEm": "2026-11-15T09:16:13-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. Salmo de Davi.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Até quando, Senhor, de todo vos esquecereis de mim? Por quanto tempo ainda desviareis de mim os vossos olhares?"
+    },
+    {
+      "numero": 3,
+      "texto": "Até quando aninharei a angústia na minha alma, e, dia após dia, a tristeza no coração?"
+    },
+    {
+      "numero": 4,
+      "texto": "Até quando se levantará o meu inimigo contra mim? Olhai! Ouvi-me, Senhor, ó meu Deus!"
+    },
+    {
+      "numero": 5,
+      "texto": "Iluminai meus olhos com vossa luz, para eu não adormecer na morte, para que meu inimigo não venha a dizer: “Venci-o”;"
+    },
+    {
+      "numero": 6,
+      "texto": "e meus adversários não triunfem no momento de minha queda, eu que confiei em vossa misericórdia. Antes possa meu coração regozijar-se em vosso socorro! Então cantarei ao Senhor pelos benefícios que me concedeu."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "12:1",
+      "texto": "O clamor do salmista por ajuda em meio à decadência moral e à falsidade dos homens revela a necessidade de Deus em tempos de crise. A busca por verdade e autenticidade é uma constante na vida de fé (veja também Salmo 43:1 e Efésios 4:15)."
+    },
+    {
+      "ref": "12:2-4",
+      "texto": "A descrição dos lábios enganadores e do orgulho humano destaca a fragilidade da palavra humana. O salmo reflete sobre as palavras e intenções que podem ser enganosas, contrastando com a verdade de Deus (veja também Tiago 3:5-8 e Provérbios 12:19)."
+    },
+    {
+      "ref": "12:5",
+      "texto": "Deus promete proteger os humildes e necessitados. Essa promessa enfatiza a compaixão divina pelos vulneráveis e a certeza de que Ele se levantará para defendê-los (veja também Salmo 34:18 e Salmo 146:7-9)."
+    },
+    {
+      "ref": "12:6",
+      "texto": "A afirmação de que as palavras do Senhor são puras reflete a confiança na Sua verdade e na Sua justiça. Essa pureza contrasta com as mentiras do mundo, lembrando-nos da importância de nos apegarmos à Palavra de Deus (veja também Salmo 119:140 e Provérbios 30:5)."
+    },
+    {
+      "ref": "12:7-8",
+      "texto": "O salmo termina com a certeza de que Deus guardará Seu povo em meio a um mundo corrupto. A esperança na proteção divina é essencial para enfrentar as dificuldades e desafios da vida (veja também Salmo 91:1-2 e Romanos 8:31-39)."
+    }
+  ]
+}

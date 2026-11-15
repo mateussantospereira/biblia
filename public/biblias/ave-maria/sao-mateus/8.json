@@ -1,0 +1,175 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sao-mateus",
+  "nome": "São Mateus",
+  "testamento": "NT",
+  "capitulo": 8,
+  "totalVersiculos": 34,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sao-mateus/8/",
+  "capturadoEm": "2026-11-15T09:25:45-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Tendo Jesus descido da montanha, uma grande multidão o seguiu."
+    },
+    {
+      "numero": 2,
+      "texto": "Eis que um leproso aproximou-se e prostrou-se diante dele, dizendo: “Senhor, se queres, podes curar-me”."
+    },
+    {
+      "numero": 3,
+      "texto": "Jesus estendeu a mão, tocou-o e disse: “Eu quero, sê curado”. No mesmo instante, a lepra desapareceu."
+    },
+    {
+      "numero": 4,
+      "texto": "Jesus então lhe disse: “Vê que não o digas a ninguém. Vai, porém, mostrar-te ao sacerdote e oferece o dom prescrito por Moisés em testemunho de tua cura”.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Entrou Jesus em Cafarnaum. Um centurião veio a ele e lhe fez esta súplica:"
+    },
+    {
+      "numero": 6,
+      "texto": "“Senhor, meu servo está em casa, de cama, paralítico, e sofre muito”."
+    },
+    {
+      "numero": 7,
+      "texto": "Disse-lhe Jesus: “Eu irei e o curarei”."
+    },
+    {
+      "numero": 8,
+      "texto": "Respondeu o centurião: “Senhor, eu não sou digno de que entreis em minha casa. Dizei uma só palavra e meu servo será curado."
+    },
+    {
+      "numero": 9,
+      "texto": "Pois eu também sou um subordinado e tenho soldados às minhas ordens. Eu digo a um: “Vai, e ele vai; a outro: Vem, e ele vem; e a meu servo: Faze isto, e ele o faz...”.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Ouvindo isto, cheio de admiração, disse Jesus aos presentes: “Em verdade vos digo: não encontrei semelhante fé em ninguém de Israel."
+    },
+    {
+      "numero": 11,
+      "texto": "Por isso, eu vos declaro que multidões virão do Oriente e do Ocidente e se assentarão no Reino dos Céus com Abraão, Isaac e Jacó,"
+    },
+    {
+      "numero": 12,
+      "texto": "enquanto os filhos do Reino serão lançados nas trevas exteriores, onde haverá choro e ranger de dentes”.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Depois, dirigindo-se ao centurião, disse: “Vai, seja-te feito conforme a tua fé”. Na mesma hora o servo ficou curado."
+    },
+    {
+      "numero": 14,
+      "texto": "Foi então Jesus à casa de Pedro, cuja sogra estava de cama, com febre."
+    },
+    {
+      "numero": 15,
+      "texto": "Tomou-lhe a mão, e a febre a deixou. Ela levantou-se e pôs-se a servi-los."
+    },
+    {
+      "numero": 16,
+      "texto": "Pela tarde, apresentaram-lhe muitos possessos de demônios. Com uma palavra expulsou ele os espíritos e curou todos os enfermos."
+    },
+    {
+      "numero": 17,
+      "texto": "Assim se cumpriu a predição do profeta Isaías: Tomou as nossas enfermidades e sobrecarregou-se dos nossos males (Is 53,4)."
+    },
+    {
+      "numero": 18,
+      "texto": "Certo dia, vendo-se no meio de grande multidão, ordenou Jesus que o levassem para a outra margem do lago."
+    },
+    {
+      "numero": 19,
+      "texto": "Nisso aproximou-se dele um escriba e lhe disse: “Mestre, eu te seguirei para onde quer que fores”."
+    },
+    {
+      "numero": 20,
+      "texto": "Respondeu Jesus: “As raposas têm suas tocas e as aves do céu, seus ninhos, mas o Filho do Homem não tem onde repousar a cabeça”."
+    },
+    {
+      "numero": 21,
+      "texto": "Outra vez um dos seus discípulos lhe disse: “Senhor, deixa-me ir primeiro enterrar meu pai”.",
+      "nota": true
+    },
+    {
+      "numero": 22,
+      "texto": "Jesus, porém, lhe respondeu: “Segue-me e deixa que os mortos enterrem seus mortos”."
+    },
+    {
+      "numero": 23,
+      "texto": "Subiu ele a uma barca com seus discípulos."
+    },
+    {
+      "numero": 24,
+      "texto": "De repente, desencadeou-se sobre o mar uma tempestade tão grande, que as ondas cobriam a barca. Ele, no entanto, dormia."
+    },
+    {
+      "numero": 25,
+      "texto": "Os discípulos achegaram-se a ele e o acordaram, dizendo: “Senhor, salva-nos, nós perecemos!”."
+    },
+    {
+      "numero": 26,
+      "texto": "E Jesus perguntou: “Por que este medo, gente de pouca fé?” Então, levantando-se, deu ordens aos ventos e ao mar, e fez-se uma grande calmaria."
+    },
+    {
+      "numero": 27,
+      "texto": "Admirados, diziam: “Quem é este homem a quem até os ventos e o mar obedecem?”."
+    },
+    {
+      "numero": 28,
+      "texto": "No outro lado do lago, na terra dos gadarenos, dois possessos de demônios saíram de um cemitério e vieram-lhe ao encontro. Eram tão furiosos que pessoa alguma ousava passar por ali."
+    },
+    {
+      "numero": 29,
+      "texto": "Eis que se puseram a gritar: “Que tens a ver conosco, Filho de Deus? Vieste aqui para nos atormentar antes do tempo?”."
+    },
+    {
+      "numero": 30,
+      "texto": "Havia, não longe dali, uma grande manada de porcos que pastava."
+    },
+    {
+      "numero": 31,
+      "texto": "Os demônios imploraram a Jesus: “Se nos expulsas, envia-nos para aquela manada de porcos.” –"
+    },
+    {
+      "numero": 32,
+      "texto": "“Ide” – disse-lhes. Eles saíram e entraram nos porcos. Nesse instante, toda a manada se precipitou pelo declive escarpado para o lago, e morreu nas águas."
+    },
+    {
+      "numero": 33,
+      "texto": "Os guardas fugiram e foram contar na cidade o que se tinha passado e o sucedido com os endemoninhados."
+    },
+    {
+      "numero": 34,
+      "texto": "Então, a população saiu ao encontro de Jesus. Quando o viu, suplicou-lhe que deixasse aquela região."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "8:1-4",
+      "texto": "Jesus cura um leproso, demonstrando Sua autoridade sobre a doença e Sua disposição para tocar aqueles marginalizados pela sociedade. A cura física também simboliza a purificação espiritual que Jesus oferece (veja também Marcos 1:40-45 e Lucas 5:12-16)."
+    },
+    {
+      "ref": "8:5-13",
+      "texto": "Jesus cura o servo do centurião, enfatizando a fé extraordinária do oficial romano. Essa história destaca que a fé em Jesus pode ser encontrada até mesmo entre os gentios, e não apenas entre os judeus (veja também Lucas 7:1-10 e João 4:50-53)."
+    },
+    {
+      "ref": "8:14-17",
+      "texto": "Jesus cura a sogra de Pedro e muitos outros doentes, cumprindo as profecias messiânicas de Isaías. Ele demonstra Seu poder sobre as enfermidades, cumprindo Sua missão de trazer cura e libertação ao povo (veja também Isaías 53:4 e 1 Pedro 2:24)."
+    },
+    {
+      "ref": "8:18-22",
+      "texto": "Jesus ensina sobre o custo do discipulado, alertando que seguir a Ele exige renúncia e um compromisso de total entrega. A vida cristã é caracterizada por desapego e pelo foco no Reino de Deus (veja também Lucas 9:57-62 e Filipenses 3:7-8)."
+    },
+    {
+      "ref": "8:23-27",
+      "texto": "Jesus acalma a tempestade, mostrando Sua autoridade sobre a natureza. Esse milagre revela que Jesus é o Senhor de todas as circunstâncias, capaz de trazer paz em meio às adversidades (veja também Marcos 4:35-41 e Salmo 107:28-29)."
+    }
+  ]
+}

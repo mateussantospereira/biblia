@@ -1,0 +1,100 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 91,
+  "totalVersiculos": 16,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/91/",
+  "capturadoEm": "2026-11-15T09:17:36-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Salmo. Cântico para o dia de sábado.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "É bom louvar ao Senhor e cantar salmos ao vosso nome, ó Altíssimo;"
+    },
+    {
+      "numero": 3,
+      "texto": "proclamar, de manhã, a vossa misericórdia, e, durante a noite, a vossa fidelidade,"
+    },
+    {
+      "numero": 4,
+      "texto": "com a harpa de dez cordas e com a lira, com cânticos ao som da cítara,"
+    },
+    {
+      "numero": 5,
+      "texto": "pois vós me alegrais, Senhor, com vossos feitos; exulto com as obras de vossas mãos."
+    },
+    {
+      "numero": 6,
+      "texto": "Senhor, estupendas são as vossas obras! E quão profundos os vossos desígnios!"
+    },
+    {
+      "numero": 7,
+      "texto": "Não compreende estas coisas o insensato, nem as percebe o néscio."
+    },
+    {
+      "numero": 8,
+      "texto": "Ainda que floresçam os ímpios como a relva, e floresçam os que praticam a maldade, eles estão à perda eterna destinados."
+    },
+    {
+      "numero": 9,
+      "texto": "Vós, porém, Senhor, sois o Altíssimo por toda a eternidade."
+    },
+    {
+      "numero": 10,
+      "texto": "Eis que vossos inimigos, Senhor, vossos inimigos hão de perecer, serão dispersados todos os artesãos do mal."
+    },
+    {
+      "numero": 11,
+      "texto": "Exaltastes a minha cabeça como a do búfalo, e com óleo puríssimo me ungistes."
+    },
+    {
+      "numero": 12,
+      "texto": "Meus olhos vêem os inimigos com desprezo, e meus ouvidos ouvem com prazer o que aconteceu aos que praticam o mal."
+    },
+    {
+      "numero": 13,
+      "texto": "Como a palmeira, florescerão os justos, que se elevarão como o cedro do Líbano."
+    },
+    {
+      "numero": 14,
+      "texto": "Plantados na casa do Senhor, nos átrios de nosso Deus hão de florir."
+    },
+    {
+      "numero": 15,
+      "texto": "Até na velhice eles darão frutos, continuarão cheios de seiva e verdejantes,"
+    },
+    {
+      "numero": 16,
+      "texto": "para anunciarem quão justo é o Senhor, meu rochedo, e como não há nele injustiça."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "91:1-2",
+      "texto": "Aquele que habita no esconderijo do Altíssimo encontra refúgio e segurança. O salmista confia plenamente na proteção de Deus, que é um abrigo seguro contra todo mal (veja também Salmo 46:1 e Mateus 6:6)."
+    },
+    {
+      "ref": "91:3-6",
+      "texto": "Deus protege Seu povo de armadilhas e doenças, sendo um escudo contra os perigos da vida. Sua proteção é garantida para aqueles que confiam em Seu poder (veja também Provérbios 3:25-26 e Lucas 10:19)."
+    },
+    {
+      "ref": "91:7-10",
+      "texto": "A promessa de segurança em meio ao caos, onde mil podem cair ao lado e dez mil à direita, mas o mal não atingirá os justos. A confiança na proteção divina é a marca do crente (veja também Êxodo 12:13 e 2 Coríntios 4:8-9)."
+    },
+    {
+      "ref": "91:11-13",
+      "texto": "Os anjos de Deus são enviados para guardar e proteger os fiéis. Essa promessa de proteção angélica é reafirmada no Novo Testamento, quando Satanás tenta Jesus usando este salmo (veja também Mateus 4:6 e Hebreus 1:14)."
+    },
+    {
+      "ref": "91:14-16",
+      "texto": "Deus promete livramento, proteção e vida longa àqueles que O amam e conhecem Seu nome. Ele responde com salvação àqueles que O invocam com fé (veja também Salmo 50:15 e Romanos 10:13)."
+    }
+  ]
+}

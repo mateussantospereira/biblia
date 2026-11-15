@@ -1,0 +1,124 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "exodo",
+  "nome": "Êxodo",
+  "testamento": "AT",
+  "capitulo": 1,
+  "totalVersiculos": 22,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/exodo/1/",
+  "capturadoEm": "2026-11-15T09:07:59-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eis os nomes dos filhos de Israel que vieram para o Egito com Jacó, cada um com sua família:"
+    },
+    {
+      "numero": 2,
+      "texto": "Rúben, Simeão, Levi, Judá,"
+    },
+    {
+      "numero": 3,
+      "texto": "Issacar, Zabulon, Benjamim,"
+    },
+    {
+      "numero": 4,
+      "texto": "Dã, Neftali, Gad e Aser."
+    },
+    {
+      "numero": 5,
+      "texto": "Todas as pessoas saídas de Jacó eram em número de setenta. José estava já no Egito."
+    },
+    {
+      "numero": 6,
+      "texto": "E, morto José, assim como todos os seus irmãos e toda aquela geração,"
+    },
+    {
+      "numero": 7,
+      "texto": "os israelitas foram fecundos e multiplicaram-se; tornaram-se tão numerosos e tão fortes, que a terra ficou repleta deles."
+    },
+    {
+      "numero": 8,
+      "texto": "Entretanto, subiu ao trono do Egito um novo rei, que não tinha conhecido José."
+    },
+    {
+      "numero": 9,
+      "texto": "Ele disse ao seu povo: ‘‘Vede: os israelitas tornaram-se numerosos e fortes demais para nós."
+    },
+    {
+      "numero": 10,
+      "texto": "Vamos! É preciso tomar precaução contra eles e impedir que se multipliquem, para não acontecer que, sobrevindo uma guerra, se unam com os nossos inimigos e combatam contra nós, e se retirem do país”."
+    },
+    {
+      "numero": 11,
+      "texto": "Estabeleceu, pois, sobre eles, feitores para acabrunhá-los com trabalhos penosos: eles construíram para o faraó as cidades de Pitom e Ramsés, que deviam servir de entreposto."
+    },
+    {
+      "numero": 12,
+      "texto": "Quanto mais os oprimiam, porém, tanto mais eles se multiplicavam e se espalhavam, a ponto de os egípcios os aborrecerem."
+    },
+    {
+      "numero": 13,
+      "texto": "Impunham-lhes a mais dura servidão,"
+    },
+    {
+      "numero": 14,
+      "texto": "e amarguravam-lhes a vida com duros trabalhos na argamassa e na fabricação de tijolos, bem como com toda a sorte de trabalhos nos campos e todas as tarefas que se lhes impunham tiranicamente."
+    },
+    {
+      "numero": 15,
+      "texto": "O rei do Egito dirigiu-se, igualmente, às parteiras dos hebreus (uma se chamava Sefra e a outra, Fua),"
+    },
+    {
+      "numero": 16,
+      "texto": "e disse-lhes: ‘‘Quando assistirdes às mulheres dos hebreus, e as virdes sobre o leito, se for um filho, matai-o; mas se for uma filha, deixai-a viver’’.",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "Mas as parteiras temiam a Deus, e não executaram as ordens do rei do Egito, deixando viver os meninos."
+    },
+    {
+      "numero": 18,
+      "texto": "O rei mandou-as chamar então e disse-lhes: ‘‘Por que agistes assim, e deixastes viver os meninos?’’."
+    },
+    {
+      "numero": 19,
+      "texto": "‘‘Porque – responderam elas ao faraó – as mulheres dos hebreus não são como as dos egípcios: elas são vigorosas, e já dão à luz antes que chegue a parteira.’’"
+    },
+    {
+      "numero": 20,
+      "texto": "Deus beneficiou as parteiras: o povo continuou a multiplicar-se e a espalhar-se."
+    },
+    {
+      "numero": 21,
+      "texto": "Porque elas haviam temido a Deus, ele fez prosperar suas famílias."
+    },
+    {
+      "numero": 22,
+      "texto": "Então o faraó deu esta ordem a todo o seu povo: ‘‘Todo menino que nascer, vós o atirareis ao Nilo. Deixareis, porém, viver todas as meninas’’."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:1-7",
+      "texto": "A multiplicação dos filhos de Israel no Egito cumpre a promessa de Deus a Abraão de que sua descendência seria numerosa. Mesmo em terra estrangeira, Deus abençoa Seu povo e o faz prosperar (veja também Gênesis 15:5 e Hebreus 11:12)."
+    },
+    {
+      "ref": "1:8-10",
+      "texto": "Um novo faraó que não conhecia José começa a oprimir os israelitas. Esse evento mostra como as bênçãos de Deus podem ser ameaçadas pela opressão, mas a providência divina continua a agir mesmo em tempos de dificuldade (veja também Salmo 105:24-25 e Atos 7:18-19)."
+    },
+    {
+      "ref": "1:11-14",
+      "texto": "Os israelitas são forçados à escravidão, trabalhando arduamente sob o jugo dos egípcios. A narrativa destaca o sofrimento do povo de Deus e a necessidade de libertação, tema central do Êxodo (veja também Salmo 81:6-7 e Tiago 5:4)."
+    },
+    {
+      "ref": "1:15-17",
+      "texto": "As parteiras hebreias, Sifrá e Puá, desobedecem à ordem do faraó de matar os bebês israelitas. Sua coragem e temor a Deus resultam em proteção e preservação de vidas, sublinhando a santidade da vida e a justiça divina (veja também Provérbios 31:8-9 e Atos 5:29)."
+    },
+    {
+      "ref": "1:22",
+      "texto": "O faraó decreta que todos os meninos hebreus devem ser lançados no Nilo, mas Deus usa essa situação trágica para preparar a salvação de Seu povo através de Moisés. O plano de Deus prevalece mesmo em meio à crueldade (veja também Isaías 46:10 e Romanos 8:28)."
+    }
+  ]
+}

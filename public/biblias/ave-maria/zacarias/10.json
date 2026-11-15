@@ -1,0 +1,79 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "zacarias",
+  "nome": "Zacarias",
+  "testamento": "AT",
+  "capitulo": 10,
+  "totalVersiculos": 12,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/zacarias/10/",
+  "capturadoEm": "2026-11-15T09:25:29-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Pedi chuvas ao Senhor para o tempo das águas tardias. O Senhor faz brilhar o relâmpago, proporciona chuva para todos e ao homem, a vegetação do campo."
+    },
+    {
+      "numero": 2,
+      "texto": "Os terafins deram falsos oráculos, os adivinhos só tiveram visões mentirosas; contam sonhos vãos, e suas consolações são inúteis. Por isso, o povo desgarrou-se como um rebanho e se pôs a vagar por falta de pastor."
+    },
+    {
+      "numero": 3,
+      "texto": "Minha cólera inflama-se contra os pastores, meu castigo vai cair sobre os bodes. O Senhor dos exércitos visita o seu rebanho, a casa de Judá, e a constitui seu cavalo de honra."
+    },
+    {
+      "numero": 4,
+      "texto": "Dela há de provir a pedra angular; dela, o mastro da tenda; dela, o arco de guerra; dela, todos os chefes."
+    },
+    {
+      "numero": 5,
+      "texto": "Todos se portarão como valentes guerreiros, que espezinham no combate a lama dos caminhos. Eles batalharão porque o Senhor está com eles; e serão confundidos os que vêm montados a cavalo."
+    },
+    {
+      "numero": 6,
+      "texto": "Tornarei poderosa a casa de Judá, darei a vitória à casa de José; eu os restabelecerei, porque me compadeci de sua sorte, e eles serão como se eu não os houvesse jamais rejeitado, porque eu sou o Senhor, seu Deus: eu os ouvirei."
+    },
+    {
+      "numero": 7,
+      "texto": "Efraim será como um herói; seu coração se alegrará, fortalecido pelo vinho; seus filhos verão tudo isso e se alegrarão, e seu coração exultará de júbilo no Senhor."
+    },
+    {
+      "numero": 8,
+      "texto": "Vou assobiar e reuni-los, porque os resgatei; serão tão numerosos como o eram outrora."
+    },
+    {
+      "numero": 9,
+      "texto": "Eu os semeei por entre os povos, mas eles de longe se recordarão de mim; instruirão os seus filhos, e tornarão a voltar."
+    },
+    {
+      "numero": 10,
+      "texto": "Eu os reconduzirei da terra do Egito, eu os retirarei da Assíria e os levarei para a terra de Galaad e do Líbano, e ali não haverá lugar bastante para eles."
+    },
+    {
+      "numero": 11,
+      "texto": "Atravessarão o mar do Egito, e o Senhor ferirá as ondas do mar. O leito do Nilo será descoberto. A soberba da Assíria será humilhada, e o cetro do Egito será roubado."
+    },
+    {
+      "numero": 12,
+      "texto": "O poder de Israel crescerá, graças ao Senhor, e eles andarão no seu nome – oráculo do Senhor."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "10:1-2",
+      "texto": "Zacarias chama o povo a buscar a Deus para receber chuva e bênçãos. Ele lembra que as deidades pagãs não podem trazer a verdadeira ajuda, apenas Deus pode restaurar e abençoar (veja também Jeremias 14:22 e Tiago 5:7-8)."
+    },
+    {
+      "ref": "10:3-5",
+      "texto": "Deus promete levantar líderes fortes e fiéis para Seu povo. Esses líderes serão como pastores que protegem e guiam o rebanho, enfatizando a importância de líderes piedosos (veja também Jeremias 23:1-4 e Efésios 4:11-12)."
+    },
+    {
+      "ref": "10:6-9",
+      "texto": "Deus promete restaurar a prosperidade de Israel, trazendo-os de volta para a sua terra. A recuperação espiritual e material é uma demonstração da fidelidade divina em cumprir Suas promessas (veja também Deuteronômio 30:3-10 e Lucas 21:24)."
+    },
+    {
+      "ref": "10:10-12",
+      "texto": "A promessa de restauração completa inclui a segurança e prosperidade do povo. Deus, com Seu poder, fará com que o povo de Israel se fortaleça e experimente Seu cuidado contínuo (veja também Isaías 41:10 e Apocalipse 21:3-4)."
+    }
+  ]
+}

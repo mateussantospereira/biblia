@@ -1,0 +1,171 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "proverbios",
+  "nome": "Provérbios",
+  "testamento": "AT",
+  "capitulo": 1,
+  "totalVersiculos": 33,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/proverbios/1/",
+  "capturadoEm": "2026-11-15T09:19:10-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Provérbios de Salomão, filho de Davi, rei de Israel,"
+    },
+    {
+      "numero": 2,
+      "texto": "para conhecer a sabedoria e a instrução, para compreender as palavras sensatas,"
+    },
+    {
+      "numero": 3,
+      "texto": "para adquirir as lições do bom senso, da justiça, da equidade e da retidão;"
+    },
+    {
+      "numero": 4,
+      "texto": "para dar aos simples o discernimento, ao adolescente a ciência e a reflexão."
+    },
+    {
+      "numero": 5,
+      "texto": "Que o sábio escute, e aumentará seu saber, e o homem inteligente adquirirá prudência"
+    },
+    {
+      "numero": 6,
+      "texto": "para compreender os provérbios, as alegorias, as máximas dos sábios e seus enigmas."
+    },
+    {
+      "numero": 7,
+      "texto": "O temor do Senhor é o princípio da sabedoria. Os insensatos desprezam a sabedoria e a instrução.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Ouve, meu filho, a instrução de teu pai: Não desprezes o ensinamento de tua mãe."
+    },
+    {
+      "numero": 9,
+      "texto": "Isto será, pois, um diadema de graça para tua cabeça e um colar para teu pescoço."
+    },
+    {
+      "numero": 10,
+      "texto": "Meu filho, se pecadores te quiserem seduzir, não consintas;"
+    },
+    {
+      "numero": 11,
+      "texto": "se te disserem: “Vem conosco, faremos emboscadas para derramar sangue, armaremos ciladas ao inocente, sem motivo,"
+    },
+    {
+      "numero": 12,
+      "texto": "como a região dos mortos devoremo-lo vivo, inteiro, como aquele que desce à cova.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Nós acharemos toda a sorte de coisas preciosas, nós encheremos nossas casas de despojos."
+    },
+    {
+      "numero": 14,
+      "texto": "Tu desfrutarás tua parte conosco, uma só será a bolsa comum de todos nós!”."
+    },
+    {
+      "numero": 15,
+      "texto": "Oh, não andes com eles, afasta teus passos de suas sendas,"
+    },
+    {
+      "numero": 16,
+      "texto": "porque seus passos se dirigem para o mal, e se apressam a derramar sangue."
+    },
+    {
+      "numero": 17,
+      "texto": "Debalde se lança a rede diante daquele que tem asas.",
+      "nota": true
+    },
+    {
+      "numero": 18,
+      "texto": "Eles mesmos armam emboscadas contra seu próprio sangue e se enganam a si mesmos."
+    },
+    {
+      "numero": 19,
+      "texto": "Tal é a sorte de todo homem ávido de riqueza: arrebata a vida àquele que a detém."
+    },
+    {
+      "numero": 20,
+      "texto": "A Sabedoria clama nas ruas, eleva sua voz na praça,"
+    },
+    {
+      "numero": 21,
+      "texto": "clama nas esquinas da encruzilhada, à entrada das portas da cidade ela faz ouvir sua voz: e até quando os que zombam se comprazerão na zombaria?"
+    },
+    {
+      "numero": 22,
+      "texto": "“Até quando, insensatos, amareis a tolice, e os tolos odiarão a ciência?"
+    },
+    {
+      "numero": 23,
+      "texto": "Convertei-vos às minhas admoestações, espalharei sobre vós o meu espírito, eu vos ensinarei minhas palavras."
+    },
+    {
+      "numero": 24,
+      "texto": "Uma vez que recusastes o meu chamado e ninguém prestou atenção quando estendi a mão,"
+    },
+    {
+      "numero": 25,
+      "texto": "uma vez que negligenciastes todos os meus conselhos e não destes ouvidos às minhas admoestações,"
+    },
+    {
+      "numero": 26,
+      "texto": "também eu rirei do vosso infortúnio e zombarei, quando vos sobrevier um terror,"
+    },
+    {
+      "numero": 27,
+      "texto": "quando vier sobre vós um pânico, como furacão; quando se abater sobre vós a calamidade, como a tempestade; e quando caírem sobre vós tribulação e angústia."
+    },
+    {
+      "numero": 28,
+      "texto": "Então me chamarão, mas não responderei; eles me procurarão, mas não atenderei."
+    },
+    {
+      "numero": 29,
+      "texto": "Porque detestam a ciência sem lhe antepor o temor do Senhor,"
+    },
+    {
+      "numero": 30,
+      "texto": "porque repelem meus conselhos com desprezo às minhas exortações;"
+    },
+    {
+      "numero": 31,
+      "texto": "comerão do fruto dos seus erros e se saciarão com seus planos,",
+      "nota": true
+    },
+    {
+      "numero": 32,
+      "texto": "porque a apostasia dos tolos os mata e o desleixo dos insensatos os perde."
+    },
+    {
+      "numero": 33,
+      "texto": "Aquele que me escuta, porém, habitará com segurança, viverá tranquilo, sem recear dano algum.”"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:1-7",
+      "texto": "A introdução do livro destaca o propósito dos provérbios: ensinar sabedoria, disciplina e prudência. O \"temor do Senhor\" é o princípio da sabedoria, ressaltando que a verdadeira sabedoria começa com uma relação reverente com Deus (veja também Salmo 111:10 e Tiago 1:5)."
+    },
+    {
+      "ref": "1:8-9",
+      "texto": "Ouvimos o apelo para que os filhos ouçam a instrução dos pais. Esses ensinamentos são comparados a uma coroa de graça e honra, enfatizando o valor de seguir conselhos sábios e justos (veja também Efésios 6:1-3 e Colossenses 3:20)."
+    },
+    {
+      "ref": "1:10-19",
+      "texto": "A advertência contra más companhias mostra como a escolha de amigos pode impactar a vida. A atração pelo ganho fácil é condenada, e a consequência final desse caminho é a autodestruição (veja também Salmo 1:1 e 1 Coríntios 15:33)."
+    },
+    {
+      "ref": "1:20-23",
+      "texto": "A personificação da sabedoria, que clama nas ruas, representa o desejo de Deus de que as pessoas busquem entendimento. Aqueles que rejeitam a sabedoria se colocam em risco, enquanto os que a seguem encontrarão segurança (veja também Provérbios 8:1-3 e Isaías 55:6)."
+    },
+    {
+      "ref": "1:24-33",
+      "texto": "A rejeição da sabedoria traz calamidade. A sabedoria advertiu, mas quem ignorou colherá as consequências. No entanto, aqueles que a seguem viverão em paz e segurança (veja também Jeremias 6:19 e Mateus 7:24-27)."
+    }
+  ]
+}

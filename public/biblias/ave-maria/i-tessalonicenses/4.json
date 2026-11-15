@@ -1,0 +1,112 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-tessalonicenses",
+  "nome": "I Tessalonicenses",
+  "testamento": "NT",
+  "capitulo": 4,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-tessalonicenses/4/",
+  "capturadoEm": "2026-11-15T09:28:46-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "No mais, irmãos, aprendestes de nós a maneira como deveis proceder para agradar a Deus – e já o fazeis. Rogamo-vos, pois, e vos exortamos no Senhor Jesus a que progridais sempre mais."
+    },
+    {
+      "numero": 2,
+      "texto": "Pois conheceis que preceitos vos demos da parte do Senhor Jesus."
+    },
+    {
+      "numero": 3,
+      "texto": "Esta é a vontade de Deus: a vossa santificação; que eviteis a impureza;",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "que cada um de vós saiba possuir o seu corpo santa e honestamente,"
+    },
+    {
+      "numero": 5,
+      "texto": "sem se deixar levar pelas paixões desregradas, como os pagãos que não conhecem a Deus;"
+    },
+    {
+      "numero": 6,
+      "texto": "e que ninguém, nesta matéria, oprima nem defraude a seu irmão, porque o Senhor faz justiça de todas estas coisas, como já antes vo-lo temos dito e asseverado."
+    },
+    {
+      "numero": 7,
+      "texto": "Pois Deus não nos chamou para a impureza, mas para a santidade."
+    },
+    {
+      "numero": 8,
+      "texto": "Por conseguinte, desprezar estes preceitos é desprezar não a um homem, mas a Deus, que nos deu o seu Espírito Santo."
+    },
+    {
+      "numero": 9,
+      "texto": "A respeito da caridade fraterna, não temos necessidade de vos escrever, porquanto vós mesmos aprendestes de Deus a vos amar uns aos outros."
+    },
+    {
+      "numero": 10,
+      "texto": "E é o que estais praticando para com todos os irmãos em toda a Macedônia. Mas ainda vos rogamos, irmãos, que vos aperfeiçoeis mais e mais."
+    },
+    {
+      "numero": 11,
+      "texto": "Procurai viver com serenidade, ocupando-vos das vossas próprias coisas e trabalhando com vossas mãos, como vo-lo temos recomendado."
+    },
+    {
+      "numero": 12,
+      "texto": "É assim que vivereis honrosamente em presença dos de fora e não sereis pesados a ninguém.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Irmãos, não queremos que ignoreis coisa alguma a respeito dos mortos, para que não vos entristeçais, como os outros homens que não têm esperança.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Se cremos que Jesus morreu e ressuscitou, cremos também que Deus levará com Jesus os que nele morreram."
+    },
+    {
+      "numero": 15,
+      "texto": "Eis o que vos declaramos, conforme a palavra do Senhor: por ocasião da vinda do Senhor, nós que ficamos ainda vivos não precederemos os mortos.",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "Quando for dado o sinal, à voz do arcanjo e ao som da trombeta de Deus, o mesmo Senhor descerá do céu e os que morreram em Cristo ressurgirão primeiro.",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "Depois nós, os vivos, os que estamos ainda na terra, seremos arrebatados juntamente com eles sobre nuvens ao encontro do Senhor nos ares, e assim estaremos para sempre com o Senhor."
+    },
+    {
+      "numero": 18,
+      "texto": "Portanto, consolai-vos uns aos outros com estas palavras."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "4:1-2",
+      "texto": "Paulo exorta os tessalonicenses a viverem de maneira agradável a Deus, enfatizando a santidade na vida cristã. O apóstolo destaca que a obediência à palavra de Deus é fundamental para o crescimento espiritual (veja também 1 Pedro 1:15-16 e Efésios 4:1)."
+    },
+    {
+      "ref": "4:3-8",
+      "texto": "Paulo ensina sobre a importância da pureza sexual, afirmando que a santificação envolve evitar a impureza e controlar os próprios corpos. A moralidade cristã é central para a vivência da fé (veja também 1 Coríntios 6:18-20 e Hebreus 13:4)."
+    },
+    {
+      "ref": "4:9-10",
+      "texto": "O apóstolo elogia os tessalonicenses pelo amor fraternal, incentivando-os a crescer ainda mais nesse amor. A vida cristã deve ser marcada pela bondade e pela solidariedade entre os irmãos (veja também João 13:34-35 e 1 João 4:7-8)."
+    },
+    {
+      "ref": "4:13-18",
+      "texto": "Paulo fala sobre a esperança da ressurreição, consolando os cristãos que haviam perdido entes queridos. Ele ensina que os mortos em Cristo ressuscitarão primeiro e os vivos serão arrebatados para encontrar o Senhor (veja também 1 Coríntios 15:51-52 e João 14:3)."
+    },
+    {
+      "ref": "4:16-18",
+      "texto": "O arrebatamento descrito por Paulo reforça a esperança cristã na volta de Cristo. A promessa de estar com o Senhor para sempre traz consolo e coragem diante da morte (veja também 1 Coríntios 15:23-24 e Mateus 24:30-31)."
+    }
+  ]
+}

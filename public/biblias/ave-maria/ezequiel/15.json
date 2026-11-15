@@ -1,0 +1,56 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ezequiel",
+  "nome": "Ezequiel",
+  "testamento": "AT",
+  "capitulo": 15,
+  "totalVersiculos": 8,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ezequiel/15/",
+  "capturadoEm": "2026-11-15T09:23:40-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "A palavra do Senhor foi-me dirigida nestes termos:"
+    },
+    {
+      "numero": 2,
+      "texto": "“Filho do homem, a lenha da vinha por que valeria mais que a de galhos das outras árvores da floresta?",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Toma-se dela para fazer um objeto? Faz-se mesmo uma cavilha para pendurar o que quer que seja?"
+    },
+    {
+      "numero": 4,
+      "texto": "Eis aí: mete-se no fogo para destruir. Quando o fogo consumir as duas extremidades, e queimar o meio, pode ainda servir para alguma coisa?"
+    },
+    {
+      "numero": 5,
+      "texto": "Quando ele estava intato, não servia para objeto algum; consumido e queimado pelo fogo, ainda menos poderá servir para qualquer coisa."
+    },
+    {
+      "numero": 6,
+      "texto": "Eis por que diz o Senhor Javé: assim como entre as árvores da floresta é a madeira da vide que eu lanço ao fogo para consumir, assim lançarei eu os habitantes de Jerusalém."
+    },
+    {
+      "numero": 7,
+      "texto": "Voltarei contra eles a minha face. Fugirão ao fogo; o fogo, porém, os devorará. Saberão que eu sou o Senhor, quando eu voltar contra eles a minha face,"
+    },
+    {
+      "numero": 8,
+      "texto": "e transformar a terra num deserto, porque me têm sido infiéis – oráculo do Senhor Javé”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "15:1-5",
+      "texto": "O Senhor compara Jerusalém a uma videira inútil, que não pode ser utilizada nem para fazer madeira. A inutilidade de Jerusalém está relacionada à sua rebelião e falta de fidelidade a Deus (veja também Isaías 5:1-7 e João 15:5)."
+    },
+    {
+      "ref": "15:6-8",
+      "texto": "O juízo de Deus é anunciado sobre Jerusalém, e a cidade será destruída. A falta de arrependimento e a corrupção moral da cidade levam ao seu julgamento. A justiça de Deus é clara: os que rejeitam a Sua palavra enfrentarão Suas consequências (veja também Lamentações 4:20-22 e Mateus 23:37-39)."
+    }
+  ]
+}

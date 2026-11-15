@@ -1,0 +1,117 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-corintios",
+  "nome": "I Coríntios",
+  "testamento": "NT",
+  "capitulo": 4,
+  "totalVersiculos": 21,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-corintios/4/",
+  "capturadoEm": "2026-11-15T09:27:56-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Que os homens nos considerem, pois, como simples operários de Cristo e administradores dos mistérios de Deus.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Ora, o que se exige dos administradores é que sejam fiéis."
+    },
+    {
+      "numero": 3,
+      "texto": "A mim pouco se me dá ser julgado por vós ou por tribunal humano, pois nem eu me julgo a mim mesmo."
+    },
+    {
+      "numero": 4,
+      "texto": "De nada me acusa a consciência; contudo, nem por isso sou justificado. Meu juiz é o Senhor."
+    },
+    {
+      "numero": 5,
+      "texto": "Por isso, não julgueis antes do tempo; esperai que venha o Senhor. Ele porá às claras o que se acha escondido nas trevas. Ele manifestará as intenções dos corações. Então, cada um receberá de Deus o louvor que merece."
+    },
+    {
+      "numero": 6,
+      "texto": "Se apliquei tudo isso a mim e a Apolo foi por vossa causa, para que, por meio de nós, aprendais a não ultrapassar o que está escrito e para que vos não ensoberbeçais tomando partido a favor de um e com prejuízo de outrem."
+    },
+    {
+      "numero": 7,
+      "texto": "O que há de superior em ti? Que é que possuis que não tenhas recebido? E, se o recebeste, por que te glorias, como se o não tivesses recebido?"
+    },
+    {
+      "numero": 8,
+      "texto": "Já estais fartos! Já estais ricos! Sem nós, sois reis! Praza a Deus que reineis, de fato, para que também nós reinemos convosco!",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Porque, ao que parece, Deus nos tem posto a nós, apóstolos, na última classe dos homens, por assim dizer sentenciados à morte, visto que fomos entregues em espetáculo ao mundo, aos anjos e aos homens."
+    },
+    {
+      "numero": 10,
+      "texto": "Nós, estultos por causa de Cristo; e vós, sábios em Cristo! Nós, fracos; e vós, fortes! Vós, honrados; e nós, desprezados!"
+    },
+    {
+      "numero": 11,
+      "texto": "Até esta hora padecemos fome, sede e nudez. Somos esbofeteados, somos errantes,"
+    },
+    {
+      "numero": 12,
+      "texto": "fatigamo-nos, trabalhando com as nossas próprias mãos. Insultados, abençoamos; perseguidos, suportamos; caluniados, consolamos!"
+    },
+    {
+      "numero": 13,
+      "texto": "Chegamos a ser como que o lixo do mundo, a escória de todos até agora..."
+    },
+    {
+      "numero": 14,
+      "texto": "Não vos escrevo estas coisas para vos envergonhar, mas admoesto-vos como meus filhos muito amados."
+    },
+    {
+      "numero": 15,
+      "texto": "Com efeito, ainda que tivésseis dez mil mestres em Cristo, não tendes muitos pais; ora, fui eu que vos gerei em Cristo Jesus pelo Evangelho."
+    },
+    {
+      "numero": 16,
+      "texto": "Por isso, vos conjuro a que sejais meus imitadores."
+    },
+    {
+      "numero": 17,
+      "texto": "Para isso é que vos enviei Timóteo, meu filho muito amado e fiel no Senhor. Ele vos recordará as minhas normas de conduta, tais como as ensino por toda parte, em todas as igrejas."
+    },
+    {
+      "numero": 18,
+      "texto": "Alguns, presumindo que eu não mais iria ter convosco, encheram-se de orgulho."
+    },
+    {
+      "numero": 19,
+      "texto": "Mas brevemente irei ter convosco, se Deus quiser, e tomarei conhecimento não do que esses orgulhosos falam, mas do que são capazes."
+    },
+    {
+      "numero": 20,
+      "texto": "Porque o Reino de Deus não consiste em palavras, mas em atos."
+    },
+    {
+      "numero": 21,
+      "texto": "Que preferis? Que eu vá visitar-vos com a vara, ou com caridade e espírito de mansidão?"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "4:1-5",
+      "texto": "Paulo se apresenta como um servo de Cristo e administrador dos mistérios de Deus. Ele enfatiza que o julgamento final pertence a Deus e não aos homens, lembrando que as ações dos servos de Deus serão reveladas no Dia de Cristo (veja também Romanos 14:10-12 e Mateus 25:19-23)."
+    },
+    {
+      "ref": "4:6-7",
+      "texto": "Paulo alerta os coríntios contra a arrogância e a comparação entre si mesmos. Tudo o que possuem vem de Deus, e não têm motivo para se orgulharem, pois a graça de Deus é o que os torna especiais (veja também Tiago 4:6 e 1 Pedro 4:10)."
+    },
+    {
+      "ref": "4:8-13",
+      "texto": "Paulo ironiza a atitude dos coríntios, que se consideram ricos e já satisfeitos, enquanto ele e os outros apóstolos vivem em pobreza e sofrimento. A verdadeira grandeza na fé é encontrada na humildade e no sofrimento por Cristo (veja também 2 Coríntios 11:23-27 e Filipenses 3:8-9)."
+    },
+    {
+      "ref": "4:14-21",
+      "texto": "Paulo repreende os coríntios, mas com amor, e se apresenta como modelo de disciplina e de vida cristã. Ele envia Timóteo para ensinar a verdadeira maneira de viver em Cristo, chamando os crentes a imitarem sua fé (veja também 1 Tessalonicenses 2:7-12 e Filipenses 3:17)."
+    }
+  ]
+}

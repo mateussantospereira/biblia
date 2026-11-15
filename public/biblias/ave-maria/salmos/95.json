@@ -1,0 +1,88 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 95,
+  "totalVersiculos": 13,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/95/",
+  "capturadoEm": "2026-11-15T09:17:41-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cantai ao Senhor um cântico novo. Cantai ao Senhor, terra inteira.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Cantai ao Senhor e bendizei o seu nome, anunciai cada dia a salvação que ele nos trouxe."
+    },
+    {
+      "numero": 3,
+      "texto": "Proclamai às nações a sua glória, a todos os povos as suas maravilhas."
+    },
+    {
+      "numero": 4,
+      "texto": "Porque o Senhor é grande e digno de todo o louvor, o único temível de todos os deuses."
+    },
+    {
+      "numero": 5,
+      "texto": "Porque os deuses dos pagãos, sejam quais forem, não passam de ídolos. Mas foi o Senhor quem criou os céus."
+    },
+    {
+      "numero": 6,
+      "texto": "Em seu semblante, a majestade e a beleza; em seu santuário, o poder e o esplendor."
+    },
+    {
+      "numero": 7,
+      "texto": "Tributai ao Senhor, famílias dos povos, tributai ao Senhor a glória e a honra,"
+    },
+    {
+      "numero": 8,
+      "texto": "tributai ao Senhor a glória devida ao seu nome. Trazei oferendas e entrai nos seus átrios."
+    },
+    {
+      "numero": 9,
+      "texto": "Adorai o Senhor, com ornamentos sagrados. Diante dele estremece a terra inteira."
+    },
+    {
+      "numero": 10,
+      "texto": "Dizei às nações: “O Senhor é rei”. E (a terra) não vacila, porque ele a sustém. Governa os povos com justiça."
+    },
+    {
+      "numero": 11,
+      "texto": "Alegrem-se os céus e exulte a terra, retumbe o oceano e o que ele contém,"
+    },
+    {
+      "numero": 12,
+      "texto": "regozijem-se os campos e tudo o que existe neles. Jubilem todas as árvores das florestas"
+    },
+    {
+      "numero": 13,
+      "texto": "com a presença do Senhor, que vem, pois ele vem para governar a terra: julgará o mundo com justiça, e os povos segundo, a sua verdade."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "95:1-2",
+      "texto": "O convite para adorar a Deus com cânticos de alegria reflete o reconhecimento de Sua grandeza e bondade. A exortação à gratidão é uma resposta natural à soberania de Deus (veja também Salmo 100:1-2 e Efésios 5:19-20)."
+    },
+    {
+      "ref": "95:3-5",
+      "texto": "O Senhor é o grande Rei acima de todos os deuses. A soberania de Deus é ressaltada pela menção de Sua criação das profundezas da terra, dos montes e do mar. Isso enfatiza o Seu poder sobre toda a natureza (veja também Isaías 40:12 e Apocalipse 4:11)."
+    },
+    {
+      "ref": "95:6-7",
+      "texto": "O salmista convida todos a adorarem e se prostrarem diante do Criador, pois somos o povo de Deus e ovelhas de Seu pasto. A imagem do pastor reflete o cuidado e a liderança de Deus (veja também João 10:14 e Hebreus 13:20)."
+    },
+    {
+      "ref": "95:8-9",
+      "texto": "Há um alerta para não endurecer o coração, como o povo fez no deserto de Meribá. A história da rebelião de Israel serve como um lembrete para que a geração atual não repita os mesmos erros (veja também Êxodo 17:7 e Hebreus 3:7-9)."
+    },
+    {
+      "ref": "95:10-11",
+      "texto": "Deus expressa Seu desagrado com a geração incrédula que vagueou no deserto, jurando que não entrariam no Seu descanso. Isso reforça a necessidade de obediência e confiança para experimentar a promessa divina (veja também Números 14:22-23 e Hebreus 4:1-3)."
+    }
+  ]
+}

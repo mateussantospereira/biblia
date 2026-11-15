@@ -1,0 +1,43 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "oseias",
+  "nome": "Oséias",
+  "testamento": "AT",
+  "capitulo": 3,
+  "totalVersiculos": 5,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/oseias/3/",
+  "capturadoEm": "2026-11-15T10:01:37-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Senhor disse-me: Vai, ainda, e ama uma mulher (que foi) amada dum amante e adúltera: é assim que o Senhor ama os filhos de Israel, ainda quando eles põem os olhos em deuses estranhos e gostam de tortas de uvas. (ver nota)"
+    },
+    {
+      "numero": 2,
+      "texto": "Comprei a (tal) mulher por quinze ciclos de prata, e por homer e meio de cevada."
+    },
+    {
+      "numero": 3,
+      "texto": "E disse-lhe: Tu me esperarás largos dias, durante os quais não te portarás mal, não te entregarás a homem algum, e também eu esperarei por ti. (ver nota)"
+    },
+    {
+      "numero": 4,
+      "texto": "Porque os filhos de Israel estarão durante muitos dias sem rei e sem chefe, sem sacrifício, sem esteia, sem éfode e sem terafins; (ver nota)"
+    },
+    {
+      "numero": 5,
+      "texto": "depois disto, os filhos de Israel voltarão a buscar o Senhor seu Deus, e (o descendente de) Davide, seu rei; e, no fim dos tempos, olharão com respeitoso temor para o Senhor e para os bens (que ele lhes terá feito)."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-5",
+      "texto": "Após a traição de Gomer, Oséias recebe uma instrução divina para resgatar sua esposa, o que ilustra a misericórdia e o perdão de Deus por Israel. Esse ato simboliza o amor incondicional de Deus, que sempre busca a reconciliação com o Seu povo (veja também Lucas 15:11-32 e Romanos 5:8)."
+    },
+    {
+      "ref": "3:4-5",
+      "texto": "Oséias profetiza que Israel viverá por muitos dias sem rei e sem sacrifício, mas no futuro retornará ao Senhor, buscando a Ele com humildade e arrependimento. A promessa de restauração de Israel está ligada ao arrependimento sincero e ao reconhecimento de Deus como o único Senhor (veja também Jeremias 3:12-15 e Atos 3:19)."
+    }
+  ]
+}

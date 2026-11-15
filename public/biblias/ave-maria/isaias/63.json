@@ -1,0 +1,115 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 63,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/63/",
+  "capturadoEm": "2026-11-15T09:22:17-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Quem é aquele que vem de Edom, de Bosra, as vestes tintas, envolvido em um traje magnífico, altaneiro na plenitude de sua força? Sou eu, que luto pela justiça e sou poderoso para salvar.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Por que, pois, tuas roupas estão vermelhas como as vestimentas daquele que pisa num lagar?"
+    },
+    {
+      "numero": 3,
+      "texto": "Eu pisei sozinho o lagar, e ninguém dentre os povos me auxiliou. Então, eu os calquei com cólera, esmaguei-os com fúria; o sangue deles espirrou sobre meu vestuário, manchei todas as minhas roupas.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "É que eu desejava um dia de vingança, e o ano da redenção dos meus havia chegado."
+    },
+    {
+      "numero": 5,
+      "texto": "Olhei, então, e não houve pessoa alguma para me ajudar; estranhei que ninguém me viesse amparar; então, apelei para meu braço e achei forças na minha indignação."
+    },
+    {
+      "numero": 6,
+      "texto": "Por isso, na minha cólera, arrasei os povos, na minha fúria triturei-os, fazendo correr seu sangue pela terra."
+    },
+    {
+      "numero": 7,
+      "texto": "Quero celebrar os benefícios do Senhor e seus gloriosos feitos, por tudo o que fez em nosso favor, e por sua grande bondade, com a qual nos cumulou na sua ternura e na riqueza de seu amor."
+    },
+    {
+      "numero": 8,
+      "texto": "“Verdadeiramente” – dizia de si para si –, “aqueles são meu povo, filhos que não me renegarão.” E tornou-se seu salvador"
+    },
+    {
+      "numero": 9,
+      "texto": "em todas as suas aflições. Não era um mensageiro nem um anjo, mas sua própria face que os salvava. No seu amor e na sua ternura ele mesmo os livrava do perigo. Durante o passado sustentou-os e amparou-os constantemente.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Mas revoltaram-se, ofenderam seu santo espírito, desde então tornou-se inimigo deles, e lhes fez guerra. Então, se lembraram dos dias de outrora, de Moisés, seu servo.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Onde está aquele que tirou dos céus o pastor de seu rebanho? Onde está aquele que pôs nele seu santo Espírito?",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Aquele que à direita de Moisés atuou com o seu braço glorioso, e dividiu as águas diante dos seus para assegurar-se um renome eterno;"
+    },
+    {
+      "numero": 13,
+      "texto": "e os conduziu através dos abismos, sem tropeçarem, como o cavalo em descampado."
+    },
+    {
+      "numero": 14,
+      "texto": "Como ao animal que desce ao vale, o Espírito do Senhor os levava ao repouso. Foi assim que conduzistes vosso povo, para afirmar vosso glorioso renome.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Olhai do alto do céu e vede de vossa santa e gloriosa morada: Que foi feito de vosso amor ciumento e de vosso poder, e da emoção de vosso coração? Dai livre expansão à vossa ternura,",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "porque sois nosso pai. Abraão, de fato, nos ignora, e Israel não nos conhece; sois vós, Senhor, o nosso pai, nosso Redentor desde os tempos passados.",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "Por que, Senhor, desviar-nos para longe de vossos caminhos, por que tornar nossos corações insensíveis ao vosso temor? Voltai, por amor de vossos servos e das tribos de vossa herança!"
+    },
+    {
+      "numero": 18,
+      "texto": "Por que pagãos invadiram vosso templo, e nossos inimigos pisaram vosso santuário? Há muito tempo estamos como gente que já não governais, e que não traz vosso nome."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "63:1-6",
+      "texto": "A visão do guerreiro vindo de Edom simboliza o juízo de Deus contra as nações rebeldes. O Senhor é retratado como justo e poderoso em Sua ira (veja também Salmo 110:5-6 e Apocalipse 19:11-13)."
+    },
+    {
+      "ref": "63:7-9",
+      "texto": "O profeta louva a bondade de Deus, que salvou Israel por causa de Seu amor e compaixão. Deus é descrito como o Salvador que sofre com Seu povo (veja também Êxodo 34:6-7 e Hebreus 2:17-18)."
+    },
+    {
+      "ref": "63:10-14",
+      "texto": "Apesar da rebeldia de Israel, Deus liderou o povo como um pastor, guiando-os com Seu Espírito Santo. Essa passagem destaca a paciência de Deus e Sua liderança fiel (veja também Salmo 78:40-52 e João 10:14)."
+    },
+    {
+      "ref": "63:15-16",
+      "texto": "O profeta clama por compaixão, reconhecendo Deus como Pai e Redentor de Israel. A oração expressa confiança no cuidado paternal de Deus (veja também Deuteronômio 32:6 e Isaías 64:8)."
+    },
+    {
+      "ref": "63:17-19",
+      "texto": "O povo suplica a Deus que retorne e restaure Sua presença entre eles. Essa oração reflete a angústia e o arrependimento diante do afastamento divino (veja também Jeremias 31:18-19 e Zacarias 1:3)."
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "genesis",
+  "nome": "Gênesis",
+  "testamento": "AT",
+  "capitulo": 30,
+  "totalVersiculos": 43,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/genesis/30/",
+  "capturadoEm": "2026-11-15T09:07:38-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Raquel, vendo que não dava filhos a Jacó, teve inveja de sua irmã: “Dá-me filhos – disse ela ao seu marido – senão morro!”."
+    },
+    {
+      "numero": 2,
+      "texto": "E Jacó irritou-se com ela. “Acaso – disse ele – posso eu pôr-me no lugar de Deus que te recusou a fecundidade?”"
+    },
+    {
+      "numero": 3,
+      "texto": "Ela respondeu: “Eis minha serva Bala: toma-a. Que ela dê à luz sobre os meus joelhos e assim, por ela, terei também filhos”.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Deu-lhe, pois, por mulher sua escrava Bala, da qual se aproximou Jacó."
+    },
+    {
+      "numero": 5,
+      "texto": "Bala concebeu e deu à luz um filho a Jacó."
+    },
+    {
+      "numero": 6,
+      "texto": "Disse então Raquel: “Deus fez-me justiça. Ele ouviu minha voz e deu-me um filho”. Por isso, ela o chamou Dã."
+    },
+    {
+      "numero": 7,
+      "texto": "Bala, escrava de Raquel, concebeu de novo e deu à luz um segundo filho a Jacó."
+    },
+    {
+      "numero": 8,
+      "texto": "Raquel disse: “Lutei contra minha irmã junto de Deus, e venci!”. E deu ao menino o nome de Neftali."
+    },
+    {
+      "numero": 9,
+      "texto": "Lia, vendo que não concebia mais, tomou sua escrava Zelfa e deu-a por mulher a Jacó."
+    },
+    {
+      "numero": 10,
+      "texto": "Zelfa, escrava de Lia, deu à luz um filho a Jacó."
+    },
+    {
+      "numero": 11,
+      "texto": "Lia disse: “Que sorte!”. E chamou-o Gad."
+    },
+    {
+      "numero": 12,
+      "texto": "Zelfa, escrava de Lia, deu à luz um segundo filho a Jacó."
+    },
+    {
+      "numero": 13,
+      "texto": "Lia disse: “Que felicidade! As mulheres me chamarão ditosa”. E chamou-o Aser."
+    },
+    {
+      "numero": 14,
+      "texto": "Um dia, por ocasião da ceifa, Rúben saiu ao campo e, tendo encontrado umas mandrágoras, levou-as à sua mãe Lia. Raquel disse a Lia: “Rogo-te que me dês as mandrágoras do teu filho”."
+    },
+    {
+      "numero": 15,
+      "texto": "Lia respondeu: “Já não é bastante teres tomado meu marido, para que queiras ainda as mandrágoras do meu filho?”. “Pois bem – tornou Raquel – em troca das mandrágoras do teu filho, que ele durma contigo esta noite.”"
+    },
+    {
+      "numero": 16,
+      "texto": "À noite, quando Jacó voltou do campo, Lia saiu-lhe ao encontro: “Vem comigo – disse-lhe ela – eu te aluguei em troca das mandrágoras do meu filho”. E Jacó dormiu com ela aquela noite."
+    },
+    {
+      "numero": 17,
+      "texto": "Deus ouviu Lia, que concebeu e deu à luz um quinto filho a Jacó."
+    },
+    {
+      "numero": 18,
+      "texto": "“Deus – disse ela – recompensou-me por ter dado minha escrava ao meu marido.” E o chamou Issacar."
+    },
+    {
+      "numero": 19,
+      "texto": "Lia concebeu ainda e deu à luz um sexto filho a Jacó."
+    },
+    {
+      "numero": 20,
+      "texto": "E disse: “Deus deu-me um belo presente; agora meu marido habitará comigo, pois que lhe dei à luz seis filhos”. E o chamou Zabulon."
+    },
+    {
+      "numero": 21,
+      "texto": "Depois disso, deu à luz uma filha, a quem chamou Dina."
+    },
+    {
+      "numero": 22,
+      "texto": "Lembrou-se Deus de Raquel, ouviu-a e tornou-a fecunda."
+    },
+    {
+      "numero": 23,
+      "texto": "Raquel concebeu e deu à luz um filho. “Deus – disse ela – tirou o meu opróbrio.”"
+    },
+    {
+      "numero": 24,
+      "texto": "E chamou-o José, dizendo: “Dê-me o Senhor ainda outro filho!”."
+    },
+    {
+      "numero": 25,
+      "texto": "Tendo Raquel dado à luz José, Jacó disse a Labão: “Deixa-me partir para a minha casa, na minha terra."
+    },
+    {
+      "numero": 26,
+      "texto": "Dá-me minhas mulheres e meus filhos, pelos quais te servi, a fim de que eu me vá; tu sabes quanto tempo servi em tua casa”."
+    },
+    {
+      "numero": 27,
+      "texto": "Labão respondeu-lhe: “Se achei graça aos teus olhos... reconheço que o Senhor me abençoou por causa de ti.",
+      "nota": true
+    },
+    {
+      "numero": 28,
+      "texto": "Fixa-me o que devo dar-te – ajuntou ele – e te darei”."
+    },
+    {
+      "numero": 29,
+      "texto": "Jacó disse-lhe: “Tu sabes como te tenho servido, e como aumentaram os teus rebanhos graças a mim."
+    },
+    {
+      "numero": 30,
+      "texto": "Tinhas pouca coisa, antes de minha chegada, e tudo aumentou depois. O Senhor abençoou-te a cada um dos meus passos. Agora, quanto a mim, quando trabalharei eu para minha casa?”."
+    },
+    {
+      "numero": 31,
+      "texto": "“Que te hei de dar?” – disse Labão. Jacó respondeu: “Não me darás nada. Se aceitas o que te vou propor, continuarei a apascentar e guardar o teu rebanho."
+    },
+    {
+      "numero": 32,
+      "texto": "Vou hoje passar pelo meio de todos os teus rebanhos e pôr à parte, entre os cordeiros, todo animal manchado, malhado ou negro, e entre as cabras, tudo o que é manchado ou malhado: isto será o meu salário."
+    },
+    {
+      "numero": 33,
+      "texto": "Minha justiça testemunhará em meu favor para o futuro, quando vieres verificar o meu salário: tudo o que não for malhado ou manchado entre as cabras e negro entre os cordeiros, será considerado como roubado”."
+    },
+    {
+      "numero": 34,
+      "texto": "“Está bem – disse Labão – seja como dizes.”"
+    },
+    {
+      "numero": 35,
+      "texto": "Naquele mesmo dia, pôs ele à parte os bodes malhados e manchados, todas as cabras malhadas ou manchadas, todas aquelas que estavam marcadas de branco, e todos os cordeiros negros; confiou-os aos seus filhos,"
+    },
+    {
+      "numero": 36,
+      "texto": "e pôs à distância de três dias de jornada entre ele e Jacó, o qual apascentava o resto do rebanho de Labão."
+    },
+    {
+      "numero": 37,
+      "texto": "Jacó tomou então varas verdes de álamo, de amendoeira e de plátano; tirou-lhes parte da casca, fazendo faixas brancas e deixando a nu o ramo."
+    },
+    {
+      "numero": 38,
+      "texto": "Colocou as varas assim preparadas sob os olhos das ovelhas, nas pias e nos bebedouros onde vinham beber. Indo a beber, entravam em calor."
+    },
+    {
+      "numero": 39,
+      "texto": "E como entrassem no calor do coito diante dessas varas, concebiam cordeiros riscados, manchados e malhados."
+    },
+    {
+      "numero": 40,
+      "texto": "Jacó punha-os à parte, e voltava a face dos animais para o que era malhado e negro no rebanho de Labão. Constituiu assim rebanhos para si, que não se misturaram aos de Labão."
+    },
+    {
+      "numero": 41,
+      "texto": "Além disso, Jacó só punha suas varas nos bebedouros sob os olhos das ovelhas em calor, a fim de que seu coito se fizesse perto das varas, quando se tratava de ovelhas vigorosas."
+    },
+    {
+      "numero": 42,
+      "texto": "Quando eram fracas, não punha as varas, de sorte que os cordeiros raquíticos eram para Labão e os vigorosos para ele."
+    },
+    {
+      "numero": 43,
+      "texto": "Esse homem tornou-se assim extremamente rico, e teve muitos rebanhos, escravas e escravos, camelos e jumentos."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "30:1-3",
+      "texto": "Raquel, frustrada por não ter filhos, oferece sua serva Bilhá a Jacó. Isso reflete a pressão social e o desejo de procriação na cultura antiga, além de mostrar como as rivalidades familiares podem levar a decisões impensadas (veja também Gênesis 16:1-2 e Romanos 12:10)."
+    },
+    {
+      "ref": "30:4-8",
+      "texto": "Bilhá dá à luz filhos a Jacó, gerando rivalidade entre Raquel e Lia. Este ciclo de competição e ciúmes entre as irmãs evidencia os desafios emocionais e sociais que podem surgir em relações familiares (veja também Tiago 3:16 e Gálatas 5:26)."
+    },
+    {
+      "ref": "30:9-13",
+      "texto": "Lia, percebendo que havia parado de ter filhos, oferece sua serva Zilpa. A dinâmica das servas como mães de filhos para Jacó mostra a complexidade das relações familiares e a luta pela aceitação e amor (veja também Gênesis 16:4-6 e 1 Timóteo 5:8)."
+    },
+    {
+      "ref": "30:14-18",
+      "texto": "A história de Rúben e os mandrágoras revela a busca desesperada por fertilidade e o desejo de favorecer a própria posição na família. Isso ilustra a natureza humana de buscar controle e influência sobre as situações (veja também Eclesiastes 1:13 e Romanos 8:20-21)."
+    },
+    {
+      "ref": "30:19-24",
+      "texto": "Lia dá à luz mais filhos e Raquel finalmente tem José. A culminação das esperanças de Raquel reflete a bondade de Deus em responder orações e a realização das promessas divinas na vida de Seu povo (veja também Salmo 127:3-5 e Tiago 1:17)."
+    }
+  ]
+}

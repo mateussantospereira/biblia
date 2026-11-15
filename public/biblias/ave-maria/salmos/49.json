@@ -1,0 +1,129 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 49,
+  "totalVersiculos": 23,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/49/",
+  "capturadoEm": "2026-11-15T09:16:52-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Salmo de Asaf. Falou o Senhor Deus e convocou toda a terra, desde o levante até o poente.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Do alto de Sião, ideal de beleza, Deus refulgiu:"
+    },
+    {
+      "numero": 3,
+      "texto": "nosso Deus vem vindo e não se calará. Um fogo abrasador o precede; ao seu redor, furiosa tempestade."
+    },
+    {
+      "numero": 4,
+      "texto": "Do alto ele convoca os céus e a terra para julgar seu povo:"
+    },
+    {
+      "numero": 5,
+      "texto": "“Reuni os meus fiéis, que selaram comigo aliança pelo sacrifício”."
+    },
+    {
+      "numero": 6,
+      "texto": "E os céus proclamam sua justiça, porque é o próprio Deus quem vai julgar."
+    },
+    {
+      "numero": 7,
+      "texto": "“Escutai, ó meu povo, que eu vou falar: Israel, vou testemunhar contra ti. Deus, o teu Deus, sou eu."
+    },
+    {
+      "numero": 8,
+      "texto": "Não te repreendo pelos teus sacrifícios, pois teus holocaustos estão sempre diante de mim."
+    },
+    {
+      "numero": 9,
+      "texto": "Não preciso do novilho do teu estábulo, nem dos cabritos de teus apriscos,"
+    },
+    {
+      "numero": 10,
+      "texto": "pois minhas são todas as feras das matas; há milhares de animais nos meus montes."
+    },
+    {
+      "numero": 11,
+      "texto": "Conheço todos os pássaros do céu, e tudo o que se move nos campos."
+    },
+    {
+      "numero": 12,
+      "texto": "Se tivesse fome, não precisava dizer-te, porque minha é a terra e tudo o que ela contém."
+    },
+    {
+      "numero": 13,
+      "texto": "Porventura preciso comer carne de touros, ou beber sangue de cabrito?"
+    },
+    {
+      "numero": 14,
+      "texto": "Oferece, antes, a Deus um sacrifício de louvor e cumpre teus votos para com o Altíssimo.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Invoca-me nos dias de tribulação, e eu te livrarei e me darás glória.”"
+    },
+    {
+      "numero": 16,
+      "texto": "Ao pecador, porém, Deus diz: “Por que recitas os meus mandamentos, e tens na boca as palavras da minha aliança?"
+    },
+    {
+      "numero": 17,
+      "texto": "Tu que aborreces meus ensinamentos e rejeitas minhas palavras?"
+    },
+    {
+      "numero": 18,
+      "texto": "Se vês um ladrão, te ajuntas a ele, e com adúlteros te associas."
+    },
+    {
+      "numero": 19,
+      "texto": "Dás plena licença à tua boca para o mal e tua língua trama fraudes."
+    },
+    {
+      "numero": 20,
+      "texto": "Tu te assentas para falar contra teu irmão, cobres de calúnias o filho de tua própria mãe."
+    },
+    {
+      "numero": 21,
+      "texto": "Eis o que fazes, e eu hei de me calar? Pensas que eu sou igual a ti? Não, mas vou te repreender e te lançar em rosto os teus pecados”."
+    },
+    {
+      "numero": 22,
+      "texto": "Compreendei bem isto, vós que vos esqueceis de Deus: não suceda que eu vos arrebate e não haja quem vos salve."
+    },
+    {
+      "numero": 23,
+      "texto": "Honra-me quem oferece um sacrifício de louvor; ao que procede retamente, a este eu mostrarei a salvação de Deus."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "49:1-4",
+      "texto": "O salmista convoca todas as nações a ouvir a sabedoria e os ensinamentos que vêm de Deus. Isso destaca a universalidade da mensagem divina e a importância da sabedoria para a vida humana (veja também Provérbios 1:20-23 e Tiago 1:5)."
+    },
+    {
+      "ref": "49:5-9",
+      "texto": "O temor da morte e a futilidade da riqueza são temas centrais, mostrando que nenhum homem pode resgatar sua vida ou comprar a salvação. O salmista enfatiza que a verdadeira segurança não está nas posses materiais, mas em Deus (veja também Eclesiastes 5:10-15 e Lucas 12:15)."
+    },
+    {
+      "ref": "49:10-14",
+      "texto": "A morte é inevitável para todos, ricos e pobres, e a herança material não garante a imortalidade. O salmo reflete sobre a transitoriedade da vida e a certeza do juízo divino (veja também Salmo 39:4-5 e Hebreus 9:27)."
+    },
+    {
+      "ref": "49:15-20",
+      "texto": "A confiança em riquezas é comparada a uma ilusão; o destino do ímpio é a destruição. O salmista reforça que a verdadeira esperança deve estar em Deus, que pode redimir a vida (veja também Salmo 37:35-36 e 1 Timóteo 6:17-19)."
+    },
+    {
+      "ref": "49:21",
+      "texto": "A sabedoria do salmista se dirige aos insensatos que acreditam que suas riquezas os salvam. Ele adverte que a verdadeira compreensão vem do reconhecimento da fragilidade humana diante da eternidade (veja também Provérbios 22:1 e Lucas 16:19-31)."
+    }
+  ]
+}

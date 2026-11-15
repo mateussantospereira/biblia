@@ -1,0 +1,111 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "i-timoteo",
+  "nome": "I Timóteo",
+  "testamento": "NT",
+  "capitulo": 1,
+  "totalVersiculos": 20,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/i-timoteo/1/",
+  "capturadoEm": "2026-11-15T10:06:25-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Paulo, Apóstolo de Jesus Cristo, por mandado de Deus, nosso Salvador, e de Jesus Cristo, nossa esperança,"
+    },
+    {
+      "numero": 2,
+      "texto": "a Timóteo, amado filho na fé: graça, misericórdia e paz, da parte de Deus Pai e de Jesus Cristo Nosso Senhor,"
+    },
+    {
+      "numero": 3,
+      "texto": "Recomendei-te que ficasses em Éfeso, quando parti para a Macedónia, para que admoestasses alguns, que não ensinassem doutrina diversa (da que tem sido ensinada por nós),"
+    },
+    {
+      "numero": 4,
+      "texto": "nem se ocupassem em fábulas e genealogias intermináveis, as quais servem mais para questões do que para favorecer o plano de Deus, que se funda na fé."
+    },
+    {
+      "numero": 5,
+      "texto": "O fim deste preceito é a caridade nascida de um coração puro, de uma boa consciência e de uma fé não fingida."
+    },
+    {
+      "numero": 6,
+      "texto": "Apartando-se alguns destas coisas, entregaram-se a discursos vãos,"
+    },
+    {
+      "numero": 7,
+      "texto": "querendo ser doutores da lei, não sabendo nem o que dizem nem o que afirmam."
+    },
+    {
+      "numero": 8,
+      "texto": "Nós sabemos (também como eles) que a lei é boa, contanto que se use dela legitimamente,"
+    },
+    {
+      "numero": 9,
+      "texto": "não ignorando que a lei não foi feita para o justo, mas para os injustos e desobedientes, para os ímpios e pecadores, para os sacrílegos e profanadores, para os parricidas e matricidas, para os homicidas,"
+    },
+    {
+      "numero": 10,
+      "texto": "para os fornicadores, sodomitas, traficantes de homens, para os mentirosos e perjuros, e para tudo o que vai contra a sã doutrina. (ver nota)"
+    },
+    {
+      "numero": 11,
+      "texto": "Assim ensina o Evangelho da glória de Deus bem-aventurado, o qual me foi confiado."
+    },
+    {
+      "numero": 12,
+      "texto": "Dou graças aquele que me confortou, a Jesus Cristo Nosso Senhor, porque me julgou fiel, pondo-me no ministério,"
+    },
+    {
+      "numero": 13,
+      "texto": "a mim que fui antes blasfemo, perseguidor e injuriador; alcancei, porém, a misericórdia de Deus, porque o fiz por ignorância, sendo ainda incrédulo."
+    },
+    {
+      "numero": 14,
+      "texto": "A graça de Nosso Senhor superabundou com a fé e com a caridade, que há em Jesus Cristo."
+    },
+    {
+      "numero": 15,
+      "texto": "Palavra segura e digna de toda aceitação é esta: Jesus Cristo veio a este mundo salvar os pecadores, dos quais sou o primeiro."
+    },
+    {
+      "numero": 16,
+      "texto": "Mas alcancei misericórdia, para que em mim, sendo o primeiro, mostrasse Jesus Cristo toda a sua longanimidade, para exemplo dos que hão-de crer nele para (alcançar) a vida eterna."
+    },
+    {
+      "numero": 17,
+      "texto": "Ao rei dos séculos imortal, invisível, ao Deus único, honra e glória pelos séculos dos séculos. Amém."
+    },
+    {
+      "numero": 18,
+      "texto": "Tal é a recomendação que te faço, meu filho Timóteo, segundo as profecias feitas precedentemente a teu respeito, a fim de que, segundo elas, combatas o bom combate,"
+    },
+    {
+      "numero": 19,
+      "texto": "conservando a fé e a boa consciência. Por se terem afastado dela, alguns naufragaram na fé;"
+    },
+    {
+      "numero": 20,
+      "texto": "desse número são Himeneu e Alexandre, os quais entreguei a Satanás, para que aprendam a não blasfemar. (ver nota)"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:3-4",
+      "texto": "Paulo instrui Timóteo a combater as falsas doutrinas que estavam sendo ensinadas, destacando a importância de uma fé pura. A prática de ensinar com coração puro e boa consciência é fundamental para a saúde espiritual da Igreja (veja também 2 João 1:9 e Tito 1:10-11)."
+    },
+    {
+      "ref": "1:12-16",
+      "texto": "Paulo compartilha seu testemunho pessoal, reconhecendo que foi um pecador, mas encontrou misericórdia em Cristo. Este exemplo mostra como a graça de Deus pode transformar até os mais perdidos (veja também Efésios 3:8-9 e 1 Coríntios 15:9-10)."
+    },
+    {
+      "ref": "1:18-19",
+      "texto": "Paulo exorta Timóteo a manter a fé e a boa consciência, lembrando-o de batalhar pela fé contra os inimigos da verdade. Este versículo reforça a necessidade de perseverança e integridade na vida cristã (veja também 2 Timóteo 4:7 e 1 Coríntios 9:27)."
+    },
+    {
+      "ref": "1:20",
+      "texto": "Paulo menciona dois homens que foram entregues a Satanás por causa de sua apostasia. Isso destaca a seriedade de se desviar da fé e a necessidade de disciplina na Igreja (veja também Mateus 18:15-17 e 1 Coríntios 5:5)."
+    }
+  ]
+}

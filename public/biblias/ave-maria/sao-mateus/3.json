@@ -1,0 +1,105 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sao-mateus",
+  "nome": "São Mateus",
+  "testamento": "NT",
+  "capitulo": 3,
+  "totalVersiculos": 17,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sao-mateus/3/",
+  "capturadoEm": "2026-11-15T09:25:40-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Naqueles dias, apareceu João Batista, pregando no deserto da Judeia."
+    },
+    {
+      "numero": 2,
+      "texto": "Dizia ele: “Fazei penitência porque está próximo o Reino dos Céus.”"
+    },
+    {
+      "numero": 3,
+      "texto": "Este é aquele de quem falou o profeta Isaías, quando disse: Uma voz clama no deserto: Preparai o caminho do Senhor, endireitai as suas veredas (Is 40,3)."
+    },
+    {
+      "numero": 4,
+      "texto": "João usava uma vestimenta de pelos de camelo e um cinto de couro em volta dos rins. Alimentava-se de gafanhotos e mel silvestre."
+    },
+    {
+      "numero": 5,
+      "texto": "Pessoas de Jerusalém, de toda a Judeia e de toda a circunvizinhança do Jordão vinham a ele."
+    },
+    {
+      "numero": 6,
+      "texto": "Confessavam seus pecados e eram batizadas por ele nas águas do Jordão."
+    },
+    {
+      "numero": 7,
+      "texto": "Ao ver, porém, que muitos dos fariseus e dos saduceus vinham ao seu batismo, disse-lhes: “Raça de víboras, quem vos ensinou a fugir da cólera vindoura?",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Dai, pois, frutos de verdadeira penitência."
+    },
+    {
+      "numero": 9,
+      "texto": "Não digais dentro de vós: Nós temos a Abraão por pai! Pois eu vos digo: Deus é poderoso para suscitar destas pedras filhos a Abraão."
+    },
+    {
+      "numero": 10,
+      "texto": "O machado já está posto à raiz das árvores: toda árvore que não produzir bons frutos será cortada e lançada ao fogo."
+    },
+    {
+      "numero": 11,
+      "texto": "Eu vos batizo com água, em sinal de penitência, mas aquele que virá depois de mim é mais poderoso do que eu e nem sou digno de carregar seus calçados. Ele vos batizará no Espírito Santo e em fogo."
+    },
+    {
+      "numero": 12,
+      "texto": "Tem na mão a pá, limpará sua eira e recolherá o trigo ao celeiro. As palhas, porém, serão queimadas num fogo inextinguível”."
+    },
+    {
+      "numero": 13,
+      "texto": "Da Galileia foi Jesus ao Jordão ter com João, a fim de ser batizado por ele."
+    },
+    {
+      "numero": 14,
+      "texto": "João recusava-se: “Eu devo ser batizado por ti e tu vens a mim!”."
+    },
+    {
+      "numero": 15,
+      "texto": "Mas Jesus lhe respondeu: “Deixa por agora, pois convém cumpramos a justiça completa”. Então, João cedeu.",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "Depois que Jesus foi batizado, saiu logo da água. Eis que os céus se abriram e viu descer sobre ele, em forma de pomba, o Espírito de Deus."
+    },
+    {
+      "numero": 17,
+      "texto": "E do céu baixou uma voz: “Eis meu Filho muito amado em quem ponho minha afeição”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-6",
+      "texto": "João Batista aparece como o precursor de Jesus, chamando à conversão e ao arrependimento. Seu ministério cumpre as profecias que anunciam a vinda do Messias, e o batismo de arrependimento é um sinal de preparação para o Reino de Deus (veja também Isaías 40:3-5 e Atos 2:38)."
+    },
+    {
+      "ref": "3:7-10",
+      "texto": "João denuncia a hipocrisia dos fariseus e saduceus, exortando-os a produzir frutos dignos de arrependimento. Este alerta enfatiza que a salvação não é apenas uma questão externa, mas de transformação interior (veja também Lucas 3:8 e Tiago 2:17)."
+    },
+    {
+      "ref": "3:11-12",
+      "texto": "João fala da grandeza do Messias que virá, capaz de batizar com o Espírito Santo e com fogo. Ele destaca a separação entre o justo e o ímpio, com a purificação que vem por meio da obra de Cristo (veja também Lucas 3:16-17 e Atos 2:3-4)."
+    },
+    {
+      "ref": "3:13-15",
+      "texto": "Jesus se submete ao batismo de João, não porque necessitasse de arrependimento, mas para cumprir toda a justiça e identificar-se com a humanidade. Sua obediência ao plano divino é um exemplo de humildade e submissão à vontade de Deus (veja também Filipenses 2:8 e Mateus 5:17)."
+    },
+    {
+      "ref": "3:16-17",
+      "texto": "O batismo de Jesus é acompanhado pela manifestação do Espírito Santo em forma de pomba e pela voz do Pai, confirmando a identidade divina de Jesus como Filho de Deus. Esse evento simboliza a iniciação pública do ministério de Jesus (veja também João 1:32-34 e Marcos 1:10-11)."
+    }
+  ]
+}

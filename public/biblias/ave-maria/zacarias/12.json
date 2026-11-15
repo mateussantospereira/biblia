@@ -1,0 +1,92 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "zacarias",
+  "nome": "Zacarias",
+  "testamento": "AT",
+  "capitulo": 12,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/zacarias/12/",
+  "capturadoEm": "2026-11-15T09:25:31-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Oráculo. Palavra do Senhor sobre Israel. Oráculo do Senhor, que estendeu os céus, firmou a terra e formou o sopro espírito que o homem tem dentro de si."
+    },
+    {
+      "numero": 2,
+      "texto": "Eis o que farei de Jerusalém: um copo inebriante para todos os povos circunvizinhos; também Judá será cercado pelo inimigo com Jerusalém."
+    },
+    {
+      "numero": 3,
+      "texto": "Naquele dia, farei de Jerusalém uma pedra pesada para todas as nações: todo o que se esforçar por levantá-la sairá ferido; todos os povos da terra se juntarão contra ela."
+    },
+    {
+      "numero": 4,
+      "texto": "Naquele dia – oráculo do Senhor –, ferirei de espanto todos os cavalos, e de delírio os que montam neles. Abrirei os meus olhos sobre a casa de Judá, e cegarei a cavalaria das nações."
+    },
+    {
+      "numero": 5,
+      "texto": "Os chefes de Judá reconhecerão em seu coração que a força dos habitantes de Jerusalém está em seu Deus, o Senhor dos exércitos."
+    },
+    {
+      "numero": 6,
+      "texto": "Naquele dia, farei dos chefes de Judá como que um braseiro ardente sobre um monte de lenha, uma tocha acesa no meio dos feixes: devorarão à direita e à esquerda todos os povos da vizinhança, enquanto Jerusalém permanecerá firme e estável."
+    },
+    {
+      "numero": 7,
+      "texto": "O Senhor libertará primeiramente as tendas de Judá, para que a glória da casa de Davi e dos habitantes de Jerusalém não se eleve demais em detrimento de Judá."
+    },
+    {
+      "numero": 8,
+      "texto": "Naquele dia, o Senhor protegerá os habitantes de Jerusalém; o mais fraco dentre eles será valente como Davi, e a casa de Davi surgirá como Deus, como um anjo do Senhor."
+    },
+    {
+      "numero": 9,
+      "texto": "Naquele dia, procurarei exterminar todo o povo que vier contra Jerusalém."
+    },
+    {
+      "numero": 10,
+      "texto": "Suscitarei sobre a casa de Davi e sobre os habitantes de Jerusalém um espírito de boa vontade e de prece, e eles voltarão os seus olhos para mim. Farão lamentações sobre aquele que traspassaram, como se fosse um filho único; eles o chorarão amargamente como se chora um primogênito!",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Naquele dia, haverá um grande luto em Jerusalém, como o luto de Adad-Remom, no vale de Meguido."
+    },
+    {
+      "numero": 12,
+      "texto": "A terra inteira celebrará esse luto, família por família; a família da casa de Davi à parte, com suas mulheres separadamente;"
+    },
+    {
+      "numero": 13,
+      "texto": "a família da casa de Natã à parte, com suas mulheres separadamente; a família da casa de Levi à parte, com suas mulheres separadamente; a família de Semei à parte, e suas mulheres separadamente;"
+    },
+    {
+      "numero": 14,
+      "texto": "todas as outras famílias, cada uma à parte, e as mulheres separadamente."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "12:1-2",
+      "texto": "Zacarias profetiza sobre a futura Jerusalém, que será alvo de ataques, mas será protegida por Deus. A cidade de Jerusalém é vista como central para os planos de Deus, e Sua intervenção divina será a chave para a preservação do povo (veja também Mateus 23:37-39 e Apocalipse 21:2)."
+    },
+    {
+      "ref": "12:3-5",
+      "texto": "Jerusalém será um \"copo de embriaguez\" para as nações, simbolizando a dificuldade das potências mundiais em derrotar a cidade escolhida por Deus. Este versículo destaca a soberania de Deus sobre as nações e Sua defesa do Seu povo (veja também Salmo 2:1-6 e Isaías 40:23-24)."
+    },
+    {
+      "ref": "12:6-9",
+      "texto": "Deus promete levantar os habitantes de Jerusalém como heróis contra seus inimigos. A vitória de Jerusalém, com o auxílio divino, é um sinal de que Deus restaura a dignidade de Seu povo (veja também Isaías 59:19 e 1 Coríntios 15:25-28)."
+    },
+    {
+      "ref": "12:10-14",
+      "texto": "A promessa de que os habitantes de Jerusalém olharão para Aquele a quem traspassaram, referindo-se ao Messias, aponta para a futura conversão de Israel e o arrependimento coletivo. Isso prefigura o lamento e a aceitação de Cristo como o Salvador (veja também João 19:37 e Apocalipse 1:7)."
+    },
+    {
+      "ref": "12:9",
+      "texto": "Naquele dia Deus promete destruir todas as nações que atacarem Jerusalém. Isso é uma manifestação do julgamento de Deus contra aqueles que se opõem ao Seu plano redentor, reafirmando Seu controle absoluto sobre a história (veja também Joel 3:2 e Mateus 25:31-46)."
+    }
+  ]
+}

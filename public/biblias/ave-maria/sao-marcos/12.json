@@ -1,0 +1,214 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sao-marcos",
+  "nome": "São Marcos",
+  "testamento": "NT",
+  "capitulo": 12,
+  "totalVersiculos": 44,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sao-marcos/12/",
+  "capturadoEm": "2026-11-15T09:26:18-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E começou a falar-lhes em parábolas: “Um homem plantou uma vinha, cercou-a com uma sebe, cavou nela um lagar, edificou uma torre, arrendou-a a vinhateiros e ausentou-se daquela terra."
+    },
+    {
+      "numero": 2,
+      "texto": "A seu tempo, enviou aos vinhateiros um servo, para receber deles uma parte do produto da vinha."
+    },
+    {
+      "numero": 3,
+      "texto": "Ora, eles prenderam-no, feriram-no e reenviaram-no de mãos vazias."
+    },
+    {
+      "numero": 4,
+      "texto": "Enviou-lhes de novo outro servo; também este feriram na cabeça e o cobriram de afrontas."
+    },
+    {
+      "numero": 5,
+      "texto": "O senhor enviou-lhes ainda um terceiro, mas o mataram. E enviou outros mais, dos quais feriram uns e mataram outros."
+    },
+    {
+      "numero": 6,
+      "texto": "Restava-lhe ainda seu filho único, a quem muito amava. Enviou-o também por último a ir ter com eles, dizendo: Terão respeito a meu filho!..."
+    },
+    {
+      "numero": 7,
+      "texto": "Os vinhateiros, porém, disseram uns aos outros: Este é o herdeiro! Vinde, matemo-lo e será nossa a herança!"
+    },
+    {
+      "numero": 8,
+      "texto": "Agarrando-o, mataram-no e lançaram-no fora da vinha."
+    },
+    {
+      "numero": 9,
+      "texto": "Que fará, pois, o senhor da vinha? Virá e exterminará os vinhateiros e dará a vinha a outro”."
+    },
+    {
+      "numero": 10,
+      "texto": "“Nunca lestes estas palavras da Escritura: A pedra que os construtores rejeitaram veio a tornar-se pedra angular."
+    },
+    {
+      "numero": 11,
+      "texto": "Isto é obra do Senhor, e ela é admirável aos nossos olhos” (Sl 117,22s)?"
+    },
+    {
+      "numero": 12,
+      "texto": "Procuravam prendê-lo, mas temiam o povo; porque tinham entendido que a respeito deles dissera esta parábola. E, deixando-o, retiraram-se.* (= Mt 22,15-22 = Lc 20,20-26)"
+    },
+    {
+      "numero": 13,
+      "texto": "Enviaram-lhe alguns fariseus e herodianos, para que o apanhassem em alguma palavra."
+    },
+    {
+      "numero": 14,
+      "texto": "Aproximaram-se dele e disseram-lhe: “Mestre, sabemos que és sincero e que não lisonjeias a ninguém; porque não olhas para as aparências dos homens, mas ensinas o caminho de Deus segundo a verdade. É permitido que se pague o imposto a César ou não? Devemos ou não pagá-lo?”."
+    },
+    {
+      "numero": 15,
+      "texto": "Conhecendo-lhes a hipocrisia, respondeu-lhes Jesus: “Por que me quereis armar um laço? Mostrai-me um denário”."
+    },
+    {
+      "numero": 16,
+      "texto": "Apresentaram-lho. E ele perguntou-lhes: “De quem é esta imagem e a inscrição?” “De César” – responderam-lhe."
+    },
+    {
+      "numero": 17,
+      "texto": "Jesus então lhes replicou: “Dai, pois, a César o que é de César e a Deus o que é de Deus”. E admiravam-se dele. (= Mt 22,23-33 = Lc 20,27-40)"
+    },
+    {
+      "numero": 18,
+      "texto": "Ora, vieram ter com ele os saduceus, que afirmam não haver ressurreição, e perguntaram-lhe:",
+      "nota": true
+    },
+    {
+      "numero": 19,
+      "texto": "“Mestre, Moisés prescreveu-nos: Se morrer o irmão de alguém, e deixar mulher sem filhos, seu irmão despose a viúva e suscite posteridade a seu irmão."
+    },
+    {
+      "numero": 20,
+      "texto": "Ora, havia sete irmãos; o primeiro casou e morreu sem deixar descendência."
+    },
+    {
+      "numero": 21,
+      "texto": "Então, o segundo desposou a viúva, e morreu sem deixar posteridade. Do mesmo modo o terceiro."
+    },
+    {
+      "numero": 22,
+      "texto": "E assim tomaram-na os sete, e não deixaram filhos. Por último, morreu também a mulher."
+    },
+    {
+      "numero": 23,
+      "texto": "Na ressurreição, a quem desses pertencerá a mulher? Pois os sete a tiveram por mulher”."
+    },
+    {
+      "numero": 24,
+      "texto": "Jesus respondeu-lhes: “Errais, não compreendendo as Escrituras nem o poder de Deus."
+    },
+    {
+      "numero": 25,
+      "texto": "Na ressurreição dos mortos, os homens não tomarão mulheres, nem as mulheres, maridos, mas serão como os anjos nos céus."
+    },
+    {
+      "numero": 26,
+      "texto": "Mas, quanto à ressurreição dos mortos, não lestes no livro de Moisés como Deus lhe falou da sarça, dizendo: Eu sou o Deus de Abraão, o Deus de Isaac e o Deus de Jacó (Ex 3,6)?"
+    },
+    {
+      "numero": 27,
+      "texto": "Ele não é Deus de mortos, senão de vivos. Portanto, estais muito errados”. (= Mt 22,34-40 = Lc 10,25-28)"
+    },
+    {
+      "numero": 28,
+      "texto": "Achegou-se dele um dos escribas que os ouvira discutir e, vendo que lhes respondera bem, indagou dele: “Qual é o primeiro de todos os mandamentos?”."
+    },
+    {
+      "numero": 29,
+      "texto": "Jesus respondeu-lhe: “O primeiro de todos os mandamentos é este: Ouve, Israel, o Senhor, nosso Deus, é o único Senhor;"
+    },
+    {
+      "numero": 30,
+      "texto": "amarás ao Senhor teu Deus de todo o teu coração, de toda a tua alma, de todo o teu espírito e de todas as tuas forças."
+    },
+    {
+      "numero": 31,
+      "texto": "Eis aqui o segundo: Amarás o teu próximo como a ti mesmo. Outro mandamento maior do que estes não existe”.",
+      "nota": true
+    },
+    {
+      "numero": 32,
+      "texto": "Disse-lhe o escriba: “Perfeitamente, Mestre, disseste bem que Deus é um só e que não há outro além dele."
+    },
+    {
+      "numero": 33,
+      "texto": "E amá-lo de todo o coração, de todo o pensamento, de toda a alma e de todas as forças, e amar o próximo como a si mesmo, excede a todos os holocaustos e sacrifícios”."
+    },
+    {
+      "numero": 34,
+      "texto": "Vendo Jesus que ele falara sabiamente, disse-lhe: “Não estás longe do Reino de Deus”. E já ninguém ousava fazer-lhe perguntas. (= Mt 22,41-46 = Lc 20,41-44)"
+    },
+    {
+      "numero": 35,
+      "texto": "Continuava Jesus a ensinar no templo e propôs esta questão: “Como dizem os escribas que Cristo é o filho de Davi?"
+    },
+    {
+      "numero": 36,
+      "texto": "Pois o mesmo Davi diz, inspirado pelo Espírito Santo: Disse o Senhor a meu Senhor: senta-te à minha direita, até que eu ponha os teus inimigos sob os teus pés (Sl 109,1)."
+    },
+    {
+      "numero": 37,
+      "texto": "Ora, se o próprio Davi o chama Senhor, como então é ele seu filho?”. E a grande multidão ouvia-o com satisfação.* (= Mt 23,1-7 = Lc 20,45ss)"
+    },
+    {
+      "numero": 38,
+      "texto": "Ele lhes dizia em sua doutrina: “Guardai-vos dos escribas que gostam de andar com roupas compridas, de ser cumprimentados nas praças públicas"
+    },
+    {
+      "numero": 39,
+      "texto": "e de sentar-se nas primeiras cadeiras nas sinagogas e nos primeiros lugares nos banquetes."
+    },
+    {
+      "numero": 40,
+      "texto": "Eles devoram os bens das viúvas e dão aparência de longas orações. Estes terão um juízo mais rigoroso”. (= Lc 21,1-4)"
+    },
+    {
+      "numero": 41,
+      "texto": "Jesus sentou-se defronte do cofre de esmola e observava como o povo deitava dinheiro nele; muitos ricos depositavam grandes quantias."
+    },
+    {
+      "numero": 42,
+      "texto": "Chegando uma pobre viúva, lançou duas pequenas moedas, no valor de apenas um quadrante.",
+      "nota": true
+    },
+    {
+      "numero": 43,
+      "texto": "E ele chamou os seus discípulos e disse-lhes: “Em verdade vos digo: esta pobre viúva deitou mais do que todos os que lançaram no cofre,"
+    },
+    {
+      "numero": 44,
+      "texto": "porque todos deitaram do que tinham em abundância; esta, porém, pôs, de sua indigência, tudo o que tinha para o seu sustento”. (= Mt 24,1-28 = Lc 21,5-24)"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "12:1-12",
+      "texto": "A parábola dos vinhateiros rejeitados revela a rejeição dos líderes religiosos ao Filho de Deus e o juízo que virá sobre eles. Jesus se coloca como a pedra angular, e aqueles que O rejeitarem enfrentarão a condenação (veja também Mateus 21:33-46 e Salmo 118:22-23)."
+    },
+    {
+      "ref": "12:13-17",
+      "texto": "Jesus responde à questão sobre o imposto a César, ensinando sobre a separação entre os deveres civis e espirituais. Ele afirma que devemos dar a César o que é de César, mas a Deus o que é de Deus, enfatizando a importância de viver em obediência tanto à autoridade terrena quanto à divina (veja também Mateus 22:15-22 e Romanos 13:1-7)."
+    },
+    {
+      "ref": "12:18-27",
+      "texto": "A discussão sobre a ressurreição revela o poder de Deus sobre a vida e a morte. Jesus ensina que, na ressurreição, não haverá casamento, pois seremos como os anjos. Ele também corrige a visão errônea dos saduceus sobre a vida após a morte (veja também Mateus 22:23-33 e Lucas 20:27-38)."
+    },
+    {
+      "ref": "12:28-34",
+      "texto": "O maior mandamento é amar a Deus de todo o coração, alma, mente e força, e amar ao próximo como a si mesmo. Esses dois mandamentos resumem a Lei e os Profetas, destacando a centralidade do amor em nossa vida cristã (veja também Mateus 22:34-40 e 1 João 4:7-12)."
+    },
+    {
+      "ref": "12:41-44",
+      "texto": "A viúva pobre oferece tudo o que tinha, exemplificando a verdadeira generosidade. Jesus destaca que a oferta dela, embora pequena, foi mais valiosa do que as grandes ofertas dos ricos, pois ela deu tudo de seu coração, sem reservas (veja também Lucas 21:1-4 e 2 Coríntios 9:7)."
+    }
+  ]
+}

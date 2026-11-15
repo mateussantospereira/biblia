@@ -1,0 +1,145 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "proverbios",
+  "nome": "Provérbios",
+  "testamento": "AT",
+  "capitulo": 29,
+  "totalVersiculos": 27,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/proverbios/29/",
+  "capturadoEm": "2026-11-15T09:19:39-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O homem que, apesar das admoestações, se obstina será logo irremediavelmente arruinado."
+    },
+    {
+      "numero": 2,
+      "texto": "Quando dominam os justos, alegra-se o povo; quando governa o ímpio, o povo geme."
+    },
+    {
+      "numero": 3,
+      "texto": "Quem ama a sabedoria alegra seu pai; o que frequenta as prostitutas dissipa sua fortuna."
+    },
+    {
+      "numero": 4,
+      "texto": "É pela justiça que um rei firma seu país, mas aquele que o sobrecarrega com muitos impostos o arruína."
+    },
+    {
+      "numero": 5,
+      "texto": "O homem que adula seu próximo estende redes aos seus pés."
+    },
+    {
+      "numero": 6,
+      "texto": "No delito do ímpio há um ardil, mas o justo corre alegremente."
+    },
+    {
+      "numero": 7,
+      "texto": "O justo conhece a causa dos pobres; o ímpio a ignora."
+    },
+    {
+      "numero": 8,
+      "texto": "Os escarnecedores ateiam fogo na cidade, mas os sábios acalmam o furor."
+    },
+    {
+      "numero": 9,
+      "texto": "Discute um sábio com um tolo? Que ele se zangue ou que ele se ria não terá paz."
+    },
+    {
+      "numero": 10,
+      "texto": "Os homens sanguinários odeiam o íntegro, mas os homens retos tomam cuidado com sua vida."
+    },
+    {
+      "numero": 11,
+      "texto": "O insensato desafoga toda sua ira, mas o sábio a domina e a recalca."
+    },
+    {
+      "numero": 12,
+      "texto": "Quando um soberano presta atenção às mentiras, todos os seus servidores tornam-se maus."
+    },
+    {
+      "numero": 13,
+      "texto": "O pobre e o opressor se encontram: é o Senhor que ilumina os olhos de cada um."
+    },
+    {
+      "numero": 14,
+      "texto": "Um rei que julga com equidade os humildes terá seu trono firmado para sempre."
+    },
+    {
+      "numero": 15,
+      "texto": "Vara e correção dão a sabedoria; menino abandonado à sua vontade se torna a vergonha da mãe."
+    },
+    {
+      "numero": 16,
+      "texto": "Quando se multiplicam os ímpios, multiplica-se o crime, mas os justos contemplarão sua queda."
+    },
+    {
+      "numero": 17,
+      "texto": "Corrige teu filho e ele te dará repouso e será as delícias de tua vida."
+    },
+    {
+      "numero": 18,
+      "texto": "Por falta de visão, o povo vive sem freios; ditoso o que observa a instrução!",
+      "nota": true
+    },
+    {
+      "numero": 19,
+      "texto": "Não é com palavras que se corrige um escravo, porque ele compreende, mas não se atém a elas."
+    },
+    {
+      "numero": 20,
+      "texto": "Viste um homem precipitado no falar: há mais esperança num tolo do que nele."
+    },
+    {
+      "numero": 21,
+      "texto": "Um escravo mimado desde sua juventude, acaba por se tornar desobediente."
+    },
+    {
+      "numero": 22,
+      "texto": "Um homem irascível excita contendas; o colérico acumula as faltas."
+    },
+    {
+      "numero": 23,
+      "texto": "O orgulho de um homem leva-o à humilhação, mas o humilde de espírito obtém a glória."
+    },
+    {
+      "numero": 24,
+      "texto": "Quem partilha com o ladrão, odeia-se a si mesmo; ouve a maldição e nada denuncia.",
+      "nota": true
+    },
+    {
+      "numero": 25,
+      "texto": "O temor dos homens prepara um laço, mas quem confia no Senhor permanece seguro."
+    },
+    {
+      "numero": 26,
+      "texto": "Muitos buscam o favor de um príncipe, mas é do Senhor que cada homem alcança justiça."
+    },
+    {
+      "numero": 27,
+      "texto": "O homem iníquo é abominado pelos justos; o ímpio abomina aquele que anda pelo caminho certo."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "29:1",
+      "texto": "Aqueles que resistem à correção acabam enfrentando a destruição. Este versículo alerta sobre o perigo da obstinação e da recusa em aprender com a repreensão. A sabedoria está em aceitar a disciplina (veja também Hebreus 12:5-6 e Apocalipse 3:19)."
+    },
+    {
+      "ref": "29:2",
+      "texto": "Quando os justos governam, o povo se alegra, mas quando os ímpios estão no poder, há sofrimento. Esse princípio reflete a importância de líderes íntegros e justos para a paz e a prosperidade de uma nação (veja também Provérbios 11:10 e 1 Timóteo 2:1-2)."
+    },
+    {
+      "ref": "29:11",
+      "texto": "O tolo dá vazão à sua ira, mas o sábio a controla. O autocontrole é uma marca de sabedoria, enquanto a ira desenfreada leva a consequências destrutivas (veja também Efésios 4:26-27 e Tiago 1:19-20)."
+    },
+    {
+      "ref": "29:18",
+      "texto": "Onde não há visão, o povo se desvia; mas feliz é aquele que guarda a lei. Este versículo enfatiza a importância de uma direção divina e de seguir os mandamentos de Deus para viver em ordem e bênção (veja também Oséias 4:6 e Salmo 119:105)."
+    },
+    {
+      "ref": "29:25",
+      "texto": "O medo do homem traz uma armadilha, mas quem confia no Senhor está seguro. A confiança em Deus é um refúgio seguro contra as armadilhas do medo e da ansiedade que os homens podem causar (veja também Salmo 56:11 e Filipenses 4:6-7)."
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sao-mateus",
+  "nome": "São Mateus",
+  "testamento": "NT",
+  "capitulo": 16,
+  "totalVersiculos": 28,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sao-mateus/16/",
+  "capturadoEm": "2026-11-15T09:25:53-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Os fariseus e os saduceus achegaram-se a Jesus para submetê-lo à prova e pediram-lhe que lhes mostrasse um milagre do céu."
+    },
+    {
+      "numero": 2,
+      "texto": "Ele lhes respondeu: “Quando vem a tarde, dizeis: Haverá bom tempo, porque o céu está avermelhado."
+    },
+    {
+      "numero": 3,
+      "texto": "E de manhã: Hoje haverá tormenta, porque o céu está de um vermelho sombrio."
+    },
+    {
+      "numero": 4,
+      "texto": "Hipócritas! Sabeis distinguir o aspecto do céu e não podeis discernir os sinais dos tempos? Essa raça perversa e adúltera pede um milagre! Mas não lhe será dado outro sinal senão o de Jonas!”. Depois, deixando-os, partiu.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Ora, passando para a outra margem do lago, os discípulos haviam esquecido de levar pão."
+    },
+    {
+      "numero": 6,
+      "texto": "Jesus disse-lhes: “Guardai-vos com cuidado do fermento dos fariseus e dos saduceus”."
+    },
+    {
+      "numero": 7,
+      "texto": "Eles pensavam: “É que não trouxemos pão...”."
+    },
+    {
+      "numero": 8,
+      "texto": "Jesus, penetrando nos seus pensamentos, disse-lhes: “Homens de pouca fé! Por que julgais que vos falei por não terdes pão?"
+    },
+    {
+      "numero": 9,
+      "texto": "Ainda não compreendeis? Nem vos lembrais dos cinco pães e dos cinco mil homens, e de quantos cestos recolhestes?"
+    },
+    {
+      "numero": 10,
+      "texto": "Nem dos sete pães para os quatro mil homens e de quantos cestos enchestes?"
+    },
+    {
+      "numero": 11,
+      "texto": "Por que não compreendeis que não é do pão que eu vos falava, quando vos disse: Guardai-vos do fermento dos fariseus e dos saduceus?”."
+    },
+    {
+      "numero": 12,
+      "texto": "Então, entenderam que não dissera que se guardassem do fermento do pão, mas da doutrina dos fariseus e dos saduceus."
+    },
+    {
+      "numero": 13,
+      "texto": "Chegando ao território de Cesareia de Filipe, Jesus perguntou a seus discípulos: “No dizer do povo, quem é o Filho do Homem?”."
+    },
+    {
+      "numero": 14,
+      "texto": "Responderam: “Uns dizem que é João Batista; outros, Elias; outros, Jeremias ou um dos profetas”."
+    },
+    {
+      "numero": 15,
+      "texto": "Disse-lhes Jesus: “E vós quem dizeis que eu sou?”"
+    },
+    {
+      "numero": 16,
+      "texto": "Simão Pedro respondeu: “Tu és o Cristo, o Filho de Deus vivo!”."
+    },
+    {
+      "numero": 17,
+      "texto": "Jesus, então, lhe disse: “Feliz és, Simão, filho de Jonas, porque não foi a carne nem o sangue que te revelou isto, mas meu Pai que está nos céus.",
+      "nota": true
+    },
+    {
+      "numero": 18,
+      "texto": "E eu te declaro: tu és Pedro, e sobre esta pedra edificarei a minha Igreja; as portas do inferno não prevalecerão contra ela.",
+      "nota": true
+    },
+    {
+      "numero": 19,
+      "texto": "Eu te darei as chaves do Reino dos Céus: tudo o que ligares na terra será ligado nos céus, e tudo o que desligares na terra será desligado nos céus”.",
+      "nota": true
+    },
+    {
+      "numero": 20,
+      "texto": "Depois, ordenou aos seus discípulos que não dissessem a ninguém que ele era o Cristo."
+    },
+    {
+      "numero": 21,
+      "texto": "Desde então, Jesus começou a manifestar a seus discípulos que precisava ir a Jerusalém e sofrer muito da parte dos anciãos, dos príncipes dos sacerdotes e dos escribas; seria morto e ressuscitaria ao terceiro dia."
+    },
+    {
+      "numero": 22,
+      "texto": "Pedro, então, começou a interpelá-lo e protestar nestes termos: “Que Deus não permita isso, Senhor! Isso não te acontecerá!”."
+    },
+    {
+      "numero": 23,
+      "texto": "Mas Jesus, voltando-se para ele, disse-lhe: “Afasta-te, Satanás! Tu és para mim um escândalo; teus pensamentos não são de Deus, mas dos homens!”."
+    },
+    {
+      "numero": 24,
+      "texto": "Em seguida, Jesus disse a seus discípulos: “Se alguém quiser vir comigo, renuncie-se a si mesmo, tome sua cruz e siga-me."
+    },
+    {
+      "numero": 25,
+      "texto": "Porque aquele que quiser salvar a sua vida, irá perdê-la; mas aquele que tiver sacrificado a sua vida por minha causa, irá recobrá-la."
+    },
+    {
+      "numero": 26,
+      "texto": "Que servirá a um homem ganhar o mundo inteiro, se vem a prejudicar a sua vida? Ou que dará um homem em troca de sua vida?...",
+      "nota": true
+    },
+    {
+      "numero": 27,
+      "texto": "Porque o Filho do Homem há de vir na glória de seu Pai com seus anjos, e então recompensará a cada um segundo suas obras."
+    },
+    {
+      "numero": 28,
+      "texto": "Em verdade vos declaro: muitos destes que aqui estão não verão a morte, sem que tenham visto o Filho do Homem voltar na majestade de seu Reino”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "16:1-4",
+      "texto": "Jesus confronta os fariseus e saduceus que pedem um sinal, desafiando sua falta de fé. Ele ensina que, apesar de sinais físicos, a verdadeira fé exige um entendimento espiritual profundo e uma mudança de coração (veja também Lucas 11:29-32 e João 4:48)."
+    },
+    {
+      "ref": "16:5-12",
+      "texto": "Jesus adverte contra o \"fermento\" dos fariseus e saduceus, simbolizando as falsas doutrinas que corrompem a fé. Ele ensina a importância de discernir as influências espirituais que podem desviar o povo de Deus (veja também 1 Coríntios 5:6-8 e Gálatas 5:9)."
+    },
+    {
+      "ref": "16:13-20",
+      "texto": "Pedro confessa que Jesus é o Cristo, o Filho do Deus vivo, e Jesus o elogia por essa revelação divina. Essa confissão é a base da Igreja e do Reino de Deus, mostrando que a revelação divina é essencial para a verdadeira fé (veja também Lucas 9:18-20 e João 6:68-69)."
+    },
+    {
+      "ref": "16:21-23",
+      "texto": "Jesus começa a falar sobre Sua morte e ressurreição, e Pedro tenta dissuadi-lo. Jesus o repreende, dizendo \"Para trás de mim, Satanás!\", ensinando que os planos de Deus são superiores aos nossos e que a missão de Cristo envolve sofrimento (veja também Marcos 8:31-33 e Lucas 9:22)."
+    },
+    {
+      "ref": "16:24-28",
+      "texto": "Jesus ensina sobre o custo do discipulado, destacando que seguir a Cristo exige negar a si mesmo, tomar a cruz e perder a vida para ganhá-la. Ele enfatiza que o Reino de Deus é mais valioso do que qualquer ganho terreno (veja também Marcos 8:34-38 e Lucas 9:23-27)."
+    }
+  ]
+}

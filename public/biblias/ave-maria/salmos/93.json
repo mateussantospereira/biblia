@@ -1,0 +1,126 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 93,
+  "totalVersiculos": 23,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/93/",
+  "capturadoEm": "2026-11-15T09:17:38-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Senhor, Deus justiceiro, Deus das vinganças, aparecei em vosso esplendor.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Levantai-vos, juiz da terra, castigai os soberbos como eles merecem."
+    },
+    {
+      "numero": 3,
+      "texto": "Até quando, Senhor, triunfarão os ímpios?"
+    },
+    {
+      "numero": 4,
+      "texto": "Até quando se desmandarão em discursos arrogantes, e jactanciosos estarão esses obreiros do mal?"
+    },
+    {
+      "numero": 5,
+      "texto": "Eles esmagam vosso povo, Senhor, e oprimem vossa herança."
+    },
+    {
+      "numero": 6,
+      "texto": "Trucidam a viúva e o estrangeiro, tiram a vida aos órfãos."
+    },
+    {
+      "numero": 7,
+      "texto": "E dizem: “O Senhor não vê, o Deus de Jacó não presta atenção nisso!”."
+    },
+    {
+      "numero": 8,
+      "texto": "Tratai de compreender, ó gente estulta. Insensatos, quando cobrareis juízo?"
+    },
+    {
+      "numero": 9,
+      "texto": "Pois não ouvirá quem fez o ouvido? O que formou o olho não verá?"
+    },
+    {
+      "numero": 10,
+      "texto": "Aquele que dá lições aos povos não há de punir, ele que ensina ao homem o saber..."
+    },
+    {
+      "numero": 11,
+      "texto": "O Senhor conhece os pensamentos dos homens, e sabe que são vãos.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Feliz o homem a quem ensinais, Senhor, e instruís em vossa Lei,"
+    },
+    {
+      "numero": 13,
+      "texto": "para lhe dar a paz no dia do infortúnio, enquanto uma cova se abre para o ímpio,"
+    },
+    {
+      "numero": 14,
+      "texto": "porque o Senhor não rejeitará o seu povo, e não há de abandonar a sua herança."
+    },
+    {
+      "numero": 15,
+      "texto": "Mas o julgamento com justiça se fará, e o seguirão os retos de coração."
+    },
+    {
+      "numero": 16,
+      "texto": "Quem se erguerá por mim contra os malfeitores? Quem será meu defensor contra os artesãos do mal?"
+    },
+    {
+      "numero": 17,
+      "texto": "Se o Senhor não me socorresse, em breve a minha alma habitaria a região do silêncio."
+    },
+    {
+      "numero": 18,
+      "texto": "Quando penso: “Vacilam-me os pés”, sustenta-me, Senhor, a vossa graça."
+    },
+    {
+      "numero": 19,
+      "texto": "Quando em meu coração se multiplicam as angústias, vossas consolações alegram a minha alma."
+    },
+    {
+      "numero": 20,
+      "texto": "Acaso poderá aliar-se a vós um tribunal iníquo, que pratica vexames sob a aparência de lei?",
+      "nota": true
+    },
+    {
+      "numero": 21,
+      "texto": "Atentam contra a alma do justo, e condenam o sangue inocente."
+    },
+    {
+      "numero": 22,
+      "texto": "Mas o Senhor certamente será o meu refúgio, e meu Deus o rochedo em que me abrigo."
+    },
+    {
+      "numero": 23,
+      "texto": "Ele fará recair sobre eles suas próprias maldades, ele os fará perecer por sua própria malícia. O Senhor, nosso Deus, os destruirá."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "93:1",
+      "texto": "O Senhor é apresentado como Rei, vestido de majestade e poder. Esse versículo exalta a soberania de Deus sobre toda a criação, afirmando que Ele sustenta o mundo firmemente, sem abalos (veja também Isaías 52:7 e Apocalipse 19:16)."
+    },
+    {
+      "ref": "93:2",
+      "texto": "O trono de Deus é eterno, estabelecido desde a antiguidade. Esse verso destaca a natureza imutável e eterna de Deus, reforçando que Seu governo é anterior à criação (veja também Salmo 45:6 e Lamentações 5:19)."
+    },
+    {
+      "ref": "93:3-4",
+      "texto": "As águas poderosas, que simbolizam o caos, são inferiores ao poder de Deus. Mesmo as forças mais destrutivas da natureza estão sob o controle divino, reafirmando Sua supremacia sobre todas as coisas (veja também Jó 38:8-11 e Marcos 4:39)."
+    },
+    {
+      "ref": "93:5",
+      "texto": "Os testemunhos de Deus são fiéis, e a santidade adorna a casa do Senhor para sempre. Este versículo conclui com uma ênfase na santidade e na fidelidade da palavra de Deus (veja também 1 Samuel 2:2 e Apocalipse 15:4)."
+    }
+  ]
+}

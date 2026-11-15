@@ -1,0 +1,109 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "judite",
+  "nome": "Judite",
+  "testamento": "AT",
+  "capitulo": 2,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/judite/2/",
+  "capturadoEm": "2026-11-15T09:14:46-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "No décimo oitavo ano do rei Nabucodonosor, no vigésimo segundo dia do primeiro mês, foi tomada no palácio de Nabucodonosor, rei dos assírios, a decisão de que ele se vingaria."
+    },
+    {
+      "numero": 2,
+      "texto": "Convocou todos os anciãos, todos os seus chefes e guerreiros e teve com eles um conselho secreto, no qual"
+    },
+    {
+      "numero": 3,
+      "texto": "revelou-lhes o seu desígnio de submeter toda a terra ao seu império."
+    },
+    {
+      "numero": 4,
+      "texto": "Tendo a sua proposta agradado à assembleia, o rei Nabucodonosor ordenou a Holofernes, marechal do seu exército,"
+    },
+    {
+      "numero": 5,
+      "texto": "dizendo: “Vai contra todos os reinos do ocidente, principalmente contra aqueles que desprezaram a minha ordem."
+    },
+    {
+      "numero": 6,
+      "texto": "Ferirás a todos sem consideração alguma e me sujeitarás todas as fortalezas”.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "Holofernes convocou os generais e oficiais do exército assírio e contou os efetivos da expedição, conforme a ordem do rei: havia cento e vinte mil soldados de infantaria e doze mil frecheiros a cavalo."
+    },
+    {
+      "numero": 8,
+      "texto": "Mandou adiante do seu exército uma multidão de camelos com provisões abundantes para as tropas e inumeráveis rebanhos de bois e de cordeiros."
+    },
+    {
+      "numero": 9,
+      "texto": "Ordenou que em toda a Síria se preparasse trigo para quando ele passasse."
+    },
+    {
+      "numero": 10,
+      "texto": "Levou também grande quantidade de ouro e de prata do tesouro real."
+    },
+    {
+      "numero": 11,
+      "texto": "Pôs-se a caminho com todo o exército, com os carros, os cavaleiros e os frecheiros, que se espalharam pela terra como gafanhotos."
+    },
+    {
+      "numero": 12,
+      "texto": "Atravessou as fronteiras da Assíria e chegou às grandes montanhas de Ange, que ficam ao norte da Cilícia. Penetrou em todos os seus fortes e apoderou-se de todos os seus bens."
+    },
+    {
+      "numero": 13,
+      "texto": "Tomou de assalto a célebre cidade de Melitene e saqueou todos os filhos de Társis e os filhos de Ismael, que habitavam defronte do deserto, ao sul da terra de Celon.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Passando o Eufrates pela segunda vez, penetrou na Mesopotâmia e arrasou todas as fortalezas do país, desde a torrente de Caboras até o mar."
+    },
+    {
+      "numero": 15,
+      "texto": "Em seguida, apossou-se de todas as regiões (que marginam o Eufrates), desde a Cilícia até a terra de Jafé, que se estende para o sul."
+    },
+    {
+      "numero": 16,
+      "texto": "Levou todos os madianitas, saqueou todas as suas riquezas e passou a fio de espada todos os que lhe opunham resistência."
+    },
+    {
+      "numero": 17,
+      "texto": "Depois desceu às planícies de Damasco no tempo da colheita, queimou todas as colheitas e cortou todas as árvores e as vinhas."
+    },
+    {
+      "numero": 18,
+      "texto": "Tornou-se, assim, objeto de terror para todos os habitantes da terra."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "2:1-4",
+      "texto": "Judite é introduzida como uma mulher de grande fé e beleza, destacando seu papel como protagonista. A figura de Judite simboliza a coragem e a determinação que são necessárias para enfrentar desafios e lutar pela justiça (veja também Provérbios 31:10-31 e 2 Timóteo 1:7)."
+    },
+    {
+      "ref": "2:5-8",
+      "texto": "A descrença dos líderes israelitas e sua desesperança é evidenciada. Isso reflete a fragilidade da fé humana diante de grandes adversidades, ressaltando a necessidade de líderes que inspirem confiança e coragem no povo (veja também Salmo 78:22 e Mateus 17:20)."
+    },
+    {
+      "ref": "2:9-12",
+      "texto": "Judite se propõe a agir em defesa de seu povo, revelando sua determinação e coragem. Essa disposição para sacrificar-se pelo bem dos outros é um exemplo de amor altruísta e liderança (veja também Filipenses 2:3-4 e João 15:13)."
+    },
+    {
+      "ref": "2:13-16",
+      "texto": "O plano de Judite de se infiltrar no acampamento inimigo demonstra sua astúcia e estratégia. A sabedoria em tempos de crise é crucial para a vitória, e Judite se destaca como uma líder astuta e corajosa (veja também Tiago 1:5 e Provérbios 2:6)."
+    },
+    {
+      "ref": "2:17-19",
+      "texto": "O povo reconhece a coragem de Judite e a apoia em seu plano. Essa aceitação da liderança feminina reflete a importância do encorajamento e do apoio mútuo na comunidade de fé (veja também Gálatas 6:2 e Romanos 12:10)."
+    }
+  ]
+}

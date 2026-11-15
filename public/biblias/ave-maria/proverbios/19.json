@@ -1,0 +1,152 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "proverbios",
+  "nome": "Provérbios",
+  "testamento": "AT",
+  "capitulo": 19,
+  "totalVersiculos": 29,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/proverbios/19/",
+  "capturadoEm": "2026-11-15T09:19:28-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Mais vale um pobre que caminha na integridade que um insensato com lábios mentirosos."
+    },
+    {
+      "numero": 2,
+      "texto": "Sem a ciência, nem mesmo o zelo é bom: quem precipita seus passos, desvia-se."
+    },
+    {
+      "numero": 3,
+      "texto": "A loucura de um homem o leva a um mau caminho; é contra o Senhor que seu coração se irrita."
+    },
+    {
+      "numero": 4,
+      "texto": "A riqueza aumenta o número de amigos, o pobre é abandonado pelo seu único companheiro."
+    },
+    {
+      "numero": 5,
+      "texto": "O falso testemunho não fica sem castigo; o que profere mentira não escapará."
+    },
+    {
+      "numero": 6,
+      "texto": "O homem generoso possui muitos lisonjeiros: todos se tornam amigos de quem dá."
+    },
+    {
+      "numero": 7,
+      "texto": "Todos os irmãos do pobre o odeiam, quanto mais seus amigos não hão de se afastar dele? Está em busca de palavras, mas não terá nada.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Quem adquire bom senso ama sua alma; o que observa a prudência encontra a felicidade."
+    },
+    {
+      "numero": 9,
+      "texto": "O falso testemunho não fica impune; o que profere mentira perecerá."
+    },
+    {
+      "numero": 10,
+      "texto": "Não convém ao insensato viver entre delícias, muito menos ainda a um escravo dominar os chefes."
+    },
+    {
+      "numero": 11,
+      "texto": "Um homem sábio sabe conter a sua cólera, e tem por honra passar por cima de uma ofensa."
+    },
+    {
+      "numero": 12,
+      "texto": "Cólera de rei, rugido de leão; favor de rei, orvalho sobre a erva."
+    },
+    {
+      "numero": 13,
+      "texto": "Um filho insensato é a desgraça de seu pai; a mulher intrigante é uma goteira inesgotável."
+    },
+    {
+      "numero": 14,
+      "texto": "Casas e bens são a herança dos pais, mas uma mulher sensata é um dom do Senhor."
+    },
+    {
+      "numero": 15,
+      "texto": "A preguiça cai no torpor: a alma indolente terá fome."
+    },
+    {
+      "numero": 16,
+      "texto": "O que observa o preceito guarda sua vida; quem descuida de seu proceder morrerá."
+    },
+    {
+      "numero": 17,
+      "texto": "Quem se apieda do pobre empresta ao Senhor, que lhe restituirá o benefício."
+    },
+    {
+      "numero": 18,
+      "texto": "Corrige teu filho enquanto há esperança, mas não te enfureças até fazê-lo perecer."
+    },
+    {
+      "numero": 19,
+      "texto": "O homem iracundo sofrerá um castigo; se o libertares, aumentarás a sua pena."
+    },
+    {
+      "numero": 20,
+      "texto": "Ouve os conselhos, aceita a instrução: tu serás sábio para o futuro."
+    },
+    {
+      "numero": 21,
+      "texto": "Há muitos planos no coração do homem, mas é a vontade do Senhor que se realiza."
+    },
+    {
+      "numero": 22,
+      "texto": "O encanto de um homem é a sua caridade: mais vale o pobre que o mentiroso."
+    },
+    {
+      "numero": 23,
+      "texto": "O temor do Senhor conduz à vida; o que o possui é saciado: passará a noite sem a visita da desgraça."
+    },
+    {
+      "numero": 24,
+      "texto": "O preguiçoso põe sua mão no prato e nem sequer a leva à boca."
+    },
+    {
+      "numero": 25,
+      "texto": "Castiga o zombador e o simples se tornará sábio; repreende o homem sensato e ele compreenderá por quê."
+    },
+    {
+      "numero": 26,
+      "texto": "Quem maltrata seu pai, quem expulsa sua mãe é um filho infame do qual todos se envergonham."
+    },
+    {
+      "numero": 27,
+      "texto": "Cessa, meu filho, de ouvir as advertências e isto servirá para te afastares da sabedoria!"
+    },
+    {
+      "numero": 28,
+      "texto": "O testemunho falso zomba da justiça; a boca dos ímpios devora a iniquidade."
+    },
+    {
+      "numero": 29,
+      "texto": "As varas estão preparadas para os insolentes e os golpes para o dorso dos insensatos."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "19:1",
+      "texto": "Melhor é o pobre que anda em integridade do que o tolo que fala perversidades. Este versículo valoriza a retidão e a honestidade, mesmo em meio à pobreza, mais do que o sucesso obtido por meios enganosos (veja também Provérbios 28:6 e 1 Timóteo 6:6)."
+    },
+    {
+      "ref": "19:11",
+      "texto": "A sabedoria do homem o torna paciente; sua glória é ignorar as ofensas. A paciência e o perdão são virtudes sábias, permitindo que se evite conflitos desnecessários e promova a paz (veja também Tiago 1:19 e Efésios 4:2)."
+    },
+    {
+      "ref": "19:17",
+      "texto": "Quem trata bem os pobres empresta ao Senhor, e Ele o recompensará. A generosidade para com os necessitados é vista como um ato de bondade diante de Deus, que sempre retribui com bênçãos (veja também Mateus 25:40 e 2 Coríntios 9:6)."
+    },
+    {
+      "ref": "19:20",
+      "texto": "Ouça o conselho e aceite a instrução, e acabará sendo sábio. A disposição de aprender e aceitar orientação é o caminho para adquirir verdadeira sabedoria (veja também Provérbios 12:15 e Provérbios 15:22)."
+    },
+    {
+      "ref": "19:21",
+      "texto": "Muitos são os planos no coração do homem, mas o que prevalece é o propósito do Senhor. Este versículo enfatiza a soberania de Deus sobre nossos planos e projetos, nos lembrando de submeter tudo à vontade divina (veja também Tiago 4:13-15 e Salmo 33:11)."
+    }
+  ]
+}

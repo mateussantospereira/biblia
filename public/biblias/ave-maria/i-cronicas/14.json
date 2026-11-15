@@ -1,0 +1,104 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-cronicas",
+  "nome": "I Crônicas",
+  "testamento": "AT",
+  "capitulo": 14,
+  "totalVersiculos": 17,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-cronicas/14/",
+  "capturadoEm": "2026-11-15T09:13:14-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Hiram, rei de Tiro, enviou mensageiros a Davi, com madeira de cedro, pedreiros e carpinteiros para construir-lhe um palácio.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "E Davi reconheceu que o Senhor o confirmava rei de Israel, pois que seu reino era exaltado por causa de Israel, seu povo."
+    },
+    {
+      "numero": 3,
+      "texto": "Davi tomou ainda mulheres de Jerusalém e gerou filhos e filhas."
+    },
+    {
+      "numero": 4,
+      "texto": "Eis os nomes dos filhos que teve em Jerusalém: Samua, Soba, Natã, Salomão,"
+    },
+    {
+      "numero": 5,
+      "texto": "Jebaar, Elisua, Elifalet,"
+    },
+    {
+      "numero": 6,
+      "texto": "Noga, Nafeg, Jáfia,"
+    },
+    {
+      "numero": 7,
+      "texto": "Elisama, Baaliada e Elifalet."
+    },
+    {
+      "numero": 8,
+      "texto": "Quando os filisteus souberam que Davi tinha sido sagrado rei de todo o Israel, subiram todos para prendê-lo. Mas Davi foi informado e saiu-lhes ao encontro."
+    },
+    {
+      "numero": 9,
+      "texto": "Contudo, os filisteus que vinham espalharam-se pelo vale de Refaim."
+    },
+    {
+      "numero": 10,
+      "texto": "Davi consultou a Deus: “Posso atacar os filisteus? E tu os entregarás em minhas mãos?”. E o Senhor disse-lhe: “Vai! Eu os entregarei em tuas mãos”."
+    },
+    {
+      "numero": 11,
+      "texto": "Subiram, portanto, a Baal-Farasim e lá Davi os derrotou. Disse então ele: “Deus dispersou meus inimigos, por minha mão, como se dispersam as águas”. Por isso, esse lugar se denominou: Baal-Farasim."
+    },
+    {
+      "numero": 12,
+      "texto": "Ali abandonaram eles seus deuses. E Davi os mandou queimar."
+    },
+    {
+      "numero": 13,
+      "texto": "Os filisteus espalharam-se novamente pelo vale."
+    },
+    {
+      "numero": 14,
+      "texto": "Davi consultou de novo a Deus e este lhe respondeu: “Não te ponhas a persegui-los, mas desvia-te deles e os atacarás diante das amoreiras."
+    },
+    {
+      "numero": 15,
+      "texto": "Quando ouvires um ruído de passos nas copas das amoreiras, então começarás o combate, porque Deus sairá diante de ti para derrotar o exército dos filisteus”."
+    },
+    {
+      "numero": 16,
+      "texto": "Fez Davi o que Deus lhe ordenava e derrotou o exército dos filisteus desde Gabaon até Gazer."
+    },
+    {
+      "numero": 17,
+      "texto": "A fama de Davi espalhou-se por todos os países e o Senhor tornou-o temível para todas as nações."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "14:1-2",
+      "texto": "O rei Hirão de Tiro envia materiais e trabalhadores para construir um palácio para Davi, mostrando que até reis pagãos reconhecem o favor de Deus sobre ele. Isso demonstra o estabelecimento de Davi como líder escolhido por Deus (veja também 2 Samuel 5:11-12 e 1 Reis 5:1)."
+    },
+    {
+      "ref": "14:8-10",
+      "texto": "Os filisteus vêm atacar Davi, mas ele consulta o Senhor antes de agir. A confiança de Davi em buscar a orientação divina em tempos de guerra revela seu compromisso de seguir a vontade de Deus (veja também 2 Samuel 5:19 e Provérbios 3:5-6)."
+    },
+    {
+      "ref": "14:11",
+      "texto": "Deus concede a Davi uma vitória sobre os filisteus em Baal-Perazim. O nome do local significa \"Senhor das Brechas\", simbolizando o poder de Deus para romper barreiras e garantir vitórias ao Seu povo (veja também 2 Samuel 5:20 e Isaías 28:21)."
+    },
+    {
+      "ref": "14:12",
+      "texto": "Após a vitória, Davi ordena que os ídolos dos filisteus sejam queimados. Isso reforça a devoção de Davi ao monoteísmo e a rejeição de qualquer forma de idolatria (veja também Deuteronômio 7:5 e 2 Reis 23:24)."
+    },
+    {
+      "ref": "14:13-17",
+      "texto": "Quando os filisteus atacam novamente, Davi consulta o Senhor e segue uma estratégia diferente. A segunda vitória demonstra que cada batalha deve ser conduzida conforme a orientação de Deus, pois Ele pode agir de maneiras diferentes (veja também 2 Samuel 5:22-25 e 1 Crônicas 16:23-24)."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "romanos",
+  "nome": "Romanos",
+  "testamento": "NT",
+  "capitulo": 5,
+  "totalVersiculos": 21,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/romanos/5/",
+  "capturadoEm": "2026-11-15T09:27:41-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Justificados, pois, pela fé temos a paz com Deus, por meio de nosso Senhor Jesus Cristo.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Por ele é que tivemos acesso a essa graça, na qual estamos firmes, e nos gloriamos na esperança de possuir um dia a glória de Deus.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Não só isso, mas nos gloriamos até das tribulações. Pois sabemos que a tribulação produz a paciência,"
+    },
+    {
+      "numero": 4,
+      "texto": "a paciência prova a fidelidade e a fidelidade, comprovada, produz a esperança."
+    },
+    {
+      "numero": 5,
+      "texto": "E a esperança não engana. Porque o amor de Deus foi derramado em nossos corações pelo Espírito Santo que nos foi dado."
+    },
+    {
+      "numero": 6,
+      "texto": "Com efeito, quando éramos ainda fracos, Cristo a seu tempo morreu pelos ímpios.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "Com muita dificuldade, a gente aceitaria morrer por um justo, por um homem de bem, quiçá se consentiria em morrer."
+    },
+    {
+      "numero": 8,
+      "texto": "Mas eis aqui uma prova brilhante de amor de Deus por nós: quando éramos ainda pecadores, Cristo morreu por nós."
+    },
+    {
+      "numero": 9,
+      "texto": "Portanto, muito mais agora, que estamos justificados pelo seu sangue, seremos por ele salvos da ira."
+    },
+    {
+      "numero": 10,
+      "texto": "Se, quando éramos ainda inimigos, fomos reconciliados com Deus pela morte de seu Filho, com muito mais razão, estando já reconciliados, seremos salvos por sua vida."
+    },
+    {
+      "numero": 11,
+      "texto": "Ainda mais: nós nos gloriamos em Deus por nosso Senhor Jesus Cristo, por quem desde agora temos recebido a reconciliação!"
+    },
+    {
+      "numero": 12,
+      "texto": "Por isso, como por um só homem entrou o pecado no mundo, e pelo pecado a morte, assim a morte passou a todo o gênero humano, porque todos pecaram..."
+    },
+    {
+      "numero": 13,
+      "texto": "De fato, até à Lei, o mal estava no mundo. Mas o mal não é imputado quando não há Lei."
+    },
+    {
+      "numero": 14,
+      "texto": "No entanto, desde Adão até Moisés reinou a morte, mesmo sobre aqueles que não pecaram à imitação da transgressão de Adão (o qual é figura do que havia de vir).",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Mas, com o dom gratuito, não se dá o mesmo que com a falta. Pois se a falta de um só causou a morte de todos os outros, com muito mais razão o dom de Deus e o benefício da graça obtida por um só homem, Jesus Cristo, foram concedidos copiosamente a todos."
+    },
+    {
+      "numero": 16,
+      "texto": "Nem aconteceu com o dom o mesmo que com as consequências do pecado de um só: a falta de um só teve por consequência um veredicto de condenação, ao passo que, depois de muitas ofensas, o dom da graça atrai um juízo de justificação."
+    },
+    {
+      "numero": 17,
+      "texto": "Se pelo pecado de um só homem reinou a morte (por esse único homem), muito mais aqueles que receberam a abundância da graça e o dom da justiça reinarão na vida por um só, que é Jesus Cristo!"
+    },
+    {
+      "numero": 18,
+      "texto": "Portanto, como pelo pecado de um só a condenação se estendeu a todos os homens, assim por um único ato de justiça recebem todos os homens a justificação que dá a vida."
+    },
+    {
+      "numero": 19,
+      "texto": "Assim como pela desobediência de um só homem foram todos constituídos pecadores, assim pela obediência de um só todos se tornarão justos."
+    },
+    {
+      "numero": 20,
+      "texto": "Sobreveio a Lei para que abundasse o pecado. Mas onde abundou o pecado, superabundou a graça.",
+      "nota": true
+    },
+    {
+      "numero": 21,
+      "texto": "Assim como o pecado reinou para a morte, assim também a graça reinaria pela justiça para a vida eterna, por meio de Jesus Cristo, nosso Senhor."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "5:1-2",
+      "texto": "Justificados pela fé, os cristãos têm paz com Deus e acesso à Sua graça. A justificação não vem pelas obras, mas pela fé em Cristo, destacando a confiança nas promessas divinas (veja também Efésios 2:8-9 e Gálatas 2:16)."
+    },
+    {
+      "ref": "5:6-8",
+      "texto": "A morte de Cristo por nós, enquanto ainda éramos pecadores, demonstra o amor imensurável de Deus. A graça é dada a todos, não porque merecemos, mas por Sua misericórdia (veja também 1 João 4:9-10 e João 15:13)."
+    },
+    {
+      "ref": "5:12",
+      "texto": "O pecado entrou no mundo através de Adão, trazendo a morte a todos os homens. Este versículo estabelece o contraste entre o pecado original e a salvação trazida por Cristo (veja também Gênesis 3:6-19 e 1 Coríntios 15:22)."
+    },
+    {
+      "ref": "5:15-17",
+      "texto": "O dom da graça em Cristo é maior do que o pecado de Adão. A transgressão traz a morte, mas a graça de Deus, através de Jesus, traz a justificação e a vida eterna (veja também 1 Coríntios 15:45 e 2 Coríntios 5:19)."
+    },
+    {
+      "ref": "5:20-21",
+      "texto": "Onde o pecado abundou, superabundou a graça de Deus. Este contraste entre pecado e graça destaca a superabundância do amor divino, que é capaz de superar qualquer falha humana (veja também 1 João 1:7 e Tito 2:11)."
+    }
+  ]
+}

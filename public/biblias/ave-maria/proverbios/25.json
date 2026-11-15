@@ -1,0 +1,152 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "proverbios",
+  "nome": "Provérbios",
+  "testamento": "AT",
+  "capitulo": 25,
+  "totalVersiculos": 28,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/proverbios/25/",
+  "capturadoEm": "2026-11-15T09:19:34-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ainda alguns provérbios de Salomão, recolhidos pelos homens de Ezequias, rei de Judá."
+    },
+    {
+      "numero": 2,
+      "texto": "A glória de Deus é ocultar uma coisa; a glória dos reis é esquadrinhá-la."
+    },
+    {
+      "numero": 3,
+      "texto": "A altura do céu, a profundeza da terra são impenetráveis, bem como o coração dos reis."
+    },
+    {
+      "numero": 4,
+      "texto": "Tira as escórias da prata e terás um vaso para o ourives;"
+    },
+    {
+      "numero": 5,
+      "texto": "afasta o mau da presença do rei e seu trono se firmará na justiça."
+    },
+    {
+      "numero": 6,
+      "texto": "Não te faças de pretensioso diante do rei, não te ponhas no lugar dos grandes."
+    },
+    {
+      "numero": 7,
+      "texto": "É melhor que te digam: “Sobe aqui!”, do que seres humilhado diante de um personagem. O que teus olhos viram,",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "não o descubras com precipitação numa contenda, pois, no final das contas, que farás tu quando o outro te houver confundido?"
+    },
+    {
+      "numero": 9,
+      "texto": "Trata teu negócio com teu próximo de maneira a não revelar o segredo de outro,"
+    },
+    {
+      "numero": 10,
+      "texto": "para que não sejas repreendido por aquele que o ouviu nem incorras em descrédito irreparável."
+    },
+    {
+      "numero": 11,
+      "texto": "Maçãs de ouro sobre prata gravada: tais são as palavras oportunas.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Anel de ouro, joia de ouro fino: tal é o sábio que admoesta um ouvido atento."
+    },
+    {
+      "numero": 13,
+      "texto": "Frescor de neve no tempo da colheita, tal é um mensageiro fiel para quem o envia: ele restaura a alma de seu senhor."
+    },
+    {
+      "numero": 14,
+      "texto": "Nuvens e vento sem chuva: tal é o homem que se gaba falsamente de dar."
+    },
+    {
+      "numero": 15,
+      "texto": "Pela paciência o juiz se deixa aplacar: a língua que fala com brandura pode quebrantar ossos."
+    },
+    {
+      "numero": 16,
+      "texto": "Achaste mel? Come o que for suficiente: se comeres demais, tu o vomitarás."
+    },
+    {
+      "numero": 17,
+      "texto": "Põe raramente o pé na casa do vizinho: enfastiado de ti, ele te viria a aborrecer."
+    },
+    {
+      "numero": 18,
+      "texto": "Clava, espada, flecha penetrante: tal é o que usa de falso testemunho contra seu próximo."
+    },
+    {
+      "numero": 19,
+      "texto": "Dente arruinado, pé que resvala: tal é a confiança de um pérfido no dia da desventura."
+    },
+    {
+      "numero": 20,
+      "texto": "Tirar a capa num dia de frio, derramar vinagre numa ferida: isso faz aquele que canta canções a um coração atribulado.",
+      "nota": true
+    },
+    {
+      "numero": 21,
+      "texto": "Tem o teu inimigo fome? Dá-lhe de comer. Tem sede? Dá-lhe de beber:"
+    },
+    {
+      "numero": 22,
+      "texto": "assim amontoarás brasas ardentes sobre sua cabeça e o Senhor te recompensará.",
+      "nota": true
+    },
+    {
+      "numero": 23,
+      "texto": "O vento norte traz chuva e a língua detratora anuvia os semblantes."
+    },
+    {
+      "numero": 24,
+      "texto": "É melhor habitar um canto do terraço do que viver com uma mulher impertinente."
+    },
+    {
+      "numero": 25,
+      "texto": "Água fresca para uma garganta sedenta: tal é uma boa-nova vinda de terra longínqua."
+    },
+    {
+      "numero": 26,
+      "texto": "Fonte turva e manancial contaminado: tal é o justo que cede diante do ímpio."
+    },
+    {
+      "numero": 27,
+      "texto": "Comer mel em demasia não é bom: usa de moderação nas palavras elogiosas.",
+      "nota": true
+    },
+    {
+      "numero": 28,
+      "texto": "Como uma cidade desmantelada, sem muralhas: tal é o homem que não é senhor de si."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "25:2-3",
+      "texto": "A glória de Deus está em ocultar as coisas, enquanto a glória dos reis está em investigá-las. Isso ressalta a sabedoria divina e o papel dos governantes em buscar entendimento e justiça (veja também Romanos 11:33 e 1 Timóteo 2:2)."
+    },
+    {
+      "ref": "25:4-5",
+      "texto": "A pureza é comparada ao refino da prata, simbolizando que, assim como o metal é purificado ao ser removida a escória, o mal deve ser removido da liderança para que o trono se firme em justiça (veja também Salmo 101:6 e Isaías 1:25)."
+    },
+    {
+      "ref": "25:6-7",
+      "texto": "A humildade é exaltada, ao advertir que é melhor ser convidado a subir para um lugar de honra do que ser rebaixado. A sabedoria está em não buscar a exaltação própria (veja também Lucas 14:8-11 e Tiago 4:10)."
+    },
+    {
+      "ref": "25:11-12",
+      "texto": "Palavras sábias são comparadas a maçãs de ouro em bandejas de prata, indicando o valor de um conselho oportuno. Uma palavra bem colocada tem grande poder para edificar e transformar (veja também Efésios 4:29 e Colossenses 4:6)."
+    },
+    {
+      "ref": "25:21-22",
+      "texto": "A bondade para com os inimigos é incentivada, com a promessa de que isso \"amontoará brasas vivas sobre a cabeça deles\". Esse princípio ressalta a importância de responder ao mal com o bem (veja também Romanos 12:20-21 e Mateus 5:44)."
+    }
+  ]
+}

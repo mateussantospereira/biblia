@@ -1,0 +1,228 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "atos-dos-apostolos",
+  "nome": "Atos dos Apóstolos",
+  "testamento": "NT",
+  "capitulo": 10,
+  "totalVersiculos": 48,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/atos-dos-apostolos/10/",
+  "capturadoEm": "2026-11-15T09:27:17-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Havia em Cesareia um homem, por nome Cornélio, centurião da coorte que se chamava Itálica."
+    },
+    {
+      "numero": 2,
+      "texto": "Era religioso; ele e todos os de sua casa eram tementes a Deus. Dava muitas esmolas ao povo e orava constantemente.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Este homem viu claramente numa visão, pela hora nona do dia, aproximar-se dele um anjo de Deus e o chamar: “Cornélio!”."
+    },
+    {
+      "numero": 4,
+      "texto": "Cornélio fixou nele os olhos e, possuído de temor, perguntou: “Que há, Senhor?”. O anjo replicou: “As tuas orações e as tuas esmolas subiram à presença de Deus como uma oferta de lembrança.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Agora envia homens a Jope e faze vir aqui um certo Simão, que tem por sobrenome Pedro."
+    },
+    {
+      "numero": 6,
+      "texto": "Ele se acha hospedado em casa de Simão, um curtidor, cuja casa fica junto ao mar”."
+    },
+    {
+      "numero": 7,
+      "texto": "Quando se retirou, o anjo que lhe falara, chamou dois dos seus criados e um soldado temente ao Senhor, daqueles que estavam às suas ordens."
+    },
+    {
+      "numero": 8,
+      "texto": "Contou-lhes tudo e enviou-os a Jope."
+    },
+    {
+      "numero": 9,
+      "texto": "No dia seguinte, enquanto estavam em viagem e se aproximavam da cidade – pelo meio-dia –, Pedro subiu ao terraço da casa para fazer oração."
+    },
+    {
+      "numero": 10,
+      "texto": "Então, como sentisse fome, quis comer. Mas, enquanto lho preparavam, caiu em êxtase."
+    },
+    {
+      "numero": 11,
+      "texto": "Viu o céu aberto e descer uma coisa parecida com uma grande toalha que baixava do céu à terra, segura pelas quatro pontas."
+    },
+    {
+      "numero": 12,
+      "texto": "Nela havia de todos os quadrúpedes, dos répteis da terra e das aves do céu."
+    },
+    {
+      "numero": 13,
+      "texto": "Uma voz lhe falou: “Levanta-te, Pedro! Mata e come”."
+    },
+    {
+      "numero": 14,
+      "texto": "Disse Pedro: “De modo algum, Senhor, porque nunca comi coisa alguma profana e impura”.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Esta voz lhe falou pela segunda vez: “O que Deus purificou não chames tu de impuro”."
+    },
+    {
+      "numero": 16,
+      "texto": "Isto se repetiu três vezes e logo a toalha foi recolhida ao céu."
+    },
+    {
+      "numero": 17,
+      "texto": "Desconcertado, Pedro refletia consigo mesmo sobre o que significava a visão que tivera, quando os homens, enviados por Cornélio, se apresentaram à porta, perguntando pela casa de Simão."
+    },
+    {
+      "numero": 18,
+      "texto": "Eles chamaram e indagaram se ali estava hospedado Simão, com o sobrenome Pedro."
+    },
+    {
+      "numero": 19,
+      "texto": "Enquanto Pedro refletia na visão, disse o Espírito: “Eis aí três homens que te procuram."
+    },
+    {
+      "numero": 20,
+      "texto": "Levanta-te! Desce e vai com eles sem hesitar, porque sou eu quem os enviou”."
+    },
+    {
+      "numero": 21,
+      "texto": "Pedro desceu ao encontro dos homens e disse-lhes: “Aqui me tendes, sou eu a quem buscais. Qual é o motivo por que viestes aqui?."
+    },
+    {
+      "numero": 22,
+      "texto": "Responderam: “O centurião Cornélio, homem justo e temente a Deus, o qual goza de excelente reputação entre todos os judeus, recebeu de um santo anjo o aviso de te mandar chamar à sua casa e de ouvir as tuas palavras”."
+    },
+    {
+      "numero": 23,
+      "texto": "Então, Pedro os mandou entrar e hospedou-os. No dia seguinte, levantou-se e partiu com eles, e alguns dos irmãos de Jope o acompanharam."
+    },
+    {
+      "numero": 24,
+      "texto": "No outro, chegaram a Cesareia. Cornélio os estava esperando, tendo convidado os seus parentes e amigos mais íntimos."
+    },
+    {
+      "numero": 25,
+      "texto": "Quando Pedro estava para entrar, Cornélio saiu a recebê-lo e prostrou-se aos seus pés para adorá-lo."
+    },
+    {
+      "numero": 26,
+      "texto": "Pedro, porém, o ergueu, dizendo: “Levanta-te! Também eu sou um homem!”."
+    },
+    {
+      "numero": 27,
+      "texto": "E, falando com ele, entrou e achou ali muitas pessoas que se tinham reunido e disse:"
+    },
+    {
+      "numero": 28,
+      "texto": "“Vós sabeis que é proibido a um judeu aproximar-se de um estrangeiro ou ir à sua casa. Todavia, Deus me mostrou que nenhum homem deve ser considerado profano ou impuro.",
+      "nota": true
+    },
+    {
+      "numero": 29,
+      "texto": "Por isso, vim sem hesitar, logo que fui chamado. Pergunto, pois, por que motivo me chamastes”."
+    },
+    {
+      "numero": 30,
+      "texto": "Disse Cornélio: “Faz hoje quatro dias que estava eu a orar em minha casa, à hora nona, quando se pôs diante de mim um homem com vestes resplandecentes, que disse:"
+    },
+    {
+      "numero": 31,
+      "texto": "Cornélio, a tua oração foi atendida e Deus se lembrou de tuas esmolas."
+    },
+    {
+      "numero": 32,
+      "texto": "Envia alguém a Jope e manda vir Simão, que tem por sobrenome Pedro. Está hospedado perto do mar, em casa do curtidor Simão."
+    },
+    {
+      "numero": 33,
+      "texto": "Por isso, mandei chamar-te logo e felicito-te por teres vindo. Agora, pois, eis-nos todos reunidos na presença de Deus para ouvir tudo o que Deus te ordenou de nos dizer”.",
+      "nota": true
+    },
+    {
+      "numero": 34,
+      "texto": "Então, Pedro tomou a palavra e disse: “Em verdade, reconheço que Deus não faz distinção de pessoas,"
+    },
+    {
+      "numero": 35,
+      "texto": "mas em toda nação lhe é agradável aquele que o temer e fizer o que é justo."
+    },
+    {
+      "numero": 36,
+      "texto": "Deus enviou a sua palavra aos filhos de Israel, anunciando-lhes a Boa-Nova da paz, por meio de Jesus Cristo. Este é o Senhor de todos."
+    },
+    {
+      "numero": 37,
+      "texto": "Vós sabeis como tudo isso aconteceu na Judeia, depois de ter começado na Galileia, após o batismo que João pregou."
+    },
+    {
+      "numero": 38,
+      "texto": "Vós sabeis como Deus ungiu a Jesus de Nazaré com o Espírito Santo e com o poder, como ele andou fazendo o bem e curando todos os oprimidos do demônio, porque Deus estava com ele."
+    },
+    {
+      "numero": 39,
+      "texto": "E nós somos testemunhas de tudo o que fez na terra dos judeus e em Jerusalém. Eles o mataram, suspendendo-o em um madeiro."
+    },
+    {
+      "numero": 40,
+      "texto": "Mas Deus o ressuscitou ao terceiro dia e permitiu que aparecesse,"
+    },
+    {
+      "numero": 41,
+      "texto": "não a todo o povo, mas às testemunhas que Deus havia predestinado, a nós que comemos e bebemos com ele, depois que ressuscitou."
+    },
+    {
+      "numero": 42,
+      "texto": "Ele nos mandou pregar ao povo e testemunhar que é ele quem foi constituído por Deus juiz dos vivos e dos mortos."
+    },
+    {
+      "numero": 43,
+      "texto": "Dele todos os profetas dão testemunho, anunciando que todos os que nele creem recebem o perdão dos pecados por meio de seu nome”."
+    },
+    {
+      "numero": 44,
+      "texto": "Estando Pedro ainda a falar, o Espírito Santo desceu sobre todos os que ouviam a (santa) palavra."
+    },
+    {
+      "numero": 45,
+      "texto": "Os fiéis da circuncisão, que tinham vindo com Pedro, profundamente se admiraram, vendo que o dom do Espírito Santo era derramado também sobre os pagãos;"
+    },
+    {
+      "numero": 46,
+      "texto": "pois eles os ouviam falar em outras línguas e glorificar a Deus."
+    },
+    {
+      "numero": 47,
+      "texto": "Então, Pedro tomou a palavra: “Porventura pode-se negar a água do batismo a estes que receberam o Espírito Santo como nós?”."
+    },
+    {
+      "numero": 48,
+      "texto": "E mandou que fossem batizados em nome de Jesus Cristo. Rogaram-lhe então que ficasse com eles por alguns dias."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "10:1-8",
+      "texto": "Cornélio, um centurião romano, recebe uma visão divina que o instrui a chamar Pedro. Este é o início da abertura do evangelho aos gentios, quebrando barreiras culturais e religiosas (veja também Mateus 28:19 e Lucas 24:47)."
+    },
+    {
+      "ref": "10:9-16",
+      "texto": "Pedro tem uma visão em que Deus lhe mostra que não há mais impurezas, simbolizando a aceitação dos gentios. A visão reflete a expansão do evangelho além de Israel, para todas as nações (veja também Isaías 49:6 e Marcos 7:19)."
+    },
+    {
+      "ref": "10:34-43",
+      "texto": "Pedro prega a Cornélio e à sua casa sobre a salvação em Cristo, destacando que Deus não faz acepção de pessoas. A pregação de Pedro mostra que o evangelho é para todos, sem distinção de etnia ou status social (veja também Gálatas 3:28 e Atos 2:21)."
+    },
+    {
+      "ref": "10:44-48",
+      "texto": "O Espírito Santo desce sobre os gentios, evidenciando que a salvação em Cristo é para todos. Este é um marco importante na inclusão dos gentios na comunidade cristã (veja também Atos 2:4 e Efésios 2:14-18)."
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "jeremias",
+  "nome": "Jeremias",
+  "testamento": "AT",
+  "capitulo": 21,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/jeremias/21/",
+  "capturadoEm": "2026-11-15T09:22:41-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eis o que disse o Senhor a Jeremias, quando o rei Sedecias lhe enviou Fassur, filho de Melquias, e o sacerdote Sofonias, filho de Maasias, para dizerem a ele:",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "“Consulta o Senhor em nosso nome porque Nabucodonosor, rei da Babilônia, nos ataca. Talvez o Senhor queira renovar seus milagres a nosso favor, fazendo com que ele se afaste de nós”.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "“Eis” – respondeu-lhes Jeremias – “o que transmitireis a Sedecias:"
+    },
+    {
+      "numero": 4,
+      "texto": "Oráculo do Senhor, Deus de Israel: as armas que empunhais para o combate, fora dos muros, contra o rei da Babilônia e os caldeus que vos sitiam, vou reuni-las no interior desta cidade."
+    },
+    {
+      "numero": 5,
+      "texto": "Então, com toda a força de meu braço vigoroso, com furor, indignação e cólera, combaterei contra vós."
+    },
+    {
+      "numero": 6,
+      "texto": "Ferirei os habitantes desta cidade, homens e animais, que serão vítimas de grande peste."
+    },
+    {
+      "numero": 7,
+      "texto": "Em seguida – oráculo do Senhor –, Sedecias, rei de Judá, seus servos e o povo, e tudo quanto escapar da peste, da espada e da fome, eu os entregarei a Nabucodonosor, rei da Babilônia, a esses inimigos que lhes odeiam a vida. E eles os passarão a fio de espada, sem perdão, nem piedade ou misericórdia."
+    },
+    {
+      "numero": 8,
+      "texto": "Dirás então ao povo – oráculo do Senhor: eis que vos coloco na encruzilhada dos caminhos da vida e da morte."
+    },
+    {
+      "numero": 9,
+      "texto": "Aquele que ficar na cidade perecerá pela espada, pela fome ou pela peste; aquele que sair para entregar-se aos caldeus, que vos sitiam, viverá, e a vida a salvo será seu espólio."
+    },
+    {
+      "numero": 10,
+      "texto": "Fixei meus olhares sobre esta cidade, para sua desgraça e não para o bem – oráculo do Senhor. Cairá ela nas mãos do rei da Babilônia, e este a entregará às chamas.”"
+    },
+    {
+      "numero": 11,
+      "texto": "Eis o que dirás acerca da casa de Judá: Escutai a palavra do Senhor!"
+    },
+    {
+      "numero": 12,
+      "texto": "Casa de Davi, eis o que diz o Senhor: Praticai a justiça desde o nascer do dia, livrai o oprimido das mãos do opressor, para que meu furor não se inflame como o fogo, braseiro que não se pode extinguir, por causa da maldade de vosso procedimento."
+    },
+    {
+      "numero": 13,
+      "texto": "Eis-me aqui contra ti, habitante do vale, rochedo que dominas a planície. A vós que dizeis: “Quem nos virá atacar? Quem penetrará em nossos refúgios?”."
+    },
+    {
+      "numero": 14,
+      "texto": "Eu vos castigarei – oráculo do Senhor –, deitarei fogo à sua floresta e seus arredores serão devorados."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "21:1-2",
+      "texto": "O rei Zedequias pede orientação a Jeremias, buscando uma resposta de Deus sobre a destruição iminente de Jerusalém. A falha dos governantes em se voltar para Deus é um tema recorrente, mostrando que confiar em poder humano em tempos de crise não é eficaz (veja também 2 Crônicas 36:12 e Salmo 118:8-9)."
+    },
+    {
+      "ref": "21:3-7",
+      "texto": "Deus revela a Zedequias que a destruição de Jerusalém será inevitável, com a espada, fome e pestilência. Essa mensagem destaca a seriedade do juízo divino e a realidade das consequências do pecado e da desobediência (veja também Ezequiel 7:3 e Mateus 24:2)."
+    },
+    {
+      "ref": "21:8-10",
+      "texto": "Deus oferece uma escolha ao povo: a vida através da rendição à Babilônia ou a morte pela resistência. Isso revela a graça de Deus, mesmo em um tempo de juízo, dando ao povo a oportunidade de escolher a paz (veja também Deuteronômio 30:19-20 e Lucas 13:34-35)."
+    },
+    {
+      "ref": "21:11-14",
+      "texto": "A mensagem de Deus para a casa real de Davi é clara: se forem justos, Deus protegerá Jerusalém, mas se persistirem no mal, Jerusalém será destruída. A responsabilidade dos líderes é central para o bem-estar espiritual e físico do povo (veja também Isaías 1:16-17 e 1 Timóteo 2:1-2)."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "lamentacoes",
+  "nome": "Lamentações",
+  "testamento": "AT",
+  "capitulo": 1,
+  "totalVersiculos": 22,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/lamentacoes/1/",
+  "capturadoEm": "2026-11-15T09:23:14-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Álef: Como está abandonada a cidade tão povoada! Assemelha-se a uma viúva a grande entre as nações. Rainha entre as províncias, ficou sujeita ao tributo.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Bet: Ela chora pela noite adentro, lágrimas lhe inundam as faces, ninguém mais a consola de quantos a amavam. Seus amigos todos a traíram, e se tornaram seus inimigos.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Guímel: Judá partiu para o exílio em miséria e dura servidão. Habita entre as nações sem achar repouso. Atingiram-no seus perseguidores entre as suas fronteiras."
+    },
+    {
+      "numero": 4,
+      "texto": "Dálet: Estão de luto os caminhos de Sião, e ninguém mais vem às suas festas. Suas portas todas estão desertas, gemem seus sacerdotes, afligem-se as virgens, e ela mesma vive na amargura."
+    },
+    {
+      "numero": 5,
+      "texto": "Hê: Apossaram-se dela seus opressores, e tranquilos vivem seus inimigos, pois o Senhor a aflige por causa do número de seus crimes. Partiram cativos os seus filhos diante do opressor."
+    },
+    {
+      "numero": 6,
+      "texto": "Vaw: Desapareceu da filha de Sião toda a sua glória. Seus príncipes se tornaram como cervos que não encontraram pastagens e que fogem, esgotados, diante dos que os perseguem."
+    },
+    {
+      "numero": 7,
+      "texto": "Záin: Nestes dias de males e vida errante, recorda-se Jerusalém das delícias dos tempos idos. Agora que seu povo sucumbiu sob os golpes do inimigo e ninguém vem socorrê-la! Olham-na seus inimigos, e zombam de sua devastação."
+    },
+    {
+      "numero": 8,
+      "texto": "Het: Graves foram os pecados de Jerusalém: ela ficou uma imundície. Quem a honrava, agora a despreza porque lhe viram a nudez. E ela geme e esconde o rosto."
+    },
+    {
+      "numero": 9,
+      "texto": "Tet: Vê-se sua mancha sobre suas vestes. Ela não previra esse fim. É imensa a sua decadência, e ninguém vem consolá-la. “Olhai, Senhor, para a minha miséria, porque o inimigo se ensoberbece.”"
+    },
+    {
+      "numero": 10,
+      "texto": "Yod: O adversário lançou a mão sobre todos os seus tesouros. E ela viu os pagãos penetrarem em seu santuário, aqueles dos quais dissestes que não entrariam em vossa assembleia."
+    },
+    {
+      "numero": 11,
+      "texto": "Kaf: Geme todo o seu povo à procura de pão. Por víveres troca suas joias, a fim de recuperar as forças. “Vede, Senhor, e considerai o aviltamento a que cheguei!”"
+    },
+    {
+      "numero": 12,
+      "texto": "Lámed: Ó vós todos, que passais pelo caminho: olhai e julgai se existe dor igual à dor que me atormenta, a mim que o Senhor feriu no dia de sua ardente cólera.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Mem: Até aos meus ossos lançou ele do alto um fogo que os devora. Sob meus passos estendeu redes e me fez cair violentamente, enchendo-me de pavor. Eu ando amargurado o dia inteiro!"
+    },
+    {
+      "numero": 14,
+      "texto": "Nun: O jugo dos meus crimes está ligado pelas suas mãos. Pesa-me ao pescoço um feixe que faz vacilar minha força. O Senhor me entregou em mãos das quais não posso libertar-me.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Sámec: Rejeitou o Senhor todos os bravos que viviam em meus muros. Enviou contra mim um exército, a fim de abater minha jovem elite. O Senhor esmagou no lagar a virgem, filha de Judá."
+    },
+    {
+      "numero": 16,
+      "texto": "Áin: Eis o motivo por que choro; fundem-se em lágrimas os meus olhos, porque ninguém a meu lado me consola, nem me alenta. Vivem consternados os meus filhos, porque triunfa o inimigo."
+    },
+    {
+      "numero": 17,
+      "texto": "Pê: Sião estende as suas mãos sem que ninguém a console. Mandou o Senhor contra Jacó inimigos sem conta. Jerusalém se tornou entre eles objeto de aversão."
+    },
+    {
+      "numero": 18,
+      "texto": "Tsade: O Senhor é justo, porque fui rebelde à sua voz. Escutai todos vós, ó povos, e vede a minha dor. Minhas virgens e meus jovens foram conduzidos para o exílio.",
+      "nota": true
+    },
+    {
+      "numero": 19,
+      "texto": "Qof: Implorei a meus amigos e eles me iludiram. Meus sacerdotes e os anciãos pereceram na cidade enquanto buscavam alimento para revigorar as forças."
+    },
+    {
+      "numero": 20,
+      "texto": "Resh: Vede, Senhor, a minha angústia! Tremem minhas entranhas, e meu coração está perturbado por causa de minhas revoltas. De fora mata a espada, de dentro alastra a morte."
+    },
+    {
+      "numero": 21,
+      "texto": "Shin: Meus suspiros são ouvidos sem que ninguém me console. Meus inimigos, vendo minha ruína, sentem-se felizes com a vossa intervenção. Fazei vir o dia por vós predito! Que a mesma sorte lhes advenha!"
+    },
+    {
+      "numero": 22,
+      "texto": "Taw: Que todos os seus crimes vos estejam presentes! Tratai-os como a mim me tratastes por todos os meus crimes! Porque não cessam meus gemidos, e está doente meu coração."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:1-2",
+      "texto": "A cidade de Jerusalém é personificada como uma viúva, em lamento pela sua desolação. A imagem de Jerusalém desolada é um reflexo da dor do exílio e da perda da presença de Deus. Essa passagem destaca a consequência do pecado e a quebra do pacto com Deus (veja também Jeremias 9:19-20 e 2 Crônicas 36:15-16)."
+    },
+    {
+      "ref": "1:3-5",
+      "texto": "A cidade sofre as consequências da destruição causada pelos babilônios. A dor de Jerusalém é aumentada pela falta de conforto e ajuda. Esse sofrimento revela a gravidade do juízo de Deus sobre o pecado de Israel (veja também Deuteronômio 28:15 e Ezequiel 39:23-24)."
+    },
+    {
+      "ref": "1:6-7",
+      "texto": "A perda das festas e celebrações em Jerusalém é uma evidência da destruição espiritual e social que a cidade sofreu. Isso ilustra como o pecado afasta o povo de Deus e tira dele as alegrias da comunhão e adoração (veja também Amós 5:21-24 e Isaías 1:11-15)."
+    },
+    {
+      "ref": "1:8-10",
+      "texto": "A culpa de Jerusalém é reconhecida, e a cidade é acusada de ter pecado contra Deus. Isso revela a importância do arrependimento, pois a negação do pecado leva a um afastamento irreparável de Deus (veja também Jeremias 14:7 e 1 João 1:9)."
+    },
+    {
+      "ref": "1:11-12",
+      "texto": "A cidade clama por ajuda, mas percebe que o juízo de Deus é imutável. Isso reflete a angústia de estar longe de Deus, sem saber como reverter a situação de abandono espiritual (veja também Salmo 42:3 e Jeremias 2:13)."
+    }
+  ]
+}

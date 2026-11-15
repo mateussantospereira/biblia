@@ -1,0 +1,118 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 26,
+  "totalVersiculos": 21,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/26/",
+  "capturadoEm": "2026-11-15T09:21:39-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Naquele tempo, será cantado este cântico na terra de Judá: “Nós vimos uma cidade forte, em que se pôs por proteção muro e antemuro."
+    },
+    {
+      "numero": 2,
+      "texto": "Abri as portas, deixai entrar um povo justo, que respeita a fidelidade,"
+    },
+    {
+      "numero": 3,
+      "texto": "que tem caráter firme e conserva a paz, porque tem confiança em vós."
+    },
+    {
+      "numero": 4,
+      "texto": "Tende sempre confiança no Senhor, porque o Senhor é o rochedo perene."
+    },
+    {
+      "numero": 5,
+      "texto": "Ele derrubou os que habitavam nas alturas e destruiu a cidade soberba; derrubou-a por terra e ao nível do chão a reduziu."
+    },
+    {
+      "numero": 6,
+      "texto": "Ela é calcada aos pés pela plebe, sob os passos dos indigentes."
+    },
+    {
+      "numero": 7,
+      "texto": "O caminho do justo é reto; vós aplanais a senda do justo."
+    },
+    {
+      "numero": 8,
+      "texto": "Seguindo a vereda de vossos juízos, Senhor, nós vos esperamos; por vosso nome e vossa memória nossa alma aspira."
+    },
+    {
+      "numero": 9,
+      "texto": "Minha alma vos deseja durante a noite e meu espírito vos procura desde a manhã. Quando vossos juízos se exercem sobre a terra, os habitantes do mundo aprendem a justiça."
+    },
+    {
+      "numero": 10,
+      "texto": "Porém, se se perdoar o ímpio, ele não aprenderá a justiça; na terra da retidão ele se entregará ao mal e não verá a majestade do Senhor."
+    },
+    {
+      "numero": 11,
+      "texto": "Senhor, vossa mão está levantada sem que o percebam. Que vejam vosso ardente amor por vosso povo, e sejam confundidos; e que o fogo, bom para os vossos inimigos, os devore."
+    },
+    {
+      "numero": 12,
+      "texto": "Senhor, proporcionai-nos a paz! Pois vós nos tendes tratado segundo o nosso procedimento.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Senhor, nosso Deus, outros senhores, além de vós, nos têm dominado, mas não queremos reconhecer outro senão vós."
+    },
+    {
+      "numero": 14,
+      "texto": "Os mortos não reviverão, as sombras não ressuscitarão, porque vós os castigastes e destruístes e apagastes até sua memória."
+    },
+    {
+      "numero": 15,
+      "texto": "Aumentai a nação, Senhor, aumentai a nação, manifestai vossa grandeza, e dilatai as fronteiras da nação."
+    },
+    {
+      "numero": 16,
+      "texto": "Senhor, na tribulação, nós vos buscamos, e clamamos a vós na angústia em que vosso castigo nos abate."
+    },
+    {
+      "numero": 17,
+      "texto": "Como uma mulher grávida, prestes a dar à luz, se retorce e grita em suas dores, assim estamos diante de vós, Senhor:"
+    },
+    {
+      "numero": 18,
+      "texto": "nós concebemos e sofremos para dar à luz ao vento, sem poder dar a salvação à nossa terra; não nasceram novos habitantes no mundo.",
+      "nota": true
+    },
+    {
+      "numero": 19,
+      "texto": "Que os vossos mortos revivam! Que seus cadáveres ressuscitem! Que despertem e cantem aqueles que jazem sepultos, porque vosso orvalho é um orvalho de luz e a terra restituirá o dia às sombras.”"
+    },
+    {
+      "numero": 20,
+      "texto": "“Vai, povo meu, entra nos teus quartos, fecha atrás de ti as portas. Esconde-te por alguns instantes até que a cólera passe,"
+    },
+    {
+      "numero": 21,
+      "texto": "porque o Senhor vai sair de sua morada para punir os crimes dos habitantes da terra; porque a terra fará brotar o sangue que ela bebeu, e não ocultará mais os corpos dos assassinados.”",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "26:1-4",
+      "texto": "Isaías descreve um cântico de confiança no Senhor, que é uma Rocha eterna. Essa passagem encoraja a firmeza de espírito e a fé em Deus como fonte de segurança e paz (veja também Salmo 62:6-8 e Filipenses 4:7)."
+    },
+    {
+      "ref": "26:7-9",
+      "texto": "Os justos esperam pelo Senhor com anseio e buscam Sua justiça. Essa busca reflete a profunda conexão entre fé e retidão (veja também Mateus 5:6 e Salmo 63:1)."
+    },
+    {
+      "ref": "26:12-13",
+      "texto": "Deus é reconhecido como o autor da paz e o verdadeiro governante do Seu povo. Os ídolos e outros senhores perdem sua influência diante da supremacia divina (veja também Salmo 29:11 e Filipenses 2:10-11)."
+    },
+    {
+      "ref": "26:19",
+      "texto": "A promessa da ressurreição traz consolo aos que esperam em Deus. A vida eterna é destacada como parte do plano de redenção (veja também Daniel 12:2 e João 11:25)."
+    }
+  ]
+}

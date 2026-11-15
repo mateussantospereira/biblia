@@ -1,0 +1,56 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 123,
+  "totalVersiculos": 8,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/123/",
+  "capturadoEm": "2026-11-15T09:18:09-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cântico das peregrinações. De Davi. Se o Senhor não tivesse estado conosco, sim, diga-o Israel,",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "se o Senhor não tivesse estado conosco, os homens que se insurgiram contra nós"
+    },
+    {
+      "numero": 3,
+      "texto": "teriam então nos devorado vivos. Quando seu furor se desencadeou contra nós,"
+    },
+    {
+      "numero": 4,
+      "texto": "as águas nos teriam submergido. Uma torrente teria passado sobre nós."
+    },
+    {
+      "numero": 5,
+      "texto": "Então, nos teriam recoberto as ondas intumescidas."
+    },
+    {
+      "numero": 6,
+      "texto": "Bendito seja o Senhor, que não nos entregou como presa aos seus dentes."
+    },
+    {
+      "numero": 7,
+      "texto": "Nossa alma escapou como um pássaro, dos laços do caçador. Rompeu-se a armadilha, e nos achamos livres."
+    },
+    {
+      "numero": 8,
+      "texto": "Nosso socorro está no nome do Senhor, criador do céu e da terra."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "123:1-2",
+      "texto": "O salmista eleva seus olhos ao Senhor, esperando por Sua misericórdia, assim como os servos esperam por instruções de seus mestres. Esse gesto de dependência simboliza a confiança total em Deus para receber graça e direção (veja também Salmo 25:15 e Hebreus 12:2)."
+    },
+    {
+      "ref": "123:3-4",
+      "texto": "O salmista clama por misericórdia, expressando o cansaço causado pelo desprezo e zombaria dos arrogantes. A oração reflete a dor do povo de Deus diante da opressão, mas também a esperança na compaixão divina (veja também Êxodo 3:7-8 e 2 Coríntios 12:9)."
+    }
+  ]
+}

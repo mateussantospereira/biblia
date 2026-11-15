@@ -1,0 +1,165 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "genesis",
+  "nome": "Gênesis",
+  "testamento": "AT",
+  "capitulo": 5,
+  "totalVersiculos": 32,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/genesis/5/",
+  "capturadoEm": "2026-11-15T09:06:58-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Este é o livro da história da família de Adão. Quando Deus criou o homem, ele o fez à imagem de Deus."
+    },
+    {
+      "numero": 2,
+      "texto": "Criou-os homem e mulher, e os abençoou, e deu-lhes o nome de homem no dia em que os criou."
+    },
+    {
+      "numero": 3,
+      "texto": "Adão viveu cento e trinta anos, e gerou um filho à sua semelhança, à sua imagem, e deu-lhe o nome de Set."
+    },
+    {
+      "numero": 4,
+      "texto": "Depois de haver gerado Set, Adão viveu oitocentos anos e gerou filhos e filhas."
+    },
+    {
+      "numero": 5,
+      "texto": "Todo o tempo que Adão viveu foi de novecentos e trinta anos. E depois disso morreu."
+    },
+    {
+      "numero": 6,
+      "texto": "Set viveu cento e cinco anos, e depois gerou Enós."
+    },
+    {
+      "numero": 7,
+      "texto": "E depois do nascimento de Enós, viveu ainda oitocentos e sete anos e gerou filhos e filhas."
+    },
+    {
+      "numero": 8,
+      "texto": "A duração total da vida de Set foi de novecentos e doze anos; e depois disso morreu."
+    },
+    {
+      "numero": 9,
+      "texto": "Enós viveu noventa anos, e depois gerou Cainã."
+    },
+    {
+      "numero": 10,
+      "texto": "E depois do nascimento de Cainã, Enós viveu ainda oitocentos e quinze anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 11,
+      "texto": "E o tempo da vida de Enós foi de novecentos e cinco anos; e morreu."
+    },
+    {
+      "numero": 12,
+      "texto": "Cainã viveu setenta anos, e depois gerou Malaleel."
+    },
+    {
+      "numero": 13,
+      "texto": "Após o nascimento de Malaleel, Cainã viveu ainda oitocentos e quarenta anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 14,
+      "texto": "Todo o tempo da vida de Cainã foi de novecentos e dez anos; e morreu."
+    },
+    {
+      "numero": 15,
+      "texto": "Malaleel viveu sessenta e cinco anos, e depois gerou Jared."
+    },
+    {
+      "numero": 16,
+      "texto": "Após o nascimento de Jared, Malaleel viveu ainda oitocentos e trinta anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 17,
+      "texto": "Todo o tempo da vida de Malaleel foi de oitocentos e noventa e cinco anos; e morreu."
+    },
+    {
+      "numero": 18,
+      "texto": "Jared viveu cento e sessenta e dois anos e gerou Henoc."
+    },
+    {
+      "numero": 19,
+      "texto": "Após o nascimento de Henoc, Jared viveu ainda oitocentos anos e gerou filhos e filhas."
+    },
+    {
+      "numero": 20,
+      "texto": "Todo o tempo da vida de Jared foi de novecentos e sessenta e dois anos; e morreu."
+    },
+    {
+      "numero": 21,
+      "texto": "Henoc viveu sessenta e cinco anos e gerou Matusalém."
+    },
+    {
+      "numero": 22,
+      "texto": "Após o nascimento de Matusalém, Henoc andou com Deus durante trezentos anos e gerou filhos e filhas."
+    },
+    {
+      "numero": 23,
+      "texto": "A duração total da vida de Henoc foi de trezentos e sessenta e cinco anos."
+    },
+    {
+      "numero": 24,
+      "texto": "Henoc andou com Deus e desapareceu, porque Deus o levou.",
+      "nota": true
+    },
+    {
+      "numero": 25,
+      "texto": "Matusalém viveu cento e oitenta e sete anos, e gerou Lamec."
+    },
+    {
+      "numero": 26,
+      "texto": "Após o nascimento de Lamec, Matusalém viveu ainda setecentos e oitenta e dois anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 27,
+      "texto": "A duração total da vida de Matusalém foi de novecentos e sessenta e nove anos; e morreu."
+    },
+    {
+      "numero": 28,
+      "texto": "Lamec viveu cento e oitenta e dois anos, e gerou um filho,"
+    },
+    {
+      "numero": 29,
+      "texto": "a quem deu o nome de Noé, dizendo: “Este nos trará, em nossas fadigas e no duro labor de nossas mãos, um alívio tirado da terra mesma que o Senhor amaldiçoou”.",
+      "nota": true
+    },
+    {
+      "numero": 30,
+      "texto": "Após o nascimento de Noé, Lamec viveu ainda quinhentos e noventa e cinco anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 31,
+      "texto": "A duração total da vida de Lamec foi de setecentos e setenta e sete anos; e morreu."
+    },
+    {
+      "numero": 32,
+      "texto": "Com a idade de quinhentos anos, Noé gerou Sem, Cam e Jafé."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "5:1-3",
+      "texto": "A genealogia de Adão destaca a importância da linhagem e da continuidade da humanidade. A menção de Sete como descendente de Adão revela o plano de Deus para preservar a verdadeira adoração em meio à corrupção (veja também Lucas 3:38 e Hebreus 11:4)."
+    },
+    {
+      "ref": "5:4-20",
+      "texto": "O registro das idades dos patriarcas evidencia a longevidade e a benção de Deus sobre a humanidade antes do dilúvio. Isso serve como um testemunho da bondade e misericórdia divina, permitindo que a humanidade se multiplique (veja também Gênesis 6:3 e Salmo 90:10)."
+    },
+    {
+      "ref": "5:21-24",
+      "texto": "A vida de Enoque é notável porque ele \"andou com Deus\" e foi levado por Deus, simbolizando a comunhão íntima entre o ser humano e o Criador. Isso aponta para a possibilidade de um relacionamento pessoal com Deus (veja também Hebreus 11:5 e Gênesis 6:9)."
+    },
+    {
+      "ref": "5:25-32",
+      "texto": "A descrição de Noé como \"conforto\" para o povo enfatiza o papel de Noé como um precursor da salvação em meio ao juízo. Sua vida e missão são um reflexo da esperança de redenção para a humanidade (veja também Gênesis 6:8 e 2 Pedro 2:5)."
+    },
+    {
+      "ref": "5:32",
+      "texto": "O nome \"Noé\" significa descanso ou consolo, simbolizando a expectativa de um novo começo. Isso aponta para a promessa de Deus de restaurar a criação através de Noé, enfatizando o tema da esperança na narrativa bíblica (veja também Romanos 15:13 e Gênesis 9:1)."
+    }
+  ]
+}

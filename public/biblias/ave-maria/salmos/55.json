@@ -1,0 +1,93 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 55,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/55/",
+  "capturadoEm": "2026-11-15T09:16:58-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. Conforme: “Muda pomba de longínquas terras”. Cântico de Davi, quando vai para junto dos filisteus, em Get.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Tende piedade de mim, ó Deus, porque aos pés me pisam os homens; sem cessar eles me oprimem combatendo."
+    },
+    {
+      "numero": 3,
+      "texto": "Meus inimigos continuamente me espezinham, são numerosos os que me fazem guerra."
+    },
+    {
+      "numero": 4,
+      "texto": "Ó Altíssimo, quando o terror me assalta, é em vós que eu ponho a minha confiança."
+    },
+    {
+      "numero": 5,
+      "texto": "É em Deus, cuja promessa eu proclamo, sim, é em Deus que eu ponho minha esperança; nada temo: que mal me pode fazer um ser de carne?"
+    },
+    {
+      "numero": 6,
+      "texto": "O dia inteiro eles me difamam, seus pensamentos todos são para o meu mal;"
+    },
+    {
+      "numero": 7,
+      "texto": "Reúnem-se, armam ciladas, observam meus passos, e odeiam a minha vida."
+    },
+    {
+      "numero": 8,
+      "texto": "Tratai-os segundo a sua iniquidade. Ó meu Deus, em vossa cólera, prostrai esses povos."
+    },
+    {
+      "numero": 9,
+      "texto": "Vós conheceis os caminhos do meu exílio, vós recolhestes minhas lágrimas em vosso cantil; não está tudo escrito em vosso livro?",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Sempre que vos invocar, meus inimigos recuarão: bem sei que Deus está por mim."
+    },
+    {
+      "numero": 11,
+      "texto": "É em Deus, cuja promessa eu proclamo,"
+    },
+    {
+      "numero": 12,
+      "texto": "é em Deus que eu ponho minha esperança; nada temo: que mal me pode fazer um ser de carne?"
+    },
+    {
+      "numero": 13,
+      "texto": "Os votos que fiz, ó Deus, devo cumpri-los; eu vos oferecerei um sacrifício de louvor,"
+    },
+    {
+      "numero": 14,
+      "texto": "porque da morte livrastes a minha vida, e da queda preservastes os meus pés, para que eu ande na presença de Deus, na luz dos vivos."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "55:1",
+      "texto": "O pedido do salmista para que Deus ouça sua oração mostra a urgência e a sinceridade de seu clamor. Isso ilustra a confiança que devemos ter em apresentar nossas preocupações a Deus (veja também Salmo 34:17 e 1 Pedro 5:7)."
+    },
+    {
+      "ref": "55:4-5",
+      "texto": "A angústia do salmista é expressa através de uma descrição vívida de suas emoções. A vulnerabilidade na oração é uma parte importante da vida de fé, pois Deus se importa com nossos sentimentos (veja também Salmo 42:5 e Salmo 61:2)."
+    },
+    {
+      "ref": "55:12-14",
+      "texto": "O salmista lamenta a traição de um amigo íntimo, ressaltando a dor que vem das relações quebradas. Isso aponta para a necessidade de comunhão e integridade nas relações humanas (veja também Salmo 41:9 e Lucas 22:48)."
+    },
+    {
+      "ref": "55:16-17",
+      "texto": "A declaração de que o salmista invocará a Deus mostra a importância da oração constante. A oração deve ser um aspecto vital da vida, especialmente em tempos de crise (veja também 1 Tessalonicenses 5:17 e Efésios 6:18)."
+    },
+    {
+      "ref": "55:22",
+      "texto": "O convite a lançar sobre o Senhor a carga e a promessa de que Ele sustentará refletem a esperança e a liberdade que encontramos em Cristo. O alívio que Deus proporciona é fundamental para a saúde espiritual (veja também Salmo 37:5 e Mateus 11:28-30)."
+    }
+  ]
+}

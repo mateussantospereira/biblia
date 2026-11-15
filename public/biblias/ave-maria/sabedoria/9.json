@@ -1,0 +1,106 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sabedoria",
+  "nome": "Sabedoria",
+  "testamento": "AT",
+  "capitulo": 9,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sabedoria/9/",
+  "capturadoEm": "2026-11-15T09:20:10-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "“Deus de nossos pais, e Senhor de misericórdia, que todas as coisas criastes pela vossa palavra,"
+    },
+    {
+      "numero": 2,
+      "texto": "e que, por vossa sabedoria, formastes o homem para ser o senhor de todas as vossas criaturas,"
+    },
+    {
+      "numero": 3,
+      "texto": "governar o mundo na santidade e na justiça, e proferir seu julgamento na retidão de sua alma,"
+    },
+    {
+      "numero": 4,
+      "texto": "dai-me a sabedoria que partilha do vosso trono, e não me rejeiteis como indigno de ser um de vossos filhos."
+    },
+    {
+      "numero": 5,
+      "texto": "Sou, com efeito, vosso servo e filho de vossa serva, um homem fraco, cuja existência é breve, incapaz de compreender vosso julgamento e vossas leis;",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "porque qualquer homem, mesmo perfeito, entre os homens, não será nada, se lhe falta a sabedoria que vem de vós."
+    },
+    {
+      "numero": 7,
+      "texto": "Ora, vós me escolhestes para ser rei de vosso povo e juiz de vossos filhos e vossas filhas."
+    },
+    {
+      "numero": 8,
+      "texto": "Vós me ordenastes construir um templo na vossa montanha santa e um altar na cidade em que habitais: imagem da sagrada habitação que preparastes desde o princípio.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Mas ao vosso lado está a sabedoria que conhece vossas obras; ela estava presente quando fizestes o mundo, ela sabe o que vos é agradável, e o que se conforma às vossas ordens."
+    },
+    {
+      "numero": 10,
+      "texto": "Fazei-a, pois, descer de vosso santo céu, e enviai-a do trono de vossa glória, para que, junto de mim, tome parte em meus trabalhos, e para que eu saiba o que vos agrada."
+    },
+    {
+      "numero": 11,
+      "texto": "Com efeito, ela sabe e conhece todas as coisas; prudentemente guiará meus passos e me protegerá no brilho de sua glória."
+    },
+    {
+      "numero": 12,
+      "texto": "Assim, minhas obras vos serão agradáveis; governarei vosso povo com justiça, e serei digno do trono de meu pai."
+    },
+    {
+      "numero": 13,
+      "texto": "Que homem, pois, pode conhecer os desígnios de Deus, e penetrar nas determinações do Senhor?"
+    },
+    {
+      "numero": 14,
+      "texto": "Tímidos são os pensamentos dos mortais, e incertas as nossas concepções;"
+    },
+    {
+      "numero": 15,
+      "texto": "porque o corpo corruptível torna pesada a alma, e a morada terrestre oprime o espírito carregado de cuidados."
+    },
+    {
+      "numero": 16,
+      "texto": "Mal podemos compreender o que está sobre a terra, dificilmente encontramos o que temos ao alcance da mão. Quem, portanto, pode descobrir o que se passa no céu?"
+    },
+    {
+      "numero": 17,
+      "texto": "E quem conhece vossas intenções, se vós não lhe dais a sabedoria, e se do mais alto dos céus vós não lhe enviais vosso Espírito Santo?"
+    },
+    {
+      "numero": 18,
+      "texto": "Assim se tornaram direitas as veredas dos que estão na terra; os homens aprenderam as coisas que vos agradam e pela sabedoria foram salvos.”",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "9:1-5",
+      "texto": "A oração de Salomão revela a busca por sabedoria e entendimento. Ele reconhece que a verdadeira sabedoria vem de Deus, enfatizando a necessidade de uma relação íntima com o Criador para discernir a verdade e governar sabiamente (veja também Tiago 1:5 e Provérbios 2:6)."
+    },
+    {
+      "ref": "9:6-10",
+      "texto": "Salomão reflete sobre sua incapacidade de governar sem a ajuda divina. Isso mostra a humildade necessária para liderar e a importância da sabedoria divina em todas as decisões, apontando para a dependência do ser humano em relação a Deus (veja também Salmo 127:1 e 1 Coríntios 1:25)."
+    },
+    {
+      "ref": "9:11-12",
+      "texto": "A sabedoria é descrita como uma força que mantém o mundo em ordem. A sua presença é essencial para a harmonia da criação, revelando como a sabedoria de Deus é fundamental para a estrutura do universo (veja também Colossenses 1:16-17 e Salmo 104:24)."
+    },
+    {
+      "ref": "9:13-18",
+      "texto": "O capítulo conclui com uma afirmação sobre a insignificância humana diante da grandeza divina. Reconhecer essa verdade leva à reverência e à busca pela sabedoria que vem de Deus, sublinhando a fragilidade da sabedoria humana em comparação com a sabedoria divina (veja também Romanos 11:33 e Salmo 8:4-5)."
+    }
+  ]
+}

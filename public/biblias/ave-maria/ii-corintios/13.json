@@ -1,0 +1,80 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ii-corintios",
+  "nome": "II Coríntios",
+  "testamento": "NT",
+  "capitulo": 13,
+  "totalVersiculos": 13,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ii-corintios/13/",
+  "capturadoEm": "2026-11-15T09:28:21-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "É esta a terceira vez que vou visitar-vos. Pelo depoimento de duas ou três testemunhas se resolve toda a questão.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Quando de minha segunda visita, já adverti àqueles que pecaram, e hoje, que estou ausente, torno a repeti-lo a eles e aos demais: se eu for outra vez, não usarei de perdão!"
+    },
+    {
+      "numero": 3,
+      "texto": "Simplesmente porque exigis a prova de que é Cristo que fala em mim. Ora, para convosco ele não é fraco, mas exerce o seu poder entre vós."
+    },
+    {
+      "numero": 4,
+      "texto": "É verdade que ele foi crucificado por fraqueza, mas está vivo pelo poder de Deus. Também nós somos fracos nele, mas com ele viveremos, pelo poder de Deus para atuar entre vós."
+    },
+    {
+      "numero": 5,
+      "texto": "Examinai-vos a vós mesmos, se estais na fé. Provai-vos a vós mesmos. Acaso não reconheceis que Cristo Jesus está em vós? A menos que a prova vos seja, talvez, desfavorável."
+    },
+    {
+      "numero": 6,
+      "texto": "Mas espero que reconhecereis que ela não é contra nós."
+    },
+    {
+      "numero": 7,
+      "texto": "Entretanto, rogamos a Deus que não façais mal algum, não para que pareçamos aprovados, mas para que vós façais o bem, embora nós sejamos tidos como reprovados."
+    },
+    {
+      "numero": 8,
+      "texto": "Contra a verdade não temos poder algum; temo-lo apenas em prol da verdade."
+    },
+    {
+      "numero": 9,
+      "texto": "Alegramo-nos de ver-vos fortes, enquanto nós somos fracos. E até oramos por vossa perfeição."
+    },
+    {
+      "numero": 10,
+      "texto": "Eis por que eu vos escrevo de longe para que, estando presente, não tenha de usar de rigor, em vista do poder que o Senhor me conferiu para edificar, e não para destruir."
+    },
+    {
+      "numero": 11,
+      "texto": "Por fim, irmãos, vivei com alegria. Tendei à perfeição, animai-vos, tende um só coração, vivei em paz, e o Deus de amor e paz estará convosco."
+    },
+    {
+      "numero": 12,
+      "texto": "Saudai-vos uns aos outros no ósculo santo. Todos os santos vos saúdam."
+    },
+    {
+      "numero": 13,
+      "texto": "A graça do Senhor Jesus Cristo, o amor de Deus e a comunhão do Espírito Santo estejam com todos vós!"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "13:1-2",
+      "texto": "Paulo avisa que estará presente para corrigir os desobedientes à sua terceira visita. A disciplina cristã é uma parte necessária para manter a pureza e a unidade da igreja (veja também 1 Coríntios 5:1-5 e Mateus 18:15-17)."
+    },
+    {
+      "ref": "13:5-6",
+      "texto": "Paulo desafia os coríntios a examinarem a si mesmos para ver se estão na fé. A autoexaminação e o arrependimento são passos cruciais para uma vida cristã fiel (veja também 2 Coríntios 5:17 e 1 Coríntios 11:28)."
+    },
+    {
+      "ref": "13:11",
+      "texto": "Paulo conclui sua carta com um apelo à unidade, paz e alegria. A exortação à santidade e harmonia é uma característica importante da vida cristã comunitária (veja também Romanos 15:5-7 e Filipenses 2:2)."
+    }
+  ]
+}

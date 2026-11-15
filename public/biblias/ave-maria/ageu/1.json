@@ -1,0 +1,99 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ageu",
+  "nome": "Ageu",
+  "testamento": "AT",
+  "capitulo": 1,
+  "totalVersiculos": 15,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ageu/1/",
+  "capturadoEm": "2026-11-15T09:25:17-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "No segundo ano do reinado de Dario, no primeiro dia do sexto mês, a palavra do Senhor foi dirigida pelo profeta Ageu ao governador de Judá, Zorobabel, filho de Salatiel, e ao sumo sacerdote Josué, filho de Josedec, nestes termos:",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "“Eis o que diz o Senhor dos exércitos: este povo diz: não é ainda chegado o momento de reconstruir a casa do Senhor”."
+    },
+    {
+      "numero": 3,
+      "texto": "E a palavra do Senhor foi transmitida pelo profeta Ageu:",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "“É então o momento de habitardes em casas confortáveis, estando esta casa em ruínas? Eis o que declara o Senhor dos exércitos:",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "considerai o que fazeis!"
+    },
+    {
+      "numero": 6,
+      "texto": "Semeais muito e recolheis pouco; comeis e não vos saciais; bebeis e não chegais a apagar a vossa sede; vestis, mas não vos aqueceis; e o operário guarda o seu salário em saco roto!"
+    },
+    {
+      "numero": 7,
+      "texto": "Assim fala o Senhor dos exércitos: refleti no que fazeis!",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Subi à montanha, trazei madeira e reconstruí a minha casa; ela me será agradável e nela serei glorificado, – oráculo do Senhor."
+    },
+    {
+      "numero": 9,
+      "texto": "Esperastes uma abundante colheita e esta foi magra; dissipei com um sopro o que queríeis armazenar. Por quê? – oráculo do Senhor. Porque minha casa está em ruínas, enquanto cada um de vós só tem cuidado da sua."
+    },
+    {
+      "numero": 10,
+      "texto": "Por isso, o céu negou o seu orvalho e a terra, os seus frutos."
+    },
+    {
+      "numero": 11,
+      "texto": "Sequei terras e colinas, trigo, mosto e óleo, todo o fruto da terra, homens e animais, tudo o que produz o trabalho de vossas mãos”."
+    },
+    {
+      "numero": 12,
+      "texto": "Zorobabel, filho de Salatiel, com o sumo sacerdote Josué, filho de Josedec, e todo o resto do povo, ouviram a voz do Senhor, seu Deus, e as palavras que lhes dirigiu o profeta Ageu da parte do Senhor. E todo o povo temeu o Senhor."
+    },
+    {
+      "numero": 13,
+      "texto": "Ageu, enviado do Senhor, falou ao povo segundo o mandato que ele tinha recebido do Senhor: “Estou convosco – oráculo do Senhor”."
+    },
+    {
+      "numero": 14,
+      "texto": "Então, o Senhor inspirou coragem a Zorobabel, filho de Salatiel, governador de Judá, e ao sumo sacerdote Josué, filho de Josedec, bem como a todo o resto do povo: todos puseram-se a trabalhar na construção da casa do Senhor dos exércitos, seu Deus,"
+    },
+    {
+      "numero": 15,
+      "texto": "aos vinte e quatro dias do sexto mês."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:1-2",
+      "texto": "O profeta Ageu começa sua mensagem com uma exortação direta ao povo, enfatizando a prioridade de reconstruir o templo. A negligência da casa de Deus é contrastada com a preocupação do povo em suas próprias casas, destacando a falta de compromisso espiritual (veja também Mateus 6:33 e Esdras 3:1-2)."
+    },
+    {
+      "ref": "1:3-6",
+      "texto": "Ageu chama o povo a refletir sobre suas dificuldades, que são consequência da falta de dedicação a Deus. Ele aponta que suas ações estão sendo frustradas, pois não priorizam a obra de Deus, mas apenas buscam o próprio bem-estar (veja também Mateus 6:19-21 e Eclesiastes 5:10)."
+    },
+    {
+      "ref": "1:7-8",
+      "texto": "O profeta exorta o povo a considerar seus caminhos e a obedecer ao comando de Deus para reconstruir o templo. A ação de construir a casa de Deus é vista como um meio de restaurar a bênção e prosperidade para o povo (veja também 1 Coríntios 3:16-17 e Malaquias 3:10)."
+    },
+    {
+      "ref": "1:12-15",
+      "texto": "O povo responde positivamente à mensagem de Ageu, iniciando a reconstrução do templo. A obediência de Israel resulta em um despertar espiritual e em um novo compromisso com Deus, demonstrando que a verdadeira prosperidade vem da fidelidade a Ele (veja também Esdras 3:10-13 e Neemias 2:17)."
+    },
+    {
+      "ref": "1:15",
+      "texto": "O capítulo termina com a menção ao 24º dia do mês, simbolizando o início da reconstrução do templo. A data marca um novo começo, simbolizando que, quando o povo se volta para Deus, Ele também se volta para eles com bênçãos (veja também Zacarias 1:3 e Tiago 4:8)."
+    }
+  ]
+}

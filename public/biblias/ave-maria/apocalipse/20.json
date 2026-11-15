@@ -1,0 +1,99 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "apocalipse",
+  "nome": "Apocalipse",
+  "testamento": "NT",
+  "capitulo": 20,
+  "totalVersiculos": 15,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/apocalipse/20/",
+  "capturadoEm": "2026-11-15T09:29:59-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Vi, então, descer do céu um anjo que tinha na mão a chave do abismo e uma grande algema."
+    },
+    {
+      "numero": 2,
+      "texto": "Ele apanhou o Dragão, a primitiva Serpente, que é o Demônio e Satanás, e o acorrentou por mil anos.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Atirou-o no abismo, que fechou e selou por cima, para que já não seduzisse as nações, até que se completassem mil anos. Depois disso, ele deve ser solto por um pouco de tempo."
+    },
+    {
+      "numero": 4,
+      "texto": "Vi também tronos, sobre os quais se assentaram aqueles que receberam o poder de julgar: eram as almas dos que foram decapitados por causa do testemunho de Jesus e da Palavra de Deus, e todos aqueles que não tinham adorado a Fera ou sua imagem, que não tinham recebido o seu sinal na fronte nem nas mãos. Eles viveram uma vida nova e reinaram com Cristo por mil anos.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "(Os outros mortos não tornaram à vida até que se completassem os mil anos.) Essa é a primeira ressurreição."
+    },
+    {
+      "numero": 6,
+      "texto": "Feliz e santo é aquele que toma parte na primeira ressurreição! Sobre eles a segunda morte não tem poder, mas serão sacerdotes de Deus e de Cristo: reinarão com ele durante os mil anos."
+    },
+    {
+      "numero": 7,
+      "texto": "Depois de se completarem mil anos, Satanás será solto da prisão.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Sairá dela para seduzir as nações dos quatro cantos da terra (Gog e Magog) e reuni-las para o combate. Serão numerosas como a areia do mar."
+    },
+    {
+      "numero": 9,
+      "texto": "Subiram à superfície da terra e cercaram o acampamento dos santos e a cidade querida. Mas desceu um fogo dos céus e as devorou."
+    },
+    {
+      "numero": 10,
+      "texto": "O Demônio, sedutor delas, foi lançado num lago de fogo e de enxofre, onde já estavam a Fera e o falso profeta, e onde serão atormentados, dia e noite, pelos séculos dos séculos."
+    },
+    {
+      "numero": 11,
+      "texto": "Vi, então, um grande trono branco e aquele que nele se assentava. Os céus e a terra fugiram de sua face, e já não se achou lugar para eles.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Vi os mortos, grandes e pequenos, de pé, diante do trono. Abriram-se livros, e ainda outro livro, que é o livro da vida. E os mortos foram julgados conforme o que estava escrito nesse livro, segundo as suas obras."
+    },
+    {
+      "numero": 13,
+      "texto": "O mar restituiu os mortos que nele estavam. Do mesmo modo, a morte e a morada subterrânea. Cada um foi julgado segundo as suas obras."
+    },
+    {
+      "numero": 14,
+      "texto": "A morte e a morada subterrânea foram lançadas no tanque de fogo. A segunda morte é esta: o tanque de fogo."
+    },
+    {
+      "numero": 15,
+      "texto": "Todo o que não foi encontrado inscrito no livro da vida foi lançado ao fogo."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "20:1-3",
+      "texto": "O anjo prende Satanás e o lança no abismo, simbolizando a vitória de Cristo sobre o mal. Esse momento de \"milênio\" prepara o terreno para a paz e a justiça, características do Reino de Deus (veja também Apocalipse 12:9 e Isaías 24:21-23)."
+    },
+    {
+      "ref": "20:4-6",
+      "texto": "Os santos reinam com Cristo durante o milênio, destacando a recompensa dos fiéis que sofreram por Seu nome. Este é um símbolo de esperança para os cristãos que enfrentam perseguições (veja também Daniel 7:27 e 1 Coríntios 6:2-3)."
+    },
+    {
+      "ref": "20:7-10",
+      "texto": "A libertação temporária de Satanás e a sua derrota final mostram que, apesar das tentações e do mal, o poder de Deus é definitivo. A batalha de Armagedom é a luta final entre o bem e o mal (veja também Ezequiel 38:8-12 e 2 Tessalonicenses 2:8)."
+    },
+    {
+      "ref": "20:11-15",
+      "texto": "O Juízo Final é descrito, onde os mortos são julgados segundo suas obras. Esta passagem sublinha a justiça divina e a necessidade de salvação em Cristo para a vida eterna (veja também Mateus 25:31-46 e Romanos 14:10-12)."
+    },
+    {
+      "ref": "20:14-15",
+      "texto": "A morte e o Hades são lançados no lago de fogo, mostrando a destruição definitiva do mal. Este é o fim de todo poder maligno e a consumação do Reino de Deus (veja também 1 Coríntios 15:24-28 e 2 Pedro 2:4)."
+    }
+  ]
+}

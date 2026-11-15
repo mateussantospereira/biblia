@@ -1,0 +1,98 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "tito",
+  "nome": "Tito",
+  "testamento": "NT",
+  "capitulo": 3,
+  "totalVersiculos": 15,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/tito/3/",
+  "capturadoEm": "2026-11-15T09:29:03-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Admoesta-os a que sejam submissos aos magistrados e às autoridades, sejam obedientes, estejam prontos para qualquer obra boa,"
+    },
+    {
+      "numero": 2,
+      "texto": "não falem mal dos outros, sejam pacíficos, afáveis e saibam dar provas de toda mansidão para com todos os homens."
+    },
+    {
+      "numero": 3,
+      "texto": "Porque também nós outrora éramos insensatos, rebeldes, transviados, escravos de paixões de toda espécie, vivendo na malícia e na inveja, detestáveis, odiando-nos uns aos outros."
+    },
+    {
+      "numero": 4,
+      "texto": "Mas um dia apareceu a bondade de Deus, nosso Salvador, e o seu amor para com os homens.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "E, não por causa de obras de justiça que tivéssemos praticado, mas unicamente em virtude de sua misericórdia, ele nos salvou mediante o batismo da regeneração e renovação, pelo Espírito Santo,"
+    },
+    {
+      "numero": 6,
+      "texto": "que nos foi concedido em profusão, por meio de Cristo, nosso Salvador,"
+    },
+    {
+      "numero": 7,
+      "texto": "para que a justificação obtida por sua graça nos torne, em esperança, herdeiros da vida eterna."
+    },
+    {
+      "numero": 8,
+      "texto": "Certa é esta doutrina, e quero que a ensines com constância e firmeza, para que os que abraçaram a fé em Deus se esforcem por se aperfeiçoar na prática do bem. Isto é bom e útil aos homens."
+    },
+    {
+      "numero": 9,
+      "texto": "Quanto a questões tolas, genealogias, contendas e disputas relativas à Lei, foge delas, porque são inúteis e vãs.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "O homem que assim fomenta divisões, depois de advertido uma primeira e uma segunda vez, evita-o,"
+    },
+    {
+      "numero": 11,
+      "texto": "visto que esse tal é um perverso que, perseverando no seu pecado, se condena a si próprio."
+    },
+    {
+      "numero": 12,
+      "texto": "Logo que eu te enviar Ártemas ou Tíquico, apressa-te a vir ter comigo em Nicópolis, onde decidi passar o inverno."
+    },
+    {
+      "numero": 13,
+      "texto": "Prepara com cuidado a viagem do jurista Zenas e de Apolo, de maneira que nada lhes venha a faltar.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Urge também que os nossos aprendam a aplicar-se às boas obras para atender às necessidades mais prementes. Assim não ficarão infrutuosos."
+    },
+    {
+      "numero": 15,
+      "texto": "Todos os que estão comigo te saúdam. Saúda todos aqueles que nos amam na fé. A graça esteja com todos vós!"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-2",
+      "texto": "Paulo exorta os cristãos a serem obedientes às autoridades, vivendo com mansidão e humildade. O testemunho cristão não deve ser marcado por rebeldia, mas por boas obras e respeito aos outros (veja também Romanos 13:1-7 e 1 Pedro 2:13-17)."
+    },
+    {
+      "ref": "3:3-7",
+      "texto": "Paulo recorda como éramos outrora, vivendo em pecado, mas fomos salvos pela misericórdia de Deus. A salvação é pela graça, não por obras, e a regeneração pelo Espírito Santo nos transforma (veja também Efésios 2:1-10 e 2 Coríntios 5:17)."
+    },
+    {
+      "ref": "3:8",
+      "texto": "Paulo reforça que as boas obras são o resultado natural da fé genuína. A vida cristã deve ser caracterizada por ações que glorificam a Deus e testificam a nossa transformação (veja também Mateus 5:16 e Tiago 2:14-26)."
+    },
+    {
+      "ref": "3:9-11",
+      "texto": "Paulo adverte contra discussões tolas e disputas que geram divisões. A unidade da Igreja depende da fidelidade à verdade, e os divisores devem ser corrigidos com firmeza (veja também Romanos 16:17-18 e 1 Coríntios 1:10-13)."
+    },
+    {
+      "ref": "3:12-15",
+      "texto": "Paulo dá orientações finais, incluindo a necessidade de apoio a missionários e de boas obras. Ele conclui com um apelo para viver em harmonia e estar comprometido com a missão de Deus (veja também 2 Coríntios 9:7-8 e Filipenses 4:8)."
+    }
+  ]
+}

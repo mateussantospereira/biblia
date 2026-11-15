@@ -1,0 +1,165 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "genesis",
+  "nome": "Gênesis",
+  "testamento": "AT",
+  "capitulo": 10,
+  "totalVersiculos": 32,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/genesis/10/",
+  "capturadoEm": "2026-11-15T09:07:03-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eis a posteridade dos filhos de Noé: Sem, Cam e Jafé. Estes tiveram filhos depois do dilúvio."
+    },
+    {
+      "numero": 2,
+      "texto": "Filhos de Jafé: Gomer, Magog, Madai, Javã, Tubal, Mosoc e Tiras."
+    },
+    {
+      "numero": 3,
+      "texto": "Filhos de Gomer: Asquenez, Rifat e Togorma."
+    },
+    {
+      "numero": 4,
+      "texto": "Filhos de Javã: Elisa e Társis, Cetim e Rodanim."
+    },
+    {
+      "numero": 5,
+      "texto": "Destes saíram os povos dispersos nas ilhas das nações, em seus diversos países, cada um segundo sua língua e segundo suas famílias e suas nações."
+    },
+    {
+      "numero": 6,
+      "texto": "Filhos de Cam: Cuch, Mesraim, Fut e Canaã."
+    },
+    {
+      "numero": 7,
+      "texto": "Filhos de Cuch: Sabá, Hévila, Sabata, Regma e Sabataca. Filhos de Regma: Sabá e Dadã."
+    },
+    {
+      "numero": 8,
+      "texto": "Cuch gerou Nemrod, que foi o primeiro homem poderoso da terra."
+    },
+    {
+      "numero": 9,
+      "texto": "Ele foi um grande caçador diante do Senhor. Donde a expressão: “Como Nemrod, grande caçador diante do Eterno”."
+    },
+    {
+      "numero": 10,
+      "texto": "Ele estabeleceu o seu reino primeiramente em Babilônia, Arac, Acad e Calane, na terra de Senaar."
+    },
+    {
+      "numero": 11,
+      "texto": "Daí foi para Assur e construiu Nínive, Reobot-Ir, Cale"
+    },
+    {
+      "numero": 12,
+      "texto": "e Resen, a grande cidade entre Nínive e Cale."
+    },
+    {
+      "numero": 13,
+      "texto": "Mesraim gerou os ludim, os anamim, os laabim, os neftuim,"
+    },
+    {
+      "numero": 14,
+      "texto": "os fetrusim, os casluim e os caftorim, donde saíram os filisteus.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Canaã gerou Sidon, seu primogênito, e Het,"
+    },
+    {
+      "numero": 16,
+      "texto": "assim como os jebuseus, os amorreus, os gergeseus,"
+    },
+    {
+      "numero": 17,
+      "texto": "os heveus, os araceus, os sineus,"
+    },
+    {
+      "numero": 18,
+      "texto": "os aradeus, os samareus e os hamateus. Em seguida, as famílias dos cananeus se dispersaram,"
+    },
+    {
+      "numero": 19,
+      "texto": "e o território dos cananeus era desde Sidon, na direção de Gerara, até Gaza; e na direção de Sodoma, Gomorra, Adama e Seboim, até Lesa."
+    },
+    {
+      "numero": 20,
+      "texto": "Estes são os filhos de Cam segundo suas famílias, suas línguas, em seus diversos países e suas nações."
+    },
+    {
+      "numero": 21,
+      "texto": "Nasceram também filhos a Sem, pai de todos os filhos de Héber, e irmão mais velho de Jafé."
+    },
+    {
+      "numero": 22,
+      "texto": "Filhos de Sem: Elam, Assur, Arfaxad, Lud e Aram."
+    },
+    {
+      "numero": 23,
+      "texto": "Filhos de Aram: Hus, Hul, Geter e Mes."
+    },
+    {
+      "numero": 24,
+      "texto": "Arfaxad gerou Salé, Salé gerou Héber."
+    },
+    {
+      "numero": 25,
+      "texto": "Héber teve dois filhos: um se chamava Faleg, porque no seu tempo a terra foi dividida, e o outro se chamava Jectã.",
+      "nota": true
+    },
+    {
+      "numero": 26,
+      "texto": "Jectã gerou Elmodad, Salef, Asarmot, Jaré,"
+    },
+    {
+      "numero": 27,
+      "texto": "Aduram, Uzal, Decla,"
+    },
+    {
+      "numero": 28,
+      "texto": "Ebal, Abimael, Sabá,"
+    },
+    {
+      "numero": 29,
+      "texto": "Ofir, Hévila e Jobab. Estes são os filhos de Jetã."
+    },
+    {
+      "numero": 30,
+      "texto": "A terra que eles habitavam se estendia desde Mesa, na direção de Sefar, até a montanha do oriente."
+    },
+    {
+      "numero": 31,
+      "texto": "Estes são os filhos de Sem, segundo suas famílias, segundo suas línguas, em seus diversos países e suas nações."
+    },
+    {
+      "numero": 32,
+      "texto": "Tais são as famílias dos filhos de Noé, segundo suas gerações e suas nações. É deles que descendem as nações que se espalharam sobre a terra depois do dilúvio."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "10:1-5",
+      "texto": "A genealogia dos filhos de Noé destaca a descendência de Sem, Cam e Jafé, e o estabelecimento das nações após o dilúvio. Isso reflete a importância da linhagem e do cumprimento das promessas de Deus às futuras gerações (veja também Atos 17:26 e Gênesis 11:10)."
+    },
+    {
+      "ref": "10:6-12",
+      "texto": "Os descendentes de Cam incluem poderosas civilizações como a Babilônia e o Egito. A genealogia destaca figuras como Ninrode, conhecido por seu poder e liderança, mostrando o papel dessas nações na história bíblica (veja também Miqueias 5:6 e Isaías 10:5-6)."
+    },
+    {
+      "ref": "10:15-20",
+      "texto": "Os descendentes de Canaã incluem as nações que posteriormente seriam inimigas de Israel. Essa genealogia ajuda a contextualizar os futuros conflitos e o cumprimento das promessas feitas a Abraão sobre a terra de Canaã (veja também Gênesis 15:18-21 e Deuteronômio 7:1-2)."
+    },
+    {
+      "ref": "10:21-25",
+      "texto": "A genealogia de Sem é particularmente importante, pois dela virá a linhagem de Abraão e, eventualmente, de Jesus Cristo. A linhagem de Sem carrega a bênção e o plano redentor de Deus para a humanidade (veja também Gênesis 12:1-3 e Mateus 1:1-17)."
+    },
+    {
+      "ref": "10:32",
+      "texto": "As nações surgem das famílias de Noé, cada uma com seu próprio território e identidade. Isso destaca a diversidade da humanidade e o propósito de Deus em espalhar as nações pela terra, enquanto mantém Seu plano de redenção universal (veja também Deuteronômio 32:8 e Atos 17:26-27)."
+    }
+  ]
+}

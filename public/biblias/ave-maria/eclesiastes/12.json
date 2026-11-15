@@ -1,0 +1,96 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "eclesiastes",
+  "nome": "Eclesiastes",
+  "testamento": "AT",
+  "capitulo": 12,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/eclesiastes/12/",
+  "capturadoEm": "2026-11-15T09:19:53-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Lembra-te do teu Criador nos dias da tua juventude, antes que venham os maus dias e que apareçam os anos dos quais dirás: “Não sinto prazer neles!”."
+    },
+    {
+      "numero": 2,
+      "texto": "Antes que se escureçam o sol, a luz, a lua e as estrelas, e que à chuva sucedam as nuvens;",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "anos nos quais tremem os guardas da casa, nos quais se curvam os homens robustos e param de moer as moleiras pouco numerosas, nos quais se escurecem aqueles que olham pelas janelas,"
+    },
+    {
+      "numero": 4,
+      "texto": "nos quais se fecham para a rua os dois batentes da porta, nos quais se enfraquece o ruído do moinho, nos quais os homens se levantam ao canto do passarinho, nos quais se extingue o som da voz,"
+    },
+    {
+      "numero": 5,
+      "texto": "nos quais se temem as subidas; nos quais se terão sobressaltos no caminho, nos quais a amendoeira branqueia, nos quais o gafanhoto engorda, nos quais a alcaparra perde a sua eficácia, porque o homem se encaminha para a morada eterna e os carpidores percorrem as ruas.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Antes que se rompa o cordão de prata, que se despedace a lâmpada de ouro, antes que se quebre a bilha na fonte, e que se fenda a roldana sobre a cisterna;",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "antes que a poeira retorne à terra para se tornar o que era; e antes que o sopro de vida retorne a Deus que o deu.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "fugacidade das fugacidades, diz o Eclesiastes, tudo é fugaz."
+    },
+    {
+      "numero": 9,
+      "texto": "Além de ser sábio, o Eclesiastes ensinou a ciência ao povo. Ele pesou, perscrutou e dispôs numerosas máximas."
+    },
+    {
+      "numero": 10,
+      "texto": "O Eclesiastes aplicou-se à procura de sentenças agradáveis e a redigir com exatidão adágios verídicos."
+    },
+    {
+      "numero": 11,
+      "texto": "As palavras dos sábios são semelhantes a aguilhões, e as sentenças, reunidas em coleção, são parecidas a estacas plantadas, inspiradas por um só pastor.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "De resto, meu filho, quanto ao maior número de palavras que estas, fica sabendo que se podem multiplicar os livros a não mais acabar, e que muito estudo se torna uma fadiga para o corpo."
+    },
+    {
+      "numero": 13,
+      "texto": "Em conclusão: tudo bem entendido, teme a Deus e observa seus preceitos, é este o dever de todo homem."
+    },
+    {
+      "numero": 14,
+      "texto": "Deus fará prestar contas de tudo o que está oculto, todo ato, seja ele bom ou mau."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "12:1",
+      "texto": "A exortação para lembrar do Criador nos dias da juventude destaca a importância de buscar a Deus desde cedo. Isso enfatiza a relevância da fé e do compromisso espiritual ao longo da vida (veja também Provérbios 22:6 e Salmo 119:9)."
+    },
+    {
+      "ref": "12:2-5",
+      "texto": "A metáfora sobre o envelhecimento ilustra a fragilidade da vida e a inevitabilidade da morte. Essa passagem nos convida a refletir sobre a transitoriedade da vida e a urgência de buscar significado (veja também Tiago 4:14 e 2 Coríntios 4:16-18)."
+    },
+    {
+      "ref": "12:6-7",
+      "texto": "A descrição da volta ao pó simboliza a mortalidade e a necessidade de viver com sabedoria e temor a Deus. A realidade da morte deve nos motivar a valorizar nossos dias e agir com propósito (veja também Gênesis 3:19 e Hebreus 9:27)."
+    },
+    {
+      "ref": "12:8-10",
+      "texto": "O autor reafirma a futilidade de todas as coisas sem Deus. A busca por sabedoria e entendimento é central para a vida significativa, e a experiência do autor traz uma perspectiva reflexiva sobre o sentido da vida (veja também Romanos 1:21 e 1 Coríntios 1:25)."
+    },
+    {
+      "ref": "12:13-14",
+      "texto": "A conclusão do livro enfatiza que o dever do homem é temer a Deus e guardar Seus mandamentos. Essa mensagem central é um chamado à obediência e ao reconhecimento da soberania divina sobre todas as coisas (veja também Eclesiastes 3:14 e Mateus 28:19-20)."
+    }
+  ]
+}

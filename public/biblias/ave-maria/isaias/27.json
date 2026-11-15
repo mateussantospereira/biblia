@@ -1,0 +1,86 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 27,
+  "totalVersiculos": 13,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/27/",
+  "capturadoEm": "2026-11-15T09:21:40-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Naquele dia, o Senhor ferirá, com sua espada pesada, grande e forte, Leviatã, o dragão fugaz, Leviatã, o dragão tortuoso; e matará o monstro que está no mar.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Naquele dia, se dirá: “Cantai a bela vinha!",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Eu, o Senhor, sou o vinhateiro; no momento oportuno eu a rego, a fim de que seus sarmentos não murchem. Dia e noite eu a vigio,"
+    },
+    {
+      "numero": 4,
+      "texto": "e nada tenho contra ela. Se nela crescerem sarças e espinhos, eu lhes farei guerra e os queimarei a todos,"
+    },
+    {
+      "numero": 5,
+      "texto": "a menos que se coloquem sob minha proteção, que façam a paz comigo, que façam comigo a paz!"
+    },
+    {
+      "numero": 6,
+      "texto": "Um dia Jacó lançará raízes, Israel produzirá flores e botões, e eles cobrirão o mundo de frutos."
+    },
+    {
+      "numero": 7,
+      "texto": "Porventura o Senhor os feriu como feriu aqueles que os feriam? Massacrou-os como massacrou aqueles que os massacravam?"
+    },
+    {
+      "numero": 8,
+      "texto": "Ele operou justiça, mediante a expulsão e o exílio deles, arrebatando-os com seu sopro impetuoso como o vento do Oriente."
+    },
+    {
+      "numero": 9,
+      "texto": "Assim foi expiado o crime de Jacó, e este é o resultado do perdão de seu pecado: ele quebrou as pedras dos altares, como se trituram as pedras de cal; as estacas sagradas e os monumentos ao sol não se erguem mais,"
+    },
+    {
+      "numero": 10,
+      "texto": "porque a cidade forte é agora uma solidão, uma morada abandonada como o deserto. Aí vêm pastar os bois e aí pernoitam e comem os seus ramos."
+    },
+    {
+      "numero": 11,
+      "texto": "Tão logo os galhos secos se quebram, as mulheres vêm e lhes põem fogo. É um povo sem compreensão, por isso, seu Criador não tem piedade dele, aquele que o formou não lhe dá nenhum perdão."
+    },
+    {
+      "numero": 12,
+      "texto": "Naquele tempo, o Senhor malhará o trigo desde o leito do rio até a torrente do Egito. E vós sereis apanhados um a um, filhos de Israel.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Naquele tempo, soará a grande trombeta. E serão vistos chegar os exilados da terra da Assíria, e os fugitivos espalhados pela terra do Egito. Eles adorarão o Senhor no monte santo, em Jerusalém”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "27:1",
+      "texto": "O Senhor derrota Leviatã, o símbolo de forças caóticas e do mal. Essa vitória reflete o poder absoluto de Deus sobre o caos e o pecado (veja também Salmo 74:14 e Apocalipse 20:2)."
+    },
+    {
+      "ref": "27:2-6",
+      "texto": "Deus cuida da Sua vinha, que representa Israel. A vinha frutífera simboliza a restauração do povo de Deus e o cumprimento de Suas promessas (veja também João 15:1-5 e Salmo 80:8-11)."
+    },
+    {
+      "ref": "27:9",
+      "texto": "O perdão divino está associado à purificação do pecado e à destruição de ídolos. Isso enfatiza a santidade de Deus e a necessidade de arrependimento (veja também Ezequiel 36:25 e Hebreus 10:22)."
+    },
+    {
+      "ref": "27:12-13",
+      "texto": "Deus reúne Seu povo de todas as nações, tocando a grande trombeta. Essa imagem simboliza a redenção final e a restauração de Israel (veja também Mateus 24:31 e 1 Tessalonicenses 4:16)."
+    }
+  ]
+}

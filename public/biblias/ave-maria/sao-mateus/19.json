@@ -1,0 +1,158 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sao-mateus",
+  "nome": "São Mateus",
+  "testamento": "NT",
+  "capitulo": 19,
+  "totalVersiculos": 30,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sao-mateus/19/",
+  "capturadoEm": "2026-11-15T09:25:56-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Após esses discursos, Jesus deixou a Galileia e veio para a Judeia, além do Jordão."
+    },
+    {
+      "numero": 2,
+      "texto": "Uma grande multidão o seguiu e ele curou seus doentes."
+    },
+    {
+      "numero": 3,
+      "texto": "Os fariseus vieram perguntar-lhe para pô-lo à prova: “É permitido a um homem rejeitar sua mulher por um motivo qualquer?”."
+    },
+    {
+      "numero": 4,
+      "texto": "Respondeu-lhes Jesus: “Não lestes que o Criador, no começo, fez o homem e a mulher e disse:"
+    },
+    {
+      "numero": 5,
+      "texto": "Por isso, o homem deixará seu pai e sua mãe e se unirá à sua mulher; e os dois formarão uma só carne?",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Assim, já não são dois, mas uma só carne. Portanto, não separe o homem o que Deus uniu”."
+    },
+    {
+      "numero": 7,
+      "texto": "Disseram-lhe eles: “Por que, então, Moisés ordenou dar um documento de divórcio à mulher, ao rejeitá-la?”.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Jesus respondeu-lhes: “É por causa da dureza de vosso coração que Moisés havia tolerado o repúdio das mulheres; mas no começo não foi assim."
+    },
+    {
+      "numero": 9,
+      "texto": "Ora, eu vos declaro que todo aquele que rejeita sua mulher, exceto no caso de matrimônio falso, e desposa uma outra, comete adultério. E aquele que desposa uma mulher rejeitada, comete também adultério”."
+    },
+    {
+      "numero": 10,
+      "texto": "Seus discípulos disseram-lhe: “Se tal é a condição do homem a respeito da mulher, é melhor não se casar!”."
+    },
+    {
+      "numero": 11,
+      "texto": "Respondeu ele: “Nem todos são capazes de compreender o sentido dessa palavra, mas somente aqueles a quem foi dado."
+    },
+    {
+      "numero": 12,
+      "texto": "Porque há eunucos que o são desde o ventre de suas mães, há eunucos tornados tais pelas mãos dos homens e há eunucos que a si mesmos se fizeram eunucos por amor do Reino dos Céus. Quem puder compreender, compreenda”."
+    },
+    {
+      "numero": 13,
+      "texto": "Foram-lhe, então, apresentadas algumas criancinhas para que pusesse as mãos sobre elas e orasse por elas. Os discípulos, porém, as afastavam."
+    },
+    {
+      "numero": 14,
+      "texto": "Disse-lhes Jesus: “Deixai vir a mim estas criancinhas e não as impeçais, porque o Reino dos Céus é para aqueles que se lhes assemelham”."
+    },
+    {
+      "numero": 15,
+      "texto": "E, depois de impor-lhes as mãos, continuou seu caminho."
+    },
+    {
+      "numero": 16,
+      "texto": "Um jovem aproximou-se de Jesus e lhe perguntou: “Mestre, que devo fazer de bom para ter a vida eterna?”. Disse-lhe Jesus:"
+    },
+    {
+      "numero": 17,
+      "texto": "“Por que me perguntas a respeito do que se deve fazer de bom? Só Deus é bom. Se queres entrar na vida, observa os mandamentos”.* –"
+    },
+    {
+      "numero": 18,
+      "texto": "“Quais?” – perguntou ele. Jesus respondeu: “Não matarás, não cometerás adultério, não furtarás, não dirás falso testemunho,"
+    },
+    {
+      "numero": 19,
+      "texto": "honra teu pai e tua mãe, amarás teu próximo como a ti mesmo”."
+    },
+    {
+      "numero": 20,
+      "texto": "Disse-lhe o jovem: “Tenho observado tudo isso desde a minha infância. Que me falta ainda?”."
+    },
+    {
+      "numero": 21,
+      "texto": "Respondeu Jesus: “Se queres ser perfeito, vai, vende teus bens, dá-os aos pobres e terás um tesouro no céu. Depois, vem e segue-me!”."
+    },
+    {
+      "numero": 22,
+      "texto": "Ouvindo essas palavras, o jovem foi embora muito triste, porque possuía muitos bens."
+    },
+    {
+      "numero": 23,
+      "texto": "Jesus disse então aos seus discípulos: “Em verdade vos declaro: é difícil para um rico entrar no Reino dos Céus!"
+    },
+    {
+      "numero": 24,
+      "texto": "Eu vos repito: é mais fácil um camelo passar pelo fundo de uma agulha do que um rico entrar no Reino de Deus”.",
+      "nota": true
+    },
+    {
+      "numero": 25,
+      "texto": "A estas palavras seus discípulos, pasmados, perguntaram: “Quem poderá então salvar-se?”."
+    },
+    {
+      "numero": 26,
+      "texto": "Jesus olhou para eles e disse: “Aos homens isso é impossível, mas a Deus tudo é possível”."
+    },
+    {
+      "numero": 27,
+      "texto": "Pedro então, tomando a palavra, disse-lhe: “Eis que deixamos tudo para te seguir. Que haverá então para nós?”"
+    },
+    {
+      "numero": 28,
+      "texto": "Respondeu Jesus: “Em verdade vos declaro: no dia da renovação do mundo, quando o Filho do Homem estiver sentado no trono da glória, vós, que me haveis seguido, estareis sentados em doze tronos para julgar as doze tribos de Israel."
+    },
+    {
+      "numero": 29,
+      "texto": "E todo aquele que por minha causa deixar irmãos, irmãs, pai, mãe, mulher, filhos, terras ou casa receberá o cêntuplo e possuirá a vida eterna”."
+    },
+    {
+      "numero": 30,
+      "texto": "“Muitos dos primeiros serão os últimos e muitos dos últimos serão os primeiros."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "19:1-6",
+      "texto": "Jesus reafirma o plano original de Deus para o casamento, destacando que o matrimônio é uma união indissolúvel entre homem e mulher. Ele refuta a ideia de divórcio como algo aceitável, ressaltando o design de Deus para a família (veja também Gênesis 2:24 e Marcos 10:6-9)."
+    },
+    {
+      "ref": "19:13-15",
+      "texto": "Jesus abençoa as crianças, mostrando que o Reino dos Céus pertence àqueles que se aproximam de Deus com simplicidade e confiança. Sua atitude reflete a importância da pureza e da humildade para receber o Reino (veja também Marcos 10:13-16 e Lucas 18:15-17)."
+    },
+    {
+      "ref": "19:16-22",
+      "texto": "O jovem rico busca a salvação, mas Jesus o desafia a vender tudo o que tem e seguir a Ele. Isso ensina que a salvação não é baseada em riquezas ou boas obras, mas na total entrega a Deus (veja também Lucas 18:18-23 e Marcos 10:17-22)."
+    },
+    {
+      "ref": "19:23-26",
+      "texto": "Jesus ensina que é difícil para um rico entrar no Reino dos Céus, mas que o impossível para os homens é possível para Deus. Isso destaca a dependência de Deus para a salvação e a dificuldade de confiar nas riquezas em vez de em Deus (veja também Marcos 10:24-27 e Lucas 18:24-27)."
+    },
+    {
+      "ref": "19:27-30",
+      "texto": "Jesus promete grandes recompensas aos que deixarem tudo por Seu nome, indicando que aqueles que seguem a Cristo com sacrifício serão recompensados abundantemente no Reino dos Céus (veja também Lucas 18:28-30 e Marcos 10:28-30)."
+    }
+  ]
+}

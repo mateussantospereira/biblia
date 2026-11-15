@@ -1,0 +1,94 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ester",
+  "nome": "Ester",
+  "testamento": "AT",
+  "capitulo": 5,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ester/5/",
+  "capturadoEm": "2026-11-15T09:15:06-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Três dias depois, Ester vestiu seus trajes de rainha e se apresentou na câmara interior do palácio, diante do aposento real. O rei estava sentado sobre seu trono real, diante da porta de entrada do palácio."
+    },
+    {
+      "numero": 2,
+      "texto": "Logo que o rei viu a rainha Ester no átrio, esta conquistou suas boas graças, de sorte que ele estendeu o cetro de ouro que tinha na mão. E Ester se aproximou para tocá-lo.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "O rei lhe disse: “Que tens, rainha Ester e que queres? Mesmo a metade de meu reino eu te daria”."
+    },
+    {
+      "numero": 4,
+      "texto": "“Se parecer bem ao rei – respondeu ela –, venha hoje com Amã ao banquete que lhe preparo.”"
+    },
+    {
+      "numero": 5,
+      "texto": "O rei disse então: “Apressai-vos em fazer vir Amã para atender ao desejo de Ester”. O rei foi, pois, com Amã ao banquete que Ester tinha preparado."
+    },
+    {
+      "numero": 6,
+      "texto": "Enquanto se bebia o vinho, o rei disse à rainha: “Pede-me o que quiseres e te será concedido! Que desejas? Mesmo que fosse a metade de meu reino, a receberias”."
+    },
+    {
+      "numero": 7,
+      "texto": "“Eis – respondeu – meu pedido e meu desejo:",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Se achei graça aos olhos do rei e se lhe agrada atender ao meu pedido e cumprir o meu desejo, que o rei e Amã tornem a vir ao banquete que lhes mandarei preparar. Amanhã eu responderei à pergunta do rei.”"
+    },
+    {
+      "numero": 9,
+      "texto": "Amã voltou naquele dia gozoso e alegre de coração. Mas à vista de Mardoqueu que, diante da porta do rei, não se levantava nem se movia à sua passagem, encheu-se de furor contra o judeu."
+    },
+    {
+      "numero": 10,
+      "texto": "Soube, entretanto, conter-se e retirou-se para casa. Então, mandou buscar os seus amigos e Zares, sua mulher, e"
+    },
+    {
+      "numero": 11,
+      "texto": "lhes falou do esplendor de suas riquezas, do número de seus filhos, de tudo o que tinha feito o rei para exaltá-lo e do lugar que lhe tinha conferido sobre todos os príncipes e todo o pessoal real."
+    },
+    {
+      "numero": 12,
+      "texto": "“Além disso – acrescentou – fui o único que a rainha Ester admitiu com o rei ao banquete que ela deu e sou ainda convidado para amanhã, com o rei."
+    },
+    {
+      "numero": 13,
+      "texto": "Mas tudo isso o tenho por nada, enquanto vir esse judeu Mardoqueu na antecâmara do rei.”",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Zares, sua mulher, e todos os seus amigos lhe disseram: “Não há mais que preparar uma forca de cinquenta côvados de altura. E amanhã cedo pede ao rei que nela seja suspenso Mardoqueu. Depois irás satisfeito ao banquete com o rei”. Isso agradou a Amã e este mandou levantar a forca."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "5:1-2",
+      "texto": "Ester se apresenta ao rei, demonstrando coragem ao se expor ao perigo. Sua entrada não solicitada é um ato de bravura que mostra a importância da intercessão e da defesa do povo de Deus em tempos de crise (veja também Salmo 138:3 e Filipenses 4:13)."
+    },
+    {
+      "ref": "5:3-4",
+      "texto": "O rei, ao ver Ester, pergunta o que ela deseja. Isso destaca a receptividade do rei e a providência de Deus em preparar o caminho para a salvação do povo judaico. A sabedoria de Ester em esperar pelo momento certo é uma lição sobre a importância do timing na oração (veja também Provérbios 16:9 e Eclesiastes 3:1)."
+    },
+    {
+      "ref": "5:5-8",
+      "texto": "Ester convida o rei e Hamã para um banquete, revelando sua estratégia cuidadosa. Isso ilustra como a diplomacia e a persuasão são essenciais na liderança, e que é prudente abordar assuntos delicados com cautela (veja também Provérbios 15:23 e Colossenses 4:5)."
+    },
+    {
+      "ref": "5:9-14",
+      "texto": "Hamã se enche de orgulho após o banquete, revelando sua arrogância e o plano maligno contra os judeus. A queda do orgulho é uma advertência sobre como a soberania de Deus pode desmantelar as tramas do ímpio (veja também Provérbios 16:18 e Tiago 4:6)."
+    },
+    {
+      "ref": "5:14",
+      "texto": "A esposa de Hamã o encoraja a erguer a forca para Mordecai. Essa manipulação revela a dinâmica familiar e o incentivo ao mal, mostrando que a influência negativa pode surgir dos laços mais próximos (veja também Salmo 1:1 e Romanos 16:17)."
+    }
+  ]
+}

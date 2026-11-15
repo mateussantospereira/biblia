@@ -1,0 +1,92 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 26,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/26/",
+  "capturadoEm": "2026-11-15T09:16:27-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "De Davi. O Senhor é minha luz e minha salvação, a quem temerei? O Senhor é o protetor de minha vida, de quem terei medo?",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Quando os malvados me atacam para me devorar vivo, são eles, meus adversários e inimigos, que resvalam e caem."
+    },
+    {
+      "numero": 3,
+      "texto": "Se todo um exército se acampar contra mim, não temerá meu coração. Se se travar contra mim uma batalha, mesmo assim terei confiança."
+    },
+    {
+      "numero": 4,
+      "texto": "Uma só coisa peço ao Senhor e a peço incessantemente: é habitar na casa do Senhor todos os dias de minha vida, para admirar aí a beleza do Senhor e contemplar o seu santuário."
+    },
+    {
+      "numero": 5,
+      "texto": "Assim, no dia mau ele me esconderá na sua tenda, irá ocultar-me no recôndito de seu tabernáculo, sobre um rochedo me erguerá."
+    },
+    {
+      "numero": 6,
+      "texto": "Mas desde agora ele levanta a minha cabeça acima dos inimigos que me cercam; e oferecerei no tabernáculo sacrifícios de regozijo, com cantos e louvores ao Senhor."
+    },
+    {
+      "numero": 7,
+      "texto": "Escutai, Senhor, a voz de minha oração, tende piedade de mim e ouvi-me."
+    },
+    {
+      "numero": 8,
+      "texto": "Fala-vos meu coração, minha face vos busca; a vossa face, ó Senhor, eu a procuro."
+    },
+    {
+      "numero": 9,
+      "texto": "Não escondais de mim vosso semblante, não afasteis com ira o vosso servo. Vós sois o meu amparo, não me rejeiteis. Nem me abandoneis, ó Deus, meu Salvador."
+    },
+    {
+      "numero": 10,
+      "texto": "Se meu pai e minha mãe me abandonarem, o Senhor me acolherá."
+    },
+    {
+      "numero": 11,
+      "texto": "Ensinai-me, Senhor, vosso caminho; por causa dos adversários, guiai-me pela senda reta."
+    },
+    {
+      "numero": 12,
+      "texto": "Não me abandoneis à mercê dos inimigos, contra mim se ergueram violentos e falsos testemunhos."
+    },
+    {
+      "numero": 13,
+      "texto": "Sei que verei os benefícios do Senhor na terra dos vivos!"
+    },
+    {
+      "numero": 14,
+      "texto": "Espera no Senhor e sê forte! Fortifique-se o teu coração e espera no Senhor!"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "26:1-2",
+      "texto": "O salmista pede a Deus para julgá-lo com justiça, afirmando sua integridade. Esse desejo de ser examinado por Deus demonstra uma vida de sinceridade e compromisso com a verdade (veja também Salmo 139:23-24 e 1 João 1:7)."
+    },
+    {
+      "ref": "26:3",
+      "texto": "A referência à misericórdia de Deus como uma constante na vida do salmista enfatiza a importância da fidelidade em seguir os caminhos de Deus. Essa fidelidade é um testemunho do caráter divino (veja também Salmo 119:10-11 e Provérbios 4:23)."
+    },
+    {
+      "ref": "26:4-5",
+      "texto": "O salmista se distancia dos ímpios e se une à congregação dos justos. Essa separação do mal e associação com os justos refletem a necessidade de estar em comunhão com aqueles que compartilham da mesma fé (veja também 2 Coríntios 6:14 e Salmo 1:1)."
+    },
+    {
+      "ref": "26:6-7",
+      "texto": "A purificação das mãos e o reconhecimento das ações do salmista mostram a importância da santidade e da adoração a Deus. Um coração puro e mãos limpas são essenciais para se aproximar de Deus (veja também Salmo 24:3-4 e Tiago 4:8)."
+    },
+    {
+      "ref": "26:12",
+      "texto": "A afirmação de que o salmista andará em integridade destaca a esperança em Deus e a certeza de que a vida justa será recompensada. Esse caminho de integridade é um testemunho da graça de Deus (veja também Salmo 37:37 e Gálatas 6:9)."
+    }
+  ]
+}

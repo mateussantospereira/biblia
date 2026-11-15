@@ -1,0 +1,119 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "eclesiastes",
+  "nome": "Eclesiastes",
+  "testamento": "AT",
+  "capitulo": 10,
+  "totalVersiculos": 20,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/eclesiastes/10/",
+  "capturadoEm": "2026-11-15T09:19:51-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Uma mosca morta infeta e corrompe o azeite perfumado. Um pouco de loucura é suficiente para corromper a sabedoria.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "O coração do sábio vai para a direita, mas o coração do insensato para a esquerda.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "No meio da estrada, quando caminha o tolo, falta-lhe o bom senso, e todos dizem: “É um louco”."
+    },
+    {
+      "numero": 4,
+      "texto": "Se a ira do príncipe se inflama contra ti, não abandones o teu lugar, porque a calma previne grandes erros."
+    },
+    {
+      "numero": 5,
+      "texto": "Vi debaixo do sol um mal, uma falha da parte do soberano:"
+    },
+    {
+      "numero": 6,
+      "texto": "o insensato ocupa os mais altos cargos, enquanto que os homens de valor estão colocados em empregos inferiores."
+    },
+    {
+      "numero": 7,
+      "texto": "Vi escravos montarem a cavalo e príncipes andarem a pé como escravos."
+    },
+    {
+      "numero": 8,
+      "texto": "Quem cava uma fossa poderá nela cair, e quem derruba um muro poderá ser picado por uma serpente."
+    },
+    {
+      "numero": 9,
+      "texto": "Quem lavra pedras poderá machucar-se; quem corta a lenha se machuca com ela."
+    },
+    {
+      "numero": 10,
+      "texto": "Se o ferro estiver embotado e não for afiado o gume, é preciso redobrar de esforços; mas afiá-lo é uma vantagem que a sabedoria proporciona.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Se a serpente morder por erro de encantamento, não vale a pena ser encantador."
+    },
+    {
+      "numero": 12,
+      "texto": "As palavras do sábio alcançam-lhe o favor, mas os lábios do insensato causam a sua perda."
+    },
+    {
+      "numero": 13,
+      "texto": "O começo de suas palavras é uma estultícia, e o final de seu discurso é uma perigosa insânia."
+    },
+    {
+      "numero": 14,
+      "texto": "O insensato multiplica as palavras. O homem não conhece o futuro. Quem lhe poderia dizer o que há de acontecer em seguida?"
+    },
+    {
+      "numero": 15,
+      "texto": "O trabalho do insensato o fatiga, pois nem sequer sabe ir à cidade.",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "Ai de ti, país, cujo rei é um menino e cujos príncipes comem desde a manhã."
+    },
+    {
+      "numero": 17,
+      "texto": "Feliz de ti, país, cujo rei é de família nobre e cujos príncipes comem em hora conveniente, não por devassidão, mas para sua própria refeição."
+    },
+    {
+      "numero": 18,
+      "texto": "Por causa do desleixo desabará o madeiramento e, quando as mãos são inativas, choverá dentro da casa."
+    },
+    {
+      "numero": 19,
+      "texto": "Faz-se festa para se divertir; o vinho alegra a vida, e o dinheiro serve para tudo."
+    },
+    {
+      "numero": 20,
+      "texto": "Não digas mal do rei, nem mesmo em pensamento! Mesmo dentro de teu quarto, não digas mal do poderoso. Porque um passarinho do céu poderia levar tua palavra, e as aves repetirem tuas frases."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "10:1",
+      "texto": "Um pouco de tolice pode desfazer muito bem, mostrando como ações insensatas podem comprometer a reputação e o trabalho árduo. Isso enfatiza a importância da sabedoria na vida cotidiana (veja também Provérbios 14:1 e Tiago 3:13)."
+    },
+    {
+      "ref": "10:2",
+      "texto": "O autor compara o coração do sábio ao da pessoa tola, enfatizando que as escolhas e valores de uma pessoa podem levá-la a caminhos diferentes. A verdadeira sabedoria está alinhada com os propósitos de Deus (veja também Provérbios 4:23 e Romanos 12:2)."
+    },
+    {
+      "ref": "10:4-7",
+      "texto": "A estabilidade do sábio em meio à adversidade contrasta com a instabilidade dos tolos. Essa passagem nos ensina sobre a importância da humildade e do autocontrole (veja também Provérbios 15:1 e Filipenses 4:5)."
+    },
+    {
+      "ref": "10:8-10",
+      "texto": "A sabedoria na ação é destacada; um erro pode levar a consequências sérias. Isso enfatiza a importância de se agir com prudência e planejamento (veja também Provérbios 21:5 e Lucas 14:28)."
+    },
+    {
+      "ref": "10:11-14",
+      "texto": "A incapacidade do tolo de prever as consequências de suas ações é uma advertência sobre a necessidade de discernimento e sabedoria em nossa fala e decisões (veja também Provérbios 18:21 e Tiago 1:19-20)."
+    }
+  ]
+}

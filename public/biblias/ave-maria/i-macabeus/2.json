@@ -1,0 +1,318 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-macabeus",
+  "nome": "I Macabeus",
+  "testamento": "AT",
+  "capitulo": 2,
+  "totalVersiculos": 70,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-macabeus/2/",
+  "capturadoEm": "2026-11-15T09:18:39-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Foi nessa época que se levantou Matatias, filho de João, filho de Simeão, sacerdote da família de Joarib, que veio de Jerusalém se estabelecer em Modin.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Tinha ele cinco filhos: João, apelidado Gadi;"
+    },
+    {
+      "numero": 3,
+      "texto": "Simão, alcunhado Tasi;"
+    },
+    {
+      "numero": 4,
+      "texto": "Judas, chamado Macabeu;"
+    },
+    {
+      "numero": 5,
+      "texto": "Eleazar, cognominado Auarã; e Jônatas, chamado Afus."
+    },
+    {
+      "numero": 6,
+      "texto": "Vendo as abominações praticadas em Judá e em Jerusalém, exclamou: “Ai de mim! Por que nasci eu, para ver a ruína do meu povo e da cidade santa,"
+    },
+    {
+      "numero": 7,
+      "texto": "e ficar sem fazer nada, enquanto ela é entregue ao poder de seus inimigos"
+    },
+    {
+      "numero": 8,
+      "texto": "e seu santuário abandonado aos estrangeiros? Seu templo tornou-se como um homem desonrado"
+    },
+    {
+      "numero": 9,
+      "texto": "e os vasos sagrados, que eram o motivo de seu orgulho, levados como para um cativeiro; seus filhos foram trucidados nas ruas e seus jovens sucumbiram ao gládio do inimigo."
+    },
+    {
+      "numero": 10,
+      "texto": "Que povo há que não tenha herdado de seus atributos reais, que não se tenha apoderado dos seus despojos?"
+    },
+    {
+      "numero": 11,
+      "texto": "Toda a sua glória desapareceu e, de livre que era, tornou-se escrava."
+    },
+    {
+      "numero": 12,
+      "texto": "Eis que tudo o que tínhamos de sagrado, de belo, de glorioso, foi assolado e profanado pelas nações."
+    },
+    {
+      "numero": 13,
+      "texto": "Por que viver ainda?”."
+    },
+    {
+      "numero": 14,
+      "texto": "Matatias e seus filhos rasgaram suas vestes, cobriram-se de sacos e choraram amargamente."
+    },
+    {
+      "numero": 15,
+      "texto": "Sobrevieram enviados do rei a Modin, para impor a apostasia e obrigar a sacrificar."
+    },
+    {
+      "numero": 16,
+      "texto": "Muitos dos israelitas uniram-se a eles, mas Matatias e seus filhos permaneceram firmes."
+    },
+    {
+      "numero": 17,
+      "texto": "Em resposta disseram-lhe os que vinham da parte do rei: “Possuis nesta cidade notável influência e consideração, teus irmãos e teus filhos te dão autoridade."
+    },
+    {
+      "numero": 18,
+      "texto": "Vem, pois, como primeiro executar a ordem do rei, como o fizeram todas as nações, os habitantes de Judá e os que ficaram em Jerusalém. Serás contado, tu e teus filhos, entre os amigos do rei; a ti e aos teus filhos o rei vos honrará, cumulando-vos de prata, de ouro e de presentes!”."
+    },
+    {
+      "numero": 19,
+      "texto": "Matatias respondeu-lhes: “Ainda mesmo que todas as nações que se acham no reino do rei o escutassem, de modo que todos renegassem a fé de seus pais e aquiescessem às suas ordens,"
+    },
+    {
+      "numero": 20,
+      "texto": "eu, meus filhos e meus irmãos perseveraremos na Aliança concluída por nossos antepassados."
+    },
+    {
+      "numero": 21,
+      "texto": "Que Deus nos preserve de abandonarmos a Lei e os mandamentos."
+    },
+    {
+      "numero": 22,
+      "texto": "Não obedeceremos a essas ordens do rei e não nos desviaremos de nossa religião nem para a direita nem para a esquerda!”."
+    },
+    {
+      "numero": 23,
+      "texto": "Mal havia acabado de falar, eis que um judeu se adiantou para sacrificar no altar de Modin, à vista de todos, conforme as ordens do rei."
+    },
+    {
+      "numero": 24,
+      "texto": "Viu-o Matatias e, no ardor de seu zelo, sentiu estremecerem-se suas entranhas. Num ímpeto de justa cólera arrojou-se e matou o homem sobre o altar."
+    },
+    {
+      "numero": 25,
+      "texto": "Matou ao mesmo tempo o oficial incumbido da ordem de sacrificar e demoliu o altar."
+    },
+    {
+      "numero": 26,
+      "texto": "Com semelhante gesto mostrou ele seu amor pela Lei, como agiu Fineias a respeito de Zambri, filho de Salom."
+    },
+    {
+      "numero": 27,
+      "texto": "Em altos brados Matatias elevou a voz então na cidade: “Quem for fiel à Lei e permanecer firme na Aliança, saia e siga-me”."
+    },
+    {
+      "numero": 28,
+      "texto": "Assim, com seus filhos, fugiu em direção às montanhas, abandonando todos os seus bens na cidade."
+    },
+    {
+      "numero": 29,
+      "texto": "Então, uma grande parte dos que procuravam a Lei e a justiça encaminharam-se para o deserto."
+    },
+    {
+      "numero": 30,
+      "texto": "Ali refugiaram-se, com seus filhos, suas mulheres e seus rebanhos, porque as desgraças os oprimiam cruelmente."
+    },
+    {
+      "numero": 31,
+      "texto": "Contaram aos oficiais do rei e às forças acantonadas em Jerusalém, na Cidade de Davi, que certo número de judeus, culpáveis de terem transgredido a ordem real, havia descido ao deserto, para ali se ocultar e que muitos se haviam precipitado em seu seguimento."
+    },
+    {
+      "numero": 32,
+      "texto": "Os sírios arremessaram-se ao encalço deles e os alcançaram, depois se prepararam para agredi-los em dia de sábado."
+    },
+    {
+      "numero": 33,
+      "texto": "“Isso basta, agora – gritaram-lhes eles –, saí, obedecei à ordem do rei e vivereis.”"
+    },
+    {
+      "numero": 34,
+      "texto": "“Não sairemos –, replicaram os judeus – e não obedeceremos às ordens do rei, com a profanação do dia de sábado.”"
+    },
+    {
+      "numero": 35,
+      "texto": "Instantaneamente os sírios travaram combate contra eles;"
+    },
+    {
+      "numero": 36,
+      "texto": "mas eles não responderam, não atiraram uma só pedra e não obstruíram as entradas dos esconderijos."
+    },
+    {
+      "numero": 37,
+      "texto": "“Que morramos todos inocentes. O céu e a terra nos servirão de testemunhas de que nos matais injustamente.”"
+    },
+    {
+      "numero": 38,
+      "texto": "E foi assim que os inimigos se lançaram sobre eles em dia de sábado. Eles morreram com suas esposas, seus filhos e seu rebanho. Eram cerca de mil pessoas."
+    },
+    {
+      "numero": 39,
+      "texto": "Matatias e seus amigos o souberam e comoveram-se muito."
+    },
+    {
+      "numero": 40,
+      "texto": "E disseram uns aos outros: “Se todos agirmos como nossos irmãos, se não pelejarmos contra os estrangeiros para pormos a salvo nossas vidas e nossas leis, nos exterminarão bem depressa da terra”."
+    },
+    {
+      "numero": 41,
+      "texto": "Tomaram, pois, naquele dia a seguinte resolução: “Mesmo que nos ataquem em dia de sábado, lutaremos contra eles e não nos deixaremos matar a todos nós, como o fizeram nossos irmãos no seu esconderijo”."
+    },
+    {
+      "numero": 42,
+      "texto": "Então, se ajuntou a eles o grupo dos judeus assideus, particularmente valentes em Israel, apegados à Lei;",
+      "nota": true
+    },
+    {
+      "numero": 43,
+      "texto": "e todos os que fugiam das perseguições se ajuntaram do mesmo modo a eles e os reforçaram."
+    },
+    {
+      "numero": 44,
+      "texto": "Formaram, pois, um exército e na sua ira e indignação massacraram certo número de prevaricadores e de traidores da Lei; os outros procuraram refúgio junto aos estrangeiros."
+    },
+    {
+      "numero": 45,
+      "texto": "Assim, Matatias e seus amigos percorreram o país, destruíram os altares e"
+    },
+    {
+      "numero": 46,
+      "texto": "circuncidaram à força as crianças, ainda incircuncisas nas fronteiras de Israel"
+    },
+    {
+      "numero": 47,
+      "texto": "e perseguiram os sírios orgulhosos. Sua empresa alcançou bom êxito."
+    },
+    {
+      "numero": 48,
+      "texto": "Arrancaram a Lei do poder dos gentios e dos reis e não permitiram que prevalecesse o mal."
+    },
+    {
+      "numero": 49,
+      "texto": "Ora, chegou para Matatias o dia de sua morte e ele disse a seus filhos: “O que domina até este momento é o orgulho, o ódio, a desordem e a cólera."
+    },
+    {
+      "numero": 50,
+      "texto": "Sede, pois, agora, meus filhos, os defensores da Lei e dai a vossa vida pela Aliança de nossos pais."
+    },
+    {
+      "numero": 51,
+      "texto": "Recordai-vos dos feitos que vossos antepassados realizaram na época em que viveram, e merecereis grande glória e nome eterno."
+    },
+    {
+      "numero": 52,
+      "texto": "Porventura, não foi na prova que Abraão permaneceu fiel? E não lhe foi isso imputado em justiça?"
+    },
+    {
+      "numero": 53,
+      "texto": "José observou os mandamentos na sua desgraça e veio a ser o senhor do Egito."
+    },
+    {
+      "numero": 54,
+      "texto": "Fineias, nosso antepassado, por ter sido inflamado de zelo, recebeu a promessa de um sacerdócio perpétuo."
+    },
+    {
+      "numero": 55,
+      "texto": "Josué, cumprindo a palavra de Deus, veio a ser juiz em Israel."
+    },
+    {
+      "numero": 56,
+      "texto": "Caleb deu testemunho na assembleia e herdou a terra."
+    },
+    {
+      "numero": 57,
+      "texto": "Por todos os séculos, em vista de sua piedade, mereceu Davi o trono real."
+    },
+    {
+      "numero": 58,
+      "texto": "Porque ardia em zelo pela Lei, Elias foi arrebatado ao céu."
+    },
+    {
+      "numero": 59,
+      "texto": "Ananias, Azarias e Misael foram salvos das chamas por terem tido fé."
+    },
+    {
+      "numero": 60,
+      "texto": "Daniel, na sua retidão, foi salvo da boca dos leões."
+    },
+    {
+      "numero": 61,
+      "texto": "Recordai-vos assim, de geração em geração, de que todos os que esperam em Deus não desfalecem."
+    },
+    {
+      "numero": 62,
+      "texto": "Não temais as ameaças do pecador, pois sua glória acabará em lama e vermes."
+    },
+    {
+      "numero": 63,
+      "texto": "Hoje ele se eleva e amanhã desaparecerá, porque tornará ao pó, e seus planos serão frustrados."
+    },
+    {
+      "numero": 64,
+      "texto": "Quanto a vós, meus filhos, sede corajosos e destemidos em observar a Lei, porque por ela chegareis à glória."
+    },
+    {
+      "numero": 65,
+      "texto": "Aqui tendes Simeão, vosso irmão. Sei que ele é homem de conselho, ouvi-o sempre e será para vós um pai."
+    },
+    {
+      "numero": 66,
+      "texto": "Judas Macabeu, bravo desde a juventude, será o general do exército e dirigirá a guerra contra os gentios."
+    },
+    {
+      "numero": 67,
+      "texto": "Atraireis a vós todos os que observam a Lei e vingareis vosso povo."
+    },
+    {
+      "numero": 68,
+      "texto": "Pagai aos gentios o que nos fizeram e atendei aos preceitos da Lei”."
+    },
+    {
+      "numero": 69,
+      "texto": "Depois disso, abençoou-os e foi unir-se a seus pais."
+    },
+    {
+      "numero": 70,
+      "texto": "Morreu no ano cento e quarenta e seis. Seus filhos sepultaram-no em Modin, no túmulo de seus antepassados. Todo Israel o chorou dolorosamente.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "2:1-5",
+      "texto": "Matatias, um sacerdote fiel, se levanta como líder de resistência contra as ordens de Antíoco. Seus filhos, incluindo Judas Macabeu, desempenharão papéis importantes na luta pela libertação (veja também Números 25:11-13 e Hebreus 11:32-34)."
+    },
+    {
+      "ref": "2:19-22",
+      "texto": "Matatias recusa obedecer às ordens do rei, afirmando que permanecerá fiel à Lei de Deus. Esta atitude de firmeza diante da opressão reflete a importância da lealdade à fé (veja também Daniel 3:16-18 e Atos 5:29)."
+    },
+    {
+      "ref": "2:27-28",
+      "texto": "Matatias convoca os fiéis a resistirem à tirania e a fugirem para o deserto, ecoando o tema do êxodo e da purificação do povo de Deus para a luta justa (veja também Êxodo 2:15 e Hebreus 11:38)."
+    },
+    {
+      "ref": "2:49-50",
+      "texto": "Antes de sua morte, Matatias exorta seus filhos a serem zelosos pela Lei e prontos para dar suas vidas pela aliança com Deus. Seu discurso ecoa o chamado à santidade e coragem (veja também Josué 23:6-8 e Deuteronômio 31:6)."
+    },
+    {
+      "ref": "2:65-70",
+      "texto": "Matatias nomeia Judas Macabeu como seu sucessor, confiando-lhe a liderança na batalha contra os opressores. Este legado de liderança é fundamental para a resistência judaica (veja também 2 Samuel 23:1-2 e Juízes 2:18-19)."
+    }
+  ]
+}

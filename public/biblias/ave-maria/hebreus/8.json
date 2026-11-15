@@ -1,0 +1,83 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "hebreus",
+  "nome": "Hebreus",
+  "testamento": "NT",
+  "capitulo": 8,
+  "totalVersiculos": 13,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/hebreus/8/",
+  "capturadoEm": "2026-11-15T09:29:12-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O ponto essencial do que acabamos de dizer é este: temos um Sumo Sacerdote, que está sentado à direita do trono da Majestade divina nos céus,"
+    },
+    {
+      "numero": 2,
+      "texto": "Ministro do santuário e do verdadeiro tabernáculo, erigido pelo Senhor, e não por homens."
+    },
+    {
+      "numero": 3,
+      "texto": "Todo pontífice é constituído para oferecer dons e sacrifícios. Portanto, é necessário que ele tenha algo para oferecer."
+    },
+    {
+      "numero": 4,
+      "texto": "Por conseguinte, se ele estivesse na terra, nem mesmo sacerdote seria, porque já existem aqui sacerdotes que têm a missão de oferecer os dons prescritos pela Lei."
+    },
+    {
+      "numero": 5,
+      "texto": "O culto que estes celebram é, aliás, apenas a imagem, sombra das realidades celestiais, como foi revelado a Moisés quando estava para construir o tabernáculo: Olha, foi-lhe dito, faze todas as coisas conforme o modelo que te foi mostrado no monte (Ex 25,40)."
+    },
+    {
+      "numero": 6,
+      "texto": "Ao nosso Sumo Sacerdote, entretanto, compete ministério tanto mais excelente quanto ele é mediador de uma aliança mais perfeita, selada por melhores promessas."
+    },
+    {
+      "numero": 7,
+      "texto": "Porque, se a primeira tivesse sido sem defeito, certamente não haveria lugar para outra."
+    },
+    {
+      "numero": 8,
+      "texto": "Ora, sem dúvida, há uma censura nestas palavras: Eis que virão dias – oráculo do Senhor – em que estabelecerei com a casa de Israel e com a casa de Judá uma aliança nova."
+    },
+    {
+      "numero": 9,
+      "texto": "Não como a aliança que fiz com os seus pais no dia em que os tomei pela mão para tirá-los da terra do Egito. Como eles não permaneceram fiéis ao pacto, eu me desinteressei deles – oráculo do Senhor."
+    },
+    {
+      "numero": 10,
+      "texto": "Mas esta é a aliança que estabelecerei com a casa de Israel depois daqueles dias: imprimirei as minhas leis no seu espírito e as gravarei no seu coração. Eu serei seu Deus, e eles serão meu povo."
+    },
+    {
+      "numero": 11,
+      "texto": "Ninguém mais terá que ensinar a seu concidadão, ninguém a seu irmão, dizendo: “Conhece o Senhor”, porque todos me conhecerão, desde o menor até o maior."
+    },
+    {
+      "numero": 12,
+      "texto": "Eu lhes perdoarei as suas iniquidades, e já não me lembrarei dos seus pecados (Jr 31,31-34)."
+    },
+    {
+      "numero": 13,
+      "texto": "Se Deus fala de uma aliança nova é que ele declara antiquada a precedente. Ora, o que é antiquado e envelhecido está certamente fadado a desaparecer."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "8:1-2",
+      "texto": "O autor destaca que Jesus é o Sumo Sacerdote perfeito, que serve no verdadeiro tabernáculo celestial, em contraste com o antigo tabernáculo terreno. Ele é o mediador da nova aliança (veja também Êxodo 25:9 e Lucas 22:20)."
+    },
+    {
+      "ref": "8:6-7",
+      "texto": "A nova aliança, mediada por Cristo, é superior à antiga, pois se baseia em promessas melhores. A aliança de Cristo traz um novo coração e uma transformação interior (veja também Jeremias 31:31-34 e Mateus 26:28)."
+    },
+    {
+      "ref": "8:8-12",
+      "texto": "O autor cita a promessa de Jeremias sobre a nova aliança, onde Deus escreverá Suas leis no coração do Seu povo, em vez de em tábuas de pedra. A obediência a Deus será interior e espontânea (veja também Jeremias 31:33-34 e Romanos 2:29)."
+    },
+    {
+      "ref": "8:13",
+      "texto": "O autor conclui que a antiga aliança está envelhecendo e prestes a desaparecer, enquanto a nova aliança em Cristo é eterna e perfeita, trazendo uma transformação duradoura para os crentes (veja também 2 Coríntios 3:6-11 e Apocalipse 21:1-4)."
+    }
+  ]
+}

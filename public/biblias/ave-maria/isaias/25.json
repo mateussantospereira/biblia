@@ -1,0 +1,81 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 25,
+  "totalVersiculos": 12,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/25/",
+  "capturadoEm": "2026-11-15T09:21:38-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Senhor, vós sois meu Deus; eu vos exaltarei e celebrarei vosso nome, porque executastes maravilhosos desígnios, concebidos, de há muito, com firme constância."
+    },
+    {
+      "numero": 2,
+      "texto": "Reduzistes a cidade a um montão de pedras e a fortaleza a um acervo de ruínas. A cidadela dos orgulhosos está aniquilada e jamais será reconstruída.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Por isso, um povo forte vos glorifica e a sociedade das nações valentes vos venera."
+    },
+    {
+      "numero": 4,
+      "texto": "Porque vós sois refúgio para o fraco, refúgio para o pobre na sua tribulação, abrigo contra a tempestade e sombra contra o calor. Porque o sopro dos tiranos é como uma tempestade de inverno,",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "como o calor sobre uma terra árida. Vós fazeis cessar o clamor dos tiranos, assim como cessa o calor à sombra de uma nuvem. O canto triunfal dos tiranos se extinguirá."
+    },
+    {
+      "numero": 6,
+      "texto": "O Senhor dos exércitos preparou para todos os povos, nesse monte, um banquete de carnes gordas, um festim de vinhos velhos, de carnes gordas e medulosas, de vinhos velhos purificados."
+    },
+    {
+      "numero": 7,
+      "texto": "Nesse monte tirará o véu que vela todos os povos, a cortina que recobre todas as nações,"
+    },
+    {
+      "numero": 8,
+      "texto": "e fará desaparecer a morte para sempre. O Senhor Deus enxugará as lágrimas de todas as faces e tirará de toda a terra o opróbrio que pesa sobre o seu povo, porque o Senhor o disse."
+    },
+    {
+      "numero": 9,
+      "texto": "Naquele dia, dirão: “Eis nosso Deus do qual esperamos nossa libertação. Congratulemo-nos, rejubilemo-nos por seu socorro,"
+    },
+    {
+      "numero": 10,
+      "texto": "porque a mão do Senhor repousa neste monte, enquanto que Moab é pisada no seu lugar como pisada é a palha no monturo."
+    },
+    {
+      "numero": 11,
+      "texto": "Aí estende as suas mãos como as estende o nadador para nadar. Porém, o Senhor abate o seu orgulho, e frustra-lhe o esforço das mãos."
+    },
+    {
+      "numero": 12,
+      "texto": "Suas muralhas, soberbas e fortes, ele as faz cair e as arrasa até o rés do chão”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "25:1-3",
+      "texto": "Isaías louva a Deus por Suas maravilhas e planos eternos, que incluem a vitória sobre os inimigos e o fortalecimento dos humildes. Essa passagem destaca a fidelidade de Deus e Seu domínio soberano (veja também Salmo 9:1-2 e Êxodo 15:11)."
+    },
+    {
+      "ref": "25:6-8",
+      "texto": "Deus prepara um banquete para todos os povos e destrói o véu da morte. A promessa de vitória sobre a morte e tristeza reflete a esperança messiânica e a restauração futura (veja também Apocalipse 21:4 e 1 Coríntios 15:54)."
+    },
+    {
+      "ref": "25:9-10",
+      "texto": "O povo de Deus proclama sua alegria e confiança no Senhor, que é refúgio e salvação. Essa celebração reforça o tema da esperança em Deus em meio às provações (veja também Salmo 118:24 e Isaías 12:2)."
+    },
+    {
+      "ref": "25:11-12",
+      "texto": "Deus humilha os orgulhosos e derrota seus inimigos, mostrando Sua justiça e poder. A soberania de Deus é exaltada em contraste com a fragilidade humana (veja também Jó 40:11-12 e Provérbios 16:18)."
+    }
+  ]
+}

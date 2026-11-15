@@ -1,0 +1,105 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "habacuc",
+  "nome": "Habacuc",
+  "testamento": "AT",
+  "capitulo": 1,
+  "totalVersiculos": 17,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/habacuc/1/",
+  "capturadoEm": "2026-11-15T09:25:11-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Oráculo recebido em visão pelo profeta Habacuc."
+    },
+    {
+      "numero": 2,
+      "texto": "Até quando, Senhor, implorarei sem que escuteis? Até quando vos clamarei: “Violência!”, sem que venhais em socorro?"
+    },
+    {
+      "numero": 3,
+      "texto": "Por que me mostrais o espetáculo da iniquidade, e contemplais vós mesmo essa desgraça? Só vejo diante de mim opressão e violência, nada mais que discórdias e contendas,"
+    },
+    {
+      "numero": 4,
+      "texto": "porque a Lei se acha desacreditada, e não se vê mais a justiça; porque o ímpio cerca o justo, e a equidade encontra-se falseada."
+    },
+    {
+      "numero": 5,
+      "texto": "Olhai para as nações e vede. Ficareis assombrados, pasmos, porque vou realizar em vossos dias uma obra, que não acreditaríeis, se vo-la contassem.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Vou suscitar os caldeus, esse povo feroz e impetuoso, que se espalha através de vastas extensões de terra, para se apoderar de moradas que não são suas."
+    },
+    {
+      "numero": 7,
+      "texto": "Ele é terrível e temível, dele próprio procedem seu direito e sua grandeza."
+    },
+    {
+      "numero": 8,
+      "texto": "Seus cavalos são mais ligeiros que as panteras, mais ágeis que os lobos da noite. Seus cavaleiros precipitam-se; eles vêm de longe, e voam como águia que se atira sobre a presa."
+    },
+    {
+      "numero": 9,
+      "texto": "Todos correm para a violência, olhos fixos diante de si; amontoam cativos como grãos de areia."
+    },
+    {
+      "numero": 10,
+      "texto": "Esse povo zomba dos reis, os príncipes são o objeto de seus gracejos; ele se ri de todas as fortalezas: levanta montões de terra e toma-as.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Depois o furacão muda de rumo e passa, pratica o mal, ele, cujo deus é a força.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Não sois vós, Senhor, desde o princípio, o meu Deus, o meu Santo, o Imortal? Senhor, vós destinastes este povo para fazer justiça, o Rochedo, vós o designastes para aplicar castigos.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Vossos olhos são por demais puros para verem o mal, não podeis contemplar o sofrimento. Por que olharíeis os ímpios e vos calaríeis, enquanto o malvado devora o justo?"
+    },
+    {
+      "numero": 14,
+      "texto": "Trataríeis os homens como os peixes do mar, como os répteis que não têm dono...",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Ele pesca todos com o anzol, pega-os no covo, e recolhe-os na rede: e, com isso, se alegra e exulta.",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "Por isso, oferece sacrifícios à sua nassa, e queima perfumes à sua rede porque, graças a elas, teve pesca abundante e suculento manjar."
+    },
+    {
+      "numero": 17,
+      "texto": "Mas continuará ele a esvaziar sua rede e a degolar impiedosamente as nações?"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:1-4",
+      "texto": "Habacuc inicia sua oração com uma queixa contra a injustiça e a violência prevalentes em Judá. Ele questiona Deus sobre o silêncio diante da corrupção. A situação reflete a luta de muitos crentes diante da maldade no mundo, buscando entender por que Deus permite tal sofrimento (veja também Salmo 13:1-2 e Jeremias 12:1-4)."
+    },
+    {
+      "ref": "1:5-11",
+      "texto": "Deus responde que Ele levantará os babilônios como instrumento de juízo sobre Judá. A resposta divina destaca o poder soberano de Deus sobre as nações e Sua capacidade de usar até os inimigos para cumprir Seus planos. Isso desafia a compreensão humana sobre a justiça de Deus (veja também Isaías 10:5-7 e Jeremias 25:9)."
+    },
+    {
+      "ref": "1:12-17",
+      "texto": "Habacuc questiona a justiça de Deus, pedindo esclarecimento sobre o uso dos babilônios, um povo ainda mais ímpio que os judeus. Ele expressa a tensão entre a santidade de Deus e a aparente prosperidade dos ímpios. Essa é uma dúvida comum em tempos de sofrimento, quando a maldade parece triunfar (veja também Salmo 73:3-17 e Romanos 9:19-21)."
+    },
+    {
+      "ref": "1:18-20",
+      "texto": "Habacuc afirma que, embora o mal e a violência prevaleçam, ele confia na justiça de Deus. Ele reconhece que Deus é soberano sobre todas as nações, e Sua justiça será feita no tempo certo. A confiança em Deus, mesmo diante do mal, é uma lição central para os fiéis (veja também Isaías 66:15-16 e Apocalipse 6:9-11)."
+    }
+  ]
+}

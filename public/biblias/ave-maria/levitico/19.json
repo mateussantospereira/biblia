@@ -1,0 +1,186 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "levitico",
+  "nome": "Levítico",
+  "testamento": "AT",
+  "capitulo": 19,
+  "totalVersiculos": 37,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/levitico/19/",
+  "capturadoEm": "2026-11-15T09:09:00-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Senhor disse a Moisés:"
+    },
+    {
+      "numero": 2,
+      "texto": "“Dirás a toda a assembleia de Israel o seguinte: Sede santos, porque eu, o Senhor, vosso Deus, sou santo."
+    },
+    {
+      "numero": 3,
+      "texto": "Cada um de vós respeite a sua mãe e o seu pai, e guarde os meus sábados. Eu sou o Senhor, vosso Deus."
+    },
+    {
+      "numero": 4,
+      "texto": "Não vos volteis para os ídolos, e não façais para vós deuses de metal fundido. Eu sou o Senhor, vosso Deus."
+    },
+    {
+      "numero": 5,
+      "texto": "Quando oferecerdes ao Senhor um sacrifício pacífico, oferecei-o de maneira que seja aceito."
+    },
+    {
+      "numero": 6,
+      "texto": "A vítima deverá ser comida no mesmo dia ou no dia seguinte. O que sobrar no terceiro dia será queimado no fogo."
+    },
+    {
+      "numero": 7,
+      "texto": "Se se comer dela no terceiro dia, será uma abominação: o sacrifício não será aceito."
+    },
+    {
+      "numero": 8,
+      "texto": "Quem o comer levará sua iniquidade, porque terá profanado o que é consagrado ao Senhor. Esse será cortado do seu povo."
+    },
+    {
+      "numero": 9,
+      "texto": "Quando fizerdes a ceifa em vossa terra, não cortareis as espigas até os limites de vosso campo, e não recolhereis o que resta a respigar de vossas colheitas."
+    },
+    {
+      "numero": 10,
+      "texto": "Não respigareis tampouco a vossa vinha, nem colhereis os grãos caídos no campo. Deverá deixar isso para o pobre e o estrangeiro. Eu sou o Senhor, vosso Deus."
+    },
+    {
+      "numero": 11,
+      "texto": "Não furtareis, não usareis de embustes nem de mentiras uns para com os outros."
+    },
+    {
+      "numero": 12,
+      "texto": "Não jurareis falso em meu nome, porque profanaríeis o nome de vosso Deus. Eu sou o Senhor.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Não oprimirás o teu próximo, e não o despojarás. O salário do teu operário não ficará contigo até o dia seguinte."
+    },
+    {
+      "numero": 14,
+      "texto": "Não amaldiçoarás um surdo; não porás algo como tropeço diante do cego; mas temerás o teu Deus. Eu sou o Senhor."
+    },
+    {
+      "numero": 15,
+      "texto": "Não sereis injustos em vossos juízos: Não favorecerás o pobre nem terás complacência com o grande; mas segundo a justiça julgarás o teu próximo."
+    },
+    {
+      "numero": 16,
+      "texto": "Não semearás a difamação no meio de teu povo, nem te apresentarás como testemunha contra a vida do teu próximo. Eu sou o Senhor."
+    },
+    {
+      "numero": 17,
+      "texto": "Não odiarás o teu irmão no teu coração. Repreenderás o teu próximo para que não incorras em pecado por sua causa."
+    },
+    {
+      "numero": 18,
+      "texto": "Não te vingarás; não guardarás rancor contra os filhos de teu povo. Amarás o teu próximo como a ti mesmo. Eu sou o Senhor.",
+      "nota": true
+    },
+    {
+      "numero": 19,
+      "texto": "Guardareis os meus mandamentos. Não juntarás animais de espécies diferentes. Não semearás no teu campo grãos de espécies diferentes. Não usarás roupas tecidas de duas espécies de fios."
+    },
+    {
+      "numero": 20,
+      "texto": "Se um homem se deitar com uma mulher escrava desposada com outro, mas não resgatada nem posta em liberdade, serão ambos castigados, mas não morrerão, porque ela não era livre."
+    },
+    {
+      "numero": 21,
+      "texto": "Em expiação o homem oferecerá ao Senhor, à entrada da tenda de reunião, um carneiro como sacrifício de reparação."
+    },
+    {
+      "numero": 22,
+      "texto": "O sacerdote fará por ele a expiação diante do Senhor com o carneiro do sacrifício de reparação pelo pecado cometido; e o seu pecado lhe será perdoado."
+    },
+    {
+      "numero": 23,
+      "texto": "Quando entrardes na terra e tiverdes plantado toda a sorte de árvores frutíferas, considerareis os seus primeiros frutos como incircuncisos. Eles o serão durante três anos, e não se comerá deles."
+    },
+    {
+      "numero": 24,
+      "texto": "No quarto ano todos os seus frutos serão consagrados ao Senhor com ações de graças."
+    },
+    {
+      "numero": 25,
+      "texto": "No quinto ano, comereis de seus frutos para que a árvore continue a produzi-los. Eu sou o Senhor, vosso Deus."
+    },
+    {
+      "numero": 26,
+      "texto": "Não comereis nada que contenha sangue. Não praticareis a adivinhação nem a magia."
+    },
+    {
+      "numero": 27,
+      "texto": "Não cortareis o cabelo em redondo, nem rapareis a barba pelos lados.",
+      "nota": true
+    },
+    {
+      "numero": 28,
+      "texto": "Não fareis incisões na vossa carne por um morto, nem fareis figura alguma no vosso corpo. Eu sou o Senhor."
+    },
+    {
+      "numero": 29,
+      "texto": "Não prostituas tua filha, para que a terra não se entregue à prostituição e não se encha de crimes."
+    },
+    {
+      "numero": 30,
+      "texto": "Observareis meus sábados e respeitareis meu santuário. Eu sou o Senhor."
+    },
+    {
+      "numero": 31,
+      "texto": "Não vos dirijais aos necromantes nem aos adivinhos: não os consulteis, para que não sejais contaminados por eles. Eu sou o Senhor, vosso Deus."
+    },
+    {
+      "numero": 32,
+      "texto": "Levanta-te diante dos cabelos brancos; honra a pessoa do velho e teme a teu Deus. Eu sou o Senhor."
+    },
+    {
+      "numero": 33,
+      "texto": "Se um estrangeiro vier habitar convosco na vossa terra, não o oprimireis,"
+    },
+    {
+      "numero": 34,
+      "texto": "mas esteja ele entre vós como um compatriota, e tu o amarás como a ti mesmo, porque fostes já estrangeiros no Egito. Eu sou o Senhor, vosso Deus."
+    },
+    {
+      "numero": 35,
+      "texto": "Não cometereis injustiça nos juízos, nem na vara, nem no peso, nem na medida."
+    },
+    {
+      "numero": 36,
+      "texto": "Tereis balanças justas, pesos justos, um efá justo e um hin justo. Eu sou o Senhor, vosso Deus, que vos tirei do Egito."
+    },
+    {
+      "numero": 37,
+      "texto": "Observareis todas as minhas leis e meus mandamentos, e os praticareis. Eu sou o Senhor”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "19:1-2",
+      "texto": "Deus ordena que Seu povo seja santo porque Ele é santo. Esse chamado à santidade é um princípio fundamental da vida religiosa em Israel, e a santidade deve permear todas as áreas da vida (veja também 1 Pedro 1:15-16 e Mateus 5:48)."
+    },
+    {
+      "ref": "19:9-10",
+      "texto": "As leis sobre deixar as sobras das colheitas para os pobres e estrangeiros refletem a justiça social e a misericórdia. Deus deseja que Seu povo cuide dos necessitados, promovendo um espírito de generosidade e compaixão (veja também Deuteronômio 24:19-21 e Tiago 1:27)."
+    },
+    {
+      "ref": "19:11-12",
+      "texto": "Deus proíbe o roubo, a mentira e o falso juramento, destacando a integridade e a honestidade que devem caracterizar Seu povo. A fidelidade à verdade reflete o caráter de Deus (veja também Efésios 4:25 e Provérbios 12:22)."
+    },
+    {
+      "ref": "19:17-18",
+      "texto": "A ordem de não guardar rancor e de amar o próximo como a si mesmo é uma das maiores expressões da ética bíblica. Jesus cita esse mandamento como um dos dois maiores mandamentos (veja também Mateus 22:39 e Romanos 13:8-10)."
+    },
+    {
+      "ref": "19:35-36",
+      "texto": "As leis sobre pesos e medidas justas destacam a importância da justiça e da honestidade nas transações comerciais. Deus exige que Seu povo seja justo em todos os aspectos da vida (veja também Provérbios 11:1 e Miquéias 6:11)."
+    }
+  ]
+}

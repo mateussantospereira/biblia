@@ -1,0 +1,109 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "hebreus",
+  "nome": "Hebreus",
+  "testamento": "NT",
+  "capitulo": 3,
+  "totalVersiculos": 19,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/hebreus/3/",
+  "capturadoEm": "2026-11-15T09:29:07-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Portanto, irmãos santos, participantes da vocação que vos destina à herança do céu, considerai o mensageiro e pontífice da fé que professamos, Jesus."
+    },
+    {
+      "numero": 2,
+      "texto": "Ele é fiel àquele que o constituiu, como também Moisés o foi em toda a sua casa (Nm 12,7)."
+    },
+    {
+      "numero": 3,
+      "texto": "Porém, é tido muito superior em glória a Moisés, tanto quanto o fundador de uma casa é mais digno do que a própria casa."
+    },
+    {
+      "numero": 4,
+      "texto": "Pois toda casa tem seu construtor, mas o construtor de todas as coisas é Deus."
+    },
+    {
+      "numero": 5,
+      "texto": "Moisés foi fiel em toda a sua casa, como servo e testemunha das palavras de Deus.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Cristo, porém, o foi como Filho à frente de sua própria casa. E sua casa somos nós, contanto que permaneçamos firmes, até o fim, professando intrepidamente a nossa fé e ufanos da esperança que nos pertence."
+    },
+    {
+      "numero": 7,
+      "texto": "Por isso, como diz o Espírito Santo: Hoje, se ouvirdes a sua voz,"
+    },
+    {
+      "numero": 8,
+      "texto": "não endureçais os vossos corações, como por ocasião da revolta, como no dia da tentação no deserto,"
+    },
+    {
+      "numero": 9,
+      "texto": "quando vossos pais me puseram à prova e viram o meu poder por quarenta anos.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Eu me indignei contra aquela geração, porque andavam sempre extraviados em seu coração e não compreendiam absolutamente nada dos meus desígnios."
+    },
+    {
+      "numero": 11,
+      "texto": "Por isso, em minha ira, jurei que não haveriam de entrar no lugar de descanso que lhes prometera (Sl 94,8-11)!"
+    },
+    {
+      "numero": 12,
+      "texto": "Tomai precaução, meus irmãos, para que ninguém de vós venha a perder interiormente a fé, a ponto de abandonar o Deus vivo."
+    },
+    {
+      "numero": 13,
+      "texto": "Antes, animai-vos mutuamente cada dia durante todo o tempo compreendido na palavra hoje, para não acontecer que alguém se torne empedernido com a sedução do pecado."
+    },
+    {
+      "numero": 14,
+      "texto": "Porque somos incorporados a Cristo, mas sob a condição de conservarmos firme até o fim nossa fé dos primeiros dias,"
+    },
+    {
+      "numero": 15,
+      "texto": "enquanto se nos diz: Hoje, se ouvirdes a sua voz, não endureçais os vossos corações, como aconteceu no tempo da Revolta."
+    },
+    {
+      "numero": 16,
+      "texto": "E quais foram os que se revoltaram contra o Senhor depois de terem ouvido a sua voz? Não foram todos os que saíram do Egito, conduzidos por Moisés?"
+    },
+    {
+      "numero": 17,
+      "texto": "Contra quem esteve indignado o Senhor durante quarenta anos? Não foi contra os revoltosos, cujos corpos caíram no deserto?"
+    },
+    {
+      "numero": 18,
+      "texto": "E a quem jurou que não entrariam no seu descanso senão a estes rebeldes?"
+    },
+    {
+      "numero": 19,
+      "texto": "Portanto, estamos vendo: foi por causa da sua descrença que não puderam entrar."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-3",
+      "texto": "Jesus é apresentado como superior a Moisés, o líder de Israel, como parte do plano divino para a salvação. A comparação entre Jesus e Moisés destaca a excelência de Cristo como Mediador e Senhor (veja também Mateus 12:41-42 e Deuteronômio 18:15)."
+    },
+    {
+      "ref": "3:7-11",
+      "texto": "O autor adverte contra a dureza do coração e o cansaço espiritual, lembrando a rebeldia de Israel no deserto. O convite à fidelidade a Deus é contínuo e urgente (veja também Salmos 95:7-11 e 1 Coríntios 10:11-12)."
+    },
+    {
+      "ref": "3:12-14",
+      "texto": "O autor exorta os cristãos a se afastarem do pecado, permanecendo firmes até o fim. A perseverança na fé é essencial para a salvação e para a verdadeira comunhão com Cristo (veja também Filipenses 3:12-14 e Apocalipse 2:10)."
+    },
+    {
+      "ref": "3:16-19",
+      "texto": "O exemplo de Israel no deserto serve como advertência contra a incredulidade. O autor enfatiza que a desobediência impede a entrada na \"terra prometida\", que simboliza o descanso eterno em Cristo (veja também Números 14:22-23 e Mateus 11:28-30)."
+    }
+  ]
+}

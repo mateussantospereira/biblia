@@ -1,0 +1,190 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "eclesiastico",
+  "nome": "Eclesiástico",
+  "testamento": "AT",
+  "capitulo": 6,
+  "totalVersiculos": 37,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/eclesiastico/6/",
+  "capturadoEm": "2026-11-15T09:20:27-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "De amigo não te tornes inimigo de teu próximo, pois o malvado terá por sorte a vergonha e a ignomínia, como todo pecador invejoso e de língua fingida."
+    },
+    {
+      "numero": 2,
+      "texto": "Não te eleves como um touro nos pensamentos de teu coração, para não suceder que a tua loucura quebre a tua força,",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "devore as tuas folhas, apodreça os teus frutos e te deixe como uma árvore seca no deserto."
+    },
+    {
+      "numero": 4,
+      "texto": "Pois uma alma perversa é a perda de quem a possui; ele o tornará motivo de zombaria para seus inimigos, e irá conduzi-lo à sorte dos ímpios."
+    },
+    {
+      "numero": 5,
+      "texto": "Uma boa palavra multiplica os amigos e apazigua os inimigos; a linguagem elegante do homem virtuoso é uma opulência.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Dá-te bem com muitos, mas escolhe para conselheiro um entre mil."
+    },
+    {
+      "numero": 7,
+      "texto": "Se adquirires um amigo, adquire-o na provação, não confies nele tão depressa."
+    },
+    {
+      "numero": 8,
+      "texto": "Pois há amigos em certas horas que deixarão de o ser no dia da aflição."
+    },
+    {
+      "numero": 9,
+      "texto": "Há amigo que se torna inimigo, e há amigo que desvendará ódios, querelas e disputas;"
+    },
+    {
+      "numero": 10,
+      "texto": "há amigo que só o é para a mesa, e que deixará de o ser no dia da desgraça."
+    },
+    {
+      "numero": 11,
+      "texto": "Se teu amigo for constante, ele te será como um igual, e agirá livremente com os de tua casa.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Se se rebaixa em tua presença e se retrai diante de ti, terás aí, na união dos corações, uma excelente amizade.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Separa-te daqueles que são teus inimigos, e fica de sobreaviso diante de teus amigos."
+    },
+    {
+      "numero": 14,
+      "texto": "Um amigo fiel é uma poderosa proteção: quem o achou, descobriu um tesouro."
+    },
+    {
+      "numero": 15,
+      "texto": "Nada é comparável a um amigo fiel, o ouro e a prata não merecem ser postos em paralelo com a sinceridade de sua fé.",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "Um amigo fiel é um remédio de vida e imortalidade; quem teme o Senhor, achará esse amigo."
+    },
+    {
+      "numero": 17,
+      "texto": "Quem teme o Senhor terá também uma excelente amizade, pois seu amigo lhe será semelhante."
+    },
+    {
+      "numero": 18,
+      "texto": "Meu filho, aceita a instrução desde teus jovens anos; ganharás uma sabedoria que durará até a velhice."
+    },
+    {
+      "numero": 19,
+      "texto": "Vai ao encontro dela, como aquele que lavra e semeia, espera pacientemente seus excelentes frutos,"
+    },
+    {
+      "numero": 20,
+      "texto": "terás alguma pena em cultivá-la, mas, em breve, comerás os seus frutos."
+    },
+    {
+      "numero": 21,
+      "texto": "Quanto a sabedoria é amarga para os ignorantes! O insensato não permanecerá junto a ela."
+    },
+    {
+      "numero": 22,
+      "texto": "Ela lhes será como uma pesada pedra de provação, eles não tardarão a desfazer-se dela.",
+      "nota": true
+    },
+    {
+      "numero": 23,
+      "texto": "Pois a sabedoria que instrui justifica o seu nome, não se manifesta a muitos; mas, naqueles que a conhecem, persevera, até tê-los levado à presença de Deus."
+    },
+    {
+      "numero": 24,
+      "texto": "Escuta, meu filho, recebe um sábio conselho, não rejeites minha advertência."
+    },
+    {
+      "numero": 25,
+      "texto": "Mete os teus pés nos seus grilhões, e teu pescoço em suas correntes."
+    },
+    {
+      "numero": 26,
+      "texto": "Abaixa teu ombro para carregá-la, não sejas impaciente em suportar seus liames."
+    },
+    {
+      "numero": 27,
+      "texto": "Vem a ela com todo o teu coração. Guarda seus caminhos com todas as tuas forças."
+    },
+    {
+      "numero": 28,
+      "texto": "Segue-lhe os passos e ela se dará a conhecer; quando a tiveres abraçado, não a deixes."
+    },
+    {
+      "numero": 29,
+      "texto": "Pois acharás finalmente nela o teu repouso. E ela se transformará para ti em um motivo de alegria."
+    },
+    {
+      "numero": 30,
+      "texto": "Seus grilhões serão uma proteção, um firme apoio; suas correntes te serão um adorno glorioso;",
+      "nota": true
+    },
+    {
+      "numero": 31,
+      "texto": "pois nela há uma beleza que dá vida, e seus liames são ligaduras que curam."
+    },
+    {
+      "numero": 32,
+      "texto": "Como ele te revestirás como de uma vestimenta de glória, e a porás sobre ti como uma coroa de júbilo."
+    },
+    {
+      "numero": 33,
+      "texto": "Meu filho, se me ouvires com atenção, serás instruído; se submeteres o teu espírito, tu te tornarás sábio."
+    },
+    {
+      "numero": 34,
+      "texto": "Se me deres ouvido, receberás a doutrina. Se gostares de ouvir, adquirirás a sabedoria."
+    },
+    {
+      "numero": 35,
+      "texto": "Permanece na companhia dos doutos anciãos, une-te de coração à sua sabedoria, a fim de que possas ouvir o que dizem de Deus, e não te escapem suas louváveis máximas."
+    },
+    {
+      "numero": 36,
+      "texto": "Se vires um homem sensato, madruga para ir ter com ele, desgaste o teu pé o limiar de sua porta."
+    },
+    {
+      "numero": 37,
+      "texto": "Concentra teu pensamento nos preceitos de Deus, sê assíduo à meditação de seus mandamentos. Ele próprio te dará um coração, e a sabedoria que desejas te será concedida."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "6:1-2",
+      "texto": "Cuidado com a má reputação e o orgulho. Agir de forma imprudente pode afastar as pessoas e manchar sua honra. O orgulho precede a ruína, e uma boa reputação deve ser protegida (veja também Provérbios 16:18 e Filipenses 2:3)."
+    },
+    {
+      "ref": "6:5-6",
+      "texto": "A amizade verdadeira é preciosa. Escolha bem seus amigos e seja leal a eles. Muitos podem querer ser seus amigos, mas os amigos verdadeiros são poucos e devem ser mantidos próximos (veja também Provérbios 18:24 e João 15:13)."
+    },
+    {
+      "ref": "6:7-9",
+      "texto": "Teste a lealdade de seus amigos antes de confiar plenamente. Amizades interesseiras podem se revelar nos momentos de dificuldade. A verdadeira amizade é provada nas adversidades (veja também Provérbios 17:17 e 2 Timóteo 4:16)."
+    },
+    {
+      "ref": "6:18-19",
+      "texto": "A sabedoria é comparada a uma disciplina que deve ser cultivada com paciência. Quem a busca desde jovem colherá seus frutos na maturidade. Buscar a sabedoria é um processo gradual, mas recompensador (veja também Provérbios 4:7 e Tiago 1:5)."
+    },
+    {
+      "ref": "6:32-33",
+      "texto": "Ouvir os sábios e aceitar a disciplina leva ao entendimento. A humildade em aprender é fundamental para crescer na sabedoria. Quem busca conselhos e ouve os mais experientes se torna verdadeiramente sábio (veja também Provérbios 12:15 e Tiago 3:13)."
+    }
+  ]
+}

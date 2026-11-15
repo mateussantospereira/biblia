@@ -1,0 +1,120 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 79,
+  "totalVersiculos": 20,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/79/",
+  "capturadoEm": "2026-11-15T09:17:24-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. Conforme: “A lei é como os lírios”. Salmo de Asaf.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Escutai, ó pastor de Israel, vós que levais José como um rebanho.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Vós que assentais acima dos querubins mostrai vosso esplendor em presença de Efraim, Benjamim e Manassés. Despertai vosso poder, e vinde salvar-nos."
+    },
+    {
+      "numero": 4,
+      "texto": "Restaurai-nos, ó Senhor; mostrai-nos serena a vossa face e seremos salvos."
+    },
+    {
+      "numero": 5,
+      "texto": "Ó Deus dos exércitos, até quando vos irritareis contra o vosso povo em oração?"
+    },
+    {
+      "numero": 6,
+      "texto": "Vós o nutristes com o pão das lágrimas, e o fizestes sorver um copioso pranto."
+    },
+    {
+      "numero": 7,
+      "texto": "Vós nos tornastes uma presa disputada dos vizinhos: os inimigos zombam de nós."
+    },
+    {
+      "numero": 8,
+      "texto": "Restaurai-nos, ó Deus dos exércitos; mostrai-nos serena a vossa face e seremos salvos."
+    },
+    {
+      "numero": 9,
+      "texto": "Uma vinha do Egito vós arrancastes; expulsastes povos para replantá-la.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "O solo vós lhes preparastes; ela lançou raízes nele e se espalhou na terra."
+    },
+    {
+      "numero": 11,
+      "texto": "As montanhas se cobriram com sua sombra, seus ramos ensombraram os cedros de Deus."
+    },
+    {
+      "numero": 12,
+      "texto": "Até o mar ela estendeu sua ramagem, e até o rio os seus rebentos.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Por que derrubastes os seus muros, de sorte que os passantes a colham,"
+    },
+    {
+      "numero": 14,
+      "texto": "e a devaste o javali do mato, e sirva de pasto aos animais do campo?"
+    },
+    {
+      "numero": 15,
+      "texto": "Voltai, ó Deus dos exércitos; olhai do alto céu, vede e vinde visitar a vinha."
+    },
+    {
+      "numero": 16,
+      "texto": "Protegei este cepo por vós plantado, este rebento que vossa mão cuidou."
+    },
+    {
+      "numero": 17,
+      "texto": "Aqueles que a queimaram e cortaram pereçam em vossa presença ameaçadora."
+    },
+    {
+      "numero": 18,
+      "texto": "Estendei a mão sobre o homem que escolhestes, sobre o homem que haveis fortificado.",
+      "nota": true
+    },
+    {
+      "numero": 19,
+      "texto": "E não mais de vós nos apartaremos; conservai-nos a vida e então vos louvaremos."
+    },
+    {
+      "numero": 20,
+      "texto": "Restaurai-nos, Senhor, ó Deus dos exércitos; mostrai-nos serena a vossa face e seremos salvos."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "79:1-4",
+      "texto": "O salmista lamenta a destruição de Jerusalém e a profanação do templo pelos inimigos, clamando a Deus por justiça. A devastação de Israel é vista como um reflexo da ira divina sobre o pecado (veja também 2 Reis 25:8-12 e Jeremias 52:12-14)."
+    },
+    {
+      "ref": "79:5-7",
+      "texto": "O salmista clama a Deus, perguntando até quando Sua ira durará e pedindo que a justiça divina caia sobre os inimigos de Israel. Esse clamor revela o profundo anseio por libertação e vingança contra os opressores (veja também Salmo 94:1-2 e Lamentações 5:20-22)."
+    },
+    {
+      "ref": "79:8-9",
+      "texto": "O salmista pede perdão pelos pecados do povo e clama por misericórdia e salvação. Ele reconhece que a restauração de Israel depende do perdão e da compaixão de Deus (veja também Daniel 9:16-19 e Salmo 130:3-4)."
+    },
+    {
+      "ref": "79:10-12",
+      "texto": "Há um apelo para que Deus defenda Seu nome e vingue o sangue derramado de Seu povo, mostrando aos inimigos que Ele é o Deus verdadeiro. O desejo de justiça divina está ligado à defesa da honra de Deus (veja também Deuteronômio 32:43 e Ezequiel 36:21-23)."
+    },
+    {
+      "ref": "79:13",
+      "texto": "O salmista promete que, ao serem libertos, o povo dará graças a Deus e O louvará para sempre. A gratidão e o louvor são respostas apropriadas à misericórdia e à intervenção de Deus (veja também Salmo 50:14 e Hebreus 13:15)."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "romanos",
+  "nome": "Romanos",
+  "testamento": "NT",
+  "capitulo": 14,
+  "totalVersiculos": 23,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/romanos/14/",
+  "capturadoEm": "2026-11-15T09:27:50-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Acolhei aquele que é fraco na fé, com bondade, sem discutir as suas opiniões.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Um crê poder comer de tudo; outro, que é fraco, só come legumes."
+    },
+    {
+      "numero": 3,
+      "texto": "Quem come de tudo não despreze aquele que não come. Quem não come não julgue aquele que come, porque Deus o acolhe do mesmo modo."
+    },
+    {
+      "numero": 4,
+      "texto": "Quem és tu, para julgares o servo de outros? Que esteja firme, ou caia, isto é lá com o seu senhor. Mas ele estará firme, porque poderoso é Deus para o sustentar."
+    },
+    {
+      "numero": 5,
+      "texto": "Um faz distinção entre dia e dia; outro, porém, considera iguais todos os dias. Cada um proceda segundo sua convicção.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Quem distingue o dia, age assim pelo Senhor. Quem come de tudo o faz pelo Senhor, porque dá graças a Deus. E quem não come, abstém-se pelo Senhor, e igualmente dá graças a Deus."
+    },
+    {
+      "numero": 7,
+      "texto": "Nenhum de nós vive para si, e ninguém morre para si."
+    },
+    {
+      "numero": 8,
+      "texto": "Se vivemos, vivemos para o Senhor; se morremos, morremos para o Senhor. Quer vivamos, quer morramos, pertencemos ao Senhor."
+    },
+    {
+      "numero": 9,
+      "texto": "Para isso é que morreu Cristo e retomou a vida, para ser o Senhor tanto dos mortos como dos vivos."
+    },
+    {
+      "numero": 10,
+      "texto": "Por que julgas, então, o teu irmão? Ou por que desprezas o teu irmão? Todos temos que comparecer perante o tribunal de Deus."
+    },
+    {
+      "numero": 11,
+      "texto": "Porque está escrito: Por minha vida, diz o Senhor, diante de mim se dobrará todo joelho, e toda língua dará glória a Deus (Is 45,23)."
+    },
+    {
+      "numero": 12,
+      "texto": "Assim, pois, cada um de nós dará conta de si mesmo a Deus."
+    },
+    {
+      "numero": 13,
+      "texto": "Deixemos, pois, de nos julgar uns aos outros; antes, cuidai em não pôr um tropeço diante do vosso irmão ou dar-lhe ocasião de queda."
+    },
+    {
+      "numero": 14,
+      "texto": "Sei, estou convencido no Senhor Jesus de que nenhuma coisa é impura em si mesma; somente o é para quem a considera impura."
+    },
+    {
+      "numero": 15,
+      "texto": "Ora, se por uma questão de comida entristeces o teu irmão, já não vives segundo a caridade. Pela comida não causes a perdição daquele por quem Cristo morreu!",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "Não venha a tornar-se objeto de calúnia a tua vantagem."
+    },
+    {
+      "numero": 17,
+      "texto": "O Reino de Deus não é comida nem bebida, mas justiça, paz e gozo no Espírito Santo."
+    },
+    {
+      "numero": 18,
+      "texto": "Quem deste modo serve a Cristo, agrada a Deus e goza de estima dos homens."
+    },
+    {
+      "numero": 19,
+      "texto": "Portanto, apliquemo-nos ao que contribui para a paz e para a mútua edificação."
+    },
+    {
+      "numero": 20,
+      "texto": "Não destruas a obra de Deus por questão de comida. Todas as coisas, em verdade, são puras, mas o que é mau para um homem é o fato de comer provocando um escândalo."
+    },
+    {
+      "numero": 21,
+      "texto": "Bom é não comer carne, nem beber vinho, nem outra coisa que para teu irmão possa ser uma ocasião de queda."
+    },
+    {
+      "numero": 22,
+      "texto": "Tens uma convicção; guarda-a para ti mesmo, diante de Deus. Feliz é aquele que não se condena a si mesmo no ato a que se decide."
+    },
+    {
+      "numero": 23,
+      "texto": "Mas, aquele que come apesar de suas dúvidas, condena-se, por não se guiar pela convicção. Tudo o que não procede da convicção é pecado."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "14:1-4",
+      "texto": "Paulo orienta os cristãos a aceitarem aqueles que são fracos na fé, sem julgá-los. A convivência respeitosa entre cristãos, apesar das diferenças, é um reflexo do amor de Cristo (veja também 1 Coríntios 8:9-13 e Gálatas 6:1)."
+    },
+    {
+      "ref": "14:13-15",
+      "texto": "O cristão deve evitar ser causa de tropeço para o irmão, praticando a edificação mútua. O amor deve ser sempre a base da convivência cristã, buscando a paz e a edificação de todos (veja também 1 Coríntios 10:23-24 e Filipenses 2:4)."
+    },
+    {
+      "ref": "14:17-19",
+      "texto": "O Reino de Deus não é sobre comida ou bebida, mas sobre justiça, paz e alegria no Espírito Santo. Esse versículo nos ensina que as prioridades do cristão devem refletir os valores do Reino (veja também 1 Coríntios 4:20 e Filipenses 3:19-21)."
+    }
+  ]
+}

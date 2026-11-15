@@ -1,0 +1,88 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ester",
+  "nome": "Ester",
+  "testamento": "AT",
+  "capitulo": 10,
+  "totalVersiculos": 13,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ester/10/",
+  "capturadoEm": "2026-11-15T09:15:11-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O rei Assuero impôs um tributo sobre o continente e sobre as ilhas do mar."
+    },
+    {
+      "numero": 2,
+      "texto": "Tudo o que concerne a seu poder e suas façanhas e os detalhes sobre a elevação de Mardoqueu pelo rei estão escritos no Livro das Crônicas dos reis dos medos e dos persas."
+    },
+    {
+      "numero": 3,
+      "texto": "Porque o judeu Mardoqueu era o primeiro depois do rei Assuero. Ele gozava de grande consideração entre os judeus e era amado pela multidão de seus irmãos. Procurava o bem de seu povo e falava a favor da felicidade de toda a sua nação. Traduzi com toda a fidelidade o que se acha no texto hebraico. As passagens que seguem encontrei-as apenas na edição “vulgata” (isto é, “divulgada”) em língua e caracteres gregos e as coloquei aqui no fim do livro, marcadas – como é nosso costume – com o óbelo, quero dizer, o sinal distintivo à margem:"
+    },
+    {
+      "numero": 4,
+      "texto": "E Mardoqueu disse: “De Deus veio tudo isso."
+    },
+    {
+      "numero": 5,
+      "texto": "Lembro-me de um sonho que tive a esse respeito. Nada foi omitido:",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "a pequena fonte tornada um rio, a luz, o sol, a massa de água. O rio é Ester que o rei tomou por esposa e a quem tornou rainha."
+    },
+    {
+      "numero": 7,
+      "texto": "Amã e eu – eis as duas serpentes."
+    },
+    {
+      "numero": 8,
+      "texto": "Os povos são aqueles que se reuniram para destruir o nome dos judeus."
+    },
+    {
+      "numero": 9,
+      "texto": "Minha nação é Israel que invocou o Senhor e que foi salva; porque o Senhor salvou seu povo e nos livrou de todos esses males. Deus fez prodígios e maravilhas, como não fez semelhantes entre todas as nações."
+    },
+    {
+      "numero": 10,
+      "texto": "Porque Deus preparou dois destinos: um para seu povo e outro para todas as nações."
+    },
+    {
+      "numero": 11,
+      "texto": "E esses dois destinos se cumpriram na hora, no tempo e no dia marcados por Deus para todas as nações."
+    },
+    {
+      "numero": 12,
+      "texto": "Então, o Senhor lembrou-se dos seus e fez justiça à sua herança."
+    },
+    {
+      "numero": 13,
+      "texto": "E esses dias do mês de Adar, o catorze e o quinze, serão celebrados em comum, pelo povo de Israel, com gozo e alegria diante de Deus em todas as gerações, para sempre."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "10:1",
+      "texto": "O capítulo inicia com a menção do tributo imposto pelo rei à terra, destacando o poder e a autoridade do governo persa. Isso serve como um pano de fundo para a glória que Deus concede a Mordecai (veja também Romanos 13:1 e 1 Pedro 2:13-14)."
+    },
+    {
+      "ref": "10:2",
+      "texto": "A grandeza de Mordecai, sua posição ao lado do rei, e suas realizações são um testemunho da soberania de Deus em reverter as situações. Isso enfatiza que Deus exalta aqueles que permanecem fiéis a Ele (veja também Salmo 75:6-7 e Tiago 4:10)."
+    },
+    {
+      "ref": "10:3",
+      "texto": "Mordecai é descrito como o segundo em importância no reino, evidenciando a promoção de Deus sobre aqueles que são fiéis. Isso ilustra que a verdadeira promoção vem do Senhor (veja também Salmo 145:19 e Lucas 1:52)."
+    },
+    {
+      "ref": "10:3",
+      "texto": "A referência a Mordecai como \"o judeu\" reafirma a identidade do povo e a providência de Deus em manter Sua aliança. A conexão entre a identidade e a salvação é central na teologia judaica (veja também Gálatas 3:28 e Efésios 2:12-13)."
+    },
+    {
+      "ref": "10:3",
+      "texto": "O compromisso de Mordecai em promover o bem-estar do seu povo é um exemplo de liderança servidora. Isso destaca a importância de líderes que buscam o bem comum e a justiça (veja também Marcos 10:43-45 e Filipenses 2:3-4)."
+    }
+  ]
+}

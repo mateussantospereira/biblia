@@ -1,0 +1,71 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 136,
+  "totalVersiculos": 9,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/136/",
+  "capturadoEm": "2026-11-15T09:54:40-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Junto dos rios de Babilônia, ali nos assentámos a chorar, lembrando-nos de Sião."
+    },
+    {
+      "numero": 2,
+      "texto": "Nos salgueiros daquela terra pendurámos as nossas cítaras."
+    },
+    {
+      "numero": 3,
+      "texto": "Ali, os que nos tinham deportado, nos pediam cânticos, e os nossos opressores (nos pediam) alegria: \"Cantai-nos algum dos cânticos de Sião!\""
+    },
+    {
+      "numero": 4,
+      "texto": "Como cantaremos o cântico do Senhor em terra estranha (lhes respondemos)."
+    },
+    {
+      "numero": 5,
+      "texto": "Se me esquecer de ti, Jerusalém, ao esquecimento seja entregue a minha direita"
+    },
+    {
+      "numero": 6,
+      "texto": "Fique pegada a minha língua às minhas fauces, se eu me não lembrar de ti, se não puder Jerusalém acima de toda a minha alegria!"
+    },
+    {
+      "numero": 7,
+      "texto": "Lembra-te, Senhor, para mal dos filhos de oração Edom, do dia (da ruína) de Jerusalém, os quais disseram: \"Destruí, destruí nela (tudo) até os fundamentos.\""
+    },
+    {
+      "numero": 8,
+      "texto": "Filha (população) exterminadora de Babilônia, ditoso aquele que te devolver os males que nos fizeste"
+    },
+    {
+      "numero": 9,
+      "texto": "Bem-aventurado o que apanhar às mãos e fizer em pedaços contra uma pedra os teus filhinhos!"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "136:1-3",
+      "texto": "O salmo começa com um refrão repetido: \"porque eterna é a sua misericórdia\", destacando o amor infalível e duradouro de Deus. Isso é um lembrete constante da fidelidade de Deus em todas as épocas (veja também Lamentações 3:22-23 e Salmo 106:1)."
+    },
+    {
+      "ref": "136:4-9",
+      "texto": "Deus é louvado por Suas maravilhas na criação, desde os céus até as estrelas. O salmo destaca que a ordem do universo é fruto da bondade e sabedoria divinas (veja também Gênesis 1:14-19 e Salmo 19:1-4)."
+    },
+    {
+      "ref": "136:10-15",
+      "texto": "O salmista celebra a libertação de Israel do Egito, lembrando as pragas e o livramento no Mar Vermelho. Cada ação de Deus é um ato de misericórdia e salvação para o Seu povo (veja também Êxodo 12:29 e Êxodo 14:21-31)."
+    },
+    {
+      "ref": "136:16-22",
+      "texto": "A jornada de Israel pelo deserto e a conquista da Terra Prometida são celebradas como testemunhos da fidelidade de Deus. Ele guia e cuida de Seu povo em meio às dificuldades (veja também Números 21:21-35 e Deuteronômio 7:1-2)."
+    },
+    {
+      "ref": "136:23-26",
+      "texto": "O salmo conclui com louvor ao Deus que se lembra de Seu povo nas aflições e que provê alimento para toda criatura. Sua misericórdia se estende a todas as gerações, demonstrando o cuidado constante de Deus (veja também Salmo 145:15-16 e Mateus 6:26)."
+    }
+  ]
+}

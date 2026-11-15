@@ -1,0 +1,303 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "lamentacoes",
+  "nome": "Lamentações",
+  "testamento": "AT",
+  "capitulo": 3,
+  "totalVersiculos": 66,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/lamentacoes/3/",
+  "capturadoEm": "2026-11-15T09:23:16-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Álef: Eu sou o homem que conheceu a dor, sob a vara de seu furor.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Conduziu-me e me fez caminhar nas trevas e não na claridade."
+    },
+    {
+      "numero": 3,
+      "texto": "Ele não cessa de voltar a mão todos os dias contra mim."
+    },
+    {
+      "numero": 4,
+      "texto": "Bet: Consumiu minha carne e minha pele, partiu meus ossos."
+    },
+    {
+      "numero": 5,
+      "texto": "Em torno de mim acumulou veneno e dor."
+    },
+    {
+      "numero": 6,
+      "texto": "Fez-me morar nas trevas como os mortos do tempo antigo."
+    },
+    {
+      "numero": 7,
+      "texto": "Guímel: Cercou-me com muralhas sem saída, carregou-me de pesados grilhões."
+    },
+    {
+      "numero": 8,
+      "texto": "Não obstante meus gritos e apelos sufocou a minha prece!"
+    },
+    {
+      "numero": 9,
+      "texto": "Fechou-me a vereda com pedras e obstruiu o meu caminho."
+    },
+    {
+      "numero": 10,
+      "texto": "Dálet: Foi ele para mim qual urso de emboscada, qual leão traiçoeiro."
+    },
+    {
+      "numero": 11,
+      "texto": "Desviou-me para me dilacerar, deixando-me no abandono."
+    },
+    {
+      "numero": 12,
+      "texto": "Retesou o arco e me tomou para alvo de suas setas."
+    },
+    {
+      "numero": 13,
+      "texto": "Hê: Cravou em meus rins as flechas de sua aljava."
+    },
+    {
+      "numero": 14,
+      "texto": "Tornei-me escárnio do meu povo, objeto constante de suas canções."
+    },
+    {
+      "numero": 15,
+      "texto": "Saturou-me de amarguras, saciou-me de absinto."
+    },
+    {
+      "numero": 16,
+      "texto": "Vaw: Quebrou-me os dentes com cascalhos, mergulhou-me em cinzas.",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "A paz foi roubada de minha alma, nem sei mais o que é felicidade."
+    },
+    {
+      "numero": 18,
+      "texto": "E eu penso: perdi minha força e minha esperança no Senhor."
+    },
+    {
+      "numero": 19,
+      "texto": "Záin: A lembrança de meus tormentos e minhas misérias é para mim absinto e veneno."
+    },
+    {
+      "numero": 20,
+      "texto": "A pensar nisso sem cessar, minha alma desfalece dentro de mim."
+    },
+    {
+      "numero": 21,
+      "texto": "Eis, porém, o que vou tomar a peito para recuperar a esperança.",
+      "nota": true
+    },
+    {
+      "numero": 22,
+      "texto": "Het: É graças ao Senhor que não fomos aniquilados, porque não se esgotou sua piedade."
+    },
+    {
+      "numero": 23,
+      "texto": "Cada manhã ele se manifesta e grande é sua fidelidade."
+    },
+    {
+      "numero": 24,
+      "texto": "Disse-me a alma: o Senhor é minha partilha, e assim nele confio."
+    },
+    {
+      "numero": 25,
+      "texto": "Tet: O Senhor é bom para quem nele confia, para a alma que o procura."
+    },
+    {
+      "numero": 26,
+      "texto": "Bom é esperar em silêncio o socorro do Senhor."
+    },
+    {
+      "numero": 27,
+      "texto": "É bom para o homem carregar seu jugo na mocidade."
+    },
+    {
+      "numero": 28,
+      "texto": "Yod: Permaneça só e em silêncio, quando Deus lhe determinar!"
+    },
+    {
+      "numero": 29,
+      "texto": "Leve sua boca ao pó; haverá, talvez, esperança?"
+    },
+    {
+      "numero": 30,
+      "texto": "Estenda a face a quem o fere, e se farte de opróbrios!"
+    },
+    {
+      "numero": 31,
+      "texto": "Kaf: Porque o Senhor não repele para sempre."
+    },
+    {
+      "numero": 32,
+      "texto": "Após haver afligido, ele tem piedade, porque é grande sua misericórdia."
+    },
+    {
+      "numero": 33,
+      "texto": "Não lhe alegra o coração humilhar e afligir os homens."
+    },
+    {
+      "numero": 34,
+      "texto": "Lámed: Calcar aos pés todos os cativos da terra;"
+    },
+    {
+      "numero": 35,
+      "texto": "violar o direito de um homem à face do Altíssimo;"
+    },
+    {
+      "numero": 36,
+      "texto": "lesar os direitos de outros... Não vê tudo isso o Senhor?"
+    },
+    {
+      "numero": 37,
+      "texto": "Mem: De quem se executa a ordem, sem que Deus a ordene?"
+    },
+    {
+      "numero": 38,
+      "texto": "Não é da boca do Altíssimo que procedem males e bens?"
+    },
+    {
+      "numero": 39,
+      "texto": "De que pode o homem em vida queixar-se? Que cada um se queixe de seus pecados.",
+      "nota": true
+    },
+    {
+      "numero": 40,
+      "texto": "Nun: Examinemos, escrutemos o nosso proceder, e voltemos para o Senhor."
+    },
+    {
+      "numero": 41,
+      "texto": "Elevemos os corações, tanto quanto as mãos, para Deus lá nos céus."
+    },
+    {
+      "numero": 42,
+      "texto": "Pecamos, recalcitramos, e não nos perdoastes."
+    },
+    {
+      "numero": 43,
+      "texto": "Sámec: Cobristes-vos de cólera para nos perseguir. Matastes sem piedade."
+    },
+    {
+      "numero": 44,
+      "texto": "em uma nuvem vos envolvestes para impedir que a prece a atravessasse."
+    },
+    {
+      "numero": 45,
+      "texto": "E de nós fizestes raspas, refugo das nações."
+    },
+    {
+      "numero": 46,
+      "texto": "Pê: Contra nós abrem a boca todos os nossos inimigos."
+    },
+    {
+      "numero": 47,
+      "texto": "Fosso e terror – é o nosso quinhão, com ruínas e desolação."
+    },
+    {
+      "numero": 48,
+      "texto": "Rios de lágrimas correm-me dos olhos, por causa da ruína da filha de meu povo."
+    },
+    {
+      "numero": 49,
+      "texto": "Áin: Não cessam meus olhos de chorar, porque não cessa a desgraça,"
+    },
+    {
+      "numero": 50,
+      "texto": "até que do alto dos céus o Senhor desça seu olhar."
+    },
+    {
+      "numero": 51,
+      "texto": "Minha alma se amargura, ao ver todas as filhas da minha cidade."
+    },
+    {
+      "numero": 52,
+      "texto": "Tsade: Caçaram-me como a um pardal os que, sem razão, me odeiam."
+    },
+    {
+      "numero": 53,
+      "texto": "Quiseram precipitar-me no fosso rolando uma pedra sobre mim."
+    },
+    {
+      "numero": 54,
+      "texto": "Acima de mim subiam as águas: “Estou perdido!” – exclamei."
+    },
+    {
+      "numero": 55,
+      "texto": "Qof: Invoquei, Senhor, o vosso nome do profundo fosso."
+    },
+    {
+      "numero": 56,
+      "texto": "Ouvistes-me gritar: “Não aparteis do meu chamado o vosso ouvido”."
+    },
+    {
+      "numero": 57,
+      "texto": "E vós viestes no dia em que vos invoquei e dissestes: “Não tenhas medo!”."
+    },
+    {
+      "numero": 58,
+      "texto": "Resh: Defendestes, Senhor, a minha causa, e minha vida resgatastes."
+    },
+    {
+      "numero": 59,
+      "texto": "Vistes, Senhor, o mal que me fizeram: fazei-me justiça."
+    },
+    {
+      "numero": 60,
+      "texto": "Vós vedes seus projetos vingativos e suas tramas contra mim."
+    },
+    {
+      "numero": 61,
+      "texto": "Shin: Senhor, ouvistes suas injúrias e todos os seus conluios contra mim;"
+    },
+    {
+      "numero": 62,
+      "texto": "As palavras de meus inimigos e o que sem cessar estão tramando contra mim."
+    },
+    {
+      "numero": 63,
+      "texto": "Observai-os: sentados ou de pé, fazem de mim objeto de suas canções."
+    },
+    {
+      "numero": 64,
+      "texto": "Taw: Dai-lhes, Senhor, a paga, o que merece o seu proceder."
+    },
+    {
+      "numero": 65,
+      "texto": "Cegai-lhes o coração; feri-os com a vossa maldição;"
+    },
+    {
+      "numero": 66,
+      "texto": "persegui-os com vossa cólera, e exterminai-os do nosso universo, Senhor!"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-3",
+      "texto": "O sofrimento pessoal do poeta é destacado, refletindo o sofrimento de todo o povo. A identificação com o sofrimento é uma maneira de expressar a solidariedade com o sofrimento coletivo e a dor causada pelo pecado (veja também Jeremias 15:18 e 2 Coríntios 1:4)."
+    },
+    {
+      "ref": "3:22-24",
+      "texto": "A esperança é renovada com a afirmação de que a misericórdia de Deus é infinita e constante. Mesmo em meio ao sofrimento, o poeta encontra consolo no caráter fiel e imutável de Deus, uma mensagem de esperança para todo o povo de Israel (veja também Salmo 136:1-3 e Hebreus 10:23)."
+    },
+    {
+      "ref": "3:25-30",
+      "texto": "Deus é descrito como bom para aqueles que O buscam com sinceridade, e a paciência é incentivada diante do sofrimento. Este é um chamado ao arrependimento e à esperança no agir de Deus, mesmo nas situações mais desesperadoras (veja também Isaías 40:31 e Tiago 5:7-8)."
+    },
+    {
+      "ref": "3:31-33",
+      "texto": "A confiança na bondade de Deus é reafirmada, mesmo diante de Seu juízo. Deus não rejeita eternamente, mas Ele permite o sofrimento para purificar e restaurar Seu povo. Isso revela a natureza disciplinadora do amor de Deus (veja também Salmo 30:5 e Hebreus 12:6-11)."
+    },
+    {
+      "ref": "3:40-42",
+      "texto": "O poeta conclama o povo a se examinar e voltar-se para Deus com arrependimento. Esse é um chamado ao autoconceito honesto, reconhecendo os próprios erros e buscando a restauração oferecida por Deus (veja também 2 Crônicas 7:14 e 1 João 1:9)."
+    }
+  ]
+}

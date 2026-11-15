@@ -1,0 +1,191 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "numeros",
+  "nome": "Números",
+  "testamento": "AT",
+  "capitulo": 29,
+  "totalVersiculos": 39,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/numeros/29/",
+  "capturadoEm": "2026-11-15T09:45:01-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "No primeiro dia do sétimo mês haverá santa assembleia, e não fareis nele obra alguma servil, porque é o dia do som e das trombetas"
+    },
+    {
+      "numero": 2,
+      "texto": "Oferecereis em holocausto de suave odor ao Senhor um bezerro da manada, um carneiro, e sete cordeiros de um ano, sem defeito;"
+    },
+    {
+      "numero": 3,
+      "texto": "nos seus sacrifícios três dízimas de flor de farinha amassada com azeite por cada um dos bezerros, duas dizimas pelo carneiro."
+    },
+    {
+      "numero": 4,
+      "texto": "uma dizima por cada cordeiro, isto é, por cada um dos sete cordeiros."
+    },
+    {
+      "numero": 5,
+      "texto": "(Oferecereis também) um bode pelo pecado, que é pela expiação do povo,"
+    },
+    {
+      "numero": 6,
+      "texto": "além do holocausto do mês com os suas oblações, do holocausto perpétuo com as libações costumadas, segundo o que está prescrito."
+    },
+    {
+      "numero": 7,
+      "texto": "No décimo dia deste sétimo mês, haverá santa assembleia, afligireis as vossas almas, e não fareis nele obra alguma servil."
+    },
+    {
+      "numero": 8,
+      "texto": "Oferecereis em holocausto de odor suave ao Senhor um bezerro da manada, um carneiro, sete cordeiros de um ano, sem defeito:"
+    },
+    {
+      "numero": 9,
+      "texto": "e, como oblação, três dízimas de flor de farinha amassada com azeite por cada bezerro, duas dízimas pelo carneiro,"
+    },
+    {
+      "numero": 10,
+      "texto": "uma dizima da dizima por cada cordeiro, isto é, por cada um dos sete cordeiros."
+    },
+    {
+      "numero": 11,
+      "texto": "Oferecereis um bode pelo pecado, além do sacrifício expiatório e além do holocausto perpétuo, com as suas oblações e libações."
+    },
+    {
+      "numero": 12,
+      "texto": "No dia quinze do sétimo mês, haverá santa assembleia, e não fareis obra alguma servil mas celebrareis uma festa solene ao Senhor durante sete dias."
+    },
+    {
+      "numero": 13,
+      "texto": "Oferecereis em holocausto de suave odor ao Senhor treze bezerros da manada, dois carneiros, catorze cordeiros de um ano, sem defeito;"
+    },
+    {
+      "numero": 14,
+      "texto": "e nas suas oblações, três dízimas de flor de farinha amassada com azeite por cada bezerro, que ao todo são treze bezerros; duas dízimas por cada um dos dois carneiros,"
+    },
+    {
+      "numero": 15,
+      "texto": "e uma dízima da dízima por cada um dos catorze cordeiros."
+    },
+    {
+      "numero": 16,
+      "texto": "Oferecereis um bode pelo pecado, além do holocausto perpétuo, com sua oblação e suas libações."
+    },
+    {
+      "numero": 17,
+      "texto": "No segundo dia oferecereis doze bezerros da manada, dois carneiros, catorze cordeiros de um ano, sem defeito;"
+    },
+    {
+      "numero": 18,
+      "texto": "Dareis, segundo o rito, as oblações e as libações pelos bezerros, pelos carneiros e pelos cordeiros."
+    },
+    {
+      "numero": 19,
+      "texto": "Oferecereis um bode pelo pecado, além do holocausto perpétuo, com a sua oblação e as suas libações."
+    },
+    {
+      "numero": 20,
+      "texto": "No terceiro dia oferecereis onze bezerros, dois carneiros, catorze cordeiros de um ano, sem defeito:"
+    },
+    {
+      "numero": 21,
+      "texto": "oferecereis, segundo o rito, as oblações e libações pelos bezerros, pelos carneiros e pelos cordeiros."
+    },
+    {
+      "numero": 22,
+      "texto": "Oferecereis um bode pelo pecado, além do holocausto perpétuo, com a sua oblação e as suas libações."
+    },
+    {
+      "numero": 23,
+      "texto": "No quarto dia oferecereis dez bezerros, dois carneiros, catorze cordeiros de um ano, sem defeito:"
+    },
+    {
+      "numero": 24,
+      "texto": "fareis, segundo o rito, as oblações e as libações pelos bezerros, pelos carneiros e pelos cordeiros."
+    },
+    {
+      "numero": 25,
+      "texto": "Oferecereis um bode pelo pecado, além do holocausto perpétuo, com sua oblação e suas libações."
+    },
+    {
+      "numero": 26,
+      "texto": "No quinto dia oferecereis nove bezerros, dois carneiros, catorze cordeiros de um ano, sem defeito:"
+    },
+    {
+      "numero": 27,
+      "texto": "fareis, segundo o rito, as oblações e as libações pelos bezerros, pelos carneiros e pelos cordeiros."
+    },
+    {
+      "numero": 28,
+      "texto": "Oferecereis um bode pelo pecado, além do holocausto perpétuo com a sua oblação e as suas libações."
+    },
+    {
+      "numero": 29,
+      "texto": "No sexto dia oferecereis oito bezerros, dois carneiros, catorze cordeiros de um ano, sem defeito:"
+    },
+    {
+      "numero": 30,
+      "texto": "fareis, segundo o rifo, as oblações e as libações pelos bezerros, pelos carneiros e pelos cordeiros."
+    },
+    {
+      "numero": 31,
+      "texto": "Oferecereis um bode pelo pecado, além do holocausto perpétuo, com a sua oblação e as suas libações."
+    },
+    {
+      "numero": 32,
+      "texto": "No sétimo dia oferecereis sete bezerros, dois carneiros e catorze cordeiros de um ano, sem defeito;"
+    },
+    {
+      "numero": 33,
+      "texto": "fareis, segundo o rito, as oblações e as libações pelos bezerros, pelos carneiros e pelos cordeiros."
+    },
+    {
+      "numero": 34,
+      "texto": "Oferecereis um bode pelo pecado, além do holocausto perpétuo, com a sua oblação e as suas libações."
+    },
+    {
+      "numero": 35,
+      "texto": "No oitavo dia tereis uma assembleia solene, e não fareis obra alguma servil."
+    },
+    {
+      "numero": 36,
+      "texto": "Oferecereis um holocausto, um sacrifício de suave odor ao Senhor: um bezerro, um carneiro, sete cordeiros de um ano, sem defeito:"
+    },
+    {
+      "numero": 37,
+      "texto": "fareis, segundo o rito, as oblações e as libações pelos bezerros, pelos carneiros e pelos cordeiros."
+    },
+    {
+      "numero": 38,
+      "texto": "Oferecereis um bode pelo pecado, além do holocausto perpétuo, com a sua oblação e as suas libações."
+    },
+    {
+      "numero": 39,
+      "texto": "Tais são os sacrifícios que oferecereis ao Senhor nas vossas solenidades, além dos votos e das ofertas espontâneas, holocaustos, sacrifícios, libações, sacrifícios pacíficos."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "29:1-6",
+      "texto": "No primeiro dia do sétimo mês, celebra-se a Festa das Trombetas, uma convocação solene para Israel, marcando o início do ano civil e convidando à reflexão e arrependimento. A importância dos sacrifícios e da adoração a Deus é enfatizada (veja também Levítico 23:23-25 e Salmo 81:3)."
+    },
+    {
+      "ref": "29:7-11",
+      "texto": "No décimo dia do sétimo mês, ocorre o Dia da Expiação (Yom Kippur), um dos dias mais sagrados para Israel, dedicado ao arrependimento e à purificação de pecados. Este dia reforça a misericórdia e o perdão de Deus (veja também Levítico 16:29-31 e Hebreus 9:7-9)."
+    },
+    {
+      "ref": "29:12-16",
+      "texto": "O décimo quinto dia do sétimo mês inicia a Festa dos Tabernáculos, uma celebração de sete dias em que Israel relembra o tempo em que Deus os conduziu pelo deserto. Essa festa aponta para a fidelidade de Deus em prover para o Seu povo (veja também Levítico 23:34-36 e Neemias 8:14-18)."
+    },
+    {
+      "ref": "29:17-31",
+      "texto": "Sacrifícios adicionais são oferecidos diariamente durante a Festa dos Tabernáculos, com o número de sacrifícios variando a cada dia. Esses rituais simbolizam a importância da adoração contínua e da gratidão a Deus por Suas bênçãos (veja também Números 28:11-15 e Salmo 96:8)."
+    },
+    {
+      "ref": "29:35-38",
+      "texto": "O oitavo dia da Festa dos Tabernáculos é uma santa convocação, com sacrifícios específicos sendo oferecidos. Este dia final simboliza a consumação da alegria e o descanso em Deus, celebrando Sua presença contínua (veja também João 7:37-38 e Isaías 12:3)."
+    }
+  ]
+}

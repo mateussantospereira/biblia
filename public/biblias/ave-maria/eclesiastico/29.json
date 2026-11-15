@@ -1,0 +1,173 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "eclesiastico",
+  "nome": "Eclesiástico",
+  "testamento": "AT",
+  "capitulo": 29,
+  "totalVersiculos": 33,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/eclesiastico/29/",
+  "capturadoEm": "2026-11-15T09:20:50-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Aquele que tem compaixão empresta com juros ao seu próximo; aquele que tem a mão generosa guarda os mandamentos."
+    },
+    {
+      "numero": 2,
+      "texto": "Empresta a teu próximo quando ele estiver necessitado, e de teu lado, paga-lhe o que lhe deves, no tempo marcado."
+    },
+    {
+      "numero": 3,
+      "texto": "Cumpre tua palavra e procede lealmente com ele, e acharás em toda ocasião o que te é necessário."
+    },
+    {
+      "numero": 4,
+      "texto": "Muitos consideraram como um achado o que pediam emprestado, e causaram desgosto àqueles que os ajudaram."
+    },
+    {
+      "numero": 5,
+      "texto": "Até que se tenha recebido, beija-se a mão de quem empresta; com voz humilde fazem-se promessas;",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "mas, chegando o tempo de restituir, pedem-se prazos; só se têm palavras pesarosas e queixas; e toma-se como pretexto a dificuldade da época."
+    },
+    {
+      "numero": 7,
+      "texto": "Se o que pede emprestado pode restituir, nega-se a princípio. Restitui em seguida só a metade da quantia, e a considera como um lucro."
+    },
+    {
+      "numero": 8,
+      "texto": "Se não tem meios para pagar, priva o que emprestou do seu dinheiro, e dele se faz gratuitamente um inimigo."
+    },
+    {
+      "numero": 9,
+      "texto": "Ele o paga com ofensas e maldições, e paga com o mal o bem que recebeu."
+    },
+    {
+      "numero": 10,
+      "texto": "Muitos não emprestam, não por maldade, mas por medo de serem injustamente iludidos.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Todavia, sê indulgente para com o miserável, e não o faças esmorecer depois da esmola."
+    },
+    {
+      "numero": 12,
+      "texto": "Por causa do mandamento, socorre o pobre; e não o deixes ir com as mãos vazias na sua indigência."
+    },
+    {
+      "numero": 13,
+      "texto": "Perde o teu dinheiro em favor de teu irmão e de teu amigo; não o escondas debaixo de uma pedra para ficar perdido."
+    },
+    {
+      "numero": 14,
+      "texto": "Gasta o teu tesouro segundo o preceito do Altíssimo, e isso te aproveitará mais do que o ouro."
+    },
+    {
+      "numero": 15,
+      "texto": "Encerra a esmola no coração do pobre, e ela rogará por ti, a fim de te preservar de todo o mal.",
+      "nota": true
+    },
+    {
+      "numero": 18,
+      "texto": "Para combater o teu inimigo, ela será uma arma mais poderosa do que o escudo e a lança de um homem valente.",
+      "nota": true
+    },
+    {
+      "numero": 19,
+      "texto": "O homem de bem responsabiliza-se pelo próximo; o homem sem pejo abandona-o a si próprio."
+    },
+    {
+      "numero": 20,
+      "texto": "Não esqueças o benefício daquele que se responsabiliza por ti, pois ele arriscou a vida para te amparar."
+    },
+    {
+      "numero": 21,
+      "texto": "O pecador e o impudico fogem de seu fiador;"
+    },
+    {
+      "numero": 22,
+      "texto": "o pecador atribui a si mesmo o benefício de quem por ele se responsabiliza, e com coração ingrato abandona o seu libertador."
+    },
+    {
+      "numero": 23,
+      "texto": "Um homem se responsabiliza pelo seu próximo, e este, perdendo a vergonha, o abandonará."
+    },
+    {
+      "numero": 24,
+      "texto": "Um mau penhor perdeu muitas pessoas que prosperavam, e as agitou como as ondas do mar;"
+    },
+    {
+      "numero": 25,
+      "texto": "por uma reviravolta das coisas, ele exilou muitos poderosos, que se tornaram peregrinos em terra estrangeira."
+    },
+    {
+      "numero": 26,
+      "texto": "O pecador que transgride o mandamento do Senhor se comprometerá a responder inoportunamente por outro; e aquele que tentar muitos empreendimentos não escapará do processo."
+    },
+    {
+      "numero": 27,
+      "texto": "Ajuda o próximo conforme as tuas posses, e acautela-te para que não caias tu também."
+    },
+    {
+      "numero": 28,
+      "texto": "O principal para a vida do homem é a água, o pão, o vestuário e uma casa para ocultar a sua nudez."
+    },
+    {
+      "numero": 29,
+      "texto": "Mais vale o que um pobre come sob um vigamento do que um magnífico banquete em casa alheia para quem não tem domicílio."
+    },
+    {
+      "numero": 30,
+      "texto": "Contenta-te com o pouco ou muito que tiveres e evitarás a censura de seres um estranho."
+    },
+    {
+      "numero": 31,
+      "texto": "É uma vida miserável a daquele que vai de casa em casa; em toda parte onde se hospedar, não estará confiante, e não ousará abrir a boca."
+    },
+    {
+      "numero": 32,
+      "texto": "Recebe-se com hospitalidade, dá-se de comer e de beber a ingratos; e, depois disso, ouvem-se palavras desagradáveis:",
+      "nota": true
+    },
+    {
+      "numero": 33,
+      "texto": "“Vamos, intruso, prepara a mesa, e o que tens, dá-o de comer aos outros;"
+    },
+    {
+      "numero": 34,
+      "texto": "retira-te, por causa da homenagem que devo prestar aos meus amigos. Preciso de minha casa para nela receber meu irmão”.",
+      "nota": true
+    },
+    {
+      "numero": 35,
+      "texto": "Eis coisas penosas para um homem sensato: ouvir censuras pela hospitalidade e pelo empréstimo que se fez."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "29:1-3",
+      "texto": "O autor elogia a prática de ajudar os necessitados por meio de empréstimos sem usura. A caridade ao próximo é apresentada como um dever sagrado, que será recompensado por Deus (veja também Provérbios 19:17 e Lucas 6:35)."
+    },
+    {
+      "ref": "29:4-5",
+      "texto": "O texto adverte sobre o perigo de emprestar a pessoas ingratas, que não devolvem o que devem. A prudência deve sempre acompanhar a generosidade (veja também Provérbios 22:7 e Mateus 18:23-25)."
+    },
+    {
+      "ref": "29:8-10",
+      "texto": "Incentiva-se o cuidado com os pobres, destacando que ajudar os necessitados acumula tesouros espirituais no céu. A bondade para com os pobres é uma forma de adoração (veja também Mateus 25:35-40 e 1 João 3:17-18)."
+    },
+    {
+      "ref": "29:11-13",
+      "texto": "Guardar riquezas para o dia da necessidade é importante, mas o autor lembra que a maior segurança está na generosidade e na boa ação, que garantem a bênção de Deus (veja também Mateus 6:19-21 e 2 Coríntios 9:6-7)."
+    },
+    {
+      "ref": "29:14-20",
+      "texto": "O valor da amizade é exaltado, com ênfase na confiança e fidelidade entre amigos. O amigo verdadeiro será leal em tempos de dificuldade, contrastando com aqueles que só aparecem nos tempos de bonança (veja também Provérbios 17:17 e João 15:13)."
+    }
+  ]
+}

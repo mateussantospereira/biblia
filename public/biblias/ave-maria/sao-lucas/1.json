@@ -1,0 +1,361 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sao-lucas",
+  "nome": "São Lucas",
+  "testamento": "NT",
+  "capitulo": 1,
+  "totalVersiculos": 80,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sao-lucas/1/",
+  "capturadoEm": "2026-11-15T09:26:23-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Muitos empreenderam compor uma história dos acontecimentos que se realizaram entre nós,"
+    },
+    {
+      "numero": 2,
+      "texto": "como no-los transmitiram aqueles que foram desde o princípio testemunhas oculares e que se tornaram ministros da palavra."
+    },
+    {
+      "numero": 3,
+      "texto": "Também a mim me pareceu bem, depois de haver diligentemente investigado tudo desde o princípio, escrevê-los para ti segundo a ordem, excelentíssimo Teófilo,",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "para que conheças a solidez daqueles ensinamentos que tens recebido."
+    },
+    {
+      "numero": 5,
+      "texto": "Nos tempos de Herodes, rei da Judeia, houve um sacerdote por nome Zacarias, da classe de Abias; sua mulher, descendente de Aarão, chamava-se Isabel."
+    },
+    {
+      "numero": 6,
+      "texto": "Ambos eram justos diante de Deus e observavam irrepreensivelmente todos os mandamentos e preceitos do Senhor."
+    },
+    {
+      "numero": 7,
+      "texto": "Mas não tinham filhos, porque Isabel era estéril e ambos de idade avançada."
+    },
+    {
+      "numero": 8,
+      "texto": "Ora, exercendo Zacarias diante de Deus as funções de sacerdote, na ordem da sua classe,"
+    },
+    {
+      "numero": 9,
+      "texto": "coube-lhe por sorte, segundo o costume em uso entre os sacerdotes, entrar no santuário do Senhor e aí oferecer o perfume."
+    },
+    {
+      "numero": 10,
+      "texto": "Todo o povo estava de fora, à hora da oferenda do perfume."
+    },
+    {
+      "numero": 11,
+      "texto": "Apareceu-lhe então um anjo do Senhor, em pé, à direita do altar do perfume.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Vendo-o, Zacarias ficou perturbado, e o temor assaltou-o."
+    },
+    {
+      "numero": 13,
+      "texto": "Mas o anjo disse-lhe: “Não temas, Zacarias, porque foi ouvida a tua oração: Isabel, tua mulher, vai dar-te um filho, e tu o chamarás João."
+    },
+    {
+      "numero": 14,
+      "texto": "Ele será para ti motivo de gozo e alegria, e muitos se alegrarão com o seu nascimento;"
+    },
+    {
+      "numero": 15,
+      "texto": "porque será grande diante do Senhor e não beberá vinho nem licor, e desde o ventre de sua mãe será cheio do Espírito Santo;"
+    },
+    {
+      "numero": 16,
+      "texto": "ele converterá muitos dos filhos de Israel ao Senhor, seu Deus,"
+    },
+    {
+      "numero": 17,
+      "texto": "e irá adiante de Deus com o espírito e poder de Elias para reconduzir os corações dos pais aos filhos e os rebeldes à sabedoria dos justos, para preparar ao Senhor um povo bem disposto”."
+    },
+    {
+      "numero": 18,
+      "texto": "Zacarias perguntou ao anjo: “Como terei certeza disso? Pois sou velho e minha mulher é de idade avançada”."
+    },
+    {
+      "numero": 19,
+      "texto": "O anjo respondeu-lhe: “Eu sou Gabriel, que assisto diante de Deus, e fui enviado para te falar e te trazer esta feliz nova."
+    },
+    {
+      "numero": 20,
+      "texto": "Eis que ficarás mudo e não poderás falar até o dia em que estas coisas acontecerem, visto que não deste crédito às minhas palavras, que se hão de cumprir a seu tempo”."
+    },
+    {
+      "numero": 21,
+      "texto": "No entanto, o povo estava esperando Zacarias; e admirava-se de que ele se demorasse tanto tempo no santuário."
+    },
+    {
+      "numero": 22,
+      "texto": "Ao sair, não lhes podia falar, e compreenderam que tivera no santuário uma visão. Ele lhes explicava isto por acenos; e permaneceu mudo."
+    },
+    {
+      "numero": 23,
+      "texto": "Decorridos os dias do seu ministério, retirou-se para sua casa."
+    },
+    {
+      "numero": 24,
+      "texto": "Algum tempo depois Isabel, sua mulher, concebeu; e por cinco meses se ocultava, dizendo:"
+    },
+    {
+      "numero": 25,
+      "texto": "“Eis a graça que o Senhor me fez, quando lançou os olhos sobre mim para tirar o meu opróbrio dentre os homens”."
+    },
+    {
+      "numero": 26,
+      "texto": "No sexto mês, o anjo Gabriel foi enviado por Deus a uma cidade da Galileia, chamada Nazaré,"
+    },
+    {
+      "numero": 27,
+      "texto": "a uma virgem desposada com um homem que se chamava José, da casa de Davi e o nome da virgem era Maria."
+    },
+    {
+      "numero": 28,
+      "texto": "Entrando, o anjo disse-lhe: “Ave, cheia de graça, o Senhor é contigo”."
+    },
+    {
+      "numero": 29,
+      "texto": "Perturbou-se ela com essas palavras e pôs-se a pensar no que significaria semelhante saudação."
+    },
+    {
+      "numero": 30,
+      "texto": "O anjo disse-lhe: “Não temas, Maria, pois encontraste graça diante de Deus."
+    },
+    {
+      "numero": 31,
+      "texto": "Eis que conceberás e darás à luz um filho, e lhe porás o nome de Jesus."
+    },
+    {
+      "numero": 32,
+      "texto": "Ele será grande e será chamado Filho do Altíssimo, e o Senhor Deus lhe dará o trono de seu pai Davi; e reinará eternamente na casa de Jacó,",
+      "nota": true
+    },
+    {
+      "numero": 33,
+      "texto": "e o seu reino não terá fim”."
+    },
+    {
+      "numero": 34,
+      "texto": "Maria perguntou ao anjo: “Como se fará isso, pois não conheço homem?”"
+    },
+    {
+      "numero": 35,
+      "texto": "Respondeu-lhe o anjo: “O Espírito Santo descerá sobre ti, e a força do Altíssimo te envolverá com a sua sombra. Por isso, o ente santo que nascer de ti será chamado Filho de Deus."
+    },
+    {
+      "numero": 36,
+      "texto": "Também Isabel, tua parenta, até ela concebeu um filho na sua velhice; e já está no sexto mês aquela que é tida por estéril,"
+    },
+    {
+      "numero": 37,
+      "texto": "porque a Deus nenhuma coisa é impossível”."
+    },
+    {
+      "numero": 38,
+      "texto": "Então disse Maria: “Eis aqui a serva do Senhor. Faça-se em mim segundo a tua palavra”. E o anjo afastou-se dela."
+    },
+    {
+      "numero": 39,
+      "texto": "Naqueles dias, Maria se levantou e foi às pressas às montanhas, a uma cidade de Judá."
+    },
+    {
+      "numero": 40,
+      "texto": "Entrou em casa de Zacarias e saudou Isabel."
+    },
+    {
+      "numero": 41,
+      "texto": "Ora, apenas Isabel ouviu a saudação de Maria, a criança estremeceu no seu seio; e Isabel ficou cheia do Espírito Santo."
+    },
+    {
+      "numero": 42,
+      "texto": "E exclamou em alta voz: “Bendita és tu entre as mulheres e bendito é o fruto do teu ventre."
+    },
+    {
+      "numero": 43,
+      "texto": "Donde me vem esta honra de vir a mim a mãe de meu Senhor?"
+    },
+    {
+      "numero": 44,
+      "texto": "Pois assim que a voz de tua saudação chegou aos meus ouvidos, a criança estremeceu de alegria no meu seio."
+    },
+    {
+      "numero": 45,
+      "texto": "Bem-aventurada és tu que creste, pois se hão de cumprir as coisas que da parte do Senhor te foram ditas!”."
+    },
+    {
+      "numero": 46,
+      "texto": "E Maria disse: “Minha alma glorifica ao Senhor,",
+      "nota": true
+    },
+    {
+      "numero": 47,
+      "texto": "meu espírito exulta de alegria em Deus, meu Salvador,"
+    },
+    {
+      "numero": 48,
+      "texto": "porque olhou para sua pobre serva. Por isso, desde agora, me proclamarão bem-aventurada todas as gerações,"
+    },
+    {
+      "numero": 49,
+      "texto": "porque realizou em mim maravilhas aquele que é poderoso e cujo nome é Santo."
+    },
+    {
+      "numero": 50,
+      "texto": "Sua misericórdia se estende, de geração em geração, sobre os que o temem."
+    },
+    {
+      "numero": 51,
+      "texto": "Manifestou o poder do seu braço: desconcertou os corações dos soberbos."
+    },
+    {
+      "numero": 52,
+      "texto": "Derrubou do trono os poderosos e exaltou os humildes."
+    },
+    {
+      "numero": 53,
+      "texto": "Saciou de bens os indigentes e despediu de mãos vazias os ricos."
+    },
+    {
+      "numero": 54,
+      "texto": "Acolheu a Israel, seu servo, lembrado da sua misericórdia,"
+    },
+    {
+      "numero": 55,
+      "texto": "conforme prometera a nossos pais, em favor de Abraão e sua posteridade, para sempre”."
+    },
+    {
+      "numero": 56,
+      "texto": "Maria ficou com Isabel cerca de três meses. Depois voltou para casa."
+    },
+    {
+      "numero": 57,
+      "texto": "Completando-se para Isabel o tempo de dar à luz, teve um filho."
+    },
+    {
+      "numero": 58,
+      "texto": "Os seus vizinhos e parentes souberam que o Senhor lhe manifestara a sua misericórdia, e congratulavam-se com ela."
+    },
+    {
+      "numero": 59,
+      "texto": "No oitavo dia, foram circuncidar o menino e o queriam chamar pelo nome de seu pai, Zacarias."
+    },
+    {
+      "numero": 60,
+      "texto": "Mas sua mãe interveio: “Não” – disse ela – “ele se chamará João.”"
+    },
+    {
+      "numero": 61,
+      "texto": "Replicaram-lhe: “Não há ninguém na tua família que se chame por este nome”."
+    },
+    {
+      "numero": 62,
+      "texto": "E perguntavam por acenos ao seu pai como queria que se chamasse."
+    },
+    {
+      "numero": 63,
+      "texto": "Ele, pedindo uma tabuinha, escreveu nela as palavras: “João é o seu nome”. Todos ficaram pasmados."
+    },
+    {
+      "numero": 64,
+      "texto": "E logo se lhe abriu a boca e soltou-se sua língua e ele falou, bendizendo a Deus."
+    },
+    {
+      "numero": 65,
+      "texto": "O temor apoderou-se de todos os seus vizinhos; o fato divulgou-se por todas as montanhas da Judeia."
+    },
+    {
+      "numero": 66,
+      "texto": "Todos os que o ouviam conservavam-no no coração, dizendo: “Que será este menino?”. Porque a mão do Senhor estava com ele."
+    },
+    {
+      "numero": 67,
+      "texto": "Zacarias, seu pai, ficou cheio do Espírito Santo e profetizou, nestes termos:",
+      "nota": true
+    },
+    {
+      "numero": 68,
+      "texto": "“Bendito seja o Senhor, Deus de Israel, porque visitou e resgatou o seu povo,"
+    },
+    {
+      "numero": 69,
+      "texto": "e suscitou-nos um poderoso Salvador, na casa de Davi, seu servo"
+    },
+    {
+      "numero": 70,
+      "texto": "(como havia anunciado, desde os primeiros tempos, mediante os seus santos profetas),"
+    },
+    {
+      "numero": 71,
+      "texto": "para nos livrar dos nossos inimigos e das mãos de todos os que nos odeiam."
+    },
+    {
+      "numero": 72,
+      "texto": "Assim exerce a sua misericórdia com nossos pais, e se recorda de sua santa aliança,"
+    },
+    {
+      "numero": 73,
+      "texto": "segundo o juramento que fez a nosso pai Abraão: de nos conceder que, sem temor,"
+    },
+    {
+      "numero": 74,
+      "texto": "libertados de mãos inimigas, possamos servi-lo"
+    },
+    {
+      "numero": 75,
+      "texto": "em santidade e justiça, em sua presença, todos os dias da nossa vida."
+    },
+    {
+      "numero": 76,
+      "texto": "E tu, menino, serás chamado profeta do Altíssimo, porque precederás o Senhor e lhe prepararás o caminho,"
+    },
+    {
+      "numero": 77,
+      "texto": "para dar ao seu povo conhecer a salvação, pelo perdão dos pecados."
+    },
+    {
+      "numero": 78,
+      "texto": "Graças à ternura e misericórdia de nosso Deus, que nos vai trazer do alto a visita do Sol nascente,",
+      "nota": true
+    },
+    {
+      "numero": 79,
+      "texto": "que há de iluminar os que jazem nas trevas e na sombra da morte e dirigir os nossos passos no caminho da paz.”"
+    },
+    {
+      "numero": 80,
+      "texto": "O menino foi crescendo e fortificava-se em espírito, e viveu nos desertos até o dia em que se apresentou diante de Israel."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:5-25",
+      "texto": "O anúncio do nascimento de João Batista a Zacarias revela o cumprimento das promessas de Deus em relação ao precursor do Messias. A incredulidade de Zacarias e sua punição temporária ensinam a importância de crer nas promessas de Deus, mesmo quando elas parecem impossíveis (veja também Mateus 11:11-14 e Lucas 7:28)."
+    },
+    {
+      "ref": "1:26-38",
+      "texto": "O anjo Gabriel anuncia a Maria o nascimento de Jesus, destacando a imensa graça que ela recebeu. A aceitação de Maria reflete sua humildade e fé, sendo um modelo de confiança em Deus. Ela se torna a mãe do Salvador e um exemplo de obediência e coragem (veja também Mateus 1:18-25 e João 1:14)."
+    },
+    {
+      "ref": "1:39-45",
+      "texto": "A visita de Maria a Isabel, e a reação de Isabel e João, destaca a importância da presença de Jesus, mesmo antes de Seu nascimento. A alegria de Isabel e o movimento do bebê em seu ventre enfatizam a santidade e a missão de Jesus (veja também Mateus 11:11-14 e João 2:10-11)."
+    },
+    {
+      "ref": "1:46-55",
+      "texto": "O cântico de Maria (Magnificat) expressa sua gratidão e louvor a Deus, refletindo a reversão de valores que o Reino de Deus traz. Maria reconhece a fidelidade de Deus em cumprir Suas promessas e exalta Sua justiça e misericórdia (veja também 1 Samuel 2:1-10 e Mateus 5:3-10)."
+    },
+    {
+      "ref": "1:67-80",
+      "texto": "O cântico de Zacarias (Benedictus) profetiza o papel de João como precursor do Messias e exalta a fidelidade de Deus em salvar Seu povo. O cântico destaca o plano divino de salvação, iniciado com o nascimento de João e culminando em Jesus (veja também Mateus 3:1-12 e Marcos 1:2-4)."
+    }
+  ]
+}

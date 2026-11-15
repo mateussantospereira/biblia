@@ -1,0 +1,152 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "eclesiastico",
+  "nome": "Eclesiástico",
+  "testamento": "AT",
+  "capitulo": 19,
+  "totalVersiculos": 28,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/eclesiastico/19/",
+  "capturadoEm": "2026-11-15T09:20:40-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O operário dado ao vinho não se enriquecerá, e aquele que se descuida das pequenas coisas cairá pouco a pouco."
+    },
+    {
+      "numero": 2,
+      "texto": "O vinho e as mulheres fazem sucumbir até mesmos os sábios, e tornam culpados os homens sensatos."
+    },
+    {
+      "numero": 3,
+      "texto": "Aquele que se une às prostitutas é um homem de nenhuma valia; ele se tornará pasto da podridão e dos vermes; ficará sendo um grande exemplo, e sua alma será suprimida do número dos vivos."
+    },
+    {
+      "numero": 4,
+      "texto": "Aquele que é crédulo demais tem um coração leviano; sofrerá prejuízo e será tido como pecador contra si mesmo."
+    },
+    {
+      "numero": 5,
+      "texto": "Quem se regozija com a iniquidade será desonrado; quem detesta a correção abreviará a sua vida; quem odeia a tagarelice destrói sua malícia."
+    },
+    {
+      "numero": 6,
+      "texto": "Quem peca contra si próprio, se arrependerá de tê-lo feito; quem põe sua alegria na malícia será apontado como infame."
+    },
+    {
+      "numero": 7,
+      "texto": "Não repitas uma palavra dura e maldosa, e não serás prejudicado."
+    },
+    {
+      "numero": 8,
+      "texto": "Não confies teu pensamento nem ao amigo nem ao inimigo. Se tiveres cometido uma falta, não a reveles,",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "pois ele te ouvirá, e observará, e, fingindo desculpar o teu pecado, te odiará. E estará sempre presente para te prejudicar.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Ouviste uma palavra contra o teu próximo? Abafa-a dentro de ti; fica seguro de que ela não te fará morrer."
+    },
+    {
+      "numero": 11,
+      "texto": "Por causa de uma palavra irrefletida o tolo estorce-se de dores, como uma mulher que geme para dar à luz."
+    },
+    {
+      "numero": 12,
+      "texto": "Como uma flecha cravada na gordura da coxa, assim é uma palavra no coração do insensato."
+    },
+    {
+      "numero": 13,
+      "texto": "Repreende o teu amigo, porque talvez não tenha compreendido, e diga: “Nada fiz”. Ou se o fez, para que não torne a fazê-lo.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Repreende o teu próximo, porque talvez não tenha dito aquilo de que é acusado. Ou, se o disse, para que não o torne a dizer."
+    },
+    {
+      "numero": 15,
+      "texto": "Repreende o teu próximo, porque muitas vezes se diz o que não é verdade,"
+    },
+    {
+      "numero": 16,
+      "texto": "e não acredites em tudo o que dizem. Homem há que peca pela língua, mas sem fazer com intenção."
+    },
+    {
+      "numero": 17,
+      "texto": "Pois quem não peca pela língua? Repreende o teu próximo antes de ameaçá-lo e dá ensejo ao temor do Altíssimo;"
+    },
+    {
+      "numero": 18,
+      "texto": "pois toda a sabedoria consiste no temor a Deus; nela está o temor a Deus. E em toda a sabedoria reside o cumprimento da Lei."
+    },
+    {
+      "numero": 19,
+      "texto": "O hábito de praticar o mal não é sabedoria; o modo de agir dos pecadores não é prudência."
+    },
+    {
+      "numero": 20,
+      "texto": "Há uma malícia hábil que é execrável, e há uma estupidez que é apenas falta de sabedoria."
+    },
+    {
+      "numero": 21,
+      "texto": "Mais vale o homem que tem pouca sabedoria, e a quem falta o senso, mas que tem o temor (a Deus), do que o homem que possui uma grande inteligência, e que transgride a Lei do Altíssimo."
+    },
+    {
+      "numero": 22,
+      "texto": "Há uma habilidade que não falha o alvo, mas que é iníqua."
+    },
+    {
+      "numero": 23,
+      "texto": "Há quem fale com segurança e só diz a verdade, e há quem se humilhe maliciosamente, cujo coração está cheio de embuste.",
+      "nota": true
+    },
+    {
+      "numero": 24,
+      "texto": "Há quem se rebaixe com excesso em profunda humilhação, e quem abaixe a cabeça, fingindo não ver o que está oculto.",
+      "nota": true
+    },
+    {
+      "numero": 25,
+      "texto": "Se a fraqueza o impede de cometer o mal, não deixará de pecar, logo que houver ocasião."
+    },
+    {
+      "numero": 26,
+      "texto": "Pelo semblante se reconhece um homem; pelo seu aspecto se reconhece um sábio."
+    },
+    {
+      "numero": 27,
+      "texto": "As vestes do corpo, o riso dos dentes, e o modo de andar de um homem fazem-no revelar-se."
+    },
+    {
+      "numero": 28,
+      "texto": "Há uma falsa correção na cólera de um insolente; há um modo de julgar que muitas vezes não é justo; e aquele que se cala dá prova de prudência."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "19:4-6",
+      "texto": "Aquele que é rápido em confiar nos outros pode se enganar. A prudência e o discernimento são essenciais para evitar o erro, mostrando a importância de ser cuidadoso nas decisões (veja também Provérbios 14:15 e Mateus 10:16)."
+    },
+    {
+      "ref": "19:8-10",
+      "texto": "Não se deve revelar segredos nem ser fofoqueiro. A discrição preserva amizades e evita conflitos, sendo uma virtude importante na convivência social (veja também Provérbios 11:13 e Tiago 3:5-6)."
+    },
+    {
+      "ref": "19:16-17",
+      "texto": "Quando alguém comete um erro, é sábio corrigi-lo de maneira justa, mas com misericórdia. A correção fraterna deve ser feita com o objetivo de restaurar e não de condenar (veja também Mateus 18:15 e Gálatas 6:1)."
+    },
+    {
+      "ref": "19:20-22",
+      "texto": "O temor do Senhor é o alicerce da verdadeira sabedoria. A sabedoria humana, sem temor a Deus, é vã e leva ao erro, enquanto o temor a Deus conduz à vida (veja também Provérbios 1:7 e Salmo 111:10)."
+    },
+    {
+      "ref": "19:24-25",
+      "texto": "Alguém pode aparentar sabedoria, mas se não for humilde, sua sabedoria é superficial. A humildade é fundamental para crescer verdadeiramente no conhecimento de Deus e dos outros (veja também Tiago 3:13 e 1 Coríntios 8:1-2)."
+    }
+  ]
+}

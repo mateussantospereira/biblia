@@ -1,0 +1,109 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "genesis",
+  "nome": "Gênesis",
+  "testamento": "AT",
+  "capitulo": 20,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/genesis/20/",
+  "capturadoEm": "2026-11-15T09:07:13-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Abraão partiu dali para a região do Negueb. Estabeleceu-se entre Cades e Sur, e viveu algum tempo em Gerara."
+    },
+    {
+      "numero": 2,
+      "texto": "Ele dizia de Sara, sua mulher, que ela era sua irmã. Abimelec, rei de Gerara, arrebatou-lha."
+    },
+    {
+      "numero": 3,
+      "texto": "Mas Deus apareceu em sonhos a Abimelec e disse-lhe: ‘‘Vais morrer, por causa da mulher que roubaste, porque é casada”."
+    },
+    {
+      "numero": 4,
+      "texto": "Abimelec, que não a tinha tocado, disse: ‘‘Senhor, fareis perecer mesmo inocentes?"
+    },
+    {
+      "numero": 5,
+      "texto": "Não me disse ele que ela era sua irmã? E ela mesma me disse: É meu irmão. É na simplicidade de meu coração e com as mãos puras que fiz isso’’."
+    },
+    {
+      "numero": 6,
+      "texto": "Deus disse-lhe em sonhos: ‘‘Sei que é na simplicidade do teu coração que agiste assim; por isso, preservei-te de pecar contra mim, e não deixei que a tocasses."
+    },
+    {
+      "numero": 7,
+      "texto": "Devolve agora a mulher deste homem, que é profeta, e ele rogará por ti para que conserves a vida. Mas, se não a devolveres, sabes que morrerás seguramente, tu e todos os teus’’."
+    },
+    {
+      "numero": 8,
+      "texto": "Ao romper da manhã, Abimelec convocou todos os seus servos e referiu-lhes essas coisas. Todos ficaram muito atemorizados."
+    },
+    {
+      "numero": 9,
+      "texto": "Depois, Abimelec chamou Abraão e disse-lhe: ‘‘Que nos fizeste? Em que te ofendi para que nos expusesses, a mim e ao meu reino, ao castigo de um tão grande pecado. Fizeste-me o que não devias fazer’’."
+    },
+    {
+      "numero": 10,
+      "texto": "E ajuntou: ‘‘Que tiveste em vista agindo assim?”."
+    },
+    {
+      "numero": 11,
+      "texto": "Abraão respondeu: ‘‘Eu pensava que não havia certamente nenhum temor a Deus nesta terra, e que me matariam por causa de minha mulher."
+    },
+    {
+      "numero": 12,
+      "texto": "Aliás, ela é realmente minha irmã, filha de meu pai, mas não de minha mãe; ela tornou-se minha mulher.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Quando Deus me tirou da casa de meu pai, eu lhe disse: Faze-me esta graça: onde quer que formos, dirás de mim que sou teu irmão’’."
+    },
+    {
+      "numero": 14,
+      "texto": "Tomou então Abimelec ovelhas, bois, servos e servas, e deu-os a Abraão, ao mesmo tempo que lhe devolvia Sara, sua mulher."
+    },
+    {
+      "numero": 15,
+      "texto": "E disse-lhe: ‘‘Minha terra está à tua disposição: fixa-te onde quiseres”."
+    },
+    {
+      "numero": 16,
+      "texto": "Disse também a Sara: ‘‘Dou a teu irmão mil moedas de prata: isto te será um véu sobre os olhos para todos aqueles que estão contigo; eis-te justificada’’.",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "Abraão intercedeu junto de Deus, que curou Abimelec, sua mulher e suas servas, e deram novamente à luz."
+    },
+    {
+      "numero": 18,
+      "texto": "Porque o Senhor tinha ferido de esterilidade todas as mulheres da casa de Abimelec, por causa de Sara, mulher de Abraão."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "20:1-2",
+      "texto": "Abraão se dirige a Gerar e apresenta Sara como sua irmã, temendo pela própria vida. Essa passagem ilustra as fraquezas humanas e a tendência de confiar em estratégias humanas em vez de em Deus (veja também Salmo 118:8 e Provérbios 3:5-6)."
+    },
+    {
+      "ref": "20:3-7",
+      "texto": "Deus intervém em sonho para proteger Sara e repreender Abimeleque, mostrando que Deus cuida de Seus planos e protege aqueles que pertencem a Ele. Essa intervenção divina ressalta a soberania de Deus em meio à incerteza humana (veja também Jó 33:15-17 e Salmo 121:7-8)."
+    },
+    {
+      "ref": "20:8-10",
+      "texto": "Abimeleque confronta Abraão sobre a mentira e a falta de honestidade. Essa passagem destaca a importância da integridade e da verdade nas relações interpessoais (veja também Efésios 4:25 e Provérbios 12:22)."
+    },
+    {
+      "ref": "20:11-13",
+      "texto": "Abraão explica sua ação, revelando o medo de perder a vida. Essa narrativa mostra como o medo pode levar a decisões imprudentes, lembrando a necessidade de confiar plenamente em Deus (veja também 1 João 4:18 e Salmo 56:3-4)."
+    },
+    {
+      "ref": "20:14-18",
+      "texto": "Abimeleque devolve Sara a Abraão e oferece presentes. Deus é fiel em proteger Seu povo, mesmo em situações complicadas. Essa história enfatiza a graça divina que opera em meio ao pecado e à desobediência (veja também Romanos 5:20 e 2 Coríntios 12:9)."
+    }
+  ]
+}

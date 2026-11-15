@@ -1,0 +1,171 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "numeros",
+  "nome": "Números",
+  "testamento": "AT",
+  "capitulo": 2,
+  "totalVersiculos": 34,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/numeros/2/",
+  "capturadoEm": "2026-11-15T09:44:29-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Senhor falou a Moisés e a Aarão dizendo:"
+    },
+    {
+      "numero": 2,
+      "texto": "Os filhos de Israel acamparão em volta do tabernáculo da aliança cada um segundo as suas turmas, as suas insígnias, os seus estandartes, as casas da sua parentela."
+    },
+    {
+      "numero": 3,
+      "texto": "Judá assentará as suas tendas ao oriente, segundo as turmas do seu exército; Naasson, filho de Aminadab, será o príncipe dos seus filhos."
+    },
+    {
+      "numero": 4,
+      "texto": "O número total de combatentes da sua linhagem é de setenta e quatro mil e seiscentos."
+    },
+    {
+      "numero": 5,
+      "texto": "Junto dele acamparam os da tribo de Issacar, cujo príncipe foi Natanael, filho de Suar."
+    },
+    {
+      "numero": 6,
+      "texto": "O número total dos seus combatentes é de cinquenta e quatro mil e quatrocentos."
+    },
+    {
+      "numero": 7,
+      "texto": "Na tribo de Zabulon o príncipe foi Eliab, filho de Elon."
+    },
+    {
+      "numero": 8,
+      "texto": "Todo o corpo de combatentes desta tribo é de cinquenta e sete mil e quatrocentos."
+    },
+    {
+      "numero": 9,
+      "texto": "Todos os que foram contados no acampamento de Judá, foram cento e oitenta e seis mil e quatrocentos; serão os primeiros a pôr-se em marcha segundo as suas turmas."
+    },
+    {
+      "numero": 10,
+      "texto": "No acampamento dos filhos de Ruben para a parte do meio-dia será príncipe Elisur, filho de Sedeur;"
+    },
+    {
+      "numero": 11,
+      "texto": "todo o corpo dos seus combatentes, que foram contados, era de quarenta e seis mil e quinhentos."
+    },
+    {
+      "numero": 12,
+      "texto": "Junto a ele acamparam os da tribo de Simeão, cujo príncipe foi Salamiel, filho de Surisadai."
+    },
+    {
+      "numero": 13,
+      "texto": "Todo o corpo dos seus combatentes, que feriam contados, era de cinquenta e nove mil e trezentos."
+    },
+    {
+      "numero": 14,
+      "texto": "Na tribo de Gad foi príncipe Eliasaph, filho de Duel."
+    },
+    {
+      "numero": 15,
+      "texto": "Todo o corpo dos seus combatentes, que foram contados, era de quarenta e cinco mil seiscentos e cinquenta."
+    },
+    {
+      "numero": 16,
+      "texto": "Todos os que foram contados no acampamento de Ruben, foram cento e cinquenta e um mil e quatrocentos e cinquenta, segundo as suas turmas; estes serão os segundos a pôr-se em marcha."
+    },
+    {
+      "numero": 17,
+      "texto": "(Em seguida irá) o tabernáculo da reunião (que) será levado por cuidado dos Levitas, e por suas turmas; pela ordem que for armado, assim será desarmado. Cada um marchará no seu lugar e na sua ordem."
+    },
+    {
+      "numero": 18,
+      "texto": "Para a parte do ocidente estará o acampamento dos filhos de Efraim, cujo príncipe foi Elisama filho de Amiud."
+    },
+    {
+      "numero": 19,
+      "texto": "Todo o corpo dos seus combatentes, que foram contados, era de quarenta mil e quinhentos."
+    },
+    {
+      "numero": 20,
+      "texto": "A seu lado acampará a tribo dos filhos de Manasses cujo príncipe, foi Gamaliel, filho de Fadussur."
+    },
+    {
+      "numero": 21,
+      "texto": "Todo o corpo dos seus combatentes, que foram contados, era de trinta e dois mil e duzentos."
+    },
+    {
+      "numero": 22,
+      "texto": "Na tribo dos filhos de Benjamim foi príncipe Abidan, filho de Gedeão."
+    },
+    {
+      "numero": 23,
+      "texto": "Todo o corpo dos seus combatentes, que foram contados, era de trinta e cinco mil e quatrocentos."
+    },
+    {
+      "numero": 24,
+      "texto": "Todos os que foram contados no acampamento de Efraim somavam cento e oito mil e cem segundo as suas turmas. Estes partirão em terceiro lugar."
+    },
+    {
+      "numero": 25,
+      "texto": "Para a parte do setentrião acamparam os filhos de Dan cujo príncipe foi Aiezer, filho de Amisadai."
+    },
+    {
+      "numero": 26,
+      "texto": "Todo o corpo dos seus combatentes, que foram contados, era de sessenta e dois mil e setecentos."
+    },
+    {
+      "numero": 27,
+      "texto": "Junto a ele acamparam os da tribo de Aser, cujo príncipe foi Fegiel, filho de Ocran."
+    },
+    {
+      "numero": 28,
+      "texto": "Toldo o corpo dos seus combatentes que foram contados, era de quarenta e um mil e quinhentos."
+    },
+    {
+      "numero": 29,
+      "texto": "Da tribo dos filhos de Neftali foi príncipe Aira, filho de Enan."
+    },
+    {
+      "numero": 30,
+      "texto": "Todo o corpo dos seus combatentes era de cinquenta e três mil e quatrocentos."
+    },
+    {
+      "numero": 31,
+      "texto": "Todos os que foram contados no acampamento de Dan foram cento e cinqüenta e sete mil e setecentos; estes serão os últimos a partir."
+    },
+    {
+      "numero": 32,
+      "texto": "O numero dos filhos de Israel, divididos segundo as casas patriarcais e as turmas do exército, é de seiscentos e três mil e quinhentos e cinquenta."
+    },
+    {
+      "numero": 33,
+      "texto": "Os Levitas, porém, não foram contados entre os filhos de Israel, porque assim tinha ordenado o Senhor a Moisés."
+    },
+    {
+      "numero": 34,
+      "texto": "Os filhos de Israel fizeram tudo segundo o que o Senhor tinha mandado. Acamparam segundo as suas turmas, e marcharam segundo as famílias e casas de seus pais."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "2:1-2",
+      "texto": "Deus ordena que o povo de Israel se acampe ao redor do Tabernáculo, cada tribo em seu lugar designado. O acampamento organizado simboliza a centralidade de Deus na vida do povo e o papel do Tabernáculo como lugar de encontro com o divino (veja também Êxodo 25:8-9 e João 1:14)."
+    },
+    {
+      "ref": "2:3-9",
+      "texto": "As tribos de Judá, Issacar e Zebulom são organizadas ao leste, com Judá liderando. Isso reflete o papel proeminente de Judá, de onde viria o Messias, destacando a bênção de liderança dada a essa tribo (veja também Gênesis 49:10 e Mateus 1:2-3)."
+    },
+    {
+      "ref": "2:10-16",
+      "texto": "As tribos de Rúben, Simeão e Gade acampam ao sul. Cada grupo tem seu lugar e sua função, destacando a ordem e a organização que Deus estabelece para Seu povo (veja também 1 Coríntios 14:40 e Efésios 4:11-13)."
+    },
+    {
+      "ref": "2:17-24",
+      "texto": "Os levitas acampam ao redor do Tabernáculo, no centro do acampamento, destacando sua responsabilidade de proteger e cuidar das coisas sagradas. Isso reflete a importância da santidade e do serviço a Deus (veja também Números 3:5-9 e Deuteronômio 10:8)."
+    },
+    {
+      "ref": "2:25-34",
+      "texto": "As tribos de Dã, Aser e Naftali acampam ao norte. A organização das tribos ao redor do Tabernáculo reflete a unidade do povo de Deus e a importância da obediência às Suas instruções (veja também Salmo 133:1-3 e Efésios 4:3)."
+    }
+  ]
+}

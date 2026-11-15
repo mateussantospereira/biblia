@@ -1,0 +1,176 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sao-mateus",
+  "nome": "São Mateus",
+  "testamento": "NT",
+  "capitulo": 6,
+  "totalVersiculos": 34,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sao-mateus/6/",
+  "capturadoEm": "2026-11-15T09:25:43-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "“Guardai-vos de fazer vossas boas obras diante dos homens, para serdes vistos por eles. Do contrário, não tereis recompensa junto de vosso Pai que está no céu."
+    },
+    {
+      "numero": 2,
+      "texto": "Quando, pois, dás esmola, não toques a trombeta diante de ti, como fazem os hipócritas nas sinagogas e nas ruas, para serem louvados pelos homens. Em verdade eu vos digo: já receberam sua recompensa."
+    },
+    {
+      "numero": 3,
+      "texto": "Quando deres esmola, que tua mão esquerda não saiba o que fez a direita.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Assim, a tua esmola se fará em segredo; e teu Pai, que vê o escondido, irá recompensar-te."
+    },
+    {
+      "numero": 5,
+      "texto": "Quando orardes, não façais como os hipócritas, que gostam de orar de pé nas sinagogas e nas esquinas das ruas, para serem vistos pelos homens. Em verdade eu vos digo: já receberam sua recompensa."
+    },
+    {
+      "numero": 6,
+      "texto": "Quando orares, entra no teu quarto, fecha a porta e ora ao teu Pai em segredo; e teu Pai, que vê num lugar oculto, te recompensará."
+    },
+    {
+      "numero": 7,
+      "texto": "Nas vossas orações, não multipliqueis as palavras, como fazem os pagãos que julgam que serão ouvidos à força de palavras."
+    },
+    {
+      "numero": 8,
+      "texto": "Não os imiteis, porque vosso Pai sabe o que vos é necessário, antes que vós lho peçais."
+    },
+    {
+      "numero": 9,
+      "texto": "Eis como deveis rezar: PAI NOSSO, que estais no céu, santificado seja o vosso nome;"
+    },
+    {
+      "numero": 10,
+      "texto": "venha a nós o vosso Reino; seja feita a vossa vontade, assim na terra como no céu."
+    },
+    {
+      "numero": 11,
+      "texto": "O pão nosso de cada dia nos dai hoje;",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "perdoai-nos as nossas ofensas, assim como nós perdoamos aos que nos ofenderam;",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "e não nos deixeis cair em tentação, mas livrai-nos do mal."
+    },
+    {
+      "numero": 14,
+      "texto": "Porque, se perdoardes aos homens as suas ofensas, vosso Pai celeste também vos perdoará."
+    },
+    {
+      "numero": 15,
+      "texto": "Mas, se não perdoardes aos homens, tampouco vosso Pai vos perdoará."
+    },
+    {
+      "numero": 16,
+      "texto": "Quando jejuardes, não tomeis um ar triste como os hipócritas, que mostram um semblante abatido para manifestar aos homens que jejuam. Em verdade eu vos digo: já receberam sua recompensa."
+    },
+    {
+      "numero": 17,
+      "texto": "Quando jejuares, perfuma a tua cabeça e lava o teu rosto."
+    },
+    {
+      "numero": 18,
+      "texto": "Assim, não parecerá aos homens que jejuas, mas somente a teu Pai que está presente ao oculto; e teu Pai, que vê num lugar oculto, te recompensará.”"
+    },
+    {
+      "numero": 19,
+      "texto": "“Não ajunteis para vós tesouros na terra, onde a ferrugem e as traças corroem, onde os ladrões furtam e roubam."
+    },
+    {
+      "numero": 20,
+      "texto": "Ajuntai para vós tesouros no céu, onde não os consomem nem as traças nem a ferrugem, e os ladrões não furtam nem roubam."
+    },
+    {
+      "numero": 21,
+      "texto": "Porque onde está o teu tesouro, lá também está teu coração."
+    },
+    {
+      "numero": 22,
+      "texto": "O olho é a luz do corpo. Se teu olho é são, todo o teu corpo será iluminado."
+    },
+    {
+      "numero": 23,
+      "texto": "Se teu olho estiver em mau estado, todo o teu corpo estará nas trevas. Se a luz que está em ti são trevas, quão espessas deverão ser as trevas!”"
+    },
+    {
+      "numero": 24,
+      "texto": "“Ninguém pode servir a dois senhores, porque ou odiará a um e amará o outro, ou se dedicará a um e desprezará o outro. Não podeis servir a Deus e à riqueza.",
+      "nota": true
+    },
+    {
+      "numero": 25,
+      "texto": "Portanto, eis que vos digo: não vos preocupeis por vossa vida, pelo que comereis, nem por vosso corpo, pelo que vestireis. A vida não é mais do que o alimento e o corpo não é mais que as vestes?"
+    },
+    {
+      "numero": 26,
+      "texto": "Olhai as aves do céu: não semeiam nem ceifam, nem recolhem nos celeiros e vosso Pai celeste as alimenta. Não valeis vós muito mais que elas?"
+    },
+    {
+      "numero": 27,
+      "texto": "Qual de vós, por mais que se esforce, pode acrescentar um só côvado à duração de sua vida?",
+      "nota": true
+    },
+    {
+      "numero": 28,
+      "texto": "E por que vos inquietais com as vestes? Considerai como crescem os lírios do campo; não trabalham nem fiam."
+    },
+    {
+      "numero": 29,
+      "texto": "Entretanto, eu vos digo que o próprio Salomão no auge de sua glória não se vestiu como um deles."
+    },
+    {
+      "numero": 30,
+      "texto": "Se Deus veste assim a erva dos campos, que hoje cresce e amanhã será lançada ao fogo, quanto mais a vós, homens de pouca fé?"
+    },
+    {
+      "numero": 31,
+      "texto": "Não vos aflijais, nem digais: Que comeremos? Que beberemos? Com que nos vestiremos?"
+    },
+    {
+      "numero": 32,
+      "texto": "São os pagãos que se preocupam com tudo isso. Ora, vosso Pai celeste sabe que necessitais de tudo isso."
+    },
+    {
+      "numero": 33,
+      "texto": "Buscai em primeiro lugar o Reino de Deus e a sua justiça e todas estas coisas vos serão dadas em acréscimo."
+    },
+    {
+      "numero": 34,
+      "texto": "Não vos preocupeis, pois, com o dia de amanhã: o dia de amanhã terá as suas preocupações próprias. A cada dia basta o seu cuidado.”"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "6:1-4",
+      "texto": "Jesus ensina sobre a prática da justiça sem buscar reconhecimento humano, como no caso da esmola. A verdadeira generosidade é feita de maneira discreta, com foco em agradar a Deus e não aos homens (veja também Lucas 11:41 e 2 Coríntios 9:7)."
+    },
+    {
+      "ref": "6:5-15",
+      "texto": "Jesus instrui sobre a oração, destacando a importância da sinceridade e intimidade com Deus. O Pai Nosso é apresentado como um modelo de oração que prioriza a vontade de Deus e a dependência dEle para nossas necessidades diárias (veja também Lucas 11:1-4 e João 14:13)."
+    },
+    {
+      "ref": "6:19-21",
+      "texto": "Jesus ensina sobre a importância de investir no que é eterno, ao invés de acumular riquezas terrenas. O tesouro no céu é aquele que não perece, refletindo a prioridade espiritual sobre as preocupações materiais (veja também Colossenses 3:1-2 e Lucas 12:33-34)."
+    },
+    {
+      "ref": "6:25-34",
+      "texto": "Jesus exorta a não se preocupar com as necessidades materiais, pois Deus cuida de cada detalhe da vida. A confiança em Sua providência libera os discípulos da ansiedade e os motiva a buscar primeiramente o Reino de Deus (veja também Filipenses 4:6-7 e 1 Pedro 5:7)."
+    },
+    {
+      "ref": "6:33",
+      "texto": "Buscar em primeiro lugar o Reino de Deus e Sua justiça deve ser a prioridade máxima do cristão. Quando isso acontece, Deus providencia tudo o que é necessário para a vida (veja também Colossenses 3:17 e Romanos 14:17)."
+    }
+  ]
+}

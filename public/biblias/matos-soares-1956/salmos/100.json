@@ -1,0 +1,63 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 100,
+  "totalVersiculos": 8,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/100/",
+  "capturadoEm": "2026-11-15T09:53:59-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "De Davide. Salmo. Eu cantarei a graça e a justiça; a ti, Senhor, entoarei salmos. (ver nota)"
+    },
+    {
+      "numero": 2,
+      "texto": "Andarei por caminho imaculado: quando virás a mim? Caminharei na inocência do meu coração, na minha casa."
+    },
+    {
+      "numero": 3,
+      "texto": "Eu não porei diante dos meus olhos coisa injusta; odeio o que comete prevaricações: não se unirá a mim."
+    },
+    {
+      "numero": 4,
+      "texto": "O coração depravado estará longe de mim; não conhecerei o que é mau."
+    },
+    {
+      "numero": 5,
+      "texto": "Ao que secretamente diz mal do seu próximo, eu o exterminarei. O que tem olhos altivos e coração inchado, não o tolerarei."
+    },
+    {
+      "numero": 6,
+      "texto": "Os meus olhos fixam-se nos fiéis da terra, para que habitem comigo. O que anda por caminho imaculado, esse me servirá."
+    },
+    {
+      "numero": 7,
+      "texto": "Não habitará na minha casa o que comete fraude; o que diz mentiras não subsistirá diante dos meus olhos."
+    },
+    {
+      "numero": 8,
+      "texto": "Cada dia exterminarei todos os pecados da terra, suprimindo da cidade do Senhor todos os que cometem a iniquidade."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "100:1-2",
+      "texto": "Celebrai com júbilo ao Senhor. Este salmo convoca todas as nações a louvar e adorar a Deus com alegria e cânticos, reconhecendo Seu domínio universal (veja também Filipenses 4:4 e Salmo 66:1-2)."
+    },
+    {
+      "ref": "100:3",
+      "texto": "Sabei que o Senhor é Deus. Este versículo destaca o conhecimento de Deus como Criador e Pastor. Reconhecer a soberania de Deus é o fundamento da adoração (veja também Salmo 23:1 e João 10:14)."
+    },
+    {
+      "ref": "100:4",
+      "texto": "Entrai por suas portas com ações de graças. A adoração a Deus envolve gratidão e louvor. A referência às portas do templo simboliza a entrada na presença de Deus com coração grato (veja também Hebreus 13:15 e Colossenses 3:15-17)."
+    },
+    {
+      "ref": "100:5",
+      "texto": "Porque o Senhor é bom. A bondade, a misericórdia e a fidelidade de Deus são eternas. Esse versículo conclui o salmo afirmando a confiança na fidelidade de Deus por todas as gerações (veja também Lamentações 3:22-23 e Salmo 117:2)."
+    }
+  ]
+}

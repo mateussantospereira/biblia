@@ -1,0 +1,118 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 32,
+  "totalVersiculos": 20,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/32/",
+  "capturadoEm": "2026-11-15T09:21:45-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eis que um rei reinará segundo a justiça, e os príncipes governarão com equidade."
+    },
+    {
+      "numero": 2,
+      "texto": "Cada um deles será como um abrigo contra o vento, um refúgio contra a chuva torrencial; como um fio de água num chão ressecado, e como a sombra de um alto rochedo em terra ressequida."
+    },
+    {
+      "numero": 3,
+      "texto": "Os olhos dos que veem não mais serão ofuscados, e os ouvidos dos que ouvem estarão atentos."
+    },
+    {
+      "numero": 4,
+      "texto": "Os espíritos insensatos se disporão a compreender, e a língua dos gagos falará prontamente e com clareza;"
+    },
+    {
+      "numero": 5,
+      "texto": "não mais se qualificará de nobre ao perverso, nem de grande trapaceiro.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Porque o insensato profere loucuras e seu coração dá-se ao mal; comete impiedades, forma sobre o Senhor conceitos errôneos, deixa o faminto queixar-se de sua miséria, priva da bebida àquele que tem sede.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "As intrigas do trapaceiro são desleais, ele maquina desígnios criminosos para perder os humildes com mentiras, e o pobre que faz valer seu direito;",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "o fidalgo, porém, tem pensamentos dignos, e um procedimento nobre."
+    },
+    {
+      "numero": 9,
+      "texto": "Mulheres descuidadas, escutai minha voz. Jovens confiantes demais, ouvi minhas palavras."
+    },
+    {
+      "numero": 10,
+      "texto": "Dentro de um ano e alguns dias, tremereis, indolentes, porque a vindima estará perdida e a colheita, frustrada."
+    },
+    {
+      "numero": 11,
+      "texto": "Fremi, descuidadas, tremei, confiantes. Despi-vos até estardes nuas. Cingi os vossos rins,",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "batei nos vossos peitos, chorando sobre a sorte dos campos férteis e das vinhas fecundas,",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "sobre as terras de meu povo, onde só crescem sarças, sobre todas as casas de prazer da cidade alegre."
+    },
+    {
+      "numero": 14,
+      "texto": "O palácio está deserto, a cidade barulhenta está abandonada. Ofel e a torre de guarda serão para sempre planaltos desnudos, onde vagueiam os asnos selvagens e pastam os rebanhos.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Até que sobre nós se derrame o espírito do alto, então o deserto se mudará em vergel, e o vergel tomará o aspecto de uma floresta;"
+    },
+    {
+      "numero": 16,
+      "texto": "no deserto reinará o direito, e a justiça residirá no vergel."
+    },
+    {
+      "numero": 17,
+      "texto": "A justiça produzirá a paz e o direito assegurará a tranquilidade;"
+    },
+    {
+      "numero": 18,
+      "texto": "meu povo habitará em mansão serena, em moradas seguras, em abrigos tranquilos."
+    },
+    {
+      "numero": 19,
+      "texto": "A floresta será abatida e a cidade, humilhada.",
+      "nota": true
+    },
+    {
+      "numero": 20,
+      "texto": "Bem-aventurados sereis por semear à margem de todos os cursos de água, e por deixar o boi e o asno sem peias."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "32:1-2",
+      "texto": "Uma promessa é feita de um rei justo que governará com retidão, trazendo proteção e segurança ao povo. Essa profecia aponta para o Messias, o Rei perfeito (veja também Jeremias 23:5-6 e Mateus 12:18-21)."
+    },
+    {
+      "ref": "32:3-4",
+      "texto": "A chegada do reino justo resultará em transformação: os cegos verão, os surdos ouvirão, e o entendimento será renovado. Essa restauração é obra da graça de Deus (veja também Isaías 35:5-6 e Lucas 4:18-19)."
+    },
+    {
+      "ref": "32:9-14",
+      "texto": "As mulheres complacentes são advertidas sobre o futuro julgamento. Isso demonstra que ninguém está isento da responsabilidade diante de Deus e da necessidade de vigilância espiritual (veja também Mateus 25:1-13 e Amós 6:1)."
+    },
+    {
+      "ref": "32:15-20",
+      "texto": "A vinda do Espírito Santo trará justiça, paz e prosperidade, restaurando a ordem divina na criação. Essa visão aponta para a plenitude do reino de Deus (veja também Joel 2:28-29 e Atos 2:17-18)."
+    }
+  ]
+}

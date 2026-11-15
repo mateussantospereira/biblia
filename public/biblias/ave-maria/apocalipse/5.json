@@ -1,0 +1,88 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "apocalipse",
+  "nome": "Apocalipse",
+  "testamento": "NT",
+  "capitulo": 5,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/apocalipse/5/",
+  "capturadoEm": "2026-11-15T09:29:44-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eu vi também, na mão direita do que estava assentado no trono, um livro escrito por dentro e por fora, selado com sete selos.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Vi então um anjo vigoroso, que clamava em alta voz: “Quem é digno de abrir o livro e desatar os seus selos?”."
+    },
+    {
+      "numero": 3,
+      "texto": "Mas ninguém, nem no céu, nem na terra, nem debaixo da terra, podia abrir o livro ou examiná-lo."
+    },
+    {
+      "numero": 4,
+      "texto": "Eu chorava muito, porque ninguém fora achado digno de abrir o livro e examiná-lo."
+    },
+    {
+      "numero": 5,
+      "texto": "Então, um dos Anciãos me falou: “Não chores! O Leão da tribo de Judá, o descendente de Davi venceu para abrir o livro e os seus sete selos”."
+    },
+    {
+      "numero": 6,
+      "texto": "Eu vi no meio do trono, dos quatro Animais e no meio dos Anciãos um Cordeiro de pé, como que imolado. Tinha ele sete chifres e sete olhos (que são os sete Espíritos de Deus, enviados por toda a terra).",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "Veio e recebeu o livro da mão direita do que se assentava no trono.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Quando recebeu o livro, os quatro Animais e os vinte e quatro Anciãos prostraram-se diante do Cordeiro, tendo cada um uma cítara e taças de ouro cheias de perfume (que são as orações dos santos)."
+    },
+    {
+      "numero": 9,
+      "texto": "Cantavam um cântico novo, dizendo: “Tu és digno de receber o livro e de abrir-lhe os selos, porque foste imolado e resgataste para Deus, ao preço de teu sangue, homens de toda tribo, língua, povo e raça;"
+    },
+    {
+      "numero": 10,
+      "texto": "e deles fizeste para nosso Deus um reino de sacerdotes, que reinam sobre a terra”.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Na minha visão ouvi também, ao redor do trono, dos Animais e dos Anciãos, a voz de muitos anjos, em número de miríades de miríades e de milhares de milhares,"
+    },
+    {
+      "numero": 12,
+      "texto": "bradando em alta voz: “Digno é o Cordeiro imolado de receber o poder, a riqueza, a sabedoria, a força, a glória, a honra e o louvor”.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "E todas as criaturas que estão no céu, na terra, debaixo da terra e no mar, e tudo que contêm, eu as ouvi clamar: “Àquele que se assenta no trono e ao Cordeiro, louvor, honra, glória e poder pelos séculos dos séculos.”"
+    },
+    {
+      "numero": 14,
+      "texto": "E os quatro Animais diziam: “Amém!”. Os Anciãos prostravam-se e adoravam."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "5:1-5",
+      "texto": "João vê o livro selado com sete selos e ninguém é digno de abri-lo, até que o Cordeiro, Cristo, surge como aquele digno de abrir os selos. A vitória de Cristo sobre a morte torna-O digno de revelar os mistérios de Deus (veja também Isaías 11:1-2 e João 5:22-27)."
+    },
+    {
+      "ref": "5:6-10",
+      "texto": "O Cordeiro é descrito como tendo sido imolado e digno de receber adoração de todas as criaturas. Sua obra de redenção é universal, e Sua autoridade é reconhecida por toda a criação (veja também Filipenses 2:9-11 e Colossenses 1:16-20)."
+    },
+    {
+      "ref": "5:11-14",
+      "texto": "A adoração ao Cordeiro se estende a todas as ordens celestiais, mostrando que Cristo é o centro de toda a adoração no céu e na terra. A vitória de Cristo é um convite para toda a criação se render a Ele (veja também Hebreus 1:6 e Salmos 103:20-22)."
+    }
+  ]
+}

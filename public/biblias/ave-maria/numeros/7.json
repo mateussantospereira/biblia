@@ -1,0 +1,387 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "numeros",
+  "nome": "Números",
+  "testamento": "AT",
+  "capitulo": 7,
+  "totalVersiculos": 88,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/numeros/7/",
+  "capturadoEm": "2026-11-15T09:09:15-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Tendo Moisés acabado de levantar o tabernáculo, de ungi-lo e consagrá-lo com todos os seus utensílios, bem como o altar e todos os seus utensílios, que também ungiu e consagrou,"
+    },
+    {
+      "numero": 2,
+      "texto": "os príncipes de Israel, chefes de suas casas patriarcais, os príncipes das tribos que haviam presidido ao recenseamento, apresentaram sua oferta."
+    },
+    {
+      "numero": 3,
+      "texto": "Levaram-na diante do Senhor: seis carros cobertos e doze bois, ou seja, um carro para dois príncipes e um boi para cada um; e os ofereceram diante do tabernáculo."
+    },
+    {
+      "numero": 4,
+      "texto": "Então o Senhor disse a Moisés:"
+    },
+    {
+      "numero": 5,
+      "texto": "“Recebe-os deles para que sejam empregados no serviço da tenda de reunião, e entrega-os aos levitas segundo as funções de cada um”."
+    },
+    {
+      "numero": 6,
+      "texto": "Moisés tomou os carros e os bois e os entregou aos levitas."
+    },
+    {
+      "numero": 7,
+      "texto": "Deu aos filhos de Gérson, segundo as suas funções, dois carros e quatro bois."
+    },
+    {
+      "numero": 8,
+      "texto": "Aos filhos de Merari, segundo as suas funções, sob a vigilância de Itamar, filho do sacerdote Aarão, deu quatro carros e oito bois."
+    },
+    {
+      "numero": 9,
+      "texto": "Aos filhos de Caat, porém, não deu carros nem bois, porque tinham o cuidado de objetos sagrados que levavam aos ombros."
+    },
+    {
+      "numero": 10,
+      "texto": "Os príncipes apresentaram sua oferta para a dedicação do altar no dia em que ele foi ungido, e trouxeram-na diante do altar."
+    },
+    {
+      "numero": 11,
+      "texto": "O Senhor disse a Moisés: “Os príncipes ofereçam, cada um em seu dia, a sua oferta para a dedicação do altar”."
+    },
+    {
+      "numero": 12,
+      "texto": "No primeiro dia foi Naasson, filho de Abinadab, da tribo de Judá, quem apresentou a oferenda."
+    },
+    {
+      "numero": 13,
+      "texto": "Ofereceu um prato de prata pesando cento e trinta siclos, uma bacia de prata pesando setenta siclos, segundo o siclo do santuário, ambos cheios de flor de farinha amassada com óleo, para a oblação;"
+    },
+    {
+      "numero": 14,
+      "texto": "uma taça de ouro pesando dez siclos, cheia de perfume;"
+    },
+    {
+      "numero": 15,
+      "texto": "um novilho, um carneiro e um cordeiro de um ano para o holocausto;"
+    },
+    {
+      "numero": 16,
+      "texto": "um bode para o sacrifício pelo pecado,"
+    },
+    {
+      "numero": 17,
+      "texto": "e ainda dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano, para o sacrifício pacífico. Essa foi a oferta de Naasson, filho de Abinadab."
+    },
+    {
+      "numero": 18,
+      "texto": "No segundo dia, apresentou sua oferta o príncipe de Issacar, Natanael, filho de Suar."
+    },
+    {
+      "numero": 19,
+      "texto": "Ofereceu um prato de prata pesando cento e trinta siclos, uma bacia de prata pesando setenta siclos, segundo o siclo do santuário, ambos cheios de flor de farinha amassada com azeite, para a oblação;"
+    },
+    {
+      "numero": 20,
+      "texto": "uma taça de ouro pesando dez siclos, cheia de perfume;"
+    },
+    {
+      "numero": 21,
+      "texto": "um novilho, um carneiro e um cordeiro de um ano para o holocausto;"
+    },
+    {
+      "numero": 22,
+      "texto": "um bode para o sacrifício pelo pecado,"
+    },
+    {
+      "numero": 23,
+      "texto": "e ainda dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para o sacrifício pacífico. Essa foi a oferta de Natanael, filho de Suar."
+    },
+    {
+      "numero": 24,
+      "texto": "No terceiro dia, o príncipe dos filhos de Zabulon, Eliab, filho de Helon,"
+    },
+    {
+      "numero": 25,
+      "texto": "ofereceu um prato de prata pesando cento e trinta siclos, uma bacia de prata pesando setenta siclos, segundo o siclo do santuário, ambos cheios de flor de farinha amassada com óleo, para a oblação;"
+    },
+    {
+      "numero": 26,
+      "texto": "uma taça de ouro pesando dez siclos, cheia de perfume;"
+    },
+    {
+      "numero": 27,
+      "texto": "um novilho, um carneiro e um cordeiro de um ano, para o holocausto;"
+    },
+    {
+      "numero": 28,
+      "texto": "um bode para o sacrifício pelo pecado,"
+    },
+    {
+      "numero": 29,
+      "texto": "e ainda dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano, para o sacrifício pacífico. Essa foi a oferta de Eliab, filho de Helon."
+    },
+    {
+      "numero": 30,
+      "texto": "No quarto dia, o príncipe dos filhos de Rúben, Elisur, filho de Sedeur,"
+    },
+    {
+      "numero": 31,
+      "texto": "ofereceu uma bandeja de prata pesando cento e trinta siclos, uma bacia de prata pesando setenta siclos, segundo o siclo do santuário, ambos cheios de flor de farinha amassada com óleo, para a oblação;"
+    },
+    {
+      "numero": 32,
+      "texto": "uma taça de ouro pesando dez siclos, cheia de perfume;"
+    },
+    {
+      "numero": 33,
+      "texto": "um novilho, um carneiro e um cordeiro de um ano para o holocausto;"
+    },
+    {
+      "numero": 34,
+      "texto": "um bode para o sacrifício pelo pecado,"
+    },
+    {
+      "numero": 35,
+      "texto": "e ainda dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano, para o sacrifício pacífico. Essa foi a oferta de Elisur, filho de Sedeur."
+    },
+    {
+      "numero": 36,
+      "texto": "No quinto dia, o príncipe dos filhos de Simeão, Salamiel, filho de Surisadai,"
+    },
+    {
+      "numero": 37,
+      "texto": "ofereceu um prato de prata pesando cento e trinta siclos, uma bacia de prata pesando setenta siclos, segundo o siclo do santuário, ambos cheios de flor de farinha amassada com azeite, para a oblação;"
+    },
+    {
+      "numero": 38,
+      "texto": "uma taça de ouro pesando dez siclos, cheia de perfume;"
+    },
+    {
+      "numero": 39,
+      "texto": "um novilho, um carneiro e um cordeiro de um ano para o holocausto;"
+    },
+    {
+      "numero": 40,
+      "texto": "um bode para o sacrifício pelo pecado,"
+    },
+    {
+      "numero": 41,
+      "texto": "e ainda dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano, para o sacrifício pacífico. Essa foi a oferta de Salamiel, filho de Surisadai."
+    },
+    {
+      "numero": 42,
+      "texto": "No sexto dia, o príncipe dos filhos de Gad, Eliasaf, filho de Reuel,"
+    },
+    {
+      "numero": 43,
+      "texto": "ofereceu um prato de prata pesando cento e trinta siclos, uma bacia de prata pesando setenta siclos, segundo o siclo do santuário, ambos cheios de flor de farinha amassada com óleo, para a oblação;"
+    },
+    {
+      "numero": 44,
+      "texto": "uma taça de ouro pesando dez siclos, cheia de perfume; 45 um novilho, um carneiro e um cordeiro de um ano para o holocausto;"
+    },
+    {
+      "numero": 46,
+      "texto": "um bode para o sacrifício pelo pecado,"
+    },
+    {
+      "numero": 47,
+      "texto": "e ainda dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano, para o sacrifício pacífico. Essa foi a oferta de Eliasaf, filho de Reuel."
+    },
+    {
+      "numero": 48,
+      "texto": "No sétimo dia, o príncipe dos filhos de Efraim, Elisama, filho de Amiud,"
+    },
+    {
+      "numero": 49,
+      "texto": "ofereceu um prato de prata pesando cento e trinta siclos, uma bacia de prata pesando setenta siclos, segundo o siclo do santuário, ambos cheios de flor de farinha amassada com azeite, para a oblação;"
+    },
+    {
+      "numero": 50,
+      "texto": "uma taça de ouro pesando dez siclos, cheia de perfume;"
+    },
+    {
+      "numero": 51,
+      "texto": "um novilho, um carneiro e um cordeiro de um ano para o holocausto;"
+    },
+    {
+      "numero": 52,
+      "texto": "um bode para o sacrifício pelo pecado,"
+    },
+    {
+      "numero": 53,
+      "texto": "e ainda dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para o sacrifício pacífico. Essa foi a oferta de Elisama, filho de Amiud."
+    },
+    {
+      "numero": 54,
+      "texto": "No oitavo dia, o príncipe dos filhos de Manassés, Gamaliel, filho de Fadassur,"
+    },
+    {
+      "numero": 55,
+      "texto": "ofereceu um prato de prata pesando cento e trinta siclos, uma bacia de prata pesando setenta siclos, segundo o siclo do santuário, ambos cheios de flor de farinha amassada com azeite, para a oblação;"
+    },
+    {
+      "numero": 56,
+      "texto": "uma taça de ouro pesando dez siclos, cheia de perfume;"
+    },
+    {
+      "numero": 57,
+      "texto": "um novilho, um carneiro e um cordeiro de um ano para o holocausto;"
+    },
+    {
+      "numero": 58,
+      "texto": "um bode para o sacrifício pelo pecado,"
+    },
+    {
+      "numero": 59,
+      "texto": "e ainda dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para o sacrifício pacífico. Essa foi a oferta de Gamaliel, filho de Fadassur."
+    },
+    {
+      "numero": 60,
+      "texto": "No nono dia, o príncipe dos filhos de Benjamim, Abidã, filho de Gedeão,"
+    },
+    {
+      "numero": 61,
+      "texto": "ofereceu um prato de prata pesando cento e trinta siclos, uma bacia de prata pesando setenta siclos, segundo o siclo do santuário, ambos cheios de flor de farinha amassada com óleo, para a oblação;"
+    },
+    {
+      "numero": 62,
+      "texto": "uma taça de ouro pesando dez siclos, cheia de perfume;"
+    },
+    {
+      "numero": 63,
+      "texto": "um novilho, um carneiro e um cordeiro de um ano para o holocausto;"
+    },
+    {
+      "numero": 64,
+      "texto": "um bode para o sacrifício pelo pecado,"
+    },
+    {
+      "numero": 65,
+      "texto": "e ainda dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano, para o sacrifício pacífico. Essa foi a oferta de Abidã, filho de Gedeão."
+    },
+    {
+      "numero": 66,
+      "texto": "No décimo dia, o príncipe dos filhos de Dã, Aiezer, filho de Amisadai,"
+    },
+    {
+      "numero": 67,
+      "texto": "ofereceu um prato de prata pesando cento e trinta siclos, uma bacia de prata pesando setenta siclos, segundo o siclo do santuário, ambos cheios de flor de farinha amassada com óleo, para a oblação;"
+    },
+    {
+      "numero": 68,
+      "texto": "uma taça de ouro pesando dez ciclos, cheia de perfume;"
+    },
+    {
+      "numero": 69,
+      "texto": "um novilho, um carneiro e um cordeiro de um ano para o holocausto;"
+    },
+    {
+      "numero": 70,
+      "texto": "um bode para o sacrifício pelo pecado,"
+    },
+    {
+      "numero": 71,
+      "texto": "e ainda dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano, para o sacrifício pacífico. Essa foi a oferta de Aiezer, filho de Amisadai."
+    },
+    {
+      "numero": 72,
+      "texto": "No décimo primeiro dia, o príncipe dos filhos de Aser, Fegiel, filho de Ocrã,"
+    },
+    {
+      "numero": 73,
+      "texto": "ofereceu um prato de prata pesando cento e trinta siclos, uma bacia de prata pesando setenta siclos, segundo o siclo do santuário, ambos cheios de flor de farinha amassada com óleo, para a oblação;"
+    },
+    {
+      "numero": 74,
+      "texto": "uma taça de ouro pesando dez siclos, cheia de perfume;"
+    },
+    {
+      "numero": 75,
+      "texto": "um novilho, um carneiro e um cordeiro de um ano para o holocausto;"
+    },
+    {
+      "numero": 76,
+      "texto": "um bode para o sacrifício pelo pecado,"
+    },
+    {
+      "numero": 77,
+      "texto": "e ainda dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano, para o sacrifício pacífico. Essa foi a oferta de Fegiel, filho de Ocrã."
+    },
+    {
+      "numero": 78,
+      "texto": "No décimo segundo dia, o príncipe dos filhos de Neftali, Aíra, filho de Enã,"
+    },
+    {
+      "numero": 79,
+      "texto": "ofereceu um prato de prata pesando cento e trinta siclos, uma bacia de prata pesando setenta siclos, segundo o siclo do santuário, ambos cheios de flor de farinha amassada com óleo, para a oblação;"
+    },
+    {
+      "numero": 80,
+      "texto": "uma taça de ouro pesando dez siclos, cheia de perfume;"
+    },
+    {
+      "numero": 81,
+      "texto": "um novilho, um carneiro e um cordeiro de um ano para o holocausto;"
+    },
+    {
+      "numero": 82,
+      "texto": "um bode para o sacrifício pelo pecado,"
+    },
+    {
+      "numero": 83,
+      "texto": "e ainda dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano, para o sacrifício pacífico. Essa foi a oferta de Aíra, filho de Enã."
+    },
+    {
+      "numero": 84,
+      "texto": "Estes foram os presentes que os príncipes de Israel ofereceram para a dedicação do altar no dia em que foi ungido: doze pratos de prata, doze bacias de prata e doze taças de ouro."
+    },
+    {
+      "numero": 85,
+      "texto": "Cada prato de prata pesava cento e trinta siclos, e cada bacia, setenta siclos; o peso total da prata desses objetos era de dois mil e quatrocentos siclos, segundo o siclo do santuário."
+    },
+    {
+      "numero": 86,
+      "texto": "As doze taças de ouro para o perfume pesavam cada uma dez siclos, segundo o siclo do santuário; o peso total de ouro das taças era de cento e vinte siclos."
+    },
+    {
+      "numero": 87,
+      "texto": "O total dos animais para o holocausto era de doze novilhos, doze carneiros, doze cordeiros de um ano com suas oblações e doze bodes em sacrifício pelo pecado."
+    },
+    {
+      "numero": 88,
+      "texto": "O total de animais para o sacrifício pacífico era de vinte e quatro bois, sessenta carneiros, sessenta bodes e sessenta cordeiros de um ano. Esses foram os presentes oferecidos para a dedicação do altar depois de ungido."
+    },
+    {
+      "numero": 89,
+      "texto": "Quando Moisés entrava na tenda de reunião para falar com o Senhor, ouvia a voz que lhe falava de cima do propiciatório colocado sobre a arca do testemunho, entre os dois querubins. E falava com o Senhor."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "7:1-5",
+      "texto": "Moisés unge e consagra o Tabernáculo e seus utensílios. A unção simboliza a santidade e a presença de Deus habitando no meio de Seu povo. O Tabernáculo é um sinal visível da proximidade divina (veja também Êxodo 40:9-11 e 1 Reis 8:10-11)."
+    },
+    {
+      "ref": "7:6-9",
+      "texto": "As doações de carros e bois são distribuídas entre os levitas para o transporte do Tabernáculo. Cada tribo contribui de acordo com suas capacidades, refletindo o serviço comunitário e o apoio mútuo (veja também 1 Crônicas 15:26 e 2 Coríntios 8:12-14)."
+    },
+    {
+      "ref": "7:10-17",
+      "texto": "Cada príncipe de tribo oferece sacrifícios idênticos como parte da dedicação do altar. Isso simboliza a unidade do povo de Deus, apesar das diferenças tribais, e o desejo comum de adorar ao Senhor (veja também Salmo 133:1 e Efésios 4:3-6)."
+    },
+    {
+      "ref": "7:84-88",
+      "texto": "A longa lista de ofertas mostra a importância da dedicação de todos os líderes para o serviço de Deus. O sacrifício conjunto reforça a ideia de que todos devem participar do culto e da obra divina (veja também 2 Crônicas 7:4-5 e Romanos 12:4-5)."
+    },
+    {
+      "ref": "7:89",
+      "texto": "Quando Moisés entra no Tabernáculo para falar com Deus, ouve a voz do Senhor. Esse diálogo pessoal reflete a intimidade que Deus deseja ter com aqueles que Ele escolhe para liderar (veja também Êxodo 33:11 e Hebreus 1:1-2)."
+    }
+  ]
+}

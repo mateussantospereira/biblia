@@ -1,0 +1,124 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "jo",
+  "nome": "Jó",
+  "testamento": "AT",
+  "capitulo": 14,
+  "totalVersiculos": 22,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/jo/14/",
+  "capturadoEm": "2026-11-15T09:15:32-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O homem nascido de mulher vive pouco tempo e é cheio de misérias."
+    },
+    {
+      "numero": 2,
+      "texto": "É como a flor que germina e logo fenece, uma sombra que foge sem parar."
+    },
+    {
+      "numero": 3,
+      "texto": "E é sobre ele que abres os olhos, e o chamas a juízo contigo!"
+    },
+    {
+      "numero": 4,
+      "texto": "Quem fará sair o puro do impuro? Ninguém!"
+    },
+    {
+      "numero": 5,
+      "texto": "Se seus dias estão contados, se em teu poder está o número dos seus meses, e fixado um limite que ele não ultrapassará,"
+    },
+    {
+      "numero": 6,
+      "texto": "afasta dele os teus olhos e deixa-o, até que acabe o seu dia como o operário."
+    },
+    {
+      "numero": 7,
+      "texto": "Para a árvore há esperança: cortada, pode reverdecer e os seus ramos brotam."
+    },
+    {
+      "numero": 8,
+      "texto": "Quando sua raiz tiver envelhecido na terra e seu tronco estiver morto no solo,"
+    },
+    {
+      "numero": 9,
+      "texto": "ao contato com a água, reverdece e distenderá ramos como uma planta nova."
+    },
+    {
+      "numero": 10,
+      "texto": "Mas quando o homem morre, fica inerte; o mortal expira, e o que é feito dele?"
+    },
+    {
+      "numero": 11,
+      "texto": "As águas podem faltar nos lagos, o rio pode secar e sumir,"
+    },
+    {
+      "numero": 12,
+      "texto": "assim o homem se deita para não mais levantar. Durante toda a duração do céu, ele não despertará, jamais sairá de seu sono."
+    },
+    {
+      "numero": 13,
+      "texto": "Quem me dera que me escondesses na região dos mortos, ao abrigo, até que tua cólera tivesse passado, e me fixasses um limite em que te lembrasses de mim!"
+    },
+    {
+      "numero": 14,
+      "texto": "O homem, uma vez morto, porventura tornará a viver? Todo o tempo de meu combate eu esperaria, até que me vies sem substituir."
+    },
+    {
+      "numero": 15,
+      "texto": "Tu me chamarias e eu te responderia; estenderias a tua destra para a obra de tuas mãos."
+    },
+    {
+      "numero": 16,
+      "texto": "Mas agora contas os meus passos e observas todos os meus pecados."
+    },
+    {
+      "numero": 17,
+      "texto": "Tu selaste como numa bolsa os meus crimes, puseste um sinal sobre minhas iniquidades.",
+      "nota": true
+    },
+    {
+      "numero": 18,
+      "texto": "Mas a montanha desmorona e cai, e o rochedo muda de lugar;"
+    },
+    {
+      "numero": 19,
+      "texto": "as águas escavam as pedras, o aluvião leva a terra móvel: assim aniquilas a esperança do homem."
+    },
+    {
+      "numero": 20,
+      "texto": "Tu o pões por terra, e ele se vai embora para sempre; tu o desfiguras e o expulsas."
+    },
+    {
+      "numero": 21,
+      "texto": "Estejam os seus filhos honrados, e ele não o sabe; sejam eles humilhados, mas ele não faz caso."
+    },
+    {
+      "numero": 22,
+      "texto": "É somente por ele que sua carne sofre, e sua alma só se lamenta por ele”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "14:1-2",
+      "texto": "Jó descreve a fragilidade do ser humano, ressaltando que a vida é breve e cheia de dificuldades. Essa reflexão sobre a mortalidade nos lembra da transitoriedade da vida e a necessidade de valorizar cada momento (veja também Salmo 39:4-5 e Tiago 4:14)."
+    },
+    {
+      "ref": "14:3-4",
+      "texto": "Jó questiona se pode haver alguma esperança para o homem diante da morte. Essa dúvida existencial leva a uma reflexão sobre a vida após a morte e a misericórdia de Deus, temas centrais na teologia bíblica (veja também Hebreus 9:27 e 1 Coríntios 15:19)."
+    },
+    {
+      "ref": "14:7-9",
+      "texto": "Jó usa a metáfora de uma árvore que, mesmo cortada, pode brotar novamente. Essa imagem expressa a esperança de resiliência e renovação, simbolizando a possibilidade de restauração mesmo em meio ao desespero (veja também Salmo 1:3 e Ezequiel 37:1-14)."
+    },
+    {
+      "ref": "14:13-15",
+      "texto": "Jó anseia por um mediador que possa interceder por ele diante de Deus. Essa necessidade de um intermediário reflete o desejo humano de reconciliação e comunicação com o divino, tema que é plenamente realizado em Cristo (veja também 1 Timóteo 2:5 e Hebreus 9:15)."
+    },
+    {
+      "ref": "14:16-17",
+      "texto": "Jó reconhece que Deus conhece todos os seus passos e registra suas transgressões. Essa consciência da onisciência de Deus provoca uma reflexão sobre a responsabilidade moral e a importância do arrependimento (veja também Salmo 69:5 e Romanos 14:12)."
+    }
+  ]
+}

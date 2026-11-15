@@ -1,0 +1,60 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 69,
+  "totalVersiculos": 6,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/69/",
+  "capturadoEm": "2026-11-15T09:17:13-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. De Davi. Para servir de lembrança.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Comprazei-vos, ó Deus, em me livrar; depressa, Senhor, vinde em meu auxílio."
+    },
+    {
+      "numero": 3,
+      "texto": "Sejam confundidos e humilhados os que odeiam a minha vida. Recuem e corem de vergonha os que se comprazem com meus males."
+    },
+    {
+      "numero": 4,
+      "texto": "Afastem-se, cobertos de confusão, os que me dizem: “Ah! Ah!”."
+    },
+    {
+      "numero": 5,
+      "texto": "Pelo contrário, exultem e se alegrem em vós todos os que vos procuram. Que repitam sem cessar: “Glória ao Senhor!”, aqueles que desejam vosso auxílio."
+    },
+    {
+      "numero": 6,
+      "texto": "Quanto a mim, sou pobre e desvalido. Socorrei-me, ó Deus, sois meu protetor e libertador. Senhor, não tardeis mais."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "69:1-2",
+      "texto": "O salmista clama a Deus em meio à angústia, utilizando a imagem de estar afundando em águas profundas. Essa metáfora expressa a desesperança e a necessidade de socorro divino, refletindo a experiência de muitos crentes em momentos de crise (veja também Salmo 130:1-2 e Mateus 14:30)."
+    },
+    {
+      "ref": "69:3-4",
+      "texto": "A intensidade do clamor do salmista é destacada, mostrando sua angústia e a quantidade de inimigos que se levantam contra ele. Essa situação representa a luta espiritual que muitos enfrentam, onde a fé é testada (veja também Salmo 22:12-13 e Lucas 6:22)."
+    },
+    {
+      "ref": "69:5-6",
+      "texto": "O reconhecimento da própria fraqueza e pecado é central neste trecho. O salmista pede a Deus que o proteja e não permita que seus erros impeçam a resposta ao seu clamor. Essa confissão de fraqueza é um passo crucial para a restauração (veja também 1 João 1:9 e Tiago 4:10)."
+    },
+    {
+      "ref": "69:13-15",
+      "texto": "O salmista apela a Deus em meio ao sofrimento e expressa sua confiança na salvação divina. Ele clama por um socorro urgente, destacando a certeza de que, apesar da adversidade, Deus ouve aqueles que O buscam com sinceridade (veja também Salmo 34:17-19 e Romanos 10:13)."
+    },
+    {
+      "ref": "69:30-31",
+      "texto": "O salmista decide louvar a Deus com um cântico e expressar gratidão, reconhecendo que o louvor é um meio poderoso de se conectar com o Senhor. Essa prática de adoração é essencial para fortalecer a fé e trazer esperança em tempos difíceis (veja também Salmo 95:1-2 e Efésios 5:19)."
+    }
+  ]
+}

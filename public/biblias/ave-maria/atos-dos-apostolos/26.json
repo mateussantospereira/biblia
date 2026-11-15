@@ -1,0 +1,160 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "atos-dos-apostolos",
+  "nome": "Atos dos Apóstolos",
+  "testamento": "NT",
+  "capitulo": 26,
+  "totalVersiculos": 32,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/atos-dos-apostolos/26/",
+  "capturadoEm": "2026-11-15T09:27:33-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Agripa disse a Paulo: “Tens permissão de fazer a tua defesa”. Paulo então fez um gesto com a mão e começou a sua justificação:"
+    },
+    {
+      "numero": 2,
+      "texto": "“Julgo-me feliz de poder hoje fazer a minha defesa, na tua presença, ó rei Agripa, de tudo quanto me acusam os judeus,"
+    },
+    {
+      "numero": 3,
+      "texto": "porque tu conheces perfeitamente os seus costumes e controvérsias. Peço-te, pois, que me ouças com paciência."
+    },
+    {
+      "numero": 4,
+      "texto": "Minha vida, desde a minha primeira juventude, tem decorrido no meio de minha pátria e em Jerusalém, e é conhecida dos judeus."
+    },
+    {
+      "numero": 5,
+      "texto": "Sabem eles, desde longa data, e se quiserem poderão testemunhá-lo, que vivi segundo a seita mais rigorosa da nossa religião, isto é, como fariseu."
+    },
+    {
+      "numero": 6,
+      "texto": "Mas agora sou acusado em juízo, por esperar a promessa que foi feita por Deus a nossos pais,"
+    },
+    {
+      "numero": 7,
+      "texto": "e a qual as nossas doze tribos esperam alcançar, servindo a Deus noite e dia. Por essa esperança, ó rei, é que sou acusado pelos judeus."
+    },
+    {
+      "numero": 8,
+      "texto": "Que pensais vós? É coisa incrível que Deus ressuscite os mortos?"
+    },
+    {
+      "numero": 9,
+      "texto": "Também eu acreditei que devia fazer a maior oposição ao nome de Jesus de Nazaré."
+    },
+    {
+      "numero": 10,
+      "texto": "Assim procedi de fato em Jerusalém e tenho encerrado muitos irmãos em cárceres, havendo recebido para isso poder dos sumos sacerdotes; quando os sentenciavam à morte, eu dava a minha plena aprovação."
+    },
+    {
+      "numero": 11,
+      "texto": "Muitas vezes, perseguindo-os por todas as sinagogas, eu os maltratava para obrigá-los a blasfemar. Enfurecendo-me mais e mais contra eles, eu os perseguia até no estrangeiro."
+    },
+    {
+      "numero": 12,
+      "texto": "Nesse intuito, fui a Damasco, com poder e comissão dos sumos sacerdotes."
+    },
+    {
+      "numero": 13,
+      "texto": "Era meio-dia, ó rei. Eu estava a caminho quando uma luz do céu, mais fulgurante que o sol, brilhou em torno de mim e dos meus companheiros."
+    },
+    {
+      "numero": 14,
+      "texto": "Caímos todos nós por terra, e ouvi uma voz que me dizia em língua hebraica: Saulo, Saulo, por que me persegues? Dura coisa te é recalcitrar contra o aguilhão."
+    },
+    {
+      "numero": 15,
+      "texto": "Então, eu disse: Quem és, Senhor? O Senhor respondeu: Eu sou Jesus, a quem persegues."
+    },
+    {
+      "numero": 16,
+      "texto": "Mas levanta-te e põe-te em pé, pois eu te apareci para te fazer ministro e testemunha das coisas que viste e de outras para as quais hei de manifestar-me a ti."
+    },
+    {
+      "numero": 17,
+      "texto": "Escolhi-te do meio do povo e dos pagãos, aos quais agora te envio"
+    },
+    {
+      "numero": 18,
+      "texto": "para abrir-lhes os olhos, a fim de que se convertam das trevas à luz e do poder de Satanás a Deus, para que, pela fé em mim, recebam perdão dos pecados e herança entre os que foram santificados."
+    },
+    {
+      "numero": 19,
+      "texto": "Desde então, ó rei, não fui desobediente à visão celestial."
+    },
+    {
+      "numero": 20,
+      "texto": "Preguei primeiramente aos de Damasco e depois em Jerusalém e por toda a terra da Judeia, e aos pagãos, para que se arrependessem e se convertessem a Deus, fazendo dignas obras correspondentes."
+    },
+    {
+      "numero": 21,
+      "texto": "Por isso, os judeus me prenderam no templo e tentaram matar-me."
+    },
+    {
+      "numero": 22,
+      "texto": "Mas, assistido do socorro de Deus, permaneço vivo até o dia de hoje. Dou testemunho a pequenos e a grandes, nada dizendo senão o que os profetas e Moisés disseram que havia de acontecer,"
+    },
+    {
+      "numero": 23,
+      "texto": "a saber: que Cristo havia de padecer e seria o primeiro que, pela ressurreição dos mortos, havia de anunciar a luz ao povo judeu e aos pagãos”."
+    },
+    {
+      "numero": 24,
+      "texto": "Dizendo ele essas coisas em sua defesa, Festo exclamou em alta voz: “Estás louco, Paulo! O teu muito saber tira-te o juízo”."
+    },
+    {
+      "numero": 25,
+      "texto": "Paulo, então, respondeu: “Não estou louco, excelentíssimo Festo, mas digo palavras de verdade e de prudência."
+    },
+    {
+      "numero": 26,
+      "texto": "Pois dessas coisas tem conhecimento o rei, em cuja presença falo com franqueza. Sei que nada disso lhe é oculto, porque nenhuma dessas coisas se fez ali ocultamente”."
+    },
+    {
+      "numero": 27,
+      "texto": "“Crês, ó rei, nos profetas? Bem sei que crês!”"
+    },
+    {
+      "numero": 28,
+      "texto": "Disse, então, Agripa a Paulo: “Por pouco não me persuades a fazer-me cristão!”.",
+      "nota": true
+    },
+    {
+      "numero": 29,
+      "texto": "Respondeu Paulo: “Prouvera a Deus que, por pouco e por muito, não somente tu, senão também quantos me ouvem, se fizessem hoje tal qual eu sou... menos estas algemas!”."
+    },
+    {
+      "numero": 30,
+      "texto": "Então o rei, o governador, Berenice e os que estavam sentados com eles se levantaram."
+    },
+    {
+      "numero": 31,
+      "texto": "Retirando-se, comentavam uns com os outros: “Esse homem não fez coisa que mereça a morte ou prisão”."
+    },
+    {
+      "numero": 32,
+      "texto": "Agripa ainda disse a Festo: “Ele poderia ser solto, se não tivesse apelado para César”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "26:1-8",
+      "texto": "Paulo se defende perante Agripa, apresentando sua fé em Cristo como a razão de sua prisão. Ele explica que sua experiência de conversão foi uma revelação divina. Este discurso destaca a centralidade do testemunho pessoal na fé cristã (veja também Atos 22:1-21 e 1 Pedro 3:15)."
+    },
+    {
+      "ref": "26:9-18",
+      "texto": "Paulo descreve sua conversão e o chamado de Jesus para ser testemunha entre os gentios. O relato é um exemplo de como o evangelho transforma vidas e abre portas para o ministério global (veja também Atos 9:3-6 e Mateus 28:19-20)."
+    },
+    {
+      "ref": "26:19-23",
+      "texto": "Paulo explica como a obediência à visão de Cristo o levou a pregar arrependimento e conversão. O chamado à fé é apresentado como uma resposta ao amor divino e à revelação de Jesus (veja também Atos 3:19-21 e Lucas 24:46-47)."
+    },
+    {
+      "ref": "26:24-32",
+      "texto": "Agripa questiona Paulo sobre sua loucura, mas Paulo afirma com confiança a veracidade de sua mensagem. A resistência de Agripa ilustra a dificuldade de aceitar o evangelho, apesar das evidências (veja também 1 Coríntios 1:18 e João 12:37-40)."
+    }
+  ]
+}

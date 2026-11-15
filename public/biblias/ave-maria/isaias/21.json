@@ -1,0 +1,110 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 21,
+  "totalVersiculos": 17,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/21/",
+  "capturadoEm": "2026-11-15T09:21:34-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Oráculo do deserto marítimo. Como um furacão desencadeado do meio-dia, assim vem isto do deserto, de uma terra horrível.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Uma visão sinistra me foi revelada: “O salteador rouba, o destruidor devasta. Arroja-te, ó Elam, assaltai, ó medos; não tenhais piedade.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Por essa causa tenho os rins atenazados, e sou tomado de dores como uma mulher no parto. Atordoa-me o sofrimento, cega-me o terror;"
+    },
+    {
+      "numero": 4,
+      "texto": "minha razão desvaira, o terror me invade, e o crepúsculo desejado causa-me espanto."
+    },
+    {
+      "numero": 5,
+      "texto": "Põem a mesa, estendem o tapete, comem e bebem... Alerta, capitães! Untai o escudo”.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Porque o Senhor me disse: “Vai postar uma sentinela! Que ela te anuncie o que vir!",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "Se vir uma fila de cavaleiros, dois a dois, uma fila de asnos, outra de camelos, que preste atenção, muita atenção”."
+    },
+    {
+      "numero": 8,
+      "texto": "E então grite: “Eu vejo! Em meu posto de guarda, Senhor, eu me mantenho o dia inteiro; em meu observatório permaneço de pé todas as noites."
+    },
+    {
+      "numero": 9,
+      "texto": "Eis que vem a cavalaria, cavaleiros dois a dois”. Tomam a palavra e dizem-me: “Caiu, caiu Babilônia! Todos os simulacros de seus deuses foram despedaçados contra a terra”."
+    },
+    {
+      "numero": 10,
+      "texto": "Ó povo meu, pisado, malhado como o grão, o que aprendi do Senhor dos exércitos, do Deus de Israel, eu te anuncio.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Oráculo contra Duma. Gritam-me de Seir: “Sentinela, quanto resta da noite? Sentinela, quanto resta da noite?”."
+    },
+    {
+      "numero": 12,
+      "texto": "E a sentinela responde: “A manhã chega, igualmente a noite. Se quereis sabê-lo, voltai a interrogar”.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Oráculo das estepes. Passai a noite nas brenhas da estepe, caravanas de dedanitas;"
+    },
+    {
+      "numero": 14,
+      "texto": "ide levar água àqueles que têm sede, habitantes da terra de Tema, ide oferecer pão aos fugitivos."
+    },
+    {
+      "numero": 15,
+      "texto": "Porque fogem diante das espadas, diante da espada nua, diante do arco retesado, diante do rude combate."
+    },
+    {
+      "numero": 16,
+      "texto": "Porque eis o que me disse o Senhor: “Ainda um ano, contado como os anos do mercenário, e desaparecerá o império de Cedar”.",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "E só ficará um punhado dos valentes arqueiros, filhos de Cedar. O Senhor, Deus de Israel, o disse."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "21:1-2",
+      "texto": "Isaías anuncia o \"peso sobre o deserto do mar\", uma visão profética sobre Babilônia. Este oráculo revela a iminência do juízo sobre Babilônia, simbolizando a fragilidade dos reinos terrenos frente ao poder soberano de Deus (veja também Apocalipse 18:2 e Jeremias 50:2-3)."
+    },
+    {
+      "ref": "21:3-4",
+      "texto": "A angústia de Isaías ao ver a visão de destruição reflete a seriedade do juízo divino. Suas palavras expressam o impacto do pecado sobre os justos e o terror diante da condenação (veja também Habacuque 3:16 e Lamentações 2:11)."
+    },
+    {
+      "ref": "21:6-7",
+      "texto": "Deus instrui Isaías a colocar uma sentinela para vigiar e anunciar a queda de Babilônia. Este ato destaca a vigilância espiritual necessária e a expectativa de ver a realização dos propósitos divinos (veja também Ezequiel 3:17 e Lucas 12:37)."
+    },
+    {
+      "ref": "21:9",
+      "texto": "Caiu, caiu Babilônia! A queda de Babilônia simboliza a destruição de toda soberba humana e a vitória da justiça divina, uma mensagem repetida no Apocalipse como sinal da queda do mal (veja também Apocalipse 14:8 e Isaías 13:19)."
+    },
+    {
+      "ref": "21:11-12",
+      "texto": "A visão de Edom, onde a sentinela anuncia a chegada de uma noite, indica tempos de incerteza e escuridão espiritual. A noite simboliza o juízo iminente, mas a esperança ainda é oferecida aos vigilantes (veja também Salmo 130:6 e Romanos 13:11-12)."
+    }
+  ]
+}

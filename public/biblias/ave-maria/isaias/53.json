@@ -1,0 +1,91 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 53,
+  "totalVersiculos": 12,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/53/",
+  "capturadoEm": "2026-11-15T09:22:06-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Quem poderia acreditar nisso que ouvimos? A quem foi revelado o braço do Senhor?",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Cresceu diante dele como um pobre rebento enraizado numa terra árida; não tinha graça nem beleza para atrair nossos olhares, e seu aspecto não podia seduzir-nos."
+    },
+    {
+      "numero": 3,
+      "texto": "Era desprezado, era a escória da humanidade, homem das dores, experimentado nos sofrimentos; como aqueles, diante dos quais se cobre o rosto, era amaldiçoado e não fazíamos caso dele.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Em verdade, ele tomou sobre si nossas enfermidades, e carregou os nossos sofrimentos: e nós o reputávamos como um castigado, ferido por Deus e humilhado."
+    },
+    {
+      "numero": 5,
+      "texto": "Mas ele foi castigado por nossos crimes, e esmagado por nossas iniquidades; o castigo que nos salva pesou sobre ele; fomos curados graças às suas chagas.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Todos nós andávamos desgarrados como ovelhas, seguíamos cada qual nosso caminho; o Senhor fazia recair sobre ele o castigo das faltas de todos nós."
+    },
+    {
+      "numero": 7,
+      "texto": "Foi maltratado e resignou-se; não abriu a boca, como um cordeiro que se conduz ao matadouro, e uma ovelha muda nas mãos do tosquiador. Ele não abriu a boca.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Por um iníquo julgamento foi arrebatado. Quem pensou em defender sua causa, quando foi suprimido da terra dos vivos, morto pelo pecado de meu povo?",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Foi-lhe dada sepultura ao lado de facínoras e ao morrer achava-se entre malfeitores, se bem que não haja cometido injustiça alguma, e em sua boca nunca tenha havido mentira.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Mas aprouve ao Senhor esmagá-lo pelo sofrimento; se ele oferecer sua vida em sacrifício expiatório, terá uma posteridade duradoura, prolongará seus dias, e a vontade do Senhor será por ele realizada.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Após suportar em sua pessoa os tormentos, ele se alegrará de conhecê-lo até o enlevo. O Justo, meu Servo, justificará muitos homens, e tomará sobre si suas iniquidades."
+    },
+    {
+      "numero": 12,
+      "texto": "Eis por que lhe darei parte com os grandes, e ele dividirá a presa com os poderosos: porque ele próprio deu sua vida, e deixou-se colocar entre os criminosos, tomando sobre si os pecados de muitos homens, e intercedendo pelos culpados.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "53:1-3",
+      "texto": "O Servo Sofredor é rejeitado e desprezado, não reconhecido pela humanidade. Isso aponta para o sofrimento de Cristo, que assumiu a forma humilde e enfrentou o desprezo em Sua missão redentora (veja também João 1:10-11 e Filipenses 2:6-8)."
+    },
+    {
+      "ref": "53:4-6",
+      "texto": "O Servo carrega as nossas dores e transgressões, sendo castigado por nossas iniquidades. Essa profecia ressalta a expiação vicária de Cristo e Sua obra redentora na cruz (veja também 1 Pedro 2:24 e Romanos 5:8)."
+    },
+    {
+      "ref": "53:7-9",
+      "texto": "O Servo Sofredor permanece em silêncio diante da opressão, aceitando Seu sacrifício sem resistência. Isso se cumpre em Jesus, que foi levado como cordeiro ao matadouro (veja também Mateus 27:12-14 e Atos 8:32-35)."
+    },
+    {
+      "ref": "53:10-12",
+      "texto": "O sofrimento do Servo é parte do plano divino para justificar muitos. Ele verá o fruto de Sua obediência, indicando a vitória sobre o pecado e a morte (veja também Hebreus 12:2 e Romanos 4:25)."
+    },
+    {
+      "ref": "53:11",
+      "texto": "O Servo verá o resultado de Seu sofrimento e ficará satisfeito. Sua morte redentora trará justificação para muitos, revelando o plano de salvação eterno de Deus (veja também 2 Coríntios 5:21 e Hebreus 9:28)."
+    }
+  ]
+}

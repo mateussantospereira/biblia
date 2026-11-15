@@ -1,0 +1,77 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 19,
+  "totalVersiculos": 10,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/19/",
+  "capturadoEm": "2026-11-15T09:16:20-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. Salmo de Davi.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Que o Senhor te escute no dia da provação, e te proteja o nome do Deus de Jacó."
+    },
+    {
+      "numero": 3,
+      "texto": "Do seu santuário ele te socorra, e de Sião ele te sustente."
+    },
+    {
+      "numero": 4,
+      "texto": "Lembre-se de tuas ofertas, e aceite os teus sacrifícios."
+    },
+    {
+      "numero": 5,
+      "texto": "Conceda-te o que teu coração anseia, e realize todos os teus desejos."
+    },
+    {
+      "numero": 6,
+      "texto": "Possamos nós alegrar-nos com tua vitória e levantar as bandeiras em nome de nosso Deus. Sim, que o Senhor realize todos os teus pedidos."
+    },
+    {
+      "numero": 7,
+      "texto": "Já sei que o Senhor reservou a vitória para seu ungido, e o ouviu do alto de seu santuário pelo poder de seu braço vencedor.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Uns põem sua força nos carros, outros, nos cavalos. Nós, porém, a temos em nome do Senhor, nosso Deus."
+    },
+    {
+      "numero": 9,
+      "texto": "Eles fraquejaram e foram vencidos, mas nós, de pé, continuamos firmes."
+    },
+    {
+      "numero": 10,
+      "texto": "Senhor, dai a vitória ao rei, e ouvi-nos no dia em que vos invocarmos."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "19:1-4",
+      "texto": "O salmista celebra a revelação de Deus através da criação. Os céus proclamam a glória de Deus, mostrando que a natureza é um testemunho silencioso de Sua majestade e poder (veja também Salmo 97:6 e Romanos 1:20)."
+    },
+    {
+      "ref": "19:5-6",
+      "texto": "O sol é usado como metáfora para a luz e a ordem que Deus trouxe ao mundo. A imagem do sol destaca a beleza e a regularidade da criação, refletindo o caráter fiel de Deus na manutenção da vida (veja também Eclesiastes 1:5 e Apocalipse 22:5)."
+    },
+    {
+      "ref": "19:7-10",
+      "texto": "A lei do Senhor é apresentada como perfeita, capaz de revigorar a alma e trazer sabedoria. Este trecho enfatiza a importância da Palavra de Deus como guia e fonte de vida para aqueles que a seguem (veja também 2 Timóteo 3:16-17 e Hebreus 4:12)."
+    },
+    {
+      "ref": "19:11-14",
+      "texto": "O salmista reconhece que os ensinamentos de Deus não apenas trazem benefícios, mas também alertam contra o pecado. O desejo de agradar a Deus é expresso através da oração por pureza e santidade (veja também Salmo 119:11 e Filipenses 4:8)."
+    },
+    {
+      "ref": "19:15",
+      "texto": "O desejo de que as palavras e meditações do coração do salmista sejam agradáveis a Deus reflete a importância da devoção pessoal e da busca por um relacionamento íntimo com o Criador (veja também Salmo 139:23-24 e Romanos 12:1)."
+    }
+  ]
+}

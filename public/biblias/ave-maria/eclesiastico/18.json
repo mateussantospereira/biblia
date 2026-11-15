@@ -1,0 +1,172 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "eclesiastico",
+  "nome": "Eclesiástico",
+  "testamento": "AT",
+  "capitulo": 18,
+  "totalVersiculos": 33,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/eclesiastico/18/",
+  "capturadoEm": "2026-11-15T09:20:39-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O eterno tudo criou sem exceção, só o Senhor será considerado justo. Ele é o rei invencível que permanece para sempre."
+    },
+    {
+      "numero": 2,
+      "texto": "Quem será capaz de relatar as suas obras?"
+    },
+    {
+      "numero": 3,
+      "texto": "Quem poderá compreender as suas maravilhas?"
+    },
+    {
+      "numero": 4,
+      "texto": "Quem poderá descrever todo o poder de sua grandeza? Quem empreenderá a explicação de sua misericórdia?"
+    },
+    {
+      "numero": 5,
+      "texto": "Nada há a subtrair, nada a acrescentar às maravilhas de Deus; elas são incompreensíveis."
+    },
+    {
+      "numero": 6,
+      "texto": "Quando o homem tiver acabado, então estará no começo; e quando cessar a pesquisa, ficará perplexo."
+    },
+    {
+      "numero": 7,
+      "texto": "Que é o homem, e para que serve? Que mal ou que bem pode ele fazer?"
+    },
+    {
+      "numero": 8,
+      "texto": "A duração da vida humana é quanto muito cem anos. No dia da eternidade esses breves anos serão contados como uma gota de água do mar, como um grão de areia."
+    },
+    {
+      "numero": 9,
+      "texto": "É por isso que o Senhor é paciente com os homens, e espalha sobre eles a sua misericórdia."
+    },
+    {
+      "numero": 10,
+      "texto": "Ele vê quanto é má a presunção do seu coração, e reconhece que o fim deles é lamentável;"
+    },
+    {
+      "numero": 11,
+      "texto": "é por isso que ele os trata com toda a doçura, e mostra-lhes o caminho da justiça."
+    },
+    {
+      "numero": 12,
+      "texto": "A compaixão de um homem concerne ao seu próximo, mas a misericórdia divina estende-se sobre todo ser vivo."
+    },
+    {
+      "numero": 13,
+      "texto": "Cheio de compaixão, Deus ensina os homens, e os repreende como um pastor o faz com o seu rebanho.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Compadece-se daquele que recebe os ensinamentos de sua misericórdia, e do que se apressa a cumprir os seus preceitos."
+    },
+    {
+      "numero": 15,
+      "texto": "Meu filho, não mistures a repreensão com o benefício, não acrescentes nunca palavras duras e más às tuas dádivas."
+    },
+    {
+      "numero": 16,
+      "texto": "Porventura o orvalho não refresca o calor ardente? Assim, uma palavra doce vale mais do que um presente."
+    },
+    {
+      "numero": 17,
+      "texto": "A doçura das palavras não prevalece sobre a própria dádiva? Mas uma e outra coisa se encontram no homem justo."
+    },
+    {
+      "numero": 18,
+      "texto": "O insensato censura com aspereza; a dádiva de um indiscreto resseca os olhos."
+    },
+    {
+      "numero": 19,
+      "texto": "Antes de julgar, procura ser justo; antes de falar, aprende."
+    },
+    {
+      "numero": 20,
+      "texto": "Usa o remédio antes de ficares doente. Interroga-te a ti mesmo antes do juízo, e acharás misericórdia diante de Deus."
+    },
+    {
+      "numero": 21,
+      "texto": "Antes da doença, humilha-te, e no tempo da enfermidade mostra o teu proceder.",
+      "nota": true
+    },
+    {
+      "numero": 22,
+      "texto": "Nada te impeça de orar sempre, e não te envergonhes de progredir na justiça até a morte; pois a recompensa de Deus é eterna.",
+      "nota": true
+    },
+    {
+      "numero": 23,
+      "texto": "Antes da oração, prepara a tua alma, e não sejas como um homem que tenta a Deus.",
+      "nota": true
+    },
+    {
+      "numero": 24,
+      "texto": "Lembra-te da ira do último dia, e do tempo em que Deus castigará, desviando o rosto."
+    },
+    {
+      "numero": 25,
+      "texto": "Lembra-te da pobreza quando estiveres na abundância e das necessidades da indigência no dia da riqueza."
+    },
+    {
+      "numero": 26,
+      "texto": "Entre a manhã e a tarde muda o tempo, e tudo isto acontece num instante aos olhos de Deus."
+    },
+    {
+      "numero": 27,
+      "texto": "Um homem sábio está sempre alerta; nos dias de tentação, se resguarda do pecado."
+    },
+    {
+      "numero": 28,
+      "texto": "Todo homem sagaz reconhece a sabedoria, e presta homenagem àquele que a encontrou."
+    },
+    {
+      "numero": 29,
+      "texto": "Os homens de linguagem sensata procedem também com sabedoria, compreendem a verdade e a justiça, e espalham uma multidão de sentenças e máximas."
+    },
+    {
+      "numero": 30,
+      "texto": "Não te deixes levar por tuas más inclinações, e refreia os teus apetites."
+    },
+    {
+      "numero": 31,
+      "texto": "Se satisfizeres a cobiça de tua alma, ela fará de ti a alegria dos teus inimigos."
+    },
+    {
+      "numero": 32,
+      "texto": "Não te comprazas no meio das multidões, mesmo das menores, porque nelas somos constantemente comprometidos.",
+      "nota": true
+    },
+    {
+      "numero": 33,
+      "texto": "Não te empobreças, pedindo empréstimos para aparentar, quando nada tens na algibeira; isso equivaleria a atentar contra a tua própria vida."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "18:1-3",
+      "texto": "Deus é eterno e soberano, e nada pode escapar do Seu conhecimento. Sua sabedoria e poder são incompreensíveis, ressaltando a grandeza e a majestade divinas (veja também Salmo 147:5 e Romanos 11:33-36)."
+    },
+    {
+      "ref": "18:8-10",
+      "texto": "A vida do homem é breve, como uma sombra que passa. Isso destaca a transitoriedade da vida e a necessidade de buscar o que é eterno, em vez de se apegar às coisas temporais (veja também Salmo 144:4 e Tiago 4:14)."
+    },
+    {
+      "ref": "18:11-13",
+      "texto": "Deus, em Sua misericórdia, não trata o homem segundo seus pecados. Sua compaixão é maior que a justiça, enfatizando o amor divino que deseja salvar e não condenar (veja também Salmo 103:10-12 e Lucas 6:36)."
+    },
+    {
+      "ref": "18:15-18",
+      "texto": "A bondade e a generosidade são louváveis, mas devem ser acompanhadas pela discrição. Dar com um coração sincero e sem arrogância é o que agrada a Deus (veja também Mateus 6:3-4 e 2 Coríntios 9:7)."
+    },
+    {
+      "ref": "18:30-32",
+      "texto": "O autocontrole é essencial para evitar a queda no pecado. O autor alerta para os perigos dos desejos desordenados, que podem levar à perdição (veja também Romanos 13:14 e Gálatas 5:16-17)."
+    }
+  ]
+}

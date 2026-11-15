@@ -1,0 +1,197 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "eclesiastico",
+  "nome": "Eclesiástico",
+  "testamento": "AT",
+  "capitulo": 7,
+  "totalVersiculos": 40,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/eclesiastico/7/",
+  "capturadoEm": "2026-11-15T09:20:28-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Não pratiques o mal, e o mal não te iludirá."
+    },
+    {
+      "numero": 2,
+      "texto": "Afasta-te da injustiça, e a injustiça se afastará de ti."
+    },
+    {
+      "numero": 3,
+      "texto": "Meu filho, não semeies o mal nos sulcos da injustiça, e dele não recolherás o sétuplo."
+    },
+    {
+      "numero": 4,
+      "texto": "Não peças ao Senhor o encargo de guiar outrem nem ao rei um lugar de destaque."
+    },
+    {
+      "numero": 5,
+      "texto": "Não te justifiques perante Deus, pois ele conhece o fundo dos corações; não pretendas parecer sábio diante do rei."
+    },
+    {
+      "numero": 6,
+      "texto": "Não procures tornar-te juiz, se não fores bastante forte para destruir a iniquidade, para que não aconteça que temas perante um homem poderoso, e te exponhas a pecar contra a equidade."
+    },
+    {
+      "numero": 7,
+      "texto": "Não ofendas a população inteira de uma cidade, não te lances em meio da multidão."
+    },
+    {
+      "numero": 8,
+      "texto": "Não acrescentes um segundo pecado ao primeiro, pois mesmo por causa de um só não ficarás impune."
+    },
+    {
+      "numero": 9,
+      "texto": "Não te deixes levar ao desânimo."
+    },
+    {
+      "numero": 10,
+      "texto": "Não descuides de orar nem de dar esmola.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Não digas: “Deus há de considerar a quantidade de meus dons; quando os oferecer ao Deus Altíssimo, ele há de aceitá-los”."
+    },
+    {
+      "numero": 12,
+      "texto": "Não zombes de um homem que está na aflição, pois há alguém que humilha e exalta: Deus que tudo vê."
+    },
+    {
+      "numero": 13,
+      "texto": "Não inventes mentira contra teu irmão, não inventes nenhuma mentira contra teu amigo."
+    },
+    {
+      "numero": 14,
+      "texto": "Cuida-te para não dizeres mentira alguma, pois o costume de mentir é coisa má."
+    },
+    {
+      "numero": 15,
+      "texto": "Na companhia dos anciãos, não sejas falador, não multipliques as palavras em tua oração."
+    },
+    {
+      "numero": 16,
+      "texto": "Não abomines as tarefas penosas nem o labor da terra, que foi criado pelo Altíssimo."
+    },
+    {
+      "numero": 17,
+      "texto": "Não te coloques no número das pessoas corrompidas,"
+    },
+    {
+      "numero": 18,
+      "texto": "lembra-te de que a cólera não tarda."
+    },
+    {
+      "numero": 19,
+      "texto": "Humilha profundamente o teu espírito, pois o fogo e o verme são o castigo da carne do ímpio."
+    },
+    {
+      "numero": 20,
+      "texto": "Não pratiques o mal contra um amigo que demora em te pagar, não desprezes por causa do ouro um irmão bem-amado."
+    },
+    {
+      "numero": 21,
+      "texto": "Não te afastes da mulher sensata e virtuosa que te foi concedida no temor do Senhor; pois a graça de sua modéstia vale mais do que o ouro."
+    },
+    {
+      "numero": 22,
+      "texto": "Não maltrates um escravo que trabalha pontualmente, nem o operário que te é devotado."
+    },
+    {
+      "numero": 23,
+      "texto": "Que o escravo sensato te seja tão caro quanto a tua própria vida! Não o prives da liberdade nem o abandones na indigência."
+    },
+    {
+      "numero": 24,
+      "texto": "Tens rebanhos? Cuida deles; se te forem úteis, guarda-os em tua casa."
+    },
+    {
+      "numero": 25,
+      "texto": "Tens filhos? Educa-os, e curva-os à obediência desde a infância."
+    },
+    {
+      "numero": 26,
+      "texto": "Tens filhas? Vela pela integridade de seus corpos, não lhes mostres um rosto por demais jovial."
+    },
+    {
+      "numero": 27,
+      "texto": "Casa tua filha, e terás feito um grande negócio; dá-a a um homem sensato."
+    },
+    {
+      "numero": 28,
+      "texto": "Se tiveres mulher conforme teu coração, não a repudies, e não confies na que é odiosa."
+    },
+    {
+      "numero": 29,
+      "texto": "Honra teu pai de todo o coração, não esqueças os gemidos de tua mãe;"
+    },
+    {
+      "numero": 30,
+      "texto": "lembra-te de que sem eles não terias nascido, e faze por eles o que fizeram por ti."
+    },
+    {
+      "numero": 31,
+      "texto": "Teme a Deus com toda a tua alma, tem um profundo respeito pelos seus sacerdotes."
+    },
+    {
+      "numero": 32,
+      "texto": "Ama com todas as tuas forças aquele que te criou; não abandones os seus ministros."
+    },
+    {
+      "numero": 33,
+      "texto": "Honra a Deus com toda a tua alma, respeita os sacerdotes; (nos sacrifícios) oferece-lhes as espáduas."
+    },
+    {
+      "numero": 34,
+      "texto": "Dá-lhes, como te foi prescrito, a parte das primícias e das vítimas expiatórias; purifica-te de tuas omissões com pequenas (oferendas);"
+    },
+    {
+      "numero": 35,
+      "texto": "oferece ao Senhor os dons das espáduas, os sacrifícios de santificação e as primícias das coisas santas."
+    },
+    {
+      "numero": 36,
+      "texto": "Estende a mão para o pobre, a fim de que sejam perfeitos teu sacrifício e tua oferenda."
+    },
+    {
+      "numero": 37,
+      "texto": "Dá de boa vontade a todos os vivos, não recuses esse benefício a um morto.",
+      "nota": true
+    },
+    {
+      "numero": 38,
+      "texto": "Não deixes de consolar os que choram, aproxima-te dos que estão aflitos."
+    },
+    {
+      "numero": 39,
+      "texto": "Não tenhas preguiça de visitar um doente, pois é assim que te firmarás na caridade."
+    },
+    {
+      "numero": 40,
+      "texto": "Em tudo o que fizeres, lembra-te de teu fim, e jamais pecarás."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "7:1-2",
+      "texto": "Evite o mal e não cometa pecados. Um caminho de retidão e justiça é a melhor proteção contra a calamidade. Andar no temor de Deus é garantia de uma vida segura (veja também Provérbios 3:7 e Romanos 12:9)."
+    },
+    {
+      "ref": "7:4-6",
+      "texto": "Não busque poder ou posição de autoridade se não estiver preparado. O julgamento de líderes é mais rigoroso, e a responsabilidade sobre suas ações é maior. Liderança requer sabedoria e humildade (veja também Tiago 3:1 e 1 Timóteo 3:1-2)."
+    },
+    {
+      "ref": "7:10-11",
+      "texto": "Não hesite em orar, e seja constante na oração. A oração não deve ser negligenciada, e devemos buscar a Deus em todas as situações. A oração perseverante é uma fonte de graça e força (veja também Lucas 18:1 e 1 Tessalonicenses 5:17)."
+    },
+    {
+      "ref": "7:27-28",
+      "texto": "Honre seus pais e cuide deles na velhice. O respeito aos pais é um mandamento divino e traz bênçãos para quem o cumpre. Os pais devem ser tratados com dignidade e amor (veja também Êxodo 20:12 e Efésios 6:2-3)."
+    },
+    {
+      "ref": "7:32-36",
+      "texto": "Pratique a caridade e ajude os pobres. A generosidade para com os necessitados agrada a Deus e traz bênçãos. Ajudar os que sofrem é uma forma de servir a Deus (veja também Provérbios 19:17 e Mateus 25:40)."
+    }
+  ]
+}

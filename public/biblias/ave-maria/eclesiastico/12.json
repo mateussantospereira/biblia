@@ -1,0 +1,115 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "eclesiastico",
+  "nome": "Eclesiástico",
+  "testamento": "AT",
+  "capitulo": 12,
+  "totalVersiculos": 19,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/eclesiastico/12/",
+  "capturadoEm": "2026-11-15T09:20:33-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Se fizeres o bem, sabe a quem o fazes, e receberás gratidão pelos teus benefícios.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Faze o bem para o justo, e disso terás grande recompensa, senão dele, pelo menos do Senhor,"
+    },
+    {
+      "numero": 3,
+      "texto": "pois não há bem para quem persevera no mal e não dá esmolas; porque o Altíssimo tem horror dos pecadores, e usa de misericórdia com os que se arrependem."
+    },
+    {
+      "numero": 4,
+      "texto": "Dá ao homem bom, não ampares o pecador, pois Deus dará ao mau e ao pecador o que merecem; ele os guarda para o dia em que os castigará."
+    },
+    {
+      "numero": 5,
+      "texto": "Dá àquele que é bom, e não auxilies o pecador."
+    },
+    {
+      "numero": 6,
+      "texto": "Faze o bem ao homem humilde, e nada dês ao ímpio; impede que se lhe dê pão, para não suceder que ele se torne mais poderoso do que tu."
+    },
+    {
+      "numero": 7,
+      "texto": "Pois acharás um duplo mal em todo o bem que lhe fizeres, porque o próprio Altíssimo abomina os pecadores, e exerce vingança sobre os ímpios."
+    },
+    {
+      "numero": 8,
+      "texto": "O amigo não se conhece durante a prosperidade, e o inimigo não se pode esconder na adversidade."
+    },
+    {
+      "numero": 9,
+      "texto": "Quando um homem é feliz, seus inimigos estão tristes; é na desgraça que se reconhece um amigo.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Não confies nunca em teu inimigo, pois a malícia dele é como a ferrugem que sempre volta no bronze."
+    },
+    {
+      "numero": 11,
+      "texto": "Ainda mesmo que se humilhe e ande todo submisso, sê vigilante e previne-te contra ele.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Não o estabeleças junto de ti, nem ele se assente à tua direita, para não suceder que ele queira tomar o teu lugar e ocupar o teu assento; e que, reconhecendo enfim a veracidade das minhas palavras, te sintas ferido pelos meus avisos."
+    },
+    {
+      "numero": 13,
+      "texto": "Quem terá pena de um encantador mordido por uma cobra, e de todos os que se aproximam das feras? Assim acontece com aquele que priva com o malvado, e que se acha envolvido nos pecados dele."
+    },
+    {
+      "numero": 14,
+      "texto": "Ficará uma hora contigo, mas se vieres a fraquejar, não mais poderá conter-se.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "O inimigo tem a doçura nos lábios, enquanto no coração arma laços para te lançar na cova."
+    },
+    {
+      "numero": 16,
+      "texto": "O inimigo tem lágrimas nos olhos, mas, se tiver oportunidade, será insaciável de teu sangue."
+    },
+    {
+      "numero": 17,
+      "texto": "Se a desgraça te ferir, hás de achá-lo em primeiro lugar;"
+    },
+    {
+      "numero": 18,
+      "texto": "ele tem lágrimas nos olhos, mas, fingindo socorrer-te, ele te dará uma rasteira."
+    },
+    {
+      "numero": 19,
+      "texto": "Abanará a cabeça e baterá palmas, e, mudando de semblante, não cessará de cochichar."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "12:1-2",
+      "texto": "O autor exorta a prática do bem, especialmente para aqueles que o merecem, e não para os ingratos ou mal-intencionados. Isso reflete a importância da caridade com discernimento (veja também Provérbios 3:27 e Gálatas 6:10)."
+    },
+    {
+      "ref": "12:3-5",
+      "texto": "Fazer o bem a quem é mau pode não trazer recompensas. O autor aconselha a ter sabedoria ao escolher onde e a quem estender a generosidade (veja também Salmo 37:21 e Provérbios 24:1-2)."
+    },
+    {
+      "ref": "12:6-7",
+      "texto": "Deus rejeita os pecadores e os ímpios, e suas boas ações não são aceitas se não houver arrependimento. O autor destaca que a justiça divina é infalível, e o pecado traz consequências (veja também Provérbios 15:29 e Isaías 59:2)."
+    },
+    {
+      "ref": "12:8-9",
+      "texto": "O valor de um amigo verdadeiro é revelado nas dificuldades. O autor ensina que as amizades devem ser testadas com o tempo, e não se deve confiar em amigos novos e não comprovados (veja também Provérbios 17:17 e João 15:14-15)."
+    },
+    {
+      "ref": "12:10-12",
+      "texto": "A desconfiança em relação aos inimigos é uma forma de prudência. O texto ensina a cautela e a sabedoria ao lidar com quem já demonstrou más intenções (veja também Salmo 37:12-13 e Mateus 10:16)."
+    }
+  ]
+}

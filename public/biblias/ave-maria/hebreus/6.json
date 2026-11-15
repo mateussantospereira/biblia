@@ -1,0 +1,115 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "hebreus",
+  "nome": "Hebreus",
+  "testamento": "NT",
+  "capitulo": 6,
+  "totalVersiculos": 20,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/hebreus/6/",
+  "capturadoEm": "2026-11-15T09:29:10-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Pelo que, transpondo os ensinamentos elementares da doutrina de Cristo, procuremos alcançar-lhe a plenitude. Não queremos agora insistir nas noções fundamentais da conversão, da renúncia ao pecado, da fé em Deus,",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "a doutrina dos vários batismos, da imposição das mãos, da ressurreição dos mortos e do julgamento eterno.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Isto faremos, se Deus o permitir."
+    },
+    {
+      "numero": 4,
+      "texto": "Porque aqueles que foram uma vez iluminados saborearam o dom celestial, participaram dos dons do Espírito Santo,",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "experimentaram a doçura da Palavra de Deus e as maravilhas do mundo vindouro e, apesar disso, caíram na apostasia,"
+    },
+    {
+      "numero": 6,
+      "texto": "é impossível que se renovem outra vez para a penitência, visto que, da sua parte, crucificaram de novo o Filho de Deus e publicamente o escarneceram."
+    },
+    {
+      "numero": 7,
+      "texto": "O terreno que recebe chuvas frequentes e fornece ao agricultor boas searas, é abençoado por Deus."
+    },
+    {
+      "numero": 8,
+      "texto": "O que produz só espinhos e abrolhos, é abandonado, não demora que será amaldiçoado e acabará sendo incendiado."
+    },
+    {
+      "numero": 9,
+      "texto": "Embora vos falemos desse modo, caríssimos, temos a melhor ideia a vosso respeito e de vossa salvação."
+    },
+    {
+      "numero": 10,
+      "texto": "Deus não é injusto e não esquecerá vossas obras e a caridade que mostrastes por amor de seu nome, vós que servistes e continuais a servir os santos."
+    },
+    {
+      "numero": 11,
+      "texto": "Desejamos, apenas, que ponhais todo o empenho em guardar intata a vossa esperança até o fim,"
+    },
+    {
+      "numero": 12,
+      "texto": "e que, longe de vos tornardes negligentes, sejais imitadores daqueles que pela fé e paciência se tornam herdeiros das promessas."
+    },
+    {
+      "numero": 13,
+      "texto": "Quando Deus fez a promessa a Abraão, como não houvesse ninguém maior por quem jurar, jurou por si mesmo,"
+    },
+    {
+      "numero": 14,
+      "texto": "dizendo: Em verdade eu te abençoarei, e multiplicarei a tua posteridade (Gn 22,16s)."
+    },
+    {
+      "numero": 15,
+      "texto": "E Abraão, esperando com paciência, alcançou a realização da promessa."
+    },
+    {
+      "numero": 16,
+      "texto": "Os homens, com efeito, juram por quem é maior do que eles, e o juramento serve de garantia e põe fim a toda controvérsia."
+    },
+    {
+      "numero": 17,
+      "texto": "Por isso, querendo Deus mostrar mais seguramente aos herdeiros da promessa a imutabilidade da sua resolução, interpôs o juramento."
+    },
+    {
+      "numero": 18,
+      "texto": "Por este ato duplamente irrevogável, pelo qual o próprio Deus se proibia de desdizer-se, encontramos motivo de profunda consolação, nós que pusemos nossa perspectiva em alcançar a esperança proposta."
+    },
+    {
+      "numero": 19,
+      "texto": "Esperança esta que seguramos qual âncora de nossa alma, firme e sólida, e que penetra até além do véu, no santuário"
+    },
+    {
+      "numero": 20,
+      "texto": "onde Jesus entrou por nós como precursor, Pontífice eterno, segundo a ordem de Melquisedec.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "6:1-3",
+      "texto": "O autor exorta os cristãos a avançarem para a maturidade espiritual, deixando os princípios elementares e buscando o pleno conhecimento de Cristo. A maturidade é necessária para uma vida cristã sólida (veja também Efésios 4:13 e Filipenses 3:12-14)."
+    },
+    {
+      "ref": "6:4-6",
+      "texto": "O autor alerta sobre o perigo da apostasia, descrevendo os que caem como aqueles que rejeitaram a graça de Deus depois de experimentá-la. A perseverança na fé é vital para a salvação (veja também Mateus 13:20-21 e Hebreus 10:26-31)."
+    },
+    {
+      "ref": "6:9-12",
+      "texto": "Apesar da advertência, o autor expressa confiança na perseverança dos leitores e exorta-os a imitarem aqueles que pela fé e paciência herdam as promessas de Deus (veja também Gálatas 6:9 e Tiago 5:7-8)."
+    },
+    {
+      "ref": "6:13-20",
+      "texto": "A promessa de Deus a Abraão é usada como exemplo de esperança segura e firme. A esperança que temos em Cristo é uma âncora para a alma, baseada na fidelidade divina (veja também Gênesis 22:17-18 e Tito 1:2)."
+    }
+  ]
+}

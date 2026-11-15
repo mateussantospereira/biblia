@@ -1,0 +1,106 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 89,
+  "totalVersiculos": 17,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/89/",
+  "capturadoEm": "2026-11-15T09:17:34-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Prece de Moisés, homem de Deus. Senhor, fostes nosso refúgio de geração em geração.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Antes que se formassem as montanhas, a terra e o universo, desde toda a eternidade vós sois Deus."
+    },
+    {
+      "numero": 3,
+      "texto": "Reduzis o homem à poeira, e dizeis: “Filhos dos homens, retornai ao pó”,",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "porque mil anos, diante de vós, são como o dia de ontem que já passou, como uma só vigília da noite."
+    },
+    {
+      "numero": 5,
+      "texto": "Vós os arrebatais: eles são como um sonho da manhã, como a erva virente,"
+    },
+    {
+      "numero": 6,
+      "texto": "que viceja e floresce de manhã, mas que à tarde é cortada e seca."
+    },
+    {
+      "numero": 7,
+      "texto": "Sim, somos consumidos pela vossa severidade, e acabrunhados pela vossa cólera."
+    },
+    {
+      "numero": 8,
+      "texto": "Colocastes diante de vós as nossas culpas, e nossos pecados ocultos à vista de vossos olhos."
+    },
+    {
+      "numero": 9,
+      "texto": "Ante a vossa ira, passaram todos os nossos dias. Nossos anos se dissiparam como um sopro."
+    },
+    {
+      "numero": 10,
+      "texto": "Setenta anos é o total de nossa vida, os mais fortes chegam aos oitenta. A maior parte deles, sofrimento e vaidade, porque o tempo passa depressa e desaparecemos."
+    },
+    {
+      "numero": 11,
+      "texto": "Quem avalia a força de vossa cólera, e mede a vossa ira com o temor que vos é devido?"
+    },
+    {
+      "numero": 12,
+      "texto": "Ensinai-nos a bem contar os nossos dias, para alcançarmos o saber do coração.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Voltai-vos, Senhor – quanto tempo tardareis? E sede propício a vossos servos."
+    },
+    {
+      "numero": 14,
+      "texto": "Cumulai-nos desde a manhã com as vossas misericórdias, para exultarmos alegres em toda a nossa vida."
+    },
+    {
+      "numero": 15,
+      "texto": "Consolai-nos tantos dias quantos nos afligistes, tantos anos quantos nós sofremos."
+    },
+    {
+      "numero": 16,
+      "texto": "Manifestai vossa obra aos vossos servidores, e a vossa glória aos seus filhos."
+    },
+    {
+      "numero": 17,
+      "texto": "Que o beneplácito do Senhor, nosso Deus, repouse sobre nós. Favorecei as obras de nossas mãos. Sim, fazei prosperar o trabalho de nossas mãos."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "89:1-4",
+      "texto": "Este salmo celebra a fidelidade de Deus e Sua aliança com Davi, destacando que Seu amor e fidelidade são eternos. A promessa de estabelecer o trono de Davi para sempre aponta para o reino messiânico de Cristo (veja também 2 Samuel 7:12-16 e Lucas 1:32-33)."
+    },
+    {
+      "ref": "89:5-8",
+      "texto": "Os céus louvam as maravilhas de Deus, e Sua grandeza é exaltada acima de todos os seres celestiais. Essa passagem reforça a soberania de Deus sobre todas as forças do universo (veja também Salmo 19:1 e Isaías 40:25-26)."
+    },
+    {
+      "ref": "89:9-13",
+      "texto": "Deus é descrito como o Senhor das tempestades e mares, mostrando Seu poder sobre a criação. Esse poder reflete Seu domínio sobre o caos e o mal (veja também Jó 38:8-11 e Marcos 4:39-41)."
+    },
+    {
+      "ref": "89:14-18",
+      "texto": "Justiça e retidão são a base do trono de Deus. A bênção daqueles que vivem na luz da presença divina é ressaltada, destacando o favor e a proteção divina (veja também Salmo 33:5 e Mateus 5:8)."
+    },
+    {
+      "ref": "89:19-29",
+      "texto": "Deus relembra Sua aliança com Davi, prometendo que Seu descendente terá um reino eterno. Essa promessa se cumpre em Jesus Cristo, o descendente de Davi que reina eternamente (veja também Isaías 9:7 e Atos 13:22-23)."
+    }
+  ]
+}

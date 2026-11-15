@@ -1,0 +1,333 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sao-mateus",
+  "nome": "São Mateus",
+  "testamento": "NT",
+  "capitulo": 26,
+  "totalVersiculos": 75,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sao-mateus/26/",
+  "capturadoEm": "2026-11-15T09:26:03-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Quando Jesus acabou todos esses discursos, disse a seus discípulos:"
+    },
+    {
+      "numero": 2,
+      "texto": "“Sabeis que daqui a dois dias será a Páscoa, e o Filho do Homem será traído para ser crucificado”."
+    },
+    {
+      "numero": 3,
+      "texto": "Então, os príncipes dos sacerdotes e os anciãos do povo reuniram-se no pátio do sumo sacerdote, chamado Caifás,"
+    },
+    {
+      "numero": 4,
+      "texto": "e deliberaram sobre os meios de prender Jesus por astúcia e de o matar."
+    },
+    {
+      "numero": 5,
+      "texto": "E diziam: “Sobretudo, não seja durante a festa. Poderá haver um tumulto entre o povo”."
+    },
+    {
+      "numero": 6,
+      "texto": "Encontrava-se Jesus em Betânia, na casa de Simão, o leproso."
+    },
+    {
+      "numero": 7,
+      "texto": "Estando à mesa, aproximou-se dele uma mulher com um vaso de alabastro, cheio de perfume muito caro, e derramou-o na sua cabeça."
+    },
+    {
+      "numero": 8,
+      "texto": "Vendo isso, os discípulos disseram indignados: “Para que este desperdício?"
+    },
+    {
+      "numero": 9,
+      "texto": "Poderia vender este perfume por um bom preço e dar o dinheiro aos pobres”."
+    },
+    {
+      "numero": 10,
+      "texto": "Jesus ouviu-os e disse-lhes: “Por que molestais esta mulher? É uma ação boa o que ela me fez."
+    },
+    {
+      "numero": 11,
+      "texto": "Pobres vós tereis sempre convosco. A mim, porém, nem sempre me tereis."
+    },
+    {
+      "numero": 12,
+      "texto": "Derramando esse perfume em meu corpo, ela o fez em vista da minha sepultura.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Em verdade eu vos digo: em toda parte onde for pregado este Evangelho pelo mundo inteiro, será contado em sua memória o que ela fez”."
+    },
+    {
+      "numero": 14,
+      "texto": "Então, um dos Doze, chamado Judas Iscariotes, foi ter com os príncipes dos sacerdotes e perguntou-lhes:"
+    },
+    {
+      "numero": 15,
+      "texto": "“Que quereis dar-me e eu vo-lo entregarei”. Ajustaram com ele trinta moedas de prata.",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "E desde aquele instante, procurava uma ocasião favorável para entregar Jesus."
+    },
+    {
+      "numero": 17,
+      "texto": "No primeiro dia dos ázimos, os discípulos aproximaram-se de Jesus e perguntaram-lhe: “Onde queres que preparemos a ceia pascal?”.",
+      "nota": true
+    },
+    {
+      "numero": 18,
+      "texto": "Respondeu-lhes Jesus: “Ide à cidade, à casa de um tal, e dizei-lhe: O Mestre manda dizer-te: Meu tempo está próximo. É em tua casa que celebrarei a Páscoa com meus discípulos”."
+    },
+    {
+      "numero": 19,
+      "texto": "Os discípulos fizeram o que Jesus tinha ordenado e prepararam a Páscoa."
+    },
+    {
+      "numero": 20,
+      "texto": "Ao declinar da tarde, pôs-se Jesus à mesa com os doze discípulos."
+    },
+    {
+      "numero": 21,
+      "texto": "Durante a ceia, disse: “Em verdade vos digo: um de vós me há de trair”."
+    },
+    {
+      "numero": 22,
+      "texto": "Com profunda aflição, cada um começou a perguntar: “Sou eu, Senhor?”."
+    },
+    {
+      "numero": 23,
+      "texto": "Respondeu ele: “Aquele que pôs comigo a mão no prato, esse me trairá."
+    },
+    {
+      "numero": 24,
+      "texto": "O Filho do Homem vai, como dele está escrito. Mas ai daquele homem por quem o Filho do Homem é traído! Seria melhor para esse homem que jamais tivesse nascido!”."
+    },
+    {
+      "numero": 25,
+      "texto": "Judas, o traidor, tomou a palavra e perguntou: “Mestre, serei eu?”. “Sim” – disse Jesus."
+    },
+    {
+      "numero": 26,
+      "texto": "Durante a refeição, Jesus tomou o pão, benzeu-o, partiu-o e o deu aos discípulos, dizendo: “Tomai e comei, isto é meu corpo”."
+    },
+    {
+      "numero": 27,
+      "texto": "Tomou depois o cálice, rendeu graças e deu-lho, dizendo: “Bebei dele todos,"
+    },
+    {
+      "numero": 28,
+      "texto": "porque isto é meu sangue, o sangue da Nova Aliança, derramado por muitos homens em remissão dos pecados.",
+      "nota": true
+    },
+    {
+      "numero": 29,
+      "texto": "Digo-vos: doravante não beberei mais desse fruto da vinha até o dia em que o beberei de novo convosco no Reino de meu Pai”."
+    },
+    {
+      "numero": 30,
+      "texto": "Depois do canto dos Salmos, dirigiram-se eles para o monte das Oliveiras."
+    },
+    {
+      "numero": 31,
+      "texto": "Disse-lhes então Jesus: “Esta noite serei para todos vós uma ocasião de queda; porque está escrito: Ferirei o pastor, e as ovelhas do rebanho serão dispersadas (Zc 13,7)."
+    },
+    {
+      "numero": 32,
+      "texto": "Mas, depois da minha Ressurreição, eu vos precederei na Galileia”."
+    },
+    {
+      "numero": 33,
+      "texto": "Pedro interveio: “Mesmo que sejas para todos uma ocasião de queda, para mim jamais o serás”."
+    },
+    {
+      "numero": 34,
+      "texto": "Disse-lhe Jesus: “Em verdade te digo: nesta noite mesma, antes que o galo cante, três vezes me negarás”."
+    },
+    {
+      "numero": 35,
+      "texto": "Respondeu-lhe Pedro: “Mesmo que seja necessário morrer contigo, jamais te negarei!”. E todos os outros discípulos diziam-lhe o mesmo."
+    },
+    {
+      "numero": 36,
+      "texto": "Retirou-se Jesus com eles para um lugar chamado Getsêmani e disse-lhes: “Assentai-vos aqui, enquanto eu vou ali orar...",
+      "nota": true
+    },
+    {
+      "numero": 37,
+      "texto": "E, tomando consigo Pedro e os dois filhos de Zebedeu, começou a entristecer-se e a angustiar-se."
+    },
+    {
+      "numero": 38,
+      "texto": "Disse-lhes, então: “Minha alma está triste até a morte. Ficai aqui e vigiai comigo”."
+    },
+    {
+      "numero": 39,
+      "texto": "Adiantou-se um pouco e, prostrando-se com a face por terra, assim rezou: “Meu Pai, se é possível, afasta de mim este cálice! Todavia, não se faça o que eu quero, mas sim o que tu queres”."
+    },
+    {
+      "numero": 40,
+      "texto": "Foi ter então com os discípulos e os encontrou dormindo. E disse a Pedro: “Então, não pudestes vigiar uma hora comigo..."
+    },
+    {
+      "numero": 41,
+      "texto": "Vigiai e orai para que não entreis em tentação. O espírito está pronto, mas a carne é fraca”."
+    },
+    {
+      "numero": 42,
+      "texto": "Afastou-se pela segunda vez e orou, dizendo: “Meu Pai, se não é possível que este cálice passe sem que eu o beba, faça-se a tua vontade!”"
+    },
+    {
+      "numero": 43,
+      "texto": "Voltou ainda e os encontrou novamente dormindo, porque seus olhos estavam pesados."
+    },
+    {
+      "numero": 44,
+      "texto": "Deixou-os e foi orar pela terceira vez, dizendo as mesmas palavras."
+    },
+    {
+      "numero": 45,
+      "texto": "Voltou, então, para os seus discípulos e disse-lhes: “Dormi agora e repousai! Chegou a hora: o Filho do Homem vai ser entregue nas mãos dos pecadores..."
+    },
+    {
+      "numero": 46,
+      "texto": "Levantai-vos, vamos! Aquele que me trai está perto daqui”."
+    },
+    {
+      "numero": 47,
+      "texto": "Jesus ainda falava, quando veio Judas, um dos Doze, e com ele uma multidão de gente armada de espadas e cacetes, enviada pelos príncipes dos sacerdotes e pelos anciãos do povo."
+    },
+    {
+      "numero": 48,
+      "texto": "O traidor combinara com eles este sinal: “Aquele que eu beijar, é ele. Prendei-o!”."
+    },
+    {
+      "numero": 49,
+      "texto": "Aproximou-se imediatamente de Jesus e disse: “Salve, Mestre”. E beijou-o."
+    },
+    {
+      "numero": 50,
+      "texto": "Disse-lhe Jesus: “É, então, para isso que vens aqui?”. Em seguida, adiantaram-se eles e lançaram mão em Jesus para prendê-lo."
+    },
+    {
+      "numero": 51,
+      "texto": "Mas um dos companheiros de Jesus desembainhou a espada e feriu um servo do sumo sacerdote, decepando-lhe a orelha."
+    },
+    {
+      "numero": 52,
+      "texto": "Jesus, no entanto, lhe disse: “Embainha tua espada, porque todos aqueles que usarem da espada, pela espada morrerão."
+    },
+    {
+      "numero": 53,
+      "texto": "Crês tu que não posso invocar meu Pai e ele não me enviaria imediatamente mais de doze legiões de anjos?"
+    },
+    {
+      "numero": 54,
+      "texto": "Mas como se cumpririam então as Escrituras, segundo as quais é preciso que seja assim?”."
+    },
+    {
+      "numero": 55,
+      "texto": "Depois, voltando-se para a turba, falou: “Saístes armados de espadas e porretes para prender-me, como se eu fosse um malfeitor. Entretanto, todos os dias estava eu sentado entre vós ensinando no templo e não me prendestes."
+    },
+    {
+      "numero": 56,
+      "texto": "Mas tudo isto aconteceu porque era necessário que se cumprissem os oráculos dos profetas”. Então, os discípulos o abandonaram e fugiram."
+    },
+    {
+      "numero": 57,
+      "texto": "Os que haviam prendido Jesus levaram-no à casa do sumo sacerdote Caifás, onde estavam reunidos os escribas e os anciãos do povo."
+    },
+    {
+      "numero": 58,
+      "texto": "Pedro seguia-o de longe, até o pátio do sumo sacerdote. Entrou e sentou-se junto aos criados para ver como terminaria aquilo."
+    },
+    {
+      "numero": 59,
+      "texto": "Enquanto isso, os príncipes dos sacerdotes e todo o conselho procuravam um falso testemunho contra Jesus, a fim de o levarem à morte."
+    },
+    {
+      "numero": 60,
+      "texto": "Mas não o conseguiram, embora se apresentassem muitas falsas testemunhas."
+    },
+    {
+      "numero": 61,
+      "texto": "Por fim, apresentaram-se duas testemunhas, que disseram: “Este homem disse: Posso destruir o Templo de Deus e reedificá-lo em três dias”.",
+      "nota": true
+    },
+    {
+      "numero": 62,
+      "texto": "Levantou-se o sumo sacerdote e lhe perguntou: “Nada tens a responder ao que essa gente depõe contra ti?”."
+    },
+    {
+      "numero": 63,
+      "texto": "Jesus, no entanto, permanecia calado. Disse-lhe o sumo sacerdote: “Por Deus vivo, conjuro-te que nos digas se és o Cristo, o Filho de Deus?”."
+    },
+    {
+      "numero": 64,
+      "texto": "Jesus respondeu: “Sim. Além disso, eu vos declaro que vereis doravante o Filho do Homem sentar-se à direita do Todo-poderoso, e voltar sobre as nuvens do céu”."
+    },
+    {
+      "numero": 65,
+      "texto": "A essas palavras, o sumo sacerdote rasgou suas vestes, exclamando: “Que necessidade temos ainda de testemunhas? Acabastes de ouvir a blasfêmia!"
+    },
+    {
+      "numero": 66,
+      "texto": "Qual o vosso parecer?”. Eles responderam: “Merece a morte!”."
+    },
+    {
+      "numero": 67,
+      "texto": "Cuspiram-lhe então na face, bateram-lhe com os punhos e deram-lhe tapas,"
+    },
+    {
+      "numero": 68,
+      "texto": "dizendo: “Adivinha, ó Cristo: quem te bateu?”. (= Mc 14,66-72 = Lc 22,55-62 = Jo 18,15-27)"
+    },
+    {
+      "numero": 69,
+      "texto": "Enquanto isso, Pedro estava sentado no pátio. Aproximou-se dele uma das servas, dizendo: “Também tu estavas com Jesus, o Galileu”."
+    },
+    {
+      "numero": 70,
+      "texto": "Mas ele negou publicamente, nestes termos: “Não sei o que dizes”."
+    },
+    {
+      "numero": 71,
+      "texto": "Dirigia-se ele para a porta, a fim de sair, quando outra criada o viu e disse aos que lá estavam: “Este homem também estava com Jesus de Nazaré”."
+    },
+    {
+      "numero": 72,
+      "texto": "Pedro, pela segunda vez, negou com juramento: “Eu nem conheço tal homem”."
+    },
+    {
+      "numero": 73,
+      "texto": "Pouco depois, os que ali estavam aproximaram-se de Pedro e disseram: “Sim, tu és daqueles; teu modo de falar te dá a conhecer”."
+    },
+    {
+      "numero": 74,
+      "texto": "Pedro, então, começou a fazer imprecações, jurando que nem sequer conhecia tal homem. E, neste momento, cantou o galo."
+    },
+    {
+      "numero": 75,
+      "texto": "Pedro recordou-se do que Jesus lhe dissera: “Antes que o galo cante, tu me negarás três vezes”. E saindo, chorou amargamente."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "26:1-5",
+      "texto": "Os principais sacerdotes e anciãos planejam prender Jesus de maneira secreta. Esse plano revela a rejeição do Messias pelos líderes religiosos e o cumprimento da vontade divina, que se realiza mesmo através da maldade humana (veja também João 11:53 e Lucas 22:2)."
+    },
+    {
+      "ref": "26:36-46",
+      "texto": "A oração de Jesus no Getsêmani mostra Sua angústia e submissão à vontade do Pai, apesar de Seu sofrimento. A oração no momento de crise nos ensina a buscar a força divina e a confiar nos planos de Deus, mesmo quando são difíceis (veja também Lucas 22:41-44 e Filipenses 2:8)."
+    },
+    {
+      "ref": "26:69-75",
+      "texto": "A negação de Pedro ante o julgamento de Jesus destaca a fraqueza humana e a necessidade de vigilância na fé. Mesmo em suas falhas, Pedro é restaurado pela graça de Cristo, exemplificando o perdão e a redenção (veja também Lucas 22:61-62 e João 21:15-19)."
+    }
+  ]
+}

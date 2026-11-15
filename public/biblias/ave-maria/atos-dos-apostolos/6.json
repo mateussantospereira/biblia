@@ -1,0 +1,91 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "atos-dos-apostolos",
+  "nome": "Atos dos Apóstolos",
+  "testamento": "NT",
+  "capitulo": 6,
+  "totalVersiculos": 15,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/atos-dos-apostolos/6/",
+  "capturadoEm": "2026-11-15T09:27:13-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Naqueles dias, como crescesse o número dos discípulos, houve queixas dos gregos contra os hebreus, porque as suas viúvas teriam sido negligenciadas na distribuição diária.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Por isso, os Doze convocaram uma reunião dos discípulos e disseram: “Não é razoável que abandonemos a Palavra de Deus, para administrar.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Portanto, irmãos, escolhei dentre vós sete homens de boa reputação, cheios do Espírito Santo e de sabedoria, aos quais encarregaremos deste ofício."
+    },
+    {
+      "numero": 4,
+      "texto": "Nós atenderemos sem cessar à oração e ao ministério da palavra”."
+    },
+    {
+      "numero": 5,
+      "texto": "Esse parecer agradou a toda a reunião. Escolheram Estêvão, homem cheio de fé e do Espírito Santo; Filipe, Prócoro, Nicanor, Timão, Pármenas e Nicolau, prosélito de Antioquia."
+    },
+    {
+      "numero": 6,
+      "texto": "Apresentaram-nos aos apóstolos, e estes, orando, impuseram-lhes as mãos."
+    },
+    {
+      "numero": 7,
+      "texto": "Divulgava-se sempre mais a Palavra de Deus. Multiplicava-se consideravelmente o número de discípulos em Jerusalém. Também grande número de sacerdotes aderia à fé."
+    },
+    {
+      "numero": 8,
+      "texto": "Estêvão, cheio de graça e fortaleza, fazia grandes milagres e prodígios entre o povo."
+    },
+    {
+      "numero": 9,
+      "texto": "Mas alguns da sinagoga, chamada dos Libertos, dos cirenenses, dos alexandrinos e dos que eram da Cilícia e da Ásia, levantaram-se para disputar com ele.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Não podiam, porém, resistir à sabedoria e ao Espírito que o inspirava."
+    },
+    {
+      "numero": 11,
+      "texto": "Então, subornaram alguns indivíduos para que dissessem que o tinham ouvido proferir palavras de blasfêmia contra Moisés e contra Deus."
+    },
+    {
+      "numero": 12,
+      "texto": "Amotinaram assim o povo, os anciãos e os escribas e, investindo contra ele, agarraram-no e o levaram ao Grande Conselho."
+    },
+    {
+      "numero": 13,
+      "texto": "Apresentaram falsas testemunhas que diziam: “Este homem não cessa de proferir palavras contra o lugar santo e contra a Lei."
+    },
+    {
+      "numero": 14,
+      "texto": "Nós o ouvimos dizer que Jesus de Nazaré há de destruir este lugar e há de mudar as tradições que Moisés nos legou”.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Fixando nele os olhos, todos os membros do Grande Conselho viram o seu rosto semelhante ao de um anjo."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "6:1-7",
+      "texto": "A instituição dos diáconos para servir às mesas reflete a organização da Igreja primitiva e a prioridade do ministério da Palavra e da oração (veja também 1 Timóteo 3:8-13 e Êxodo 18:21-22)."
+    },
+    {
+      "ref": "6:8-10",
+      "texto": "Estêvão realiza grandes milagres e enfrenta oposição. Sua sabedoria e o Espírito Santo o tornam inabalável, mesmo diante das acusações (veja também Lucas 21:15 e João 15:26-27)."
+    },
+    {
+      "ref": "6:11-15",
+      "texto": "Estêvão é falsamente acusado de blasfêmia, mas sua face brilha como a de um anjo. Esse detalhe simboliza a presença de Deus em sua vida (veja também Êxodo 34:29-30 e Mateus 10:19-20)."
+    }
+  ]
+}

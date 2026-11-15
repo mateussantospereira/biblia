@@ -1,0 +1,271 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "levitico",
+  "nome": "Levítico",
+  "testamento": "AT",
+  "capitulo": 13,
+  "totalVersiculos": 59,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/levitico/13/",
+  "capturadoEm": "2026-11-15T09:44:11-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Senhor falou a Moisés e a Aarão, dizendo;"
+    },
+    {
+      "numero": 2,
+      "texto": "O homem, em cuja pele e carne aparecer cor diversa, ou uma pústula, ou mancha branca luzente, como chaga de lepra, será levado ao sacerdote Aarão, ou a um dos seus filhos."
+    },
+    {
+      "numero": 3,
+      "texto": "Este examinará a lepra na pele: se vir que os pelos se tornam brancos e que a parte afectada está mais funda do que o resto da pele e da carne, o sacerdote que examinar este homem, declará-lo-á impuro."
+    },
+    {
+      "numero": 4,
+      "texto": "Porém, se aparecer sobre a cútis uma cor branca luzente, e não (estiver) mais funda do que o resto da carne, e os pelos forem da cor primitiva, o sacerdote o isolará durante sete dias,"
+    },
+    {
+      "numero": 5,
+      "texto": "e, ao sétimo dia: o examinará; e se o mal não tiver crescido mais, nem se tiver alastrado mais além sobre a pele, isolá-lo-á novamente durante outros sete dias."
+    },
+    {
+      "numero": 6,
+      "texto": "Ao sétimo dia, examiná-lo-á: se a parte enferma for mais escura, e não se tiver alastrado sobre a pele, declará-lo-á limpo, porque é sarna: este homem lavará as suas vestes e será puro."
+    },
+    {
+      "numero": 7,
+      "texto": "Porém, se depois de ter sido visto pelo sacerdote, e declarado limpo, a mancha luzente cresceu novamente, ser-lhe-á reconduzido,"
+    },
+    {
+      "numero": 8,
+      "texto": "e será declarado impuro, pois é lepra."
+    },
+    {
+      "numero": 9,
+      "texto": "Se houver chaga de lepra em algum homem, será levado ao sacerdote,"
+    },
+    {
+      "numero": 10,
+      "texto": "que o examinará. Quando sobre a pele aparecer uma cor branca, os cabelos tiverem mudado de cor e aparecer também a carne viva,"
+    },
+    {
+      "numero": 11,
+      "texto": "julgar-se-á esta lepra muito inveterada, muito arreigada na pele. Por isso o sacerdote o declarará impuro, e não o isolará, porque a sua impureza é visível."
+    },
+    {
+      "numero": 12,
+      "texto": "Porém, se a lepra alastra, lavrando sobre a pele, e a cobre toda desde a cabeça até aos pés, quanto podem ver os olhos,"
+    },
+    {
+      "numero": 13,
+      "texto": "o sacerdote o examinará, e declarará que ele tem uma lepra limpíssima, porque se tomou toda branca, e por isso este homem será limpo. (ver nota)"
+    },
+    {
+      "numero": 14,
+      "texto": "Mas, quando nele aparecer a carne viva,"
+    },
+    {
+      "numero": 15,
+      "texto": "então será impuro por declaração do sacerdote, será contado entre os impuros, porque a carne viva é impura, é lepra."
+    },
+    {
+      "numero": 16,
+      "texto": "Porém, se ela de novo se torna branca, e cobriu todo o homem,"
+    },
+    {
+      "numero": 17,
+      "texto": "o sacerdote o examinará e declarará que é puro."
+    },
+    {
+      "numero": 18,
+      "texto": "Mas, se na carne e na pele em que tiver aparecido uma úlcera e se tiver curado,"
+    },
+    {
+      "numero": 19,
+      "texto": "e no lugar da úlcera aparecer uma cicatriz branca, ou avermelhada, será este homem levado ao sacerdote:"
+    },
+    {
+      "numero": 20,
+      "texto": "se este vir o lugar da mancha mais fundo do que o resto da carne, e que os pelos se tornaram brancos, declará-lo-á impuro; porque isto é o mal da lepra, que se formou na úlcera."
+    },
+    {
+      "numero": 21,
+      "texto": "Se o pelo está da cor primitiva e a cicatriz é um pouco escura, sem estar mais funda do que a carne vizinha, o sacerdote o isolará durante sete dias."
+    },
+    {
+      "numero": 22,
+      "texto": "Se (durante este tempo) o mal cresceu, declará-lo-á leproso;"
+    },
+    {
+      "numero": 23,
+      "texto": "porém, se parou no seu lugar, é a cicatriz da úlcera, e o sacerdote o declarará puro."
+    },
+    {
+      "numero": 24,
+      "texto": "A carne, porém, e a pele que foi queimada pelo fogo, se sobre a cicatriz aparecer uma mancha branca ou avermelhada,"
+    },
+    {
+      "numero": 25,
+      "texto": "o sacerdote a examinará; se (vir) que ela se tomou branca, e que o lugar dela está mais fundo do que o resto da pele, declará-lo-á impuro, porque é chaga da lepra que se formou na cicatriz."
+    },
+    {
+      "numero": 26,
+      "texto": "Porém, se a cor dos pelos não mudou e a chaga não está mais funda do que o resto da carne, e se aparece um pouco escura, isolá-lo-á durante sete dias,"
+    },
+    {
+      "numero": 27,
+      "texto": "e, ao sétimo dia, o examinará. Se a mancha alastrou sobre a pele, declará-lo-á impuro."
+    },
+    {
+      "numero": 28,
+      "texto": "Mas, se a cor branca permanecer no seu lugar e não for tão clara, é chaga de queimadura, e portanto será declarado puro, porque é cicatriz de queimadura."
+    },
+    {
+      "numero": 29,
+      "texto": "Um homem ou uma mulher em cuja cabeça ou barba aparecer uma chaga, serão vistos pelo sacerdote,"
+    },
+    {
+      "numero": 30,
+      "texto": "e o cabelo estiver amarelado e mais delgado que de ordinário, ele os declarará impuros, porque é a lepra da cabeça e da barba."
+    },
+    {
+      "numero": 31,
+      "texto": "Mas, se vir que o lugar dá mancha não está mais fundo que a carne vizinha, e que o cabelo está negro, isolá-lo-á durante sete dias,"
+    },
+    {
+      "numero": 32,
+      "texto": "e examiná-lo-á no sétimo dia. Se a mancha não cresceu, e o cabelo conservou a sua cor, e o lugar da chaga não está mais fundo que o resto da carne,"
+    },
+    {
+      "numero": 33,
+      "texto": "este homem será rapado, menos no lugar da mancha, e será isolado durante outros sete dias."
+    },
+    {
+      "numero": 34,
+      "texto": "Se ao sétimo dia se vir que a chaga ficou no seu lugar, e não se tornou mais funda que o resto da carne, o sacerdote o declarará puro, ele lavará as suas vestes e será puro."
+    },
+    {
+      "numero": 35,
+      "texto": "Porém, se depois da sua purificação a mancha se alastrar de novo sobre a pele,"
+    },
+    {
+      "numero": 36,
+      "texto": "não examinará mais se o pêlo se tomou amarelado, porque evidentemente está impuro."
+    },
+    {
+      "numero": 37,
+      "texto": "Mas, se a mancha perseverar (no mesmo estado), e os cabelos estiverem negros, reconheça que o homem está são, e afoutamente declare-o limpo."
+    },
+    {
+      "numero": 38,
+      "texto": "O homem ou mulher, sobre cuja pele aparecerem manchas brancas,"
+    },
+    {
+      "numero": 39,
+      "texto": "o sacerdote os verá; se achar que sobre a sua pele reluz um branco escuro, saiba que não é lepra, mas uma mancha de cor branca, e que a pessoa está limpa."
+    },
+    {
+      "numero": 40,
+      "texto": "O homem a quem caem os cabelos da cabeça, é calvo, mas puro."
+    },
+    {
+      "numero": 41,
+      "texto": "Se lhe caírem os cabelos da fronte, é calvo em parte, e é limpo."
+    },
+    {
+      "numero": 42,
+      "texto": "Porém, se sobre a cabeça calva ou sobre a fronte calva se manifesta uma mancha branca ou avermelhada,"
+    },
+    {
+      "numero": 43,
+      "texto": "o sacerdote, que o tiver visto, declarará sem dúvida que tem lepra, que apareceu sobre a parte calva."
+    },
+    {
+      "numero": 44,
+      "texto": "Todo aquele que estiver manchado de lepra, e estiver separado por juízo do sacerdote,"
+    },
+    {
+      "numero": 45,
+      "texto": "terá as vestes rasgadas, a cabeça descoberta, a boca coberta, e clamará: Impuro, impuro!"
+    },
+    {
+      "numero": 46,
+      "texto": "Durante todo o tempo que estiver leproso e impuro, habitará só, fora dos acampamentos."
+    },
+    {
+      "numero": 47,
+      "texto": "Se uma veste de lã ou de linho for manchada de uma ferida,"
+    },
+    {
+      "numero": 48,
+      "texto": "na urdidura ou na trama, ou se uma pele, ou qualquer coisa feita de pele,"
+    },
+    {
+      "numero": 49,
+      "texto": "for igualmente infectada, (mostrando vestígios de) mancha esverdeada ou avermelhada, reputar-se-á de lepra, e se mostrará ao sacerdote."
+    },
+    {
+      "numero": 50,
+      "texto": "Ele, tendo examinado esse objecto, o isolará durante sete dias;"
+    },
+    {
+      "numero": 51,
+      "texto": "no sétimo dia:, tomando-o a ver de novo, se achar que (a mancha) alastrou, é uma lepra pertinaz: declarará, impuro o objecto e tudo aquilo em que se encontrar tal mancha,"
+    },
+    {
+      "numero": 52,
+      "texto": "e por isso queimar-se-á nas chamas."
+    },
+    {
+      "numero": 53,
+      "texto": "Se, porém, vir que não alastrou,"
+    },
+    {
+      "numero": 54,
+      "texto": "mandará que se lave aquilo em que está a mancha e o isolará durante outros sete dias."
+    },
+    {
+      "numero": 55,
+      "texto": "Quando vir que não tornou ao seu aspecto primitivo, ainda que a mancha não tenha alastrado, declarará o objecto impuro, e queimá-lo-á no fogo, porque a lepra se espalhou sobre a superfície ou por toda a espessura do vestido."
+    },
+    {
+      "numero": 56,
+      "texto": "Mas, se depois de lavado, o lugar da mancha estiver mais escuro, cortá-lo-á, e o separará do resto do tecido ou da pele."
+    },
+    {
+      "numero": 57,
+      "texto": "Porém, depois disto, reaparecer ainda a mancha naqueles lugares que antes estavam sem mancha, deve queimar-se (todo o objecto) no fogo."
+    },
+    {
+      "numero": 58,
+      "texto": "Todavia se, no objecto lavado, (a mancha) desaparecer, lavará de novo com água as partes que estão puras, e ficarão limpas."
+    },
+    {
+      "numero": 59,
+      "texto": "Esta é a lei sobre a lepra da veste de lã e de linho, da urdidura e da trama, de todo o objecto feito de pele, (para se saber) como (estas coisas) se devem declarar limpas ou impuras."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "13:1-3",
+      "texto": "As leis sobre doenças de pele, como a lepra, mostram a preocupação de Deus com a pureza e a santidade de Seu povo. O papel do sacerdote era examinar e determinar se alguém estava impuro, destacando a importância da intercessão espiritual (veja também Números 12:10 e Lucas 17:14)."
+    },
+    {
+      "ref": "13:4-8",
+      "texto": "A quarentena de pessoas com manchas suspeitas reflete o princípio de precaução e proteção da comunidade. A saúde física e espiritual do povo de Israel eram inseparáveis no culto a Deus (veja também 2 Reis 5:1-3 e Mateus 8:2-4)."
+    },
+    {
+      "ref": "13:9-17",
+      "texto": "A declaração de impureza para os que tinham doenças crônicas mostra como o pecado e a corrupção podem ser persistentes e devastadores na vida espiritual. Somente Deus pode restaurar completamente a pureza (veja também Isaías 64:6 e Marcos 1:40-42)."
+    },
+    {
+      "ref": "13:18-23",
+      "texto": "As doenças de pele após ferimentos eram cuidadosamente examinadas para garantir que não houvesse contaminação. Isso ressalta a importância de discernimento espiritual e atenção à pureza (veja também Tiago 1:27 e 1 Coríntios 5:7-8)."
+    },
+    {
+      "ref": "13:45-46",
+      "texto": "Aqueles declarados impuros deviam viver isolados, simbolizando a separação do pecado. A exclusão temporária do acampamento representa o afastamento que o pecado causa entre Deus e Seu povo (veja também Números 5:2-3 e Isaías 59:2)."
+    }
+  ]
+}

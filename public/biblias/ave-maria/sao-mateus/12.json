@@ -1,0 +1,239 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sao-mateus",
+  "nome": "São Mateus",
+  "testamento": "NT",
+  "capitulo": 12,
+  "totalVersiculos": 50,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sao-mateus/12/",
+  "capturadoEm": "2026-11-15T09:25:49-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Atravessava Jesus os campos de trigo num dia de sábado. Seus discípulos, tendo fome, começaram a arrancar as espigas para comê-las."
+    },
+    {
+      "numero": 2,
+      "texto": "Vendo isso, os fariseus disseram-lhe: “Eis que teus discípulos fazem o que é proibido no dia de sábado”."
+    },
+    {
+      "numero": 3,
+      "texto": "Jesus respondeu-lhes: “Não lestes o que fez Davi num dia em que teve fome, ele e seus companheiros,"
+    },
+    {
+      "numero": 4,
+      "texto": "como entrou na casa de Deus e comeu os pães da proposição? Ora, nem a ele nem àqueles que o acompanhavam era permitido comer esses pães reservados só aos sacerdotes.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Não lestes na Lei que, nos dias de sábado, os sacerdotes transgridem no templo o descanso do sábado e não se tornam culpados?"
+    },
+    {
+      "numero": 6,
+      "texto": "Ora, eu vos declaro que aqui está quem é maior que o templo."
+    },
+    {
+      "numero": 7,
+      "texto": "Se compreendêsseis o sentido destas palavras: Quero a misericórdia e não o sacrifício... não condenaríeis os inocentes.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Porque o Filho do Homem é senhor também do sábado”."
+    },
+    {
+      "numero": 9,
+      "texto": "Partindo dali, Jesus entrou na sinagoga."
+    },
+    {
+      "numero": 10,
+      "texto": "Encontrava-se lá um homem que tinha a mão seca. Alguém perguntou a Jesus: “É permitido curar no dia de sábado?”. Isto para poder acusá-lo."
+    },
+    {
+      "numero": 11,
+      "texto": "Jesus respondeu-lhe: “Há alguém entre vós que, tendo uma única ovelha e se esta cair num poço no dia de sábado, não a irá procurar e retirar?"
+    },
+    {
+      "numero": 12,
+      "texto": "Não vale o homem muito mais que uma ovelha? É permitido, pois, fazer o bem no dia de sábado”."
+    },
+    {
+      "numero": 13,
+      "texto": "Disse, então, àquele homem: “Estende a mão”. Ele a estendeu e ela tornou-se sã como a outra."
+    },
+    {
+      "numero": 14,
+      "texto": "Os fariseus saíram dali e deliberaram sobre os meios de o matar."
+    },
+    {
+      "numero": 15,
+      "texto": "Jesus soube disso e afastou-se daquele lugar. Uma grande multidão o seguiu, e ele curou todos os seus doentes."
+    },
+    {
+      "numero": 16,
+      "texto": "Proibia-lhes formalmente falar disso,"
+    },
+    {
+      "numero": 17,
+      "texto": "para que se cumprisse o anunciado pelo profeta Isaías:"
+    },
+    {
+      "numero": 18,
+      "texto": "Eis o meu servo a quem escolhi, meu bem-amado em quem minha alma pôs toda a sua afeição. Farei repousar sobre ele o meu Espírito e ele anunciará a justiça aos pagãos."
+    },
+    {
+      "numero": 19,
+      "texto": "Ele não disputará, não elevará sua voz; ninguém ouvirá sua voz nas praças públicas."
+    },
+    {
+      "numero": 20,
+      "texto": "Não quebrará o caniço rachado, nem apagará a mecha que ainda fumega, até que faça triunfar a justiça."
+    },
+    {
+      "numero": 21,
+      "texto": "Em seu nome as nações pagãs porão sua esperança (Is 42,1-4)."
+    },
+    {
+      "numero": 22,
+      "texto": "Apresentaram-lhe, depois, um possesso cego e mudo. Jesus o curou de tal modo, que este falava e via."
+    },
+    {
+      "numero": 23,
+      "texto": "A multidão, admirada, dizia: “Não será este o filho de Davi?”."
+    },
+    {
+      "numero": 24,
+      "texto": "Mas, ouvindo isso, os fariseus responderam: “É por Beelzebul, chefe dos demônios, que ele os expulsa”."
+    },
+    {
+      "numero": 25,
+      "texto": "Jesus, porém, penetrando nos seus pensamentos, disse: “Todo reino dividido contra si mesmo será destruído. Toda cidade, toda casa dividida contra si mesma não pode subsistir."
+    },
+    {
+      "numero": 26,
+      "texto": "Se Satanás expele Satanás, está dividido contra si mesmo. Como, pois, subsistirá o seu reino?"
+    },
+    {
+      "numero": 27,
+      "texto": "E se eu expulso os demônios por Beelzebul, por quem é que vossos filhos os expulsam? Por isso, eles mesmos serão vossos juízes."
+    },
+    {
+      "numero": 28,
+      "texto": "Mas, se é pelo Espírito de Deus que expulso os demônios, então chegou para vós o Reino de Deus."
+    },
+    {
+      "numero": 29,
+      "texto": "Como pode alguém penetrar na casa de um homem forte e roubar-lhe os bens, sem ter primeiro amarrado este homem forte? Só então pode roubar sua casa."
+    },
+    {
+      "numero": 30,
+      "texto": "Quem não está comigo está contra mim; e quem não ajunta comigo, espalha”."
+    },
+    {
+      "numero": 31,
+      "texto": "“Por isso, eu vos digo: todo pecado e toda blasfêmia serão perdoados aos homens, mas a blasfêmia contra o Espírito não lhes será perdoada.",
+      "nota": true
+    },
+    {
+      "numero": 32,
+      "texto": "Todo o que tiver falado contra o Filho do Homem será perdoado. Se, porém, falar contra o Espírito Santo, não alcançará perdão nem neste século nem no século vindouro."
+    },
+    {
+      "numero": 33,
+      "texto": "Ou dizeis que a árvore é boa e seu fruto bom, ou dizeis que é má e seu fruto, mau; porque é pelo fruto que se conhece a árvore."
+    },
+    {
+      "numero": 34,
+      "texto": "Raça de víboras, maus como sois, como podeis dizer coisas boas? Porque a boca fala do que lhe transborda do coração."
+    },
+    {
+      "numero": 35,
+      "texto": "O homem de bem tira boas coisas de seu bom tesouro. O mau, porém, tira coisas más de seu mau tesouro."
+    },
+    {
+      "numero": 36,
+      "texto": "Eu vos digo: no dia do juízo os homens prestarão contas de toda palavra vã que tiverem proferido."
+    },
+    {
+      "numero": 37,
+      "texto": "É por tuas palavras que serás justificado ou condenado”."
+    },
+    {
+      "numero": 38,
+      "texto": "Então, alguns escribas e fariseus tomaram a palavra: “Mestre, quiséramos ver-te fazer um milagre”."
+    },
+    {
+      "numero": 39,
+      "texto": "Respondeu-lhes Jesus: “Esta geração adúltera e perversa pede um sinal, mas não lhe será dado outro sinal do que aquele do profeta Jonas:"
+    },
+    {
+      "numero": 40,
+      "texto": "do mesmo modo que Jonas esteve três dias e três noites no ventre do peixe, assim o Filho do Homem ficará três dias e três noites no seio da terra."
+    },
+    {
+      "numero": 41,
+      "texto": "No dia do juízo, os ninivitas se levantarão com esta raça e a condenarão, porque fizeram penitência à voz de Jonas. Ora, aqui está quem é mais do que Jonas."
+    },
+    {
+      "numero": 42,
+      "texto": "No dia do juízo, a rainha do Sul se levantará com esta raça e a condenará, porque veio das extremidades da terra para ouvir a sabedoria de Salomão. Ora, aqui está quem é mais do que Salomão”."
+    },
+    {
+      "numero": 43,
+      "texto": "“Quando o espírito impuro sai de um homem, ei-lo errante por lugares áridos à procura de um repouso que não acha."
+    },
+    {
+      "numero": 44,
+      "texto": "Diz ele, então: Voltarei para a casa donde saí. E, voltando, encontra-a vazia, limpa e enfeitada."
+    },
+    {
+      "numero": 45,
+      "texto": "Vai, então, buscar sete outros espíritos piores que ele, e entram nessa casa e se estabelecem aí; e o último estado daquele homem torna-se pior que o primeiro. Tal será a sorte desta geração perversa”."
+    },
+    {
+      "numero": 46,
+      "texto": "Jesus falava ainda à multidão, quando veio sua mãe e seus irmãos e esperavam do lado de fora a ocasião de lhe falar."
+    },
+    {
+      "numero": 47,
+      "texto": "Disse-lhe alguém: “Tua mãe e teus irmãos estão aí fora, e querem falar-te”.",
+      "nota": true
+    },
+    {
+      "numero": 48,
+      "texto": "Jesus respondeu-lhe: “Quem é minha mãe e quem são meus irmãos?”."
+    },
+    {
+      "numero": 49,
+      "texto": "E, apontando com a mão para os seus discípulos, acrescentou: “Eis aqui minha mãe e meus irmãos."
+    },
+    {
+      "numero": 50,
+      "texto": "Todo aquele que faz a vontade de meu Pai que está nos céus, esse é meu irmão, minha irmã e minha mãe”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "12:1-8",
+      "texto": "Jesus critica a interpretação rígida da Lei sobre o sábado, ensinando que o sábado foi feito para o homem, e não o homem para o sábado. Ele revela que Sua autoridade é maior que a do templo, e que a misericórdia é mais importante que sacrifícios (veja também Marcos 2:23-28 e Lucas 6:1-5)."
+    },
+    {
+      "ref": "12:9-14",
+      "texto": "Jesus cura um homem com a mão atrofiada no sábado, demonstrando Sua compaixão e desafiando os fariseus que priorizam a Lei acima do bem-estar das pessoas. Isso revela a verdadeira intenção da Lei: o amor e a restauração (veja também Lucas 6:6-11 e João 5:5-9)."
+    },
+    {
+      "ref": "12:15-21",
+      "texto": "Jesus se retira das multidões e realiza curas, cumprindo a profecia de Isaías sobre o Servo de Deus. Ele é o escolhido que traz a justiça para as nações, enfatizando a missão de salvação para todos, incluindo os gentios (veja também Isaías 42:1-4 e João 12:47)."
+    },
+    {
+      "ref": "12:22-32",
+      "texto": "Jesus expulsa um demônio e é acusado pelos fariseus de ser possuído por Belzebu. Ele refuta essa acusação, explicando que Seu poder vem de Deus e não de Satanás. A passagem alerta para o perigo de atribuir a obra de Deus ao diabo (veja também Marcos 3:22-30 e Lucas 11:14-23)."
+    },
+    {
+      "ref": "12:38-45",
+      "texto": "Os fariseus pedem um sinal de Jesus, e Ele os repreende, dizendo que apenas o sinal de Jonas será dado a eles. Ele também fala sobre a condição espiritual das pessoas e como o mal pode retornar ainda mais forte se não houver arrependimento genuíno (veja também Lucas 11:29-32 e João 2:18-22)."
+    }
+  ]
+}

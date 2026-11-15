@@ -1,0 +1,153 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "deuteronomio",
+  "nome": "Deuteronômio",
+  "testamento": "AT",
+  "capitulo": 33,
+  "totalVersiculos": 29,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/deuteronomio/33/",
+  "capturadoEm": "2026-11-15T09:10:20-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eis a bênção que Moisés, o homem de Deus, pronunciou sobre os israelitas antes de morrer:"
+    },
+    {
+      "numero": 2,
+      "texto": "‘‘O Senhor veio do Sinai e levantou-se para eles de Seir; resplandeceu do monte Farã, e chegou de Meriba de Cades, do sul às encostas das montanhas."
+    },
+    {
+      "numero": 3,
+      "texto": "Sim, ele ama os povos. Todos os seus santos estão ao abrigo da sua mão, estão sentados a seus pés para receber as suas palavras."
+    },
+    {
+      "numero": 4,
+      "texto": "Moisés nos prescreveu uma lei – herança da assembleia de Jacó."
+    },
+    {
+      "numero": 5,
+      "texto": "Houve um rei em Jesurun, quando se reuniram os chefes do povo com as tribos de Israel.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Que Rúben viva, e não morra jamais! E não seja reduzido a um punhado de homens."
+    },
+    {
+      "numero": 7,
+      "texto": "Para Judá eis o que disse: ‘Ouvi, Senhor, a voz de Judá, guiai-o ao seu povo’. Enquanto suas mãos combatem por ele, vinde protegê-lo contra os inimigos."
+    },
+    {
+      "numero": 8,
+      "texto": "Para Levi disse: ‘Dai vossos tumim e vossos urim ao homem que vos é fiel,* a quem provastes em Massa, com quem questionastes junto às águas de Meriba’."
+    },
+    {
+      "numero": 9,
+      "texto": "Que diz de seu pai e sua mãe: ‘Não os tenho em consideração’; que não reconhece seus irmãos e ignora seus filhos. Eles observam a vossa palavra e guardam a vossa aliança;",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "ensinam vossos preceitos a Jacó e vossa lei a Israel; apresentam o incenso ao vosso olfato e o holocausto sobre o vosso altar."
+    },
+    {
+      "numero": 11,
+      "texto": "Abençoai, Senhor, sua obra e aceitai o trabalho de suas mãos. Fere as costas dos seus agressores e seus inimigos, para que não mais consigam levantar-se."
+    },
+    {
+      "numero": 12,
+      "texto": "Para Benjamim disse: ‘Querido do Senhor, habita junto dele com segurança. O Altíssimo o protege sempre; repousa entre os seus ombros’.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Para José disse: ‘Sua terra é abençoada pelo Senhor com os dons do céu e do orvalho, com os dons das fontes que brotam das profundezas,"
+    },
+    {
+      "numero": 14,
+      "texto": "com os melhores frutos do sol, os melhores frutos de cada mês,"
+    },
+    {
+      "numero": 15,
+      "texto": "as primícias dos montes antigos, o que há de melhor nas colinas eternas,"
+    },
+    {
+      "numero": 16,
+      "texto": "os frutos excelentes da terra, e tudo o que ela contém! Possa o favor daquele que habitou na sarça repousar sobre a cabeça de José, sobre a fronte do eleito entre os irmãos!"
+    },
+    {
+      "numero": 17,
+      "texto": "Glória a esse touro primogênito! São chifres de búfalo os seus chifres; com eles agride todos os povos até os confins da terra! Tais são as miríades de Efraim, tais os milhares de Manassés’."
+    },
+    {
+      "numero": 18,
+      "texto": "Para Zabulon disse: ‘Sê feliz, Zabulon, nas tuas caminhadas, e tu, Issacar, nas tuas tendas!"
+    },
+    {
+      "numero": 19,
+      "texto": "Convocarão os povos à montanha para aí oferecerem sacrifícios justos, porque sorverão as riquezas do mar e os tesouros ocultos na areia’."
+    },
+    {
+      "numero": 20,
+      "texto": "Para Gad disse: ‘Bendito seja quem dilatar Gad! Ele se agacha como uma leoa, e despedaça braço e cabeça;"
+    },
+    {
+      "numero": 21,
+      "texto": "escolheu para si as primícias da terra, porque ali estava a porção do chefe. Avança à frente do povo, cumprindo a justiça do Senhor e os seus juízos com Israel’."
+    },
+    {
+      "numero": 22,
+      "texto": "Para Dã disse: ‘Dã é um leãozinho, que salta de Basã’."
+    },
+    {
+      "numero": 23,
+      "texto": "Para Neftali disse: ‘Neftali, saciado de delícias, cumulado das bênçãos do Senhor, toma possessão do mar e do sul’.",
+      "nota": true
+    },
+    {
+      "numero": 24,
+      "texto": "Para Aser disse: ‘Bendito seja Aser entre todos os filhos! Seja o favorito de seus irmãos e mergulhe os pés no óleo.",
+      "nota": true
+    },
+    {
+      "numero": 25,
+      "texto": "Teus ferrolhos serão de ferro e bronze, e tua segurança durará toda a tua existência."
+    },
+    {
+      "numero": 26,
+      "texto": "Ninguém como o Deus de Jesurun,"
+    },
+    {
+      "numero": 27,
+      "texto": "o Deus dos tempos antigos que é o teu refúgio e teu apoio os seus braços eternos, que, para te socorrer, cavalga o céu e as nuvens majestosamente. Expulsa o inimigo de diante de ti e te diz: Extermina!",
+      "nota": true
+    },
+    {
+      "numero": 28,
+      "texto": "Israel habita em segurança, a fonte de Jacó corre, na solidão, numa terra de trigo e de vinho, o céu destila-lhe o orvalho."
+    },
+    {
+      "numero": 29,
+      "texto": "Tu és feliz, ó Israel! Quem é, como tu, povo salvo pelo Senhor, escudo que te protege, espada que te engrandece? Teus inimigos virão adular-te, mas tu pisarás por cima deles’.”"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "33:1",
+      "texto": "A bênção de Moisés a Israel destaca a importância da liderança espiritual e da transmissão da herança divina. Moisés, como profeta, abençoa cada tribo, enfatizando a individualidade e o valor de cada grupo no plano de Deus (veja também Números 6:23-27 e Hebreus 11:24-26)."
+    },
+    {
+      "ref": "33:2-5",
+      "texto": "A descrição da presença de Deus no Sinai e Sua majestade revela a santidade do Senhor. A lembrança do passado reforça a confiança em Sua proteção e guia para o futuro, destacando a necessidade de reverência diante de Deus (veja também Salmo 68:17-18 e Apocalipse 4:8)."
+    },
+    {
+      "ref": "33:6-25",
+      "texto": "As bênçãos específicas para cada tribo ilustram a diversidade no corpo de Israel e o plano de Deus para cada um. Isso ressalta que todos têm um papel a desempenhar no Reino de Deus, independentemente de sua posição ou tribo (veja também 1 Coríntios 12:12-27 e Romanos 12:4-8)."
+    },
+    {
+      "ref": "33:26-29",
+      "texto": "A ênfase na grandeza de Deus em contraste com as nações ao redor reforça a identidade de Israel como povo escolhido. A segurança e a bênção que vêm de Deus são motivos de alegria e esperança, chamando o povo a confiar na providência divina (veja também Salmo 33:12 e 1 Pedro 2:9)."
+    }
+  ]
+}

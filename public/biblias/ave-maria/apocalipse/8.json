@@ -1,0 +1,90 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "apocalipse",
+  "nome": "Apocalipse",
+  "testamento": "NT",
+  "capitulo": 8,
+  "totalVersiculos": 13,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/apocalipse/8/",
+  "capturadoEm": "2026-11-15T09:29:47-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Quando, enfim, abriu o sétimo selo, fez-se silêncio no céu durante cerca de meia hora."
+    },
+    {
+      "numero": 2,
+      "texto": "Eu vi os sete Anjos que assistem diante de Deus. Foram-lhes dadas sete trombetas."
+    },
+    {
+      "numero": 3,
+      "texto": "Adiantou-se outro anjo e pôs-se junto ao altar, com um turíbulo de ouro na mão. Foram-lhe dados muitos perfumes, para que os oferecesse com as orações de todos os santos no altar de ouro, que está adiante do trono.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "A fumaça dos perfumes subiu da mão do anjo com as orações dos santos, diante de Deus."
+    },
+    {
+      "numero": 5,
+      "texto": "Depois disso, o anjo tomou o turíbulo, encheu-o de brasas do altar e lançou-o por terra; e houve trovões, vozes, relâmpagos e terremotos."
+    },
+    {
+      "numero": 6,
+      "texto": "Então os sete Anjos, que tinham as trombetas, prepararam-se para tocar."
+    },
+    {
+      "numero": 7,
+      "texto": "O primeiro anjo tocou. Saraiva e fogo, misturados com sangue, foram lançados à terra; e queimou-se uma terça parte da terra, uma terça parte das árvores e toda erva verde."
+    },
+    {
+      "numero": 8,
+      "texto": "O segundo anjo tocou. Caiu então no mar como que grande montanha, ardendo em fogo, e transformou-se em sangue uma terça parte do mar,"
+    },
+    {
+      "numero": 9,
+      "texto": "morreu uma terça parte das criaturas que estavam no mar e pereceu uma terça parte dos navios."
+    },
+    {
+      "numero": 10,
+      "texto": "O terceiro anjo tocou a trombeta. Caiu então do céu uma grande estrela a arder como um facho; caiu sobre a terça parte dos rios e sobre as fontes."
+    },
+    {
+      "numero": 11,
+      "texto": "O nome da estrela era “Absinto”. Assim, uma terça parte das águas transformou-se em absinto e muitos homens morreram por ter bebido dessas águas envenenadas."
+    },
+    {
+      "numero": 12,
+      "texto": "O quarto anjo tocou. Foi atingida então uma terça parte do sol, da lua e das estrelas, de modo que se obscureceram em um terço; e o dia perdeu um terço da claridade, bem como a noite.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "A esta altura de minha visão, eu ouvi uma águia que voava pelo meio dos céus, clamando em alta voz: “Ai, ai, ai dos habitantes da terra, por causa dos restantes sons das trombetas dos três Anjos que ainda vão tocar”.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "8:1-5",
+      "texto": "O sétimo selo é aberto, e há silêncio no céu por meia hora. Este silêncio simboliza a expectativa antes do juízo final, um momento de reverência diante da grandeza de Deus (veja também Habacuque 2:20 e Zacarias 2:13)."
+    },
+    {
+      "ref": "8:6-7",
+      "texto": "O anjo oferece o incenso com as orações dos santos diante de Deus. Este momento simboliza a intercessão dos fiéis e a ascensão de suas orações a Deus, que são ouvidas e respondidas (veja também Apocalipse 5:8 e Salmos 141:2)."
+    },
+    {
+      "ref": "8:8-9",
+      "texto": "O segundo anjo soa sua trombeta, e uma grande montanha é lançada no mar, simbolizando o julgamento de Deus sobre as nações. O mar, frequentemente símbolo do caos, recebe o julgamento divino (veja também Jeremias 51:25 e Isaías 13:19)."
+    },
+    {
+      "ref": "8:10-11",
+      "texto": "O terceiro anjo soa sua trombeta, e uma grande estrela chamada absinto cai sobre as águas. Isso simboliza o impacto do pecado e da corrupção sobre a terra e as nações, com consequências devastadoras (veja também Ezequiel 14:19-21 e Apocalipse 9:1-2)."
+    },
+    {
+      "ref": "8:12-13",
+      "texto": "O quarto anjo soa sua trombeta, e o sol, a lua e as estrelas são atingidos, simbolizando a desordem cósmica que acompanha os juízos de Deus. Essa destruição parcial reflete a grande aflição que virá antes da restauração final (veja também Joel 2:10-11 e Mateus 24:29)."
+    }
+  ]
+}

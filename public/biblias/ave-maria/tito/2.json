@@ -1,0 +1,95 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "tito",
+  "nome": "Tito",
+  "testamento": "NT",
+  "capitulo": 2,
+  "totalVersiculos": 15,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/tito/2/",
+  "capturadoEm": "2026-11-15T09:29:02-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O teu ensinamento, porém, seja conforme à sã doutrina."
+    },
+    {
+      "numero": 2,
+      "texto": "Os mais velhos sejam sóbrios, graves, prudentes, fortes na fé, na caridade, na paciência."
+    },
+    {
+      "numero": 3,
+      "texto": "Assim também as mulheres de mais idade mostrem no seu exterior uma compostura santa, não sejam maldizentes nem intemperantes, mas mestras de bons conselhos."
+    },
+    {
+      "numero": 4,
+      "texto": "Que saibam ensinar as jovens a amarem seus maridos, a quererem bem seus filhos,"
+    },
+    {
+      "numero": 5,
+      "texto": "a serem prudentes, castas, cuidadosas da casa, bondosas, submissas a seus maridos, para que a Palavra de Deus não seja desacreditada."
+    },
+    {
+      "numero": 6,
+      "texto": "Exorta igualmente os moços a serem morigerados,"
+    },
+    {
+      "numero": 7,
+      "texto": "e mostra-te em tudo modelo de bom comportamento: pela integridade na doutrina, gravidade,"
+    },
+    {
+      "numero": 8,
+      "texto": "linguagem sã e irrepreensível, para que o adversário seja confundido, não tendo a dizer de nós mal algum."
+    },
+    {
+      "numero": 9,
+      "texto": "Exorta os servos a que sejam submissos a seus senhores e atentos em agradar-lhes. Em lugar de reclamar deles"
+    },
+    {
+      "numero": 10,
+      "texto": "e defraudá-los, procurem em tudo testemunhar-lhes incondicional fidelidade, para que por todos seja respeitada a doutrina de Deus, nosso Salvador."
+    },
+    {
+      "numero": 11,
+      "texto": "Manifestou-se, com efeito, a graça de Deus, fonte de salvação para todos os homens."
+    },
+    {
+      "numero": 12,
+      "texto": "Veio para nos ensinar a renunciar à impiedade e às paixões mundanas e a viver neste mundo com toda sobriedade, justiça e piedade,"
+    },
+    {
+      "numero": 13,
+      "texto": "na expectativa da nossa esperança feliz, a aparição gloriosa de nosso grande Deus e Salvador, Jesus Cristo,"
+    },
+    {
+      "numero": 14,
+      "texto": "que se entregou por nós, a fim de nos resgatar de toda a iniquidade, nos purificar e nos constituir seu povo de predileção, zeloso na prática do bem."
+    },
+    {
+      "numero": 15,
+      "texto": "Eis o que deves ensinar, pregar e defender com toda a autoridade. E que ninguém te menospreze!"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "2:1-2",
+      "texto": "Paulo exorta Tito a ensinar o que é conforme à sã doutrina, especialmente para os mais velhos. A sabedoria e maturidade dos líderes devem servir de exemplo para as gerações mais jovens (veja também 1 Timóteo 5:1-2 e 1 Pedro 5:5)."
+    },
+    {
+      "ref": "2:3-5",
+      "texto": "As mulheres mais velhas devem ensinar as mais jovens a viverem com dignidade, sabedoria e respeito. Este ensino é uma maneira de preservar a ordem e moralidade dentro da Igreja (veja também Efésios 5:22-33 e 1 Pedro 3:1-6)."
+    },
+    {
+      "ref": "2:6-8",
+      "texto": "Os jovens são chamados a se comportar com pureza e respeito. O bom exemplo de conduta cristã torna o evangelho mais atraente e digno de ser seguido pelos outros (veja também 1 Timóteo 4:12 e Filipenses 2:15)."
+    },
+    {
+      "ref": "2:9-10",
+      "texto": "Os servos são instruídos a se submeterem aos seus mestres, trabalhando com boa vontade e reverência. Essa atitude reflete a verdadeira liberdade cristã, que não é para a desordem, mas para boas obras (veja também Efésios 6:5-9 e 1 Pedro 2:18-21)."
+    },
+    {
+      "ref": "2:11-14",
+      "texto": "A graça de Deus, que trouxe salvação a todos os homens, nos ensina a viver de maneira justa e piedosa, aguardando a bendita esperança. A salvação em Cristo exige uma vida transformada pela graça divina (veja também Efésios 2:8-10 e Romanos 6:1-14)."
+    }
+  ]
+}

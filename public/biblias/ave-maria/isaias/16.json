@@ -1,0 +1,93 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 16,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/16/",
+  "capturadoEm": "2026-11-15T09:21:29-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Enviai o cordeiro ao soberano deste país de Selá, pelo deserto, ao monte de Sião.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Como aves espantadas, como ninhada dispersa, tais serão as filhas de Moab na passagem do Arnon."
+    },
+    {
+      "numero": 3,
+      "texto": "“Dá teu aviso, intervém como árbitro, cobre-nos com tua sombra como a noite, em pleno meio-dia; esconde os exilados, não traias os fugitivos."
+    },
+    {
+      "numero": 4,
+      "texto": "Deixa morar em tua casa os exilados de Moab, sê o seu refúgio contra o devastador, até que o opressor desapareça, a devastação tenha fim, e o invasor deixe a terra."
+    },
+    {
+      "numero": 5,
+      "texto": "O trono se consolidará pela bondade; nele sentará constantemente, na casa de Davi, um juiz amante do direito e zeloso da justiça.”"
+    },
+    {
+      "numero": 6,
+      "texto": "“Nós conhecemos o orgulho de Moab, o soberbo, sua arrogância, sua altivez, sua insolência e a perfídia de sua língua.”",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "Por isso, Moab geme sobre Moab e todos se lamentam. Pelos bolos de uvas de Quir-Hareset, eles suspiram consternados;"
+    },
+    {
+      "numero": 8,
+      "texto": "porque o campo de Hesebon está seco e os soberanos das nações saquearam a vinha de Sabama, cujos sarmentos atingiram Jazer e se perdiam no deserto, cujos rebentos se prolongavam e atravessavam o mar."
+    },
+    {
+      "numero": 9,
+      "texto": "Por isso, eu choro com Jazer sobre a vinha de Sabama; banho-vos com minhas lágrimas, Hesebon e Elale; porque sobre vossa colheita e vossa messe retumbou o grito do pisoeiro."
+    },
+    {
+      "numero": 10,
+      "texto": "A alegria e a animação desapareceram dos pomares, nas vinhas não há mais cantos nem vozes alegres; já não se pisa a vindima nas cubas, e o grito do pisoeiro cessou."
+    },
+    {
+      "numero": 11,
+      "texto": "Por isso, estremeço sobre Moab como uma harpa, e meu coração geme sobre Quir-Hares;"
+    },
+    {
+      "numero": 12,
+      "texto": "por mais que Moab se agite nos lugares altos, por mais que visite seus santuários para orar, nada obterá."
+    },
+    {
+      "numero": 13,
+      "texto": "Esse é o oráculo que o Senhor pronunciou outrora contra Moab."
+    },
+    {
+      "numero": 14,
+      "texto": "E agora, ele declara: “Dentro de três anos, contados como os anos de um assalariado, a soberania de Moab, tão considerável, será insignificante, e dela não restará senão um débil vestígio”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "16:1-2",
+      "texto": "Moabe é exortado a enviar tributo a Jerusalém, buscando abrigo em Judá. Isso simboliza a busca por misericórdia e a necessidade de submissão ao povo de Deus em tempos de aflição (veja também 1 Reis 4:21 e Isaías 2:2-3)."
+    },
+    {
+      "ref": "16:4-5",
+      "texto": "Isaías profetiza que um governante justo surgirá, prometendo refúgio e segurança. Esse governante é muitas vezes visto como uma referência messiânica, apontando para o reino justo de Cristo (veja também Jeremias 23:5-6 e Isaías 9:6-7)."
+    },
+    {
+      "ref": "16:6-7",
+      "texto": "Isaías lamenta a arrogância de Moabe, que leva à sua destruição. A autossuficiência e o orgulho são causas de queda, alertando contra o afastamento de Deus (veja também Provérbios 16:18 e Isaías 13:11)."
+    },
+    {
+      "ref": "16:8-10",
+      "texto": "As vinhas de Moabe são destruídas, símbolo de sua prosperidade perdida. Essa imagem reforça a desolação que o juízo traz, inclusive em aspectos econômicos e culturais (veja também Joel 1:11-12 e Jeremias 48:32-33)."
+    },
+    {
+      "ref": "16:12-14",
+      "texto": "A oração de Moabe a seus deuses não evita sua destruição. A ineficácia de seus ídolos destaca a futilidade de confiar em falsas divindades e a supremacia de Deus (veja também Salmo 115:4-8 e Isaías 44:9-10)."
+    }
+  ]
+}

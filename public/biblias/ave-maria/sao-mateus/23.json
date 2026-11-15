@@ -1,0 +1,195 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sao-mateus",
+  "nome": "São Mateus",
+  "testamento": "NT",
+  "capitulo": 23,
+  "totalVersiculos": 39,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sao-mateus/23/",
+  "capturadoEm": "2026-11-15T09:26:00-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Dirigindo-se, então, Jesus à multidão e aos seus discípulos, disse:"
+    },
+    {
+      "numero": 2,
+      "texto": "“Os escribas e os fariseus sentaram-se na cadeira de Moisés."
+    },
+    {
+      "numero": 3,
+      "texto": "Observai e fazei tudo o que eles dizem, mas não façais como eles, pois dizem e não fazem."
+    },
+    {
+      "numero": 4,
+      "texto": "Atam fardos pesados e esmagadores e com eles sobrecarregam os ombros dos homens, mas não querem movê-los sequer com o dedo."
+    },
+    {
+      "numero": 5,
+      "texto": "Fazem todas as suas ações para serem vistos pelos homens, por isso trazem largas faixas e longas franjas nos seus mantos."
+    },
+    {
+      "numero": 6,
+      "texto": "Gostam dos primeiros lugares nos banquetes e das primeiras cadeiras nas sinagogas."
+    },
+    {
+      "numero": 7,
+      "texto": "Gostam de ser saudados nas praças públicas e de ser chamados rabi pelos homens."
+    },
+    {
+      "numero": 8,
+      "texto": "Mas vós não vos façais chamar rabi, porque um só é o vosso preceptor, e vós sois todos irmãos."
+    },
+    {
+      "numero": 9,
+      "texto": "E a ninguém chameis de pai sobre a terra, porque um só é vosso Pai, aquele que está nos céus."
+    },
+    {
+      "numero": 10,
+      "texto": "Nem vos façais chamar de mestres, porque só tendes um Mestre, o Cristo."
+    },
+    {
+      "numero": 11,
+      "texto": "O maior dentre vós será vosso servo."
+    },
+    {
+      "numero": 12,
+      "texto": "Aquele que se exaltar será humilhado, e aquele que se humilhar será exaltado."
+    },
+    {
+      "numero": 13,
+      "texto": "Ai de vós, escribas e fariseus hipócritas! Vós fechais aos homens o Reino dos Céus. Vós mesmos não entrais e nem deixais que entrem os que querem entrar."
+    },
+    {
+      "numero": 14,
+      "texto": "[Ai de vós, escribas e fariseus hipócritas! Devorais as casas das viúvas, fingindo fazer longas orações. Por isso, sereis castigados com muito maior rigor.]",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Ai de vós, escribas e fariseus hipócritas! Percorreis mares e terras para fazer um prosélito e, quando o conseguis, fazeis dele um filho do inferno duas vezes pior que vós mesmos.",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "Ai de vós, guias cegos! Vós dizeis: Se alguém jura pelo templo, isto não é nada; mas, se jura pelo tesouro do templo, é obrigado pelo seu juramento."
+    },
+    {
+      "numero": 17,
+      "texto": "Insensatos, cegos! Qual é o maior: o ouro ou o templo que santifica o ouro?"
+    },
+    {
+      "numero": 18,
+      "texto": "E dizeis ainda: Se alguém jura pelo altar, não é nada; mas, se jura pela oferta que está sobre ele, é obrigado."
+    },
+    {
+      "numero": 19,
+      "texto": "Cegos! Qual é o maior: a oferta ou o altar que santifica a oferta?"
+    },
+    {
+      "numero": 20,
+      "texto": "Aquele que jura pelo altar jura ao mesmo tempo por tudo o que está sobre ele."
+    },
+    {
+      "numero": 21,
+      "texto": "Aquele que jura pelo templo, jura ao mesmo tempo por aquele que nele habita."
+    },
+    {
+      "numero": 22,
+      "texto": "E aquele que jura pelo céu, jura ao mesmo tempo pelo trono de Deus e por aquele que nele está sentado."
+    },
+    {
+      "numero": 23,
+      "texto": "“Ai de vós, escribas e fariseus hipócritas! Pagais o dízimo da hortelã, do endro e do cominho e desprezais os preceitos mais importantes da Lei: a justiça, a misericórdia, a fidelidade. Eis o que era preciso praticar em primeiro lugar sem, contudo, deixar o restante."
+    },
+    {
+      "numero": 24,
+      "texto": "Guias cegos! Filtrais um mosquito e engolis um camelo."
+    },
+    {
+      "numero": 25,
+      "texto": "Ai de vós, escribas e fariseus hipócritas! Limpais por fora o copo e o prato e por dentro estais cheios de roubo e de intemperança."
+    },
+    {
+      "numero": 26,
+      "texto": "Fariseu cego! Limpa primeiro o interior do copo e do prato, para que também o que está fora fique limpo."
+    },
+    {
+      "numero": 27,
+      "texto": "Ai de vós, escribas e fariseus hipócritas! Sois semelhantes aos sepulcros caiados: por fora parecem formosos, mas por dentro estão cheios de ossos, de cadáveres e de toda espécie de podridão.",
+      "nota": true
+    },
+    {
+      "numero": 28,
+      "texto": "Assim também vós: por fora pareceis justos aos olhos dos homens, mas por dentro estais cheios de hipocrisia e de iniquidade."
+    },
+    {
+      "numero": 29,
+      "texto": "Ai de vós, escribas e fariseus hipócritas! Edificais sepulcros aos profetas, adornais os monumentos dos justos"
+    },
+    {
+      "numero": 30,
+      "texto": "e dizeis: Se tivéssemos vivido no tempo de nossos pais, não teríamos manchado nossas mãos como eles no sangue dos profetas..."
+    },
+    {
+      "numero": 31,
+      "texto": "Testemunhais assim contra vós mesmos que sois de fato os filhos dos assassinos dos profetas."
+    },
+    {
+      "numero": 32,
+      "texto": "Acabai, pois, de encher a medida de vossos pais!",
+      "nota": true
+    },
+    {
+      "numero": 33,
+      "texto": "Serpentes! Raça de víboras! Como escapareis ao castigo do inferno?"
+    },
+    {
+      "numero": 34,
+      "texto": "Vede, eu vos envio profetas, sábios, doutores. Matareis e crucificareis uns e açoitareis outros nas vossas sinagogas. Eu os perseguireis de cidade em cidade,"
+    },
+    {
+      "numero": 35,
+      "texto": "para que caia sobre vós todos o sangue inocente derramado sobre a terra, desde o sangue de Abel, o justo, até o sangue de Zacarias, filho de Baraquias, a quem matastes entre o templo e o altar."
+    },
+    {
+      "numero": 36,
+      "texto": "Em verdade vos digo: todos esses crimes pesam sobre esta raça."
+    },
+    {
+      "numero": 37,
+      "texto": "Jerusalém, Jerusalém, que matas os profetas e apedrejas aqueles que te são enviados! Quantas vezes eu quis reunir teus filhos, como a galinha reúne seus pintinhos debaixo de suas asas... e tu não quiseste!"
+    },
+    {
+      "numero": 38,
+      "texto": "Pois bem, a vossa casa vos é deixada deserta."
+    },
+    {
+      "numero": 39,
+      "texto": "Porque eu vos digo: já não me vereis de hoje em diante, até que digais: Bendito seja aquele que vem em nome do Senhor.”"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "23:1-12",
+      "texto": "Jesus adverte contra a hipocrisia dos fariseus e mestres da lei, que preferem os lugares de honra e as aparências externas à verdadeira justiça e humildade. Ele ensina que a grandeza no Reino de Deus é medida pelo serviço humilde aos outros (veja também Lucas 11:37-44 e Filipenses 2:3-4)."
+    },
+    {
+      "ref": "23:13-15",
+      "texto": "Jesus condena os fariseus por fecharem o Reino de Deus diante das pessoas e por tornarem os outros mais indignos de salvação, evidenciando a falsidade de suas práticas religiosas (veja também Lucas 11:52 e Mateus 7:13-14)."
+    },
+    {
+      "ref": "23:16-24",
+      "texto": "A condenação aos guias cegos, que colocam o foco nas riquezas e nas ofertas externas em vez de na justiça, misericórdia e fé, mostra como as prioridades erradas podem distorcer a verdadeira adoração e o propósito de Deus para os Seus seguidores (veja também Marcos 12:41-44 e 1 Samuel 16:7)."
+    },
+    {
+      "ref": "23:25-28",
+      "texto": "Jesus acusa os fariseus de serem como sepulcros caiados, aparentando pureza externa, mas estando corrompidos por dentro. Ele enfatiza a importância da pureza do coração e da integridade em todas as áreas da vida (veja também Lucas 11:39-41 e 1 Samuel 16:7)."
+    },
+    {
+      "ref": "23:29-39",
+      "texto": "Jesus lamenta sobre Jerusalém, condenando sua rejeição dos profetas e a iminente destruição da cidade. Ele profetiza a vinda do Reino de Deus de forma definitiva, destacando o arrependimento como a chave para a salvação (veja também Lucas 13:34-35 e Lucas 19:41-44)."
+    }
+  ]
+}

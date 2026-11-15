@@ -1,0 +1,96 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "miqueias",
+  "nome": "Miquéias",
+  "testamento": "AT",
+  "capitulo": 2,
+  "totalVersiculos": 13,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/miqueias/2/",
+  "capturadoEm": "2026-11-15T09:25:02-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ai dos maquinadores de iniquidade, dos que tramam o mal nos seus leitos, e o executam logo ao amanhecer do dia, porque têm o poder na mão!"
+    },
+    {
+      "numero": 2,
+      "texto": "Cobiçam as terras e apoderam-se delas, cobiçam as casas e roubam-nas; fazem violência ao homem e à sua família, ao dono e à sua herança."
+    },
+    {
+      "numero": 3,
+      "texto": "Por isso, eis o que diz o Senhor: medito um mal contra essa raça, do qual não livrareis o vosso pescoço. Não andareis mais com a cabeça erguida, porque será um tempo de calamidades;",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "naquele dia irão compor canções a vosso respeito, e será cantada uma elegia: Estamos perdidos, se dirá; fizeram passar a outros parte de meu povo. Como a arrebataram de mim? Nossas terras foram divididas entre os rebeldes.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Por isso, não haverá ninguém que estenda o cordel para ti sobre uma parte na assembleia do Senhor.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "“Não profetizeis” – dizem eles –, “não se profetize mais assim; isso não afastará o opróbrio.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "Ó tu, a quem chamam casa de Jacó, acaso está o Senhor pronto a irritar-se? Será essa sua maneira de agir?” Não são minhas palavras cheias de bondade para com quem anda na retidão?"
+    },
+    {
+      "numero": 8,
+      "texto": "Mas vós assistis contra o meu povo o inimigo, arrancais o manto de sobre a veste. Aqueles que seguem o seu caminho, vós os tratais como inimigos.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Expulsais as mulheres de meu povo dos seus estimados lares; tirais para sempre de seus filhos a honra que lhes dei.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "De pé! Parti! Porque esta terra não é um lugar de descanso. Por causa de vossa imundície, um cruel tormento vos será infligido.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Se houvesse um homem que atirasse palavras ao vento e espalhasse mentiras: “Vou falar-vos de vinho e de cerveja!”. Tal é o profeta que convém ao meu povo.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Reunirei Jacó todo, recolherei o resto de Israel. Porei tudo junto como ovelhas no aprisco, como um rebanho no seu redil: será uma ruidosa multidão de homens."
+    },
+    {
+      "numero": 13,
+      "texto": "Irá à sua frente aquele que fez a brecha, eles se lançarão para passar pela porta e sairão. Seu rei passará diante deles, e o Senhor irá à sua frente.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "2:1-2",
+      "texto": "Miquéias condena aqueles que praticam a injustiça, roubando a terra dos outros e oprimindo os fracos. A condenação de Deus sobre a injustiça social é um tema central, refletindo Sua justiça em relação à exploração dos pobres e vulneráveis (veja também Provérbios 14:31 e Isaías 10:1-2)."
+    },
+    {
+      "ref": "2:3-5",
+      "texto": "O julgamento de Deus virá sobre aqueles que praticam a opressão. As palavras de Miquéias revelam que a injustiça resultará na perda das heranças e da segurança dos ímpios, indicando que Deus não tolera a exploração (veja também Jeremias 5:28 e Zacarias 7:10)."
+    },
+    {
+      "ref": "2:6-7",
+      "texto": "O povo de Israel reage mal à mensagem de Miquéias, rejeitando a ideia de que o julgamento de Deus viria sobre eles. A rejeição da Palavra de Deus é um reflexo da dureza de coração e do orgulho do povo (veja também Isaías 30:9-11 e Amós 2:12)."
+    },
+    {
+      "ref": "2:8-11",
+      "texto": "A opressão e o egoísmo dos líderes são denunciados, pois eles destroem o povo e enganam a confiança dos justos. A imagem do \"remanescente\" começa a aparecer como a esperança de restauração, mostrando que Deus ainda terá misericórdia de um pequeno grupo fiel (veja também Isaías 1:23 e Jeremias 23:1-4)."
+    },
+    {
+      "ref": "2:12-13",
+      "texto": "Miquéias conclui com uma promessa de restauração, onde Deus reunirá novamente o Seu povo, simbolizando o remanescente fiel que será salvo. A promessa de salvação e restauração é um sinal da misericórdia de Deus (veja também Ezequiel 37:21-28 e Romanos 11:5-6)."
+    }
+  ]
+}

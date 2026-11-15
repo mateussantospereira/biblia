@@ -1,0 +1,94 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "naum",
+  "nome": "Naum",
+  "testamento": "AT",
+  "capitulo": 2,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/naum/2/",
+  "capturadoEm": "2026-11-15T09:25:09-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eis que vem sobre as montanhas um mensageiro de boa-nova, alguém que anuncia a felicidade. Celebra as tuas festas, ó Judá, cumpre teus votos! Porque o ímpio não passará mais por tua terra; está completamente aniquilado."
+    },
+    {
+      "numero": 2,
+      "texto": "Um destruidor avança contra ti: guarda a fortaleza, vigia o caminho, fortifica os teus rins, reúne todo o teu vigor,"
+    },
+    {
+      "numero": 3,
+      "texto": "porque o Senhor restaura o esplendor de Jacó, assim como o esplendor de Israel, depois que os saqueadores despojaram e destruíram seus sarmentos.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Os combatentes trazem escudo vermelho, os guerreiros estão vestidos de púrpura, os carros de aço cintilantes avançam no dia em que são postos em linha; e são brandidas as lanças."
+    },
+    {
+      "numero": 5,
+      "texto": "Os carros se precipitam pelas ruas, saltando através das praças. Ao vê-los, se diria serem tochas ardentes; correm como relâmpagos."
+    },
+    {
+      "numero": 6,
+      "texto": "Ele se lembra de seus guerreiros valentes, mas estes tropeçam em sua marcha. Precipitam-se para a muralha e preparam o teto protetor.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "As portas dos rios são abertas, o palácio cai arruinado."
+    },
+    {
+      "numero": 8,
+      "texto": "Ela é desnudada e deportada; suas servas gemem como pombas e batem no peito."
+    },
+    {
+      "numero": 9,
+      "texto": "Nínive é semelhante a um tanque desde a sua origem. Eles fogem. “Parai! Parai!” Mas ninguém volta para trás."
+    },
+    {
+      "numero": 10,
+      "texto": "Saqueai a prata, saqueai o ouro, porque há inumeráveis tesouros e montes de objetos preciosos."
+    },
+    {
+      "numero": 11,
+      "texto": "Roubo, pilhagem, devastação! O coração desfalece; os joelhos tremem, a dor oprime todos os rins, todos os rostos estão lívidos."
+    },
+    {
+      "numero": 12,
+      "texto": "Onde está agora o retiro dos leões, o pasto dos leõezinhos, onde se recolhiam o leão, a leoa e os leõezinhos, sem haver quem os inquietasse?",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "O leão despedaçava para os seus pequenos, e estrangulava para as suas leoas; enchia de presas os seus antros, e de despojos as suas cavernas."
+    },
+    {
+      "numero": 14,
+      "texto": "Eis que venho agora contra ti – oráculo do Senhor dos exércitos –; vou incendiar teus carros e reduzi-los à fumaça, a espada vai devorar os teus leõezinhos; porei fim às tuas rapinas na terra, não se ouvirá mais a voz dos teus mensageiros."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "2:1-2",
+      "texto": "Naum descreve a destruição iminente de Nínive, com a promessa de que os inimigos de Israel serão derrotados. A cidade que uma vez foi uma força dominante será invadida e saqueada, cumprindo a justiça de Deus (veja também Jeremias 50:29 e Apocalipse 18:8-10)."
+    },
+    {
+      "ref": "2:3-5",
+      "texto": "A destruição de Nínive é detalhada, com a descrição de suas forças militares sendo derrotadas. A queda de um império poderoso é um lembrete de que nenhum poder humano pode resistir à vontade de Deus (veja também Isaías 37:36-38 e Apocalipse 17:14)."
+    },
+    {
+      "ref": "2:6-10",
+      "texto": "A cidade de Nínive será invadida, e seus habitantes serão tomados de pânico e desespero. O saque e a destruição são detalhes da punição de Deus contra aqueles que praticaram maldades. O versículo enfatiza a implacabilidade da justiça divina (veja também Amós 5:24 e Mateus 7:13-14)."
+    },
+    {
+      "ref": "2:11-13",
+      "texto": "O fim de Nínive é retratado de forma vívida, mostrando o colapso completo da cidade. O profeta descreve Nínive como uma fera que foi caçada, uma metáfora que mostra a iminente destruição de uma cidade ímpia (veja também Jeremias 50:42 e Apocalipse 18:21-24)."
+    },
+    {
+      "ref": "2:14-15",
+      "texto": "Naum conclui o capítulo com uma declaração sobre o destino de Nínive, com seus deuses sendo inúteis diante da destruição. A incapacidade das divindades pagãs de salvar a cidade destaca a futilidade da idolatria (veja também Isaías 46:5-7 e 1 Coríntios 8:4-6)."
+    }
+  ]
+}

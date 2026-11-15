@@ -1,0 +1,109 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 39,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/39/",
+  "capturadoEm": "2026-11-15T09:16:41-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. Salmo de Davi.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Esperei no Senhor com toda a confiança. Ele se inclinou para mim, ouviu meus brados."
+    },
+    {
+      "numero": 3,
+      "texto": "Tirou-me de uma fossa mortal, de um charco de lodo; assentou-me os pés numa rocha, firmou os meus passos;"
+    },
+    {
+      "numero": 4,
+      "texto": "pôs-me nos lábios um novo cântico, um hino à glória de nosso Deus. Muitos verão essas coisas e prestarão homenagem a Deus, e confiarão no Senhor."
+    },
+    {
+      "numero": 5,
+      "texto": "Feliz o homem que pôs sua esperança no Senhor, e não segue os idólatras nem os apóstatas."
+    },
+    {
+      "numero": 6,
+      "texto": "Senhor, meu Deus, são maravilhosas as vossas inumeráveis obras e ninguém vos assemelha nos desígnios para conosco. Eu quisera anunciá-los e divulgá-los, mas são mais do que se pode contar."
+    },
+    {
+      "numero": 7,
+      "texto": "Não vos comprazeis em nenhum sacrifício, em nenhuma oferenda, mas me abristes os ouvidos: não desejais holocausto nem vítima de expiação.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Então, eu disse: “Eis que eu venho. No rolo do livro está escrito de mim:"
+    },
+    {
+      "numero": 9,
+      "texto": "fazer vossa vontade, meu Deus, é o que me agrada, porque vossa Lei está no íntimo de meu coração”."
+    },
+    {
+      "numero": 10,
+      "texto": "Anunciei a justiça na grande assembleia, não cerrei os meus lábios, Senhor, bem o sabeis."
+    },
+    {
+      "numero": 11,
+      "texto": "Não escondi vossa justiça no coração, mas proclamei alto vossa fidelidade e vossa salvação. Não ocultei a vossa bondade nem a vossa fidelidade à grande assembleia."
+    },
+    {
+      "numero": 12,
+      "texto": "E vós, Senhor, não me recuseis vossas misericórdias; protejam-me sempre vossa graça e vossa fidelidade,"
+    },
+    {
+      "numero": 13,
+      "texto": "porque males sem conta me cercaram. Minhas faltas me pesaram, a ponto de não aguentar vê-las; mais numerosas que os cabelos de minha cabeça. Sinto-me desfalecer."
+    },
+    {
+      "numero": 14,
+      "texto": "Comprazei-vos, Senhor, em me livrar. Depressa, Senhor, vinde em meu auxílio."
+    },
+    {
+      "numero": 15,
+      "texto": "Sejam confundidos e humilhados os que procuram arrebatar-me a vida. Recuem e corem de vergonha os que se comprazem com meus males."
+    },
+    {
+      "numero": 16,
+      "texto": "Fiquem atônitos, cheios de confusão, os que me dizem: “Bem feito! Bem feito”!."
+    },
+    {
+      "numero": 17,
+      "texto": "Ao contrário, exultem e se alegrem em vós todos os que vos procuram; digam sem cessar aqueles que desejam vosso auxílio: “Glória ao Senhor”."
+    },
+    {
+      "numero": 18,
+      "texto": "Quanto a mim, sou pobre e desvalido, mas o Senhor vela por mim. Sois meu protetor e libertador: ó meu Deus, não tardeis."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "39:1-3",
+      "texto": "O salmista reflete sobre o uso de suas palavras, destacando a importância da disciplina da língua. Essa atenção ao falar é uma prática de sabedoria que pode evitar conflitos e feridas (veja também Tiago 3:2-6 e Provérbios 21:23)."
+    },
+    {
+      "ref": "39:4-5",
+      "texto": "A oração do salmista por sabedoria e entendimento sobre a brevidade da vida é um reconhecimento da fragilidade humana. A consciência da mortalidade deve nos levar a viver de forma significativa (veja também Salmo 90:12 e Eclesiastes 12:1)."
+    },
+    {
+      "ref": "39:6-7",
+      "texto": "O contraste entre a vaidade humana e a esperança em Deus é enfatizado. O salmista reconhece que as riquezas e conquistas não trazem verdadeira segurança, mas a confiança em Deus é fundamental para a vida (veja também Salmo 62:10 e 1 Timóteo 6:17)."
+    },
+    {
+      "ref": "39:11-12",
+      "texto": "A disciplina de Deus é vista como um meio de crescimento espiritual. O salmista reconhece que as correções de Deus são para o nosso bem e nos ajudam a voltar a Ele (veja também Hebreus 12:5-6 e Salmo 94:12)."
+    },
+    {
+      "ref": "39:13",
+      "texto": "O pedido de proteção e a súplica para não ser abandonado revelam a profunda necessidade de Deus em momentos de angústia. A presença de Deus é fundamental em nossa jornada de fé (veja também Salmo 27:9 e Romanos 8:38-39)."
+    }
+  ]
+}

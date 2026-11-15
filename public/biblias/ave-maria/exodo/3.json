@@ -1,0 +1,126 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "exodo",
+  "nome": "Êxodo",
+  "testamento": "AT",
+  "capitulo": 3,
+  "totalVersiculos": 22,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/exodo/3/",
+  "capturadoEm": "2026-11-15T09:08:02-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Moisés apascentava o rebanho de Jetro, seu sogro, sacerdote de Madiã. Um dia em que conduzira o rebanho para além do deserto, chegou até a montanha de Deus, Horeb."
+    },
+    {
+      "numero": 2,
+      "texto": "O anjo do Senhor apareceu-lhe numa chama (que saía) do meio a uma sarça. Moisés olhava: a sarça ardia, mas não se consumia.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "“Vou me aproximar – disse ele consigo – para contemplar esse extraordinário espetáculo, e saber por que a sarça não se consome.”"
+    },
+    {
+      "numero": 4,
+      "texto": "Vendo o Senhor que ele se aproximou para ver, chamou-o do meio da sarça: “Moisés, Moisés!”. “Eis-me aqui!” – respondeu ele."
+    },
+    {
+      "numero": 5,
+      "texto": "E Deus: “Não te aproximes daqui. Tira as sandálias dos teus pés, porque o lugar em que te encontras é uma terra santa."
+    },
+    {
+      "numero": 6,
+      "texto": "Eu sou – ajuntou ele – o Deus de teu pai, o Deus de Abraão, o Deus de Isaac e o Deus de Jacó”. Moisés escondeu o rosto, e não ousava olhar para Deus.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "O Senhor disse: “Eu vi, eu vi a aflição de meu povo que está no Egito, e ouvi os seus clamores por causa de seus opressores. Sim, eu conheço seus sofrimentos."
+    },
+    {
+      "numero": 8,
+      "texto": "E desci para livrá-lo da mão dos egípcios e para fazê-lo subir do Egito para uma terra fértil e espaçosa, uma terra que mana leite e mel, lá onde habitam os cananeus, os hiteus, os amorreus, os ferezeus, os heveus e os jebuseus."
+    },
+    {
+      "numero": 9,
+      "texto": "Agora, eis que os clamores dos israelitas chegaram até mim, e vi a opressão que lhes fazem os egípcios."
+    },
+    {
+      "numero": 10,
+      "texto": "Vai, eu te envio ao faraó para tirar do Egito os israelitas, meu povo”."
+    },
+    {
+      "numero": 11,
+      "texto": "Moisés disse a Deus: “Quem sou eu para ir ter com o faraó e tirar do Egito os israelitas?”."
+    },
+    {
+      "numero": 12,
+      "texto": "“Eu estarei contigo – respondeu Deus –; e eis aqui um sinal de que sou eu que te envio: quando tiveres tirado o povo do Egito, servireis a Deus sobre esta montanha.”"
+    },
+    {
+      "numero": 13,
+      "texto": "Moisés disse a Deus: “Quando eu for para junto dos israelitas e lhes disser que o Deus de seus pais me enviou a eles, que lhes responderei se me perguntarem qual é o seu nome?”."
+    },
+    {
+      "numero": 14,
+      "texto": "Deus respondeu a Moisés: “Eu sou aquele que sou”. E ajuntou: “Eis como responderás aos israelitas: (Aquele que se chama) ‘Eu sou’ envia-me junto de vós”.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Deus disse ainda a Moisés: “Assim falarás aos israelitas: É Javé, o Deus de vossos pais, o Deus de Abraão, o Deus de Isaac e o Deus de Jacó, quem me envia para junto de vós. Esse é o meu nome para sempre, e é assim que me chamarão de geração em geração”."
+    },
+    {
+      "numero": 16,
+      "texto": "“Vai, reúne os anciãos de Israel e dize-lhes: O Senhor, o Deus de vossos pais, o Deus de Abraão, de Isaac e de Jacó apareceu-me. E disse-me: eu vos visitei, e vi o que se vos faz no Egito,"
+    },
+    {
+      "numero": 17,
+      "texto": "e disse: Eu vos tirarei do Egito onde sois oprimidos, para fazer-vos subir para a terra dos cananeus, dos hiteus, dos amorreus, dos ferezeus, dos heveus e dos jebuseus, terra que mana leite e mel."
+    },
+    {
+      "numero": 18,
+      "texto": "Eles ouvirão a tua voz. Irás então com os anciãos de Israel à presença do rei do Egito e lhe direis: O Senhor, o Deus dos hebreus, nos apareceu. Deixa-nos, pois, ir para o deserto, a três dias de caminho, para oferecer sacrifícios ao Senhor, nosso Deus."
+    },
+    {
+      "numero": 19,
+      "texto": "Eu sei que o rei do Egito não vos deixará partir, se ele não for obrigado pela força."
+    },
+    {
+      "numero": 20,
+      "texto": "Mas estenderei a mão e ferirei o Egito com toda sorte de prodígios que farei no meio deles. Depois disso, o faraó vos deixará partir."
+    },
+    {
+      "numero": 21,
+      "texto": "Farei com que esse povo ganhe as boas graças dos egípcios, e, quando partirdes, não ireis com as mãos vazias."
+    },
+    {
+      "numero": 22,
+      "texto": "Cada mulher pedirá à sua vizinha e àquela que mora em sua casa objetos de prata e de ouro, e vestidos que poreis sobre vossos filhos e sobre vossas filhas. Assim despojareis os egípcios.”"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-6",
+      "texto": "Moisés encontra a sarça ardente, onde Deus se revela como o \"Deus de Abraão, Isaque e Jacó\". Esse momento marca o chamado divino de Moisés para liderar o povo de Israel na saída do Egito, destacando a santidade de Deus e Seu relacionamento com os patriarcas (veja também Atos 7:32 e Mateus 22:32)."
+    },
+    {
+      "ref": "3:7-10",
+      "texto": "Deus declara ter visto o sofrimento de Seu povo e convoca Moisés para libertá-los. A missão de Moisés é uma resposta direta ao clamor dos israelitas, revelando o caráter compassivo de Deus e Sua ação na história (veja também Salmo 34:15-17 e Atos 7:34)."
+    },
+    {
+      "ref": "3:11-12",
+      "texto": "Moisés expressa dúvida sobre sua capacidade de cumprir a missão, mas Deus promete estar com ele. Esse diálogo sublinha a ideia de que o poder de Deus é suficiente para superar as fraquezas humanas (veja também Isaías 41:10 e 2 Coríntios 12:9)."
+    },
+    {
+      "ref": "3:13-15",
+      "texto": "Deus revela Seu nome, \"Eu Sou o que Sou\", indicando Sua natureza eterna e autoexistente. O nome de Deus transmite autoridade e poder, e serve como uma garantia de libertação para o povo de Israel (veja também João 8:58 e Apocalipse 1:8)."
+    },
+    {
+      "ref": "3:16-22",
+      "texto": "Deus instrui Moisés a ir ao faraó e liderar a saída de Israel, garantindo que o povo não sairá de mãos vazias. Essa promessa de libertação e bênção reflete o compromisso de Deus com Seu povo e o cumprimento de Sua aliança (veja também Gênesis 15:14 e Êxodo 12:35-36)."
+    }
+  ]
+}

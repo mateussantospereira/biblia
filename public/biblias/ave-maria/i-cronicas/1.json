@@ -1,0 +1,251 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-cronicas",
+  "nome": "I Crônicas",
+  "testamento": "AT",
+  "capitulo": 1,
+  "totalVersiculos": 54,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-cronicas/1/",
+  "capturadoEm": "2026-11-15T09:13:00-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Adão, Set, Enós,"
+    },
+    {
+      "numero": 2,
+      "texto": "Cainã, Malaleel, Jared,"
+    },
+    {
+      "numero": 3,
+      "texto": "Henoc, Matusalém, Lamec,"
+    },
+    {
+      "numero": 4,
+      "texto": "Noé, Sem, Cam e Jafé."
+    },
+    {
+      "numero": 5,
+      "texto": "Filhos de Jafé: Gomer, Magog, Madai, Javã, Tubal, Mosoc e Tiras."
+    },
+    {
+      "numero": 6,
+      "texto": "Filhos de Gomer: Asquenez, Rifat e Togorma."
+    },
+    {
+      "numero": 7,
+      "texto": "Filhos de Javã: Elisa, Társis, Cetim e Dodanim."
+    },
+    {
+      "numero": 8,
+      "texto": "Filhos de Cam: Cuch, Mesraim, Fut e Canaã."
+    },
+    {
+      "numero": 9,
+      "texto": "Filhos de Cus: Seba, Hévila, Sabata, Regma e Sabateca. Filhos de Regma: Sabá e Dadã."
+    },
+    {
+      "numero": 10,
+      "texto": "Cuch gerou Nemrod, o primeiro a se tornar poderoso na terra."
+    },
+    {
+      "numero": 11,
+      "texto": "Mesraim gerou os ludim, os ananim, os laabim, os neftuim, os fetrusim, os casluim,"
+    },
+    {
+      "numero": 12,
+      "texto": "dos quais procederam os filisteus e os caftorim."
+    },
+    {
+      "numero": 13,
+      "texto": "Canaã gerou Sidon, seu primogênito e Het,"
+    },
+    {
+      "numero": 14,
+      "texto": "e também os jebuseus, os amorreus e os gergeseus,"
+    },
+    {
+      "numero": 15,
+      "texto": "os heveus, os araceus, os sineus,"
+    },
+    {
+      "numero": 16,
+      "texto": "os aradeus, os samareus e os hamateus."
+    },
+    {
+      "numero": 17,
+      "texto": "Filhos de Sem: Elam, Assur, Arfaxad, Lud, Aram, Hus, Hul, Geter e Mosoc."
+    },
+    {
+      "numero": 18,
+      "texto": "Arfaxad gerou Salé, o qual gerou Héber."
+    },
+    {
+      "numero": 19,
+      "texto": "Dois filhos nasceram a Héber: um se chamou Faleg, porque a divisão da terra foi em seu tempo e seu irmão foi chamado Jectã."
+    },
+    {
+      "numero": 20,
+      "texto": "Jectã gerou Elmodad, Salef, Asarmot,"
+    },
+    {
+      "numero": 21,
+      "texto": "Jaré, Adoram, Uzal e Decla;"
+    },
+    {
+      "numero": 22,
+      "texto": "Ebal, Abimael, Sabá,"
+    },
+    {
+      "numero": 23,
+      "texto": "Ofir, Hévila e Jobab, todos filhos de Jectã."
+    },
+    {
+      "numero": 24,
+      "texto": "De Sem: Arfaxad, Salé,"
+    },
+    {
+      "numero": 25,
+      "texto": "Héber, Faleg, Ragau,"
+    },
+    {
+      "numero": 26,
+      "texto": "Serug, Nacor, Taré,"
+    },
+    {
+      "numero": 27,
+      "texto": "Abrão, que é o mesmo que Abraão."
+    },
+    {
+      "numero": 28,
+      "texto": "Filhos de Abraão: Isaac e Ismael,"
+    },
+    {
+      "numero": 29,
+      "texto": "dos quais a posteridade é a seguinte: Nabaiot, primogênito de Ismael; em seguida, Cedar, Adbeel, Mabsam,"
+    },
+    {
+      "numero": 30,
+      "texto": "Masma, Duma, Massa, Adad, Tema,"
+    },
+    {
+      "numero": 31,
+      "texto": "Jetur, Nafis, Cedma, que são os filhos de Ismael."
+    },
+    {
+      "numero": 32,
+      "texto": "Filhos de Cetura, concubina de Abraão. Ela deu à luz Zamrã, Jecsã, Madã, Madiã, Jesboc e Sué. Filhos de Jecsã: Sabá e Dadã."
+    },
+    {
+      "numero": 33,
+      "texto": "Filhos de Madiã: Ofer, Efer, Henoc, Abida e Eldaá, todos filhos de Cetura."
+    },
+    {
+      "numero": 34,
+      "texto": "Abraão gerou Isaac. Filhos de Isaac: Esaú e Jacó."
+    },
+    {
+      "numero": 35,
+      "texto": "Filhos de Esaú: Elifaz, Rauel, Jeús, Jalam e Coré."
+    },
+    {
+      "numero": 36,
+      "texto": "Filhos de Elifaz: Temã, Omar, Sefo, Gatam, Cenez, Tamna, Amalec."
+    },
+    {
+      "numero": 37,
+      "texto": "Filhos de Rauel: Naat, Zara, Hosama e Meza."
+    },
+    {
+      "numero": 38,
+      "texto": "Filhos de Seir: Lotã, Sobal, Sebeon, Ana, Dison, Eser e Disã."
+    },
+    {
+      "numero": 39,
+      "texto": "Filhos de Lotã: Hori e Emam. Irmã de Lotã: Tamna."
+    },
+    {
+      "numero": 40,
+      "texto": "Filhos de Sobal: Aliã, Manaat, Ebal, Sefo e Onam. Filhos de Sebeon: Aía e Ana. Filho de Ana: Dison."
+    },
+    {
+      "numero": 41,
+      "texto": "Filhos de Dison: Hamrã, Esebã, Jetraam e Carã."
+    },
+    {
+      "numero": 42,
+      "texto": "Filhos de Eser: Balaã, Zaavã e Jacã. Filhos de Disã: Hus e Arã."
+    },
+    {
+      "numero": 43,
+      "texto": "Eis os reis que reinaram na terra de Edom, antes que um rei governasse sobre os israelitas. Bela, filho de Beor, cuja cidade se chamava Danaba."
+    },
+    {
+      "numero": 44,
+      "texto": "Depois da morte de Bela, Jobab, filho de Zara, de Bosra, reinou em seu lugar."
+    },
+    {
+      "numero": 45,
+      "texto": "Jobab morreu e Husam, do país dos temanitas, lhe sucedeu."
+    },
+    {
+      "numero": 46,
+      "texto": "Estando Husam morto, subiu ao trono Adad, filho de Badad, que derrotou os madianitas na terra de Moab. Sua cidade se chamava Avit."
+    },
+    {
+      "numero": 47,
+      "texto": "Adad morreu e Semla, de Masreca, lhe sucedeu."
+    },
+    {
+      "numero": 48,
+      "texto": "Semla morreu e Saul de Reobot, que está situado junto do rio, lhe sucedeu."
+    },
+    {
+      "numero": 49,
+      "texto": "Saul morreu e Baalanã, filho de Acobor, lhe sucedeu."
+    },
+    {
+      "numero": 50,
+      "texto": "Baalanã morreu e Adad lhe sucedeu. Sua cidade se chamava Fau e sua mulher Meetabel, filha de Matred, filha de Mezaab."
+    },
+    {
+      "numero": 51,
+      "texto": "Morreu Adad. Os governadores de Edom foram: o governador de Tamna, o governador Alva, o governador Jetet,"
+    },
+    {
+      "numero": 52,
+      "texto": "o governador Oolibama, o governador Ela, o governador Finon,"
+    },
+    {
+      "numero": 53,
+      "texto": "o governador Cenez, o governador Temã, o governador Mabsar,"
+    },
+    {
+      "numero": 54,
+      "texto": "o governador Magdiel, o governador Hiram. Estes são os governadores de Edom."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:1-4",
+      "texto": "A genealogia desde Adão até Noé é apresentada, destacando os patriarcas anteriores ao dilúvio. Isso reforça a linha ininterrupta da criação e a continuidade da humanidade apesar do julgamento de Deus sobre a terra (veja também Gênesis 5:1-32 e Romanos 5:12-14)."
+    },
+    {
+      "ref": "1:5-7",
+      "texto": "Os descendentes de Jafé são mencionados, indicando a expansão das nações após o dilúvio. Essas genealogias servem para mostrar como Deus está presente em todas as nações e povos (veja também Gênesis 10:2-5 e Atos 17:26)."
+    },
+    {
+      "ref": "1:8-16",
+      "texto": "Os descendentes de Cão, incluindo Nimrode e os fundadores de grandes cidades, como Nínive e Babel, são destacados, refletindo o desenvolvimento das civilizações no antigo Oriente Médio (veja também Gênesis 10:6-20 e Miquéias 5:6)."
+    },
+    {
+      "ref": "1:17-23",
+      "texto": "Os descendentes de Sem são listados, com foco especial nas gerações que conduzem até Abraão. A linhagem semítica é a mais relevante para o desenvolvimento da história da salvação (veja também Gênesis 11:10-26 e Lucas 3:34-36)."
+    },
+    {
+      "ref": "1:24-27",
+      "texto": "Abraão é identificado como o pai da fé, iniciando uma nova fase na história do povo de Deus. Ele se destaca por sua aliança com o Senhor, que abençoa todas as nações através dele (veja também Gênesis 12:1-3 e Gálatas 3:6-9)."
+    }
+  ]
+}

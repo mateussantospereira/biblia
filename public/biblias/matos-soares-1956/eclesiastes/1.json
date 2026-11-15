@@ -1,0 +1,107 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "eclesiastes",
+  "nome": "Eclesiastes",
+  "testamento": "AT",
+  "capitulo": 1,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/eclesiastes/1/",
+  "capturadoEm": "2026-11-15T09:56:08-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Palavras do Eclesiaste, filho de Davide, rei de Jerusalém."
+    },
+    {
+      "numero": 2,
+      "texto": "Vaidade de vaidades, diz o Eclesiaste, vaidade de vaidade, tudo é vaidade!"
+    },
+    {
+      "numero": 3,
+      "texto": "Que proveito tira o homem de todo o trabalho com que se afadiga debaixo do sol?"
+    },
+    {
+      "numero": 4,
+      "texto": "Uma geração passa, outra geração lhe sucede, mas a terra permanece sempre estável."
+    },
+    {
+      "numero": 5,
+      "texto": "O sol nasce e põe-se, corre ao seu lugar, donde volta a nascer. (ver nota)"
+    },
+    {
+      "numero": 6,
+      "texto": "O vento dirige o seu giro para o meio-dia, depois declina para o norte; corre, visitando tudo em roda, e volta a começar (depois) os seus circuitos."
+    },
+    {
+      "numero": 7,
+      "texto": "Todos os rios entram no mar, e o mar nem por isso trasborda; os rios voltam ao mesmo lugar donde saíram, para tornarem a correr."
+    },
+    {
+      "numero": 8,
+      "texto": "Todas as coisas se afadigam, mais do que se pode dizer. O olho não se farta de ver, nem o ouvido se cansa de ouvir (sempre as mesmas coisas)."
+    },
+    {
+      "numero": 9,
+      "texto": "Que é o que foi? O mesmo que há-de ser. Que é o que se fez? O mesmo que se há-de fazer."
+    },
+    {
+      "numero": 10,
+      "texto": "Não há nada novo debaixo do sol, e ninguém pode dizer; Eis aqui está uma coisa nova, porque ela já existiu nos séculos que passaram antes de nós."
+    },
+    {
+      "numero": 11,
+      "texto": "Não há memória das coisas antigas, mas também não haverá memória das coisas que hão-de suceder depois de nós, entre aqueles que viverão mais tarde."
+    },
+    {
+      "numero": 12,
+      "texto": "Eu, o Eclesiaste, fui rei de Israel em Jerusalém,"
+    },
+    {
+      "numero": 13,
+      "texto": "e propus no meu coração inquirir e investigar sàbiamente todas as coisas que se fazem debaixo dos céus: Deus deu esta penosa ocupação aos filhos dos homens, para que se dedicassem a ela."
+    },
+    {
+      "numero": 14,
+      "texto": "Vi tudo o que se faz debaixo do sol, e achei que tudo era vaidade e a aflição de espírito."
+    },
+    {
+      "numero": 15,
+      "texto": "O torto não se pode endireitar e o que falta não se pode contar. (ver nota)"
+    },
+    {
+      "numero": 16,
+      "texto": "Eu disse no meu coração: Eis que cheguei a ser grande, que excedi em sabedoria a todos os que antes de mim houve em Jerusalém; o meu espirito possuiu largamente a sabedoria e a ciência."
+    },
+    {
+      "numero": 17,
+      "texto": "Apliquei o meu coração a conhecer a sabedoria, a loucura, os desvarios, e reconheci que ainda isto é aflição de espírito,"
+    },
+    {
+      "numero": 18,
+      "texto": "porque na muita sabedoria há muita amargura, e o que aumenta a sua ciência, também aumenta o seu sofrimento."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:1-3",
+      "texto": "O autor, identificado como \"o Pregador\", introduz o tema da vaidade e da futilidade da vida terrena. Ele questiona o valor das realizações humanas, destacando a impermanência de tudo o que é feito \"debaixo do sol\" (veja também Salmo 39:5 e Romanos 8:20-21)."
+    },
+    {
+      "ref": "1:4-7",
+      "texto": "O Pregador observa os ciclos repetitivos da natureza para ilustrar a monotonia da existência humana. A criação, apesar de sua constância, não oferece um sentido duradouro à vida, enfatizando a limitação humana diante da eternidade (veja também Jó 14:1-2 e Salmo 90:3-4)."
+    },
+    {
+      "ref": "1:8-11",
+      "texto": "A insatisfação é um tema recorrente. Nenhuma conquista ou experiência é suficiente para preencher o vazio interior, e o esquecimento de gerações passadas demonstra a transitoriedade das realizações humanas (veja também Isaías 40:6-8 e Tiago 4:14)."
+    },
+    {
+      "ref": "1:12-14",
+      "texto": "O Pregador compartilha sua busca por sabedoria e conhecimento, apenas para descobrir que isso também é \"vaidade\". A sabedoria humana, por mais valiosa que seja, não pode eliminar as dificuldades da vida, mas sim aumentar a percepção delas (veja também Provérbios 1:7 e 1 Coríntios 1:20)."
+    },
+    {
+      "ref": "1:15-18",
+      "texto": "O aumento do conhecimento traz aumento da tristeza, pois a sabedoria expõe as dificuldades e limitações da existência humana. Este contraste entre sabedoria e aflição destaca a fraqueza da sabedoria sem Deus (veja também Eclesiastes 12:12 e 1 Coríntios 3:19)."
+    }
+  ]
+}

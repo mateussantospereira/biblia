@@ -1,0 +1,169 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "eclesiastico",
+  "nome": "Eclesiástico",
+  "testamento": "AT",
+  "capitulo": 22,
+  "totalVersiculos": 33,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/eclesiastico/22/",
+  "capturadoEm": "2026-11-15T09:20:43-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao preguiçoso é atirado esterco, só se fala dele com desprezo.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "O preguiçoso é apedrejado com excremento, quem o tocar sacudirá a mão."
+    },
+    {
+      "numero": 3,
+      "texto": "O filho mal-educado é a vergonha de seu pai, a filha semelhante não gozará de nenhuma consideração."
+    },
+    {
+      "numero": 4,
+      "texto": "Uma jovem prudente é uma herança para o marido, mas a filha desavergonhada causa mágoa ao seu pai.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "A mulher atrevida cobre de vergonha o pai e o marido; e é igual aos celerados: ambos a desprezam."
+    },
+    {
+      "numero": 6,
+      "texto": "Uma palavra inoportuna é música em dia de luto; a sabedoria, porém, emprega com oportunidade o chicote e a instrução."
+    },
+    {
+      "numero": 7,
+      "texto": "Instruir um insensato é tornar a ajustar um vaso quebrado;"
+    },
+    {
+      "numero": 8,
+      "texto": "falar a quem não ouve é como despertar alguém de um sono profundo."
+    },
+    {
+      "numero": 9,
+      "texto": "Falar da sabedoria com um insensato é conversar com alguém que está adormecendo; no fim da conversa ele dirá: “Que?”."
+    },
+    {
+      "numero": 10,
+      "texto": "Chora sobre um morto, porque ele perdeu a luz; chora sobre um tolo, porque é falho de juízo."
+    },
+    {
+      "numero": 11,
+      "texto": "Chora menos sobre um morto, porque ele achou o repouso;"
+    },
+    {
+      "numero": 12,
+      "texto": "a vida criminosa do mau, porém, é pior do que a morte."
+    },
+    {
+      "numero": 13,
+      "texto": "O luto por um morto dura sete dias, mas por um insensato e um ímpio, dura toda a sua vida."
+    },
+    {
+      "numero": 14,
+      "texto": "Não fales muito com um estulto; não convivas com o insensato."
+    },
+    {
+      "numero": 15,
+      "texto": "Acautela-te contra ele, para não seres incomodado; e não te mancharás com o contágio de seu pecado."
+    },
+    {
+      "numero": 16,
+      "texto": "Afasta-te dele: encontrarás repouso, e a sua loucura não te causará mágoa."
+    },
+    {
+      "numero": 17,
+      "texto": "O que há de mais pesado que o chumbo? E que outro nome dar-lhe a não ser o de insensato?"
+    },
+    {
+      "numero": 18,
+      "texto": "É mais fácil carregar areia, sal ou uma barra de ferro, do que suportar o imprudente, o tolo e o ímpio."
+    },
+    {
+      "numero": 19,
+      "texto": "Um encaixamento de madeira adaptado aos alicerces de um edifício não se desconjunta. Assim é o coração firmado por uma decisão bem amadurecida."
+    },
+    {
+      "numero": 20,
+      "texto": "O desígnio de um homem sensato, em qualquer tempo que seja, não será alterado pelo temor."
+    },
+    {
+      "numero": 21,
+      "texto": "Como a estacada posta em lugar elevado e a parede sem argamassa não podem resistir à violência do vento,"
+    },
+    {
+      "numero": 22,
+      "texto": "assim um coração tímido, de pensamentos tolos, não pode resistir ao choque do temor."
+    },
+    {
+      "numero": 23,
+      "texto": "O coração medroso do insensato jamais tem temor em seus pensamentos; assim também o que não se apoia nos preceitos divinos."
+    },
+    {
+      "numero": 24,
+      "texto": "Quem machuca um olho, dele faz sair lágrimas; quem magoa um coração, nele excita a sensibilidade."
+    },
+    {
+      "numero": 25,
+      "texto": "Quem lança uma pedra aos pássaros os fará fugir; assim, quem insulta um amigo rompe a amizade."
+    },
+    {
+      "numero": 26,
+      "texto": "Ainda que tenhas arrancado a espada contra o teu amigo, não desesperes; porque o regresso é possível."
+    },
+    {
+      "numero": 27,
+      "texto": "Ainda que tenhas dito contra ele palavras desagradáveis, não temas, porque a reconciliação é possível, salvo se se tratar de injúrias, afrontas, insolências, revelação de um segredo ou golpes à traição; em todos esses casos fugirá de ti o teu amigo."
+    },
+    {
+      "numero": 28,
+      "texto": "Permanece fiel ao teu amigo em sua pobreza, a fim de te alegrares com ele na sua prosperidade."
+    },
+    {
+      "numero": 29,
+      "texto": "Permanece-lhe fiel no tempo da aflição, a fim de teres parte com ele em sua herança."
+    },
+    {
+      "numero": 30,
+      "texto": "O vapor e a fumaça elevam-se na fornalha antes do fogo; assim o homicídio e o derramamento de sangue são precedidos de injúrias, ultrajes e ameaças."
+    },
+    {
+      "numero": 31,
+      "texto": "Não me envergonharei de saudar um amigo, nem me esconderei da sua presença; e, se me acontecer algum mal por isso, eu o suportarei,"
+    },
+    {
+      "numero": 32,
+      "texto": "mas quem o souber, dele desconfiará."
+    },
+    {
+      "numero": 33,
+      "texto": "Quem porá uma guarda à minha boca, e um selo inviolável nos meus lábios, para que eu não caia por sua causa, e para que minha língua não me perca?"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "22:1-2",
+      "texto": "O preguiçoso é comparado a uma pedra suja, um fardo para a sociedade. A preguiça é um grande vício que afasta as bênçãos e traz vergonha (veja também Provérbios 10:4-5 e 2 Tessalonicenses 3:10-12)."
+    },
+    {
+      "ref": "22:9-10",
+      "texto": "A pessoa que desperdiça sua juventude em tolices é como um arco deformado. Os pais devem ensinar os filhos a viverem de maneira prudente para não sofrerem humilhação no futuro (veja também Provérbios 22:6 e Efésios 6:4)."
+    },
+    {
+      "ref": "22:13-15",
+      "texto": "Não adianta perder tempo falando com os insensatos, pois eles não entendem nem apreciam as palavras de sabedoria. Melhor é manter a paz do que se envolver em discussões inúteis (veja também Provérbios 26:4 e Mateus 7:6)."
+    },
+    {
+      "ref": "22:16-18",
+      "texto": "A comparação entre uma casa construída sobre pedras firmes e uma vida fundada na prudência ressalta a importância da sabedoria para a estabilidade e segurança (veja também Mateus 7:24-27 e Provérbios 14:1)."
+    },
+    {
+      "ref": "22:22-23",
+      "texto": "A verdadeira amizade é marcada pelo perdão e pela lealdade, enquanto o ódio e a traição destroem os relacionamentos. O amigo fiel é uma grande bênção (veja também Provérbios 17:17 e João 15:13)."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 50,
+  "totalVersiculos": 11,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/50/",
+  "capturadoEm": "2026-11-15T09:22:03-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eis o que diz o Senhor: “Onde está a carta de divórcio pela qual eu teria repudiado vossa mãe? Ou, então, a qual de meus credores eu vos vendi? Está bem claro que por vossos crimes fostes vendidos, e por causa de vossos pecados vossa mãe foi repudiada.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Então, por que não encontrei pessoa alguma quando vim? Por que ninguém respondeu ao meu apelo? Tenho eu realmente a mão demasiado curta para libertar, ou não tenho bastante força para salvar? Contudo, com uma simples ameaça, seco o mar e transformo as ondas em terra firme, de forma tal a faltar água para seus peixes, e seus animais perecerem de sede.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Visto os céus com vestimentas de luto, e os cubro como de um cilício”."
+    },
+    {
+      "numero": 4,
+      "texto": "O Senhor Deus deu-me a língua de um discípulo para que eu saiba reconfortar pela palavra o que está abatido. Cada manhã ele desperta meus ouvidos para que escute como discípulo;",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "o Senhor Deus abriu-me o ouvido e eu não relutei, não me esquivei."
+    },
+    {
+      "numero": 6,
+      "texto": "Aos que me feriam, apresentei as espáduas, e as faces àqueles que me arrancavam a barba; não desviei o rosto dos ultrajes e dos escarros."
+    },
+    {
+      "numero": 7,
+      "texto": "Mas o Senhor Deus vem em meu auxílio: eis por que não me senti desonrado; enrijeci meu rosto como uma pedra, convicto de não ser desapontado."
+    },
+    {
+      "numero": 8,
+      "texto": "Aquele que me fará justiça aí está. Quem ousará atacar-me? Vamos medir-nos! Quem será meu adversário? Que se apresente!"
+    },
+    {
+      "numero": 9,
+      "texto": "O Senhor Deus vem em meu auxílio: quem ousaria condenar-me? Cairão em frangalhos como um manto velho; a traça os roerá."
+    },
+    {
+      "numero": 10,
+      "texto": "Que aqueles dentre vós que temem o Senhor ouçam a voz de seu Servo! Que aqueles que caminham no escuro, privados de luz, confiem no nome do Senhor e contem com o seu Deus!"
+    },
+    {
+      "numero": 11,
+      "texto": "Mas vós, que ateais um incêndio, que preparais projéteis inflamáveis, ide ao fogo do vosso incêndio, e dos projéteis que fizestes arder! É minha mão que vos imporá esse tratamento: sereis prostrados nos tormentos.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "50:1-2",
+      "texto": "Deus repreende Seu povo, afirmando que o afastamento deles é resultado de sua própria iniquidade, não da ausência divina. Isso sublinha a responsabilidade humana no distanciamento de Deus (veja também Jeremias 2:13 e Oséias 4:6)."
+    },
+    {
+      "ref": "50:4-5",
+      "texto": "O Servo do Senhor é descrito como aquele que tem ouvidos atentos e fala palavras de consolo. Ele é um modelo de obediência e submissão à vontade divina (veja também João 12:49-50 e Filipenses 2:8)."
+    },
+    {
+      "ref": "50:6",
+      "texto": "O Servo aceita o sofrimento com coragem e submissão, prefigurando a paixão de Cristo. Isso destaca a importância do sacrifício no plano de redenção (veja também Mateus 26:67 e 1 Pedro 2:23-24)."
+    },
+    {
+      "ref": "50:7-9",
+      "texto": "A confiança do Servo no auxílio divino reflete a certeza de que Deus justifica e sustenta aqueles que confiam n’Ele (veja também Salmo 118:6-7 e Romanos 8:31-34)."
+    },
+    {
+      "ref": "50:10",
+      "texto": "Deus chama os que andam em trevas a confiarem em Seu nome e a dependerem de Sua luz, mostrando que a fé é essencial na adversidade (veja também Salmo 23:4 e João 12:46)."
+    }
+  ]
+}

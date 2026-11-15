@@ -1,0 +1,115 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 82,
+  "totalVersiculos": 19,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/82/",
+  "capturadoEm": "2026-11-15T09:17:27-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cântico. Salmo de Asaf",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Senhor, não fiqueis silencioso, não permaneçais surdo, nem insensível, ó Deus."
+    },
+    {
+      "numero": 3,
+      "texto": "Porque eis que se tumultuam vossos inimigos, levantam a cabeça aqueles que vos odeiam."
+    },
+    {
+      "numero": 4,
+      "texto": "Urdem tramas para o vosso povo, conspiram contra vossos protegidos."
+    },
+    {
+      "numero": 5,
+      "texto": "“Vinde – dizem eles –, exterminemo-lo dentre os povos, desapareça a própria lembrança do nome de Israel.”"
+    },
+    {
+      "numero": 6,
+      "texto": "Com efeito, eles conspiram de comum acordo e contra vós fazem coalizão:"
+    },
+    {
+      "numero": 7,
+      "texto": "os nômades de Edom e os ismaelitas, Moab e os agarenos,"
+    },
+    {
+      "numero": 8,
+      "texto": "Gebal, Amon e Amalec, a Filisteia com as gentes de Tiro."
+    },
+    {
+      "numero": 9,
+      "texto": "Também os assírios a eles se uniram, e aos filhos de Lot ofereceram a sua força."
+    },
+    {
+      "numero": 10,
+      "texto": "Tratai-os como Madiã e Sísara, e Jabin junto à torrente de Cison!",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Eles pereceram todos em Endor e serviram de adubo para a terra.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Tratai seus chefes como Oreb e Zeb; como Zebá e Sálmana, seus príncipes,",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "que disseram: “Tomemos posse das terras onde Deus reside”."
+    },
+    {
+      "numero": 14,
+      "texto": "Ó meu Deus, fazei deles como folhas que o turbilhão revolve, como a palha carregada pelo vento,"
+    },
+    {
+      "numero": 15,
+      "texto": "Como o fogo que devora a mata, como a labareda que incendeia os montes;"
+    },
+    {
+      "numero": 16,
+      "texto": "Persegui-os com a vossa tempestade, apavorai-os com o vosso furacão."
+    },
+    {
+      "numero": 17,
+      "texto": "Cobri-lhes a face da ignomínia, para que, vencidos, busquem, Senhor, o vosso nome."
+    },
+    {
+      "numero": 18,
+      "texto": "Enchei-os de vergonha e de humilhação eternas, que eles pereçam confundidos."
+    },
+    {
+      "numero": 19,
+      "texto": "E que reconheçam que só vós, cujo nome é Senhor, sois o Altíssimo sobre toda a terra."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "82:1-2",
+      "texto": "Deus se posiciona no meio da assembleia dos “deuses” e repreende os líderes por sua injustiça. A justiça divina exige retidão de líderes e autoridades que governam em nome de Deus (veja também Deuteronômio 1:17 e Romanos 13:1-2)."
+    },
+    {
+      "ref": "82:3-4",
+      "texto": "Deus ordena que os juízes defendam os fracos e necessitados, refletindo o coração divino pela justiça social e pelo cuidado dos oprimidos (veja também Provérbios 31:8-9 e Isaías 1:17)."
+    },
+    {
+      "ref": "82:5-7",
+      "texto": "A falta de justiça entre os líderes traz consequências graves. Deus adverte que, apesar de terem poder, eles são mortais e sujeitos ao juízo divino (veja também Salmo 49:12 e Ezequiel 34:2-4)."
+    },
+    {
+      "ref": "82:8",
+      "texto": "O salmista clama para que Deus julgue a terra, reconhecendo Sua autoridade sobre todas as nações. Este verso destaca a soberania universal de Deus (veja também Salmo 96:10 e Apocalipse 19:11)."
+    },
+    {
+      "ref": "82:6-7",
+      "texto": "O salmo lembra que, embora os líderes sejam chamados “deuses” pela responsabilidade dada por Deus, eles morrerão como homens comuns devido à sua injustiça (veja também João 10:34-35 e 2 Pedro 2:4)."
+    }
+  ]
+}

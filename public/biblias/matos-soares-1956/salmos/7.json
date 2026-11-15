@@ -1,0 +1,107 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 7,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/7/",
+  "capturadoEm": "2026-11-15T09:52:13-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Lamentação de Davide, cantada por ele ao Senhor, a propósito das palavras de Chus, Benjaminita."
+    },
+    {
+      "numero": 2,
+      "texto": "Senhor, Deus meu, a ti recorro; salva-me de todos os que me perseguem, e livra-me,"
+    },
+    {
+      "numero": 3,
+      "texto": "para que ninguém, como leão, arrebate a minha alma, a despedace, sem que haja quem a livre."
+    },
+    {
+      "numero": 4,
+      "texto": "Senhor Deus meu, se eu fiz isso, se há iniquidade nas minhas mãos,"
+    },
+    {
+      "numero": 5,
+      "texto": "se fiz algum mal ao meu amigo, eu, que salvei os meus injustos adversários:"
+    },
+    {
+      "numero": 6,
+      "texto": "Persiga o inimigo a minha alma e apodere-se dela, calque contra a terra a minha vida, e arraste pelo pó a minha honra."
+    },
+    {
+      "numero": 7,
+      "texto": "Levanta-te, Senhor na tua ira (para me socorrer), ergue-te contra o furor dos meus opressores, e toma a minha defesa no juízo que intimaste."
+    },
+    {
+      "numero": 8,
+      "texto": "A multidão dos povos esteja ao redor de ti, e senta-te no alto sobranceiro a ela."
+    },
+    {
+      "numero": 9,
+      "texto": "O juiz dos povos é o Senhor: dá-me o direito, Senhor, segundo a minha justiça e segundo a inocência, que há em mim."
+    },
+    {
+      "numero": 10,
+      "texto": "Cesse a maldade dos ímpios, e sustenta o justo, ó Deus justo, que sondas os corações e as entranhas."
+    },
+    {
+      "numero": 11,
+      "texto": "O meu escudo é Deus, que salva os rectos de coração."
+    },
+    {
+      "numero": 12,
+      "texto": "Deus é um juiz justo, um Deus que ameaça todos os dias."
+    },
+    {
+      "numero": 13,
+      "texto": "Se não se converterem, afiará a sua espada, retesará o seu arco e apontará"
+    },
+    {
+      "numero": 14,
+      "texto": "e preparará para eles dardos de morte, abrasadoras tornará as suas setas."
+    },
+    {
+      "numero": 15,
+      "texto": "Eis que o (ímpio) concebeu iniquidade, está grávido de malícia e dá à luz a fraude."
+    },
+    {
+      "numero": 16,
+      "texto": "Abriu e aprofundou uma cova, mas caiu nessa (mesma) cova, que fez."
+    },
+    {
+      "numero": 17,
+      "texto": "Sobre a sua própria cabeça recairá a sua maldade, e sobre a sua fronte voltará a sua violência."
+    },
+    {
+      "numero": 18,
+      "texto": "Eu glorificarei o Senhor pela sua justiça, e cantarei salmos ao nome do Senhor altíssimo."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "7:1-2",
+      "texto": "O salmista clama por proteção contra aqueles que o perseguem. Sua busca por refúgio em Deus destaca a confiança na proteção divina em meio à adversidade, mostrando que Deus é um socorro presente (veja também Salmo 46:1 e Salmo 31:20)."
+    },
+    {
+      "ref": "7:3-5",
+      "texto": "O salmista declara sua inocência e a importância da justiça. Ele apela a Deus para que examine seu coração, ressaltando a integridade como uma base para a súplica e a confiança na justiça divina (veja também Salmo 26:2 e 1 João 3:21)."
+    },
+    {
+      "ref": "7:6-9",
+      "texto": "O pedido por Deus se levantar para julgar os ímpios demonstra a esperança de que Deus intervirá em situações de injustiça. Essa invocação ressalta a certeza de que a justiça divina prevalecerá (veja também Salmo 50:6 e Apocalipse 20:12)."
+    },
+    {
+      "ref": "7:10-11",
+      "texto": "A confiança de que Deus é o justo juiz indica que a justiça não é apenas um desejo, mas uma certeza baseada na natureza de Deus. O salmista reconhece que Deus é um defensor dos justos e um juiz dos ímpios (veja também Salmo 9:7-8 e Romanos 2:6-8)."
+    },
+    {
+      "ref": "7:12-16",
+      "texto": "A descrição do ímpio que prepara mal para o justo enfatiza a lei da semeadura. O salmista enfatiza que o mal acaba retornando sobre o próprio autor, ilustrando a natureza da justiça de Deus (veja também Gálatas 6:7 e Provérbios 26:27)."
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "numeros",
+  "nome": "Números",
+  "testamento": "AT",
+  "capitulo": 10,
+  "totalVersiculos": 36,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/numeros/10/",
+  "capturadoEm": "2026-11-15T09:44:39-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Senhor falou a Moisés, dizendo:"
+    },
+    {
+      "numero": 2,
+      "texto": "Faze para ti duas trombetas de prata batida ao martelo, com as quais possas convocar a multidão, quando se houver de levantar o acampamento."
+    },
+    {
+      "numero": 3,
+      "texto": "Quando fizeres soar as duas trombetas, todo o povo se juntará ao pé de ti à porta do tabernáculo da reunião."
+    },
+    {
+      "numero": 4,
+      "texto": "Se tocares uma só, virão a ti os príncipies e os chefes do povo de Israel."
+    },
+    {
+      "numero": 5,
+      "texto": "Se o som for estrepitoso, levantarão os acampamentos os primeiros que estão da parte do oriente."
+    },
+    {
+      "numero": 6,
+      "texto": "Ao segundo toque, porém, de igual som, levantarão as tendas, os que habitam ao meio-dia; do mesmo modo farão os outros, enquanto as trombetas fizerem sinal para a partida."
+    },
+    {
+      "numero": 7,
+      "texto": "Quando se tiver de congregar o povo, tocareis as trombetas, mas não estrepitosamente."
+    },
+    {
+      "numero": 8,
+      "texto": "Os filhos de Aarão, sacerdotes, tocarão as trombetas, e esta lei será perpétua nas vossas gerações."
+    },
+    {
+      "numero": 9,
+      "texto": "Se sairdes do vosso país para fazer guerra contra os inimigos que vos atacam, fareis soar, com estrépito, as trombetas, e o Senhor vosso Deus se lembrará de vós, para vos livrar das mãos de vossos inimigos."
+    },
+    {
+      "numero": 10,
+      "texto": "Nos vossos dias de alegria, nas vossas solenidades, nos dias de festa do principio do mês, tocareis as trombetas, oferecendo os holocaustos e os sacrifícios pacíficos, e fim de que o vosso Deus se lembre de vós. Eu sou o Senhor vosso Deus."
+    },
+    {
+      "numero": 11,
+      "texto": "No dia vinte do segundo mês do segundo ano, levantou-se a nuvem do tabernáculo do testemunho."
+    },
+    {
+      "numero": 12,
+      "texto": "Os filhos de Israel pelas suas turmas partiram do deserto do Sinai, e a nuvem parou no deserto de Faran."
+    },
+    {
+      "numero": 13,
+      "texto": "Os primeiros que levantaram os acampamentos, conforme a ordem do Senhor daria por meio de Moisés,"
+    },
+    {
+      "numero": 14,
+      "texto": "foram os filhos de Judá pelas suas turmas: o seu príncipe era Naasson, filho die Aminadab."
+    },
+    {
+      "numero": 15,
+      "texto": "Na tribo dos filhos de Issacar foi príncipe Natanael, filho de Suar."
+    },
+    {
+      "numero": 16,
+      "texto": "Na tribo de Zabulon era príncipe Eliab, filho de Helon."
+    },
+    {
+      "numero": 17,
+      "texto": "O tabernáculo foi desarmado, e os filhos de Gerson e de Merari, partiram, levando-o."
+    },
+    {
+      "numero": 18,
+      "texto": "Depois partiram os filhos de Ruben, segundo as suas turmas e a sua ordem; Elisar, filho de Sedeur, era seu principe."
+    },
+    {
+      "numero": 19,
+      "texto": "Na tribo dos filhos de Simeão o príncipe foi Salamiel, filho de Surisedai."
+    },
+    {
+      "numero": 20,
+      "texto": "Na tribo de Gad era príncipe Eliasaph, filho de Duel."
+    },
+    {
+      "numero": 21,
+      "texto": "Depois partiram os Caatitas, que levavam o santuário. O tabernáculo era sempre levado até chegar ao lugar, onde se devia erigir."
+    },
+    {
+      "numero": 22,
+      "texto": "Levantaram depois os acampamentos os filhos de Efraim pelas suas turmas, dos quais era príncipe Elisama, filho de Amiud."
+    },
+    {
+      "numero": 23,
+      "texto": "Na tribo dos filhos de Manassés era príncipe Gamaliel, filho de Fadassur."
+    },
+    {
+      "numero": 24,
+      "texto": "Na tribo de Benjamim era chefe Abidan, filho de Gedeão."
+    },
+    {
+      "numero": 25,
+      "texto": "Os últimos a levantar o acampamento foram os filhos de Dan pelas suas turmas, em cujo exército era príncipe Aiezer, filho de Amisadai."
+    },
+    {
+      "numero": 26,
+      "texto": "Na tribo dos filhos de Aser o príncipe era Fegiel, filho de Ocran."
+    },
+    {
+      "numero": 27,
+      "texto": "Na tribo dos filhos de Neftali o príncipe era Aira, filho de Enan."
+    },
+    {
+      "numero": 28,
+      "texto": "Tais são os acampamentos e as marchas dos filhos de Israel pelas suas turmas, quando se moviam."
+    },
+    {
+      "numero": 29,
+      "texto": "Moisés disse a Hobab, filho de Raquel Madianita, seu parente: Nós partimos para o lugar que o Senhor nos há-de dar; vem connosco, para te fazermos bem, porque o Senhor prometeu bens a Israel."
+    },
+    {
+      "numero": 30,
+      "texto": "Mas ele respondeu-lhe: Não irei contigo, mas voltarei para a minha terra, na qual nasci."
+    },
+    {
+      "numero": 31,
+      "texto": "Moisés disse: Não queiras abandonar-nos, porque tu conheces os lugares em que devemos acampar no deserto, e serás o nosso guia."
+    },
+    {
+      "numero": 32,
+      "texto": "Se vieres connosco, repartiremos contigo das riquezas que o Senhor nos der."
+    },
+    {
+      "numero": 33,
+      "texto": "Partiram do monte do Senhor e caminharam três dias, e a arca da aliança do Senhor ia adiante deles, indicando-lhes nos três dias o lugar para os acampamentos."
+    },
+    {
+      "numero": 34,
+      "texto": "A nuvem do Senhor também estava sobre eles de dia, quando caminhavam."
+    },
+    {
+      "numero": 35,
+      "texto": "Quando se levantava a arca, Moisés dizia: Levanta-te, Senhor, sejam dispersos os teus inimigos, fujam da tua face os que te aborrecem."
+    },
+    {
+      "numero": 36,
+      "texto": "Quando, porém, se depunha, dizia: Volta, Senhor, para a multidão de Israel."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "10:1-2",
+      "texto": "Deus ordena a Moisés que faça duas trombetas de prata para convocar a congregação e ordenar o movimento do acampamento. Essas trombetas simbolizam a comunicação divina e a importância de uma liderança clara (veja também Joel 2:1 e 1 Coríntios 14:8)."
+    },
+    {
+      "ref": "10:11-13",
+      "texto": "A nuvem se levanta do Tabernáculo, indicando que era hora de os israelitas deixarem o deserto do Sinai. Isso marca um novo estágio na jornada de Israel para a Terra Prometida e reforça a liderança contínua de Deus (veja também Êxodo 13:21-22 e Salmo 78:14)."
+    },
+    {
+      "ref": "10:29-32",
+      "texto": "Moisés convida Hobabe, seu cunhado, para se juntar à jornada de Israel, valorizando o conhecimento de Hobabe sobre o deserto. Isso demonstra a importância de buscar conselhos e ajuda prática, além da direção divina (veja também Provérbios 15:22 e Eclesiastes 4:9-10)."
+    },
+    {
+      "ref": "10:33-36",
+      "texto": "Enquanto a arca da aliança ia adiante de Israel, Moisés orava pela proteção e liderança de Deus, mostrando a centralidade da presença de Deus na vida do povo. Suas orações refletem confiança na intervenção divina (veja também Deuteronômio 31:8 e Salmo 68:1)."
+    },
+    {
+      "ref": "10:34-36",
+      "texto": "A oração de Moisés quando a arca partia e repousava (\"Levanta-te, Senhor\" e \"Volta, Senhor\") demonstra o papel de Deus como protetor e guia constante na vida de Seu povo (veja também Salmo 132:8 e Números 6:24-26)."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 65,
+  "totalVersiculos": 20,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/65/",
+  "capturadoEm": "2026-11-15T09:17:09-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. Cântico. Salmo. Aclamai a Deus, toda a terra,",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Cantai a glória de seu nome, rendei-lhe glorioso louvor."
+    },
+    {
+      "numero": 3,
+      "texto": "Dizei a Deus: “Vossas obras são estupendas! Tal é o vosso poder que os próprios inimigos vos glorificam."
+    },
+    {
+      "numero": 4,
+      "texto": "Diante de vós se prosterne toda a terra, e cante em vossa honra a glória de vosso nome”."
+    },
+    {
+      "numero": 5,
+      "texto": "Vinde contemplar as obras de Deus: ele fez maravilhas entre os filhos dos homens."
+    },
+    {
+      "numero": 6,
+      "texto": "Mudou o mar em terra firme; atravessaram o rio a pé enxuto; eis o motivo de nossa alegria."
+    },
+    {
+      "numero": 7,
+      "texto": "Domina pelo seu poder para sempre, seus olhos observam as nações pagãs; que os rebeldes não levantem a cabeça."
+    },
+    {
+      "numero": 8,
+      "texto": "Bendizei, ó povos, o nosso Deus, publicai seus louvores."
+    },
+    {
+      "numero": 9,
+      "texto": "Foi ele quem conservou a vida de nossa alma, e não permitiu resvalassem nossos pés."
+    },
+    {
+      "numero": 10,
+      "texto": "Pois vós nos provastes, ó Deus, purificastes-nos como se faz com a prata."
+    },
+    {
+      "numero": 11,
+      "texto": "Deixastes-nos cair no laço, carga pesada pusestes em nossas costas."
+    },
+    {
+      "numero": 12,
+      "texto": "Submetestes-nos ao jugo dos homens, passamos pelo fogo e pela água; mas, por fim, nos destes alívio."
+    },
+    {
+      "numero": 13,
+      "texto": "É, pois, com holocaustos que entrarei em vossa casa, pagarei os votos que fiz para convosco,"
+    },
+    {
+      "numero": 14,
+      "texto": "votos proferidos pelos meus lábios, quando me encontrava na tribulação."
+    },
+    {
+      "numero": 15,
+      "texto": "Oferecerei em holocausto as mais belas ovelhas, com os mais gordos carneiros; imolarei touros e cabritos."
+    },
+    {
+      "numero": 16,
+      "texto": "Vinde, ouvi vós todos que temeis ao Senhor. Eu vos narrarei quão grandes coisas Deus fez à minha alma."
+    },
+    {
+      "numero": 17,
+      "texto": "Meus lábios o invocaram, com minha língua o louvei."
+    },
+    {
+      "numero": 18,
+      "texto": "Se eu intentasse no coração o mal, não me teria ouvido o Senhor."
+    },
+    {
+      "numero": 19,
+      "texto": "Mas Deus me ouviu; atendeu a voz da minha súplica."
+    },
+    {
+      "numero": 20,
+      "texto": "Bendito seja Deus que não rejeitou a minha oração, nem retirou de mim a sua misericórdia."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "65:1-4",
+      "texto": "O Salmo começa com um convite à adoração a Deus, que é o Criador e Sustentador. A expressão de louvor indica a alegria de estar em Sua presença, ressaltando a importância da adoração coletiva e a bênção de ser escolhido por Deus (veja também Salmo 84:4 e Efésios 1:4)."
+    },
+    {
+      "ref": "65:5-8",
+      "texto": "A salvação e os feitos de Deus são exaltados. Ele responde às orações e atende às necessidades do Seu povo, demonstrando Sua soberania sobre a criação. Isso enfatiza a relação entre a oração e a ação de Deus em nossa vida (veja também Salmo 50:15 e Tiago 5:16)."
+    },
+    {
+      "ref": "65:9-13",
+      "texto": "O Salmo descreve a generosidade de Deus em prover para a terra. As colheitas abundantes simbolizam Sua graça e bênçãos. Isso mostra como Deus cuida da criação e garante a prosperidade, refletindo a relação de dependência que temos d’Ele (veja também Deuteronômio 11:14 e Mateus 6:26)."
+    },
+    {
+      "ref": "65:10-11",
+      "texto": "A referência às chuvas e à fertilidade da terra destaca a provisão de Deus para o Seu povo. Esse cuidado não é apenas físico, mas também espiritual, indicando que Deus sustenta a vida em todos os seus aspectos (veja também Salmo 104:13-15 e 2 Coríntios 9:10)."
+    },
+    {
+      "ref": "65:12-13",
+      "texto": "O final do Salmo celebra a beleza da criação, enfatizando a alegria que vem do reconhecimento do cuidado divino. Essa gratidão deve nos levar a uma vida de adoração e reconhecimento da bondade de Deus em nossa vida (veja também Salmo 107:8-9 e 1 Tessalonicenses 5:18)."
+    }
+  ]
+}

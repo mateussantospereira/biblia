@@ -1,0 +1,141 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sao-tiago",
+  "nome": "São Tiago",
+  "testamento": "NT",
+  "capitulo": 2,
+  "totalVersiculos": 26,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sao-tiago/2/",
+  "capturadoEm": "2026-11-15T09:29:19-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Meus irmãos, na vossa fé em nosso glorioso Senhor Jesus Cristo, guardai-vos de toda consideração de pessoas."
+    },
+    {
+      "numero": 2,
+      "texto": "Suponde que entre na vossa reunião um homem com anel de ouro e ricos trajes, e entre também um pobre com trajes gastos;"
+    },
+    {
+      "numero": 3,
+      "texto": "se atenderdes ao que está magnificamente trajado, e lhe disserdes: “Senta-te aqui, neste lugar de honra”, e disserdes ao pobre: “Fica ali de pé”, ou: “Senta-te aqui junto ao estrado dos meus pés”,"
+    },
+    {
+      "numero": 4,
+      "texto": "não é verdade que fazeis distinção entre vós, e que sois juízes de pensamentos iníquos?"
+    },
+    {
+      "numero": 5,
+      "texto": "Ouvi, meus caríssimos irmãos: porventura não escolheu Deus os pobres deste mundo para que fossem ricos na fé e herdeiros do Reino prometido por Deus aos que o amam?"
+    },
+    {
+      "numero": 6,
+      "texto": "Mas vós desprezastes o pobre! Não são porventura os ricos os que vos oprimem e vos arrastam aos tribunais?"
+    },
+    {
+      "numero": 7,
+      "texto": "Não blasfemam eles o belo nome que trazeis?",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Se cumprirdes a Lei régia da Escritura: Amarás o teu próximo como a ti mesmo (Lv 19,18), sem dúvida fazeis bem."
+    },
+    {
+      "numero": 9,
+      "texto": "Mas se vos deixais levar por distinção de pessoas, cometeis uma falta e sereis condenados pela Lei como transgressores."
+    },
+    {
+      "numero": 10,
+      "texto": "Pois quem guardar os preceitos da Lei, mas faltar em um só ponto, se tornará culpado de toda ela."
+    },
+    {
+      "numero": 11,
+      "texto": "Porque aquele que disse: Não cometerás adultério, disse também: Não matarás (Ex 20,13s). Se, pois, matares, embora não tenhas cometido adultério, tornas-te transgressor da Lei."
+    },
+    {
+      "numero": 12,
+      "texto": "Falai, pois, de tal modo e de tal modo procedei, como se estivésseis para ser julgados pela Lei da liberdade."
+    },
+    {
+      "numero": 13,
+      "texto": "Haverá juízo sem misericórdia para aquele que não usou de misericórdia. A misericórdia triunfa sobre o julgamento."
+    },
+    {
+      "numero": 14,
+      "texto": "De que aproveitará, irmãos, a alguém dizer que tem fé, se não tiver obras? Acaso essa fé poderá salvá-lo?"
+    },
+    {
+      "numero": 15,
+      "texto": "Se a um irmão ou a uma irmã faltarem roupas e o alimento cotidiano,"
+    },
+    {
+      "numero": 16,
+      "texto": "e algum de vós lhes disser: “Ide em paz, aquecei-vos e fartai-vos”, mas não lhes der o necessário para o corpo, de que lhes aproveitará?"
+    },
+    {
+      "numero": 17,
+      "texto": "Assim também a fé: se não tiver obras, é morta em si mesma."
+    },
+    {
+      "numero": 18,
+      "texto": "Mas alguém dirá: “Tu tens fé, e eu tenho obras”. Mostra-me a tua fé sem obras e eu te mostrarei a minha fé pelas minhas obras."
+    },
+    {
+      "numero": 19,
+      "texto": "Crês que há um só Deus. Fazes bem. Também os demônios creem e tremem."
+    },
+    {
+      "numero": 20,
+      "texto": "Queres ver, ó homem vão, como a fé sem obras é estéril?"
+    },
+    {
+      "numero": 21,
+      "texto": "Abraão, nosso pai, não foi justificado pelas obras, oferecendo o seu filho Isaac sobre o altar?"
+    },
+    {
+      "numero": 22,
+      "texto": "Vês como a fé cooperava com as suas obras e era completada por elas."
+    },
+    {
+      "numero": 23,
+      "texto": "Assim se cumpriu a Escritura, que diz: Abraão creu em Deus e isto lhe foi tido em conta de justiça, e foi chamado amigo de Deus (Gn 15,6)."
+    },
+    {
+      "numero": 24,
+      "texto": "Vedes como o homem é justificado pelas obras e não somente pela fé?"
+    },
+    {
+      "numero": 25,
+      "texto": "Do mesmo modo Raab, a meretriz, não foi ela justificada pelas obras, por ter recebido os mensageiros e os ter feito sair por outro caminho?",
+      "nota": true
+    },
+    {
+      "numero": 26,
+      "texto": "Assim como o corpo sem a alma é morto, assim também a fé sem obras é morta."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "2:1-7",
+      "texto": "Tiago alerta contra a discriminação nas reuniões da Igreja, apontando que Deus escolheu os pobres para serem ricos na fé. A parcialidade contradiz o amor de Cristo, que acolhe todos igualmente (veja também 1 Coríntios 1:26-29 e Lucas 6:20-23)."
+    },
+    {
+      "ref": "2:8-13",
+      "texto": "O mandamento de amar ao próximo como a si mesmo é central na lei real de Cristo. O julgamento de Deus se baseia na misericórdia, e os cristãos devem demonstrar misericórdia para com os outros (veja também Mateus 22:37-40 e Mateus 7:2)."
+    },
+    {
+      "ref": "2:14-17",
+      "texto": "Tiago ensina que a fé sem obras é morta. A verdadeira fé é demonstrada por ações concretas de amor e serviço. O exemplo de Abraão e Raabe ilustra como a fé e as obras devem andar juntas (veja também Efésios 2:8-10 e Gálatas 5:6)."
+    },
+    {
+      "ref": "2:18-20",
+      "texto": "Tiago desafia os cristãos a demonstrar sua fé através de obras. A fé sem obras é vazia, e as boas obras são a evidência de uma fé genuína (veja também Tiago 1:22 e 1 João 3:18)."
+    },
+    {
+      "ref": "2:21-26",
+      "texto": "Tiago ilustra a relação entre fé e obras com os exemplos de Abraão e Raabe. Ambos demonstraram sua fé por ações ousadas e obedientes a Deus, reforçando a verdade de que a fé viva se expressa em atos (veja também Romanos 4:3 e Hebreus 11:17-31)."
+    }
+  ]
+}

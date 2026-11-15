@@ -1,0 +1,102 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sabedoria",
+  "nome": "Sabedoria",
+  "testamento": "AT",
+  "capitulo": 1,
+  "totalVersiculos": 16,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sabedoria/1/",
+  "capturadoEm": "2026-11-15T09:20:02-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Amai a justiça, vós que governais a terra, tende para com o Senhor sentimentos perfeitos, e procurai-o na simplicidade do coração,",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "porque ele é encontrado pelos que não o tentam, e se revela aos que não lhe recusam sua confiança;"
+    },
+    {
+      "numero": 3,
+      "texto": "com efeito, os pensamentos tortuosos afastam de Deus, e o seu poder, posto à prova, triunfa dos insensatos.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "A sabedoria não entrará na alma perversa, nem habitará no corpo sujeito ao pecado;"
+    },
+    {
+      "numero": 5,
+      "texto": "o Espírito Santo educador das almas fugirá da perfídia, se afastará dos pensamentos insensatos, e a iniquidade que sobrevém o repelirá."
+    },
+    {
+      "numero": 6,
+      "texto": "Sim, a sabedoria é um espírito que ama os homens, mas não deixará sem castigo o blasfemador pelo crime de seus lábios, porque Deus lhe sonda os rins, penetra até o fundo de seu coração, e ouve as suas palavras."
+    },
+    {
+      "numero": 7,
+      "texto": "Com efeito, o Espírito do Senhor enche o universo, e ele, que tem unidas todas as coisas, ouve toda voz."
+    },
+    {
+      "numero": 8,
+      "texto": "Aquele que profere uma linguagem iníqua, não pode fugir dele, e a justiça vingadora não o deixará escapar;"
+    },
+    {
+      "numero": 9,
+      "texto": "pois os próprios desígnios do ímpio serão cuidadosamente examinados; o som de suas palavras chegará até o Senhor, que lhe imporá o castigo pelos seus pecados."
+    },
+    {
+      "numero": 10,
+      "texto": "É, com efeito, um ouvido cioso, que tudo ouve: nem a menor murmuração lhe passa despercebida."
+    },
+    {
+      "numero": 11,
+      "texto": "Acautelai-vos, pois, de queixar-vos inutilmente, evitai que vossa língua se entregue à crítica, porque até mesmo uma palavra secreta não ficará sem castigo, e a boca que acusa com injustiça arrasta a alma à morte."
+    },
+    {
+      "numero": 12,
+      "texto": "Não procureis a morte por uma vida desregrada, não sejais o próprio artífice de vossa perda."
+    },
+    {
+      "numero": 13,
+      "texto": "Deus não é o autor da morte, a perdição dos vivos não lhe dá alegria alguma."
+    },
+    {
+      "numero": 14,
+      "texto": "Ele criou tudo para a existência, e as criaturas do mundo devem cooperar para a salvação. Nelas nenhum princípio é funesto, e a morte não é a rainha da terra,"
+    },
+    {
+      "numero": 15,
+      "texto": "porque a justiça é imortal.",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "Mas a morte os ímpios a chamam com o gesto e a voz. Crendo-a amiga, consomem-se de desejos, e fazem aliança com ela; de fato, eles merecem ser sua presa."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:1-3",
+      "texto": "A busca pela sabedoria é essencial e está ligada à justiça e ao temor do Senhor. A presença da sabedoria é um dom divino que ilumina o coração humano, guiando-o em ações corretas (veja também Provérbios 1:7 e Tiago 1:5)."
+    },
+    {
+      "ref": "1:4-6",
+      "texto": "A sabedoria é descrita como um espírito que não se afasta do mal e que proporciona discernimento moral. A comunhão com a sabedoria resulta em um estilo de vida que se alinha com os preceitos de Deus (veja também Salmo 111:10 e Eclesiástico 24:23)."
+    },
+    {
+      "ref": "1:7-10",
+      "texto": "A sabedoria é um dom que pertence a todos, mas sua aceitação depende da disposição do coração humano. A importância de buscar a sabedoria é reafirmada, destacando o papel ativo do ser humano nesse processo (veja também Provérbios 2:1-6 e Mateus 7:7-8)."
+    },
+    {
+      "ref": "1:11-15",
+      "texto": "A impiedade é uma escolha que leva à morte. O autor enfatiza que a verdadeira vida está enraizada na sabedoria, enquanto a maldade resulta em destruição. A escolha entre sabedoria e impiedade é crucial para a vida espiritual (veja também Romanos 6:23 e Eclesiástico 15:16-17)."
+    },
+    {
+      "ref": "1:16-20",
+      "texto": "A sabedoria oferece proteção e segurança, enquanto os que a rejeitam se afastam de sua fonte de vida. A conexão entre sabedoria e o favor de Deus é um tema central que ressalta a necessidade de escolha consciente (veja também Salmo 1:1-3 e Provérbios 3:5-6)."
+    }
+  ]
+}

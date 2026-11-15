@@ -1,0 +1,57 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 13,
+  "totalVersiculos": 7,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/13/",
+  "capturadoEm": "2026-11-15T09:16:14-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. De Davi. Diz o insensato em seu coração: “Não há Deus”. Corromperam-se os homens, sua coduta é abominável, não há um só que faça o bem.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "O Senhor, do alto do céu, observa os filhos dos homens, para ver se, acaso, existe alguém sensato que busque a Deus."
+    },
+    {
+      "numero": 3,
+      "texto": "Mas todos eles se extraviaram e se perverteram; não há mais ninguém que faça o bem, nem um, nem mesmo um só.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Não se emendarão esses obreiros do mal, que devoram meu povo como quem come pão? Eles que não invocam o Senhor?"
+    },
+    {
+      "numero": 5,
+      "texto": "Mas irão tremer de pavor, porque Deus está com a raça dos justos;"
+    },
+    {
+      "numero": 6,
+      "texto": "pretendeis frustrar os planos do humilde, mas o Senhor é seu refúgio."
+    },
+    {
+      "numero": 7,
+      "texto": "Ah, que venha de Sião a salvação de Israel! Quando o Senhor tiver mudado a sorte de seu povo, Jacó exultará e Israel se alegrará."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "13:1-2",
+      "texto": "O salmista expressa sua angústia e a sensação de abandono por Deus. Essa honestidade nas emoções é um convite para que os crentes sejam sinceros em suas lutas espirituais, reconhecendo que Deus está presente mesmo em tempos de dor (veja também Salmo 22:1-2 e 1 Pedro 5:7)."
+    },
+    {
+      "ref": "13:3-4",
+      "texto": "O clamor do salmista pede que Deus olhe e responda a seu sofrimento, enfatizando a necessidade da intervenção divina. A súplica reflete a esperança de que Deus não apenas ouça, mas também atue em favor de Seu povo (veja também Salmo 34:17-18 e Romanos 10:12-13)."
+    },
+    {
+      "ref": "13:5-6",
+      "texto": "Apesar da dor, o salmista reafirma sua confiança na bondade de Deus. A declaração de louvor mostra que a fé pode coexistir com a dor e a dúvida, enfatizando que a adoração é uma resposta à fidelidade de Deus, mesmo em meio a dificuldades (veja também Salmo 27:13-14 e Hebreus 13:15)."
+    }
+  ]
+}

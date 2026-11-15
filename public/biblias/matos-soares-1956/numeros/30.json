@@ -1,0 +1,103 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "numeros",
+  "nome": "Números",
+  "testamento": "AT",
+  "capitulo": 30,
+  "totalVersiculos": 17,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/numeros/30/",
+  "capturadoEm": "2026-11-15T09:45:02-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Moisés referiu aos filhos de Israel tudo o que o Senhor lhe tinha mandado"
+    },
+    {
+      "numero": 2,
+      "texto": "e disse aos príncipes das tribos dos filhos de Israel: Eis o que o Senhor ordenou:"
+    },
+    {
+      "numero": 3,
+      "texto": "Se um homem fizer um voto ao Senhor ou se obrigar com juramento, não faltará à sua palavra, mas cumprirá tudo o que prometeu,"
+    },
+    {
+      "numero": 4,
+      "texto": "Se uma mulher, ainda jovem, vivendo em casa de seu pai, fizer um voto e se obrigar com juramento, se o pai teve conhecimento do voto que ela fez e do juramento com que se obrigou, e não disse nada, ela está obrigada ao seu voto:"
+    },
+    {
+      "numero": 5,
+      "texto": "cumprirá de facto tudo o que prometeu e jurou fazer."
+    },
+    {
+      "numero": 6,
+      "texto": "Porém, se o pai, logo que o soube, se opôs, tanto os votos como os juramentos dela serão nulos, e não ficará obrigada ao que prometeu porque o pai se opôs."
+    },
+    {
+      "numero": 7,
+      "texto": "Se tiver marido, e fizer algum voto, e uma palavra saída uma vez da sua boca obrigar a sua alma com juramento,"
+    },
+    {
+      "numero": 8,
+      "texto": "se o seu marido, no dia em que tiver disso conhecimento, não se opuser, ela ficará obrigada ao voto, e cumprirá tudo o que prometeu."
+    },
+    {
+      "numero": 9,
+      "texto": "Mas, se o marido, no dia em que tiver disso conhecimento, se opuser, tornará nulas as suas promessas e as palavras com que se tinha obrigado, e o Senhor lhe perdoará."
+    },
+    {
+      "numero": 10,
+      "texto": "A viúva e a repudiada cumprirão todos os votos que fizerem,"
+    },
+    {
+      "numero": 11,
+      "texto": "A mulher que está em casa do marido, se se obrigar com voto ou juramento,"
+    },
+    {
+      "numero": 12,
+      "texto": "desde que o marido, ao sabê-lo, não diga nada, não se oponha à sua promessa, cumprirá tudo o que prometeu."
+    },
+    {
+      "numero": 13,
+      "texto": "Porém, se ele se opuser logo, não estará obrigada à promessa, porque o marido se opôs. O Senhor lhe perdoará."
+    },
+    {
+      "numero": 14,
+      "texto": "Se se comprometer por voto, ou se obrigar por juramento a afligir a sua alma, ficará ao arbítrio do marido ratificar ou anular tais compromissos."
+    },
+    {
+      "numero": 15,
+      "texto": "Se o marido, tendo conhecimento disso, não disser nada, e diferir para outro dia o seu parecer, ela cumprirá tudo o que tiver prometido com voto, visto que o marido, logo que o soube, não disse nada."
+    },
+    {
+      "numero": 16,
+      "texto": "Se, porém, se opôs depois que o soube, levará ele sobre si a iniquidade dela. (ver nota)"
+    },
+    {
+      "numero": 17,
+      "texto": "Estas são as leis que o Senhor intimou a Moisés (para serem observadas) entre o marido e a mulher, entre o pai e a filha, ainda jovem, que mora em casa de seu pai."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "30:1-2",
+      "texto": "Deus estabelece a importância de manter os votos feitos a Ele. A integridade e a seriedade ao se comprometer com Deus são fundamentais na vida de fé, e quebrar um voto é considerado um pecado grave (veja também Eclesiastes 5:4-5 e Mateus 5:33-37)."
+    },
+    {
+      "ref": "30:3-5",
+      "texto": "A lei sobre os votos das mulheres estabelece que o pai ou o marido podem anular os votos feitos por uma filha ou esposa. Isso reflete o sistema patriarcal da época, mas também a proteção da mulher sob a autoridade familiar (veja também Efésios 5:22-24 e 1 Pedro 3:1-6)."
+    },
+    {
+      "ref": "30:6-8",
+      "texto": "Os votos feitos por uma mulher casada podem ser anulados pelo marido se ele os desautorizar no momento em que os ouvir. Isso reflete a autoridade espiritual do homem no lar, segundo as práticas da Lei de Moisés (veja também Números 30:13 e 1 Coríntios 11:3)."
+    },
+    {
+      "ref": "30:9-12",
+      "texto": "As mulheres viúvas ou divorciadas, ao fazerem votos, são responsáveis por cumprir o que prometeram, já que não têm a figura de autoridade masculina sobre elas. Isso reforça a responsabilidade pessoal diante de Deus (veja também 1 Timóteo 5:5-6 e Salmo 56:12)."
+    },
+    {
+      "ref": "30:13-16",
+      "texto": "O marido tem o poder de confirmar ou anular qualquer voto de sua esposa. A conclusão do capítulo enfatiza a autoridade estabelecida na família e a responsabilidade de ambos os cônjuges diante de Deus (veja também Efésios 5:25 e Colossenses 3:18-19)."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 11,
+  "totalVersiculos": 9,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/11/",
+  "capturadoEm": "2026-11-15T09:52:18-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre do coro. Sobre a oitava. Salmo. De Davide."
+    },
+    {
+      "numero": 2,
+      "texto": "Salva-nos, Senhor, porque faltam pessoas de piedade, desapareceu a fidelidade entre os filhos dos homens."
+    },
+    {
+      "numero": 3,
+      "texto": "Cada um somente diz falsidade ao seu próximo;"
+    },
+    {
+      "numero": 4,
+      "texto": "Extirpe o Senhor todos os lábios dolosos, a língua que fala com arrogância,"
+    },
+    {
+      "numero": 5,
+      "texto": "aqueles que dizem : \"Somos fortes com a nossa língua, estão por nós os nossos lábios: quem é senhor de nós?\""
+    },
+    {
+      "numero": 6,
+      "texto": "\"Por causa da aflição dos humildes e do gemido dos pobres, agora me levantarei (para os defender), diz o Senhor, darei salvação a quem a deseja.\""
+    },
+    {
+      "numero": 7,
+      "texto": "As palavras do Senhor são palavras sinceras, são prata acrisolada, limpa da terra, depurada sete vezes."
+    },
+    {
+      "numero": 8,
+      "texto": "Tu, Senhor, nos guardarás, nos preservarás para sempre desta raça."
+    },
+    {
+      "numero": 9,
+      "texto": "Os ímpios passeiam ao redor, enquanto se pavoneiam os homens mais vis. (ver nota)"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "11:1",
+      "texto": "A confiança do salmista em Deus é inabalável, mesmo em meio ao perigo. A fé é apresentada como um refúgio seguro, lembrando que devemos buscar a proteção divina em tempos de adversidade (veja também Salmo 46:1 e Provérbios 18:10)."
+    },
+    {
+      "ref": "11:2-3",
+      "texto": "O salmista reconhece que a maldade se espalha e questiona a segurança da justiça. Essa reflexão sobre a corrupção e a fragilidade das instituições humanas revela a necessidade de uma justiça divina (veja também Salmo 73:16-17 e Miquéias 6:8)."
+    },
+    {
+      "ref": "11:4-5",
+      "texto": "A descrição de Deus como um juiz justo que examina o coração e as intenções destaca a importância da pureza e da integridade diante de Deus. Ele vê e julga com equidade (veja também Salmo 139:1-4 e Jeremias 17:10)."
+    },
+    {
+      "ref": "11:6",
+      "texto": "A certeza do juízo de Deus sobre os ímpios é reafirmada. Essa imagem de Deus como o executor da justiça traz conforto e esperança aos que buscam a retidão (veja também Salmo 37:9-11 e Romanos 12:19)."
+    },
+    {
+      "ref": "11:7",
+      "texto": "O salmista conclui que os justos verão a face de Deus, revelando a alegria e a recompensa que vêm de uma vida de fidelidade e retidão. A comunhão com Deus é o maior prêmio (veja também Mateus 5:8 e Apocalipse 22:4)."
+    }
+  ]
+}

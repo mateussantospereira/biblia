@@ -1,0 +1,63 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "levitico",
+  "nome": "Levítico",
+  "testamento": "AT",
+  "capitulo": 12,
+  "totalVersiculos": 8,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/levitico/12/",
+  "capturadoEm": "2026-11-15T09:44:10-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Senhor falou a Moisés, dizendo:"
+    },
+    {
+      "numero": 2,
+      "texto": "Fala aos filhos de Israel, e dize-lhes: Se uma mulher tendo concebido, der á luz um menino, será impura sete dias, como nos dias da menstruação."
+    },
+    {
+      "numero": 3,
+      "texto": "E, no oitavo dia será o menino circuncidado;"
+    },
+    {
+      "numero": 4,
+      "texto": "ela, porém, permanecerá trinta e três dias a purificar-se do seu sangue. Não tocará coisa alguma santa, nem entrará no santuário, até se completarem os dias da sua purificação."
+    },
+    {
+      "numero": 5,
+      "texto": "Se, porém, der à luz uma menina, será impura durante duas semanas, como no seu fluxo mênstruo, e permanecerá sessenta e seis dias a purificar-se do seu sangue."
+    },
+    {
+      "numero": 6,
+      "texto": "E, completos que forem os dias da sua purificação por um filho ou por uma filha, levará à porta do tabernáculo da reunião um cordeiro de um ano para holocausto, e um pombinho ou uma rola pelo pecado, e os entregará ao sacerdote. (ver nota)"
+    },
+    {
+      "numero": 7,
+      "texto": "Ele os oferecerá diante do Senhor, e orará por ela e assim será purificado do fluxo do seu sangue; esta é a lei daquela que dá à luz um menino ou uma menina."
+    },
+    {
+      "numero": 8,
+      "texto": "Se ela, porém, não tiver com que possa oferecer um cordeiro, tomará duas rolas ou dois pombinhos, um para (ser oferecido em) holocausto, outro pelo pecado; o sacerdote orará por ela, e assim será purificada."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "12:1-4",
+      "texto": "Após o nascimento de um filho, a mãe passa por um período de purificação. Isso enfatiza a necessidade de pureza no culto e na vida diária, e a ideia de que o nascimento, embora um dom divino, envolve uma renovação espiritual (veja também Salmo 51:5 e Lucas 2:22)."
+    },
+    {
+      "ref": "12:5",
+      "texto": "O período de purificação é mais longo quando uma filha nasce, reforçando os rituais de pureza e as tradições culturais do antigo Israel. A lei reflete a distinção entre o homem e a mulher em termos de pureza ritual (veja também Levítico 15:19-24 e Números 19:11-13)."
+    },
+    {
+      "ref": "12:6-7",
+      "texto": "A mãe oferece um sacrifício pelo pecado e um holocausto após o período de purificação, simbolizando a renovação e o agradecimento pela nova vida. Esse sacrifício destaca o valor do nascimento e da restauração espiritual (veja também Levítico 5:6-10 e Hebreus 10:1-4)."
+    },
+    {
+      "ref": "12:8",
+      "texto": "Para as famílias pobres, a oferta de duas rolinhas ou dois pombinhos é permitida em vez de um cordeiro. Isso mostra a provisão de Deus para todos, independentemente de sua condição econômica, e o princípio de igualdade diante de Deus (veja também Lucas 2:24 e 2 Coríntios 8:12)."
+    }
+  ]
+}

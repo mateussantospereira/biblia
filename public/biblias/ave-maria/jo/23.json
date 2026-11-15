@@ -1,0 +1,104 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "jo",
+  "nome": "Jó",
+  "testamento": "AT",
+  "capitulo": 23,
+  "totalVersiculos": 17,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/jo/23/",
+  "capturadoEm": "2026-11-15T09:15:42-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Então, Jó tomou a palavra nestes termos:"
+    },
+    {
+      "numero": 2,
+      "texto": "“Sim, hoje minha queixa é uma revolta, ainda que sua mão reprima meus suspiros.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Oxalá pudesse eu encontrá-lo e chegar até seu trono!"
+    },
+    {
+      "numero": 4,
+      "texto": "xporia diante de Deus a minha causa, encheria minha boca de argumentos."
+    },
+    {
+      "numero": 5,
+      "texto": "Saberia o que ele iria responder-me e veria o que ele teria para me dizer."
+    },
+    {
+      "numero": 6,
+      "texto": "Oporia ele contra mim com prepotência? Não! Bastaria que lançasse os olhos em mim."
+    },
+    {
+      "numero": 7,
+      "texto": "Seria então um justo a discutir com ele, e eu iria embora definitivamente absolvido pelo meu juiz."
+    },
+    {
+      "numero": 8,
+      "texto": "Mas se eu for ao Oriente, lá ele não está; ao Ocidente, não o encontrarei;"
+    },
+    {
+      "numero": 9,
+      "texto": "se o procuro ao Norte, não o vejo; se me volto para o Sul, não o descubro."
+    },
+    {
+      "numero": 10,
+      "texto": "Contudo, ele conhece o meu caminho; se me põe à prova, dela sairei puro como o ouro."
+    },
+    {
+      "numero": 11,
+      "texto": "Meus pés seguiram os seus traços, guardei o seu caminho sem me desviar."
+    },
+    {
+      "numero": 12,
+      "texto": "Não me afastei dos preceitos de seus lábios, guardei no meu íntimo as palavras de sua boca."
+    },
+    {
+      "numero": 13,
+      "texto": "Ele decidiu alguma coisa, quem o fará voltar atrás? Ele faz o que bem lhe agrada."
+    },
+    {
+      "numero": 14,
+      "texto": "Realizará seu desígnio a meu respeito e tem muitos projetos iguais a este."
+    },
+    {
+      "numero": 15,
+      "texto": "Eis por que sua presença me atemoriza. Basta o seu pensamento para me fazer tremer."
+    },
+    {
+      "numero": 16,
+      "texto": "Foi Deus que me fundiu o coração, o Todo-poderoso me enche de terror."
+    },
+    {
+      "numero": 17,
+      "texto": "Sucumbo diante das trevas. Elas cobriram-me o rosto."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "23:1-5",
+      "texto": "Jó expressa seu desejo de se encontrar com Deus para apresentar sua defesa. Essa busca pela presença divina revela um anseio profundo por justiça e compreensão no meio do sofrimento (veja também Salmo 42:1-2 e Salmo 27:4)."
+    },
+    {
+      "ref": "23:6-7",
+      "texto": "Jó afirma que Deus não o trataria injustamente e que, se pudesse apresentar seu caso, receberia justiça. Essa confiança na justiça divina reflete a fé de Jó em um Deus justo e amoroso, mesmo em meio ao sofrimento (veja também Salmo 37:25 e Romanos 8:28)."
+    },
+    {
+      "ref": "23:8-10",
+      "texto": "Jó reconhece a dificuldade de entender os caminhos de Deus, mas confia que, mesmo na escuridão, Deus conhece seu caminho. Essa afirmação destaca a importância da fé em tempos de incerteza e dor (veja também Provérbios 3:5-6 e Isaías 55:8-9)."
+    },
+    {
+      "ref": "23:11-12",
+      "texto": "Jó afirma que seguiu o caminho de Deus e não se afastou de Suas ordens. Essa declaração reflete a integridade de Jó e sua luta para entender o sofrimento que enfrenta, desafiando a teologia simplista de seus amigos (veja também 1 Pedro 2:19-20 e Tiago 1:12)."
+    },
+    {
+      "ref": "23:13-17",
+      "texto": "Jó conclui que Deus é soberano e que suas decisões são irrevogáveis. Essa realidade traz temor a Jó, mas também revela a profundidade de sua relação com Deus, que inclui luta, dúvida e fé (veja também Romanos 11:33-36 e Hebreus 12:1-2)."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 12,
+  "totalVersiculos": 6,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/12/",
+  "capturadoEm": "2026-11-15T09:21:25-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "E dirás naquele tempo: Eu vos rendo graças, Senhor, porque vos irritastes; vossa cólera se aplacou e vós me consolastes."
+    },
+    {
+      "numero": 2,
+      "texto": "Eis o Deus que me salva, tenho confiança e nada temo, porque minha força e meu canto é o Senhor, e ele foi o meu salvador."
+    },
+    {
+      "numero": 3,
+      "texto": "Vós tirareis com alegria água das fontes da salvação,",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "e direis naquele tempo: “Louvai o Senhor, invocai o seu nome, fazei que suas obras sejam conhecidas entre os povos; proclamai que seu nome é sublime."
+    },
+    {
+      "numero": 5,
+      "texto": "Cantai ao Senhor, porque ele fez maravilhas, e que isto seja conhecido por toda a terra."
+    },
+    {
+      "numero": 6,
+      "texto": "Exultai de gozo e alegria, habitantes de Sião, porque é grande no meio de vós o Santo de Israel.”"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "12:1-2",
+      "texto": "O profeta declara louvor a Deus por Sua salvação e misericórdia. Esse cântico celebra a transformação do juízo em salvação e a fidelidade do Senhor (veja também Êxodo 15:1-2 e Salmo 118:14)."
+    },
+    {
+      "ref": "12:3",
+      "texto": "“Com alegria tirareis água das fontes da salvação” simboliza o regozijo e a paz que vêm da presença de Deus. As “fontes de salvação” indicam a abundância e a suficiência do Senhor para satisfazer (veja também João 4:13-14 e Isaías 55:1)."
+    },
+    {
+      "ref": "12:4",
+      "texto": "O povo é chamado a anunciar os feitos de Deus e engrandecer Seu nome entre as nações. Isso destaca o caráter universal da adoração e a importância do testemunho (veja também Salmo 96:2-3 e Mateus 28:19-20)."
+    },
+    {
+      "ref": "12:5",
+      "texto": "Cantar louvores ao Senhor é um convite para celebrar Suas obras poderosas e reconhecer Sua presença no mundo. Esse louvor reflete a gratidão e adoração que Deus merece (veja também Salmo 105:1-2 e Efésios 5:19-20)."
+    },
+    {
+      "ref": "12:6",
+      "texto": "O profeta exorta o povo a clamar e cantar, pois “grande é o Santo de Israel no meio de ti”. Essa declaração finaliza o cântico de louvor com uma celebração da presença real e poderosa de Deus entre Seu povo (veja também Sofonias 3:17 e Apocalipse 21:3)."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "proverbios",
+  "nome": "Provérbios",
+  "testamento": "AT",
+  "capitulo": 5,
+  "totalVersiculos": 23,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/proverbios/5/",
+  "capturadoEm": "2026-11-15T09:19:14-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Meu filho, atende à minha sabedoria, presta atenção à minha razão,"
+    },
+    {
+      "numero": 2,
+      "texto": "a fim de conservares o sentido das coisas e guardares a ciência em teus lábios."
+    },
+    {
+      "numero": 3,
+      "texto": "Porque os lábios da mulher alheia destilam o mel; seu paladar é mais oleoso que o azeite."
+    },
+    {
+      "numero": 4,
+      "texto": "No fim, porém, é amarga como o absinto, aguda como a espada de dois gumes."
+    },
+    {
+      "numero": 5,
+      "texto": "Seus pés se encaminham para a morte, seus passos atingem a região dos mortos."
+    },
+    {
+      "numero": 6,
+      "texto": "Longe de andarem pela vereda da vida, seus passos se extraviam, sem saber para onde."
+    },
+    {
+      "numero": 7,
+      "texto": "Escutai-me, pois, meus filhos, não vos aparteis das palavras de minha boca."
+    },
+    {
+      "numero": 8,
+      "texto": "Afasta dela teu caminho, não te aproximes da porta de sua casa,"
+    },
+    {
+      "numero": 9,
+      "texto": "para que não seja entregue a outros tua fortuna e tua vida a um homem cruel;"
+    },
+    {
+      "numero": 10,
+      "texto": "para que estranhos não se fartem de teus haveres e o fruto de teu trabalho não passe para a casa alheia;"
+    },
+    {
+      "numero": 11,
+      "texto": "para que não gemas no fim, quando forem consumidas tuas carnes e teu corpo"
+    },
+    {
+      "numero": 12,
+      "texto": "e tiveres que dizer: “Por que odiei a disciplina, e meu coração desdenhou a correção?"
+    },
+    {
+      "numero": 13,
+      "texto": "Por que não ouvi a voz de meus mestres, nem dei ouvido aos meus educadores?"
+    },
+    {
+      "numero": 14,
+      "texto": "Por pouco eu chegaria ao cúmulo da desgraça no meio da assembleia do povo”."
+    },
+    {
+      "numero": 15,
+      "texto": "Bebe a água do teu poço e das correntes de tua cisterna.",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "Tuas fontes se derramarão por fora e teus arroios nas ruas?"
+    },
+    {
+      "numero": 17,
+      "texto": "Sejam eles só para ti, sem que os estranhos neles tomem parte."
+    },
+    {
+      "numero": 18,
+      "texto": "Seja bendita a tua fonte! Regozija-te com a mulher de tua juventude,"
+    },
+    {
+      "numero": 19,
+      "texto": "corça de amor, serva encantadora. Que sejas sempre embriagado com seus encantos e que seus amores te embriaguem sem cessar!"
+    },
+    {
+      "numero": 20,
+      "texto": "Por que hás de te enamorar de uma alheia e abraçar o seio de uma estranha?"
+    },
+    {
+      "numero": 21,
+      "texto": "Pois o Senhor olha os caminhos dos homens e observa todas as suas veredas."
+    },
+    {
+      "numero": 22,
+      "texto": "O homem será preso por suas próprias faltas e ligado com as cadeias de seu pecado."
+    },
+    {
+      "numero": 23,
+      "texto": "Perecerá por falta de correção e se desviará pelo excesso de sua loucura."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "5:1-2",
+      "texto": "O autor exorta o leitor a prestar atenção à sabedoria e ao entendimento. Essas virtudes são fundamentais para uma vida reta e para evitar cair em tentação. Sabedoria e discernimento protegem contra decisões insensatas (veja também Provérbios 4:7 e Tiago 1:5)."
+    },
+    {
+      "ref": "5:3-6",
+      "texto": "A advertência contra a mulher adúltera destaca os perigos da sedução e da imoralidade. Seu discurso suave e atraente leva à destruição, enfatizando a necessidade de evitar o pecado desde o início (veja também Provérbios 2:16-19 e 1 Coríntios 6:18)."
+    },
+    {
+      "ref": "5:7-8",
+      "texto": "O sábio alerta para a necessidade de se afastar de situações tentadoras. O caminho do adúltero conduz à morte e à ruína, e a melhor defesa é manter distância (veja também 2 Timóteo 2:22 e Mateus 5:27-28)."
+    },
+    {
+      "ref": "5:15-18",
+      "texto": "A imagem de beber água da própria cisterna é uma metáfora para a fidelidade no casamento. O relacionamento conjugal deve ser uma fonte de alegria e satisfação, abençoado por Deus (veja também 1 Coríntios 7:2-5 e Efésios 5:25-28)."
+    },
+    {
+      "ref": "5:21-23",
+      "texto": "Deus vê todos os caminhos do homem, e suas ações não ficam ocultas. Aqueles que se recusam a seguir a sabedoria divina estão destinados à destruição, enfatizando a importância da retidão moral (veja também Salmo 139:1-3 e Jeremias 17:10)."
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sao-mateus",
+  "nome": "São Mateus",
+  "testamento": "NT",
+  "capitulo": 1,
+  "totalVersiculos": 25,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sao-mateus/1/",
+  "capturadoEm": "2026-11-15T09:25:37-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Genealogia de Jesus Cristo, filho de Davi, filho de Abraão."
+    },
+    {
+      "numero": 2,
+      "texto": "Abraão gerou Isaac. Isaac gerou Jacó. Jacó gerou Judá e seus irmãos."
+    },
+    {
+      "numero": 3,
+      "texto": "Judá gerou, de Tamar, Farés e Zara. Farés gerou Esron. Esron gerou Arão."
+    },
+    {
+      "numero": 4,
+      "texto": "Arão gerou Aminadab. Aminadab gerou Naasson. Naasson gerou Salmon."
+    },
+    {
+      "numero": 5,
+      "texto": "Salmon gerou Booz, de Raab. Booz gerou Obed, de Rute. Obed gerou Jessé. Jessé gerou o rei Davi."
+    },
+    {
+      "numero": 6,
+      "texto": "O rei Davi gerou Salomão, daquela que fora mulher de Urias."
+    },
+    {
+      "numero": 7,
+      "texto": "Salomão gerou Roboão. Roboão gerou Abias. Abias gerou Asa."
+    },
+    {
+      "numero": 8,
+      "texto": "Asa gerou Josafá. Josafá gerou Jorão. Jorão gerou Ozias."
+    },
+    {
+      "numero": 9,
+      "texto": "Ozias gerou Joatão. Joatão gerou Acaz. Acaz gerou Ezequias."
+    },
+    {
+      "numero": 10,
+      "texto": "Ezequias gerou Manassés. Manassés gerou Amon. Amon gerou Josias."
+    },
+    {
+      "numero": 11,
+      "texto": "Josias gerou Jeconias e seus irmãos, no cativeiro da Babilônia."
+    },
+    {
+      "numero": 12,
+      "texto": "E, depois do cativeiro da Babilônia, Jeconias gerou Salatiel. Salatiel gerou Zorobabel."
+    },
+    {
+      "numero": 13,
+      "texto": "Zorobabel gerou Abiud. Abiud gerou Eliacim. Eliacim gerou Azor."
+    },
+    {
+      "numero": 14,
+      "texto": "Azor gerou Sadoc. Sadoc gerou Aquim. Aquim gerou Eliud."
+    },
+    {
+      "numero": 15,
+      "texto": "Eliud gerou Eleazar. Eleazar gerou Matã. Matã gerou Jacó."
+    },
+    {
+      "numero": 16,
+      "texto": "Jacó gerou José, esposo de Maria, da qual nasceu Jesus, que é chamado Cristo.",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "Portanto, as gerações, desde Abraão até Davi, são catorze. Desde Davi até o cativeiro da Babilônia, catorze gerações. E, depois do cativeiro até Cristo, catorze gerações."
+    },
+    {
+      "numero": 18,
+      "texto": "Eis como nasceu Jesus Cristo: Maria, sua mãe, estava desposada com José. Antes de coabitarem, aconteceu que ela concebeu por virtude do Espírito Santo."
+    },
+    {
+      "numero": 19,
+      "texto": "José, seu esposo, que era homem de bem, não querendo difamá-la, resolveu rejeitá-la secretamente."
+    },
+    {
+      "numero": 20,
+      "texto": "Enquanto assim pensava, eis que um anjo do Senhor lhe apareceu em sonhos e lhe disse: “José, filho de Davi, não temas receber Maria por esposa, pois o que nela foi concebido vem do Espírito Santo."
+    },
+    {
+      "numero": 21,
+      "texto": "Ela dará à luz um filho, a quem porás o nome de Jesus, porque ele salvará o seu povo de seus pecados”.",
+      "nota": true
+    },
+    {
+      "numero": 22,
+      "texto": "Tudo isto aconteceu para que se cumprisse o que o Senhor falou pelo profeta:"
+    },
+    {
+      "numero": 23,
+      "texto": "Eis que uma Virgem conceberá e dará à luz um filho, que se chamará Emanuel (Is 7,14), que significa: Deus conosco."
+    },
+    {
+      "numero": 24,
+      "texto": "Despertando, José fez como o anjo do Senhor lhe havia mandado e recebeu em sua casa sua esposa."
+    },
+    {
+      "numero": 25,
+      "texto": "E, sem que ele a tivesse conhecido, ela deu à luz o seu filho, que recebeu o nome de Jesus."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:1-17",
+      "texto": "A genealogia de Jesus, que vai de Abraão a Davi até José, enfatiza sua ligação com as promessas feitas a Israel. A linhagem de Jesus confirma que Ele é o Messias prometido, descendente de Abraão e Davi, atendendo à expectativa messiânica do Antigo Testamento (veja também Lucas 3:23-38 e Jeremias 23:5-6)."
+    },
+    {
+      "ref": "1:18-21",
+      "texto": "O nascimento de Jesus é narrado como cumprimento das profecias do Antigo Testamento. A virgindade de Maria e o nascimento virginal de Jesus são sinais do cumprimento da promessa de Deus de enviar o Salvador, que viria para libertar o Seu povo do pecado (veja também Isaías 7:14 e João 1:14)."
+    },
+    {
+      "ref": "1:22-23",
+      "texto": "O nome de Jesus, \"Emmanuel\", que significa \"Deus conosco\", reflete o caráter divino e a presença de Deus na história humana. Jesus é a manifestação de Deus entre os homens, trazendo salvação e revelando Seu plano redentor (veja também Isaías 8:8-10 e João 14:9-11)."
+    },
+    {
+      "ref": "1:24-25",
+      "texto": "A obediência de José, que recebe Maria como esposa e não a conhece até o nascimento de Jesus, exemplifica a fé e a obediência em confiar no plano divino. Sua ação é um modelo de fidelidade à direção de Deus (veja também Lucas 2:6-7 e 1 Coríntios 1:26-30)."
+    }
+  ]
+}

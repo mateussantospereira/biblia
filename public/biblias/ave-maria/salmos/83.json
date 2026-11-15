@@ -1,0 +1,89 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 83,
+  "totalVersiculos": 13,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/83/",
+  "capturadoEm": "2026-11-15T09:17:28-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. Com a Gitiena. Salmo dos filhos de Coré.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Como são amáveis as vossas moradas, Senhor dos exércitos!"
+    },
+    {
+      "numero": 3,
+      "texto": "Minha alma desfalecida se consome suspirando pelos átrios do Senhor. Meu coração e minha carne exultam pelo Deus vivo."
+    },
+    {
+      "numero": 4,
+      "texto": "Até o pássaro encontra um abrigo, e a andorinha faz um ninho para pôr seus filhos. Ah, vossos altares, Senhor dos exércitos, meu rei e meu Deus!"
+    },
+    {
+      "numero": 5,
+      "texto": "Felizes os que habitam em vossa casa, Senhor: aí eles vos louvam para sempre."
+    },
+    {
+      "numero": 6,
+      "texto": "Feliz o homem cujo socorro está em vós, e só pensa em vossa santa peregrinação."
+    },
+    {
+      "numero": 7,
+      "texto": "Quando atravessam o vale árido, eles o transformam em fontes, e a chuva do outono vem cobri-los de bênçãos."
+    },
+    {
+      "numero": 8,
+      "texto": "Seu vigor aumenta à medida que avançam, porque logo verão o Deus dos deuses em Sião."
+    },
+    {
+      "numero": 9,
+      "texto": "Senhor dos exércitos, escutai minha oração, prestai-me ouvidos, ó Deus de Jacó."
+    },
+    {
+      "numero": 10,
+      "texto": "Ó Deus, nosso escudo, olhai; vede a face daquele que vos é consagrado.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Verdadeiramente, um dia em vossos átrios vale mais que milhares fora deles. Prefiro deter-me no limiar da casa de meu Deus a morar nas tendas dos pecadores."
+    },
+    {
+      "numero": 12,
+      "texto": "Porque o Senhor Deus é nosso sol e nosso escudo, o Senhor dá a graça e a glória. Ele não recusa os seus bens àqueles que caminham na inocência."
+    },
+    {
+      "numero": 13,
+      "texto": "Ó Senhor dos exércitos, feliz o homem que em vós confia."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "83:1-4",
+      "texto": "O salmista pede que Deus não permaneça em silêncio diante dos inimigos de Israel. Esses inimigos conspiram contra o povo de Deus, buscando sua destruição, refletindo a oposição contra o plano divino (veja também Salmo 2:1-2 e Êxodo 15:9)."
+    },
+    {
+      "ref": "83:5-8",
+      "texto": "Os inimigos de Israel se unem em aliança para destruí-los. O salmista lista várias nações que se opõem ao povo de Deus, mostrando a ameaça de uma coalizão poderosa (veja também 2 Crônicas 20:1-2 e Isaías 8:9-10)."
+    },
+    {
+      "ref": "83:9-12",
+      "texto": "O salmista pede a Deus que trate os inimigos como tratou os antigos opressores de Israel, como Midiã e Sísera. Isso reflete a confiança de que Deus é o defensor de Seu povo e julgará os ímpios (veja também Juízes 7:25 e Juízes 4:15)."
+    },
+    {
+      "ref": "83:13-15",
+      "texto": "O salmista usa imagens de vento, fogo e tempestade para pedir que Deus disperse e destrua os inimigos, mostrando a força e o poder do julgamento divino (veja também Isaías 66:15-16 e Salmo 68:2)."
+    },
+    {
+      "ref": "83:16-18",
+      "texto": "O objetivo final do julgamento divino é que as nações reconheçam o poder soberano de Deus e O adorem. O salmista expressa o desejo de que os inimigos sejam envergonhados, mas levados ao arrependimento (veja também Salmo 46:10 e Filipenses 2:10-11)."
+    }
+  ]
+}

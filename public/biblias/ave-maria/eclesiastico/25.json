@@ -1,0 +1,182 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "eclesiastico",
+  "nome": "Eclesiástico",
+  "testamento": "AT",
+  "capitulo": 25,
+  "totalVersiculos": 36,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/eclesiastico/25/",
+  "capturadoEm": "2026-11-15T09:20:46-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Meu espírito se compraz em três coisas que têm a aprovação de Deus e dos homens:"
+    },
+    {
+      "numero": 2,
+      "texto": "a união entre os irmãos, o amor entre os parentes, e um marido que vive bem com sua mulher."
+    },
+    {
+      "numero": 3,
+      "texto": "Mas há três espécies de gente que minha alma detesta, e cuja vida me é insuportável:"
+    },
+    {
+      "numero": 4,
+      "texto": "um pobre orgulhoso, um rico mentiroso e um ancião louco e insensato."
+    },
+    {
+      "numero": 5,
+      "texto": "Como acharás na velhice aquilo que não tiveres acumulado na juventude?"
+    },
+    {
+      "numero": 6,
+      "texto": "Quão belo é para a velhice o saber julgar, e para os anciãos o saber aconselhar!"
+    },
+    {
+      "numero": 7,
+      "texto": "Quão bela é a sabedoria nas pessoas de idade avançada, e a inteligência com a prudência nas pessoas honradas!"
+    },
+    {
+      "numero": 8,
+      "texto": "A experiência consumada é a coroa dos anciãos; o temor a Deus é a sua glória."
+    },
+    {
+      "numero": 9,
+      "texto": "Nove coisas se apresentam ao meu espírito, as quais considero felizes, e uma décima que anunciarei aos homens:"
+    },
+    {
+      "numero": 10,
+      "texto": "um homem que encontra a sua alegria em seus filhos; um homem que vive o bastante para ver a ruína de seus inimigos;"
+    },
+    {
+      "numero": 11,
+      "texto": "aquele – feliz dele! – que vive com uma mulher sensata, e que não pecou pela língua, nem teve de servir a pessoas indignas dele."
+    },
+    {
+      "numero": 12,
+      "texto": "Feliz aquele que encontrou um amigo verdadeiro, e que fala da justiça a um ouvido atento."
+    },
+    {
+      "numero": 13,
+      "texto": "Como é grande aquele que encontrou sabedoria e ciência! Mas nada é tão grande como aquele que teme o Senhor:"
+    },
+    {
+      "numero": 14,
+      "texto": "o temor a Deus coloca-o acima de tudo."
+    },
+    {
+      "numero": 15,
+      "texto": "Feliz o homem que recebeu o dom do temor a Deus."
+    },
+    {
+      "numero": 16,
+      "texto": "O temor a Deus é o começo de seu amor, e a ele é preciso acrescentar um princípio de fé."
+    },
+    {
+      "numero": 17,
+      "texto": "A tristeza do coração é uma chaga universal, e a maldade feminina é uma malícia consumada."
+    },
+    {
+      "numero": 18,
+      "texto": "Toda chaga, não, porém, a chaga do coração;"
+    },
+    {
+      "numero": 19,
+      "texto": "toda malícia, não, porém, a malícia da mulher;"
+    },
+    {
+      "numero": 20,
+      "texto": "toda vingança, não, porém, a que nos causam nossos adversários;"
+    },
+    {
+      "numero": 21,
+      "texto": "toda vingança, não, porém, a de nossos inimigos."
+    },
+    {
+      "numero": 22,
+      "texto": "Não há veneno pior que o das serpentes;",
+      "nota": true
+    },
+    {
+      "numero": 23,
+      "texto": "não há cólera que vença a da mulher. É melhor viver com um leão e um dragão que morar com uma mulher maldosa."
+    },
+    {
+      "numero": 24,
+      "texto": "A malícia de uma mulher transtorna-lhe as feições, obscurece-lhe o olhar como o de um urso, e dá-lhe uma tez com a aparência de saco."
+    },
+    {
+      "numero": 25,
+      "texto": "Entre seus parentes, queixa-se o seu marido, e, ouvindo-os, suspira amargamente.",
+      "nota": true
+    },
+    {
+      "numero": 26,
+      "texto": "Toda malícia é leve, comparada com a malícia de uma mulher; que a sorte dos pecadores caia sobre ela!"
+    },
+    {
+      "numero": 27,
+      "texto": "Como uma ladeira arenosa aos pés de um ancião, assim é a mulher tagarela para um marido pacato."
+    },
+    {
+      "numero": 28,
+      "texto": "Não contemples a beleza de uma mulher, não cobices uma mulher pela sua beleza."
+    },
+    {
+      "numero": 29,
+      "texto": "Grandes são a cólera de uma mulher, sua audácia, sua desordem."
+    },
+    {
+      "numero": 30,
+      "texto": "Se a mulher tiver o mando, ela se erguerá contra o marido.",
+      "nota": true
+    },
+    {
+      "numero": 31,
+      "texto": "Coração abatido, semblante triste e chaga de coração: eis o que faz uma mulher maldosa."
+    },
+    {
+      "numero": 32,
+      "texto": "Mãos lânguidas, joelhos que se dobram: eis o que faz uma mulher que não traz felicidade ao seu marido."
+    },
+    {
+      "numero": 33,
+      "texto": "Foi pela mulher que começou o pecado, e é por causa dela que todos morremos."
+    },
+    {
+      "numero": 34,
+      "texto": "Não dês à tua água a mais ligeira abertura, nem à mulher maldosa a liberdade de sair a público."
+    },
+    {
+      "numero": 35,
+      "texto": "Se ela não andar sob a direção de tuas mãos, ela te cobrirá de vergonha na presença de teus inimigos."
+    },
+    {
+      "numero": 36,
+      "texto": "Separa-te do seu corpo, a fim de que não abuse sempre de ti."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "25:1-2",
+      "texto": "O autor destaca três coisas que ele acha belas e que Deus aprova: a harmonia entre irmãos, o amor entre marido e mulher, e a amizade sincera. Esses aspectos da vida refletem a paz e a unidade que Deus deseja para a humanidade (veja também Salmo 133:1 e Efésios 5:33)."
+    },
+    {
+      "ref": "25:4-6",
+      "texto": "A sabedoria adquirida ao longo dos anos é exaltada. Os anciãos, por sua experiência e discernimento, são valorizados pela sua prudência e conselho. Isso enfatiza o papel da sabedoria prática na vida cotidiana (veja também Provérbios 16:31 e Jó 12:12)."
+    },
+    {
+      "ref": "25:7-10",
+      "texto": "Sete coisas são mencionadas como sendo motivo de alegria para o autor, incluindo viver para ver a queda dos inimigos e ter um bom relacionamento com a esposa. Isso destaca a importância das relações pessoais e da justiça divina (veja também Provérbios 10:28 e 2 Samuel 22:49)."
+    },
+    {
+      "ref": "25:13-16",
+      "texto": "O autor adverte contra os perigos de uma esposa má, comparando-a a um fardo insuportável e usando imagens fortes como areia no deserto e serpentes venenosas. Isso reflete a importância de uma vida conjugal harmoniosa (veja também Provérbios 21:9 e Provérbios 25:24)."
+    },
+    {
+      "ref": "25:23-26",
+      "texto": "Uma mulher má é descrita como fonte de desânimo e tristeza, podendo até enfraquecer a alma de um homem. A sabedoria da Escritura aconselha o divórcio nesses casos, revelando o impacto profundo de relações pessoais no bem-estar espiritual e emocional (veja também Provérbios 12:4 e Eclesiastes 7:26)."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-samuel",
+  "nome": "I Samuel",
+  "testamento": "AT",
+  "capitulo": 1,
+  "totalVersiculos": 28,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-samuel/1/",
+  "capturadoEm": "2026-11-15T09:11:13-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Havia em Ramataim-Sofim um homem das montanhas de Efraim, chamado Elcana, filho de Jeroam, filho de Eliú, filho de Tou, filho de Suf, o efraimita."
+    },
+    {
+      "numero": 2,
+      "texto": "Tinha ele duas mulheres, uma chamada Ana e outra Fenena. Esta última tinha filhos; Ana, porém, não os tinha."
+    },
+    {
+      "numero": 3,
+      "texto": "Cada ano subia esse homem de sua cidade para adorar o Senhor dos exércitos e oferecer-lhe um sacrifício em Silo, onde se encontravam os dois filhos de Heli, Hofni e Fineias, sacerdotes do Senhor.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Cada vez que Elcana oferecia um sacrifício, dava porções à sua mulher Fenena, bem como aos filhos e filhas que ela teve;"
+    },
+    {
+      "numero": 5,
+      "texto": "a Ana, porém, dava uma porção dupla, porque a amava, embora o Senhor a tivesse tornado estéril."
+    },
+    {
+      "numero": 6,
+      "texto": "Sua rival afligia-a duramente, provocando-a a murmurar contra o Senhor que a tinha feito estéril."
+    },
+    {
+      "numero": 7,
+      "texto": "Isso se repetia cada ano quando ela subia à casa do Senhor; Fenena continuava provocando-a. Então, Ana punha-se a chorar e não comia."
+    },
+    {
+      "numero": 8,
+      "texto": "Seu marido dizia-lhe: “Ana, por que choras? Por que não comes? Por que estás triste? Não valho eu para ti como dez filhos?”."
+    },
+    {
+      "numero": 9,
+      "texto": "(Desta vez) Ana levantou-se, depois de ter comido e bebido em Silo. Ora, o sacerdote Heli estava sentado numa cadeira à entrada do Templo do Senhor."
+    },
+    {
+      "numero": 10,
+      "texto": "Ana, profundamente amargurada, orou ao Senhor e chorou copiosamente."
+    },
+    {
+      "numero": 11,
+      "texto": "E fez um voto, dizendo: “Senhor dos exércitos, se vos dignardes olhar para a aflição de vossa serva e vos lembrardes de mim; se não vos esquecerdes de vossa escrava e lhe derdes um filho varão, eu o consagrarei ao Senhor durante todos os dias de sua vida e a navalha não passará pela sua cabeça”."
+    },
+    {
+      "numero": 12,
+      "texto": "Prolongando ela sua oração diante do Senhor, Heli observava o movimento dos seus lábios."
+    },
+    {
+      "numero": 13,
+      "texto": "Ana, porém, falava no seu coração e apenas se moviam os seus lábios, sem se lhe ouvir a voz."
+    },
+    {
+      "numero": 14,
+      "texto": "Heli, julgando-a ébria, falou-lhe: “Até quando estarás tu embriagada? Vai-te e deixa passar a tua bebedeira”."
+    },
+    {
+      "numero": 15,
+      "texto": "“Não é assim, meu Senhor – respondeu ela –, eu sou uma mulher aflita: não bebi nem vinho, nem álcool, mas derramo a minha alma na presença do Senhor."
+    },
+    {
+      "numero": 16,
+      "texto": "Não tomes a tua escrava por uma pessoa frívola, porque é a grandeza de minha dor e de minha aflição que me fez falar até agora.”"
+    },
+    {
+      "numero": 17,
+      "texto": "Heli respondeu: “Vai em paz e o Deus de Israel te conceda o que lhe pedes”."
+    },
+    {
+      "numero": 18,
+      "texto": "“Encontre a tua serva graça aos teus olhos” – ajuntou ela. A mulher se foi, comeu e o seu rosto não era mais o mesmo."
+    },
+    {
+      "numero": 19,
+      "texto": "No dia seguinte, pela manhã, prostraram-se diante do Senhor e voltaram para a sua casa em Ramá."
+    },
+    {
+      "numero": 20,
+      "texto": "Elcana conheceu Ana, sua mulher, e o Senhor lembrou-se dela. Ana concebeu, e, passado o seu tempo, deu à luz um filho. Chamou-o Samuel, dizendo: “Porque – dizia – eu o pedi ao Senhor”.",
+      "nota": true
+    },
+    {
+      "numero": 21,
+      "texto": "Elcana, seu marido, foi com toda a sua casa para oferecer ao Senhor o sacrifício anual."
+    },
+    {
+      "numero": 22,
+      "texto": "Ana, porém, não foi e disse ao seu marido: “Quando o menino for desmamado, eu o levarei para apresentá-lo ao Senhor e lá ficará para sempre”."
+    },
+    {
+      "numero": 23,
+      "texto": "“Faze como achares melhor – respondeu-lhe Elcana –, fica até que o tenhas desmamado e que o Senhor se digne confirmar a sua promessa.” Ela ficou e amamentou o seu filho até o desmamar."
+    },
+    {
+      "numero": 24,
+      "texto": "Após tê-lo desmamado, tomou-o consigo e levando também três novilhos de três anos, um efá de farinha e um odre de vinho, conduziu-o à casa do Senhor, em Silo. O menino era ainda muito criança."
+    },
+    {
+      "numero": 25,
+      "texto": "Imolaram o novilho e conduziram o menino a Heli."
+    },
+    {
+      "numero": 26,
+      "texto": "Ana disse-lhe: “Ouve, meu Senhor, por tua vida, eu sou aquela mulher que esteve aqui em tua presença orando ao Senhor."
+    },
+    {
+      "numero": 27,
+      "texto": "Eis aqui o menino por quem orei e o Senhor ouviu o meu pedido."
+    },
+    {
+      "numero": 28,
+      "texto": "Portanto, eu também o dou ao Senhor: ele será consagrado ao Senhor para todos os dias de sua vida”. E prostraram-se naquele lugar diante do Senhor."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:1-2",
+      "texto": "Elcana, um homem temente a Deus, tinha duas esposas, Ana e Penina. Ana era estéril, o que trazia grande sofrimento, já que, no contexto cultural hebraico, a esterilidade era vista como uma maldição. A narrativa reflete a importância da fertilidade na Antiguidade (veja também Gênesis 30:1 e Lucas 1:7)."
+    },
+    {
+      "ref": "1:9-11",
+      "texto": "Ana ora fervorosamente no templo, pedindo um filho ao Senhor e prometendo consagrar a criança a Deus por toda a sua vida. Sua oração sincera reflete a prática da intercessão pessoal e a confiança no poder de Deus para transformar situações desesperadoras (veja também Salmo 37:4-5 e Tiago 5:16)."
+    },
+    {
+      "ref": "1:17-18",
+      "texto": "Eli, o sacerdote, abençoa Ana após ouvir sua oração. Ele reconhece a devoção dela, e Ana, ao receber sua bênção, demonstra fé ao sair em paz, confiando que Deus ouviu sua súplica (veja também Números 6:24-26 e Marcos 11:24)."
+    },
+    {
+      "ref": "1:19-20",
+      "texto": "Deus responde à oração de Ana, e ela concebe um filho, a quem chama de Samuel, que significa \"ouvido por Deus\". A resposta à sua oração destaca a fidelidade divina e a importância da perseverança em oração (veja também Salmo 113:9 e Lucas 1:13-14)."
+    },
+    {
+      "ref": "1:24-28",
+      "texto": "Ana cumpre sua promessa, entregando Samuel ao serviço do Senhor no templo. Isso simboliza a entrega total e o cumprimento dos votos diante de Deus, reforçando a ideia de que filhos são uma bênção e também uma responsabilidade diante de Deus (veja também Eclesiastes 5:4-5 e Salmo 127:3)."
+    }
+  ]
+}

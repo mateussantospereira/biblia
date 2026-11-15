@@ -1,0 +1,77 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "jeremias",
+  "nome": "Jeremias",
+  "testamento": "AT",
+  "capitulo": 43,
+  "totalVersiculos": 13,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/jeremias/43/",
+  "capturadoEm": "2026-11-15T09:23:04-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Assim que Jeremias acabou de dizer ao povo o que o Senhor lhe tinha encarregado de transmitir,"
+    },
+    {
+      "numero": 2,
+      "texto": "Azarias, filho de Osaías, Joanã, filho de Carea, e todos aqueles orgulhosos exclamaram: “São mentiras o que proferes. Não te deu o Senhor, nosso Deus, o encargo de nos dizer que não fôssemos morar no Egito."
+    },
+    {
+      "numero": 3,
+      "texto": "É Baruc, filho de Neerias, que te lança contra nós com o fim de nos entregar aos caldeus para a morte e para a deportação à Babilônia”."
+    },
+    {
+      "numero": 4,
+      "texto": "E assim Joanã, filho de Carea, os chefes e os sobreviventes do povo mostraram-se surdos à voz do Senhor que lhes ordenara permanecerem em Judá."
+    },
+    {
+      "numero": 5,
+      "texto": "Joanã, filho de Carea, e os chefes conduziram os sobreviventes judeus que haviam regressado dos países em que se tinham dispersado, a fim de habitarem novamente na terra de Judá."
+    },
+    {
+      "numero": 6,
+      "texto": "Eram homens, mulheres e crianças, as princesas reais, todos os que Nebuzardã, chefe dos guardas, havia deixado junto de Godolias, filho de Aicam, filho de Safã, entre eles o profeta Jeremias e Baruc, filho de Neerias.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "Desobedecendo, assim, à voz do Senhor, partiram para o Egito e alcançaram Táfnis."
+    },
+    {
+      "numero": 8,
+      "texto": "Em Táfnis, foi dirigida a Jeremias a palavra do Senhor nestes termos:"
+    },
+    {
+      "numero": 9,
+      "texto": "“Toma em tuas mãos pedras bem grandes e, ante os olhos dos judeus, introduze-as na calçada em frente à porta do palácio do faraó, em Táfnis."
+    },
+    {
+      "numero": 10,
+      "texto": "E, em seguida, lhes dirás: Eis o que diz o Senhor dos exércitos, Deus de Israel: Vou mandar chamar aqui meu servo Nabucodonosor, rei da Babilônia. Eu lhe colocarei o trono sobre as pedras introduzidas neste lugar, e sobre elas estenderá ele também o seu tapete."
+    },
+    {
+      "numero": 11,
+      "texto": "Ele virá aqui e ferirá o Egito. O que é para a morte, à morte! O que é para o cativeiro, ao cativeiro! O que é para a espada, à espada!"
+    },
+    {
+      "numero": 12,
+      "texto": "Lançará fogo aos templos dos deuses do Egito, e os queimará, levando cativos (os seus ídolos). Despojará o Egito, qual pastor a limpar seu manto, e regressará triunfante.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "E destruirá os obeliscos do templo do Sol, no Egito, e entregará às chamas todos os templos dos seus deuses”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "43:1-7",
+      "texto": "O povo desobedece a Deus e decide ir para o Egito, desconsiderando a advertência de Jeremias. Esse ato de rebeldia e a busca por segurança em um lugar fora do plano de Deus mostram a resistência da humanidade em confiar no caminho divino (veja também Salmo 118:8 e Isaías 30:1-2)."
+    },
+    {
+      "ref": "43:8-13",
+      "texto": "Jeremias profetiza contra os deuses egípcios e anuncia que Nabucodonosor destruirá o Egito. Isso revela o julgamento de Deus sobre as nações que se opõem ao Seu plano, destacando Sua soberania sobre todos os povos (veja também Ezequiel 30:10-19 e Apocalipse 18:2-3)."
+    }
+  ]
+}

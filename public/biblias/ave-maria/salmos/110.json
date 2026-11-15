@@ -1,0 +1,77 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 110,
+  "totalVersiculos": 10,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/110/",
+  "capturadoEm": "2026-11-15T09:17:56-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Aleluia. Louvarei o Senhor, de todo o coração, na assembleia dos justos e em seu conselho.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Grandes são as obras do Senhor, dignas de admiração de todos os que as amam."
+    },
+    {
+      "numero": 3,
+      "texto": "Sua obra é toda ela majestade e magnificência. E eterna a sua justiça."
+    },
+    {
+      "numero": 4,
+      "texto": "Memoráveis são suas obras maravilhosas; o Senhor é clemente e misericordioso."
+    },
+    {
+      "numero": 5,
+      "texto": "Aos que o temem deu-lhes o sustento; será lembrada eternamente a sua aliança."
+    },
+    {
+      "numero": 6,
+      "texto": "Mostrou ao seu povo o poder de suas obras, dando-lhe a herança das nações pagãs.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "As obras de suas mãos são verdade e justiça, imutáveis os seus preceitos,"
+    },
+    {
+      "numero": 8,
+      "texto": "irrevogáveis pelos séculos eternos, instituídos com justiça e equidade."
+    },
+    {
+      "numero": 9,
+      "texto": "Enviou a seu povo a redenção, concluiu com ele uma aliança eterna. Santo e venerável é o seu nome."
+    },
+    {
+      "numero": 10,
+      "texto": "O temor do Senhor é o começo da sabedoria; sábios são aqueles que o adoram. Sua glória subsiste eternamente."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "110:1",
+      "texto": "Este versículo, um dos mais citados no Novo Testamento, profetiza sobre o Messias sendo exaltado à direita de Deus. Ele destaca a autoridade e soberania de Cristo sobre todos os Seus inimigos (veja também Mateus 22:44 e Hebreus 1:13)."
+    },
+    {
+      "ref": "110:2",
+      "texto": "O Senhor estende o cetro de poder de Sião, simbolizando o reinado universal de Cristo. Isso aponta para o domínio de Cristo sobre todas as nações (veja também Apocalipse 19:15 e Filipenses 2:9-11)."
+    },
+    {
+      "ref": "110:4",
+      "texto": "Deus jura que o Messias será sacerdote eterno segundo a ordem de Melquisedeque. Este versículo é chave para compreender o sacerdócio de Cristo, que é eterno e perfeito (veja também Hebreus 7:17-24 e Gênesis 14:18-20)."
+    },
+    {
+      "ref": "110:5-6",
+      "texto": "O Senhor julgará as nações e derrotará reis no dia da Sua ira. Isso aponta para o julgamento final e a justiça de Deus contra os ímpios (veja também Apocalipse 19:11-21 e Isaías 63:1-6)."
+    },
+    {
+      "ref": "110:7",
+      "texto": "O Messias, após a vitória, é retratado como aquele que bebe do rio e levanta a cabeça em triunfo, simbolizando Sua renovação e exaltação (veja também Isaías 53:12 e Apocalipse 5:12-14)."
+    }
+  ]
+}

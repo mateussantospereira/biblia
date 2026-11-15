@@ -1,0 +1,124 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 50,
+  "totalVersiculos": 21,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/50/",
+  "capturadoEm": "2026-11-15T09:16:53-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. Salmo de Davi,",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "quando o profeta Natã foi encontrá-lo, após o pecado com Betsabé."
+    },
+    {
+      "numero": 3,
+      "texto": "Tende piedade de mim, Senhor, segundo a vossa bondade. E conforme a imensidade de vossa misericórdia, apagai a minha iniquidade."
+    },
+    {
+      "numero": 4,
+      "texto": "Lavai-me totalmente de minha falta, e purificai-me de meu pecado."
+    },
+    {
+      "numero": 5,
+      "texto": "Eu reconheço a minha iniquidade, diante de mim está sempre o meu pecado."
+    },
+    {
+      "numero": 6,
+      "texto": "Só contra vós pequei, o que é mau fiz diante de vós. Vossa sentença assim se manifesta justa, e reto o vosso julgamento.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "Eis que nasci na culpa, minha mãe concebeu-me no pecado."
+    },
+    {
+      "numero": 8,
+      "texto": "Não obstante, amais a sinceridade de coração. Infundi-me, pois, a sabedoria no mais íntimo de mim."
+    },
+    {
+      "numero": 9,
+      "texto": "Aspergi-me com um ramo de hissope e ficarei puro. Lavai-me e me tornarei mais branco do que a neve.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Fazei-me ouvir uma palavra de gozo e de alegria, para que exultem os ossos que triturastes."
+    },
+    {
+      "numero": 11,
+      "texto": "Dos meus pecados desviai os olhos, e minhas culpas todas apagai."
+    },
+    {
+      "numero": 12,
+      "texto": "Ó meu Deus, criai em mim um coração puro, e renovai-me o espírito de firmeza."
+    },
+    {
+      "numero": 13,
+      "texto": "De vossa face não me rejeiteis, e nem me priveis de vosso santo Espírito."
+    },
+    {
+      "numero": 14,
+      "texto": "Restituí-me a alegria da salvação, e sustentai-me com uma vontade generosa."
+    },
+    {
+      "numero": 15,
+      "texto": "Então, aos maus ensinarei vossos caminhos, e voltarão a vós os pecadores."
+    },
+    {
+      "numero": 16,
+      "texto": "Deus, ó Deus, meu salvador, livrai-me da pena desse sangue derramado, e a vossa misericórdia a minha língua exaltará.",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "Senhor, abri meus lábios, a fim de que minha boca anuncie vossos louvores."
+    },
+    {
+      "numero": 18,
+      "texto": "Vós não vos aplacais com sacrifícios rituais; e se eu vos ofertasse um sacrifício, não o aceitaríeis."
+    },
+    {
+      "numero": 19,
+      "texto": "Meu sacrifício, ó Senhor, é um espírito contrito, um coração arrependido e humilhado, ó Deus, que não haveis de desprezar."
+    },
+    {
+      "numero": 20,
+      "texto": "Senhor, pela vossa bondade, tratai Sião com benevolência, reconstruí os muros de Jerusalém.",
+      "nota": true
+    },
+    {
+      "numero": 21,
+      "texto": "Então, aceitareis os sacrifícios prescritos, as oferendas e os holocaustos; e sobre vosso altar vítimas vos serão oferecidas."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "50:1-6",
+      "texto": "Deus se manifesta como o Juiz supremo, convocando toda a terra. A presença de Deus no julgamento revela Sua autoridade e o caráter sagrado de suas exigências (veja também Salmo 96:13 e Mateus 25:31-32)."
+    },
+    {
+      "ref": "50:7-15",
+      "texto": "Deus não deseja sacrifícios vazios, mas um coração sincero e obediente. O salmista destaca que a verdadeira adoração é expressa em gratidão e invocação a Deus em tempos de necessidade (veja também Oséias 6:6 e Romanos 12:1)."
+    },
+    {
+      "ref": "50:16-23",
+      "texto": "A hipocrisia dos ímpios é exposta; aqueles que desprezam a lei de Deus não têm lugar em Sua presença. Este trecho enfatiza a importância de viver em conformidade com a Palavra de Deus para evitar o juízo (veja também Salmo 1:1-6 e Tiago 1:22-24)."
+    },
+    {
+      "ref": "50:22",
+      "texto": "O chamado ao arrependimento é um tema central; Deus exorta os que se esquecem de Sua palavra a reconsiderar seu caminho. Isso ressalta a misericórdia divina e a oportunidade de voltar-se para Ele (veja também Isaías 55:6-7 e Atos 3:19)."
+    },
+    {
+      "ref": "50:23",
+      "texto": "Aqueles que vivem em gratidão e obedecem a Deus são os que O glorificam. O salmista conclui que a verdadeira adoração está ligada à submissão e à integridade diante de Deus (veja também Salmo 34:1 e 1 Pedro 2:9)."
+    }
+  ]
+}

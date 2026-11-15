@@ -1,0 +1,330 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-macabeus",
+  "nome": "I Macabeus",
+  "testamento": "AT",
+  "capitulo": 9,
+  "totalVersiculos": 73,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-macabeus/9/",
+  "capturadoEm": "2026-11-15T09:18:46-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Soube logo Demétrio do fim de Nicanor e da aniquilação de seu exército e resolveu enviar pela segunda vez Báquides e Alcimo à terra da Judeia, com a ala direita de seu exército."
+    },
+    {
+      "numero": 2,
+      "texto": "Estes tomaram o caminho que leva a Gálgala, e acamparam em frente de Mesalot, no distrito de Arbelas. Apoderaram-se da cidade e mataram grande número de habitantes."
+    },
+    {
+      "numero": 3,
+      "texto": "No primeiro mês do ano cento e cinquenta e dois, colocaram cerco diante de Jerusalém.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Depois eles se apartaram e foram a Berzet com vinte mil homens e dois mil cavaleiros."
+    },
+    {
+      "numero": 5,
+      "texto": "Judas estava acampado em Elasa, e três mil homens de escol estavam com ele."
+    },
+    {
+      "numero": 6,
+      "texto": "Todavia, ante o número considerável de seus adversários, ficaram tomados de pânico. Muitos se retiraram do acampamento e, por fim, ali ficaram não mais que oitocentos homens."
+    },
+    {
+      "numero": 7,
+      "texto": "Verificando Judas a dispersão de seu exército e a iminência do combate, sentiu seu coração angustiado, porque já não tinha tempo de reunir os fugitivos."
+    },
+    {
+      "numero": 8,
+      "texto": "Consternado, disse aos que tinham ficado: “Vamos! Ataquemos o inimigo. Talvez possamos combatê-lo!”."
+    },
+    {
+      "numero": 9,
+      "texto": "Mas eles o desviavam disso, dizendo: “Não conseguiremos! Salvemos antes nossas vidas agora. Voltaremos depois com nossos irmãos e travaremos a batalha. Mas neste momento somos muito poucos”."
+    },
+    {
+      "numero": 10,
+      "texto": "“Livre-nos Deus – disse Judas – que proceda desse modo e que eu me salve diante deles! Se chegou a nossa hora, morramos corajosamente por nossos irmãos e não deixemos uma nódoa sequer em nossa memória!”"
+    },
+    {
+      "numero": 11,
+      "texto": "O exército inimigo saiu do acampamento e tomou posição diante deles. A cavalaria se dividiu em dois batalhões. Os fundibulários e os flecheiros se colocaram à frente e todos os mais valentes postaram-se na primeira fileira."
+    },
+    {
+      "numero": 12,
+      "texto": "Báquides achava-se na ala direita e, ao som das trombetas, a falange avançou dos dois lados."
+    },
+    {
+      "numero": 13,
+      "texto": "Os soldados de Judas tocaram também as trombetas e a terra foi abalada pelo tumulto das armas. O combate se prolongou desde a manhã até a tarde."
+    },
+    {
+      "numero": 14,
+      "texto": "Viu Judas que Báquides se encontrava à direita com a mais forte porção de seu exército e cercado dos mais corajosos dos seus."
+    },
+    {
+      "numero": 15,
+      "texto": "Rompeu ele essa ala direita e a perseguiu até o monte de Azoto."
+    },
+    {
+      "numero": 16,
+      "texto": "Mas a ala esquerda, vendo derrotada a direita, lançou-se atrás nas pegadas de Judas e de seus soldados."
+    },
+    {
+      "numero": 17,
+      "texto": "O combate tornou-se mais encarniçado, e, tanto de um como de outro lado, caíram muitos feridos."
+    },
+    {
+      "numero": 18,
+      "texto": "Judas mesmo caiu morto, e então todos os outros fugiram."
+    },
+    {
+      "numero": 19,
+      "texto": "Jônatas e Simão recolheram Judas, seu irmão, e o enterraram no sepulcro de seus pais em Modin."
+    },
+    {
+      "numero": 20,
+      "texto": "Todo o povo de Israel caiu na desolação e o chorou longamente, guardando luto por vários dias, dizendo:"
+    },
+    {
+      "numero": 21,
+      "texto": "“Como sucumbiu o valente salvador de Israel?”."
+    },
+    {
+      "numero": 22,
+      "texto": "O restante das façanhas de Judas, de seus combates, de seus feitos heroicos e atos gloriosos não foi escrito: ele é, com efeito, por demais numeroso."
+    },
+    {
+      "numero": 23,
+      "texto": "Ora, após a morte de Judas, aconteceu que os perversos reapareceram em todas as fronteiras de Israel e todos os que praticavam o mal deram-se a conhecer."
+    },
+    {
+      "numero": 24,
+      "texto": "Naqueles dias, dominou também uma grande fome, e o país passou para o inimigo, entregando-se a eles."
+    },
+    {
+      "numero": 25,
+      "texto": "Báquides, por sua vez, escolheu homens ímpios para colocá-los nos postos de comando."
+    },
+    {
+      "numero": 26,
+      "texto": "Estes procuravam com empenho os amigos de Judas e os conduziam a Báquides, que se vingava deles e os escarnecia."
+    },
+    {
+      "numero": 27,
+      "texto": "A opressão que caiu sobre Israel foi tal, que não houve igual desde a época em que tinham desaparecido os profetas.",
+      "nota": true
+    },
+    {
+      "numero": 28,
+      "texto": "Reuniram-se todos os amigos de Judas e disseram a Jônatas:"
+    },
+    {
+      "numero": 29,
+      "texto": "“Após a morte de Judas, teu irmão, não há mais ninguém como ele, para opor-se a nossos inimigos, a Báquides e aos que odeiam nossa nação."
+    },
+    {
+      "numero": 30,
+      "texto": "Por isso, te escolhemos hoje por chefe, para nos conduzires ao combate”."
+    },
+    {
+      "numero": 31,
+      "texto": "A partir dessa hora, Jônatas tomou o comando e assumiu o lugar de seu irmão Judas."
+    },
+    {
+      "numero": 32,
+      "texto": "Tendo Báquides conhecimento disso, procurava matá-lo."
+    },
+    {
+      "numero": 33,
+      "texto": "Mas, advertidos, Jônatas, seu irmão Simão e todos os seus companheiros fugiram para o deserto de Técua, onde acamparam junto às águas da cisterna de Asfar."
+    },
+    {
+      "numero": 34,
+      "texto": "Soube-o Báquides num dia de sábado e atravessou o Jordão com todo o seu exército."
+    },
+    {
+      "numero": 35,
+      "texto": "Nesse ínterim, Jônatas havia enviado seu irmão, chefe do povo, aos nabateus, seus amigos, rogando-lhes se podiam guardar as suas bagagens, que eram numerosas."
+    },
+    {
+      "numero": 36,
+      "texto": "Mas os filhos de Iambri saíram de Mádaba, apoderaram-se de João e de tudo o que tinha e o levaram."
+    },
+    {
+      "numero": 37,
+      "texto": "Logo em seguida, disseram a Jônatas e a seu irmão Simão que os filhos de Iambri celebravam um grande casamento e traziam de Nadabat, com grande pompa, a jovem esposa, filha de um dos maiores príncipes de Canaã."
+    },
+    {
+      "numero": 38,
+      "texto": "Lembraram-se do sangue de seu irmão João e retiraram-se para a montanha, onde se ocultaram."
+    },
+    {
+      "numero": 39,
+      "texto": "Erguendo os olhos, eles se puseram de espreita, e eis que em grande tumulto e com grande aparato, o esposo saía com seus amigos e irmãos na direção da noiva, com tambores, instrumentos de música e grande equipamento."
+    },
+    {
+      "numero": 40,
+      "texto": "Os companheiros de Jônatas saíram então de seu esconderijo e lançaram-se sobre eles, para massacrá-los. Muitos caíram aos seus golpes e os restantes fugiram para a montanha, enquanto os agressores apoderavam-se de seus despojos."
+    },
+    {
+      "numero": 41,
+      "texto": "Assim, a boda transformou-se em luto e o som de suas músicas, em lamentação."
+    },
+    {
+      "numero": 42,
+      "texto": "Dessa maneira, os judeus vingaram-se do sangue de seu irmão, e voltaram à margem do Jordão."
+    },
+    {
+      "numero": 43,
+      "texto": "Soube-o Báquides e, num sábado, avançou com um poderoso exército até a margem do Jordão."
+    },
+    {
+      "numero": 44,
+      "texto": "Dirigindo-se então a seus companheiros, disse-lhes Jônatas: “Vamos, pelejemos agora por nossas vidas, porque hoje não é como ontem e anteontem."
+    },
+    {
+      "numero": 45,
+      "texto": "Eis a batalha diante e atrás de nós; de um lado e de outro do rio Jordão, o pântano e o bosque. Não há meio de escapar."
+    },
+    {
+      "numero": 46,
+      "texto": "Clamai, pois, agora ao céu, para nos livrar de nossos inimigos”. E travou-se o combate."
+    },
+    {
+      "numero": 47,
+      "texto": "Jônatas estendeu a mão para ferir Báquides, mas este escapou, retirando-se para trás."
+    },
+    {
+      "numero": 48,
+      "texto": "Então, Jônatas e seus companheiros atiraram-se ao Jordão e passaram, a nado, para a outra margem, sem que o inimigo atravessasse atrás deles."
+    },
+    {
+      "numero": 49,
+      "texto": "Naquele dia tombaram cerca de mil homens da parte de Báquides. Este voltou a Jerusalém;"
+    },
+    {
+      "numero": 50,
+      "texto": "edificou fortalezas na Judeia e consolidou com densos muros, portas e fechaduras, as fortificações de Jericó, Emaús, Bet-Horon, Betel, Tamnata, Faraton e Tefon."
+    },
+    {
+      "numero": 51,
+      "texto": "E colocou nelas guarnições para hostilizar Israel."
+    },
+    {
+      "numero": 52,
+      "texto": "Fortificou igualmente Betsur, Gazara e a fortaleza, onde ele deixou tropas e depósitos de víveres."
+    },
+    {
+      "numero": 53,
+      "texto": "Tomou como reféns os filhos dos dirigentes do país e os manteve presos na fortaleza de Jerusalém."
+    },
+    {
+      "numero": 54,
+      "texto": "No segundo mês do ano cento e cinquenta e três, ordenou Alcimo a derrubar o muro do pátio interior do santuário e, deitando a mão sobre a obra dos profetas, começou por destruí-la.",
+      "nota": true
+    },
+    {
+      "numero": 55,
+      "texto": "Nesse instante, porém, Alcimo foi ferido por Deus e seu plano foi suspenso. Ficou ele com a boca fechada pela paralisia e não pôde mais dizer uma palavra, nem dar ordens relativamente à sua casa."
+    },
+    {
+      "numero": 56,
+      "texto": "Morreu depois atormentado por grandes sofrimentos."
+    },
+    {
+      "numero": 57,
+      "texto": "Vendo Báquides essa morte, retirou-se para perto do rei. E a terra de Judá permaneceu em paz durante dois anos."
+    },
+    {
+      "numero": 58,
+      "texto": "Mas, entre os judeus, os maus conspiravam, dizendo: “Eis que Jônatas e os seus vivem em paz e confiantes. Aproveitemos para chamar Báquides, que os exterminará numa só noite”."
+    },
+    {
+      "numero": 59,
+      "texto": "Foram eles, pois, aconselhá-lo"
+    },
+    {
+      "numero": 60,
+      "texto": "e ele se pôs a caminho com um grande exército. Secretamente enviou cartas aos partidários que ele possuía junto aos judeus, para que eles lançassem mão sobre Jônatas e seus companheiros. Mas eles não o conseguiram, porque seu plano tinha sido descoberto."
+    },
+    {
+      "numero": 61,
+      "texto": "Pelo contrário, cinquenta dos principais cabeças da conjuração foram presos e mortos."
+    },
+    {
+      "numero": 62,
+      "texto": "Quanto a Jônatas, fugiu com Simão e seus partidários até Bet-Basi, no deserto. Ergueram as suas ruínas e fortificaram-se nelas."
+    },
+    {
+      "numero": 63,
+      "texto": "Logo que Báquides o soube, reuniu todo o seu exército e foi avisar seus amigos da Judeia."
+    },
+    {
+      "numero": 64,
+      "texto": "Ele veio acampar defronte de Bet-Basi, que ele sitiou por muito tempo, construindo máquinas."
+    },
+    {
+      "numero": 65,
+      "texto": "Jônatas, deixando na cidade seu irmão Simão, ganhou o campo com um pequeno número de homens."
+    },
+    {
+      "numero": 66,
+      "texto": "Matou Odomer e seus irmãos na sua própria tenda, bem como os filhos de Fasiron, e começou a vencer e a crescer em forças."
+    },
+    {
+      "numero": 67,
+      "texto": "Do outro lado, Simão e seus homens saíram da cidade e incendiaram as máquinas de guerra."
+    },
+    {
+      "numero": 68,
+      "texto": "Travaram combate com Báquides que foi derrotado por eles e ficou muito entristecido pela presunção e insucesso de sua tentativa."
+    },
+    {
+      "numero": 69,
+      "texto": "Por isso, mostrou-se irritadíssimo contra os maus judeus que o haviam aconselhado a vir à sua terra. Mandou matar a muitos e decidiu voltar a seu país."
+    },
+    {
+      "numero": 70,
+      "texto": "Sabendo disso, enviou-lhe Jônatas mensageiros para propor-lhe a paz e a devolução dos prisioneiros."
+    },
+    {
+      "numero": 71,
+      "texto": "Báquides os recebeu, aceitou a proposta e jurou nunca mais tentar nada de mal contra eles, por todos os dias de sua vida."
+    },
+    {
+      "numero": 72,
+      "texto": "Restituiu os prisioneiros que havia feito anteriormente na Judeia e voltou a seu país, para nunca mais tentar reaparecer junto aos judeus."
+    },
+    {
+      "numero": 73,
+      "texto": "A espada repousou em Israel. Jônatas fixou residência em Macmas. Ali começou a julgar o povo e exterminou os ímpios de Israel."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "9:1-3",
+      "texto": "Báquides e Alquimo, líderes sírios, retornam à Judéia com um grande exército para derrotar os macabeus. Isso marca uma intensificação do conflito entre os judeus e seus opressores estrangeiros, ressaltando a resiliência do povo judeu em defender sua fé e liberdade (veja também Neemias 4:14 e Hebreus 11:32-34)."
+    },
+    {
+      "ref": "9:10-18",
+      "texto": "Judas Macabeu, em uma batalha final corajosa, morre em combate contra os sírios. Sua morte marca um ponto de tristeza e grande perda para Israel, mas também destaca sua bravura e sacrifício em prol da fé (veja também 2 Samuel 1:25-27 e João 15:13)."
+    },
+    {
+      "ref": "9:28-31",
+      "texto": "Após a morte de Judas, seu irmão Jônatas assume a liderança dos macabeus. A transição de liderança mostra a continuidade da luta pela liberdade religiosa e resistência contra a opressão (veja também Êxodo 17:8-13 e Josué 1:1-2)."
+    },
+    {
+      "ref": "9:36-41",
+      "texto": "Jônatas busca vingar a morte de seu irmão João, liderando uma emboscada bem-sucedida contra os Nabateus. Esse episódio sublinha a determinação de Jônatas em proteger seu povo e manter viva a resistência (veja também Deuteronômio 32:35 e Salmo 18:47-48)."
+    },
+    {
+      "ref": "9:57-61",
+      "texto": "Com a morte de Alquimo, há um período de paz temporária. Esse descanso provisório dá esperança ao povo judeu, mostrando que a perseverança na fé eventualmente traz alívio e momentos de renovação (veja também Salmo 30:5 e Isaías 40:31)."
+    }
+  ]
+}

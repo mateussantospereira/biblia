@@ -1,0 +1,131 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-cronicas",
+  "nome": "I Crônicas",
+  "testamento": "AT",
+  "capitulo": 3,
+  "totalVersiculos": 24,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-cronicas/3/",
+  "capturadoEm": "2026-11-15T09:13:02-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eis os filhos que a Davi nasceram no tempo em que estava em Hebron: o primogênito Amnon, filho de Aquinoam de Jezrael; o segundo, Daniel, de Abigail, de Carmelo;"
+    },
+    {
+      "numero": 2,
+      "texto": "o terceiro, Absalão, filho de Maaca, filha de Tolmai, rei de Gessur; o quarto, Adonias, filho de Hagit;"
+    },
+    {
+      "numero": 3,
+      "texto": "o quinto, Safatias, de Abital; o sexto, Jetraam, de Egla, mulher de Davi."
+    },
+    {
+      "numero": 4,
+      "texto": "São estes os seis filhos que lhe nasceram em Hebron, onde reinou sete anos e seis meses. Ele reinou trinta e três anos em Jerusalém."
+    },
+    {
+      "numero": 5,
+      "texto": "Eis os que lhe nasceram em Jerusalém:"
+    },
+    {
+      "numero": 6,
+      "texto": "Simua, Sobab, Natã, Salomão, quatro filhos de Betsabeia, filha de Amiel;"
+    },
+    {
+      "numero": 7,
+      "texto": "em seguida, Jebaar, Elisua, Elifalet, Noge, Nafeg, Jáfia,"
+    },
+    {
+      "numero": 8,
+      "texto": "Elisama, Eliada, Elifelet, ou seja, nove filhos."
+    },
+    {
+      "numero": 9,
+      "texto": "Eis todos os filhos de Davi, sem contar os filhos de suas concubinas. Tamar era sua irmã."
+    },
+    {
+      "numero": 10,
+      "texto": "Filhos de Salomão: Roboão, Abias, seu filho, Asa, seu filho, Josafá, seu filho,"
+    },
+    {
+      "numero": 11,
+      "texto": "Jorão, seu filho, Ocozias, seu filho, Joás, seu filho,"
+    },
+    {
+      "numero": 12,
+      "texto": "Amasias, seu filho, Azarias, seu filho, Joatão, seu filho,"
+    },
+    {
+      "numero": 13,
+      "texto": "Acaz, seu filho, Ezequias, seu filho, Manassés, seu filho,"
+    },
+    {
+      "numero": 14,
+      "texto": "Amon, seu filho, Josias, seu filho."
+    },
+    {
+      "numero": 15,
+      "texto": "Filhos de Josias: o mais velho, Joanã, o segundo, Joaquim, o terceiro, Sedecias, o quarto, Selum."
+    },
+    {
+      "numero": 16,
+      "texto": "Filhos de Joaquim: Jeconias, seu filho, Sedecias, seu filho."
+    },
+    {
+      "numero": 17,
+      "texto": "Filhos de Jeconias, o cativo: Salatiel, seu filho,"
+    },
+    {
+      "numero": 18,
+      "texto": "Melquiram, Fadaías, Senasser, Jecemias, Hosama e Nadabias."
+    },
+    {
+      "numero": 19,
+      "texto": "Filhos de Fadaías: Zorobabel e Semei. Filhos de Zorobabel: Mesolam, Hananias, Salomit, sua irmã;"
+    },
+    {
+      "numero": 20,
+      "texto": "Filhos de Mesolam: Hasaba, Ool, Baraquias, Hasadias, Josab-Hesed, cinco filhos."
+    },
+    {
+      "numero": 21,
+      "texto": "Filhos de Hananias: Faltias e Jeseías, os filhos de Rafaia, os filhos de Arnã, os filhos de Abdias, os filhos de Sequenias."
+    },
+    {
+      "numero": 22,
+      "texto": "Filhos de Sequenias: Semeías, Hatus, Jegaal, Barias, Naarias, Safat, seis filhos."
+    },
+    {
+      "numero": 23,
+      "texto": "Filhos de Naarias: Elioneai, Ezequias e Ezricam, três filhos."
+    },
+    {
+      "numero": 24,
+      "texto": "Filhos de Elioneai: Oduías, Eliasib, Feleías, Acub, Joanã, Dalaías e Anani, ao todo sete filhos."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-9",
+      "texto": "Os filhos de Davi, nascidos em diferentes momentos e de diferentes esposas, são listados. Isso reflete a complexidade de sua família e os desafios de seu reinado, apesar de ser o escolhido por Deus (veja também 2 Samuel 3:2-5 e 1 Reis 1:5-6)."
+    },
+    {
+      "ref": "3:10-16",
+      "texto": "A linhagem real de Davi até o cativeiro babilônico é apresentada, enfatizando a continuidade da casa real apesar dos momentos de crise. O compromisso de Deus com a promessa feita a Davi é inabalável (veja também 2 Samuel 7:12-16 e 2 Reis 24:8-16)."
+    },
+    {
+      "ref": "3:17-19",
+      "texto": "Após o exílio, os descendentes de Joaquim e Zorobabel são mencionados, mostrando que a linhagem de Davi sobreviveu ao cativeiro. Zorobabel foi um líder chave na reconstrução do templo, sinalizando a esperança de restauração (veja também Ageu 2:23 e Zacarias 4:6-10)."
+    },
+    {
+      "ref": "3:20-24",
+      "texto": "Os descendentes de Zorobabel são listados, completando a genealogia pós-exílio. Isso ressalta a continuidade da promessa de Deus para com o povo de Israel, mesmo após a destruição e o exílio (veja também Esdras 3:8-11 e Neemias 12:1-26)."
+    },
+    {
+      "ref": "3:1-24",
+      "texto": "A genealogia real de Davi desde Salomão até o período pós-exílico sublinha a fidelidade de Deus em preservar a linhagem messiânica, apontando para a vinda de Cristo como o herdeiro prometido (veja também Mateus 1:6-16 e Lucas 3:23-38)."
+    }
+  ]
+}

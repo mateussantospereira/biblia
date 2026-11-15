@@ -1,0 +1,324 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sao-joao",
+  "nome": "São João",
+  "testamento": "NT",
+  "capitulo": 6,
+  "totalVersiculos": 71,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sao-joao/6/",
+  "capturadoEm": "2026-11-15T09:26:51-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Depois disso, atravessou Jesus o lago da Galileia (que é o de Tiberíades.)",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Seguia-o uma grande multidão, porque via os milagres que fazia em benefício dos enfermos."
+    },
+    {
+      "numero": 3,
+      "texto": "Jesus subiu a um monte e ali se sentou com seus discípulos."
+    },
+    {
+      "numero": 4,
+      "texto": "Aproximava-se a Páscoa, festa dos judeus."
+    },
+    {
+      "numero": 5,
+      "texto": "Jesus levantou os olhos sobre aquela grande multidão que vinha ter com ele e disse a Filipe: “Onde compraremos pão para que todos estes tenham o que comer?”."
+    },
+    {
+      "numero": 6,
+      "texto": "Falava assim para o experimentar, pois bem sabia o que havia de fazer."
+    },
+    {
+      "numero": 7,
+      "texto": "Filipe respondeu-lhe: “Duzentos denários de pão não lhes bastam, para que cada um receba um pedaço”."
+    },
+    {
+      "numero": 8,
+      "texto": "Um dos seus discípulos, chamado André, irmão de Simão Pedro, disse-lhe:"
+    },
+    {
+      "numero": 9,
+      "texto": "“Está aqui um menino que tem cinco pães de cevada e dois peixes... mas que é isto para tanta gente?”."
+    },
+    {
+      "numero": 10,
+      "texto": "Disse Jesus: “Fazei-os assentar”. Ora, havia naquele lugar muita relva. Sentaram-se aqueles homens em número de uns cinco mil."
+    },
+    {
+      "numero": 11,
+      "texto": "Jesus tomou os pães e rendeu graças. Em seguida, distribuiu-os às pessoas que estavam sentadas, e igualmente dos peixes lhes deu quanto queriam."
+    },
+    {
+      "numero": 12,
+      "texto": "Estando eles saciados, disse aos discípulos: “Recolhei os pedaços que sobraram, para que nada se perca”."
+    },
+    {
+      "numero": 13,
+      "texto": "Eles os recolheram e, dos pedaços dos cinco pães de cevada que sobraram, encheram doze cestos."
+    },
+    {
+      "numero": 14,
+      "texto": "À vista desse milagre de Jesus, aquela gente dizia: “Este é verdadeiramente o profeta que há de vir ao mundo”."
+    },
+    {
+      "numero": 15,
+      "texto": "Jesus, percebendo que queriam arrebatá-lo e fazê-lo rei, tornou a retirar-se sozinho para o monte.* (= Mt 14,22-36 = Mc 6,47-53)"
+    },
+    {
+      "numero": 16,
+      "texto": "Chegada a tarde, os seus discípulos desceram à margem do lago."
+    },
+    {
+      "numero": 17,
+      "texto": "Subindo a uma barca, atravessaram o lago rumo a Cafarnaum. Era já escuro, e Jesus ainda não se tinha reunido a eles."
+    },
+    {
+      "numero": 18,
+      "texto": "O mar, entretanto, se agitava, porque soprava um vento rijo."
+    },
+    {
+      "numero": 19,
+      "texto": "Tendo eles remado uns vinte e cinco ou trinta estádios, viram Jesus que se aproximava da barca, andando sobre as águas, e ficaram atemorizados.",
+      "nota": true
+    },
+    {
+      "numero": 20,
+      "texto": "Mas ele lhes disse: “Sou eu, não temais”."
+    },
+    {
+      "numero": 21,
+      "texto": "Quiseram recebê-lo na barca, mas pouco depois a barca chegou ao seu destino."
+    },
+    {
+      "numero": 22,
+      "texto": "No dia seguinte, a multidão que tinha ficado do outro lado do mar percebeu que Jesus não tinha subido com seus discípulos na única barca que lá estava, mas que eles tinham partido sozinhos."
+    },
+    {
+      "numero": 23,
+      "texto": "Nesse meio tempo, outras barcas chegaram de Tiberíades, perto do lugar onde tinham comido o pão, depois de o Senhor ter dado graças."
+    },
+    {
+      "numero": 24,
+      "texto": "E, reparando a multidão que nem Jesus nem os seus discípulos estavam ali, entrou nas barcas e foi até Cafarnaum à sua procura."
+    },
+    {
+      "numero": 25,
+      "texto": "Encontrando-o na outra margem do lago, perguntaram-lhe: “Mestre, quando chegaste aqui?”."
+    },
+    {
+      "numero": 26,
+      "texto": "Respondeu-lhes Jesus: “Em verdade, em verdade vos digo: buscais-me, não porque vistes os milagres, mas porque comestes dos pães e ficastes fartos."
+    },
+    {
+      "numero": 27,
+      "texto": "Trabalhai, não pela comida que perece, mas pela que dura até a vida eterna, que o Filho do Homem vos dará. Pois nela Deus Pai imprimiu o seu sinal”."
+    },
+    {
+      "numero": 28,
+      "texto": "Perguntaram-lhe: “Que faremos para praticar as obras de Deus?”"
+    },
+    {
+      "numero": 29,
+      "texto": "Respondeu-lhes Jesus: “A obra de Deus é esta: que creiais naquele que ele enviou”."
+    },
+    {
+      "numero": 30,
+      "texto": "Perguntaram eles: “Que milagre fazes tu, para que o vejamos e creiamos em ti? Qual é a tua obra?",
+      "nota": true
+    },
+    {
+      "numero": 31,
+      "texto": "Nossos pais comeram o maná no deserto, segundo o que está escrito: Deu-lhes de comer o pão vindo do céu” (Sl 77,24)."
+    },
+    {
+      "numero": 32,
+      "texto": "Jesus respondeu-lhes: “Em verdade, em verdade vos digo: Moisés não vos deu o pão do céu, mas o meu Pai é quem vos dá o verdadeiro pão do céu;"
+    },
+    {
+      "numero": 33,
+      "texto": "porque o pão de Deus é o pão que desce do céu e dá vida ao mundo”."
+    },
+    {
+      "numero": 34,
+      "texto": "Disseram-lhe: “Senhor, dá-nos sempre deste pão!”."
+    },
+    {
+      "numero": 35,
+      "texto": "Jesus replicou: “Eu sou o pão da vida: aquele que vem a mim não terá fome, e aquele que crê em mim jamais terá sede."
+    },
+    {
+      "numero": 36,
+      "texto": "Mas já vos disse: Vós me vedes e não credes..."
+    },
+    {
+      "numero": 37,
+      "texto": "Todo aquele que o Pai me dá virá a mim, e o que vem a mim não o lançarei fora."
+    },
+    {
+      "numero": 38,
+      "texto": "Pois desci do céu não para fazer a minha vontade, mas a vontade daquele que me enviou."
+    },
+    {
+      "numero": 39,
+      "texto": "Ora, esta é a vontade daquele que me enviou: que eu não deixe perecer nenhum daqueles que me deu, mas que os ressuscite no último dia."
+    },
+    {
+      "numero": 40,
+      "texto": "Esta é a vontade de meu Pai: que todo aquele que vê o Filho e nele crê tenha a vida eterna; e eu o ressuscitarei no último dia”."
+    },
+    {
+      "numero": 41,
+      "texto": "Murmuravam então dele os judeus, porque dissera: “Eu sou o pão que desceu do céu”."
+    },
+    {
+      "numero": 42,
+      "texto": "E perguntavam: “Porventura não é ele Jesus, o filho de José, cujo pai e mãe conhecemos? Como, pois, diz ele: Desci do céu?”."
+    },
+    {
+      "numero": 43,
+      "texto": "Respondeu-lhes Jesus: “Não murmureis entre vós."
+    },
+    {
+      "numero": 44,
+      "texto": "Ninguém pode vir a mim se o Pai, que me enviou, não o atrair; e eu hei de ressuscitá-lo no último dia."
+    },
+    {
+      "numero": 45,
+      "texto": "Está escrito nos profetas: Todos serão ensinados por Deus (Is 54,13). Assim, todo aquele que ouviu o Pai e foi por ele instruído vem a mim."
+    },
+    {
+      "numero": 46,
+      "texto": "Não que alguém tenha visto o Pai, pois só aquele que vem de Deus, esse é que viu o Pai."
+    },
+    {
+      "numero": 47,
+      "texto": "Em verdade, em verdade vos digo: quem crê em mim tem a vida eterna."
+    },
+    {
+      "numero": 48,
+      "texto": "Eu sou o pão da vida."
+    },
+    {
+      "numero": 49,
+      "texto": "Vossos pais, no deserto, comeram o maná e morreram."
+    },
+    {
+      "numero": 50,
+      "texto": "Este é o pão que desceu do céu, para que não morra todo aquele que dele comer."
+    },
+    {
+      "numero": 51,
+      "texto": "Eu sou o pão vivo que desceu do céu. Quem comer deste pão viverá eternamente. E o pão, que eu hei de dar, é a minha carne para a salvação do mundo”."
+    },
+    {
+      "numero": 52,
+      "texto": "A essas palavras, os judeus começaram a discutir, dizendo: “Como pode este homem dar-nos de comer a sua carne?”."
+    },
+    {
+      "numero": 53,
+      "texto": "Então, Jesus lhes disse: “Em verdade, em verdade vos digo: se não comerdes a carne do Filho do Homem, e não beberdes o seu sangue, não tereis a vida em vós mesmos."
+    },
+    {
+      "numero": 54,
+      "texto": "Quem come a minha carne e bebe o meu sangue tem a vida eterna; e eu o ressuscitarei no último dia."
+    },
+    {
+      "numero": 55,
+      "texto": "Pois a minha carne é verdadeiramente uma comida e o meu sangue, verdadeiramente uma bebida."
+    },
+    {
+      "numero": 56,
+      "texto": "Quem come a minha carne e bebe o meu sangue permanece em mim e eu nele."
+    },
+    {
+      "numero": 57,
+      "texto": "Assim como o Pai que me enviou vive, e eu vivo pelo Pai, assim também aquele que comer a minha carne viverá por mim."
+    },
+    {
+      "numero": 58,
+      "texto": "Este é o pão que desceu do céu. Não como o maná que vossos pais comeram e morreram. Quem come deste pão viverá eternamente”."
+    },
+    {
+      "numero": 59,
+      "texto": "Tal foi o ensinamento de Jesus na sinagoga de Cafarnaum."
+    },
+    {
+      "numero": 60,
+      "texto": "Muitos dos seus discípulos, ouvindo-o, disseram: “Isto é muito duro! Quem o pode admitir?”."
+    },
+    {
+      "numero": 61,
+      "texto": "Sabendo Jesus que os discípulos murmuravam por isso, perguntou-lhes: “Isso vos escandaliza?"
+    },
+    {
+      "numero": 62,
+      "texto": "Que será, quando virdes subir o Filho do Homem para onde ele estava antes?..."
+    },
+    {
+      "numero": 63,
+      "texto": "O espírito é que vivifica, a carne de nada serve. As palavras que vos tenho dito são espírito e vida.",
+      "nota": true
+    },
+    {
+      "numero": 64,
+      "texto": "Mas há alguns entre vós que não creem...”. Pois desde o princípio Jesus sabia quais eram os que não criam e quem o havia de trair."
+    },
+    {
+      "numero": 65,
+      "texto": "Ele prosseguiu: “Por isso, vos disse: Ninguém pode vir a mim, se por meu Pai não lho for concedido”."
+    },
+    {
+      "numero": 66,
+      "texto": "Desde então, muitos dos seus discípulos se retiraram e já não andavam com ele."
+    },
+    {
+      "numero": 67,
+      "texto": "Então, Jesus perguntou aos Doze: “Quereis vós também retirar-vos?”."
+    },
+    {
+      "numero": 68,
+      "texto": "Respondeu-lhe Simão Pedro: “Senhor, a quem iríamos nós? Tu tens as palavras da vida eterna."
+    },
+    {
+      "numero": 69,
+      "texto": "E nós cremos e sabemos que tu és o Santo de Deus!”.",
+      "nota": true
+    },
+    {
+      "numero": 70,
+      "texto": "Jesus acrescentou: “Não vos escolhi eu todos os doze? Contudo, um de vós é um demônio!...”."
+    },
+    {
+      "numero": 71,
+      "texto": "Ele se referia a Judas, filho de Simão Iscariotes, porque era quem o havia de entregar, não obstante ser um dos Doze."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "6:1-14",
+      "texto": "A multiplicação dos pães e peixes demonstra a compaixão de Jesus e Seu poder divino para suprir as necessidades humanas. Além disso, é um sinal de que Ele é o Pão da Vida, capaz de saciar as necessidades espirituais e físicas do ser humano (veja também Mateus 14:13-21 e João 4:14)."
+    },
+    {
+      "ref": "6:15-21",
+      "texto": "Jesus anda sobre as águas, revelando Sua autoridade sobre a natureza. Esse milagre, seguido de Seu chamado \"não temais\", traz conforto e segurança para os crentes, mostrando que Jesus está sempre presente nas tempestades da vida (veja também Mateus 14:25-27 e Marcos 6:48-50)."
+    },
+    {
+      "ref": "6:22-40",
+      "texto": "Jesus se apresenta como o Pão da Vida, explicando que Ele é a fonte da vida eterna e a verdadeira nutrição espiritual. Ele ensina que somente através d'Ele podemos ter vida plena e eterna, destacando a necessidade de fé n'Ele como o enviado de Deus (veja também João 4:13-14 e 1 João 5:11-12)."
+    },
+    {
+      "ref": "6:41-51",
+      "texto": "A murmuração dos judeus é confrontada por Jesus, que reafirma Sua origem divina e Sua missão de dar a vida eterna. Ele enfatiza que aqueles que creem n'Ele receberão vida eterna, sublinhando a importância da fé e da aceitação de Sua divindade (veja também João 3:16 e Mateus 11:27)."
+    },
+    {
+      "ref": "6:52-58",
+      "texto": "A comida espiritual que Jesus oferece é Sua carne e sangue, antecipando a Eucaristia e a união íntima com Ele. Esse discurso é desafiador para muitos, mas essencial para compreender o sacrifício de Cristo e o relacionamento com Ele (veja também 1 Coríntios 11:23-26 e Lucas 22:19-20)."
+    }
+  ]
+}

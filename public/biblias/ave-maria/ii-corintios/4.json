@@ -1,0 +1,105 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ii-corintios",
+  "nome": "II Coríntios",
+  "testamento": "NT",
+  "capitulo": 4,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ii-corintios/4/",
+  "capturadoEm": "2026-11-15T09:28:12-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Por isso, não desanimamos deste ministério que nos foi conferido por misericórdia."
+    },
+    {
+      "numero": 2,
+      "texto": "Afastamos de nós todo procedimento fingido e vergonhoso. Não andamos com astúcia, nem falsificamos a Palavra de Deus. Pela manifestação da verdade nós nos recomendamos à consciência de todos os homens, diante de Deus."
+    },
+    {
+      "numero": 3,
+      "texto": "Se o nosso Evangelho ainda estiver encoberto, está encoberto para aqueles que se perdem,",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "para os incrédulos, cujas inteligências o deus deste mundo obcecou a tal ponto que não percebem a luz do Evangelho, onde resplandece a glória de Cristo, que é a imagem de Deus."
+    },
+    {
+      "numero": 5,
+      "texto": "De fato, não nos pregamos a nós mesmos, mas a Jesus Cristo, o Senhor. Quanto a nós, consideramo-nos servos vossos por amor de Jesus."
+    },
+    {
+      "numero": 6,
+      "texto": "Porque Deus que disse: “Das trevas brilhe a luz”, é também aquele que fez brilhar a sua luz em nossos corações, para que irradiássemos o conhecimento do esplendor de Deus, que se reflete na face de Cristo."
+    },
+    {
+      "numero": 7,
+      "texto": "Porém, temos este tesouro em vasos de barro, para que transpareça claramente que este poder extraordinário provém de Deus e não de nós."
+    },
+    {
+      "numero": 8,
+      "texto": "Em tudo somos oprimidos, mas não sucumbimos. Vivemos em completa penúria, mas não desesperamos."
+    },
+    {
+      "numero": 9,
+      "texto": "Somos perseguidos, mas não ficamos desamparados. Somos abatidos, mas não somos destruídos."
+    },
+    {
+      "numero": 10,
+      "texto": "Trazemos sempre em nosso corpo os traços da morte de Jesus para que também a vida de Jesus se manifeste em nosso corpo."
+    },
+    {
+      "numero": 11,
+      "texto": "Estando embora vivos, somos a toda hora entregues à morte por causa de Jesus, para que também a vida de Jesus apareça em nossa carne mortal."
+    },
+    {
+      "numero": 12,
+      "texto": "Assim em nós opera a morte, e em vós a vida.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Animados deste espírito de fé, conforme está escrito: Eu cri, por isto falei (Sl 115,1), também nós cremos, e por isso falamos."
+    },
+    {
+      "numero": 14,
+      "texto": "Pois sabemos que aquele que ressuscitou o Senhor Jesus nos ressuscitará também a nós com Jesus e nos fará comparecer diante dele convosco."
+    },
+    {
+      "numero": 15,
+      "texto": "E tudo isso se faz por vossa causa, para que a graça se torne copiosa entre muitos e redunde o sentimento de gratidão, para glória de Deus."
+    },
+    {
+      "numero": 16,
+      "texto": "É por isso que não desfalecemos. Ainda que exteriormente se desconjunte nosso homem exterior, nosso interior renova-se de dia para dia."
+    },
+    {
+      "numero": 17,
+      "texto": "A nossa presente tribulação, momentânea e ligeira, nos proporciona um peso eterno de glória incomensurável."
+    },
+    {
+      "numero": 18,
+      "texto": "Porque não miramos as coisas que se veem, mas sim as que não se veem. Pois as coisas que se veem são temporais e as que não se veem são eternas."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "4:7",
+      "texto": "Paulo fala sobre o tesouro da graça sendo guardado em vasos de barro, simbolizando a fragilidade humana. Isso mostra que o poder de Deus se manifesta em nossa fraqueza (veja também 2 Coríntios 12:9 e 1 Coríntios 1:27-29)."
+    },
+    {
+      "ref": "4:8-9",
+      "texto": "Paulo descreve as tribulações que enfrentam, mas declara que, apesar das dificuldades, não são esmagados, nem desesperados, nem abandonados, nem destruídos. A resiliência cristã é garantida pela presença de Cristo em nossas vidas (veja também 2 Coríntios 1:8-9 e Romanos 8:35-39)."
+    },
+    {
+      "ref": "4:16-18",
+      "texto": "Apesar das dificuldades e sofrimentos, Paulo lembra que eles são temporários e leves comparados com a glória eterna que nos espera. A esperança cristã transcende as dificuldades presentes (veja também 2 Coríntios 5:1 e Romanos 8:18)."
+    },
+    {
+      "ref": "4:17",
+      "texto": "O sofrimento momentâneo é usado para produzir um peso eterno de glória, refletindo o valor espiritual das dificuldades enfrentadas. O cristão é moldado por essas experiências para a glória futura (veja também Tiago 1:2-4 e 1 Pedro 1:6-7)."
+    }
+  ]
+}

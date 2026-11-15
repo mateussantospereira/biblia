@@ -1,0 +1,96 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "naum",
+  "nome": "Naum",
+  "testamento": "AT",
+  "capitulo": 1,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/naum/1/",
+  "capturadoEm": "2026-11-15T09:25:08-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Oráculo sobre Nínive. Livro da visão de Naum de Elcós.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "O Senhor é um Deus zeloso e vingador, o Senhor é um vingador irascível; o Senhor toma vingança de seus adversários e trata com rigor os seus inimigos.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "O Senhor é paciente e grande em poder, não deixa impune o culpado. O Senhor caminha em meio à tempestade e sobre o vento impetuoso, as nuvens são a poeira de seus pés."
+    },
+    {
+      "numero": 4,
+      "texto": "Ele ameaça o mar e torna-o seco, e esgota todos os regatos. O Basã e o Carmelo fenecem, as flores do Líbano murcham."
+    },
+    {
+      "numero": 5,
+      "texto": "As montanhas vacilam diante dele, desaparecem as colinas; a terra, o mundo e todos os seus habitantes agitam-se diante dele."
+    },
+    {
+      "numero": 6,
+      "texto": "Quem poderia enfrentar sua cólera? Quem poderia resistir ao ardor de sua ira? Seu furor derrama-se como um fogo, seu aspecto basta para destruir rochedos."
+    },
+    {
+      "numero": 7,
+      "texto": "O Senhor é bom, é um refúgio na tribulação; conhece os que nele confiam."
+    },
+    {
+      "numero": 8,
+      "texto": "Como um temporal violento ele destruirá este lugar, e, mesmo nas trevas, acossará seus inimigos."
+    },
+    {
+      "numero": 9,
+      "texto": "Que tramais contra o Senhor? Ele vai consumar a ruína; esse desastre não se produzirá duas vezes.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Porque, entrelaçados como espinheiros, ébrios do seu vinho, serão consumidos como a palha seca.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "De ti saiu o maquinador do mal contra o Senhor, o tramador de maus desígnios.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Eis o que diz o Senhor: Por mais fortes e numerosos que sejam, nem por isso serão menos ceifados, sem apelação. Eu te afligi, mas não te afligirei mais."
+    },
+    {
+      "numero": 13,
+      "texto": "Vou agora quebrar o jugo que pesava sobre ti, e romper tuas cadeias."
+    },
+    {
+      "numero": 14,
+      "texto": "Quanto a ti, eis o que ordenou o Senhor: descendência alguma levará teu nome. Farei desaparecer do templo de teus deuses as imagens esculpidas e as imagens fundidas. Vou preparar teu sepulcro, porque és pouca coisa."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:1-2",
+      "texto": "A profecia de Naum começa com uma declaração sobre a justiça de Deus e Sua ira contra Nínive, a capital da Assíria. Deus é descrito como zeloso e vingador, sempre agindo em justiça para punir os inimigos do Seu povo. Isso reflete a soberania de Deus sobre as nações (veja também Deuteronômio 32:35 e Romanos 12:19)."
+    },
+    {
+      "ref": "1:3-6",
+      "texto": "A ira de Deus é poderosa e incontrolável, mas ao mesmo tempo, Ele é bom e refúgio para os que O buscam. Esses versículos contrastam a destruição dos inimigos com a proteção divina para os justos, mostrando o caráter duplo de Deus: justo e misericordioso (veja também Salmo 34:18 e Romanos 8:1)."
+    },
+    {
+      "ref": "1:7-8",
+      "texto": "Naum declara que Deus é um refúgio para aqueles que buscam Sua proteção, mas para os inimigos de Israel, há destruição iminente. A promessa de salvação para os justos e a destruição para os ímpios enfatiza a fidelidade de Deus às Suas promessas (veja também Salmo 9:9 e Isaías 63:1-6)."
+    },
+    {
+      "ref": "1:9-11",
+      "texto": "Deus promete que Nínive, a grande cidade impiedosa, será destruída. Este versículo é um aviso claro sobre as consequências do pecado e da opressão, ilustrando como a maldade das nações eventualmente será punida (veja também Isaías 10:12 e Apocalipse 18:6)."
+    },
+    {
+      "ref": "1:12-15",
+      "texto": "Naum profetiza que a opressão dos assírios será interrompida e que Israel experimentará alívio. A vitória de Deus sobre os opressores traz esperança para os justos, afirmando que, apesar do sofrimento, Deus sempre age em favor do Seu povo (veja também Isaías 10:27 e Mateus 11:28-30)."
+    }
+  ]
+}

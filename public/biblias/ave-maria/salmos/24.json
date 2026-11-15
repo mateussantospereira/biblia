@@ -1,0 +1,124 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 24,
+  "totalVersiculos": 22,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/24/",
+  "capturadoEm": "2026-11-15T09:16:25-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "De Davi. Para vós, Senhor, elevo a minha alma.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Meu Deus, em vós confio: não seja eu decepcionado! Não escarneçam de mim meus inimigos!"
+    },
+    {
+      "numero": 3,
+      "texto": "Não, nenhum daqueles que esperam em vós será confundido, mas os pérfidos serão cobertos de vergonha."
+    },
+    {
+      "numero": 4,
+      "texto": "Senhor, mostrai-me os vossos caminhos, e ensinai-me as vossas veredas."
+    },
+    {
+      "numero": 5,
+      "texto": "Dirigi-me na vossa verdade e ensinai-me, porque sois o Deus de minha salvação e em vós eu espero sempre."
+    },
+    {
+      "numero": 6,
+      "texto": "Lembrai-vos, Senhor, de vossas misericórdias e de vossas bondades, que são eternas."
+    },
+    {
+      "numero": 7,
+      "texto": "Não vos lembreis dos pecados de minha juventude e dos meus delitos; em nome de vossa misericórdia, lembrai-vos de mim, por causa de vossa bondade, Senhor."
+    },
+    {
+      "numero": 8,
+      "texto": "O Senhor é bom e reto, por isso reconduz os extraviados ao caminho reto."
+    },
+    {
+      "numero": 9,
+      "texto": "Dirige os humildes na justiça, e lhes ensina a sua via."
+    },
+    {
+      "numero": 10,
+      "texto": "Todos os caminhos do Senhor são graça e fidelidade, para aqueles que guardam sua aliança e seus preceitos."
+    },
+    {
+      "numero": 11,
+      "texto": "Por amor de vosso nome, Senhor, perdoai meu pecado, por maior que seja."
+    },
+    {
+      "numero": 12,
+      "texto": "Que advém ao homem que teme o Senhor? Deus lhe ensina o caminho que deve escolher."
+    },
+    {
+      "numero": 13,
+      "texto": "Viverá na felicidade, e sua posteridade possuirá a terra."
+    },
+    {
+      "numero": 14,
+      "texto": "O Senhor se torna íntimo dos que o temem, e lhes manifesta a sua aliança."
+    },
+    {
+      "numero": 15,
+      "texto": "Meus olhos estão sempre fixos no Senhor, porque ele livrará do laço os meus pés."
+    },
+    {
+      "numero": 16,
+      "texto": "Olhai-me e tende piedade de mim, porque estou só e na miséria."
+    },
+    {
+      "numero": 17,
+      "texto": "Aliviai as angústias do meu coração, e livrai-me das aflições."
+    },
+    {
+      "numero": 18,
+      "texto": "Vede minha miséria e meu sofrimento, e perdoai-me todas as faltas."
+    },
+    {
+      "numero": 19,
+      "texto": "Vede meus inimigos: são muitos, e com ódio implacável me perseguem."
+    },
+    {
+      "numero": 20,
+      "texto": "Defendei minha alma e livrai-me: não seja confundido eu que em vós me acolhi."
+    },
+    {
+      "numero": 21,
+      "texto": "Protejam-me a inocência e a integridade, porque espero em vós, Senhor."
+    },
+    {
+      "numero": 22,
+      "texto": "Ó Deus, livrai Israel de todas as suas angústias."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "24:1-2",
+      "texto": "A soberania de Deus sobre toda a criação é proclamada. Ele é o Criador e possuidor do mundo, enfatizando a responsabilidade da humanidade de cuidar do que Deus confiou (veja também Salmo 50:10-12 e Apocalipse 4:11)."
+    },
+    {
+      "ref": "24:3-4",
+      "texto": "O salmista pergunta quem pode subir ao monte do Senhor, enfatizando a santidade de Deus. Isso destaca a necessidade de pureza e justiça na adoração (veja também Salmo 15:1-2 e Mateus 5:8)."
+    },
+    {
+      "ref": "24:5-6",
+      "texto": "Aqueles que buscam a Deus com um coração puro e sincero receberão bênçãos e justiça. Isso reflete a conexão entre a verdadeira adoração e a vida justa (veja também Tiago 1:12 e Mateus 6:33)."
+    },
+    {
+      "ref": "24:7-10",
+      "texto": "A entrada do Rei da Glória é proclamada, simbolizando a majestade e o poder de Deus. Esse chamado para abrir as portas é um convite à adoração e à celebração da presença de Deus (veja também Apocalipse 19:11-16 e Filipenses 2:9-11)."
+    },
+    {
+      "ref": "24:10",
+      "texto": "A pergunta retórica reafirma a identidade do Rei da Glória, que é o Senhor dos Exércitos. Isso lembra aos crentes que Deus é forte e poderoso, digno de nossa reverência e louvor (veja também Salmo 46:7 e Romanos 11:36)."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "oseias",
+  "nome": "Oséias",
+  "testamento": "AT",
+  "capitulo": 11,
+  "totalVersiculos": 12,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/oseias/11/",
+  "capturadoEm": "2026-11-15T10:01:47-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Quando Israel era menino, eu o amei, e chamei do Egipto o meu filho."
+    },
+    {
+      "numero": 2,
+      "texto": "Mas, quanto mais os meus profetas os chamaram, tanto mais eles se retiraram da sua presença; sacrificaram aos Baais e queimaram oferendas aos ídolos."
+    },
+    {
+      "numero": 3,
+      "texto": "Entretanto eu ensinava (os de) Efraim a andar, trazia-os nos meus braços, mas eles não reconheceram que era eu quem cuidava deles."
+    },
+    {
+      "numero": 4,
+      "texto": "Segurava-os com laços humanos, com laços de amor; fui para eles como o que tira o jugo de cima do pescoço e aproximei-me deles para os nutrir."
+    },
+    {
+      "numero": 5,
+      "texto": "(Israel) não voltará para a terra do Egipto, mas o Assírio será seu rei, porquanto não quiseram converter-se."
+    },
+    {
+      "numero": 6,
+      "texto": "A espada fará devastações nas suas cidades, consumirá os seus escolhidos, devorá-los-á por causa dos seus maus desígnios."
+    },
+    {
+      "numero": 7,
+      "texto": "O meu povo é inclinado a afastar-se de mim; quando se convida a subir ao que está no alto, ninguém procura elevar-se."
+    },
+    {
+      "numero": 8,
+      "texto": "Como te tratarei, ó Efraim? Entregar-te-ei, ó Israel? Poderei tratar-te como a Adama, ou tornar-te como Seboim (depois de te ter amado tanto) ? O meu coração dá voltas dentro de mim mesmo, comove-se a minha compaixão."
+    },
+    {
+      "numero": 9,
+      "texto": "Não desafogarei o furor da minha ira, não destruirei mais Efraim, porque sou Deus e não um homem; sou o Santo no meio de ti, não gosto de destruir."
+    },
+    {
+      "numero": 10,
+      "texto": "Eles seguirão o Senhor que rugirá como um leão; quando ele rugir, os filhos do ocidente tremerão. (ver nota)"
+    },
+    {
+      "numero": 11,
+      "texto": "Voarão do Egipto como uma ave, e da terra dos Assírios como uma pomba, e estabelecê-los-ei em suas casas diz o Senhor."
+    },
+    {
+      "numero": 12,
+      "texto": "Efraim cercou-me de mentira, e a casa de Israel, de engano; Judá, porém, conduziu-se com Deus e com os santos como uma testemunha fiel."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "11:1-4",
+      "texto": "Deus expressa Seu amor por Israel, comparando-o a um filho que Ele chamou e educou. O amor divino é incondicional, mas Israel, apesar de ter sido cuidado por Deus, se afastou e se entregou à idolatria (veja também Êxodo 4:22-23 e Jeremias 31:3)."
+    },
+    {
+      "ref": "11:5-7",
+      "texto": "O juízo de Deus sobre Israel é inevitável devido à sua infidelidade. Deus lamenta a perda de Seu povo, mas a justiça divina será cumprida. O povo continuará a se rebelar, mas Deus não desistirá completamente de sua restauração (veja também Amós 5:14-15 e Isaías 5:24)."
+    },
+    {
+      "ref": "11:8-9",
+      "texto": "Deus expressa uma dúvida interna sobre o juízo contra Israel, mostrando Sua misericórdia e desejo de não destruir completamente Seu povo. Ele declara que, apesar do juízo, Sua compaixão prevalecerá, e Israel não será totalmente consumido (veja também Jeremias 31:20 e Isaías 54:7-8)."
+    },
+    {
+      "ref": "11:10-11",
+      "texto": "Deus promete restaurar Israel no futuro, reunindo-os de volta à terra prometida. O amor divino será manifestado na restauração de Sua nação, um reflexo da esperança messiânica e da redenção através de Cristo (veja também Isaías 11:11-12 e Mateus 23:37-39)."
+    },
+    {
+      "ref": "11:12",
+      "texto": "A última nota de Oséias 11 descreve a persistente infidelidade de Efraim e Judá. A referência à constante rebeldia de Israel destaca a dureza do coração humano, mas também a necessidade de um Salvador para trazer a restauração definitiva (veja também Ezequiel 36:22-32 e Mateus 11:28-30)."
+    }
+  ]
+}

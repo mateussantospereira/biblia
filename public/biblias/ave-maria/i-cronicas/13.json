@@ -1,0 +1,93 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-cronicas",
+  "nome": "I Crônicas",
+  "testamento": "AT",
+  "capitulo": 13,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-cronicas/13/",
+  "capturadoEm": "2026-11-15T09:13:13-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Davi consultou os chefes de milhares e de centenas, com todos os príncipes."
+    },
+    {
+      "numero": 2,
+      "texto": "E disse a toda a assembleia de Israel: “Se estiverdes de acordo e isso parece vir do Senhor, nosso Deus, enviemos, sem tardar, mensageiros a nossos irmãos, em todas as regiões de Israel, como também aos sacerdotes e levitas, em todas as localidades onde estão suas pastagens para que se juntem a nós,"
+    },
+    {
+      "numero": 3,
+      "texto": "e tornemos a trazer para nós a arca de nosso Deus, pois não cuidamos dela no tempo de Saul.”"
+    },
+    {
+      "numero": 4,
+      "texto": "E toda a assembleia achou bom agir desse modo, porque isso pareceu conveniente a todo o povo."
+    },
+    {
+      "numero": 5,
+      "texto": "Davi convocou todo o Israel, desde o Sior no Egito até a entrada de Emat, a fim de trazer de Cariatarim a arca de Deus.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Davi, com todo o Israel, subiu a Baala, em Cariatarim de Judá, para trazer de lá a arca do Senhor Deus, do Senhor que tem seu trono sobre os querubins, diante da qual seu nome é invocado.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "A arca de Deus foi colocada num carro novo e a trouxeram da casa de Abinadab; Oza e Aio conduziam o carro."
+    },
+    {
+      "numero": 8,
+      "texto": "Davi e todo o Israel dançavam diante de Deus, com toda a sua alma, cantando com acompanhamento de cítaras, as harpas e tamborins, címbalos e trombetas."
+    },
+    {
+      "numero": 9,
+      "texto": "Quando chegavam à eira de Quidon, Oza estendeu a mão para suster a arca de Deus, porque os bois, tropeçando, a tinham feito inclinar."
+    },
+    {
+      "numero": 10,
+      "texto": "A ira do Senhor se inflamou contra Oza e o feriu, porque estendera sua mão para a arca; e Oza morreu ali mesmo diante de Deus."
+    },
+    {
+      "numero": 11,
+      "texto": "Davi ficou contristado porque o Senhor ferira Oza. E esse lugar traz ainda hoje o nome de Ferés-Oza."
+    },
+    {
+      "numero": 12,
+      "texto": "Nesse dia, Davi teve medo de Deus: “Como – disse ele – faria eu entrar a arca de Deus em minha casa?”."
+    },
+    {
+      "numero": 13,
+      "texto": "E Davi não acolheu a arca em sua casa, na Cidade de Davi. Ele a mandou levar à casa de Obed-Edom, de Gat."
+    },
+    {
+      "numero": 14,
+      "texto": "A arca de Deus ficou durante três meses com a família de Obed-Edom, na sua casa; e o Senhor abençoou a família de Obed-Edom com tudo o que lhe pertencia."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "13:1-4",
+      "texto": "Davi consulta seus líderes para trazer de volta a arca da aliança, mostrando a importância de buscar a direção de Deus e da comunidade em decisões espirituais. A arca simboliza a presença de Deus e o foco em Sua vontade (veja também Êxodo 25:10-22 e Salmo 132:8)."
+    },
+    {
+      "ref": "13:5-6",
+      "texto": "Davi lidera uma grande assembleia para trazer a arca de Deus de Quiriate-Jearim. Isso representa o desejo de restaurar a adoração centralizada em Deus, colocando a presença divina como prioridade nacional (veja também 2 Samuel 6:2-4 e Salmo 24:7-10)."
+    },
+    {
+      "ref": "13:7-9",
+      "texto": "Durante a viagem, Uzá toca a arca para estabilizá-la e é ferido por Deus. Esse evento reforça a santidade da arca e a necessidade de reverência e obediência às instruções divinas (veja também Números 4:15 e Hebreus 12:28-29)."
+    },
+    {
+      "ref": "13:10-11",
+      "texto": "A ira de Deus contra Uzá mostra a seriedade de desobedecer às regras específicas para lidar com as coisas sagradas. Davi fica angustiado, demonstrando que até líderes piedosos podem ser surpreendidos pela justiça divina (veja também 1 Samuel 6:19-20 e Levítico 10:1-2)."
+    },
+    {
+      "ref": "13:12-14",
+      "texto": "A arca é levada para a casa de Obede-Edom, onde traz bênçãos. Esse episódio destaca que a presença de Deus traz prosperidade para aqueles que a acolhem com respeito e reverência (veja também 2 Samuel 6:11 e 1 Crônicas 26:4-5)."
+    }
+  ]
+}

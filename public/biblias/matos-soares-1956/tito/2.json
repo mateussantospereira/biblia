@@ -1,0 +1,95 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "tito",
+  "nome": "Tito",
+  "testamento": "NT",
+  "capitulo": 2,
+  "totalVersiculos": 15,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/tito/2/",
+  "capturadoEm": "2026-11-15T10:06:37-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Tu, porém, ensina o que está conforme com a sã doutrina;"
+    },
+    {
+      "numero": 2,
+      "texto": "(ensina) aos velhos que sejam sóbrios, honestos, prudentes, sãos na fé, na caridade, na paciência;"
+    },
+    {
+      "numero": 3,
+      "texto": "igualmente às mulheres idosas que tenham um proceder próprio de pessoas santas, que não sejam caluniadoras, não dadas ao vinho, que ensinem o bem,"
+    },
+    {
+      "numero": 4,
+      "texto": "que ensinem as mulheres jovens a amar seus maridos e seus filhos,"
+    },
+    {
+      "numero": 5,
+      "texto": "a ser prudentes, castas, cuidadosas da casa, boas, sujeitas a seus maridos, para que se não diga mal da palavra de Deus."
+    },
+    {
+      "numero": 6,
+      "texto": "Exorta também os jovens a que sejam regrados."
+    },
+    {
+      "numero": 7,
+      "texto": "Faze-te a ti mesmo um modelo de boas obras em tudo: na pureza da doutrina, na dignidade,"
+    },
+    {
+      "numero": 8,
+      "texto": "na palavra sã, irrepreensível, para que os nossos adversários sejam confundidos, não tendo mal algum a dizer de nós."
+    },
+    {
+      "numero": 9,
+      "texto": "(Exorta) os servos a que sejam submissos em tudo a seus senhores, agradando-lhes, não os contradizendo,"
+    },
+    {
+      "numero": 10,
+      "texto": "não os defraudando, mas mostrando em tudo inteira fidelidade, para que em tudo honrem a doutrina de Deus nosso Salvador."
+    },
+    {
+      "numero": 11,
+      "texto": "Porquanto a graça de Deus, fonte de salvação para todos os homens, manifestou-se,"
+    },
+    {
+      "numero": 12,
+      "texto": "ensinando-nos que, renunciando à impiedade e aos desejos do século, vivamos neste século sóbria, justa e piamente,"
+    },
+    {
+      "numero": 13,
+      "texto": "aguardando a esperança bem-aventurada e a vinda gloriosa do nosso grande Deus e Salvador, Jesus Cristo,"
+    },
+    {
+      "numero": 14,
+      "texto": "que se deu a si mesmo por nós, a fim de nos resgatar de toda a iniquidade e purificar para si um povo que seja seu, zeloso pelas boas obras."
+    },
+    {
+      "numero": 15,
+      "texto": "Ensina estas coisas, exorta e repreende com toda a autoridade. Ninguém te despreze."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "2:1-2",
+      "texto": "Paulo exorta Tito a ensinar o que é conforme à sã doutrina, especialmente para os mais velhos. A sabedoria e maturidade dos líderes devem servir de exemplo para as gerações mais jovens (veja também 1 Timóteo 5:1-2 e 1 Pedro 5:5)."
+    },
+    {
+      "ref": "2:3-5",
+      "texto": "As mulheres mais velhas devem ensinar as mais jovens a viverem com dignidade, sabedoria e respeito. Este ensino é uma maneira de preservar a ordem e moralidade dentro da Igreja (veja também Efésios 5:22-33 e 1 Pedro 3:1-6)."
+    },
+    {
+      "ref": "2:6-8",
+      "texto": "Os jovens são chamados a se comportar com pureza e respeito. O bom exemplo de conduta cristã torna o evangelho mais atraente e digno de ser seguido pelos outros (veja também 1 Timóteo 4:12 e Filipenses 2:15)."
+    },
+    {
+      "ref": "2:9-10",
+      "texto": "Os servos são instruídos a se submeterem aos seus mestres, trabalhando com boa vontade e reverência. Essa atitude reflete a verdadeira liberdade cristã, que não é para a desordem, mas para boas obras (veja também Efésios 6:5-9 e 1 Pedro 2:18-21)."
+    },
+    {
+      "ref": "2:11-14",
+      "texto": "A graça de Deus, que trouxe salvação a todos os homens, nos ensina a viver de maneira justa e piedosa, aguardando a bendita esperança. A salvação em Cristo exige uma vida transformada pela graça divina (veja também Efésios 2:8-10 e Romanos 6:1-14)."
+    }
+  ]
+}

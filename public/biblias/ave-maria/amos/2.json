@@ -1,0 +1,104 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "amos",
+  "nome": "Amós",
+  "testamento": "AT",
+  "capitulo": 2,
+  "totalVersiculos": 16,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/amos/2/",
+  "capturadoEm": "2026-11-15T09:24:48-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Oráculo do Senhor: Por causa do triplo e do quádruplo crime de Moab, não mudarei meu decreto. Porque queimou os ossos do rei de Edom até reduzi-los a cal,"
+    },
+    {
+      "numero": 2,
+      "texto": "porei fogo a Moab, e ele consumirá os palácios de Cariot. No tumulto perecerá Moab, entre gritos de guerra e sons de trombeta."
+    },
+    {
+      "numero": 3,
+      "texto": "Exterminarei o seu juiz e farei perecer com ele todos os chefes, diz o Senhor."
+    },
+    {
+      "numero": 4,
+      "texto": "Oráculo do Senhor: Por causa do triplo e do quádruplo crime de Judá, não mudarei meu decreto. Porque desprezaram a Lei do Senhor e não observaram seus mandamentos, e porque se deixaram transviar por seus falsos deuses, que já seus pais tinham honrado,"
+    },
+    {
+      "numero": 5,
+      "texto": "porei fogo a Judá, e ele devorará os palácios de Jerusalém."
+    },
+    {
+      "numero": 6,
+      "texto": "Oráculo do Senhor: Por causa do triplo e do quádruplo crime de Israel, não mudarei meu decreto. Porque vendem o justo por dinheiro, e o pobre por um par de sandálias,",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "porque esmagam no pó da terra a cabeça do pobre, e transviam os pequenos, porque o filho e o pai dormem com a mesma jovem, o que é uma profanação do meu santo nome,",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "porque se estendem ao pé de cada altar sobre vestes recebidas em penhor, e bebem no templo do seu Deus o vinho dos que foram multados.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "E, todavia, fui eu que exterminei diante deles os amorreus, cuja estatura se igualava à dos cedros, e que eram fortes como os carvalhos; destruí seus frutos de cima e suas riquezas de baixo;"
+    },
+    {
+      "numero": 10,
+      "texto": "fui eu que vos tirei do Egito e vos conduzi, através do deserto, durante quarenta anos, para vos dar a posse da terra dos amorreus;"
+    },
+    {
+      "numero": 11,
+      "texto": "suscitei profetas dentre os vossos filhos, e nazarenos dentre os vossos jovens; não é assim, filhos de Israel? – Oráculo do Senhor.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Mas vós fizestes beber vinho aos nazarenos, e proibistes aos profetas que profetizassem."
+    },
+    {
+      "numero": 13,
+      "texto": "Pois bem! Eis que vou fazer-vos ranger como um carro carregado de feno."
+    },
+    {
+      "numero": 14,
+      "texto": "Não haverá mais fuga possível para o homem ágil, o forte não encontrará mais sua força, o valente não salvará sua vida,",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "o arqueiro não poderá resistir, nem o homem de pés ligeiros poderá escapar, nem o cavaleiro salvará sua vida,"
+    },
+    {
+      "numero": 16,
+      "texto": "e o mais corajoso entre os valentes fugirá nu, naquele dia – oráculo do Senhor."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "2:1-3",
+      "texto": "O julgamento contra Moabe é anunciado por causa da profanação dos ossos do rei de Edom. Esse ato de desrespeito revela o orgulho e a arrogância de Moabe, que desconsiderou o pacto de respeito e honra entre os povos (veja também 2 Reis 3:26-27 e Jeremias 48:7)."
+    },
+    {
+      "ref": "2:4-5",
+      "texto": "O juízo de Deus se volta contra Judá, o reino do sul, por sua rejeição da Lei de Deus e sua adesão à idolatria. Esse julgamento destaca que a desobediência a Deus, mesmo entre o Seu povo, resulta em consequências severas (veja também 2 Reis 21:10-15 e Jeremias 5:3-5)."
+    },
+    {
+      "ref": "2:6-8",
+      "texto": "Israel é condenado por sua exploração dos pobres e a prática de injustiças, como vender os justos por dinheiro. Deus condena a opressão social, onde os mais vulneráveis são tratados com desdém, destacando a importância da justiça social no reino de Deus (veja também Isaías 1:23 e Miquéias 6:12-16)."
+    },
+    {
+      "ref": "2:9-11",
+      "texto": "Deus lembra a Israel da sua proteção e cuidado no passado, quando os tirou do Egito, e como Ele levantou profetas e nazireus para guiá-los. Contudo, a nação rejeitou essas bênçãos, revelando seu endurecimento e ingratidão diante de Deus (veja também Deuteronômio 8:11-20 e Jeremias 7:25-26)."
+    },
+    {
+      "ref": "2:12-16",
+      "texto": "O julgamento final de Deus sobre Israel será total, abrangendo todos os aspectos da sociedade. Isso destaca que a desobediência a Deus não pode ser ignorada, e a justiça divina será executada de maneira completa, sem exceções (veja também Romanos 2:6-8 e Apocalipse 20:12-13)."
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "baruc",
+  "nome": "Baruc",
+  "testamento": "AT",
+  "capitulo": 3,
+  "totalVersiculos": 38,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/baruc/3/",
+  "capturadoEm": "2026-11-15T09:23:21-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Senhor, Todo-poderoso, Deus de Israel, é uma alma angustiada e um coração atormentado que clama a vós:"
+    },
+    {
+      "numero": 2,
+      "texto": "Escutai, Senhor! Tende piedade! Porque pecamos contra vós."
+    },
+    {
+      "numero": 3,
+      "texto": "Estais sentado sobre um trono eterno, e nós caminhamos para um definitivo aniquilamento."
+    },
+    {
+      "numero": 4,
+      "texto": "Senhor, Todo-poderoso, Deus de Israel, escutai a prece dos mortos de Israel, dos filhos daqueles que pecaram contra vós, que não atenderam à voz do Senhor, seu Deus, e por isso foram levados à desgraça."
+    },
+    {
+      "numero": 5,
+      "texto": "Não mais tomeis em conta os crimes de nossos pais; lembrai-vos, apenas, nesta hora, do poder de vosso nome."
+    },
+    {
+      "numero": 6,
+      "texto": "Sois o Senhor, nosso Deus, e nós queremos louvar-vos, Senhor."
+    },
+    {
+      "numero": 7,
+      "texto": "Por esse motivo é que nos inspirastes o temor a vós e a necessidade de vos invocar. Agora, em nosso exílio, vos louvamos, já que o nosso coração renunciou às iniquidades de nossos pais, que contra vós pecaram."
+    },
+    {
+      "numero": 8,
+      "texto": "Olhai! Aqui vivemos em um exílio, para onde nos dispersastes, a fim de sermos objeto de opróbrio, de insultos e maldições, e para carregarmos o peso das culpas de nossos pais, que haviam abandonado o Senhor, nosso Deus."
+    },
+    {
+      "numero": 9,
+      "texto": "Escuta, Israel, os mandamentos de vida; medita, a fim de que aprendas a prudência."
+    },
+    {
+      "numero": 10,
+      "texto": "Donde vem, Israel, donde vem, que te encontras em terra inimiga, que definhas em solo estranho, passas por imundo, qual cadáver,"
+    },
+    {
+      "numero": 11,
+      "texto": "e és contado entre os ocupantes dos túmulos?"
+    },
+    {
+      "numero": 12,
+      "texto": "Negligenciaste a fonte da sabedoria.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Se houvesses caminhado pelas sendas de Deus, poderias habitar para sempre na paz."
+    },
+    {
+      "numero": 14,
+      "texto": "Aprende onde se acha a prudência, a força e a inteligência, a fim de que saibas, ao mesmo tempo, onde se encontram a vida longa e a felicidade, o fulgor dos olhos e a paz."
+    },
+    {
+      "numero": 15,
+      "texto": "Quem jamais encontrou sua morada, e penetrou em seus domínios?",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "Onde estão os chefes das nações que domavam os animais da terra,",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "e brincavam com as aves do céu, que entesouravam prata e ouro, em quem os homens confiavam, e cujos bens são inesgotáveis?"
+    },
+    {
+      "numero": 18,
+      "texto": "Onde estão aqueles que trabalham a prata com dificuldade? Nada resta de suas obras."
+    },
+    {
+      "numero": 19,
+      "texto": "Desapareceram, desceram à habitação dos mortos, e outros subiram ao lugar deles;"
+    },
+    {
+      "numero": 20,
+      "texto": "os mais jovens viram o dia e habitaram a terra; não descobriram, porém, o caminho da sabedoria,"
+    },
+    {
+      "numero": 21,
+      "texto": "nem conheceram a senda que a ela conduz. Também seus filhos não a alcançaram e longe permaneceram de seu caminho."
+    },
+    {
+      "numero": 22,
+      "texto": "Dela não se ouviu falar em Canaã nem foi vista em Temã."
+    },
+    {
+      "numero": 23,
+      "texto": "Mesmo os filhos de Agar, à procura de prudência terrestre, e os negociantes de Mercã e Temã, os amigos de provérbios e os desejosos de prudência, não puderam conhecer o caminho da sabedoria, nem dela obter informações sobre sua pista."
+    },
+    {
+      "numero": 24,
+      "texto": "Ó Israel, quão imensa é a casa de Deus; como é vasta a extensão de seus domínios!"
+    },
+    {
+      "numero": 25,
+      "texto": "Sim, é vasta, imensa, ampla, ilimitada."
+    },
+    {
+      "numero": 26,
+      "texto": "Lá nasceram os famosos gigantes antigos, de estatura imensa e alma de guerreiros.",
+      "nota": true
+    },
+    {
+      "numero": 27,
+      "texto": "Não os escolheu Deus, nem lhes mostrou o caminho da sabedoria."
+    },
+    {
+      "numero": 28,
+      "texto": "E por falta de sagacidade pereceram, vítimas da própria estultícia."
+    },
+    {
+      "numero": 29,
+      "texto": "Quem escalou o céu a fim de procurar a sabedoria, e a trouxe para baixo das nuvens?"
+    },
+    {
+      "numero": 30,
+      "texto": "Quem atravessou o mar para encontrá-la, e a adquiriu, a preço de ouro mais puro?"
+    },
+    {
+      "numero": 31,
+      "texto": "Ninguém conhece o caminho que a ela conduz, nem sabe a pista que lá o possa levar."
+    },
+    {
+      "numero": 32,
+      "texto": "Somente aquele que tudo sabe a conhece, e por efeito de sua prudência a descobre; aquele que criou a terra para tempos que não findam; aquele que de animais a povoou;",
+      "nota": true
+    },
+    {
+      "numero": 33,
+      "texto": "aquele que lança o relâmpago e o faz brilhar, que o chama e ele, bramindo, obedece."
+    },
+    {
+      "numero": 34,
+      "texto": "Brilham em seus postos as estrelas e se alegram;"
+    },
+    {
+      "numero": 35,
+      "texto": "e as chama, e respondem: “Aqui estamos”. E jubilosas refulgem para o seu Criador."
+    },
+    {
+      "numero": 36,
+      "texto": "É ele o nosso Deus, com ele nenhum outro se compara."
+    },
+    {
+      "numero": 37,
+      "texto": "Conhece a fundo os caminhos que conduzem à sabedoria, galardoando com ela Jacó, seu servo, e Israel, seu favorecido."
+    },
+    {
+      "numero": 38,
+      "texto": "Foi então que ela apareceu sobre a terra, onde permanece entre os homens.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-4",
+      "texto": "O capítulo começa com uma oração de súplica por sabedoria, reconhecendo que o entendimento de Deus é a chave para a salvação. A sabedoria divina é vista como essencial para compreender o propósito de Deus e caminhar em Seus caminhos (veja também Tiago 1:5 e Provérbios 2:6)."
+    },
+    {
+      "ref": "3:5-8",
+      "texto": "A sabedoria é apresentada como a própria lei de Deus, que orienta os fiéis. Este trecho enfatiza que a verdadeira sabedoria vem de Deus e nos conduz ao cumprimento de Sua vontade, que leva à vida eterna (veja também Salmo 119:105 e João 14:6)."
+    },
+    {
+      "ref": "3:9-14",
+      "texto": "O autor lamenta a ignorância do povo de Israel em relação à sabedoria divina e reconhece que o pecado e a idolatria levaram ao afastamento de Deus. Esse arrependimento demonstra que a sabedoria de Deus é muitas vezes negligenciada em favor das falsas promessas do mundo (veja também Isaías 44:9-20 e 1 Coríntios 1:20-25)."
+    },
+    {
+      "ref": "3:15-18",
+      "texto": "O texto destaca a sabedoria que é mais elevada do que o conhecimento humano, ressaltando que o temor a Deus é o princípio da sabedoria. A verdadeira sabedoria nos leva a honrar a Deus e seguir Seus mandamentos, independentemente das dificuldades (veja também Provérbios 9:10 e Colossenses 2:2-3)."
+    },
+    {
+      "ref": "3:19-24",
+      "texto": "O autor faz uma meditação sobre a criação e a sabedoria de Deus, apontando que Deus foi o Criador de tudo o que existe e que somente Ele tem o conhecimento perfeito. Isso reforça a ideia de que devemos buscar sabedoria em Deus, o Criador e fonte de toda verdade (veja também Salmo 104:24 e Colossenses 1:16)."
+    }
+  ]
+}

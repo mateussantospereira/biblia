@@ -1,0 +1,87 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 55,
+  "totalVersiculos": 13,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/55/",
+  "capturadoEm": "2026-11-15T09:53:08-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre do coro. Segundo a melodia de \"A Pomba silenciosa das regiões distantes\". De Davide. Miktãm. Quando os Filisteus o prenderam em Gat."
+    },
+    {
+      "numero": 2,
+      "texto": "Tem piedade de mim, ó Deus, porque o homem me calca os pés, combatendo sempre, me oprime."
+    },
+    {
+      "numero": 3,
+      "texto": "Os meus inimigos atropelam-me continuamente, porque são muitos os que pelejam contra mim. Ó Altíssimo,"
+    },
+    {
+      "numero": 4,
+      "texto": "quando o temor me invadir, eu porei a minha confiança em ti."
+    },
+    {
+      "numero": 5,
+      "texto": "Em Deus, cuja promessa exalto, em Deus confio, não temerei: que poderá contra mim o homem? (ver nota)"
+    },
+    {
+      "numero": 6,
+      "texto": "Todo o dia me difamam, todos os seus pensamentos são contra mim, para me fazerem mal."
+    },
+    {
+      "numero": 7,
+      "texto": "Juntam-se, armam ciladas, espiam os meus passos, procurando tirar-me a vida."
+    },
+    {
+      "numero": 8,
+      "texto": "Dá-lhes o pago da sua iniquidade, em tua indignação derriba esses povos, ó Deus."
+    },
+    {
+      "numero": 9,
+      "texto": "Tu anotaste os caminhos do meu desterro; foram recolhidas as minhas lágrimas no teu odre; não estão elas consignadas no teu livro?"
+    },
+    {
+      "numero": 10,
+      "texto": "Hão-de retrocer os meus inimigos, sempre que eu te invocar; eu o sei muito bem. Deus está por mim."
+    },
+    {
+      "numero": 11,
+      "texto": "Em Deus, cuja promessa exalto em Deus confio, não temerei: que poderá fazer contra mim o homem? (ver nota)"
+    },
+    {
+      "numero": 12,
+      "texto": "Estou obrigado, ó Deus, aos votos que te fiz, oferecer-te-ei sacrifícios de louvor,"
+    },
+    {
+      "numero": 13,
+      "texto": "porque livraste a minha alma da morte, e os meus pés da queda, para que eu ande na presença de Deus à luz dos viventes. (ver nota)"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "55:1",
+      "texto": "O pedido do salmista para que Deus ouça sua oração mostra a urgência e a sinceridade de seu clamor. Isso ilustra a confiança que devemos ter em apresentar nossas preocupações a Deus (veja também Salmo 34:17 e 1 Pedro 5:7)."
+    },
+    {
+      "ref": "55:4-5",
+      "texto": "A angústia do salmista é expressa através de uma descrição vívida de suas emoções. A vulnerabilidade na oração é uma parte importante da vida de fé, pois Deus se importa com nossos sentimentos (veja também Salmo 42:5 e Salmo 61:2)."
+    },
+    {
+      "ref": "55:12-14",
+      "texto": "O salmista lamenta a traição de um amigo íntimo, ressaltando a dor que vem das relações quebradas. Isso aponta para a necessidade de comunhão e integridade nas relações humanas (veja também Salmo 41:9 e Lucas 22:48)."
+    },
+    {
+      "ref": "55:16-17",
+      "texto": "A declaração de que o salmista invocará a Deus mostra a importância da oração constante. A oração deve ser um aspecto vital da vida, especialmente em tempos de crise (veja também 1 Tessalonicenses 5:17 e Efésios 6:18)."
+    },
+    {
+      "ref": "55:22",
+      "texto": "O convite a lançar sobre o Senhor a carga e a promessa de que Ele sustentará refletem a esperança e a liberdade que encontramos em Cristo. O alívio que Deus proporciona é fundamental para a saúde espiritual (veja também Salmo 37:5 e Mateus 11:28-30)."
+    }
+  ]
+}

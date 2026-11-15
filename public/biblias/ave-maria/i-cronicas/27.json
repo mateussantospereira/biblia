@@ -1,0 +1,172 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-cronicas",
+  "nome": "I Crônicas",
+  "testamento": "AT",
+  "capitulo": 27,
+  "totalVersiculos": 34,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-cronicas/27/",
+  "capturadoEm": "2026-11-15T09:13:27-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Israelitas, segundo o seu número, chefes de famílias, chefes de milhares e de centenas, oficiais a serviço do rei, para tudo que se referia às divisões chegando e partindo mensalmente, tendo cada divisão vinte e quatro mil homens."
+    },
+    {
+      "numero": 2,
+      "texto": "À frente da primeira divisão, para o primeiro mês, achava-se Jesboam, filho de Zabdiel, e sua divisão era de vinte e quatro mil homens."
+    },
+    {
+      "numero": 3,
+      "texto": "Ele era da linhagem de Farés e comandava todos os chefes de tropas do primeiro mês."
+    },
+    {
+      "numero": 4,
+      "texto": "À frente da divisão do segundo mês, achava-se Dudi, o aoíta; Macelot era um dos chefes de sua divisão, que contava vinte e quatro mil homens."
+    },
+    {
+      "numero": 5,
+      "texto": "O chefe da terceira divisão para o terceiro mês, era Banaías, filho do sacerdote-chefe Joiada, chefe; havia na sua divisão vinte e quatro mil homens."
+    },
+    {
+      "numero": 6,
+      "texto": "Esse Banaías era um herói dos trinta e um chefe dos trinta; Amizabad, seu filho, era um chefe de sua divisão."
+    },
+    {
+      "numero": 7,
+      "texto": "Para o quarto mês, havia Asael, irmão de Joab, a quem sucedeu seu filho Zabadias. A divisão contava vinte e quatro mil homens."
+    },
+    {
+      "numero": 8,
+      "texto": "O quinto, para o quinto mês, era o chefe Samaot, o izraíta; e havia na sua divisão vinte e quatro mil homens."
+    },
+    {
+      "numero": 9,
+      "texto": "O sexto, para o sexto mês, era Hira, filho de Aces, de Tícua; havia na sua divisão vinte e quatro mil homens."
+    },
+    {
+      "numero": 10,
+      "texto": "O sétimo, para o sétimo mês, era Heles, o falonita, dos filhos de Efraim; sua divisão contava vinte e quatro mil homens."
+    },
+    {
+      "numero": 11,
+      "texto": "O oitavo, para o oitavo mês, era Sobocai, o husatita, da família dos zaraítas; e sua divisão compreendia vinte e quatro mil homens."
+    },
+    {
+      "numero": 12,
+      "texto": "O nono, para o nono mês, era Abiezer, de Anatot dos filhos de Benjamim; e sua divisão contava vinte e quatro mil homens."
+    },
+    {
+      "numero": 13,
+      "texto": "O décimo, para o décimo mês, era Marai, de Netofa, da família dos zaraítas; e sua divisão contava vinte e quatro mil homens."
+    },
+    {
+      "numero": 14,
+      "texto": "O décimo primeiro, para o décimo primeiro mês, era Banaías, de Faraton, dos filhos de Efraim; e sua divisão contava vinte e quatro mil homens."
+    },
+    {
+      "numero": 15,
+      "texto": "O décimo segundo para o décimo segundo mês, era Holdai, de Netofa, da família de Otoniel; e sua divisão contava vinte e quatro mil homens."
+    },
+    {
+      "numero": 16,
+      "texto": "Eis os chefes das tribos de Israel: chefes dos rubenitas: Eliezer, filho de Zecri; dos simeonitas: Safatias, filho de Maaca;"
+    },
+    {
+      "numero": 17,
+      "texto": "dos levitas: Hasabias, filho de Camuel; da família de Aarão: Sadoc;"
+    },
+    {
+      "numero": 18,
+      "texto": "de Judá: Eliú, irmão de Davi; de Issacar: Amri, filho de Miguel;"
+    },
+    {
+      "numero": 19,
+      "texto": "de Zabulon: Jesmaías, filho de Abdias; de Neftali: Jarmut, filho de Ozriel;"
+    },
+    {
+      "numero": 20,
+      "texto": "dos filhos de Efraim; Oseias, filho de Ozazias; da meia tribo de Manassés: Joel, filho de Fadaías;"
+    },
+    {
+      "numero": 21,
+      "texto": "da meia tribo de Manassés, em Galaad: Jado, filho de Zacarias; de Benjamim: Jasiel, filho de Abner;"
+    },
+    {
+      "numero": 22,
+      "texto": "de Dã: Ezriel, filho de Jeroam. Eram esses os chefes das tribos de Israel.",
+      "nota": true
+    },
+    {
+      "numero": 23,
+      "texto": "Não fez Davi a relação daqueles que tinham vinte anos para baixo, porque o Senhor tinha prometido multiplicar Israel como as estrelas do céu."
+    },
+    {
+      "numero": 24,
+      "texto": "Joab, filho de Sárvia, tinha começado o recenseamento, mas não terminou, porque a ira de Deus viera sobre Israel, por causa do recenseamento. E o número deles não foi relacionado nas crônicas do rei Davi."
+    },
+    {
+      "numero": 25,
+      "texto": "Azmot, filho de Adiel, estava encarregado dos tesouros do rei; Jônatas, filho de Ozias, dos tesouros que havia nos campos, nas cidades, nas aldeias e nas torres;"
+    },
+    {
+      "numero": 26,
+      "texto": "Ezri, filho de Calub, era superintendente dos camponeses que cultivavam a terra;"
+    },
+    {
+      "numero": 27,
+      "texto": "Semei de Ramá, das vinhas; Zabdi, de Safão, das provisões de vinho nas vinhas;"
+    },
+    {
+      "numero": 28,
+      "texto": "Baalanã, de Gader, das oliveiras e sicômoros de Sefela;"
+    },
+    {
+      "numero": 29,
+      "texto": "Joás, das provisões de azeite; Setrai, de Sarona, dos bois que pastavam em Sarona; Safat, filho de Adli, dos bois dos vales;"
+    },
+    {
+      "numero": 30,
+      "texto": "Ubil, o ismaelita, dos camelos; Jadias, de Meranot, das jumentas;"
+    },
+    {
+      "numero": 31,
+      "texto": "Jaziz, o agareu, das ovelhas; eram esses os intendentes dos bens do rei Davi."
+    },
+    {
+      "numero": 32,
+      "texto": "Jônatas, tio de Davi, exercia a função de conselheiro; era ele um homem prudente e sábio. Jaiel, filho de Hacamon, estava com os filhos do rei."
+    },
+    {
+      "numero": 33,
+      "texto": "Aquitofel era conselheiro do rei e Cusai, o araquita, amigo do rei."
+    },
+    {
+      "numero": 34,
+      "texto": "Depois de Aquitofel, vinham Joiada, filho de Banaías, e Abiatar. Joab era general do exército real."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "27:1-15",
+      "texto": "A organização do exército de Israel em divisões reflete a sabedoria administrativa de Davi. Cada divisão servia um mês por ano, demonstrando um sistema eficiente e bem organizado de defesa e ordem pública (veja também 2 Samuel 23:8-39 e 1 Coríntios 14:33)."
+    },
+    {
+      "ref": "27:16-22",
+      "texto": "Os líderes das tribos de Israel são nomeados, indicando que cada tribo tinha uma estrutura de liderança responsável. Isso reflete o princípio de autoridade delegada, onde a responsabilidade é compartilhada (veja também Números 1:16 e Efésios 4:11-12)."
+    },
+    {
+      "ref": "27:23-24",
+      "texto": "Davi não realizou o censo completo, pois foi advertido que contar o povo poderia demonstrar desconfiança na provisão de Deus. Isso ensina que a confiança no Senhor é mais importante do que o poder humano ou o número (veja também 2 Samuel 24:10 e Salmo 20:7)."
+    },
+    {
+      "ref": "27:25-31",
+      "texto": "Os administradores das riquezas do rei, incluindo as colheitas e os animais, são detalhados, demonstrando a importância de uma boa gestão dos recursos nacionais. A prosperidade de Israel era um reflexo da bênção de Deus e da boa administração (veja também Provérbios 27:23-24 e Lucas 16:11)."
+    },
+    {
+      "ref": "27:32-34",
+      "texto": "Os conselheiros de Davi são mencionados, incluindo seus principais assessores e conselheiros espirituais. Isso mostra a importância de buscar sabedoria e conselho para governar com justiça e retidão (veja também Provérbios 11:14 e 1 Reis 12:6-7)."
+    }
+  ]
+}

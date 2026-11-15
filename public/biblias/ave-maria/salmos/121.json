@@ -1,0 +1,68 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 121,
+  "totalVersiculos": 9,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/121/",
+  "capturadoEm": "2026-11-15T09:18:07-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cântico das peregrinações. De Davi. Que alegria quando me vieram dizer: “Vamos subir à casa do Senhor...”.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Eis que nossos pés se estacam diante de tuas portas, ó Jerusalém!"
+    },
+    {
+      "numero": 3,
+      "texto": "Jerusalém, cidade tão bem edificada, que forma um tão belo conjunto!"
+    },
+    {
+      "numero": 4,
+      "texto": "Para lá sobem as tribos, as tribos do Senhor, segundo a Lei de Israel, para celebrar o nome do Senhor."
+    },
+    {
+      "numero": 5,
+      "texto": "Lá se acham os tronos de justiça, os assentos da casa de Davi."
+    },
+    {
+      "numero": 6,
+      "texto": "Pedi, vós todos, a paz para Jerusalém, e vivam em segurança os que te amam."
+    },
+    {
+      "numero": 7,
+      "texto": "Reine a paz em teus muros, e a tranquilidade em teus palácios."
+    },
+    {
+      "numero": 8,
+      "texto": "Por amor de meus irmãos e de meus amigos, pedirei a paz para ti."
+    },
+    {
+      "numero": 9,
+      "texto": "Por amor da casa do Senhor, nosso Deus, pedirei para ti a felicidade."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "121:1-2",
+      "texto": "O salmista declara que seus olhos se voltam para os montes em busca de ajuda, mas reconhece que a verdadeira ajuda vem do Senhor, Criador do céu e da terra. Esse reconhecimento destaca a confiança na providência divina em tempos de dificuldade (veja também Salmo 46:1 e Isaías 40:28-29)."
+    },
+    {
+      "ref": "121:3-4",
+      "texto": "Deus é apresentado como Aquele que guarda e vigia Seu povo constantemente, sem cochilar ou descansar. Essa imagem reforça a ideia de que Deus está sempre atento às necessidades de Seus servos (veja também Salmo 127:1 e Mateus 28:20)."
+    },
+    {
+      "ref": "121:5-6",
+      "texto": "O Senhor é descrito como a sombra protetora à direita do salmista, protegendo-o do calor do dia e do frio da noite. Essa proteção divina abrange todas as circunstâncias da vida, simbolizando segurança e cuidado (veja também Salmo 91:1-2 e Isaías 49:10)."
+    },
+    {
+      "ref": "121:7-8",
+      "texto": "O Senhor promete proteger o salmista de todo mal, guardando sua vida e seus passos. Essa proteção divina é contínua, tanto agora quanto para sempre, oferecendo conforto e segurança eternos (veja também Deuteronômio 31:8 e 2 Tessalonicenses 3:3)."
+    }
+  ]
+}

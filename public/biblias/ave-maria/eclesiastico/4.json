@@ -1,0 +1,189 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "eclesiastico",
+  "nome": "Eclesiástico",
+  "testamento": "AT",
+  "capitulo": 4,
+  "totalVersiculos": 36,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/eclesiastico/4/",
+  "capturadoEm": "2026-11-15T09:20:24-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Meu filho, não negues esmola ao pobre, nem dele desvies os olhos."
+    },
+    {
+      "numero": 2,
+      "texto": "Não desprezes o que tem fome, não irrites o pobre em sua indigência."
+    },
+    {
+      "numero": 3,
+      "texto": "Não aflijas o coração do infeliz, não recuses tua esmola àquele que está na miséria;"
+    },
+    {
+      "numero": 4,
+      "texto": "não rejeites o pedido do aflito, não desvies o rosto do pobre."
+    },
+    {
+      "numero": 5,
+      "texto": "Não desvies os olhos do indigente, para que ele não se zangue. Aos que pedem não dês motivo de vos amaldiçoarem pelas costas,"
+    },
+    {
+      "numero": 6,
+      "texto": "pois será atendida a imprecação daquele que te amaldiçoa na amargura de sua alma. Aquele que o criou o atenderá."
+    },
+    {
+      "numero": 7,
+      "texto": "Torna-te afável na assembleia dos pobres, humilha tua alma diante de um ancião; curva a cabeça diante de um poderoso."
+    },
+    {
+      "numero": 8,
+      "texto": "Dá ouvidos ao pobre de boa vontade. Paga a tua dívida, dá-lhe com doçura uma resposta apaziguadora."
+    },
+    {
+      "numero": 9,
+      "texto": "Liberta da casa do orgulhoso aquele que sofre injustiça. Quando fizeres um julgamento, não o faças com azedume.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Sê misereclodioso com os órfãos como um pai; e sê como um marido para a mãe deles."
+    },
+    {
+      "numero": 11,
+      "texto": "E serás como um filho obediente do Altíssimo, que, mais do que uma mãe, terá compaixão de ti."
+    },
+    {
+      "numero": 12,
+      "texto": "A sabedoria inspira a vida aos seus filhos, ela toma sob a sua proteção aqueles que a procuram; ela os precede no caminho da justiça.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Aquele que a ama, ama a vida; aqueles que velam para encontrá-la sentirão sua doçura.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Aqueles que a possuem terão a vida como herança, e Deus abençoará todo o lugar onde ele entrar."
+    },
+    {
+      "numero": 15,
+      "texto": "Aqueles que a servem serão obedientes ao Santo; aqueles que a amam serão amados por Deus.",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "Aquele que a ouve julgará as nações; aquele que é atento em contemplá-la permanecerá seguro."
+    },
+    {
+      "numero": 17,
+      "texto": "Quem nela põe sua confiança a terá como herança e sua posteridade a possuirá,"
+    },
+    {
+      "numero": 18,
+      "texto": "pois na provação ela anda com ele, e escolhe-o em primeiro lugar."
+    },
+    {
+      "numero": 19,
+      "texto": "Ela traz-lhe o temor, o pavor e a aprovação. Ela o atormenta com sua penosa disciplina, até que, tendo-o experimentado nos seus pensamentos, ela possa confiar nele."
+    },
+    {
+      "numero": 20,
+      "texto": "Então ela o porá firme, voltará a ele em linha reta. Ela o cumula de alegria,"
+    },
+    {
+      "numero": 21,
+      "texto": "desvenda-lhe seus segredos e enriquece-o com tesouros de ciência, de inteligência e de justiça."
+    },
+    {
+      "numero": 22,
+      "texto": "Porém, se ele se transviar, ela o abandonará, e o entregará às mãos do seu inimigo."
+    },
+    {
+      "numero": 23,
+      "texto": "Meu filho, aproveita-te do tempo, evita o mal;"
+    },
+    {
+      "numero": 24,
+      "texto": "para o bem de tua alma, não te envergonhes de dizer a verdade,",
+      "nota": true
+    },
+    {
+      "numero": 25,
+      "texto": "pois há uma vergonha que conduz ao pecado, e uma vergonha que atrai glória e graça."
+    },
+    {
+      "numero": 26,
+      "texto": "Em teu próprio prejuízo não te mostres parcial, não mintas em prejuízo de tua alma.",
+      "nota": true
+    },
+    {
+      "numero": 27,
+      "texto": "Não tenhas complacência com as fragilidades do próximo,",
+      "nota": true
+    },
+    {
+      "numero": 28,
+      "texto": "não retenhas uma palavra que pode ser salutar, não escondas tua sabedoria pela tua vaidade."
+    },
+    {
+      "numero": 29,
+      "texto": "Pois a sabedoria faz-se distinguir pela língua; o bom senso, o saber e a doutrina, pela palavra do sábio; e a firmeza, pelos atos de justiça."
+    },
+    {
+      "numero": 30,
+      "texto": "Não contradigas de nenhum modo a verdade, envergonha-te da mentira cometida por ignorância.",
+      "nota": true
+    },
+    {
+      "numero": 31,
+      "texto": "Não te envergonhes de confessar os teus pecados; não te tornes escravo de nenhum homem que te leve a pecar.",
+      "nota": true
+    },
+    {
+      "numero": 32,
+      "texto": "Não resistas face a face ao homem poderoso, não te oponhas ao curso do rio.",
+      "nota": true
+    },
+    {
+      "numero": 33,
+      "texto": "Combate pela justiça, a fim de salvares tua vida; até a morte, combate pela justiça, e Deus combaterá por ti contra teus inimigos."
+    },
+    {
+      "numero": 34,
+      "texto": "Não sejas precipitado em palavras, e (ao mesmo tempo) covarde e negligente em tuas ações."
+    },
+    {
+      "numero": 35,
+      "texto": "Não sejas como um leão em tua casa, prejudicando os teus domésticos e tiranizando os que te são submissos."
+    },
+    {
+      "numero": 36,
+      "texto": "Que tua mão não seja aberta para receber, e fechada para dar."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "4:1-4",
+      "texto": "Deus condena a opressão dos necessitados e fracos. A compaixão e a justiça são essenciais no trato com os pobres, refletindo o cuidado de Deus com os vulneráveis (veja também Isaías 1:17 e Tiago 1:27)."
+    },
+    {
+      "ref": "4:7-10",
+      "texto": "A generosidade com os pobres é vista como um ato de sabedoria. Aqueles que são misericordiosos com os fracos e necessitados são abençoados por Deus, uma virtude que reflete o coração de Deus (veja também Provérbios 19:17 e Lucas 6:38)."
+    },
+    {
+      "ref": "4:11-13",
+      "texto": "A sabedoria guia e protege aqueles que a buscam. Ela é personificada como uma mãe que cuida de seus filhos, conduzindo-os ao caminho da justiça e vida (veja também Provérbios 3:13-18 e Tiago 3:17)."
+    },
+    {
+      "ref": "4:17-18",
+      "texto": "A sabedoria pode testar seus seguidores, mas aqueles que perseveram encontram verdadeira paz e segurança. Essa provação é parte do crescimento e maturidade espiritual (veja também Provérbios 9:10-11 e Hebreus 12:5-6)."
+    },
+    {
+      "ref": "4:20-22",
+      "texto": "A discrição e o discernimento são fundamentais na vida de sabedoria. É importante saber quando falar e quando se calar, evitando a insensatez e o orgulho (veja também Tiago 1:19 e Provérbios 21:23)."
+    }
+  ]
+}

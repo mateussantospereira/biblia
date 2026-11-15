@@ -1,0 +1,85 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 45,
+  "totalVersiculos": 12,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/45/",
+  "capturadoEm": "2026-11-15T09:16:47-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. Dos filhos de Coré. Cântico para voz de soprano.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Deus é nosso refúgio e nossa força; mostrou-se nosso amparo nas tribulações."
+    },
+    {
+      "numero": 3,
+      "texto": "Por isso, a terra pode tremer, nada tememos: as próprias montanhas podem se afundar nos mares."
+    },
+    {
+      "numero": 4,
+      "texto": "Ainda que as águas tumultuem e com sua fúria venham abalar os montes, está conosco o Senhor dos exércitos, nosso protetor é o Deus de Jacó."
+    },
+    {
+      "numero": 5,
+      "texto": "Os braços de um rio alegram a cidade de Deus, o santuário do Altíssimo.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Deus está no seu centro, ela é inabalável; desde o amanhecer, já Deus lhe vem em socorro."
+    },
+    {
+      "numero": 7,
+      "texto": "Agitaram-se as nações, vacilaram os reinos; apenas ressoou sua voz, tremeu a terra."
+    },
+    {
+      "numero": 8,
+      "texto": "Está conosco o Senhor dos exércitos, nosso protetor é o Deus de Jacó."
+    },
+    {
+      "numero": 9,
+      "texto": "Vinde admirar as obras do Senhor, os prodígios que ele fez sobre a terra."
+    },
+    {
+      "numero": 10,
+      "texto": "Reprimiu as guerras em toda a extensão da terra; partiu os arcos, quebrou as lanças, queimou os escudos."
+    },
+    {
+      "numero": 11,
+      "texto": "“Parai – disse ele – e reconhecei que sou Deus; que domino sobre as nações e sobre toda a terra.”"
+    },
+    {
+      "numero": 12,
+      "texto": "Está conosco o Senhor dos exércitos, nosso protetor é o Deus de Jacó."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "45:1-2",
+      "texto": "O salmista expressa a grandeza do rei, cujas palavras são graciosas e poderosas. Esse retrato do rei é um reflexo da majestade de Deus, enfatizando a importância da eloquência e da sabedoria nas autoridades (veja também Provérbios 16:21 e Tiago 1:19)."
+    },
+    {
+      "ref": "45:3-5",
+      "texto": "O rei é comparado a um guerreiro poderoso, armado com espada e cercado por majestade. Isso simboliza a vitória e a justiça divina, refletindo o papel do Messias como conquistador e defensor do povo (veja também Isaías 11:4 e Apocalipse 19:11-16)."
+    },
+    {
+      "ref": "45:6-7",
+      "texto": "A afirmação da eternidade do trono do rei é uma referência à promessa messiânica. A unção do rei é uma marca de sua escolha divina, indicando que seu governo é justo e pleno de equidade (veja também Hebreus 1:8-9 e Salmo 2:7-8)."
+    },
+    {
+      "ref": "45:8-9",
+      "texto": "A descrição da opulência e da glória do rei é uma metáfora para a beleza e a riqueza do reino de Deus. O salmista destaca a importância da alegria e da celebração na vida do povo de Deus (veja também Salmo 100:1-2 e Filipenses 4:4)."
+    },
+    {
+      "ref": "45:10-17",
+      "texto": "O salmista aconselha a rainha a deixar seu povo e seguir o rei, simbolizando a aliança entre Deus e Seu povo. Essa passagem reflete a chamada à santidade e à dedicação a Deus, apontando para a união entre Cristo e a Igreja (veja também Efésios 5:25-27 e Apocalipse 21:2)."
+    }
+  ]
+}

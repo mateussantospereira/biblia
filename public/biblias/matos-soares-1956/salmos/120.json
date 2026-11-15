@@ -1,0 +1,59 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 120,
+  "totalVersiculos": 8,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/120/",
+  "capturadoEm": "2026-11-15T09:54:22-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cântico das subidas. Levanto os meus olhos para os montes: donde me virá o socorro?\""
+    },
+    {
+      "numero": 2,
+      "texto": "O meu socorro vem do Senhor, que fez o céu e a terra."
+    },
+    {
+      "numero": 3,
+      "texto": "Não permitirá ele que vacile o teu pé, nem adormecerá aquele que te guarda."
+    },
+    {
+      "numero": 4,
+      "texto": "Não, por certo, não adormecerá, nem dormirá o que guarda Israel."
+    },
+    {
+      "numero": 5,
+      "texto": "O Senhor te guarda, o Senhor é a tua protecção, ao teu lado direito."
+    },
+    {
+      "numero": 6,
+      "texto": "Durante o dia o sol não te queimará, nem a lua (te danificará) de noite."
+    },
+    {
+      "numero": 7,
+      "texto": "O Senhor te guardará de todo o mal: guardará a tua alma."
+    },
+    {
+      "numero": 8,
+      "texto": "O Senhor guarde a tua entrada e a tua saída, desde agora e para sempre."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "120:1",
+      "texto": "O salmista clama ao Senhor em sua angústia, e Deus o ouve. Esse versículo destaca o conforto e a certeza de que Deus responde às orações dos aflitos (veja também Salmo 34:17 e 1 João 5:14-15)."
+    },
+    {
+      "ref": "120:2-4",
+      "texto": "O salmista pede livramento de mentirosos e enganosos. Isso reflete a dor causada pelas palavras falsas e a justiça de Deus em julgar aqueles que causam dano com a língua (veja também Provérbios 12:19 e Tiago 3:5-6)."
+    },
+    {
+      "ref": "120:5-7",
+      "texto": "O salmista lamenta sua permanência entre povos violentos, ansiando por paz. Isso expressa a tensão entre o desejo de paz e a realidade de viver entre aqueles que promovem conflito (veja também Mateus 5:9 e Romanos 12:18)."
+    }
+  ]
+}

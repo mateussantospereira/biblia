@@ -1,0 +1,107 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "apocalipse",
+  "nome": "Apocalipse",
+  "testamento": "NT",
+  "capitulo": 13,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/apocalipse/13/",
+  "capturadoEm": "2026-11-15T09:29:52-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Vi, então, levantar-se do mar uma Fera que tinha dez chifres e sete cabeças; sobre os chifres, dez diademas; e nas suas cabeças, nomes blasfematórios.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "A Fera que eu vi era semelhante a uma pantera: os pés como de urso, e as fauces como de leão. Deu-lhe o Dragão o seu poder, o seu trono e grande autoridade.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Uma das suas cabeças estava como que ferida de morte, mas essa ferida de morte fora curada. E todos, pasmados de admiração, seguiram a Fera",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "e prostraram-se diante do Dragão, porque dera seu prestígio à Fera, e prostraram-se igualmente diante da Fera, dizendo: “Quem é semelhante à Fera e quem poderá lutar com ela?”."
+    },
+    {
+      "numero": 5,
+      "texto": "Foi-lhe dada a faculdade de proferir arrogâncias e blasfêmias, e foi-lhe dado o poder de agir por quarenta e dois meses.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Abriu, pois, a boca em blasfêmias contra Deus, para blasfemar o seu nome, o seu tabernáculo e os habitantes do céu."
+    },
+    {
+      "numero": 7,
+      "texto": "Foi-lhe dado, também, fazer guerra aos santos e vencê-los. Recebeu autoridade sobre toda tribo, povo, língua e nação,"
+    },
+    {
+      "numero": 8,
+      "texto": "e hão de adorá-la todos os habitantes da terra, cujos nomes não estão escritos desde a origem do mundo no livro da vida do Cordeiro imolado."
+    },
+    {
+      "numero": 9,
+      "texto": "Quem tiver ouvidos ouça!"
+    },
+    {
+      "numero": 10,
+      "texto": "Quem procura prender será preso. Quem matar pela espada, pela espada deve ser morto. Esta é a ocasião para a constância e a confiança dos santos!",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Vi, então, outra Fera subir da terra. Tinha dois chifres como um cordeiro, mas falava como um dragão.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Ela exercia todo o poder da primeira Fera, sob a vigilância desta, e fez com que a terra e os seus habitantes adorassem a primeira Fera (cuja ferida de morte havia sido curada)."
+    },
+    {
+      "numero": 13,
+      "texto": "Realizou grandes prodígios, de modo que até fez descer fogo do céu sobre a terra, à vista dos homens."
+    },
+    {
+      "numero": 14,
+      "texto": "Seduziu os habitantes da terra com os prodígios que lhe era dado fazer sob a vigilância da Fera, persuadindo-os a fazer uma imagem da Fera que sobrevivera ao golpe da espada."
+    },
+    {
+      "numero": 15,
+      "texto": "Foi-lhe dado, também, comunicar espírito à imagem da Fera, de modo que essa imagem se pusesse a falar e fizesse com que fosse morto todo aquele que não se prostrasse diante dela."
+    },
+    {
+      "numero": 16,
+      "texto": "Conseguiu que todos, pequenos e grandes, ricos e pobres, livres e escravos, tivessem um sinal na mão direita e na fronte,"
+    },
+    {
+      "numero": 17,
+      "texto": "e que ninguém pudesse comprar ou vender, se não fosse marcado com o nome da Fera, ou o número do seu nome.",
+      "nota": true
+    },
+    {
+      "numero": 18,
+      "texto": "Eis aqui a sabedoria! Quem tiver inteligência, calcule o número da Fera, porque é número de um homem, e esse número é seiscentos e sessenta e seis.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "13:1-10",
+      "texto": "A besta que emerge do mar representa o poder político e os sistemas opressores que se opõem a Deus e à Igreja. Seu domínio é temporário, mas sua influência sobre as nações é devastadora. A resistência a esses sistemas exige firmeza na fé (veja também Daniel 7:3-8 e 2 Tessalonicenses 2:4)."
+    },
+    {
+      "ref": "13:11-18",
+      "texto": "A segunda besta, que emerge da terra, simboliza os falsos profetas e os sistemas religiosos que enganam e manipulam os povos. A marca da besta, 666, é um símbolo de subordinação ao poder maligno (veja também Mateus 24:24 e 1 João 4:1-3)."
+    },
+    {
+      "ref": "13:9-10",
+      "texto": "A chamada para \"quem tem ouvidos, ouça\" é um convite à reflexão e vigilância. A perseverança dos santos em tempos de perseguição é essencial para viver a verdadeira fé em Cristo (veja também Mateus 10:22 e Romanos 5:3-4)."
+    }
+  ]
+}

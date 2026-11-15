@@ -1,0 +1,149 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "esdras",
+  "nome": "Esdras",
+  "testamento": "AT",
+  "capitulo": 7,
+  "totalVersiculos": 28,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/esdras/7/",
+  "capturadoEm": "2026-11-15T09:14:13-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Após esses acontecimentos, sob o reinado de Artaxerxes, rei da Pérsia, chegou Esdras, filho de Saraías, filho de Azarias, filho de Helcias,",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "filho de Selum, filho de Sadoc, filho de Aquitob,"
+    },
+    {
+      "numero": 3,
+      "texto": "filho de Amarias, filho de Azarias, filho de Maraiot,"
+    },
+    {
+      "numero": 4,
+      "texto": "filho de Zaraías, filho de Ozi, filho de Boci,"
+    },
+    {
+      "numero": 5,
+      "texto": "filho de Abisue, filho de Fineias, filho de Eleazar, filho de Aarão, o sumo sacerdote."
+    },
+    {
+      "numero": 6,
+      "texto": "Este Esdras vinha da Babilônia. Era um escriba versado na Lei de Moisés dada pelo Senhor, Deus de Israel. Como a mão do Senhor, seu Deus, repousasse sobre ele, o rei concedeu-lhe tudo o que pediu."
+    },
+    {
+      "numero": 7,
+      "texto": "Com ele, vários israelitas, sacerdotes e levitas, cantores, porteiros e natineus, voltaram para Jerusalém, no sétimo ano do rei Artaxerxes."
+    },
+    {
+      "numero": 8,
+      "texto": "Chegou Esdras a Jerusalém no quinto mês do sétimo ano do rei."
+    },
+    {
+      "numero": 9,
+      "texto": "Foi no primeiro dia do primeiro mês que ele partiu da Babilônia e chegou a Jerusalém no primeiro dia do quinto mês, porque a mão benevolente de seu Deus estava com ele."
+    },
+    {
+      "numero": 10,
+      "texto": "Esdras se tinha aplicado de todo o coração a estudar a Lei do Senhor, a praticá-la e a ensinar em Israel as leis e as prescrições."
+    },
+    {
+      "numero": 11,
+      "texto": "Eis a cópia da carta que o rei Artaxerxes entregou a Esdras, sacerdote e escriba, versado no conhecimento do texto da Lei do Senhor e de suas prescrições concernentes a Israel:"
+    },
+    {
+      "numero": 12,
+      "texto": "“Artaxerxes, rei dos reis, a Esdras, sacerdote e escriba versado na Lei do Deus do céu, saudações."
+    },
+    {
+      "numero": 13,
+      "texto": "Dei ordem para que deixassem partir contigo todos aqueles do povo de Israel, seus sacerdotes e seus levitas, residentes em meu reino, que desejavam ir a Jerusalém."
+    },
+    {
+      "numero": 14,
+      "texto": "Pois foste enviado pelo rei e seus sete conselheiros para fazer uma inspeção em Judá e em Jerusalém e para ver como está sendo observada ali a Lei de teu Deus que tens em tuas mãos."
+    },
+    {
+      "numero": 15,
+      "texto": "Levarás a prata e o ouro que o rei e seus conselheiros ofereceram espontaneamente ao Deus de Israel, cuja morada fica em Jerusalém,"
+    },
+    {
+      "numero": 16,
+      "texto": "bem como todo o ouro e a prata que encontrares por toda a província da Babilônia e, por fim, os dons voluntários que o povo e os sacerdotes ofereceram livremente para a casa de seu Deus, em Jerusalém."
+    },
+    {
+      "numero": 17,
+      "texto": "Por conseguinte, cuidarás de comprar, com esse dinheiro, novilhos, carneiros, cordeiros, bem como as oferendas e as libações e as oferecerás em Jerusalém no altar da casa de vosso Deus."
+    },
+    {
+      "numero": 18,
+      "texto": "Com o restante do dinheiro e do ouro, fareis o que parecer melhor a ti e a teus irmãos, em conformidade com a vontade de vosso Deus."
+    },
+    {
+      "numero": 19,
+      "texto": "Os utensílios que te forem entregues para o serviço da casa de teu Deus, tu os depositarás diante do Deus de Jerusalém."
+    },
+    {
+      "numero": 20,
+      "texto": "Quanto às outras despesas que deverás fazer para o templo de teu Deus, tu as providenciarás por meio dos recursos que o tesouro real te fornecerá."
+    },
+    {
+      "numero": 21,
+      "texto": "Ademais, eu, rei Artaxerxes, ordeno a todos os tesoureiros de além do rio, que entreguem pontualmente a Esdras, o sacerdote, escriba versado na Lei do Deus do céu, tudo o que ele solicitar,"
+    },
+    {
+      "numero": 22,
+      "texto": "até a quantia de cem talentos de prata, cem coros de trigo, até cem batos de vinho, cem batos de azeite e sal à vontade."
+    },
+    {
+      "numero": 23,
+      "texto": "Tudo o que prescreveu o Deus do céu para a sua casa seja fielmente observado, a fim de que a cólera divina não se desencadeie contra o reino, o rei e seus filhos."
+    },
+    {
+      "numero": 24,
+      "texto": "Por fim, notificamo-vos de que não se deverá lançar imposto algum, nem tributo, nem encargos, sobre qualquer dos sacerdotes, levitas, cantores, porteiros, natineus e servos dessa casa de Deus."
+    },
+    {
+      "numero": 25,
+      "texto": "E tu, Esdras, segundo a sabedoria de teu Deus que te foi dada, estabelecerás juízes e magistrados para fazer justiça a todo o povo da outra banda do rio, a todos aqueles que conhecem a Lei de teu Deus; e tu deverás ensinar aos que não as conhecem."
+    },
+    {
+      "numero": 26,
+      "texto": "Todo aquele que não observar a Lei de teu Deus e a lei do rei será castigado rigorosamente, seja com a morte, seja com o desterro, seja com uma multa, ou mesmo com a prisão”."
+    },
+    {
+      "numero": 27,
+      "texto": "“Bendito seja o Senhor, o Deus de nossos pais, que pôs no coração do rei o desejo de honrar a casa do Senhor que está em Jerusalém,",
+      "nota": true
+    },
+    {
+      "numero": 28,
+      "texto": "e que me fez obter o favor do rei, dos seus conselheiros e de todos os mais poderosos oficiais do rei. Enchi-me pois de coragem, porque a mão do Senhor, meu Deus, estava comigo e reuni os chefes de Israel para que partissem comigo.”"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "7:1-6",
+      "texto": "Esdras, um sacerdote e escriba, recebe permissão do rei Artaxerxes para retornar a Jerusalém e ensinar a Lei de Deus. Sua devoção à Palavra revela o papel crucial dos líderes espirituais na restauração do povo de Deus (veja também Neemias 8:1-3 e 2 Timóteo 2:15)."
+    },
+    {
+      "ref": "7:7-10",
+      "texto": "Esdras lidera um grupo de exilados de volta a Jerusalém, com o favor de Deus sobre eles. Sua determinação em estudar, praticar e ensinar a Lei de Deus serve como um exemplo de liderança fiel (veja também Salmo 119:9-11 e Tiago 1:22)."
+    },
+    {
+      "ref": "7:11-12",
+      "texto": "O rei Artaxerxes escreve uma carta concedendo a Esdras autoridade para estabelecer juízes e ensinar a Lei de Deus. A mão de Deus move até mesmo os corações dos reis para cumprir Seu propósito (veja também Provérbios 21:1 e Isaías 45:1-3)."
+    },
+    {
+      "ref": "7:13-20",
+      "texto": "O decreto de Artaxerxes garante recursos financeiros e materiais para a adoração no templo. Deus não apenas move as autoridades para apoiar Seu povo, mas também provê abundantemente para a realização de Sua obra (veja também 2 Coríntios 9:8-9 e Salmo 50:10-11)."
+    },
+    {
+      "ref": "7:27-28",
+      "texto": "Esdras louva a Deus pelo favor real e pela mão estendida sobre ele. O reconhecimento de que tudo vem de Deus é um elemento central na vida de gratidão e adoração do fiel (veja também 1 Tessalonicenses 5:18 e Salmo 136:1)."
+    }
+  ]
+}

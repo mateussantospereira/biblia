@@ -1,0 +1,154 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "galatas",
+  "nome": "Gálatas",
+  "testamento": "NT",
+  "capitulo": 3,
+  "totalVersiculos": 29,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/galatas/3/",
+  "capturadoEm": "2026-11-15T09:28:24-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ó insensatos gálatas! Quem vos fascinou a vós, ante cujos olhos foi apresentada a imagem de Jesus Cristo crucificado?"
+    },
+    {
+      "numero": 2,
+      "texto": "Apenas isto quero saber de vós: recebestes o Espírito pelas práticas da Lei ou pela aceitação da fé?",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Sois assim tão levianos? Depois de terdes começado pelo Espírito, quereis agora acabar pela carne?"
+    },
+    {
+      "numero": 4,
+      "texto": "Ter feito tais experiências em vão! Se é que foi em vão!"
+    },
+    {
+      "numero": 5,
+      "texto": "Aquele que vos dá o Espírito e realiza milagres entre vós, acaso o faz pela prática da Lei, ou pela aceitação da fé?"
+    },
+    {
+      "numero": 6,
+      "texto": "Foi este o caso de Abraão: ele creu em Deus e isto lhe foi levado em conta de justiça (Gn 15,6)."
+    },
+    {
+      "numero": 7,
+      "texto": "Sabei, pois: só os que têm fé é que são filhos de Abraão."
+    },
+    {
+      "numero": 8,
+      "texto": "Prevendo a Escritura que Deus justificaria os povos pagãos pela fé, anunciou esta Boa-Nova a Abraão: Em ti todos os povos serão abençoados (Gn 18,18)."
+    },
+    {
+      "numero": 9,
+      "texto": "De modo que os homens de fé são abençoados com a bênção de Abraão, homem de fé."
+    },
+    {
+      "numero": 10,
+      "texto": "Todos os que se apoiam nas práticas legais estão sob um regime de maldição. Pois está escrito: Maldito aquele que não cumpre todas as prescrições do Livro da Lei (Dt 27,26)."
+    },
+    {
+      "numero": 11,
+      "texto": "Que ninguém é justificado pela Lei perante Deus é evidente, porque o justo viverá pela fé (Hab 2,4)."
+    },
+    {
+      "numero": 12,
+      "texto": "Ora, a Lei não provém da fé e sim (do cumprimento): quem observar estes preceitos viverá por eles (Lv 18,5)."
+    },
+    {
+      "numero": 13,
+      "texto": "Cristo remiu-nos da maldição da Lei, fazendo-se por nós maldição, pois está escrito: Maldito todo aquele que é suspenso no madeiro (Dt 21,23)."
+    },
+    {
+      "numero": 14,
+      "texto": "Assim a bênção de Abraão se estende aos gentios, em Cristo Jesus, e pela fé recebemos o Espírito prometido."
+    },
+    {
+      "numero": 15,
+      "texto": "Irmãos, vou apresentar-vos uma comparação de ordem humana. Se um testamento for feito em boa e devida forma, por quem quer que seja, ninguém o pode anular ou acrescentar-lhe alguma coisa."
+    },
+    {
+      "numero": 16,
+      "texto": "Ora, as promessas foram feitas a Abraão e à sua descendência. Não diz: aos seus descendentes, como se fossem muitos, mas fala de um só: e a tua descendência (Gn 12,7), isto é, a Cristo."
+    },
+    {
+      "numero": 17,
+      "texto": "Afirmo, portanto: a Lei, que veio quatrocentos e trinta anos mais tarde, não pode anular o testamento feito por Deus em boa e devida forma e não pode tornar sem efeito a promessa."
+    },
+    {
+      "numero": 18,
+      "texto": "Porque, se a herança se obtivesse pela Lei, já não proviria da promessa. Ora, pela promessa é que Deus deu o seu favor a Abraão."
+    },
+    {
+      "numero": 19,
+      "texto": "Então, que é a Lei? É um complemento ajuntado em vista das transgressões, até que viesse a descendência a quem fora feita a promessa; foi promulgada por anjos, passando por um intermediário.",
+      "nota": true
+    },
+    {
+      "numero": 20,
+      "texto": "Mas não há intermediário, tratando-se de uma só pessoa, e Deus é um só.",
+      "nota": true
+    },
+    {
+      "numero": 21,
+      "texto": "Portanto, é a Lei contrária às promessas de Deus? De nenhum modo. Se fosse dada uma Lei que pudesse vivificar, em verdade a justiça viria pela Lei;"
+    },
+    {
+      "numero": 22,
+      "texto": "mas a Escritura encerrou tudo sob o império do pecado, para que a promessa mediante a fé em Jesus Cristo fosse dada aos que creem."
+    },
+    {
+      "numero": 23,
+      "texto": "Antes que viesse a fé, estávamos encerrados sob a vigilância de uma Lei, esperando a revelação da fé."
+    },
+    {
+      "numero": 24,
+      "texto": "Assim a Lei se nos tornou pedagogo encarregado de levar-nos a Cristo, para sermos justificados pela fé."
+    },
+    {
+      "numero": 25,
+      "texto": "Mas, depois que veio a fé, já não dependemos de pedagogo,"
+    },
+    {
+      "numero": 26,
+      "texto": "porque todos sois filhos de Deus pela fé em Jesus Cristo."
+    },
+    {
+      "numero": 27,
+      "texto": "Todos vós que fostes batizados em Cristo, vos revestistes de Cristo."
+    },
+    {
+      "numero": 28,
+      "texto": "Já não há judeu nem grego, nem escravo nem livre, nem homem nem mulher, pois todos vós sois um em Cristo Jesus."
+    },
+    {
+      "numero": 29,
+      "texto": "Ora, se sois de Cristo, então sois verdadeiramente a descendência de Abraão, herdeiros segundo a promessa."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-3",
+      "texto": "Paulo repreende os gálatas por se desviarem do evangelho genuíno e se apoiarem novamente na carne, em vez de viverem pelo Espírito. Isso destaca a importância de viver na liberdade que Cristo conquistou (veja também Romanos 8:5-9 e Filipenses 3:3)."
+    },
+    {
+      "ref": "3:6-9",
+      "texto": "Paulo compara a fé de Abraão à fé cristã, mostrando que os crentes são filhos de Abraão. A justificação pela fé é uma continuidade da promessa feita a Abraão, ligando o Antigo Testamento ao Novo (veja também Gênesis 12:3 e Romanos 4:3)."
+    },
+    {
+      "ref": "3:10-12",
+      "texto": "Paulo explica que aqueles que se baseiam na observância da lei estão sob maldição, pois a lei exige perfeita obediência. A justificação vem pela fé, não pela adesão às obras da lei (veja também Deuteronômio 27:26 e Romanos 3:20)."
+    },
+    {
+      "ref": "3:13-14",
+      "texto": "Cristo se fez maldição por nós para nos redimir da maldição da lei, e, por meio dele, recebemos a promessa do Espírito. O versículo sublinha o caráter redentor da obra de Cristo (veja também 2 Coríntios 5:21 e João 7:39)."
+    },
+    {
+      "ref": "3:23-25",
+      "texto": "Paulo fala da lei como tutora, que nos conduz até Cristo. A lei tinha um propósito temporário até que Cristo fosse revelado, e agora vivemos pela fé nele, sem mais a necessidade de mediadores (veja também Romanos 10:4 e Hebreus 10:1)."
+    }
+  ]
+}

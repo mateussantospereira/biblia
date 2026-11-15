@@ -1,0 +1,103 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "exodo",
+  "nome": "Êxodo",
+  "testamento": "AT",
+  "capitulo": 31,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/exodo/31/",
+  "capturadoEm": "2026-11-15T09:08:31-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Senhor disse a Moisés:"
+    },
+    {
+      "numero": 2,
+      "texto": "“Eis que chamei por seu nome Beseleel, filho de Uri, filho de Hur, da tribo de Judá."
+    },
+    {
+      "numero": 3,
+      "texto": "Eu o enchi do espírito divino para lhe dar sabedoria, inteligência e habilidade para toda a sorte de obras:"
+    },
+    {
+      "numero": 4,
+      "texto": "invenções, trabalho de ouro, de prata, de bronze,"
+    },
+    {
+      "numero": 5,
+      "texto": "gravuras em pedras de engastes, trabalho em madeira e para executar toda a sorte de obras."
+    },
+    {
+      "numero": 6,
+      "texto": "Associei-lhe Ooliab, filho de Aquisamec, da tribo de Dã. E dou a sabedoria ao coração de todos os homens inteligentes, a fim de que executem tudo o que te ordenei;"
+    },
+    {
+      "numero": 7,
+      "texto": "a tenda de reunião, a arca da aliança, a tampa que a recobre e todos os móveis da tenda;"
+    },
+    {
+      "numero": 8,
+      "texto": "a mesa e todos os seus acessórios, o candelabro de ouro puro e todos os seus acessórios, o altar dos perfumes,"
+    },
+    {
+      "numero": 9,
+      "texto": "o altar dos holocaustos, com todos os seus utensílios e a bacia com seu pedestal;"
+    },
+    {
+      "numero": 10,
+      "texto": "as vestes litúrgicas, os ornamentos sagrados para o sacerdote Aarão, as vestes de seus filhos para as funções sacerdotais;"
+    },
+    {
+      "numero": 11,
+      "texto": "o óleo da unção e o incenso perfumado para o santuário. Eles se conformarão em tudo às ordens que te dei”."
+    },
+    {
+      "numero": 12,
+      "texto": "O Senhor disse a Moisés:"
+    },
+    {
+      "numero": 13,
+      "texto": "“Dize aos israelitas: observareis os meus sábados, porque esse é um sinal perpétuo entre mim e vós, para que saibais que eu sou o Senhor, que vos santifico."
+    },
+    {
+      "numero": 14,
+      "texto": "Guardareis o sábado, pois ele vos deve ser sagrado. Aquele que o violar será morto; quem fizer naquele dia uma obra qualquer será cortado do meio do seu povo."
+    },
+    {
+      "numero": 15,
+      "texto": "E se trabalhará durante seis dias, mas o sétimo dia será um dia de repouso completo consagrado ao Senhor. Se alguém trabalhar no dia de sábado será punido de morte."
+    },
+    {
+      "numero": 16,
+      "texto": "Os israelitas guardarão o sábado, celebrando-o de idade em idade com um pacto perpétuo."
+    },
+    {
+      "numero": 17,
+      "texto": "Esse será um sinal perpétuo entre mim e os israelitas, porque o Senhor fez o céu e a terra em seis dias e no sétimo dia ele cessou de trabalhar e descansou”."
+    },
+    {
+      "numero": 18,
+      "texto": "Tendo o Senhor acabado de falar a Moisés sobre o monte Sinai, entregou-lhe as duas tábuas do testemunho, tábuas de pedra, escritas com o dedo de Deus."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "31:1-6",
+      "texto": "Deus escolhe Bezalel e Ooliabe e os capacita com o Espírito Santo para a construção do Tabernáculo. Essa escolha mostra como Deus capacita Seu povo com dons específicos para o cumprimento de Sua obra (veja também 1 Coríntios 12:4-6 e Efésios 4:11-12)."
+    },
+    {
+      "ref": "31:7-11",
+      "texto": "A lista dos itens sagrados a serem confeccionados por Bezalel e Ooliabe reforça a importância dos detalhes no culto a Deus. Cada peça do Tabernáculo tem um propósito específico, simbolizando a ordem e o cuidado de Deus no culto (veja também Hebreus 9:1-5 e 1 Crônicas 28:19)."
+    },
+    {
+      "ref": "31:12-17",
+      "texto": "O mandamento de guardar o sábado é reafirmado como sinal perpétuo entre Deus e Israel. O sábado é uma lembrança do pacto e do descanso de Deus após a criação, e sua observância reflete a santidade do povo (veja também Gênesis 2:2-3 e Ezequiel 20:12)."
+    },
+    {
+      "ref": "31:18",
+      "texto": "Deus entrega as tábuas de pedra com os Dez Mandamentos a Moisés, escritas com o dedo de Deus. Essas tábuas são um símbolo da Lei divina e do pacto de Deus com Israel (veja também Deuteronômio 9:10 e 2 Coríntios 3:3)."
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-timoteo",
+  "nome": "I Timóteo",
+  "testamento": "NT",
+  "capitulo": 4,
+  "totalVersiculos": 16,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-timoteo/4/",
+  "capturadoEm": "2026-11-15T09:28:54-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Espírito diz expressamente que, nos tempos vindouros, alguns hão de apostatar da fé, dando ouvidos a espíritos embusteiros e a doutrinas diabólicas,"
+    },
+    {
+      "numero": 2,
+      "texto": "de hipócritas e impostores que, marcados na própria consciência com o ferrete da infâmia,"
+    },
+    {
+      "numero": 3,
+      "texto": "proíbem o casamento, assim como o uso de alimentos que Deus criou para que sejam tomados com ação de graças pelos fiéis e pelos que conhecem a verdade."
+    },
+    {
+      "numero": 4,
+      "texto": "Pois tudo o que Deus criou é bom e nada há de reprovável, quando se usa com ação de graças."
+    },
+    {
+      "numero": 5,
+      "texto": "Porque se torna santificado pela Palavra de Deus e pela oração."
+    },
+    {
+      "numero": 6,
+      "texto": "Recomenda esta doutrina aos irmãos, e serás bom ministro de Jesus Cristo, alimentado com as palavras da fé e da sã doutrina que até agora seguiste com exatidão."
+    },
+    {
+      "numero": 7,
+      "texto": "Quanto às fábulas profanas, esses contos extravagantes de comadres, rejeita-as."
+    },
+    {
+      "numero": 8,
+      "texto": "Exercita-te na piedade. Se o exercício corporal traz algum pequeno proveito, a piedade, esta sim, é útil para tudo, porque tem a promessa da vida presente e da futura."
+    },
+    {
+      "numero": 9,
+      "texto": "Eis uma verdade absolutamente certa e digna de fé:"
+    },
+    {
+      "numero": 10,
+      "texto": "se nos afadigamos e sofremos ultrajes, é porque pusemos a nossa esperança em Deus vivo, que é o Salvador de todos os homens, sobretudo dos fiéis."
+    },
+    {
+      "numero": 11,
+      "texto": "Seja este o objeto de tuas prescrições e dos teus ensinamentos."
+    },
+    {
+      "numero": 12,
+      "texto": "Ninguém te despreze por seres jovem. Ao contrário, torna-te modelo para os fiéis, no modo de falar e de viver, na caridade, na fé, na castidade."
+    },
+    {
+      "numero": 13,
+      "texto": "Enquanto eu não chegar, aplica-te à leitura, à exortação, ao ensino."
+    },
+    {
+      "numero": 14,
+      "texto": "Não negligencies o carisma que está em ti e que te foi dado por profecia, quando a assembleia dos anciãos te impôs as mãos.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Põe nisto toda a diligência e empenho, de tal modo que se torne manifesto a todos o teu aproveitamento."
+    },
+    {
+      "numero": 16,
+      "texto": "Olha por ti e pela instrução dos outros. E persevera nestas coisas. Se isto fizeres, tu te salvarás a ti mesmo e aos que te ouvirem."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "4:1-2",
+      "texto": "Paulo alerta sobre os falsos mestres que se desviarão da fé, seguindo doutrinas enganosas. Isso destaca a necessidade de vigilância e discernimento na doutrina cristã (veja também Mateus 7:15 e Tito 1:10-16)."
+    },
+    {
+      "ref": "4:6-8",
+      "texto": "Paulo exorta Timóteo a ser exemplo de piedade e fé, enfatizando a superioridade dos exercícios espirituais em relação aos físicos. A prática da piedade é vital para o cristão (veja também 1 Timóteo 6:6-8 e Filipenses 3:8)."
+    },
+    {
+      "ref": "4:11-13",
+      "texto": "Paulo instrui Timóteo a ensinar as doutrinas que ele mesmo aprendeu, a fim de edificar a Igreja. O ensino sólido da Palavra é essencial para a edificação do Corpo de Cristo (veja também Tito 2:7-8 e 2 Timóteo 2:15)."
+    },
+    {
+      "ref": "4:14-16",
+      "texto": "Paulo exorta Timóteo a não negligenciar os dons espirituais, mas a usá-los para o bem da Igreja. A dedicação ao ministério é chave para o crescimento espiritual e o avanço do Reino (veja também 2 Timóteo 1:6-7 e 1 Coríntios 12:4-11)."
+    },
+    {
+      "ref": "4:16",
+      "texto": "A exortação para Timóteo perseverar nas escrituras e nos ensinamentos reflete a importância da fidelidade à Palavra para a salvação de outros e de si mesmo (veja também 2 Timóteo 3:16-17 e Hebreus 4:12)."
+    }
+  ]
+}

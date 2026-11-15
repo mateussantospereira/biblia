@@ -1,0 +1,134 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sao-joao",
+  "nome": "São João",
+  "testamento": "NT",
+  "capitulo": 2,
+  "totalVersiculos": 25,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sao-joao/2/",
+  "capturadoEm": "2026-11-15T09:26:47-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Três dias depois, celebravam-se bodas em Caná da Galileia, e achava-se ali a mãe de Jesus."
+    },
+    {
+      "numero": 2,
+      "texto": "Também foram convidados Jesus e os seus discípulos."
+    },
+    {
+      "numero": 3,
+      "texto": "Como viesse a faltar vinho, a mãe de Jesus disse-lhe: “Eles já não têm vinho”."
+    },
+    {
+      "numero": 4,
+      "texto": "Respondeu-lhe Jesus: “Mulher, isso compete a nós? Minha hora ainda não chegou”.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Disse, então, sua mãe aos serventes: “Fazei o que ele vos disser”."
+    },
+    {
+      "numero": 6,
+      "texto": "Ora, achavam-se ali seis talhas de pedra para as purificações dos judeus, que continham cada qual duas ou três medidas.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "Jesus ordena-lhes: “Enchei as talhas de água”. Eles encheram-nas até em cima."
+    },
+    {
+      "numero": 8,
+      "texto": "“Tirai agora” – disse-lhes Jesus – “e levai ao chefe dos serventes”. E levaram."
+    },
+    {
+      "numero": 9,
+      "texto": "Logo que o chefe dos serventes provou da água tornada vinho, não sabendo de onde era (se bem que o soubessem os serventes, pois tinham tirado a água), chamou o noivo"
+    },
+    {
+      "numero": 10,
+      "texto": "e disse-lhe: “É costume servir primeiro o vinho bom e, depois, quando os convidados já estão quase embriagados, servir o menos bom. Mas tu guardaste o vinho melhor até agora”."
+    },
+    {
+      "numero": 11,
+      "texto": "Esse foi o primeiro milagre de Jesus; realizou-o em Caná da Galileia. Manifestou a sua glória, e os seus discípulos creram nele."
+    },
+    {
+      "numero": 12,
+      "texto": "Depois disso, desceu para Cafarnaum, com sua mãe, seus irmãos e seus discípulos; e ali só demoraram poucos dias."
+    },
+    {
+      "numero": 13,
+      "texto": "Estava próxima a Páscoa dos judeus, e Jesus subiu a Jerusalém."
+    },
+    {
+      "numero": 14,
+      "texto": "Encontrou no templo os negociantes de bois, ovelhas e pombas, e mesas dos trocadores de moedas.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Fez ele um chicote de cordas, expulsou todos do templo, como também as ovelhas e os bois, espalhou pelo chão o dinheiro dos trocadores e derrubou as mesas."
+    },
+    {
+      "numero": 16,
+      "texto": "Disse aos que vendiam as pombas: “Tirai isto daqui e não façais da casa de meu Pai uma casa de negociantes”."
+    },
+    {
+      "numero": 17,
+      "texto": "Lembraram-se então os seus discípulos do que está escrito: O zelo da tua casa me consome (Sl 68,10)."
+    },
+    {
+      "numero": 18,
+      "texto": "Perguntaram-lhe os judeus: “Que sinal nos apresentas tu, para procederes deste modo?”."
+    },
+    {
+      "numero": 19,
+      "texto": "Respondeu-lhes Jesus: “Destruí vós este templo, e eu o reerguerei em três dias”."
+    },
+    {
+      "numero": 20,
+      "texto": "Os judeus replicaram: “Em quarenta e seis anos foi edificado este templo, e tu hás de levantá-lo em três dias?!”."
+    },
+    {
+      "numero": 21,
+      "texto": "Mas ele falava do templo do seu corpo."
+    },
+    {
+      "numero": 22,
+      "texto": "Depois que ressurgiu dos mortos, os seus discípulos lembraram-se destas palavras e creram na Escritura e na Palavra de Jesus."
+    },
+    {
+      "numero": 23,
+      "texto": "Enquanto Jesus celebrava em Jerusalém a festa da Páscoa, muitos creram no seu nome, à vista dos milagres que fazia."
+    },
+    {
+      "numero": 24,
+      "texto": "Mas Jesus mesmo não se fiava neles, porque os conhecia a todos."
+    },
+    {
+      "numero": 25,
+      "texto": "Ele não necessitava que alguém lhe desse testemunho do homem, pois ele bem sabia o que havia no homem."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "2:1-11",
+      "texto": "Jesus realiza Seu primeiro milagre nas bodas de Caná, transformando água em vinho. Este milagre revela Sua glória e sinaliza o início de Sua missão pública. Ele também mostra o cuidado de Cristo com as necessidades humanas e a abundância de Sua graça (veja também Mateus 9:17 e Lucas 5:37-39)."
+    },
+    {
+      "ref": "2:13-17",
+      "texto": "Jesus purifica o Templo, expulsando os mercadores e dizendo que a casa de Seu Pai deve ser um lugar de oração. Este ato revela a indignação de Jesus contra a profanação da adoração e Sua autoridade sobre o Templo e as práticas religiosas (veja também Mateus 21:12-13 e Marcos 11:15-17)."
+    },
+    {
+      "ref": "2:18-22",
+      "texto": "Jesus fala sobre a destruição e reconstrução do Templo, referindo-se ao Seu corpo como o Templo. Isso antecipa Sua morte e ressurreição, mostrando que Ele é o novo Templo de Deus e o ponto de encontro entre Deus e a humanidade (veja também Mateus 27:40-42 e 1 Coríntios 6:19)."
+    },
+    {
+      "ref": "2:23-25",
+      "texto": "Jesus conhece o coração dos homens e não precisa de ninguém que Lhe dê testemunho sobre os outros. Este trecho destaca a onisciência de Cristo e Sua autoridade divina sobre as intenções humanas (veja também João 4:25-26 e Hebreus 4:13)."
+    }
+  ]
+}

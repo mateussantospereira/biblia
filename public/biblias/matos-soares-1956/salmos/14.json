@@ -1,0 +1,55 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 14,
+  "totalVersiculos": 5,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/14/",
+  "capturadoEm": "2026-11-15T09:52:21-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Salmo. De Davide. Senhor, quem terá a sua morada no teu tabernáculo? quem habitará no teu santo monte?"
+    },
+    {
+      "numero": 2,
+      "texto": "O que anda sem mancha e pratica a justiça"
+    },
+    {
+      "numero": 3,
+      "texto": "e pensa o que é recto no seu coração, e não calunia com a sua língua; o que ao seu próximo não faz mal. nem dirige opróbrio ao seu vizinho;"
+    },
+    {
+      "numero": 4,
+      "texto": "o que tem o malvado por desprezível, e honra os que temem o Senhor;"
+    },
+    {
+      "numero": 5,
+      "texto": "o que, embora tenha um juramento com dano próprio, não o muda, o que não empresta o seu dinheiro com usura, nem aceita dádivas (para proceder) contra o inocente. Quem faz estas coisas não será jamais comovido."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "14:1",
+      "texto": "O salmo começa com uma afirmação sobre a loucura do ímpio que diz que não há Deus. Essa negação é vista como uma rebelião contra a verdade, e o salmista alerta sobre as consequências da falta de fé (veja também Salmo 53:1 e Romanos 1:18-21)."
+    },
+    {
+      "ref": "14:2-3",
+      "texto": "Deus observa a humanidade e encontra que não há um justo. Esta observação ressalta a condição pecaminosa da humanidade, enfatizando a necessidade de redenção e a importância da graça divina (veja também Romanos 3:10-12 e Gênesis 6:5)."
+    },
+    {
+      "ref": "14:4",
+      "texto": "A questão retórica sobre a falta de temor a Deus entre os ímpios destaca a gravidade da depravação moral. Isso aponta para a necessidade de um coração que reverencia a Deus e busca Sua sabedoria (veja também Provérbios 1:7 e Salmo 36:1)."
+    },
+    {
+      "ref": "14:5-6",
+      "texto": "Os justos são encorajados a confiar em Deus, que é seu refúgio. Esta confiança revela o caráter protetor e justo de Deus em meio às opressões do ímpio (veja também Salmo 46:1 e Salmo 37:39-40)."
+    },
+    {
+      "ref": "14:7",
+      "texto": "A esperança de salvação em Sião é um clamor pela restauração e pela intervenção divina. Essa expectativa é uma reafirmação da fé na ação de Deus em favor de Seu povo (veja também Salmo 53:6 e Isaías 62:11)."
+    }
+  ]
+}

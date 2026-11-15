@@ -1,0 +1,87 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 56,
+  "totalVersiculos": 12,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/56/",
+  "capturadoEm": "2026-11-15T09:22:10-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eis o que diz o Senhor: “Respeitai o direito e praticai a justiça, porque minha salvação não tarda a chegar e minha justiça a revelar-se”.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Feliz do homem que assim se comporta, e o filho do homem que se atém a isso, que observa o sábado sem profaná-lo, e abstém-se de toda má ação."
+    },
+    {
+      "numero": 3,
+      "texto": "Que o estrangeiro que deseja afeiçoar-se ao Senhor não diga: “Certamente o Senhor vai excluir-me de seu povo”. Que o eunuco não diga: “Oh! Sou apenas um lenho seco”.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Porque eis o que diz o Senhor: “Aos eunucos que observarem meus sábados, que escolherem o que me é agradável, e se afeiçoarem à minha aliança,"
+    },
+    {
+      "numero": 5,
+      "texto": "eu darei na minha casa e dentro de minhas muralhas um monumento e um nome de mais valor que filhos e filhas; eu lhes darei um nome que jamais perecerá."
+    },
+    {
+      "numero": 6,
+      "texto": "Quanto aos estrangeiros que desejam unir-se ao Senhor, para servi-lo e amar seu nome, para serem seus servos, se observarem o sábado sem profaná-lo, e se se afeiçoarem à minha aliança,"
+    },
+    {
+      "numero": 7,
+      "texto": "eu os conduzirei ao meu monte santo e os cumularei de alegria na minha casa de oração; seus holocaustos e sacrifícios serão aceitos sobre meu altar, pois minha casa se chamará casa de oração para todos os povos.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Oráculo do Senhor Deus que reúne os exilados de Israel: “Eu lhes agregarei ainda outros junto aos seus já reunidos”."
+    },
+    {
+      "numero": 9,
+      "texto": "Animais dos campos, vinde todos apascentar-vos, como também os animais da floresta.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Meus guardas estão todos cegos e não veem nada; são cães mudos incapazes de latir, sonham estirados, gostam de cochilar;"
+    },
+    {
+      "numero": 11,
+      "texto": "são cães vorazes e insaciáveis são pastores que nada observam, cada qual segue seu caminho em busca de seu interesse."
+    },
+    {
+      "numero": 12,
+      "texto": "“Vinde, vou buscar o vinho; com licores nos embriagaremos; amanhã, como hoje, haverá uma enorme bebedeira.”"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "56:1-2",
+      "texto": "Deus chama Seu povo a praticar a justiça e guardar o sábado, preparando-se para Sua salvação. Essa exortação enfatiza a importância da fidelidade e da santidade (veja também Êxodo 20:8-11 e Mateus 5:16)."
+    },
+    {
+      "ref": "56:3-5",
+      "texto": "Deus promete incluir os estrangeiros e eunucos no Seu povo, dando-lhes um lugar especial em Sua casa. Isso reflete a universalidade da aliança em Cristo (veja também Efésios 2:19-22 e Atos 10:34-35)."
+    },
+    {
+      "ref": "56:6-7",
+      "texto": "Todos que guardarem a aliança, estrangeiros ou israelitas, serão bem-vindos na casa de oração de Deus. Isso prenuncia a inclusão de todas as nações no reino de Deus (veja também Mateus 21:13 e Apocalipse 7:9-10)."
+    },
+    {
+      "ref": "56:8",
+      "texto": "Deus reunirá ainda outros ao Seu povo, expandindo o alcance da salvação. Essa promessa enfatiza a missão global de Deus para alcançar os perdidos (veja também João 10:16 e Isaías 49:6)."
+    },
+    {
+      "ref": "56:9-12",
+      "texto": "Deus condena os líderes negligentes de Israel, chamando-os de pastores irresponsáveis. Isso ressalta a importância de uma liderança espiritual fiel e vigilante (veja também Jeremias 23:1-4 e Ezequiel 34:2-6)."
+    }
+  ]
+}

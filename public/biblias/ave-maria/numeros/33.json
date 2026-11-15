@@ -1,0 +1,260 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "numeros",
+  "nome": "Números",
+  "testamento": "AT",
+  "capitulo": 33,
+  "totalVersiculos": 56,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/numeros/33/",
+  "capturadoEm": "2026-11-15T09:09:42-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eis as etapas que fizeram os israelitas desde a sua partida do Egito em tropas organizadas sob as ordens de Moisés e Aarão."
+    },
+    {
+      "numero": 2,
+      "texto": "Moisés, por ordem do Senhor, tomou nota de suas marchas por etapas. São as seguintes essas marchas em etapas:"
+    },
+    {
+      "numero": 3,
+      "texto": "No décimo quinto dia do primeiro mês partiram de Ramsés. Isso foi no dia seguinte à Páscoa; partiram com a mão levantada, à vista de todos os egípcios"
+    },
+    {
+      "numero": 4,
+      "texto": "que estavam enterrando aqueles que o Senhor tinha ferido dentre eles, todos os seus primogênitos. Também contra os seus deuses o Senhor tinha exercido o seu juízo."
+    },
+    {
+      "numero": 5,
+      "texto": "Partidos de Ramsés, os israelitas se detiveram em Sucot,"
+    },
+    {
+      "numero": 6,
+      "texto": "de onde partiram, indo acampar em Etam, situado na extremidade do deserto."
+    },
+    {
+      "numero": 7,
+      "texto": "Dali, voltaram a Piairot, defronte de Baal Sefon, e acamparam diante de Magdol."
+    },
+    {
+      "numero": 8,
+      "texto": "Deixando Piairot, passaram pelo meio do mar para o deserto. Após três dias de marcha na solidão de Etam, detiveram-se em Mara."
+    },
+    {
+      "numero": 9,
+      "texto": "Partindo de Mara, ganharam Elim, onde havia doze fontes e setenta palmeiras; e acamparam ali."
+    },
+    {
+      "numero": 10,
+      "texto": "Saindo de Elim, foram acampar junto do mar Vermelho,"
+    },
+    {
+      "numero": 11,
+      "texto": "de onde partiram e acamparam no deserto de Sin."
+    },
+    {
+      "numero": 12,
+      "texto": "Tendo partido do deserto de Sin, acamparam em Dafca,"
+    },
+    {
+      "numero": 13,
+      "texto": "de onde foram para Alus."
+    },
+    {
+      "numero": 14,
+      "texto": "Dali, partiram e acamparam em Rafidim, onde o povo não encontrou água para beber."
+    },
+    {
+      "numero": 15,
+      "texto": "Partidos de Rafidim, acamparam no deserto do Sinai."
+    },
+    {
+      "numero": 16,
+      "texto": "Saindo do deserto do Sinai, foram acampar em Kibrot-Hataava,"
+    },
+    {
+      "numero": 17,
+      "texto": "de onde foram acampar em Haserot."
+    },
+    {
+      "numero": 18,
+      "texto": "De lá, acamparam em Retma."
+    },
+    {
+      "numero": 19,
+      "texto": "De Retma foram a Remon-Farés."
+    },
+    {
+      "numero": 20,
+      "texto": "De Remon-Farés a Lebna."
+    },
+    {
+      "numero": 21,
+      "texto": "De Lebna a Ressa."
+    },
+    {
+      "numero": 22,
+      "texto": "De Ressa a Ceelata."
+    },
+    {
+      "numero": 23,
+      "texto": "Deixaram Ceelata e acamparam no monte Sefer."
+    },
+    {
+      "numero": 24,
+      "texto": "Dali foram acampar em Arada."
+    },
+    {
+      "numero": 25,
+      "texto": "De lá a Macelot."
+    },
+    {
+      "numero": 26,
+      "texto": "Dali a Taat."
+    },
+    {
+      "numero": 27,
+      "texto": "De Taat a Taré."
+    },
+    {
+      "numero": 28,
+      "texto": "De Taré a Metca."
+    },
+    {
+      "numero": 29,
+      "texto": "De Metca a Hesmona."
+    },
+    {
+      "numero": 30,
+      "texto": "De Hesmona foram acampar em Moserot.",
+      "nota": true
+    },
+    {
+      "numero": 31,
+      "texto": "De Moserot a Benê-Jacã."
+    },
+    {
+      "numero": 32,
+      "texto": "Dali a Hor-Guidgad."
+    },
+    {
+      "numero": 33,
+      "texto": "Dali a Jotebata."
+    },
+    {
+      "numero": 34,
+      "texto": "Dali a Abrona."
+    },
+    {
+      "numero": 35,
+      "texto": "De lá a Asiongaber."
+    },
+    {
+      "numero": 36,
+      "texto": "De Asiongaber foram acampar no deserto de Sin, isto é, em Cades."
+    },
+    {
+      "numero": 37,
+      "texto": "Deixando Cades, acamparam no monte Hor, na extremidade da terra de Edom."
+    },
+    {
+      "numero": 38,
+      "texto": "O sacerdote Aarão subiu por ordem do Senhor ao monte Hor e ali morreu, no quadragésimo ano do êxodo dos israelitas do Egito, no primeiro dia do quinto mês."
+    },
+    {
+      "numero": 39,
+      "texto": "Aarão tinha cento e vinte e três anos quando expirou no monte Hor."
+    },
+    {
+      "numero": 40,
+      "texto": "Foi então que o rei cananeu de Arad, que habitava no Negueb, na terra de Canaã, soube da chegada dos israelitas."
+    },
+    {
+      "numero": 41,
+      "texto": "Deixando o monte Hor acamparam em Salmona."
+    },
+    {
+      "numero": 42,
+      "texto": "De Salmona foram acampar em Funon."
+    },
+    {
+      "numero": 43,
+      "texto": "De Funon foram a Obot."
+    },
+    {
+      "numero": 44,
+      "texto": "De Obot, detiveram-se em Ijé-Abarim, na fronteira de Moab."
+    },
+    {
+      "numero": 45,
+      "texto": "Dali foram acampar em Dibon-Gad."
+    },
+    {
+      "numero": 46,
+      "texto": "Dali a Almon-Diblataim."
+    },
+    {
+      "numero": 47,
+      "texto": "Dali aos montes Abarim, em frente ao Nebo."
+    },
+    {
+      "numero": 48,
+      "texto": "Partiram dos montes Abarim e foram acampar nas planícies de Moab, junto do Jordão, defronte de Jericó."
+    },
+    {
+      "numero": 49,
+      "texto": "Seu acampamento nas planícies de Moab, perto do Jordão, ia desde Bet-Jesimot até Abel-Setim."
+    },
+    {
+      "numero": 50,
+      "texto": "O Senhor disse a Moisés, nas planícies de Moab, junto do Jordão, defronte de Jericó:"
+    },
+    {
+      "numero": 51,
+      "texto": "“Dize aos israelitas: Quando tiverdes passado o Jordão e entrado na terra de Canaã,"
+    },
+    {
+      "numero": 52,
+      "texto": "expulsareis de diante de vós todos os habitantes da terra, destruireis todas as suas pedras esculpidas, todas as suas estátuas fundidas e devastareis todos os seus lugares altos."
+    },
+    {
+      "numero": 53,
+      "texto": "Tomareis posse da terra e habitai-a, porque vo-la dou."
+    },
+    {
+      "numero": 54,
+      "texto": "Distribuí entre vossas famílias por sorte: aos que forem mais numerosos, uma porção maior, e uma menor, aos que forem menos. Cada um possuirá o que lhe couber por sorte. Fareis essa repartição segundo vossas tribos patriarcais."
+    },
+    {
+      "numero": 55,
+      "texto": "Se vós, porém, não expulsardes de diante de vós os habitantes da terra, os que ficarem serão para vós como espinhos nos olhos e aguilhões nos flancos, e vos perseguirão na terra onde habitardes."
+    },
+    {
+      "numero": 56,
+      "texto": "E tudo o que eu tinha pensado fazer a eles, o farei a vós”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "33:1-4",
+      "texto": "Moisés registra todas as jornadas de Israel desde a saída do Egito, mostrando a fidelidade de Deus em guiá-los através do deserto. Esse relato reforça o tema da providência divina e o cuidado de Deus ao longo da jornada (veja também Êxodo 13:17-22 e Deuteronômio 8:2-4)."
+    },
+    {
+      "ref": "33:5-15",
+      "texto": "As paradas de Israel são listadas detalhadamente, desde Ramessés até o Monte Sinai, onde Deus deu a Lei. Isso demonstra como cada etapa da jornada de Israel foi significativa no plano de redenção de Deus (veja também Êxodo 19:1-2 e Números 9:15-23)."
+    },
+    {
+      "ref": "33:16-37",
+      "texto": "A continuação das paradas de Israel, incluindo lugares de dificuldades, como Cades, destaca como Deus conduziu Seu povo em meio a provações. Essas jornadas reforçam a necessidade de confiança em Deus mesmo em momentos de desafio (veja também Números 20:1 e Salmo 23:4)."
+    },
+    {
+      "ref": "33:38-39",
+      "texto": "A morte de Aarão é mencionada, lembrando Israel da transitoriedade da vida e da continuidade do plano de Deus mesmo diante da perda de líderes. A história de Aarão serve como um lembrete de que Deus levanta novos líderes para cumprir Seus propósitos (veja também Deuteronômio 34:5-9 e Hebreus 7:23-25)."
+    },
+    {
+      "ref": "33:50-56",
+      "texto": "Deus instrui Israel a expulsar os habitantes de Canaã e destruir seus ídolos ao entrar na terra prometida. Isso sublinha a importância da pureza espiritual e do afastamento da idolatria para garantir a bênção de Deus (veja também Deuteronômio 7:1-5 e Josué 23:12-13)."
+    }
+  ]
+}

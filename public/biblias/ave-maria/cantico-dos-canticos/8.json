@@ -1,0 +1,99 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "cantico-dos-canticos",
+  "nome": "Cântico dos Cânticos",
+  "testamento": "AT",
+  "capitulo": 8,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/cantico-dos-canticos/8/",
+  "capturadoEm": "2026-11-15T09:20:01-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ah, se fosses meu irmão, amamentado ao seio de minha mãe! Então, encontrando-te fora, poderia beijar-te sem que ninguém me censurasse.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Eu te levaria, te faria entrar na casa de minha mãe; te daria a beber vinho perfumado, licor de minhas romãs."
+    },
+    {
+      "numero": 3,
+      "texto": "Sua mão esquerda está sob a minha cabeça, e sua direita abraça-me."
+    },
+    {
+      "numero": 4,
+      "texto": "– Conjuro-vos, ó filhas de Jerusalém, não desperteis nem perturbeis o amor, antes que ele o queira.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "– Quem é esta que sobe do deserto apoiada em seu bem-amado? – Sob a macieira eu te despertei, onde em dores te deu à luz tua mãe, onde em dores te pôs no mundo tua mãe.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "– Põe-me como um selo sobre o teu coração, como um selo sobre os teus braços; porque o amor é forte como a morte, a paixão é violenta como o Sheol.* Suas centelhas são centelhas de fogo, uma chama divina."
+    },
+    {
+      "numero": 7,
+      "texto": "As torrentes não poderiam extinguir o amor, nem os rios o poderiam submergir. Se alguém desse toda a riqueza de sua casa em troca do amor, só obteria desprezo.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Temos uma irmã pequenina que não tem ainda os seus seios formados. Que faremos nós de nossa irmã no dia em que for pedida em casamento?",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Se ela é um muro, construiremos sobre ela ameias de prata. Se é uma porta, a fecharemos com batentes de cedro.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "– Ora, eu sou um muro, e meus seios são como torres; por isso, sou aos seus olhos uma fonte de alegria."
+    },
+    {
+      "numero": 11,
+      "texto": "Salomão tinha uma videira em Baal-Hamon. Confiou-a aos guardas: cada um dos quais devia dar mil siclos de prata pelos frutos colhidos."
+    },
+    {
+      "numero": 12,
+      "texto": "Eu disponho de minha videira: mil siclos para ti, Salomão! Duzentos para aqueles que velam pela colheita.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "– Os amigos estão atentos. Ó tu, que habitas nos jardins, faze-me ouvir a tua voz.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "– Foge, meu bem-amado, como a gazela, ou como o cervozinho sobre os montes perfumados!"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "8:1-2",
+      "texto": "A noiva expressa seu desejo de estar próxima do noivo, refletindo o amor intenso e a intimidade no relacionamento. Essa conexão é um reflexo do amor entre Deus e Seu povo (veja também Salmo 63:1-3 e Tiago 4:8)."
+    },
+    {
+      "ref": "8:3-4",
+      "texto": "A noiva deseja proteger e fortalecer o amor, destacando a importância da pureza e da fidelidade. A advertência para não despertar o amor até que seja desejado enfatiza o valor da paciência no amor (veja também 1 Coríntios 13:4-7 e Hebreus 13:4)."
+    },
+    {
+      "ref": "8:5-7",
+      "texto": "A noiva e o noivo falam sobre os desafios do amor e a força que ele traz. O amor é descrito como poderoso e invencível, reforçando a ideia de que o verdadeiro amor supera obstáculos (veja também Romanos 8:38-39 e 1 Pedro 4:8)."
+    },
+    {
+      "ref": "8:8-9",
+      "texto": "A preocupação da noiva com sua família e sua posição destaca a importância do amor em contexto familiar. A imagem de um amor protetor é central nesta passagem (veja também Efésios 6:4 e 1 Timóteo 5:8)."
+    },
+    {
+      "ref": "8:10-14",
+      "texto": "O desejo da noiva de ser reconhecida como pertencente ao noivo é uma expressão do compromisso e da segurança no amor. A conclusão do cântico reflete o convite à continuidade da relação amorosa (veja também Cânticos 4:16 e Apocalipse 22:17)."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "baruc",
+  "nome": "Baruc",
+  "testamento": "AT",
+  "capitulo": 5,
+  "totalVersiculos": 9,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/baruc/5/",
+  "capturadoEm": "2026-11-15T09:23:23-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Tira, Jerusalém, a veste de luto e de miséria; reveste, para sempre, os adornos da glória divina."
+    },
+    {
+      "numero": 2,
+      "texto": "Cobre-te com o manto da justiça que vem de Deus, e coloca sobre a cabeça o diadema da glória do Eterno."
+    },
+    {
+      "numero": 3,
+      "texto": "Deus vai mostrar à terra, e sob todos os céus, teu esplendor."
+    },
+    {
+      "numero": 4,
+      "texto": "Eis o nome que te é dado por Deus, para todo o sempre: Paz da Justiça e Esplendor do temor de Deus!"
+    },
+    {
+      "numero": 5,
+      "texto": "Ergue-te, Jerusalém, galga os cumes e olha para o Oriente! Olha: ao chamado do Altíssimo, reúnem-se teus filhos, desde o poente ao levante, felizes por se haver Deus lembrado deles."
+    },
+    {
+      "numero": 6,
+      "texto": "Quando de ti partiram, caminhavam a pé, arrastados pelos inimigos. Deus, porém, te devolve, conduzidos com honras, quais príncipes reais,",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "porque Deus dispôs que sejam abaixados os montes e as colinas, e enchidos os vales para que se una o solo, para que Israel caminhe com segurança sob a glória divina.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "As florestas e as árvores de suave fragrância darão sombra a Israel, por ordem do Senhor."
+    },
+    {
+      "numero": 9,
+      "texto": "Em verdade, é o próprio Deus quem conduz Israel, pleno de júbilo no esplendor de sua majestade, pela sua justiça, pela sua misericórdia!"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "5:1-4",
+      "texto": "A promessa de restauração e a nova glória de Jerusalém são destacadas. Baruc descreve a cidade como sendo revestida com a luz da justiça e da misericórdia de Deus, e aqueles que estavam dispersos seriam reunidos. A redenção de Jerusalém é uma metáfora da restauração de todas as coisas em Cristo (veja também Isaías 60:1-3 e Apocalipse 21:2-4)."
+    },
+    {
+      "ref": "5:5-9",
+      "texto": "A visão de uma Jerusalém gloriosa também é acompanhada de um chamado à esperança. O retorno do povo de Israel é descrito como uma marcha triunfante, com o Senhor guiando Seu povo, trazendo consolo e confiança para aqueles que sofrem (veja também Isaías 40:3-5 e Lucas 13:34-35)."
+    },
+    {
+      "ref": "5:10-13",
+      "texto": "A passagem sublinha que a glória de Jerusalém será maior do que a antiga, e que Deus eliminará todas as coisas que atrapalham o Seu povo. Isso simboliza a purificação e a santificação que acompanham a obra de Deus na vida do Seu povo (veja também Malaquias 3:2-3 e 1 Coríntios 3:16-17)."
+    },
+    {
+      "ref": "5:14-16",
+      "texto": "A profecia continua com a descrição de um novo tempo de justiça, onde a paz e a prosperidade serão restauradas a Israel. Esse tempo de plenitude é um reflexo do Reino de Deus que se cumprirá plenamente no Novo Testamento (veja também Isaías 2:2-4 e Atos 3:19-21)."
+    },
+    {
+      "ref": "5:17-19",
+      "texto": "O capítulo termina com uma referência à destruição dos ídolos e à vitória sobre os inimigos de Israel, mostrando que Deus é o único verdadeiro Senhor, e que todos devem voltar-se para Ele. Isso reforça o tema da fidelidade exclusiva a Deus e a rejeição de tudo que se coloca como falso deus (veja também Deuteronômio 6:4-5 e 1 Coríntios 8:5-6)."
+    }
+  ]
+}

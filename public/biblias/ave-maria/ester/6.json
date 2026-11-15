@@ -1,0 +1,93 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ester",
+  "nome": "Ester",
+  "testamento": "AT",
+  "capitulo": 6,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ester/6/",
+  "capturadoEm": "2026-11-15T09:15:07-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Naquela noite, o rei não conseguiu dormir. Mandou que lhe trouxessem o livro dos Anais, as Crônicas, que lhe foram lidas."
+    },
+    {
+      "numero": 2,
+      "texto": "Achava-se aí consignada a narração da denúncia que tinha feito Mardoqueu (da conjuração) de Gabata e Tares, os dois eunucos do rei que tinham querido levantar sua mão contra o rei."
+    },
+    {
+      "numero": 3,
+      "texto": "“Que honras – disse então o rei – e que distinções recebeu Mardoqueu por isso?” “Nenhuma” – responderam os servos do rei."
+    },
+    {
+      "numero": 4,
+      "texto": "E o rei perguntou: “Quem está no pátio?”. Ora, nesse mesmo instante, entrava Amã no pátio exterior do palácio para pedir ao rei que mandasse suspender Mardoqueu na forca que tinha feito levantar."
+    },
+    {
+      "numero": 5,
+      "texto": "Os servos do rei responderam: “É Amã que está no pátio”. “Que entre!” – retornou o rei."
+    },
+    {
+      "numero": 6,
+      "texto": "Entrou, pois, Amã e o rei lhe disse: “Que se deveria fazer para um homem que o rei quer honrar?”. “A quem, senão a mim, quererá o rei honrar?” – pensou Amã."
+    },
+    {
+      "numero": 7,
+      "texto": "Por isso, respondeu ao rei: “Para um homem a quem o rei deseja honrar"
+    },
+    {
+      "numero": 8,
+      "texto": "convém que lhe tragam as vestes com que se adorna o rei, o cavalo que o rei monta e sobre sua cabeça se coloque a coroa real."
+    },
+    {
+      "numero": 9,
+      "texto": "As vestes e o cavalo se darão a um dos senhores da corte e este revestirá o homem a quem o rei quer honrar e o passeará a cavalo pela praça da cidade, dizendo em altas vozes diante dele: É assim que é tratado o homem a quem o rei quer honrar”.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "O rei replicou: “Toma, pois, depressa as vestes e o cavalo, como disseste e faze tudo isso para Mardoqueu, o judeu que está assentado em minha antecâmara. E que nada se omita de tudo o que disseste”."
+    },
+    {
+      "numero": 11,
+      "texto": "Amã tomou as vestes e o cavalo, revestiu Mardoqueu e o conduziu a cavalo pela praça da cidade, clamando diante dele: “É assim que é tratado o homem a quem o rei quer honrar”."
+    },
+    {
+      "numero": 12,
+      "texto": "Depois Mardoqueu voltou à porta do palácio enquanto Amã se retirava precipitadamente para casa, consternado e de cabeça coberta,",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "para contar a Zares, sua mulher, e a todos os seus amigos o que lhe tinha acontecido. Seus conselheiros e sua mulher, Zares, lhe responderam: “Se Mardoqueu, diante do qual começou tua queda, pertence ao povo judeu, não o vencerás, mas sucumbirás diante dele”."
+    },
+    {
+      "numero": 14,
+      "texto": "Eles falavam ainda, quando sobrevieram os eunucos do rei para levá-lo imediatamente ao banquete que Ester tinha preparado."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "6:1-2",
+      "texto": "O rei não consegue dormir e pede que os registros sejam lidos. Isso demonstra a soberania de Deus, que usa até mesmo as insônias para promover a justiça e lembrar o bem feito por Mordecai (veja também Salmo 121:3-4 e Provérbios 21:1)."
+    },
+    {
+      "ref": "6:3-4",
+      "texto": "O rei descobre que Mordecai não foi recompensado por salvar sua vida. Essa revelação destaca a importância de reconhecer e recompensar as boas ações, mostrando que Deus não esquece o que fazemos em Seu nome (veja também Hebreus 6:10 e Mateus 10:42)."
+    },
+    {
+      "ref": "6:5-11",
+      "texto": "Hamã é usado como instrumento involuntário para honrar Mordecai, revelando a ironia divina. Essa reviravolta nos eventos mostra como Deus pode reverter as situações a favor dos Seus servos (veja também Salmo 37:1-2 e Gálatas 6:7)."
+    },
+    {
+      "ref": "6:12-14",
+      "texto": "Mordecai retorna ao palácio e Hamã é humilhado. Essa humilhação é um lembrete de que o orgulho leva à queda, enquanto a humildade é recompensada. A soberania de Deus prevalece sobre a arrogância humana (veja também Provérbios 16:18 e Lucas 14:11)."
+    },
+    {
+      "ref": "6:14",
+      "texto": "Hamã recebe o aviso sobre a iminente calamidade que o aguarda. Isso ressalta a ideia de que as tramas malignas contra o povo de Deus não prosperarão e que a justiça divina sempre prevalece (veja também Salmo 37:12-15 e Romanos 12:19)."
+    }
+  ]
+}

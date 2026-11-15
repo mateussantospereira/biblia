@@ -1,0 +1,81 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 28,
+  "totalVersiculos": 11,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/28/",
+  "capturadoEm": "2026-11-15T09:16:30-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Salmo de Davi. Tributai ao Senhor, ó filhos de Deus, tributai ao Senhor glória e poder!",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Rendei-lhe a glória devida ao seu nome; adorai o Senhor com ornamentos sagrados."
+    },
+    {
+      "numero": 3,
+      "texto": "Ouve-se a voz do Senhor sobre as águas! O Deus de grandeza retumbou: o Senhor trovejou sobre as águas imensas!"
+    },
+    {
+      "numero": 4,
+      "texto": "A voz do Senhor faz-se ouvir com poder! A voz do Senhor faz-se ouvir com majestade!"
+    },
+    {
+      "numero": 5,
+      "texto": "Fendem-se os cedros à voz do Senhor, quebra o Senhor os cedros do Líbano."
+    },
+    {
+      "numero": 6,
+      "texto": "Faz saltar o Líbano como um novilho, e o Sarion como um búfalo novo.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "A voz do Senhor despede relâmpagos,"
+    },
+    {
+      "numero": 8,
+      "texto": "a voz do Senhor abala o deserto. O Senhor faz tremer o deserto de Cades."
+    },
+    {
+      "numero": 9,
+      "texto": "A voz do Senhor retorce os carvalhos, desnuda as florestas. E em seu templo todos bradam: “glória”!."
+    },
+    {
+      "numero": 10,
+      "texto": "O Senhor preside ao dilúvio, o Senhor domina como rei para sempre."
+    },
+    {
+      "numero": 11,
+      "texto": "O Senhor há de dar fortaleza ao seu povo! O Senhor abençoará o seu povo, dando-lhe a paz!"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "28:1",
+      "texto": "O grito do salmista a Deus enfatiza a urgência da oração em momentos de desespero. A necessidade de ser ouvido por Deus é um reflexo da vulnerabilidade humana (veja também Salmo 130:1-2 e Hebreus 4:16)."
+    },
+    {
+      "ref": "28:2",
+      "texto": "A súplica do salmista para que Deus não o ignore mostra a intensidade da sua necessidade de ajuda. A comunicação sincera com Deus é vital para a relação de fé (veja também Salmo 34:6 e Tiago 5:16)."
+    },
+    {
+      "ref": "28:6-7",
+      "texto": "A ação de Deus em ouvir e responder é celebrada, destacando a importância da confiança em Suas promessas. Essa confiança é o fundamento da vida de oração (veja também Salmo 40:1-3 e Filipenses 4:19)."
+    },
+    {
+      "ref": "28:8-9",
+      "texto": "A declaração de que o Senhor é a força e a salvação do Seu povo enfatiza o papel de Deus como protetor e defensor. Essa confiança deve ser central na vida da comunidade de fé (veja também Salmo 46:1 e Romanos 15:13)."
+    },
+    {
+      "ref": "28:9",
+      "texto": "A petição pela proteção e direção do povo de Deus demonstra a responsabilidade do líder em buscar a sabedoria divina para guiar a comunidade (veja também Provérbios 3:5-6 e Tiago 1:5)."
+    }
+  ]
+}

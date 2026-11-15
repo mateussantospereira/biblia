@@ -1,0 +1,181 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "proverbios",
+  "nome": "Provérbios",
+  "testamento": "AT",
+  "capitulo": 3,
+  "totalVersiculos": 35,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/proverbios/3/",
+  "capturadoEm": "2026-11-15T09:19:12-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Meu filho, não te esqueças de meu ensinamento e guarda meus preceitos em teu coração"
+    },
+    {
+      "numero": 2,
+      "texto": "porque, com longos dias e anos de vida, eles te assegurarão a felicidade."
+    },
+    {
+      "numero": 3,
+      "texto": "Oxalá a bondade e a fidelidade não se afastem de ti! Ata-as ao teu pescoço, grava-as em teu coração!"
+    },
+    {
+      "numero": 4,
+      "texto": "Assim obterás graça e reputação aos olhos de Deus e dos homens."
+    },
+    {
+      "numero": 5,
+      "texto": "Que teu coração deposite toda a sua confiança no Senhor! Não te firmes em tua própria sabedoria!"
+    },
+    {
+      "numero": 6,
+      "texto": "Sejam quais forem os teus caminhos, pensa nele, e ele aplainará tuas sendas."
+    },
+    {
+      "numero": 7,
+      "texto": "Não sejas sábio aos teus próprios olhos, teme ao Senhor e afasta-te do mal.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Isto será saúde para teu corpo e refrigério para teus ossos."
+    },
+    {
+      "numero": 9,
+      "texto": "Honra ao Senhor com teus haveres, e com as primícias de todas as tuas colheitas."
+    },
+    {
+      "numero": 10,
+      "texto": "Então, teus celeiros se abarrotarão de trigo e teus lagares transbordarão de vinho."
+    },
+    {
+      "numero": 11,
+      "texto": "Meu filho, não desprezes a correção do Senhor, nem te espantes de que ele te repreenda,"
+    },
+    {
+      "numero": 12,
+      "texto": "porque o Senhor castiga aquele a quem ama, e pune o filho a quem muito estima.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Feliz do homem que encontrou a sabedoria, daquele que adquiriu a inteligência,"
+    },
+    {
+      "numero": 14,
+      "texto": "porque mais vale este lucro que o da prata, e o fruto que se obtém é melhor que o fino ouro."
+    },
+    {
+      "numero": 15,
+      "texto": "Ela é mais preciosa que as pérolas, joia alguma a pode igualar."
+    },
+    {
+      "numero": 16,
+      "texto": "Na mão direita ela sustenta uma longa vida; na esquerda, riqueza e glória."
+    },
+    {
+      "numero": 17,
+      "texto": "Seus caminhos estão semeados de delícias. Suas veredas são pacíficas."
+    },
+    {
+      "numero": 18,
+      "texto": "É uma árvore de vida para aqueles que lançarem mãos dela. Quem a ela se apega é um homem feliz.",
+      "nota": true
+    },
+    {
+      "numero": 19,
+      "texto": "Foi pela sabedoria que o Senhor criou a terra, foi com inteligência que ele formou os céus."
+    },
+    {
+      "numero": 20,
+      "texto": "Foi pela ciência que se fenderam os abismos, por ela as nuvens destilam o orvalho.",
+      "nota": true
+    },
+    {
+      "numero": 21,
+      "texto": "Meu filho, guarda a sabedoria e a reflexão, não as percas de vista.",
+      "nota": true
+    },
+    {
+      "numero": 22,
+      "texto": "Elas serão a vida de tua alma e um adorno para teu pescoço."
+    },
+    {
+      "numero": 23,
+      "texto": "Então caminharás com segurança, sem que o teu pé tropece."
+    },
+    {
+      "numero": 24,
+      "texto": "Se te deitares, não terás medo. Uma vez deitado, teu sono será doce."
+    },
+    {
+      "numero": 25,
+      "texto": "Não terás a recear nem terrores repentinos, nem a tempestade que cai sobre os ímpios,"
+    },
+    {
+      "numero": 26,
+      "texto": "porque o Senhor é tua segurança e preservará teu pé de toda cilada."
+    },
+    {
+      "numero": 27,
+      "texto": "Não negues um benefício a quem o solicita, quando está em teu poder conceder-lho."
+    },
+    {
+      "numero": 28,
+      "texto": "Não digas ao teu próximo: “Vai, volta depois! Eu te darei amanhã”, quando dispões de meios."
+    },
+    {
+      "numero": 29,
+      "texto": "Não maquines o mal contra teu vizinho, quando ele habita com toda a confiança perto de ti."
+    },
+    {
+      "numero": 30,
+      "texto": "Não litigues com alguém sem ter motivo, se esse alguém não te fez mal algum."
+    },
+    {
+      "numero": 31,
+      "texto": "Não invejes o homem violento, nem adotes o seu procedimento,"
+    },
+    {
+      "numero": 32,
+      "texto": "porque o Senhor detesta o que procede mal, mas reserva sua intimidade para os homens retos."
+    },
+    {
+      "numero": 33,
+      "texto": "Sobre a casa do ímpio pesa a maldição divina, a bênção do Senhor repousa sobre a habitação do justo."
+    },
+    {
+      "numero": 34,
+      "texto": "Se ele escarnece dos zombadores, concede a graça aos humildes.",
+      "nota": true
+    },
+    {
+      "numero": 35,
+      "texto": "A glória será o prêmio do sábio, a ignomínia será a herança dos insensatos."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-4",
+      "texto": "A instrução de guardar os mandamentos de Deus traz longevidade e paz. A lealdade e a verdade devem ser os guias de nossa vida, garantindo favor diante de Deus e das pessoas (veja também Deuteronômio 5:32-33 e Lucas 2:52)."
+    },
+    {
+      "ref": "3:5-6",
+      "texto": "O famoso chamado a confiar no Senhor de todo o coração, sem depender do próprio entendimento. Deus promete guiar nossos caminhos quando O buscamos com fé e submissão (veja também Salmo 37:5 e Filipenses 4:6-7)."
+    },
+    {
+      "ref": "3:7-8",
+      "texto": "O temor do Senhor e o afastamento do mal trazem saúde ao corpo e renovação ao espírito. Isso mostra que a sabedoria espiritual tem impacto em nossa saúde física e emocional (veja também Salmo 34:14 e Tiago 4:7)."
+    },
+    {
+      "ref": "3:9-10",
+      "texto": "Honrar ao Senhor com os primeiros frutos de nossa renda é uma prática que traz bênçãos. O princípio do dízimo e da oferta é um ato de gratidão que Deus recompensa com abundância (veja também Malaquias 3:10 e Lucas 6:38)."
+    },
+    {
+      "ref": "3:11-12",
+      "texto": "A disciplina de Deus é uma expressão de Seu amor. Assim como um pai corrige seus filhos, Deus corrige aqueles a quem ama, para o seu bem (veja também Hebreus 12:5-6 e Apocalipse 3:19)."
+    }
+  ]
+}

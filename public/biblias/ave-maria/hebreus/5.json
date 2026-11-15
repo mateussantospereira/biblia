@@ -1,0 +1,89 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "hebreus",
+  "nome": "Hebreus",
+  "testamento": "NT",
+  "capitulo": 5,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/hebreus/5/",
+  "capturadoEm": "2026-11-15T09:29:09-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Em verdade, todo pontífice é escolhido entre os homens e constituído a favor dos homens como mediador nas coisas que dizem respeito a Deus, para oferecer dons e sacrifícios pelos pecados."
+    },
+    {
+      "numero": 2,
+      "texto": "Sabe compadecer-se dos que estão na ignorância e no erro, porque também ele está cercado de fraqueza."
+    },
+    {
+      "numero": 3,
+      "texto": "Por isso, ele deve oferecer sacrifícios tanto pelos próprios pecados quanto pelos pecados do povo."
+    },
+    {
+      "numero": 4,
+      "texto": "Ninguém se apropria desta honra, senão somente aquele que é chamado por Deus, como Aarão."
+    },
+    {
+      "numero": 5,
+      "texto": "Assim também Cristo não se atribuiu a si mesmo a glória de ser pontífice. Esta lhe foi dada por aquele que lhe disse: Tu és meu Filho, eu hoje te gerei (Sl 2,7),"
+    },
+    {
+      "numero": 6,
+      "texto": "como também diz em outra passagem: Tu és sacerdote eternamente, segundo a ordem de Melquisedec (Sl 109,4)."
+    },
+    {
+      "numero": 7,
+      "texto": "Nos dias de sua vida mortal, dirigiu preces e súplicas, entre clamores e lágrimas, àquele que o podia salvar da morte, e foi atendido pela sua piedade.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Embora fosse Filho de Deus, aprendeu a obediência por meio dos sofrimentos que teve."
+    },
+    {
+      "numero": 9,
+      "texto": "E uma vez chegado ao seu termo, tornou-se autor da salvação eterna para todos os que lhe obedecem,"
+    },
+    {
+      "numero": 10,
+      "texto": "porque Deus o proclamou sacerdote segundo a ordem de Melquisedec."
+    },
+    {
+      "numero": 11,
+      "texto": "Teríamos muita coisa a dizer sobre isso, e coisas bem difíceis de explicar, dada a vossa lentidão em compreender..."
+    },
+    {
+      "numero": 12,
+      "texto": "A julgar pelo tempo, já devíeis ser mestres! Contudo, ainda necessitais que vos ensinem os primeiros rudimentos da Palavra de Deus; e vos tornastes tais, que precisais de leite em vez de alimento sólido!"
+    },
+    {
+      "numero": 13,
+      "texto": "Ora, quem se alimenta de leite não é capaz de compreender uma doutrina profunda, porque é ainda criança.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Mas o alimento sólido é para os adultos, para aqueles que a experiência já exercitou na distinção do bem e do mal."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "5:1-4",
+      "texto": "O autor descreve o papel do sumo sacerdote, que é escolhido entre os homens para interceder por eles diante de Deus. Este é um reflexo da misericórdia e da compaixão divinas (veja também Levítico 16:6 e 1 Timóteo 2:5)."
+    },
+    {
+      "ref": "5:5-6",
+      "texto": "Jesus é apresentado como o Sumo Sacerdote eterno, segundo a ordem de Melquisedeque, destacando Sua autoridade divina e Seu papel mediador (veja também Salmos 110:4 e Gênesis 14:18-20)."
+    },
+    {
+      "ref": "5:7-10",
+      "texto": "O sofrimento de Jesus, que aprendeu a obediência por meio do que padeceu, é uma lição de humildade e dependência de Deus. Ele é perfeito como nosso Salvador devido à Sua total submissão (veja também Lucas 22:42 e Filipenses 2:8)."
+    },
+    {
+      "ref": "5:11-14",
+      "texto": "O autor repreende os cristãos por sua falta de maturidade espiritual, comparando-os a crianças que ainda necessitam de alimento simples. O crescimento em Cristo exige discernimento e prática (veja também 1 Coríntios 3:1-2 e 1 Pedro 2:2)."
+    }
+  ]
+}

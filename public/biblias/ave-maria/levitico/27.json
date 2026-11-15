@@ -1,0 +1,172 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "levitico",
+  "nome": "Levítico",
+  "testamento": "AT",
+  "capitulo": 27,
+  "totalVersiculos": 34,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/levitico/27/",
+  "capturadoEm": "2026-11-15T09:09:08-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Senhor disse a Moisés: “Dize aos israelitas o seguinte:"
+    },
+    {
+      "numero": 2,
+      "texto": "Se alguém fizer um voto com respeito às pessoas, essas serão do Senhor, segundo a tua avaliação."
+    },
+    {
+      "numero": 3,
+      "texto": "Se se tratar de um homem de vinte a sessenta anos, o valor será de cinquenta siclos de prata, conforme o siclo do santuário;"
+    },
+    {
+      "numero": 4,
+      "texto": "se for uma mulher, o valor será de trinta siclos."
+    },
+    {
+      "numero": 5,
+      "texto": "Para a idade de cinco a vinte anos, o valor será de vinte siclos para o menino, e dez siclos para a menina."
+    },
+    {
+      "numero": 6,
+      "texto": "De um mês até cinco anos, o valor será de cinco siclos de prata para um menino, e três para uma menina."
+    },
+    {
+      "numero": 7,
+      "texto": "Aos sessenta anos, e daí para cima, a estimação será de quinze siclos para um homem e dez siclos para uma mulher."
+    },
+    {
+      "numero": 8,
+      "texto": "Se aquele que tiver feito o voto for demasiado pobre e não puder pagar o valor que avaliaste, será apresentado ao sacerdote, que fixará o valor segundo as posses daquele que fez o voto."
+    },
+    {
+      "numero": 9,
+      "texto": "Se se tratar de animais que se podem oferecer ao Senhor, todo animal que assim se tiver dado ao Senhor será coisa santa."
+    },
+    {
+      "numero": 10,
+      "texto": "Não poderá ser trocado nem substituído, bom por mau, ou mau por bom. Mas, se se trocar um animal por outro, eles serão coisa santa, tanto um como o outro."
+    },
+    {
+      "numero": 11,
+      "texto": "Se se tratar de um animal impuro que não se pode oferecer ao Senhor, será apresentado ao sacerdote:"
+    },
+    {
+      "numero": 12,
+      "texto": "ele o avaliará, conforme for bom ou mau, e sua estimação determinará o preço."
+    },
+    {
+      "numero": 13,
+      "texto": "Se se quiser resgatá-lo, ajuntará uma quinta parte ao que tiver sido avaliado."
+    },
+    {
+      "numero": 14,
+      "texto": "Se alguém consagrar ao Senhor a sua casa fazendo dela coisa santa, o sacerdote a avaliará segundo for boa ou má, e ela será vendida pelo preço dessa avaliação."
+    },
+    {
+      "numero": 15,
+      "texto": "Mas, se aquele que consagrou a sua casa quiser resgatá-la, ajuntará um quinto ao preço da avaliação, e ela lhe pertencerá de novo."
+    },
+    {
+      "numero": 16,
+      "texto": "Se alguém consagrar ao Senhor uma parte da terra que lhe pertence, tu a avalia-rás segundo a quantidade de grãos que se pode semear nela, à razão de cinquenta siclos de prata por homer de cevada."
+    },
+    {
+      "numero": 17,
+      "texto": "Se consagrar o seu campo, a partir do ano do jubileu, se fará segundo a tua avaliação:"
+    },
+    {
+      "numero": 18,
+      "texto": "mas, se o tiver feito depois do jubileu, o sacerdote estimará o seu preço segundo o número de anos que restam até o jubileu, e haverá uma redução sobre o preço da avaliação."
+    },
+    {
+      "numero": 19,
+      "texto": "Se aquele que consagrou o seu campo quiser resgatá-lo, ajuntará um quinto ao preço fixado, e o campo lhe pertencerá."
+    },
+    {
+      "numero": 20,
+      "texto": "Se não o resgatar e o vender a outro, esse campo não poderá mais ser resgatado."
+    },
+    {
+      "numero": 21,
+      "texto": "Quando o campo ficar livre no jubileu, será consagrado ao Senhor como um campo votado ao interdito, e passará a ser propriedade do sacerdote."
+    },
+    {
+      "numero": 22,
+      "texto": "Se alguém consagrar ao Senhor um campo que comprou, o qual não faça parte de seu patrimônio,"
+    },
+    {
+      "numero": 23,
+      "texto": "o sacerdote fixará o seu preço de acordo com a tua avaliação até o ano do jubileu, e esse homem pagará o preço fixado no mesmo dia; é uma coisa consagrada ao Senhor."
+    },
+    {
+      "numero": 24,
+      "texto": "No ano jubilar, o campo voltará ao vendedor, como patrimônio que lhe pertence."
+    },
+    {
+      "numero": 25,
+      "texto": "Todas as avaliações se farão em siclos do santuário. O siclo vale vinte gueras."
+    },
+    {
+      "numero": 26,
+      "texto": "Entretanto, ninguém poderá consagrar os primogênitos de seu gado, pois pertencem já ao Senhor pelo seu título de primogênito: seja um boi, seja uma ovelha, são propriedades do Senhor."
+    },
+    {
+      "numero": 27,
+      "texto": "Se se tratar de um animal impuro, será resgatado pelo preço que fixares, ajuntando-se mais uma quinta parte; se não for resgatado, será vendido pelo preço da avaliação."
+    },
+    {
+      "numero": 28,
+      "texto": "Se um homem consagrar ao Senhor por interdito alguma coisa que lhe pertence, seja qual for esse objeto – uma pessoa, um animal ou um campo de seu patrimônio – ela não poderá ser vendida, nem resgatada: tudo o que é votado por interdito é coisa consagrada ao Senhor.",
+      "nota": true
+    },
+    {
+      "numero": 29,
+      "texto": "Nenhuma pessoa votada ao interdito poderá ser resgatada: ela será morta."
+    },
+    {
+      "numero": 30,
+      "texto": "Todos os dízimos da terra, tomados das sementes do solo ou dos frutos das árvores são propriedades do Senhor: é uma coisa consagrada ao Senhor."
+    },
+    {
+      "numero": 31,
+      "texto": "Se alguém quiser resgatar alguma coisa de seus dízimos, ajuntará uma quinta parte."
+    },
+    {
+      "numero": 32,
+      "texto": "Todos os dízimos do gado maior e menor, os dízimos do que passa sob o cajado do pastor, o décimo (animal) serão consagrados ao Senhor."
+    },
+    {
+      "numero": 33,
+      "texto": "Não se fará escolha entre bom e mau e não se fará substituição. Se alguém o fizer, tanto o animal substituído como o que substituiu serão coisa consagrada: não poderão ser resgatados”."
+    },
+    {
+      "numero": 34,
+      "texto": "Tais são as ordenações que o Senhor deu a Moisés para os israelitas, no monte Sinai."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "27:1-8",
+      "texto": "As leis sobre os votos consagrados a Deus estipulam que pessoas, animais e propriedades dedicadas ao Senhor podem ser resgatadas por um valor estabelecido. Isso reflete a seriedade dos votos feitos a Deus e a importância do compromisso (veja também Números 30:2 e Eclesiastes 5:4-5)."
+    },
+    {
+      "ref": "27:9-13",
+      "texto": "Animais oferecidos em sacrifício ao Senhor não podem ser substituídos. Se um animal impuro for consagrado, ele deve ser resgatado com um valor acrescido. Isso reforça a santidade das ofertas feitas a Deus e a necessidade de pureza nos sacrifícios (veja também Levítico 1:2-3 e Hebreus 13:15-16)."
+    },
+    {
+      "ref": "27:14-15",
+      "texto": "A consagração de casas ao Senhor deve ser feita de maneira justa, permitindo que os proprietários as resgatem com um valor adicional. Esse ato simboliza o reconhecimento de que tudo pertence a Deus e que a consagração deve ser feita de coração (veja também Josué 24:15 e Romanos 12:1)."
+    },
+    {
+      "ref": "27:16-21",
+      "texto": "A consagração de terras é regulamentada de acordo com o Ano do Jubileu. As terras consagradas ao Senhor seguem regras específicas sobre resgate, ressaltando que Deus é o verdadeiro dono de toda a terra (veja também Salmo 24:1 e 1 Coríntios 10:26)."
+    },
+    {
+      "ref": "27:30-34",
+      "texto": "Os dízimos de toda a produção agrícola pertencem ao Senhor, sendo um sinal de gratidão e reconhecimento da provisão divina. O dízimo é um ato de adoração que demonstra confiança no sustento de Deus (veja também Malaquias 3:10 e 2 Coríntios 9:6-7)."
+    }
+  ]
+}

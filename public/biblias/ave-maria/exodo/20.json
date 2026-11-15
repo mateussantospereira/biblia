@@ -1,0 +1,147 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "exodo",
+  "nome": "Êxodo",
+  "testamento": "AT",
+  "capitulo": 20,
+  "totalVersiculos": 26,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/exodo/20/",
+  "capturadoEm": "2026-11-15T09:08:19-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Então Deus pronunciou todas estas palavras:"
+    },
+    {
+      "numero": 2,
+      "texto": "“Eu sou o Senhor, teu Deus, que te fez sair do Egito, da casa da servidão."
+    },
+    {
+      "numero": 3,
+      "texto": "Não terás outros deuses diante de minha face."
+    },
+    {
+      "numero": 4,
+      "texto": "Não farás para ti escultura, nem figura alguma do que está em cima, nos céus, ou embaixo, sobre a terra, ou nas águas, debaixo da terra.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Não te prostrarás diante delas e não lhes prestarás culto. Eu sou o Senhor, teu Deus, um Deus zeloso que vingo a iniquidade dos pais nos filhos, nos netos e nos bisnetos daqueles que me odeiam,"
+    },
+    {
+      "numero": 6,
+      "texto": "mas uso de misericórdia até a milésima geração com aqueles que me amam e guardam os meus mandamentos."
+    },
+    {
+      "numero": 7,
+      "texto": "Não pronunciarás o nome do Senhor, teu Deus, em prova de falsidade, porque o Senhor não deixa impune aquele que pronuncia o seu nome em favor do erro.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Lembra-te de santificar o dia de sábado.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Trabalharás durante seis dias, e farás toda a tua obra."
+    },
+    {
+      "numero": 10,
+      "texto": "Mas no sétimo dia, que é um repouso em honra do Senhor, teu Deus, não farás trabalho algum, nem tu, nem teu filho, nem tua filha, nem teu servo, nem tua serva, nem teu animal, nem o estrangeiro que está dentro de teus muros."
+    },
+    {
+      "numero": 11,
+      "texto": "Porque em seis dias o Senhor fez o céu, a terra, o mar e tudo que neles há, e repousou no sétimo dia; e, por isso, o Senhor abençoou o dia de sábado e o consagrou."
+    },
+    {
+      "numero": 12,
+      "texto": "Honra teu pai e tua mãe, para que teus dias se prolonguem sobre a terra que te dá o Senhor, teu Deus.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Não matarás.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Não cometerás adultério.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Não furtarás."
+    },
+    {
+      "numero": 16,
+      "texto": "Não levantarás falso testemunho contra teu próximo."
+    },
+    {
+      "numero": 17,
+      "texto": "Não cobiçarás a casa do teu próximo; não cobiçarás a mulher do teu próximo, nem seu escravo, nem sua escrava, nem seu boi, nem seu jumento, nem nada do que lhe pertence”.",
+      "nota": true
+    },
+    {
+      "numero": 18,
+      "texto": "Diante dos trovões, das chamas, da voz da trombeta e do monte que fumegava, o povo tremia e conservava-se à distância."
+    },
+    {
+      "numero": 19,
+      "texto": "E disseram a Moisés: “Fala-nos tu mesmo, e te ouviremos; mas não nos fale Deus, para que não morramos”."
+    },
+    {
+      "numero": 20,
+      "texto": "Moisés respondeu-lhes: “Não temais, porque é para vos provar que Deus veio e para que o seu temor, sempre presente aos vossos olhos, vos preserve de pecar”."
+    },
+    {
+      "numero": 21,
+      "texto": "E o povo conservou-se à distância, enquanto Moisés se aproximava da nuvem onde se encontrava Deus."
+    },
+    {
+      "numero": 22,
+      "texto": "O Senhor disse a Moisés: “Eis o que dirás aos israelitas: Vistes que vos falei do céu."
+    },
+    {
+      "numero": 23,
+      "texto": "Não fareis deuses de prata, nem deuses de ouro para pôr ao meu lado."
+    },
+    {
+      "numero": 24,
+      "texto": "Tu me levantarás um altar de terra, sobre o qual oferecerás teus holocaustos e teus sacrifícios pacíficos, tuas ovelhas e teus bois. Em todo lugar onde eu fizer recordar o meu nome, virei a ti para te abençoar.",
+      "nota": true
+    },
+    {
+      "numero": 25,
+      "texto": "Se me levantares um altar de pedra, não o construirás de pedras talhadas, pois levantando o cinzel sobre a pedra, a terás profanado."
+    },
+    {
+      "numero": 26,
+      "texto": "Não subirás ao meu altar por degraus, para que se não descubra a tua nudez”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "20:1-3",
+      "texto": "Deus declara os Dez Mandamentos, começando com o chamado para adorar apenas a Ele. Isso reflete a singularidade de Deus e a centralidade da adoração exclusiva na vida de Seu povo (veja também Deuteronômio 6:4-5 e Mateus 4:10)."
+    },
+    {
+      "ref": "20:4-6",
+      "texto": "O segundo mandamento proíbe a idolatria, lembrando Israel de que Deus é espírito e não pode ser representado por imagens. Esse princípio reforça a transcendência e a santidade de Deus (veja também Isaías 42:8 e Romanos 1:23-25)."
+    },
+    {
+      "ref": "20:7",
+      "texto": "O uso impróprio do nome de Deus é proibido, refletindo a reverência e o respeito que o nome divino merece. Esse mandamento exalta a santidade e o poder do nome de Deus (veja também Salmo 111:9 e Mateus 6:9)."
+    },
+    {
+      "ref": "20:8-11",
+      "texto": "O sábado é santificado como um dia de descanso, em lembrança da criação. Esse mandamento sublinha a importância do repouso e da adoração como parte da vida humana (veja também Gênesis 2:2-3 e Hebreus 4:9-10)."
+    },
+    {
+      "ref": "20:12-17",
+      "texto": "Os mandamentos restantes regulam o relacionamento com o próximo, destacando a honra aos pais, a vida, a fidelidade, a propriedade e a verdade. Esses princípios são essenciais para a harmonia social e a justiça (veja também Romanos 13:8-10 e Mateus 22:37-40)."
+    }
+  ]
+}

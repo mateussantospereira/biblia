@@ -1,0 +1,96 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 47,
+  "totalVersiculos": 15,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/47/",
+  "capturadoEm": "2026-11-15T09:16:50-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cântico. Salmo dos filhos de Coré.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Grande é o Senhor e digno de todo louvor, na cidade de nosso Deus. O seu monte santo,"
+    },
+    {
+      "numero": 3,
+      "texto": "colina magnífica, é uma alegria para toda a terra. O lado norte do monte Sião é a cidade do grande rei."
+    },
+    {
+      "numero": 4,
+      "texto": "Deus se mostrou em seus palácios um baluarte seguro."
+    },
+    {
+      "numero": 5,
+      "texto": "Eis que se unem os reis para atacar juntamente."
+    },
+    {
+      "numero": 6,
+      "texto": "Apenas a vêem, atônitos de medo e estupor, fogem."
+    },
+    {
+      "numero": 7,
+      "texto": "Aí o terror se apodera deles, uma angústia como a de mulher em parto,"
+    },
+    {
+      "numero": 8,
+      "texto": "ou como quando o vento do oriente despedaça as naus de Társis."
+    },
+    {
+      "numero": 9,
+      "texto": "Como nos contaram, assim o vimos na cidade do Senhor dos exércitos, na cidade de nosso Deus; Deus a sustenta eternamente!"
+    },
+    {
+      "numero": 10,
+      "texto": "Ó Deus, relembremos a vossa misericórdia no interior de vosso templo."
+    },
+    {
+      "numero": 11,
+      "texto": "Como o vosso nome, ó Deus, assim vosso louvor chega até os confins do mundo. Vossa mão direita está cheia de justiça."
+    },
+    {
+      "numero": 12,
+      "texto": "Que o monte Sião se alegre! Que as cidades de Judá exultem, à vista de vossos juízos!"
+    },
+    {
+      "numero": 13,
+      "texto": "Relanceai o olhar sobre Sião, dai-lhe a volta, contai suas torres,"
+    },
+    {
+      "numero": 14,
+      "texto": "considerai suas fortificações, examinai seus palácios, para narrardes às gerações futuras:"
+    },
+    {
+      "numero": 15,
+      "texto": "como Deus é grande, nosso Deus dos séculos eternos; é ele o nosso guia."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "47:1-2",
+      "texto": "O salmista convida as nações a aclamarem a Deus com alegria. Essa exortação reflete a universalidade do reino de Deus e o chamado para que todos reconheçam Sua soberania (veja também Salmo 66:1-2 e Filipenses 2:10-11)."
+    },
+    {
+      "ref": "47:3-4",
+      "texto": "A vitória de Deus sobre Seus inimigos é destacada, simbolizando Seu poder e autoridade. A escolha de Israel como Seu povo é uma demonstração de amor e graça, reforçando a importância da aliança entre Deus e Seu povo (veja também Deuteronômio 7:6-8 e Romanos 9:4-5)."
+    },
+    {
+      "ref": "47:5-7",
+      "texto": "A ascensão de Deus é uma declaração de Seu reinado eterno. O convite para louvar a Deus é um reconhecimento da Sua grandeza e da importância da adoração na vida do povo de Deus (veja também Salmo 95:1-2 e Apocalipse 5:12)."
+    },
+    {
+      "ref": "47:8-9",
+      "texto": "Deus reina sobre as nações, e os príncipes se reúnem como povo de Deus. Isso reflete a soberania divina e a expectativa de que todas as nações se voltem para Ele em adoração (veja também Salmo 22:27 e Isaías 2:2-3)."
+    },
+    {
+      "ref": "47:10",
+      "texto": "O reconhecimento da grandeza de Deus é uma afirmação de fé e confiança no Seu governo. Este versículo conclui o salmo com uma celebração da soberania de Deus sobre toda a criação (veja também Salmo 103:19 e Romanos 11:36)."
+    }
+  ]
+}

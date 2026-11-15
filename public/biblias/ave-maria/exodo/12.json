@@ -1,0 +1,242 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "exodo",
+  "nome": "Êxodo",
+  "testamento": "AT",
+  "capitulo": 12,
+  "totalVersiculos": 51,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/exodo/12/",
+  "capturadoEm": "2026-11-15T09:08:11-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Senhor disse a Moisés e a Aarão:"
+    },
+    {
+      "numero": 2,
+      "texto": "“Este mês será para vós o princípio dos meses: vós o tereis como o primeiro mês do ano."
+    },
+    {
+      "numero": 3,
+      "texto": "Dizei a toda a assembleia de Israel: no décimo dia deste mês cada um de vós tome um cordeiro por família, um cordeiro por casa."
+    },
+    {
+      "numero": 4,
+      "texto": "Se a família for pequena demais para um cordeiro, então o tomará em comum com seu vizinho mais próximo, segundo o número das pessoas, calculando-se o que cada um pode comer."
+    },
+    {
+      "numero": 5,
+      "texto": "O animal será sem defeito, macho, de um ano; podereis tomar tanto um cordeiro como um cabrito."
+    },
+    {
+      "numero": 6,
+      "texto": "E o guardareis até o décimo quarto dia deste mês; então toda a assembleia de Israel o imolará no crepúsculo.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "Tomarão do seu sangue e o porão sobre as duas ombreiras e sobre a moldura da porta das casas em que o comerem."
+    },
+    {
+      "numero": 8,
+      "texto": "Naquela noite comerão a carne assada no fogo com pães sem fermento e ervas amargas."
+    },
+    {
+      "numero": 9,
+      "texto": "Nada comereis dele que seja cru, ou cozido, mas será assado no fogo completamente com a cabeça, as pernas e as entranhas."
+    },
+    {
+      "numero": 10,
+      "texto": "Nada deixareis dele até pela manhã; se sobrar alguma coisa, a queimareis no fogo."
+    },
+    {
+      "numero": 11,
+      "texto": "Eis a maneira como o comereis: tereis cingidos os vossos rins, vossas sandálias nos pés e vosso cajado na mão. Vós comereis apressadamente: é a Páscoa do Senhor.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Naquela noite, passarei através do Egito, e ferirei os primogênitos no Egito, tanto os dos homens como os dos animais, e exercerei minha justiça contra todos os deuses do Egito. Eu sou o Senhor."
+    },
+    {
+      "numero": 13,
+      "texto": "O sangue sobre as casas em que habitais vos servirá de sinal (de proteção): vendo o sangue, passarei adiante, e não sereis atingidos pelo flagelo destruidor, quando eu ferir o Egito."
+    },
+    {
+      "numero": 14,
+      "texto": "Conservareis a memória daquele dia, celebrando-o com uma festa em honra do Senhor: fareis isso de geração em geração, pois é uma instituição perpétua."
+    },
+    {
+      "numero": 15,
+      "texto": "Comereis pão sem fermento durante sete dias. Logo ao primeiro dia tirareis de vossas casas o fermento, pois todo o que comer pão fermentado, desde o primeiro dia até o sétimo, será cortado de Israel."
+    },
+    {
+      "numero": 16,
+      "texto": "No primeiro dia, assim como no sétimo, tereis uma santa assembleia. Durante esses dias não se fará trabalho algum, exceto a preparação da comida para todos."
+    },
+    {
+      "numero": 17,
+      "texto": "Guardareis (a festa) dos Ázimos, porque foi naquele dia que tirei do Egito vossos exércitos. Guardareis aquele dia de geração em geração: é uma instituição perpétua."
+    },
+    {
+      "numero": 18,
+      "texto": "No primeiro mês, desde a tarde do décimo quarto dia do mês até a tarde do vigésimo primeiro, comereis pães sem fermento."
+    },
+    {
+      "numero": 19,
+      "texto": "Durante sete dias não haverá fermento em vossas casas: se alguém comer pão fermentado, será cortado da assembleia de Israel, quer se trate de estrangeiro ou natural do país."
+    },
+    {
+      "numero": 20,
+      "texto": "Não comereis pão fermentado: em todas as vossas casas comereis ázimos”."
+    },
+    {
+      "numero": 21,
+      "texto": "Moisés convocou todos os anciãos de Israel e disse-lhes: “Ide e escolhei um cordeiro por família, e imolai a Páscoa."
+    },
+    {
+      "numero": 22,
+      "texto": "Depois disso, tomareis um feixe de hissopo, o ensopareis no sangue que estiver na bacia e aspergireis com esse sangue a moldura e as duas ombreiras da porta. Nenhum de vós transporá o limiar de sua casa até pela manhã."
+    },
+    {
+      "numero": 23,
+      "texto": "Quando o Senhor passar para ferir o Egito, vendo o sangue sobre a moldura e sobre as duas ombreiras da porta, passará adiante e não permitirá ao destruidor entrar em vossas casas para ferir."
+    },
+    {
+      "numero": 24,
+      "texto": "Observareis esse costume como uma instituição perpétua para vós e vossos filhos."
+    },
+    {
+      "numero": 25,
+      "texto": "Quando tiverdes penetrado na terra que o Senhor vos dará, como prometeu, observareis esse rito."
+    },
+    {
+      "numero": 26,
+      "texto": "E quando vossos filhos vos disserem: ‘Que significa esse rito?’ – respondereis:"
+    },
+    {
+      "numero": 27,
+      "texto": "‘É o sacrifício da Páscoa, em honra do Senhor que, ferindo os egípcios, passou por cima das casas dos israelitas no Egito e preservou nossas casas’.” O povo inclinou-se e prostrou-se."
+    },
+    {
+      "numero": 28,
+      "texto": "Em seguida, retiraram-se os israelitas para fazerem o que o Senhor tinha ordenado a Moisés e a Aarão. Assim o fizeram."
+    },
+    {
+      "numero": 29,
+      "texto": "Pelo meio da noite, o Senhor feriu todos os primogênitos no Egito, desde o primogênito do faraó, que devia assentar-se no trono, até o primogênito do cativo que estava no cárcere, e todos os primogênitos dos animais."
+    },
+    {
+      "numero": 30,
+      "texto": "O faraó levantou-se durante a noite, assim como todos os seus servos e todos os egípcios e fez-se um grande clamor no Egito, porque não havia casa em que não houvesse um morto."
+    },
+    {
+      "numero": 31,
+      "texto": "Naquela mesma noite, o rei mandou chamar Moisés e Aarão e disse-lhes: “Ide! Saí do meio do meu povo, vós e os israelitas. Ide prestar um culto ao Senhor, como o dissestes."
+    },
+    {
+      "numero": 32,
+      "texto": "Tomai vossas ovelhas e vossos bois, como o pedistes. Ide e abençoai-me”."
+    },
+    {
+      "numero": 33,
+      "texto": "Os egípcios instavam com o povo para que saísse quanto antes do país. “Vamos morrer todos” – diziam eles."
+    },
+    {
+      "numero": 34,
+      "texto": "O povo tomou a sua massa antes que fosse levedada; cada um carregava em seus ombros a cesta embrulhada em seu manto."
+    },
+    {
+      "numero": 35,
+      "texto": "Os israelitas, segundo a ordem de Moisés, tinham pedido aos egípcios objetos de prata, objetos de ouro e vestes."
+    },
+    {
+      "numero": 36,
+      "texto": "O Senhor lhes fizera ganhar o favor dos egípcios, que atenderam ao seu pedido. Foi assim que despojaram os egípcios."
+    },
+    {
+      "numero": 37,
+      "texto": "Os israelitas partiram de Ramsés para Sucot, em número de seiscentos mil homens, aproximadamente, sem contar os meninos."
+    },
+    {
+      "numero": 38,
+      "texto": "Além disso, acompanhava-os uma numerosa multidão, bem como rebanhos consideráveis de ovelhas e de bois."
+    },
+    {
+      "numero": 39,
+      "texto": "Cozeram bolos ázimos da massa que levaram do Egito, pois esta não se tinha fermentado, porque tinham sido lançados fora do país e não puderam deter-se nem fazer provisões."
+    },
+    {
+      "numero": 40,
+      "texto": "A permanência dos israelitas no Egito durara quatrocentos e trinta anos."
+    },
+    {
+      "numero": 41,
+      "texto": "Exatamente no fim desses quatrocentos e trinta anos, todos os exércitos do Senhor saíram do Egito."
+    },
+    {
+      "numero": 42,
+      "texto": "Foi uma noite de vigília para o Senhor, a fim de tirá-los do Egito: essa mesma noite é uma vigília a ser celebrada de geração em geração por todos os israelitas, em honra do Senhor."
+    },
+    {
+      "numero": 43,
+      "texto": "O Senhor disse a Moisés e a Aarão: “Eis a regra relativa à Páscoa: nenhum estrangeiro comerá dela;"
+    },
+    {
+      "numero": 44,
+      "texto": "todo escravo adquirido a preço de dinheiro, e que tiver sido circuncidado, comerá dela,"
+    },
+    {
+      "numero": 45,
+      "texto": "mas nem o estrangeiro nem o mercenário comerão dela."
+    },
+    {
+      "numero": 46,
+      "texto": "O cordeiro será comido em uma mesma casa: tu não levarás nada de sua carne para fora da casa e não lhe quebrarás osso algum.",
+      "nota": true
+    },
+    {
+      "numero": 47,
+      "texto": "Toda a assembleia de Israel celebrará a Páscoa."
+    },
+    {
+      "numero": 48,
+      "texto": "Se um estrangeiro, habitando em tua casa, quiser celebrar a Páscoa em honra do Senhor, que primeiro seja circuncidado todo varão de sua casa e somente depois poderá fazê-lo e será tratado com a mesma igualdade que o natural do país; mas nenhum incircunciso comerá a Páscoa."
+    },
+    {
+      "numero": 49,
+      "texto": "Haverá uma mesma lei para o natural e o estrangeiro que peregrina entre vós”."
+    },
+    {
+      "numero": 50,
+      "texto": "Todos os israelitas fizeram o que o Senhor havia ordenado a Moisés e a Aarão. Obedeceram-lhes."
+    },
+    {
+      "numero": 51,
+      "texto": "Naquele mesmo dia, o Senhor fez sair do Egito os israelitas, como fileiras de um exército."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "12:1-2",
+      "texto": "Deus estabelece o calendário de Israel a partir da Páscoa, destacando a importância desse evento. A Páscoa simboliza o início de uma nova vida e libertação, tornando-se central para a identidade do povo de Deus (veja também Deuteronômio 16:1 e Lucas 22:15-16)."
+    },
+    {
+      "ref": "12:7-13",
+      "texto": "O sangue do cordeiro nas portas serve como sinal de proteção para os israelitas, enquanto o anjo da morte passa sobre o Egito. Este ato aponta para o sacrifício expiatório de Cristo, o Cordeiro de Deus (veja também João 1:29 e 1 Coríntios 5:7)."
+    },
+    {
+      "ref": "12:14-17",
+      "texto": "Deus ordena que a Páscoa seja comemorada anualmente como um memorial perpétuo. Isso reflete a importância da lembrança das obras de Deus e da renovação contínua da fé (veja também Levítico 23:5-6 e Lucas 22:19-20)."
+    },
+    {
+      "ref": "12:29-30",
+      "texto": "A morte dos primogênitos egípcios cumpre a última praga, resultando na libertação de Israel. Este evento é um dos atos mais dramáticos de juízo e redenção na história bíblica, prefigurando a libertação espiritual através de Cristo (veja também Hebreus 11:28 e Apocalipse 5:9)."
+    },
+    {
+      "ref": "12:40-41",
+      "texto": "Israel sai do Egito após 430 anos, cumprindo a promessa feita a Abraão. Este ato de libertação revela a fidelidade de Deus ao Seu povo e ao Seu plano redentor (veja também Gênesis 15:13-14 e Atos 7:6)."
+    }
+  ]
+}

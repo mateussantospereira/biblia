@@ -1,0 +1,102 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "oseias",
+  "nome": "Oséias",
+  "testamento": "AT",
+  "capitulo": 7,
+  "totalVersiculos": 16,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/oseias/7/",
+  "capturadoEm": "2026-11-15T09:24:35-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "A iniquidade de Efraim foi desvendada, bem como a maldade de Samaria, porque cometem fraudes. O ladrão penetra nas casas, e a quadrilha de salteadores anda por aí impunemente."
+    },
+    {
+      "numero": 2,
+      "texto": "Não é com sinceridade que dizem que me lembro de todas as suas maldades. Agora suas más obras os envolvem, e eu os tenho diante de meus olhos."
+    },
+    {
+      "numero": 3,
+      "texto": "Alegram o rei com suas maldades, e os príncipes com suas mentiras."
+    },
+    {
+      "numero": 4,
+      "texto": "São todos uns adúlteros, semelhantes a um forno aceso; o padeiro cessa de atiçar o fogo depois que trabalhou a massa, até que esta se levede."
+    },
+    {
+      "numero": 5,
+      "texto": "O dia de nosso rei, os príncipes o profanam com o calor do vinho. Conseguirá sua mão deter os insolentes? Quando conspiram, seu coração é como um forno;"
+    },
+    {
+      "numero": 6,
+      "texto": "toda a noite dorme o calor de seu ressentimento, mas pela manhã ele queima com uma chama viva."
+    },
+    {
+      "numero": 7,
+      "texto": "Todos eles ardem como um forno e consomem os seus juízes. Todos os seus reis caíram, sem que nenhum deles me tenha invocado.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Efraim mistura-se com os outros povos, Efraim é uma torta que não foi virada.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Estrangeiros o consomem sem que ele se dê conta; as cãs se lhe multiplicam, sem que ele o perceba."
+    },
+    {
+      "numero": 10,
+      "texto": "A arrogância de Israel dá testemunho contra ele; não se voltam para o Senhor, seu Deus, e, apesar de tudo, não o buscam."
+    },
+    {
+      "numero": 11,
+      "texto": "Efraim é como uma pomba ingênua, sem inteligência; apelam para o Egito, vão à Assíria..."
+    },
+    {
+      "numero": 12,
+      "texto": "Se ali forem, estenderei sobre eles a minha rede, irei prendê-los como aves do céu e os punirei para advertência de sua assembleia."
+    },
+    {
+      "numero": 13,
+      "texto": "Ai deles, porque fogem de mim! Serão arruinados porque se afastam de mim. Enquanto eu os queria salvar, proferiam mentiras contra mim."
+    },
+    {
+      "numero": 14,
+      "texto": "Não me invocam do fundo de seus corações, mas se lamentam em seus leitos; laceram-se pelo trigo e pelo vinho, e revoltam-se contra mim."
+    },
+    {
+      "numero": 15,
+      "texto": "Eu os adverti e fortifiquei seus braços, mas eles meditam o mal contra mim."
+    },
+    {
+      "numero": 16,
+      "texto": "Não é para o Altíssimo que eles se voltam, são como um arco desarmado; seus chefes cairão pela espada em punição de sua língua, e se rirá deles na terra do Egito.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "7:1-3",
+      "texto": "O Senhor lamenta a persistência no pecado de Israel, apesar das advertências. Sua infidelidade é clara e as consequências são inevitáveis. O coração de Israel se tornou endurecido, afastando-se ainda mais de Deus (veja também Romanos 2:5 e Hebreus 3:13)."
+    },
+    {
+      "ref": "7:4-7",
+      "texto": "O povo de Israel é comparado a um forno, que ferve e consome a si mesmo. Essa metáfora representa a destruição interna causada pelo pecado, onde a liderança e o povo como um todo são responsáveis pela decadência espiritual e moral (veja também Jeremias 5:3 e Tiago 1:14-15)."
+    },
+    {
+      "ref": "7:8-10",
+      "texto": "Israel se misturou com outras nações, comprometendo sua identidade e fé. A infidelidade de Israel é simbolizada pela mistura de trigo e centeio, o que impede o crescimento espiritual e a bênção de Deus sobre o povo (veja também 2 Coríntios 6:14-18 e Tiago 4:4)."
+    },
+    {
+      "ref": "7:11-16",
+      "texto": "Israel não reconhece sua situação de pecado e continua buscando alianças com outras nações, ao invés de confiar em Deus. Esse orgulho e falta de arrependimento resultam em sua destruição (veja também Salmo 81:11-12 e Isaías 31:1)."
+    },
+    {
+      "ref": "7:16",
+      "texto": "Deus lamenta a queda de Israel, pois eles se afastaram de Sua direção e buscaram seus próprios caminhos. A infidelidade é a causa do sofrimento de Israel e a falta de retorno a Deus agrava ainda mais a situação (veja também 2 Crônicas 36:14-16 e Romanos 1:21)."
+    }
+  ]
+}

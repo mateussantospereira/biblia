@@ -1,0 +1,108 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ii-reis",
+  "nome": "II Reis",
+  "testamento": "AT",
+  "capitulo": 1,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ii-reis/1/",
+  "capturadoEm": "2026-11-15T09:12:34-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Tendo morrido Acab, Moab revoltou-se contra Israel."
+    },
+    {
+      "numero": 2,
+      "texto": "Ocozias caiu da sacada do seu aposento, em Samaria, e feriu-se gravemente. Enviou então mensageiros, aos quais disse: “Ide consultar Baal-Zebub, deus de Acaron, para saber se serei curado desse mal”.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Mas o anjo do Senhor falou a Elias, o tesbita: “Sobe ao encontro dos mensageiros do rei de Samaria e dize-lhes: ‘Não há, porventura, um Deus em Israel, para irdes consultar Baal-Zebub, deus de Acaron?"
+    },
+    {
+      "numero": 4,
+      "texto": "Por isso, eis o que diz o Senhor: Não te levantarás do leito a que subiste, mas morrerás’.” E Elias partiu."
+    },
+    {
+      "numero": 5,
+      "texto": "Os mensageiros voltaram para Ocozias e este lhes perguntou: “Por que voltais?”."
+    },
+    {
+      "numero": 6,
+      "texto": "Eles responderam: “Um homem nos veio ao encontro e nos disse: ‘Ide, voltai para o vosso rei e dizei-lhe: Isto diz o Senhor: Não há, porventura, Deus em Israel, para que mandes consultar Baal-Zebub, deus de Acaron? Por isso, não te levantarás do leito a que subiste; vais morrer’.”"
+    },
+    {
+      "numero": 7,
+      "texto": "Ocozias disse-lhes: “Como era esse homem que veio ao vosso encontro e vos falou desse modo?”."
+    },
+    {
+      "numero": 8,
+      "texto": "“Era um homem coberto de pelos – responderam-lhe –, que trazia um cinto de couro em volta dos rins.” O rei disse: “É Elias, o tesbita”."
+    },
+    {
+      "numero": 9,
+      "texto": "Imediatamente enviou-lhe o rei um chefe com seus cinquenta homens. Este foi ter com Elias, que estava sentado no alto do monte e disse-lhe: “Ó homem de Deus, desce depressa, pois é ordem do rei”."
+    },
+    {
+      "numero": 10,
+      "texto": "Elias respondeu: “Se sou um homem de Deus, venha fogo do céu e vos devore, a ti e aos teus cinquenta homens”. E o fogo, caindo do céu, devorou o chefe e seus cinquenta homens."
+    },
+    {
+      "numero": 11,
+      "texto": "O rei mandou outro chefe com os seus cinquenta homens, o qual, chegando aonde estava Elias, lhe disse: “Ó homem de Deus, esta é a ordem do rei: desce imediatamente”."
+    },
+    {
+      "numero": 12,
+      "texto": "“Se sou um homem de Deus – respondeu Elias –, venha fogo do céu e te devore com os teus cinquenta homens.” E o fogo, caindo do céu, devorou o chefe e seus cinquenta homens."
+    },
+    {
+      "numero": 13,
+      "texto": "Pela terceira vez, mandou o rei um chefe com os seus cinquenta homens, o qual, chegando aonde estava Elias, pôs-se de joelhos e suplicou-lhe, dizendo: “Peço-te, ó homem de Deus, que a minha vida tenha algum valor aos teus olhos e a destes cinquenta homens teus servos."
+    },
+    {
+      "numero": 14,
+      "texto": "Veio fogo do céu e devorou os dois primeiros chefes; mas, agora, que minha vida tenha algum valor aos teus olhos!”."
+    },
+    {
+      "numero": 15,
+      "texto": "O anjo do Senhor disse a Elias: “Desce com este homem; não temas”. Elias levantou-se e desceu com ele à casa do rei."
+    },
+    {
+      "numero": 16,
+      "texto": "Disse-lhe: “Eis o que diz o Senhor: ‘Porque enviaste mensageiros a consultar Baal-Zebub, deus de Acaron, não te levantarás mais do leito a que subiste, pois morrerás’.”"
+    },
+    {
+      "numero": 17,
+      "texto": "Ocozias morreu, segundo a palavra que o Senhor tinha dito pelo profeta Elias, e seu irmão Jorão sucedeu-lhe no trono, no segundo ano de Jorão, filho de Josafá, rei de Judá, porque Ocozias não tinha filhos."
+    },
+    {
+      "numero": 18,
+      "texto": "O restante da história de Ocozias e suas ações, tudo está registrado no Livro das Crônicas dos reis de Israel."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:1-4",
+      "texto": "O rei Acazias, ao sofrer um acidente, busca respostas de Baal-Zebube, o deus de Ecrom, em vez de consultar o Senhor. Isso demonstra a rejeição de Deus e a idolatria que permeava Israel, trazendo consequências graves (veja também Êxodo 20:3-5 e Salmo 115:4-8)."
+    },
+    {
+      "ref": "1:5-8",
+      "texto": "Elias é enviado por Deus para confrontar os mensageiros de Acazias, mostrando que somente o Senhor é soberano. A palavra profética de Elias reforça o poder de Deus sobre a vida e a morte (veja também Isaías 44:6 e Tiago 5:17-18)."
+    },
+    {
+      "ref": "1:9-10",
+      "texto": "Quando os soldados enviados por Acazias tentam prender Elias, o profeta chama fogo do céu, que consome os homens. Este evento destaca a autoridade de Elias e o julgamento divino sobre aqueles que desafiam os profetas de Deus (veja também Lucas 9:54 e Apocalipse 11:5)."
+    },
+    {
+      "ref": "1:13-15",
+      "texto": "Um terceiro grupo de soldados implora pela misericórdia de Elias, e o Senhor poupa suas vidas. Isso ilustra o equilíbrio entre o julgamento de Deus e Sua misericórdia para com os humildes (veja também Salmo 103:8-10 e Tiago 4:6)."
+    },
+    {
+      "ref": "1:16-17",
+      "texto": "Elias profetiza a morte de Acazias, que se cumpre logo em seguida. A morte de Acazias serve como um lembrete de que a desobediência a Deus e a idolatria levam à destruição (veja também Provérbios 14:12 e Romanos 6:23)."
+    }
+  ]
+}

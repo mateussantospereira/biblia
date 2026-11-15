@@ -1,0 +1,92 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 64,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/64/",
+  "capturadoEm": "2026-11-15T09:17:08-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. Salmo de Davi. Cântico.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "A vós, ó Deus, convém o louvor em Sião, é a vós que todos vêm cumprir os seus votos,"
+    },
+    {
+      "numero": 3,
+      "texto": "vós que atendeis as preces. Todo homem acorre a vós,"
+    },
+    {
+      "numero": 4,
+      "texto": "por causa de seus pecados. Oprime-nos o peso de nossas faltas: vós as perdoais."
+    },
+    {
+      "numero": 5,
+      "texto": "Feliz aquele que vós escolheis, e chamais para habitar em vossos átrios. Possamos nós ser saciados dos bens de vossa casa, da santidade de vosso templo."
+    },
+    {
+      "numero": 6,
+      "texto": "Vós nos atendeis com os estupendos prodígios de vossa justiça, ó Deus, nosso salvador. Vós sois a esperança dos confins da terra, e dos mais longínquos mares."
+    },
+    {
+      "numero": 7,
+      "texto": "Vós que, com a vossa força, sustentais montanhas, cingido de vosso poder."
+    },
+    {
+      "numero": 8,
+      "texto": "Vós que aplacais os vagalhões do mar, o bramir de suas vagas e o tumultuar das nações pagãs."
+    },
+    {
+      "numero": 9,
+      "texto": "À vista de vossos prodígios, temem-vos os habitantes dos confins da terra; saciais de alegria os extremos do oriente e do ocidente."
+    },
+    {
+      "numero": 10,
+      "texto": "Visitastes a terra e a regastes, cumulando-a de fertilidade. De água encheu-se a divina fonte e fizestes germinar o trigo. Assim, pois, fertilizastes a terra:"
+    },
+    {
+      "numero": 11,
+      "texto": "irrigastes os seus sulcos, nivelastes as suas glebas; amolecendo-as com as chuvas, abençoastes a sua sementeira."
+    },
+    {
+      "numero": 12,
+      "texto": "Coroaste o ano com os vossos benefícios; onde passastes ficou a fartura."
+    },
+    {
+      "numero": 13,
+      "texto": "Umedecidas as pastagens do deserto, revestem-se de alegria as colinas."
+    },
+    {
+      "numero": 14,
+      "texto": "Os prados são cobertos de rebanhos, e os vales se enchem de trigais. Só há júbilo e cantos de alegria."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "64:1-2",
+      "texto": "O salmista clama a Deus em busca de proteção contra inimigos que conspiram e falam mal. Esse pedido reflete a vulnerabilidade humana e a necessidade de recorrer a Deus em tempos de perigo (veja também Salmo 31:1-2 e Salmo 140:1)."
+    },
+    {
+      "ref": "64:3-4",
+      "texto": "Os ímpios são descritos como aqueles que preparam armadilhas para os justos. Essa imagem enfatiza a astúcia do pecado e a necessidade de vigilância espiritual para resistir às tentações (veja também Salmo 10:7 e 1 Pedro 5:8)."
+    },
+    {
+      "ref": "64:5-6",
+      "texto": "O salmista reconhece a natureza enganosa dos inimigos que se unem em segredo. Essa conspiração ressalta a importância da transparência e da verdade na vida comunitária (veja também Salmo 26:4-5 e Efésios 4:25)."
+    },
+    {
+      "ref": "64:7-8",
+      "texto": "Deus intervém e traz confusão aos planos dos ímpios. Essa afirmação destaca a soberania de Deus sobre as ações humanas e Sua capacidade de reverter as situações adversas (veja também Salmo 33:10-11 e Provérbios 19:21)."
+    },
+    {
+      "ref": "64:9-10",
+      "texto": "A alegria dos justos é uma resposta à justiça de Deus, enquanto os ímpios ficam envergonhados. Essa conclusão enfatiza a certeza de que Deus é um defensor dos justos e traz justiça em meio à opressão (veja também Salmo 37:38 e Apocalipse 21:4)."
+    }
+  ]
+}

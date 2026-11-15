@@ -1,0 +1,164 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "genesis",
+  "nome": "Gênesis",
+  "testamento": "AT",
+  "capitulo": 11,
+  "totalVersiculos": 32,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/genesis/11/",
+  "capturadoEm": "2026-11-15T09:07:04-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Toda a terra tinha uma só língua, e servia-se das mesmas palavras."
+    },
+    {
+      "numero": 2,
+      "texto": "Alguns homens, partindo para o oriente, encontraram na terra de Senaar uma planície onde se estabeleceram."
+    },
+    {
+      "numero": 3,
+      "texto": "E disseram uns aos outros: “Vamos, façamos tijolos e cozamo-los no fogo”. Serviram-se de tijolos em vez de pedras, e de betume em lugar de argamassa."
+    },
+    {
+      "numero": 4,
+      "texto": "Depois disseram: “Vamos, façamos para nós uma cidade e uma torre cujo cimo atinja os céus. Tornemos assim célebre o nosso nome, para que não sejamos dispersos pela face de toda a terra”."
+    },
+    {
+      "numero": 5,
+      "texto": "Mas o Senhor desceu para ver a cidade e a torre que construíram os filhos dos homens."
+    },
+    {
+      "numero": 6,
+      "texto": "“Eis que são um só povo – disse ele – e falam uma só língua: se começam assim, nada futuramente os impedirá de executarem todos os seus empreendimentos."
+    },
+    {
+      "numero": 7,
+      "texto": "Vamos: desçamos para lhes confundir a linguagem, de sorte que já não se compreendam um ao outro.”"
+    },
+    {
+      "numero": 8,
+      "texto": "Foi dali que o Senhor os dispersou daquele lugar pela face de toda a terra, e cessaram a construção da cidade."
+    },
+    {
+      "numero": 9,
+      "texto": "Por isso, deram-lhe o nome de Babel, porque ali o Senhor confundiu a linguagem de todos os habitantes da terra, e dali os dispersou sobre a face de toda a terra.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Eis a descendência de Sem: Sem, com a idade de cem anos, gerou Arfaxad, dois anos depois do dilúvio."
+    },
+    {
+      "numero": 11,
+      "texto": "Depois do nascimento de Arfaxad, Sem viveu ainda quinhentos anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 12,
+      "texto": "Arfaxad, com a idade de trinta e cinco anos, gerou Salé."
+    },
+    {
+      "numero": 13,
+      "texto": "Após o nascimento de Salé, Arfaxad viveu ainda quatrocentos anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 14,
+      "texto": "Salé, com a idade de trinta anos, gerou Héber."
+    },
+    {
+      "numero": 15,
+      "texto": "Após o nascimento de Héber, Salé viveu ainda quatrocentos anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 16,
+      "texto": "Héber, com a idade de trinta e quatro anos, gerou Faleg."
+    },
+    {
+      "numero": 17,
+      "texto": "Após o nascimento de Faleg, Héber viveu ainda quatrocentos anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 18,
+      "texto": "Faleg, com a idade de trinta anos, gerou Reu."
+    },
+    {
+      "numero": 19,
+      "texto": "Após o nascimento de Reu, Faleg viveu ainda duzentos e nove anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 20,
+      "texto": "Reu, com a idade de trinta e dois anos, gerou Sarug."
+    },
+    {
+      "numero": 21,
+      "texto": "Após o nascimento de Sarug, Reu viveu ainda duzentos e sete anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 22,
+      "texto": "Sarug, com a idade de trinta anos, gerou Nacor."
+    },
+    {
+      "numero": 23,
+      "texto": "Após o nascimento de Nacor, Sarug viveu ainda duzentos anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 24,
+      "texto": "Nacor, com a idade de vinte e nove anos, gerou Taré."
+    },
+    {
+      "numero": 25,
+      "texto": "Após o nascimento de Taré, Nacor viveu ainda cento e dezenove anos, e gerou filhos e filhas."
+    },
+    {
+      "numero": 26,
+      "texto": "Taré, com a idade de setenta anos, gerou Abrão, Nacor e Aram."
+    },
+    {
+      "numero": 27,
+      "texto": "Eis a descendência de Taré: Taré gerou Abrão, Nacor e Aram."
+    },
+    {
+      "numero": 28,
+      "texto": "Aram gerou Ló. Aram morreu em presença de Taré, seu pai, em Ur da Caldeia, sua terra natal."
+    },
+    {
+      "numero": 29,
+      "texto": "Abrão e Nacor casaram-se: a mulher de Abrão chamava-se Sarai, e a de Nacor, Melca, filha de Aram, pai de Melca e de Jesca."
+    },
+    {
+      "numero": 30,
+      "texto": "Sarai era estéril, e não tinha filhos."
+    },
+    {
+      "numero": 31,
+      "texto": "Taré tomou seu filho Abrão, seu neto Ló, filho de Aram, e Sarai, sua nora, mulher de Abrão, seu filho, e partiu com eles de Ur da Caldeia, indo para a terra de Canaã. Chegados a Harã, estabeleceram-se ali."
+    },
+    {
+      "numero": 32,
+      "texto": "Todo o tempo da vida de Taré foi de duzentos e cinco anos; e morreu em Harã."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "11:1-4",
+      "texto": "A unidade da humanidade na construção da Torre de Babel revela o desejo de autossuficiência e a tentativa de alcançar o céu sem Deus. Isso destaca a tendência humana de se afastar do plano divino e a importância da dependência de Deus (veja também Salmo 127:1 e Tiago 4:6)."
+    },
+    {
+      "ref": "11:5-8",
+      "texto": "A descida de Deus para ver a cidade e a torre demonstra que Ele está atento às ações humanas. A confusão das línguas é um ato divino para dispersar a humanidade, enfatizando a soberania de Deus e a limitação humana (veja também Atos 17:26 e Romanos 1:21-22)."
+    },
+    {
+      "ref": "11:9",
+      "texto": "A cidade de Babel simboliza a arrogância e a rebelião contra Deus. O nome \"Babel\" é uma alusão à confusão causada por Deus, ressaltando a fragilidade dos planos humanos quando desconsideram a vontade divina (veja também 1 Coríntios 3:19 e Provérbios 16:9)."
+    },
+    {
+      "ref": "11:10-26",
+      "texto": "A genealogia de Sem a Abraão enfatiza a continuidade do plano de Deus através das gerações. A escolha de Abraão mostra que Deus está estabelecendo uma nova aliança, escolhendo um povo para Si mesmo (veja também Gênesis 12:1-3 e Lucas 3:34)."
+    },
+    {
+      "ref": "11:27-32",
+      "texto": "A chamada de Abrão da terra de Ur é um ponto crucial na narrativa bíblica. Essa transição destaca a fé de Abraão em deixar tudo para seguir a direção de Deus, simbolizando o início de uma nova jornada de fé e promessas (veja também Hebreus 11:8-10 e Gálatas 3:8)."
+    }
+  ]
+}

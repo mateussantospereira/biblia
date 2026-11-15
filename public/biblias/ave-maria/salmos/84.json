@@ -1,0 +1,93 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 84,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/84/",
+  "capturadoEm": "2026-11-15T09:17:29-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. Salmo dos filhos de Coré.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Fostes propício, Senhor, à vossa terra; restabelecestes a sorte de Jacó."
+    },
+    {
+      "numero": 3,
+      "texto": "A iniquidade de vosso povo perdoastes, foram por vós cobertos seus pecados."
+    },
+    {
+      "numero": 4,
+      "texto": "Aplacastes toda a vossa cólera, refreastes o furor de vossa ira."
+    },
+    {
+      "numero": 5,
+      "texto": "Restaurai-nos, ó Deus, nosso salvador, ponde termo à indignação que tínheis contra nós."
+    },
+    {
+      "numero": 6,
+      "texto": "Acaso será eterna contra nós a vossa cólera? Estendereis vossa ira sobre todas as gerações?"
+    },
+    {
+      "numero": 7,
+      "texto": "Não nos restituireis a vida, para que vosso povo se rejubile em vós?"
+    },
+    {
+      "numero": 8,
+      "texto": "Mostrai-nos, Senhor, a vossa misericórdia, e dai-nos a vossa salvação."
+    },
+    {
+      "numero": 9,
+      "texto": "Escutarei o que diz o Senhor Deus, porque ele diz palavras de paz ao seu povo, para seus fiéis, e àqueles cujos corações se voltam para ele."
+    },
+    {
+      "numero": 10,
+      "texto": "Sim, sua salvação está bem perto dos que o temem, de sorte que sua glória retornará à nossa terra.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "A bondade e a fidelidade outra vez se irão unir, a justiça e a paz de novo se darão as mãos."
+    },
+    {
+      "numero": 12,
+      "texto": "A verdade brotará da terra, e a justiça olhará do alto do céu."
+    },
+    {
+      "numero": 13,
+      "texto": "Enfim, o Senhor nos dará seus benefícios, e nossa terra produzirá seu fruto."
+    },
+    {
+      "numero": 14,
+      "texto": "A justiça caminhará diante dele, e a felicidade lhe seguirá os passos."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "84:1-2",
+      "texto": "O salmista expressa seu profundo anseio de estar na presença de Deus, referindo-se ao Templo como a morada de Deus. Esse desejo de comunhão com Deus destaca a importância da adoração e da presença divina (veja também Salmo 42:1-2 e Salmo 27:4)."
+    },
+    {
+      "ref": "84:3-4",
+      "texto": "O salmista compara os pardais e andorinhas que encontram abrigo no templo com a bem-aventurança daqueles que habitam na casa de Deus. Isso reflete a segurança e a paz que vêm ao estar na presença de Deus (veja também Mateus 6:26 e Salmo 91:1)."
+    },
+    {
+      "ref": "84:5-7",
+      "texto": "A jornada daqueles que confiam em Deus, mesmo passando pelo vale de Baca (vale de lágrimas), transforma-se em um caminho de bênçãos. Isso mostra que a fé em Deus traz força em meio às adversidades (veja também Isaías 40:31 e 2 Coríntios 12:9-10)."
+    },
+    {
+      "ref": "84:10",
+      "texto": "O salmista expressa que um dia nos átrios de Deus vale mais do que mil dias em outro lugar. Essa é uma afirmação de que a presença de Deus é a maior bênção que alguém pode experimentar (veja também Salmo 16:11 e Filipenses 3:8)."
+    },
+    {
+      "ref": "84:11-12",
+      "texto": "Deus é descrito como sol e escudo, trazendo graça e glória àqueles que O seguem. Ele promete bênçãos e proteção aos justos, mostrando que confiança em Deus traz segurança e paz (veja também Salmo 34:9-10 e Provérbios 3:5-6)."
+    }
+  ]
+}

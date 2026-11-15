@@ -1,0 +1,77 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ester",
+  "nome": "Ester",
+  "testamento": "AT",
+  "capitulo": 7,
+  "totalVersiculos": 10,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ester/7/",
+  "capturadoEm": "2026-11-15T09:15:08-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O rei e Amã foram, pois, ao banquete de Ester."
+    },
+    {
+      "numero": 2,
+      "texto": "No segundo dia, bebendo vinho, disse ainda o rei a Ester: “Qual é teu pedido, rainha Ester? Será atendido. Que é que desejas? Ainda que me peças metade do reino, te será concedido!”."
+    },
+    {
+      "numero": 3,
+      "texto": "A rainha respondeu: “Se achei graça a teus olhos, ó rei, e se ao rei lhe parecer bem, concede-me a vida – eis o meu pedido; salva meu povo – eis o meu desejo."
+    },
+    {
+      "numero": 4,
+      "texto": "Fomos votados eu e meu povo, ao extermínio, à morte, ao aniquilamento. Se tivéssemos sido vendidos como escravos eu me calaria, mas eis que agora o opressor não poderia compensar o prejuízo que causa ao mesmo rei”.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "“Quem é – replicou o rei –, e onde está quem maquina tal projeto em seu coração?”"
+    },
+    {
+      "numero": 6,
+      "texto": "“O opressor, o inimigo – disse a rainha – é Amã – eis aí o infame!”"
+    },
+    {
+      "numero": 7,
+      "texto": "Amã ficou aterrorizado diante do rei e da rainha. O rei, aceso em cólera, levantou-se e deixou o banquete, dirigindo-se ao jardim do palácio, ao passo que Amã permanecia ali, para implorar a Ester o perdão de sua vida, porque via bem que no espírito do rei estava decretada sua perda."
+    },
+    {
+      "numero": 8,
+      "texto": "Quando o rei voltou do jardim do palácio para a sala do banquete, viu Amã que se tinha deixado cair sobre o divã em que repousava Ester: “Como!” – exclamou. “Ei-lo que quer fazer violência à rainha em minha casa em meu palácio!” Mal tinha saído essa palavra da boca do rei, quando cobriram a face de Amã.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Harbona, um dos eunucos, disse ao rei: “A forca preparada por Amã para Mardoqueu, cuja denúncia em favor do rei tinha sido tão salutar, acha-se levantada na casa de Amã, altura de cinquenta côvados”. “Que o suspendam nela!” – exclamou o rei."
+    },
+    {
+      "numero": 10,
+      "texto": "E suspenderam Amã na forca que tinha preparado para Mardoqueu. Isso acalmou a cólera do rei."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "7:1-2",
+      "texto": "No banquete, o rei pergunta a Ester sobre seu pedido. Este momento de atenção é crucial, mostrando que a disposição de ouvir é uma qualidade necessária em líderes. A intercessão de Ester é um modelo de coragem e estratégia (veja também Tiago 1:5 e Salmo 66:19-20)."
+    },
+    {
+      "ref": "7:3-4",
+      "texto": "Ester revela sua identidade judaica e a trama contra seu povo. Isso demonstra o poder da verdade e a importância de se posicionar por aqueles que não podem se defender, simbolizando a luta contra a opressão (veja também Salmo 82:3-4 e Provérbios 31:8-9)."
+    },
+    {
+      "ref": "7:5-6",
+      "texto": "O rei se enfurece e pede a identificação do responsável. A resposta direta de Ester mostra a importância da confrontação do mal. Este ato de coragem é um testemunho de como a justiça deve prevalecer sobre a injustiça (veja também Efésios 5:11 e Isaías 58:6)."
+    },
+    {
+      "ref": "7:7-10",
+      "texto": "A condenação de Hamã é uma manifestação da justiça divina. Ele é enforcado na forca que preparou para Mordecai, ilustrando a reversão de sorte que frequentemente ocorre na narrativa bíblica (veja também Gálatas 6:7 e Provérbios 26:27)."
+    },
+    {
+      "ref": "7:10",
+      "texto": "O episódio finaliza com a queda de Hamã, ressaltando que aqueles que tramam contra o povo de Deus enfrentarão suas próprias consequências. Essa lição sobre a retribuição é um tema central na justiça divina (veja também Salmo 9:15-16 e Apocalipse 20:10)."
+    }
+  ]
+}

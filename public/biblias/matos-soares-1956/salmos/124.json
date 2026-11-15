@@ -1,0 +1,51 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 124,
+  "totalVersiculos": 5,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/124/",
+  "capturadoEm": "2026-11-15T09:54:27-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cântico das subidas. Os que confiam no Senhor são (firmes) como o monte de Sião, que não é abalado, que permanece para sempre."
+    },
+    {
+      "numero": 2,
+      "texto": "Montes circundam Jerusalém: assim o Senhor circunda o seu povo, agora e para sempre."
+    },
+    {
+      "numero": 3,
+      "texto": "Porque não permanecerá o ceptro dos ímpios sobre a herança dos justos, para que os justos não estendam à iniquidade as suas mãos."
+    },
+    {
+      "numero": 4,
+      "texto": "Faz bem, Senhor, aos bons e aos rectos do coração."
+    },
+    {
+      "numero": 5,
+      "texto": "Porém aos que se desviam para caminhos tortuosos, expulse-os o Senhor com os malfeitores. A paz seja sobre Israel!"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "124:1-3",
+      "texto": "O salmista reconhece que, se o Senhor não estivesse ao lado de Israel, os inimigos teriam os destruído. Essa dependência de Deus enfatiza Sua proteção soberana e poder sobre as forças adversárias (veja também Êxodo 14:13-14 e Romanos 8:31)."
+    },
+    {
+      "ref": "124:4-5",
+      "texto": "As águas que teriam inundado Israel são uma metáfora para os perigos e tribulações. O salmista usa imagens poderosas para descrever a gravidade da ameaça, ressaltando a importância do livramento de Deus (veja também Isaías 43:2 e Salmo 69:1-2)."
+    },
+    {
+      "ref": "124:6-7",
+      "texto": "O Senhor é louvado por não permitir que Israel caísse nas mãos de seus inimigos, como um pássaro que escapa da armadilha. Essa imagem de libertação reflete a graça e a intervenção divina nas crises (veja também Salmo 91:3 e 2 Timóteo 4:18)."
+    },
+    {
+      "ref": "124:8",
+      "texto": "O salmista conclui afirmando que o auxílio de Israel vem do Senhor, Criador do céu e da terra. Essa declaração final reafirma a confiança em Deus como o sustentador e libertador de Seu povo (veja também Salmo 115:15 e Atos 17:24)."
+    }
+  ]
+}

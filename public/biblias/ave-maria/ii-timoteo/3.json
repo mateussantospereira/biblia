@@ -1,0 +1,92 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ii-timoteo",
+  "nome": "II Timóteo",
+  "testamento": "NT",
+  "capitulo": 3,
+  "totalVersiculos": 17,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ii-timoteo/3/",
+  "capturadoEm": "2026-11-15T09:28:59-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Nota bem o seguinte: nos últimos dias haverá um período difícil."
+    },
+    {
+      "numero": 2,
+      "texto": "Os homens se tornarão egoístas, avarentos, fanfarrões, soberbos, rebeldes aos pais, ingratos, malvados,"
+    },
+    {
+      "numero": 3,
+      "texto": "desalmados, desleais, caluniadores, devassos, cruéis, inimigos dos bons,"
+    },
+    {
+      "numero": 4,
+      "texto": "traidores, insolentes, cegos de orgulho, amigos dos prazeres e não de Deus,"
+    },
+    {
+      "numero": 5,
+      "texto": "ostentarão a aparência de piedade, mas desdenharão a realidade. Dessa gente, afasta-te!"
+    },
+    {
+      "numero": 6,
+      "texto": "Deles fazem parte os que se insinuam jeitosamente pelas casas e enfeitiçam mulherzinhas carregadas de pecados, atormentadas por toda espécie de paixões,"
+    },
+    {
+      "numero": 7,
+      "texto": "sempre a aprender sem nunca chegar ao conhecimento da verdade."
+    },
+    {
+      "numero": 8,
+      "texto": "Como Janes e Jambres resistiram a Moisés, assim também estes homens de coração pervertido, reprovados na fé, tentam resistir à verdade.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Mas não irão longe, porque será manifesta a todos a sua insensatez, como o foi a daqueles dois."
+    },
+    {
+      "numero": 10,
+      "texto": "Tu, pelo contrário, te aplicaste a seguir-me de perto na minha doutrina, no meu modo de vida, nos meus planos, na minha fé, na minha paciência, na minha caridade, na minha constância,"
+    },
+    {
+      "numero": 11,
+      "texto": "nas minhas perseguições, nas provações que me sobrevieram em Antioquia, em Icônio, em Listra. Que perseguições tive que sofrer! E de todas me livrou o Senhor."
+    },
+    {
+      "numero": 12,
+      "texto": "Pois todos os que quiserem viver piedosamente, em Jesus Cristo, terão de sofrer a perseguição."
+    },
+    {
+      "numero": 13,
+      "texto": "Mas os homens perversos e impostores irão de mal a pior, sedutores e seduzidos."
+    },
+    {
+      "numero": 14,
+      "texto": "Tu, porém, permanece firme naquilo que aprendeste e creste. Sabes de quem aprendeste."
+    },
+    {
+      "numero": 15,
+      "texto": "E desde a infância conheces as Sagradas Escrituras e sabes que elas têm o condão de te proporcionar a sabedoria que conduz à salvação, pela fé em Jesus Cristo."
+    },
+    {
+      "numero": 16,
+      "texto": "Toda a Escritura é inspirada por Deus, e útil para ensinar, para repreender, para corrigir e para formar na justiça."
+    },
+    {
+      "numero": 17,
+      "texto": "Por ela, o homem de Deus se torna perfeito, capacitado para toda boa obra."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-5",
+      "texto": "Paulo alerta sobre os últimos dias, caracterizados por tempos difíceis e pessoas amantes de si mesmas. A ética cristã, focada no amor e respeito a Deus, se opõe aos comportamentos egoístas descritos aqui (veja também Mateus 24:12 e 2 Pedro 3:3)."
+    },
+    {
+      "ref": "3:14-17",
+      "texto": "Paulo exorta Timóteo a continuar nas Escrituras, que são capazes de torná-lo sábio para a salvação. A Palavra de Deus é a fonte da verdade, e a Bíblia é essencial para a edificação do cristão (veja também Salmos 119:105 e 2 Pedro 1:21)."
+    }
+  ]
+}

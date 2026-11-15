@@ -1,0 +1,47 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "jo",
+  "nome": "Jó",
+  "testamento": "AT",
+  "capitulo": 25,
+  "totalVersiculos": 6,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/jo/25/",
+  "capturadoEm": "2026-11-15T09:51:45-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Então, respondendo Baldad Suita, disse:"
+    },
+    {
+      "numero": 2,
+      "texto": "O poder e o terror estão naquele que mantém a concórdia (e a harmonia) nos seus altos (céus)."
+    },
+    {
+      "numero": 3,
+      "texto": "Porventura têm número as suas (celestiais) milicias? E sobre quem é que não se levanta a sua luz?"
+    },
+    {
+      "numero": 4,
+      "texto": "Porventura pode justificar-se o homem, comparado com Deus, ou aparecer puro o que nasceu da mulher?"
+    },
+    {
+      "numero": 5,
+      "texto": "Eis que a mesma lua não tem resplendor, e as mesmas estrelas não são puras na sua presença;"
+    },
+    {
+      "numero": 6,
+      "texto": "quanto menos o homem, que é podridão, e o filho do homem, que é um verme!"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "25:1-3",
+      "texto": "Bildade, o suíta, fala sobre a grandeza de Deus e a insignificância do homem. Ele destaca a soberania divina e a pureza de Deus, enfatizando a separação entre o Criador e a criação. Isso reforça a ideia de que Deus é justo e que a humanidade é inferior em comparação (veja também Salmo 8:4-5 e Romanos 3:23)."
+    },
+    {
+      "ref": "25:4-6",
+      "texto": "Bildade questiona como o ser humano pode ser justo diante de Deus. Ele afirma que até mesmo os astros não são puros aos olhos de Deus, mostrando a gravidade do pecado humano e a necessidade de humildade diante da santidade divina (veja também Isaías 64:6 e Tiago 4:10)."
+    }
+  ]
+}

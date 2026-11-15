@@ -1,0 +1,196 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "jeremias",
+  "nome": "Jeremias",
+  "testamento": "AT",
+  "capitulo": 49,
+  "totalVersiculos": 39,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/jeremias/49/",
+  "capturadoEm": "2026-11-15T09:23:10-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Aos amonitas – Eis o que diz o Senhor: “Israel não possui filhos nem herdeiros? Por que Melcom apoderou-se de Gad, e instalou seu povo nas suas cidades?",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Dias virão – oráculo do Senhor – em que farei ouvir gritos de guerra em Rabá dos amonitas; ficará ela reduzida a um montão de escombros; suas filhas serão entregues às chamas, e Israel herdará dos que dele herdaram – oráculo do Senhor.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Lamenta-te, Hesebon, porque Hai foi devastada; gritai, filhas de Rabá, revesti-vos de cilícios e cobri-vos de saco, errando pelo redil, porquanto Melcom vai ser levado ao exílio com todos os seus sacerdotes e chefes."
+    },
+    {
+      "numero": 4,
+      "texto": "Por que orgulhar-te da fertilidade de teus vales? Filha esquiva que tanto confias em teus tesouros, dizendo: ‘Quem ousaria atacar-me?’."
+    },
+    {
+      "numero": 5,
+      "texto": "Vou desencadear em volta de ti o terror – oráculo do Senhor dos exércitos. Sereis expulsos, um por um, sem que ninguém consiga reunir os fugitivos."
+    },
+    {
+      "numero": 6,
+      "texto": "Em seguida, mudarei a sorte dos amonitas”."
+    },
+    {
+      "numero": 7,
+      "texto": "Contra Edom. – Eis o que diz o Senhor dos exércitos: “Não existe mais sabedoria em Temã? Perdeu-se o conselho dos clarividentes, desvaneceu-se a inteligência?",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Fugi, voltai as costas, ocultai-vos nos esconderijos, habitantes de Dadã, pois que trago a ruína sobre Esaú: chegou a hora da devastação."
+    },
+    {
+      "numero": 9,
+      "texto": "Se vierem a ti vindimadores, nenhum cacho deixarão. Se forem ladrões noturnos, pilharão à saciedade."
+    },
+    {
+      "numero": 10,
+      "texto": "Porquanto eu sondei Esaú, e lhe descobri os esconderijos: ele não se pode mais ocultar. Foi arruinada a raça, seus irmãos e seus vizinhos. E não subsistirá mais."
+    },
+    {
+      "numero": 11,
+      "texto": "Abandona teus órfãos, eu lhes darei do que viver; ponham tuas viúvas sua confiança em mim!"
+    },
+    {
+      "numero": 12,
+      "texto": "Porque assim falou o Senhor: Aqueles que não deviam beber deste cálice, terão de beber. E tu? Estarias isento dele? Não, tu beberás;"
+    },
+    {
+      "numero": 13,
+      "texto": "juro-o por mim mesmo – oráculo do Senhor. Será Bosra objeto de pasmo e de opróbrio, uma solidão maldita; e suas cidades serão eterna ruína”."
+    },
+    {
+      "numero": 14,
+      "texto": "Chegou-me uma notícia da parte do Senhor; um arauto foi-me enviado dentre as nações: “Uni-vos! Atacai-o! Erguei-vos para a guerra!”."
+    },
+    {
+      "numero": 15,
+      "texto": "Olha: faço-te pequeno entre as nações, desprezado entre os homens."
+    },
+    {
+      "numero": 16,
+      "texto": "O terror... o orgulho do teu coração enganou-te, a ti, que habitas nas concavidades dos rochedos, e que ocupas o cume das colinas. Ainda que colocasses teu ninho tão alto quanto o da águia, de lá te precipitaria – oráculo do Senhor."
+    },
+    {
+      "numero": 17,
+      "texto": "Será transformada Edom em objeto de espanto, e o transeunte, estupefato, mofará de suas ruínas."
+    },
+    {
+      "numero": 18,
+      "texto": "Irá se repetir a catástrofe de Sodoma e Gomorra, e das cidades vizinhas – oráculo do Senhor. Ninguém mais habitará lá e nenhum ser humano a povoará."
+    },
+    {
+      "numero": 19,
+      "texto": "Qual leão o inimigo que sobe dos espinheiros do Jordão para uma pastagem sem fim, assim, em um instante, farei fugir daqui Edom e aí estabelecerei aquele que eu escolher. Quem se iguala a mim? Quem poderia provocar-me? Qual o pastor que poderia afrontar-me?"
+    },
+    {
+      "numero": 20,
+      "texto": "Escutai a decisão do Senhor acerca de Edom, e seus desígnios contra os homens de Temã: Serão arrastados para a morte, como débeis cordeiros, e seus campos serão devastados;"
+    },
+    {
+      "numero": 21,
+      "texto": "ao estrondo de sua queda, treme a terra e até o mar Vermelho ressoa o seu fragor."
+    },
+    {
+      "numero": 22,
+      "texto": "Qual uma águia, eis que desprende o voo, estendendo suas asas sobre Bosra; e o coração dos guerreiros de Edom, naquele dia, se assemelhará ao coração da mulher em parto."
+    },
+    {
+      "numero": 23,
+      "texto": "Contra Damasco: “Foram confundidos Emat e Arfad porque uma notícia funesta lhes adveio, e de medo desfaleceram: é o mar em tormenta que não se pode acalmar."
+    },
+    {
+      "numero": 24,
+      "texto": "Damasco perdeu a coragem, desejaria fugir. O terror, porém, a paralisa, e a angústia e a dor dela se apoderam, qual mulher em parto."
+    },
+    {
+      "numero": 25,
+      "texto": "Como não foi abandonada a cidade gloriosa, a cidade que fazia minhas delícias?"
+    },
+    {
+      "numero": 26,
+      "texto": "Porquanto, cairão os jovens em suas praças, e seus homens de guerra nesse dia perecerão – oráculo do Senhor dos exércitos."
+    },
+    {
+      "numero": 27,
+      "texto": "Vou lançar fogo nas muralhas de Damasco para devorar os palácios de Ben-Adad”."
+    },
+    {
+      "numero": 28,
+      "texto": "A Cedar e os reinos de Hasor, vencidos por Nabucodonosor, rei da Babilônia. Eis o que diz o Senhor: “Erguei-vos! Atacai Cedar! Aniquilai os filhos do Oriente!",
+      "nota": true
+    },
+    {
+      "numero": 29,
+      "texto": "Sejam-lhes as tendas arrebatadas e os rebanhos! E que se lhes tirem os pavilhões, bagagens e camelos ao grito de: ‘Que o terror se espalhe!’."
+    },
+    {
+      "numero": 30,
+      "texto": "Salvai-vos! Fugi a toda pressa, ocultai-vos em esconderijos, habitantes de Hasor – oráculo do Senhor."
+    },
+    {
+      "numero": 31,
+      "texto": "Erguei-vos! Atacai um povo pacífico que vive em segurança – oráculo do Senhor – e que habita sozinho, sem portas nem ferrolhos."
+    },
+    {
+      "numero": 32,
+      "texto": "Sejam seus camelos a vossa presa e seus rebanhos numerosos o vosso espólio! Espalharei por todos os ventos esses homens de cabelos raspados, e de toda parte lançarei sobre eles a desgraça – oráculo do Senhor."
+    },
+    {
+      "numero": 33,
+      "texto": "Hasor se tornará guarida de chacais, eterna solidão onde ninguém mais habitará, e onde doravante nenhum ser humano permanecerá."
+    },
+    {
+      "numero": 34,
+      "texto": "Palavra do Senhor dirigida ao profeta Jeremias acerca de Elam, no começo do reinado de Sedecias, rei de Judá, nestes termos:",
+      "nota": true
+    },
+    {
+      "numero": 35,
+      "texto": "“Eis o que diz o Senhor dos exércitos: Vou quebrar o arco de Elam, e o melhor de sua força."
+    },
+    {
+      "numero": 36,
+      "texto": "Mandarei vir sobre Elam os quatro ventos, dos quatro cantos do céu. E esses ventos os dispersarei. Não haverá nação onde não cheguem fugitivos de Elam."
+    },
+    {
+      "numero": 37,
+      "texto": "Farei tremer os elamitas diante de seus inimigos, e ante aqueles que tramam contra sua vida; precipitarei calamidades sobre eles: o fogo de minha cólera – oráculo do Senhor – e lançarei sobre eles a espada até que sejam exterminados."
+    },
+    {
+      "numero": 38,
+      "texto": "Colocarei meu trono em Elam, e mandarei matar o rei e os chefes – oráculo do Senhor."
+    },
+    {
+      "numero": 39,
+      "texto": "Com o correr dos tempos, porém, mudarei a sorte de Elam – oráculo do Senhor”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "49:1-6",
+      "texto": "Jeremias profetiza o juízo de Deus contra os amonitas, devido à sua arrogância e idolatria. A queda de Amom simboliza o castigo que vem sobre nações que se afastam de Deus e praticam a injustiça (veja também Ezequiel 25:1-7 e Atos 17:30-31)."
+    },
+    {
+      "ref": "49:7-22",
+      "texto": "O juízo de Deus sobre Edom, através do profeta Jeremias, destaca a vingança de Deus pela violência e orgulho dos edomitas. O castigo de Edom é uma advertência contra a soberba humana e o desrespeito à justiça divina (veja também Obadias 1:1-9 e Tiago 4:6)."
+    },
+    {
+      "ref": "49:23-27",
+      "texto": "A profecia contra Damasco destaca o julgamento de Deus sobre os arameus, simbolizando a destruição das cidades que se opõem à soberania divina. A opressão e a violência atraem o juízo de Deus sobre as nações (veja também Isaías 17:1-3 e Apocalipse 19:15)."
+    },
+    {
+      "ref": "49:28-33",
+      "texto": "A palavra de juízo contra Quedar e Hazor revela o castigo de Deus sobre as tribos nômades que habitaram as regiões do deserto. O julgamento contra elas ilustra a fidelidade de Deus em punir aqueles que causam sofrimento e violência (veja também Isaías 21:16-17 e 2 Coríntios 5:10)."
+    },
+    {
+      "ref": "49:34-39",
+      "texto": "O julgamento contra Elam mostra a soberania de Deus sobre todas as nações. Mesmo os povos que pareciam intocáveis para os judeus serão julgados pelo Senhor, pois Ele governa sobre todos os reinos da terra (veja também Daniel 4:17 e Apocalipse 19:11-16)."
+    }
+  ]
+}

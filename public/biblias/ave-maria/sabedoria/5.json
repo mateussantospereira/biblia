@@ -1,0 +1,132 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sabedoria",
+  "nome": "Sabedoria",
+  "testamento": "AT",
+  "capitulo": 5,
+  "totalVersiculos": 23,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sabedoria/5/",
+  "capturadoEm": "2026-11-15T09:20:06-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Então, com grande confiança, o justo se levantará em face dos que o perseguiram e zombaram dos seus males aqui embaixo."
+    },
+    {
+      "numero": 2,
+      "texto": "Diante de sua vista serão presos de grande temor e tomados de assombro ao vê-lo salvo contra sua expectativa;",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "tocados de arrependimento, dirão entre si: e, gemendo na angústia de sua alma, dirão:"
+    },
+    {
+      "numero": 4,
+      "texto": "“Ei-lo, aquele de quem outrora escarnecemos, e a quem loucamente cobrimos de insultos! Considerávamos sua vida como uma loucura, e sua morte como uma vergonha."
+    },
+    {
+      "numero": 5,
+      "texto": "Como, pois, é ele do número dos filhos de Deus, e como está seu lugar entre os santos?"
+    },
+    {
+      "numero": 6,
+      "texto": "Portanto, nós nos desgarramos para longe da verdade: a luz da justiça não brilhou para nós e o sol não se levantou sobre nós!"
+    },
+    {
+      "numero": 7,
+      "texto": "Nós nos manchamos nas sendas da iniquidade e da perdição, erramos pelos desertos sem caminhos e não conhecemos o caminho do Senhor!"
+    },
+    {
+      "numero": 8,
+      "texto": "O que ganhamos com nosso orgulho, e que nos trouxe a riqueza unida à arrogância?"
+    },
+    {
+      "numero": 9,
+      "texto": "Tudo isso desapareceu como sombra, como notícia que passa;",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "como navio que fende a água agitada, sem que se possa reencontrar o rasto de seu itinerário, nem a esteira de sua quilha nas ondas."
+    },
+    {
+      "numero": 11,
+      "texto": "Como a ave que, atravessando o ar em seu voo, não deixa após si o traço de sua passagem, mas, ferindo o ar com suas penas, fende-o com a impetuosa força do bater de suas asas, atravessa-o e logo nem se nota indício de sua passagem;"
+    },
+    {
+      "numero": 12,
+      "texto": "como quando uma flecha, que é lançada ao alvo, o ar que ela cortou volta imediatamente à sua posição de modo que não se pode distinguir sua trajetória,"
+    },
+    {
+      "numero": 13,
+      "texto": "assim, também nós, apenas nascidos, cessamos de ser, e não podemos mostrar traço algum de virtude: é no mal que nossa vida se consumiu!”."
+    },
+    {
+      "numero": 14,
+      "texto": "Assim a esperança do ímpio é como a poeira levada pelo vento, e como uma leve espuma espalhada pela tempestade; ela se dissipa como o fumo ao vento, e passa como a lembrança do hóspede de um dia.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Mas os justos viverão eternamente; sua recompensa está no Senhor, e o Altíssimo cuidará deles.",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "Por isso, receberão a régia coroa de glória, e o diadema da beleza da mão do Senhor, porque os cobrirá com sua direita, e os protegerá com seu braço."
+    },
+    {
+      "numero": 17,
+      "texto": "Por armadura tomará seu zelo cioso, e armará as criaturas para se vingar de seus inimigos."
+    },
+    {
+      "numero": 18,
+      "texto": "Tomará por couraça a justiça, e por capacete a integridade no julgamento."
+    },
+    {
+      "numero": 19,
+      "texto": "Ele se cobrirá com a santidade, como com um impenetrável escudo,"
+    },
+    {
+      "numero": 20,
+      "texto": "afiará o gume de sua ira para lhe servir de espada, e o mundo se reunirá a ele na luta contra os insensatos."
+    },
+    {
+      "numero": 21,
+      "texto": "Os raios partirão como flechas bem dirigidas, e, como de um arco bem distendido, voarão das nuvens para o alvo;"
+    },
+    {
+      "numero": 22,
+      "texto": "uma balista fará cair uma pesada saraiva de ira; a água do mar se levantará em turbilhão contra eles e os rios os arrastarão impetuosamente."
+    },
+    {
+      "numero": 23,
+      "texto": "O sopro do Todo-poderoso se insurgirá contra eles e os dispersará como um furacão; a iniquidade fará de toda a terra um deserto, e a malícia derribará os tronos dos poderosos!",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "5:1-5",
+      "texto": "Os justos se manifestam com confiança no dia do juízo, enquanto os ímpios são confrontados pela sua incredulidade. A separação entre justos e injustos destaca a importância da vida moral e das consequências eternas das escolhas humanas (veja também Salmo 1:5-6 e Mateus 25:31-46)."
+    },
+    {
+      "ref": "5:6-7",
+      "texto": "Os ímpios reconhecem seu erro e se arrependem, mas é tarde demais. Essa passagem enfatiza a importância da conversão e do arrependimento antes que seja demasiado tarde, lembrando que a misericórdia de Deus é oferecida a todos (veja também Ezequiel 18:30-32 e 2 Coríntios 6:2)."
+    },
+    {
+      "ref": "5:8-10",
+      "texto": "A sabedoria dos justos é glorificada, enquanto os ímpios percebem que sua riqueza e poder foram vãos. Esta revelação final mostra que o valor espiritual é superior ao material, enfatizando a necessidade de buscar a verdadeira sabedoria (veja também Lucas 12:15 e Tiago 4:14)."
+    },
+    {
+      "ref": "5:11-13",
+      "texto": "A visão do juízo revela a queda dos ímpios, e os justos são exaltados. A expectativa de uma recompensa para os justos sublinha a fidelidade de Deus em fazer justiça, sendo um incentivo à perseverança na fé (veja também Romanos 2:6-8 e Apocalipse 22:12)."
+    },
+    {
+      "ref": "5:14-16",
+      "texto": "O capítulo conclui enfatizando a proteção divina sobre os justos, que são considerados a propriedade de Deus. Essa identidade especial ressalta a dignidade e o valor da vida justa diante de Deus (veja também 1 Pedro 2:9 e Mateus 5:14-16)."
+    }
+  ]
+}

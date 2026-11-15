@@ -1,0 +1,104 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "tobias",
+  "nome": "Tobias",
+  "testamento": "AT",
+  "capitulo": 14,
+  "totalVersiculos": 17,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/tobias/14/",
+  "capturadoEm": "2026-11-15T09:14:44-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Tal foi o cântico de Tobit."
+    },
+    {
+      "numero": 2,
+      "texto": "Tobit morreu em paz, na idade de cento e doze anos. Foi sepultado com muita honra em Nínive."
+    },
+    {
+      "numero": 3,
+      "texto": "Tinha sessenta e dois anos quando ficou cego."
+    },
+    {
+      "numero": 4,
+      "texto": "Todo o restante de sua vida se passou na alegria. E a paz de que gozou foi em proporção aos seus progressos no temor a Deus."
+    },
+    {
+      "numero": 5,
+      "texto": "Quando veio a hora de sua morte, chamou à sua presença o seu filho Tobias, com os sete filhos deste e disse-lhes:"
+    },
+    {
+      "numero": 6,
+      "texto": "“Está próxima a ruína de Nínive, porque a palavra de Deus não falha; os nossos irmãos, que foram dispersos para longe da pátria de Israel, voltarão para ela."
+    },
+    {
+      "numero": 7,
+      "texto": "Todo o seu país deserto será repovoado e a casa de Deus, que ali foi queimada, será reconstruída. Todos os homens que temem a Deus voltarão para ela"
+    },
+    {
+      "numero": 8,
+      "texto": "e as nações pagãs abandonarão os seus ídolos e virão habitar em Jerusalém."
+    },
+    {
+      "numero": 9,
+      "texto": "Todos os reis da terra se alegrarão de apresentar suas homenagens ao rei de Israel."
+    },
+    {
+      "numero": 10,
+      "texto": "Ouvi, pois, o vosso pai, meus filhos. Servi fielmente o Senhor e procurai fazer o que lhe é agradável."
+    },
+    {
+      "numero": 11,
+      "texto": "Recomendai aos vossos filhos que pratiquem a justiça, sejam caridosos e esmoleres, que se lembrem de Deus e o bendigam em todo o tempo, fielmente e com todas as suas forças."
+    },
+    {
+      "numero": 12,
+      "texto": "E agora, meus filhos, ouvi-me: não fiqueis aqui; mas, no dia em que tiverdes enterrado vossa mãe junto de mim no mesmo túmulo, ponde-vos logo a caminho para deixar estes lugares;"
+    },
+    {
+      "numero": 13,
+      "texto": "porque eu vejo que a iniquidade desta cidade será a causa de sua queda.”",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Depois da morte de sua mãe, Tobias partiu de Nínive com sua mulher, seus filhos e seus netos e voltou para a casa de seus sogros."
+    },
+    {
+      "numero": 15,
+      "texto": "Encontrou-os em perfeita saúde, numa ditosa velhice. Teve para com eles todas as atenções e fechou-lhes os olhos. Tomou posse de toda a herança da casa de Raguel e viu os filhos de seus filhos até a quinta geração."
+    },
+    {
+      "numero": 16,
+      "texto": "Morreu com alegria, tendo vivido noventa e nove anos no temor ao Senhor e seus filhos o sepultaram."
+    },
+    {
+      "numero": 17,
+      "texto": "Toda a sua parentela e toda a sua descendência perseveraram numa vida íntegra e santo procedimento, de modo que foram amados tanto por Deus como pelos homens e por todos os seus compatriotas."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "14:1-2",
+      "texto": "A conclusão da história de Tobias e Sara, enfatizando o retorno ao lar e a alegria familiar, simboliza a realização das promessas de Deus. Isso reflete a esperança e a bênção da vida em comunidade (veja também Salmo 128:1-4 e Hebreus 10:24)."
+    },
+    {
+      "ref": "14:3-4",
+      "texto": "A instrução de Tobias para que sua família não se esqueça de Deus e da importância da oração sublinha a necessidade de uma vida espiritual ativa e comprometida. A oração é fundamental na vida de fé (veja também 1 Tessalonicenses 5:16-18 e Filipenses 4:6-7)."
+    },
+    {
+      "ref": "14:5-7",
+      "texto": "A ênfase na preservação da lei de Moisés e na prática da justiça destaca a importância da fidelidade às tradições e ensinamentos de Deus. A obediência à Palavra de Deus é essencial para uma vida abençoada (veja também Deuteronômio 6:5-7 e Mateus 5:17-20)."
+    },
+    {
+      "ref": "14:8-9",
+      "texto": "A promessa de que o povo de Israel será restaurado e que a cidade será protegida enfatiza a fidelidade de Deus em cumprir Suas promessas, oferecendo esperança àqueles que se sentem desamparados (veja também Isaías 40:31 e Salmo 46:1-3)."
+    },
+    {
+      "ref": "14:10-11",
+      "texto": "A reflexão sobre o fim da vida de Tobias e seu legado espiritual ressalta a importância de viver uma vida de fé que impacte as gerações futuras. A sabedoria e a experiência são valiosas na transmissão da fé (veja também Salmo 78:4-6 e Provérbios 4:7)."
+    }
+  ]
+}

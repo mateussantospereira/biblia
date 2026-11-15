@@ -1,0 +1,167 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "exodo",
+  "nome": "Êxodo",
+  "testamento": "AT",
+  "capitulo": 23,
+  "totalVersiculos": 33,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/exodo/23/",
+  "capturadoEm": "2026-11-15T09:43:36-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Não admitirás palavra de mentira (contra o próximo) nem cederás a tua mão para dizeres um falso testemunho a favor do ímpio."
+    },
+    {
+      "numero": 2,
+      "texto": "Não seguirás a multidão para fazer o sinal, nem em juízo te unirás ao parecer do maior número, para te desviares da verdade."
+    },
+    {
+      "numero": 3,
+      "texto": "Não terás também compaixão do pobre (até ao ponto de faltares à verdade) em juizo."
+    },
+    {
+      "numero": 4,
+      "texto": "Se encontrares o boi do teu amigo ou o (seu) jumento desgarrado, leva-lhos."
+    },
+    {
+      "numero": 5,
+      "texto": "Se vires o jumento do que te odeia caído debaixo da carga, não passarás adiante, mas ajudá-lo-ás a levantar-se."
+    },
+    {
+      "numero": 6,
+      "texto": "Não torcerás, no julgamento, o direito do pobre."
+    },
+    {
+      "numero": 7,
+      "texto": "Fugirás à mentira. Não farás morrer o inocente nem o justo, porque eu não absolverei um culpável. (ver nota)"
+    },
+    {
+      "numero": 8,
+      "texto": "Não aceitarás presentes, os quais fazem cegar ainda os prudentes, e subvertem as palavras dos justos."
+    },
+    {
+      "numero": 9,
+      "texto": "Não serás molesto ao estrangeiro, porque vós sabeis o que é ser estrangeiro, pois que também fostes estrangeiros na terra do Egipto."
+    },
+    {
+      "numero": 10,
+      "texto": "Durante seis anos semearás a tua terra, e recolherás os seus frutos;"
+    },
+    {
+      "numero": 11,
+      "texto": "mas, no sétimo ano, a deixarás e a farás descansar, para que os pobres do teu povo comam (os frutos espontâneos dela), e os animais comam o que restar (no campo); isto mesmo praticarás com a tua vinha e com o teu olival."
+    },
+    {
+      "numero": 12,
+      "texto": "Trabalharás seis dias; ao sétimo dia descansarás, para que descanse o teu boi e o teu jumento, e (para que) o filho da tua escrava e o estrangeiro tenham algum alívio."
+    },
+    {
+      "numero": 13,
+      "texto": "Observai tudo o que vos tenho dito. Não jurareis pelo nome de deuses estrangeiros, nem (o nome deles) se ouça da vossa boca."
+    },
+    {
+      "numero": 14,
+      "texto": "Celebrareis festas três vezes cada ano em minha honra."
+    },
+    {
+      "numero": 15,
+      "texto": "Observarás a solenidade dos ázimos. Comerás, como eu te mandei, pães ázimos durante sete dias, no mês dos trigos novos, (que foi) quando saíste do Egipto; não aparecerás em minha presença com as mãos vazias."
+    },
+    {
+      "numero": 16,
+      "texto": "(Observarás) a solenidade da ceifa e das primícias do teu trabalho, de tudo o que tiveres semeado no campo, assim como a solenidade do fim do ano, quando tiveres recolhido, todos os teus frutos do campo."
+    },
+    {
+      "numero": 17,
+      "texto": "Três vezes no ano todos os varões comparecerão diante do Senhor teu Deus."
+    },
+    {
+      "numero": 18,
+      "texto": "Não oferecerás o sangue da minha vítima com pão fermentado, nem a gordura (da vítima) da minha solenidade ficará até de manhã."
+    },
+    {
+      "numero": 19,
+      "texto": "Levarás à casa do Senhor teu Deus as primícias dos frutos da tua terra. Não cozerás o cabrito no leite de sua mãe. (ver nota)"
+    },
+    {
+      "numero": 20,
+      "texto": "Eu enviarei o meu anjo, que vá adiante de ti, te guarde pelo caminho e te introduza no lugar que preparei."
+    },
+    {
+      "numero": 21,
+      "texto": "Respeita-o, ouve a sua voz e vê que não o desprezes, porque ele não te perdoará, se pecares, e o meu nome está nele. (ver nota)"
+    },
+    {
+      "numero": 22,
+      "texto": "Se ouvires a sua voz, e fizeres tudo o que te digo, eu serei inimigo dos teus inimigos e afligirei os que te afligem;"
+    },
+    {
+      "numero": 23,
+      "texto": "O meu anjo caminhará adiante de ti, e te introduzirá na terra dos Amorreus, dos Heteus, dos Ferezeus, dos Cananeus, dos Heveus e dos Jebuseus, os quais eu exterminarei."
+    },
+    {
+      "numero": 24,
+      "texto": "Não adorarás os seus deuses nem os servirás; não farás o que eles fazem, mas destruí-los-ás, e quebrarás as suas estátuas."
+    },
+    {
+      "numero": 25,
+      "texto": "Servireis ao Senhor vosso Deus, para que eu abençoe o teu pão e a tua água, e afaste de ti a enfermidade."
+    },
+    {
+      "numero": 26,
+      "texto": "Não haverá na tua terra mulher infecunda nem estéril: eu encherei o número dos teus dias. (ver nota)"
+    },
+    {
+      "numero": 27,
+      "texto": "Enviarei o meu terror adiante de ti, exterminarei todo o povo, em cujas terras entrares e farei que todos os teus inimigos voltem as costas diante de ti."
+    },
+    {
+      "numero": 28,
+      "texto": "Mandarei Vespas diante de ti que porão em fuga o Heveu, o Cananeu e o Heteu, antes da tua chegada."
+    },
+    {
+      "numero": 29,
+      "texto": "Não os expulsarei da tua face em um (só) ano, para que a terra não fique reduzida a um deserto, e as feras não se multipliquem contra ti."
+    },
+    {
+      "numero": 30,
+      "texto": "Expulsá-los-ei pouco a pouco da tua vista, até que tu cresças e tomes posse do país."
+    },
+    {
+      "numero": 31,
+      "texto": "Fixarei os teus limites desde o mar Vermelho até ao mar dos Filisteus, e desde o deserto até ao rio: entregarei nas tuas mãos os habitantes do país e os expulsarei da tua vista."
+    },
+    {
+      "numero": 32,
+      "texto": "Não farás aliança com eles, nem com os seus deuses."
+    },
+    {
+      "numero": 33,
+      "texto": "Não habitem na tua terra, para que te não façam pecar contra mim, servindo os seus deuses: o que certamente seria para ti causa de queda."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "23:1-3",
+      "texto": "Deus instrui sobre justiça e verdade, proibindo falsos testemunhos e parcialidade. O cuidado com a integridade em julgamentos é um princípio fundamental para uma sociedade justa e equitativa (veja também Provérbios 12:22 e Lucas 6:31)."
+    },
+    {
+      "ref": "23:4-5",
+      "texto": "Deus ordena o cuidado até mesmo com os inimigos, exemplificado pelo retorno de animais perdidos. Isso destaca a compaixão e o amor ao próximo, independentemente de relações pessoais (veja também Provérbios 25:21-22 e Mateus 5:44)."
+    },
+    {
+      "ref": "23:10-11",
+      "texto": "As leis sobre o ano sabático refletem a justiça social e a provisão para os pobres. Essa prática demonstra a responsabilidade com a criação e com os necessitados (veja também Levítico 25:4-5 e Deuteronômio 15:1-2)."
+    },
+    {
+      "ref": "23:14-17",
+      "texto": "As três festas anuais, incluindo a Páscoa, Pentecostes e Tabernáculos, são estabelecidas para que o povo de Israel celebre a libertação e as bênçãos de Deus. A adoração coletiva é uma parte central da vida espiritual de Israel (veja também Deuteronômio 16:16-17 e Levítico 23:4-44)."
+    },
+    {
+      "ref": "23:20-23",
+      "texto": "Deus promete enviar um anjo para guiar e proteger Israel até a Terra Prometida. Esse anjo representa a presença de Deus e a garantia de que Ele está sempre com Seu povo (veja também Êxodo 14:19 e Hebreus 1:14)."
+    }
+  ]
+}

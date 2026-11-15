@@ -1,0 +1,75 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 140,
+  "totalVersiculos": 10,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/140/",
+  "capturadoEm": "2026-11-15T09:54:45-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Salmo, De Davide. Senhor, a ti clamo; socorre-me depressa; atende à minha voz, quando clamo a ti."
+    },
+    {
+      "numero": 2,
+      "texto": "Suba directa a ti a minha oração, como incenso, seja a elevação das minhas mãos (tão agradável) como o sacrifício da tarde."
+    },
+    {
+      "numero": 3,
+      "texto": "Põe, Senhor, uma guarda à minha boca, sentinela à porta dos meus lábios."
+    },
+    {
+      "numero": 4,
+      "texto": "Não deixes inclinar o meu coração para coisa má, para cometer crimes; nem com os homens que cometem a iniquidade, coma eu jamais dos seus lautos manjares."
+    },
+    {
+      "numero": 5,
+      "texto": "Bata-me o justo: isso é piedade; repreenda-me: é perfume para a cabeça, o qual a minha cabeça não recusará; antes hei-de orar sempre, sob os seus golpes."
+    },
+    {
+      "numero": 6,
+      "texto": "Os seus príncipes caíram junto do rochedo, e ouviram quão suaves eram as minhas palavras. (ver nota)"
+    },
+    {
+      "numero": 7,
+      "texto": "Assim como a terra quando é sulcada e fendida, assim foram dispersos os seus ossos junto da sepultura."
+    },
+    {
+      "numero": 8,
+      "texto": "Para ti pois, Senhor, se volvem os meus olhos; a ti me acolho: não permitas que se perca a minha alma."
+    },
+    {
+      "numero": 9,
+      "texto": "Guarda-me do laço, que armaram contra mim, e das emboscadas dos que praticam a iniquidade."
+    },
+    {
+      "numero": 10,
+      "texto": "Caiam todos juntos, em suas próprias redes, os ímpios, enquanto eu escape incólume."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "140:1-2",
+      "texto": "O salmista clama a Deus por livramento de homens violentos e maldosos. Ele reconhece a ameaça de seus inimigos e busca proteção em Deus, a quem vê como seu defensor (veja também Salmo 18:48 e 2 Tessalonicenses 3:2-3)."
+    },
+    {
+      "ref": "140:3-5",
+      "texto": "O salmista descreve seus inimigos como serpentes, cujo veneno está nas palavras. Essa metáfora ressalta o poder destrutivo da fala maliciosa e enganosamente planejada (veja também Tiago 3:6-8 e Salmo 58:4)."
+    },
+    {
+      "ref": "140:6-8",
+      "texto": "O salmista clama ao Senhor como seu Deus, confiando que Ele ouvirá sua súplica e protegerá sua cabeça no dia da batalha. Isso reflete a confiança do salmista na intervenção divina contra a violência (veja também Salmo 18:2 e Efésios 6:17)."
+    },
+    {
+      "ref": "140:9-11",
+      "texto": "Ele pede a Deus que frustre os planos dos ímpios, deixando que sua maldade recaia sobre eles. Esse pedido de justiça divina é comum nos salmos de lamento (veja também Salmo 7:15-16 e Provérbios 26:27)."
+    },
+    {
+      "ref": "140:12-13",
+      "texto": "O salmista conclui expressando confiança na justiça de Deus, afirmando que Ele defenderá os pobres e os necessitados. O salmo termina com uma visão de esperança para os justos, que habitarão na presença de Deus (veja também Salmo 9:18 e Mateus 5:3)."
+    }
+  ]
+}

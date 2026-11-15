@@ -1,0 +1,171 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "numeros",
+  "nome": "Números",
+  "testamento": "AT",
+  "capitulo": 2,
+  "totalVersiculos": 34,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/numeros/2/",
+  "capturadoEm": "2026-11-15T09:09:10-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Senhor disse a Moisés:"
+    },
+    {
+      "numero": 2,
+      "texto": "“Os israelitas acamparão cada um perto de sua bandeira, sob as insígnias de suas casas patriarcais; acamparão em volta e defronte da tenda de reunião."
+    },
+    {
+      "numero": 3,
+      "texto": "Ao oriente, Judá assentará as suas tendas com sua bandeira e suas tropas. O príncipe dos filhos de Judá é Naasson, filho de Abinadab;"
+    },
+    {
+      "numero": 4,
+      "texto": "e a divisão do seu exército, segundo o recenseamento, é de setenta e quatro mil e seiscentos homens."
+    },
+    {
+      "numero": 5,
+      "texto": "Junto dele acampará a tribo de Issacar. O príncipe dos filhos de Issacar é Natanael, filho de Suar;"
+    },
+    {
+      "numero": 6,
+      "texto": "e sua divisão, segundo o recenseamento, é de cinquenta e quatro mil e quatrocentos homens."
+    },
+    {
+      "numero": 7,
+      "texto": "Em seguida, a tribo de Zabulon. O príncipe dos filhos de Zabulon é Eliab, filho de Helon,"
+    },
+    {
+      "numero": 8,
+      "texto": "e sua divisão é, segundo o recenseamento, de cinquenta e sete mil e quatrocentos homens."
+    },
+    {
+      "numero": 9,
+      "texto": "O total para o acampamento de Judá, segundo o recenseamento, se eleva a cento e oitenta e seis mil e quatrocentos homens, segundo suas divisões. São estes os primeiros que se porão em marcha."
+    },
+    {
+      "numero": 10,
+      "texto": "Para o lado do meio-dia estará a bandeira do acampamento de Rúben, com suas divisões; o príncipe dos rubenitas é Elisur, filho de Sedeur,"
+    },
+    {
+      "numero": 11,
+      "texto": "e sua divisão, segundo o recenseamento, é de quarenta e seis mil e quinhentos homens."
+    },
+    {
+      "numero": 12,
+      "texto": "Junto dele acampará a tribo de Simeão; o príncipe dos simeonitas é Salamiel, filho de Surisadai,"
+    },
+    {
+      "numero": 13,
+      "texto": "e sua divisão, segundo o recenseamento, é de cinquenta e nove mil e trezentos homens."
+    },
+    {
+      "numero": 14,
+      "texto": "Em seguida, a tribo de Gad; o príncipe dos gaditas é Eliasaf, filho de Reuel,"
+    },
+    {
+      "numero": 15,
+      "texto": "e sua divisão é, segundo o recenseamento, de quarenta e cinco mil seiscentos e cinquenta homens."
+    },
+    {
+      "numero": 16,
+      "texto": "O total dos homens recenseados para o acampamento de Rúben se eleva a cento e cinquenta e um mil quatrocentos e cinquenta homens, segundo suas divisões. Esses serão os segundos a se porem em marcha."
+    },
+    {
+      "numero": 17,
+      "texto": "Em seguida, partirá a tenda de reunião com o acampamento dos levitas, no meio dos outros acampamentos. Eles marcharão na ordem em que tiverem acampado, cada um no seu lugar, segundo a sua bandeira."
+    },
+    {
+      "numero": 18,
+      "texto": "Para o lado do ocidente estará a bandeira de Efraim com suas divisões; o príncipe dos efraimitas é Elisama, filho de Amiud,"
+    },
+    {
+      "numero": 19,
+      "texto": "e sua divisão, segundo o recenseamento, é de quarenta mil e quinhentos homens."
+    },
+    {
+      "numero": 20,
+      "texto": "Junto dele acampará a tribo de Manassés; o príncipe dos filhos de Manassés é Gamaliel, filho de Fadassur,"
+    },
+    {
+      "numero": 21,
+      "texto": "e sua divisão, segundo o recenseamento, é de trinta e dois mil e duzentos homens."
+    },
+    {
+      "numero": 22,
+      "texto": "Em seguida, a tribo de Benjamim; o príncipe dos filhos de Benjamim é Abidã, filho de Gedeão,"
+    },
+    {
+      "numero": 23,
+      "texto": "e sua divisão, segundo o recenseamento, é de trinta e cinco mil e quatrocentos homens."
+    },
+    {
+      "numero": 24,
+      "texto": "O total dos homens recenseados para o acampamento de Efraim é de cento e oito mil e cem homens, segundo suas divisões. Serão os terceiros a partir."
+    },
+    {
+      "numero": 25,
+      "texto": "Ao norte se encontrará a bandeira do acampamento de Dã com suas divisões; o príncipe dos danitas é Aiezer, filho de Amisadai,"
+    },
+    {
+      "numero": 26,
+      "texto": "e sua divisão, segundo o recenseamento, é de sessenta e dois mil e setecentos homens."
+    },
+    {
+      "numero": 27,
+      "texto": "Junto dele acampará a tribo de Aser; o príncipe dos filhos de Aser é Fegiel, filho de Ocrã,"
+    },
+    {
+      "numero": 28,
+      "texto": "e sua divisão, segundo o recenseamento, é de quarenta e um mil e quinhentos homens."
+    },
+    {
+      "numero": 29,
+      "texto": "Em seguida, a tribo de Neftali; o príncipe dos neftalitas é Aíra, filho de Enã,"
+    },
+    {
+      "numero": 30,
+      "texto": "e sua divisão, segundo o recenseamento, é de cinquenta e tres mil e quatrocentos homens."
+    },
+    {
+      "numero": 31,
+      "texto": "O total para o acampamento de Dã, segundo o recenseamento, se eleva a cento e cinquenta e sete mil e seiscentos homens. Esses se porão em marcha em último lugar, segundo suas bandeiras”."
+    },
+    {
+      "numero": 32,
+      "texto": "Esses são os israelitas recenseados segundo suas casas patriarcais. O total de todos os homens recenseados, repartidos em diversos acampamentos, segundo suas divisões, é de seiscentos e tres mil quinhentos e cinquenta homens."
+    },
+    {
+      "numero": 33,
+      "texto": "Os levitas não foram contados no recenseamento com os israelitas, segundo a ordem que o Senhor tinha dado a Moisés."
+    },
+    {
+      "numero": 34,
+      "texto": "Os israelitas fizeram tudo o que o Senhor tinha ordenado a Moisés. Acamparam segundo suas bandeiras, e puseram-se em marcha cada um segundo a sua família e conforme a sua casa patriarcal."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "2:1-2",
+      "texto": "Deus ordena que o povo de Israel se acampe ao redor do Tabernáculo, cada tribo em seu lugar designado. O acampamento organizado simboliza a centralidade de Deus na vida do povo e o papel do Tabernáculo como lugar de encontro com o divino (veja também Êxodo 25:8-9 e João 1:14)."
+    },
+    {
+      "ref": "2:3-9",
+      "texto": "As tribos de Judá, Issacar e Zebulom são organizadas ao leste, com Judá liderando. Isso reflete o papel proeminente de Judá, de onde viria o Messias, destacando a bênção de liderança dada a essa tribo (veja também Gênesis 49:10 e Mateus 1:2-3)."
+    },
+    {
+      "ref": "2:10-16",
+      "texto": "As tribos de Rúben, Simeão e Gade acampam ao sul. Cada grupo tem seu lugar e sua função, destacando a ordem e a organização que Deus estabelece para Seu povo (veja também 1 Coríntios 14:40 e Efésios 4:11-13)."
+    },
+    {
+      "ref": "2:17-24",
+      "texto": "Os levitas acampam ao redor do Tabernáculo, no centro do acampamento, destacando sua responsabilidade de proteger e cuidar das coisas sagradas. Isso reflete a importância da santidade e do serviço a Deus (veja também Números 3:5-9 e Deuteronômio 10:8)."
+    },
+    {
+      "ref": "2:25-34",
+      "texto": "As tribos de Dã, Aser e Naftali acampam ao norte. A organização das tribos ao redor do Tabernáculo reflete a unidade do povo de Deus e a importância da obediência às Suas instruções (veja também Salmo 133:1-3 e Efésios 4:3)."
+    }
+  ]
+}

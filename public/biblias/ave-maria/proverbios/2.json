@@ -1,0 +1,125 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "proverbios",
+  "nome": "Provérbios",
+  "testamento": "AT",
+  "capitulo": 2,
+  "totalVersiculos": 22,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/proverbios/2/",
+  "capturadoEm": "2026-11-15T09:19:11-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Meu filho, se acolheres minhas palavras e guardares com carinho meus preceitos,"
+    },
+    {
+      "numero": 2,
+      "texto": "ouvindo com atenção a sabedoria e inclinando teu coração para o entendimento;"
+    },
+    {
+      "numero": 3,
+      "texto": "se tu apelares à penetração, se invocares a inteligência,"
+    },
+    {
+      "numero": 4,
+      "texto": "buscando-a como se procura a prata; se a pesquisares como um tesouro,"
+    },
+    {
+      "numero": 5,
+      "texto": "então compreenderás o temor do Senhor, e descobrirás o conhecimento de Deus,"
+    },
+    {
+      "numero": 6,
+      "texto": "porque o Senhor é quem dá a sabedoria, e de sua boca é que procedem a ciência e a prudência."
+    },
+    {
+      "numero": 7,
+      "texto": "Ele reserva para os retos a salvação e é um escudo para os que caminham com integridade;"
+    },
+    {
+      "numero": 8,
+      "texto": "protege as sendas da retidão e guarda o caminho de seus fiéis.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Então, compreenderás a justiça e a equidade, a retidão e todos os caminhos que conduzem ao bem."
+    },
+    {
+      "numero": 10,
+      "texto": "Quando a sabedoria penetrar em teu coração e o saber deleitar a tua alma,"
+    },
+    {
+      "numero": 11,
+      "texto": "a reflexão velará sobre ti, ela te amparará a razão,"
+    },
+    {
+      "numero": 12,
+      "texto": "para preservar-te do mau caminho, do homem de conversas tortuosas,"
+    },
+    {
+      "numero": 13,
+      "texto": "que abandona o caminho reto para percorrer caminhos tenebrosos;"
+    },
+    {
+      "numero": 14,
+      "texto": "que se compraz em praticar o mal e se alegra com a maldade;"
+    },
+    {
+      "numero": 15,
+      "texto": "do homem cujos caminhos são tortuosos e os trilhos sinuosos."
+    },
+    {
+      "numero": 16,
+      "texto": "Ela te preservará da mulher alheia, da estranha que emprega palavras lisonjeiras,"
+    },
+    {
+      "numero": 17,
+      "texto": "que abandona o esposo de sua juventude e se esquece da aliança de seu Deus."
+    },
+    {
+      "numero": 18,
+      "texto": "Sua casa declina para a morte, seu caminho leva aos lugares sombrios;",
+      "nota": true
+    },
+    {
+      "numero": 19,
+      "texto": "não retornam os que a buscam, nem encontram as veredas da vida."
+    },
+    {
+      "numero": 20,
+      "texto": "Assim tu caminharás pela estrada dos bons e seguirás as pegadas dos justos,"
+    },
+    {
+      "numero": 21,
+      "texto": "porque os homens retos habitarão a terra, e os homens íntegros nela permanecerão,"
+    },
+    {
+      "numero": 22,
+      "texto": "enquanto os maus serão arrancados da terra e os pérfidos dela serão exterminados."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "2:1-5",
+      "texto": "A busca pela sabedoria deve ser intensa, comparada à busca por prata e tesouros escondidos. Essa dedicação leva ao \"temor do Senhor\" e ao conhecimento de Deus, elementos centrais da verdadeira sabedoria (veja também Tiago 3:17 e Isaías 33:6)."
+    },
+    {
+      "ref": "2:6-8",
+      "texto": "Deus é a fonte de toda sabedoria, e Ele protege os justos, orientando e guardando aqueles que seguem Suas palavras. A sabedoria de Deus é um escudo que traz segurança (veja também Salmo 84:11 e Tiago 1:5)."
+    },
+    {
+      "ref": "2:9-11",
+      "texto": "Quando buscamos sabedoria, ganhamos entendimento sobre justiça, retidão e integridade. Isso nos ajuda a tomar decisões sábias e a evitar caminhos destrutivos (veja também Salmo 119:9 e Filipenses 1:9-11)."
+    },
+    {
+      "ref": "2:12-15",
+      "texto": "A sabedoria nos livra dos caminhos dos perversos, cujos caminhos são tortuosos e cheios de maldade. Ela nos mantém afastados daqueles que se afastam de Deus (veja também Salmo 1:1-6 e Romanos 16:17-18)."
+    },
+    {
+      "ref": "2:16-22",
+      "texto": "A sabedoria também protege contra a sedução do adultério e da imoralidade. Aqueles que seguem a sabedoria habitarão na terra, enquanto os que escolhem o pecado serão arrancados (veja também Mateus 5:28 e 1 Coríntios 6:18)."
+    }
+  ]
+}

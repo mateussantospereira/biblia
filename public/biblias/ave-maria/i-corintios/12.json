@@ -1,0 +1,158 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-corintios",
+  "nome": "I Coríntios",
+  "testamento": "NT",
+  "capitulo": 12,
+  "totalVersiculos": 31,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-corintios/12/",
+  "capturadoEm": "2026-11-15T09:28:04-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "A respeito dos dons espirituais, irmãos, não quero que vivais na ignorância.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Sabeis que, quando éreis pagãos, vos deixáveis levar, conforme vossas tendências, aos ídolos mudos."
+    },
+    {
+      "numero": 3,
+      "texto": "Por isso, eu vos declaro: ninguém, falando sob a ação divina, pode dizer: “Jesus seja maldito”; e ninguém pode dizer: “Jesus é o Senhor”, senão sob a ação do Espírito Santo."
+    },
+    {
+      "numero": 4,
+      "texto": "Há diversidade de dons, mas um só Espírito."
+    },
+    {
+      "numero": 5,
+      "texto": "Os ministérios são diversos, mas um só é o Senhor."
+    },
+    {
+      "numero": 6,
+      "texto": "Há também diversas operações, mas é o mesmo Deus que opera tudo em todos."
+    },
+    {
+      "numero": 7,
+      "texto": "A cada um é dada a manifestação do Espírito para proveito comum."
+    },
+    {
+      "numero": 8,
+      "texto": "A um é dada pelo Espírito uma palavra de sabedoria; a outro, uma palavra de ciência, por esse mesmo Espírito;"
+    },
+    {
+      "numero": 9,
+      "texto": "a outro, a fé, pelo mesmo Espírito; a outro, a graça de curar as doenças, no mesmo Espírito;"
+    },
+    {
+      "numero": 10,
+      "texto": "a outro, o dom de milagres; a outro, a profecia; a outro, o discernimento dos espíritos; a outro, a variedade de línguas; a outro, por fim, a interpretação das línguas.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Mas um e o mesmo Espírito distribui todos esses dons, repartindo a cada um como lhe apraz."
+    },
+    {
+      "numero": 12,
+      "texto": "Porque, como o corpo é um todo com muitos membros, e todos os membros do corpo, embora muitos, formam um só corpo, assim também é Cristo."
+    },
+    {
+      "numero": 13,
+      "texto": "Em um só Espírito fomos batizados todos nós, para formar um só corpo, judeus ou gregos, escravos ou livres; e todos fomos impregnados do mesmo Espírito."
+    },
+    {
+      "numero": 14,
+      "texto": "Assim, o corpo não consiste em um só membro, mas em muitos."
+    },
+    {
+      "numero": 15,
+      "texto": "Se o pé dissesse: “Eu não sou a mão; por isso, não sou do corpo”, acaso deixaria ele de ser do corpo?"
+    },
+    {
+      "numero": 16,
+      "texto": "E se a orelha dissesse: “Eu não sou o olho; por isso, não sou do corpo”, deixaria ela de ser do corpo?"
+    },
+    {
+      "numero": 17,
+      "texto": "Se o corpo todo fosse olho, onde estaria o ouvido? Se fosse todo ouvido, onde estaria o olfato?"
+    },
+    {
+      "numero": 18,
+      "texto": "Mas Deus dispôs no corpo cada um dos membros como lhe aprouve."
+    },
+    {
+      "numero": 19,
+      "texto": "Se todos fossem um só membro, onde estaria o corpo?"
+    },
+    {
+      "numero": 20,
+      "texto": "Há, pois, muitos membros, mas um só corpo."
+    },
+    {
+      "numero": 21,
+      "texto": "O olho não pode dizer à mão: “Eu não preciso de ti”; nem a cabeça aos pés: “Não necessito de vós”."
+    },
+    {
+      "numero": 22,
+      "texto": "Antes, pelo contrário, os membros do corpo que parecem os mais fracos são os mais necessários."
+    },
+    {
+      "numero": 23,
+      "texto": "E os membros do corpo que temos por menos honrosos, a esses cobrimos com mais decoro. Os que em nós são menos decentes, recatamo-los com maior empenho,"
+    },
+    {
+      "numero": 24,
+      "texto": "ao passo que os membros decentes não reclamam tal cuidado. Deus dispôs o corpo de tal modo que deu maior honra aos membros que não a têm,"
+    },
+    {
+      "numero": 25,
+      "texto": "para que não haja dissensões no corpo e que os membros tenham o mesmo cuidado uns para com os outros."
+    },
+    {
+      "numero": 26,
+      "texto": "Se um membro sofre, todos os membros padecem com ele; e se um membro é tratado com carinho, todos os outros se congratulam por ele."
+    },
+    {
+      "numero": 27,
+      "texto": "Ora, vós sois o corpo de Cristo e cada um, de sua parte, é um dos seus membros."
+    },
+    {
+      "numero": 28,
+      "texto": "Na Igreja, Deus constituiu primeiramente os apóstolos, em segundo lugar os profetas, em terceiro lugar os doutores, depois os que têm o dom dos milagres, o dom de curar, de socorrer, de governar, de falar diversas línguas.",
+      "nota": true
+    },
+    {
+      "numero": 29,
+      "texto": "São todos apóstolos? São todos profetas? São todos doutores?"
+    },
+    {
+      "numero": 30,
+      "texto": "Fazem todos milagres? Têm todos a graça de curar? Falam todos em diversas línguas? Interpretam todos?"
+    },
+    {
+      "numero": 31,
+      "texto": "Aspirai aos dons superiores. E agora, ainda vou indicar-vos o caminho mais excelente de todos."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "12:4-11",
+      "texto": "Paulo descreve os dons espirituais, destacando a diversidade e a unidade no corpo de Cristo. Cada crente recebe dons específicos para edificação da Igreja, sob a direção do Espírito Santo (veja também Romanos 12:6-8 e Efésios 4:11-12)."
+    },
+    {
+      "ref": "12:12-14",
+      "texto": "A metáfora do corpo ilustra a importância de cada membro na Igreja, independentemente de sua função. A diversidade é necessária para o funcionamento harmonioso do corpo de Cristo (veja também Efésios 4:4-6 e Romanos 12:5)."
+    },
+    {
+      "ref": "12:27-31",
+      "texto": "Paulo ensina que a Igreja é o corpo de Cristo, onde cada membro tem um papel importante. Ele exorta os crentes a buscar os dons espirituais que edificam a Igreja, especialmente o dom do amor (veja também Romanos 12:4-5 e 1 Coríntios 13:1-3)."
+    },
+    {
+      "ref": "12:7",
+      "texto": "O dom do Espírito é dado para o bem comum, não para exibição pessoal. Os dons espirituais devem ser usados para edificar os outros, refletindo o caráter de Cristo (veja também 1 Pedro 4:10 e Efésios 4:16)."
+    }
+  ]
+}

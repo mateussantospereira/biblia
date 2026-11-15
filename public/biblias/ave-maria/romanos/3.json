@@ -1,0 +1,155 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "romanos",
+  "nome": "Romanos",
+  "testamento": "NT",
+  "capitulo": 3,
+  "totalVersiculos": 31,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/romanos/3/",
+  "capturadoEm": "2026-11-15T09:27:38-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Em que, então, se avantaja o judeu? Ou qual é a utilidade da circuncisão?"
+    },
+    {
+      "numero": 2,
+      "texto": "Muita, em todos os aspectos. Principalmente porque lhes foram confiados os oráculos de Deus."
+    },
+    {
+      "numero": 3,
+      "texto": "Mas então! Se alguns deles não foram fiéis, acaso a sua infidelidade destruirá a fidelidade de Deus?"
+    },
+    {
+      "numero": 4,
+      "texto": "De modo algum. Porque Deus há de ser reconhecido como veraz, e todo homem como mentiroso, segundo está escrito: Assim, serás reconhecido justo nas tuas palavras e vencerás, quando julgares (Sl 50,6).",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Portanto, se a nossa injustiça realça a justiça de Deus, que diremos então? Para falar como os homens: não é injusto Deus quando descarrega a sua cólera?"
+    },
+    {
+      "numero": 6,
+      "texto": "Certo que não! De outra maneira, como julgaria Deus o mundo?"
+    },
+    {
+      "numero": 7,
+      "texto": "Mas, se a verdade de Deus brilha ainda mais para a sua glória por minha mentira, por que serei eu ainda julgado pecador?"
+    },
+    {
+      "numero": 8,
+      "texto": "Então, por que não faríamos o mal para que dele venha o bem, expressão que os caluniadores, falsamente, nos atribuem? É justo que estes tais sejam condenados."
+    },
+    {
+      "numero": 9,
+      "texto": "E então? Avantajamo-nos a eles? De maneira alguma. Pois já demonstramos que judeus e gregos estão todos sob o domínio do pecado, como está escrito:"
+    },
+    {
+      "numero": 10,
+      "texto": "Não há nenhum justo, não há sequer um."
+    },
+    {
+      "numero": 11,
+      "texto": "Não há um só que tenha inteligência, um só que busque a Deus."
+    },
+    {
+      "numero": 12,
+      "texto": "Extraviaram-se todos e todos se perverteram. Não há quem faça o bem, não há sequer um (Sl 13,lss)."
+    },
+    {
+      "numero": 13,
+      "texto": "A sua garganta é um sepulcro aberto; com as suas línguas enganam; veneno de áspide está debaixo dos seus lábios (Sl 5,10; 139,4)."
+    },
+    {
+      "numero": 14,
+      "texto": "A sua boca está cheia de maldição e amargor (Sl 9,28)."
+    },
+    {
+      "numero": 15,
+      "texto": "Os seus pés são velozes para derramar sangue."
+    },
+    {
+      "numero": 16,
+      "texto": "Há destruição e ruína nos seus caminhos,"
+    },
+    {
+      "numero": 17,
+      "texto": "e não conhecem o caminho da paz (Is 59,7s)."
+    },
+    {
+      "numero": 18,
+      "texto": "Não há temor a Deus diante dos seus olhos (Sl 35,2)."
+    },
+    {
+      "numero": 19,
+      "texto": "Ora, sabemos que tudo o que diz a lei, di-lo aos que estão sujeitos à Lei, para que toda boca fique fechada e que o mundo inteiro seja reconhecido culpado diante de Deus."
+    },
+    {
+      "numero": 20,
+      "texto": "Porquanto pela observância da Lei nenhum homem será justificado diante dele, porque a Lei se limita a dar o conhecimento do pecado."
+    },
+    {
+      "numero": 21,
+      "texto": "Mas, agora, sem o concurso da lei, manifestou-se a justiça de Deus, atestada pela Lei e pelos profetas."
+    },
+    {
+      "numero": 22,
+      "texto": "Esta é a justiça de Deus pela fé em Jesus Cristo, para todos os fiéis (pois não há distinção;"
+    },
+    {
+      "numero": 23,
+      "texto": "com efeito, todos pecaram e todos estão privados da glória de Deus),"
+    },
+    {
+      "numero": 24,
+      "texto": "e são justificados gratuitamente por sua graça; tal é a obra da redenção, realizada em Jesus Cristo."
+    },
+    {
+      "numero": 25,
+      "texto": "Deus o destinou para ser, pelo seu sangue, vítima de propiciação mediante a fé. Assim, ele manifesta a sua justiça; porque no tempo de sua paciência, ele havia deixado sem castigo os pecados anteriores.",
+      "nota": true
+    },
+    {
+      "numero": 26,
+      "texto": "Assim, digo eu, ele manifesta a sua justiça no tempo presente, exercendo a justiça e justificando aquele que tem fé em Jesus."
+    },
+    {
+      "numero": 27,
+      "texto": "Onde está, portanto, o motivo de se gloriar? Foi eliminado. Por qual Lei? Pela das obras? Não, mas pela Lei da fé.",
+      "nota": true
+    },
+    {
+      "numero": 28,
+      "texto": "Porque julgamos que o homem é justificado pela fé, sem as observâncias da lei."
+    },
+    {
+      "numero": 29,
+      "texto": "Ou Deus só o é dos judeus? Não é também Deus dos pagãos? Sim, ele o é também dos pagãos.",
+      "nota": true
+    },
+    {
+      "numero": 30,
+      "texto": "Porque não há mais que um só Deus, o qual justificará pela fé os circuncisos e, também pela fé, os incircuncisos."
+    },
+    {
+      "numero": 31,
+      "texto": "Destruímos então a Lei pela fé? De modo algum. Pelo contrário, damos-lhe toda a sua força."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:9-18",
+      "texto": "Paulo conclui que todos, judeus e gentios, estão debaixo do pecado. Ele cita vários salmos para mostrar a universalidade do pecado e a necessidade de redenção (veja também Salmos 14:1-3 e Eclesiastes 7:20)."
+    },
+    {
+      "ref": "3:21-26",
+      "texto": "A justiça de Deus é revelada em Cristo, sendo a redenção disponível para todos, pela fé. A justificação pela fé é central para o evangelho e destaca a obra salvadora de Jesus (veja também Filipenses 3:9 e Tito 3:4-7)."
+    },
+    {
+      "ref": "3:27-31",
+      "texto": "Paulo afirma que a justificação não depende das obras da lei, mas da fé. Ele defende a universalidade da salvação e o lugar da fé na justificação (veja também Gálatas 2:16 e Efésios 2:8-9)."
+    }
+  ]
+}

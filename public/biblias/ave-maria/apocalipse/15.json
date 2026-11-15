@@ -1,0 +1,57 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "apocalipse",
+  "nome": "Apocalipse",
+  "testamento": "NT",
+  "capitulo": 15,
+  "totalVersiculos": 8,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/apocalipse/15/",
+  "capturadoEm": "2026-11-15T09:29:54-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Vi ainda, no céu, outro sinal, grande e maravilhoso: sete Anjos que tinham os sete últimos flagelos, porque por eles é que se deve consumar a ira de Deus."
+    },
+    {
+      "numero": 2,
+      "texto": "Vi também como que um mar transparente, irisado de fogo, e os vencedores, que haviam escapado à Fera, à sua imagem e ao número do seu nome, conservavam-se de pé sobre esse mar com as cítaras de Deus.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Cantavam o cântico de Moisés, o servo de Deus, e o cântico do Cordeiro, dizendo: “Grandes e admiráveis são as tuas obras, Senhor Deus Dominador. Justos e verdadeiros são os teus caminhos, ó Rei das nações!",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Quem não temerá, Senhor, e não glorificará o teu nome? Só tu és santo e todas as nações virão prostrar-se diante de ti, porque se tornou manifesta a retidão dos teus juízos”."
+    },
+    {
+      "numero": 5,
+      "texto": "Depois disso, eu vi abrir-se no céu o templo que encerra o Tabernáculo do Testemunho."
+    },
+    {
+      "numero": 6,
+      "texto": "Os sete Anjos que tinham os sete flagelos saíram do templo, vestidos de linho puro e resplandecente, cingidos ao peito com cintos de ouro."
+    },
+    {
+      "numero": 7,
+      "texto": "Um dos quatro Animais deu-lhes então sete taças de ouro, cheias da ira de Deus que vive pelos séculos dos séculos."
+    },
+    {
+      "numero": 8,
+      "texto": "Encheu-se o templo de fumaça provinda da glória de Deus e do seu poder. E ninguém podia entrar, enquanto não se consumassem os sete flagelos dos sete Anjos."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "15:1-4",
+      "texto": "A visão do céu aberto e os cânticos dos vitoriosos refletem a adoração ao poder de Deus e a vitória final sobre o mal. Esses cânticos representam a conclusão da missão divina (veja também Êxodo 15:1-18 e Apocalipse 5:9-10)."
+    },
+    {
+      "ref": "15:5-8",
+      "texto": "As sete taças de Deus, que simbolizam os juízos finais, são preparadas para ser derramadas sobre a terra. Esse evento mostra a plena execução da justiça divina (veja também Salmos 79:6 e Apocalipse 16:1-2)."
+    }
+  ]
+}

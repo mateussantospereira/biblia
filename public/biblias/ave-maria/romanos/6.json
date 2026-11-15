@@ -1,0 +1,131 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "romanos",
+  "nome": "Romanos",
+  "testamento": "NT",
+  "capitulo": 6,
+  "totalVersiculos": 23,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/romanos/6/",
+  "capturadoEm": "2026-11-15T09:27:42-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Então, que diremos? Permaneceremos no pecado, para que haja abundância da graça?"
+    },
+    {
+      "numero": 2,
+      "texto": "De modo algum. Nós, que já morremos ao pecado, como poderíamos ainda viver nele?",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Ou ignorais que todos os que fomos batizados em Jesus Cristo, fomos batizados na sua morte?"
+    },
+    {
+      "numero": 4,
+      "texto": "Fomos, pois, sepultados com ele na sua morte pelo batismo para que, como Cristo ressurgiu dos mortos pela glória do Pai, assim nós também vivamos uma vida nova.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Se fomos feitos o mesmo ser com ele por uma morte semelhante à sua, o seremos igualmente por uma comum ressurreição."
+    },
+    {
+      "numero": 6,
+      "texto": "Sabemos que o nosso velho homem foi crucificado com ele, para que seja reduzido à impotência o corpo (outrora) subjugado ao pecado, e já não sejamos escravos do pecado.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "(Pois quem morreu, libertado está do pecado.)"
+    },
+    {
+      "numero": 8,
+      "texto": "Ora, se morremos com Cristo, cremos que viveremos também com ele,"
+    },
+    {
+      "numero": 9,
+      "texto": "pois sabemos que Cristo, tendo ressurgido dos mortos, já não morre, nem a morte terá mais domínio sobre ele."
+    },
+    {
+      "numero": 10,
+      "texto": "Morto, ele o foi uma vez por todas pelo pecado; porém, está vivo, continua vivo para Deus!"
+    },
+    {
+      "numero": 11,
+      "texto": "Portanto, vós também considerai-vos mortos ao pecado, porém vivos para Deus, em Cristo Jesus."
+    },
+    {
+      "numero": 12,
+      "texto": "Não reine, pois, o pecado em vosso corpo mortal, de modo que obedeçais aos seus apetites."
+    },
+    {
+      "numero": 13,
+      "texto": "Nem ofereçais os vossos membros ao pecado, como instrumentos do mal. Oferecei-vos a Deus, como vivos, salvos da morte, para que os vossos membros sejam instrumentos do bem a seu serviço."
+    },
+    {
+      "numero": 14,
+      "texto": "O pecado já não vos dominará, porque agora não estais mais sob a lei, e sim sob a graça."
+    },
+    {
+      "numero": 15,
+      "texto": "Então? Havemos de pecar, pelo fato de não estarmos sob a Lei, mas sob a graça? De modo algum."
+    },
+    {
+      "numero": 16,
+      "texto": "Não sabeis que, quando vos ofereceis a alguém para lhe obedecer, sois escravos daquele a quem obedeceis, quer seja do pecado para a morte, quer da obediência para a justiça?"
+    },
+    {
+      "numero": 17,
+      "texto": "Graças a Deus, porém, que, depois de terdes sido escravos do pecado, obedecestes de coração à regra da doutrina na qual tendes sido instruídos."
+    },
+    {
+      "numero": 18,
+      "texto": "E, libertados do pecado, vos tornastes servos da justiça."
+    },
+    {
+      "numero": 19,
+      "texto": "Vou-me servir de linguagem corrente entre os homens, por causa da fraqueza da vossa carne. Pois, como pusestes os vossos membros a serviço da impureza e do mal para cometer a iniquidade, assim ponde agora os vossos membros a serviço da justiça para chegar à santidade."
+    },
+    {
+      "numero": 20,
+      "texto": "Quando éreis escravos do pecado, éreis livres a respeito da justiça."
+    },
+    {
+      "numero": 21,
+      "texto": "Que frutos produzíeis então? Frutos dos quais agora vos envergonhais. O fim deles é a morte."
+    },
+    {
+      "numero": 22,
+      "texto": "Mas agora, libertados do pecado e feitos servos de Deus, tendes por fruto a santidade; e o termo é a vida eterna."
+    },
+    {
+      "numero": 23,
+      "texto": "Porque o salário do pecado é a morte, enquanto o dom de Deus é a vida eterna em Cristo Jesus, nosso Senhor.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "6:1-2",
+      "texto": "A graça de Deus não deve ser usada como pretexto para o pecado, pois, como cristãos, morremos para o pecado. A transformação de vida é evidenciada pela santificação (veja também Gálatas 2:20 e Colossenses 3:1-3)."
+    },
+    {
+      "ref": "6:3-4",
+      "texto": "O batismo simboliza a união com Cristo em Sua morte e ressurreição, sendo um ato de renascimento para uma nova vida em Cristo (veja também 1 Pedro 3:21 e Colossenses 2:12)."
+    },
+    {
+      "ref": "6:6-7",
+      "texto": "A velha natureza humana foi crucificada com Cristo, de modo que agora somos libertos do domínio do pecado. A justificação traz a liberdade para viver uma nova vida (veja também Gálatas 5:24 e Efésios 4:22-24)."
+    },
+    {
+      "ref": "6:12-14",
+      "texto": "O cristão não deve permitir que o pecado reine em seu corpo mortal, mas, em vez disso, se ofereça a Deus como instrumento de justiça. A graça é poder para viver em santidade (veja também 1 Pedro 1:16 e 1 Coríntios 6:19-20)."
+    },
+    {
+      "ref": "6:23",
+      "texto": "O salário do pecado é a morte, mas o dom de Deus é a vida eterna em Cristo Jesus. Este versículo é um contraste crucial entre o destino das escolhas humanas e a oferta divina (veja também Ezequiel 18:4 e João 3:16)."
+    }
+  ]
+}

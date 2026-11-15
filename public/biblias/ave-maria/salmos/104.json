@@ -1,0 +1,217 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 104,
+  "totalVersiculos": 45,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/104/",
+  "capturadoEm": "2026-11-15T09:17:50-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Aleluia. Celebrai o Senhor, aclamai o seu nome, apregoai entre as nações as suas obras.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Cantai-lhe hinos e cânticos, anunciai todas as suas maravilhas."
+    },
+    {
+      "numero": 3,
+      "texto": "Gloriai-vos do seu santo nome; rejubile o coração dos que procuram o Senhor."
+    },
+    {
+      "numero": 4,
+      "texto": "Recorrei ao Senhor e ao seu poder, procurai continuamente sua face."
+    },
+    {
+      "numero": 5,
+      "texto": "Recordai as maravilhas que operou, seus prodígios e julgamentos por seus lábios proferidos,"
+    },
+    {
+      "numero": 6,
+      "texto": "ó descendência de Abraão, seu servidor, ó filhos de Jacó, seus escolhidos!"
+    },
+    {
+      "numero": 7,
+      "texto": "É ele o Senhor, nosso Deus; suas sentenças comandam a terra inteira."
+    },
+    {
+      "numero": 8,
+      "texto": "Ele se lembra eternamente de sua aliança, da palavra que empenhou a mil gerações,",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "que garantiu a Abraão, e jurou a Isaac,"
+    },
+    {
+      "numero": 10,
+      "texto": "e confirmou a Jacó irrevogavelmente, e a Israel como aliança eterna,"
+    },
+    {
+      "numero": 11,
+      "texto": "quando disse: “Eu te darei a terra de Canaã, como parte de vossa herança”."
+    },
+    {
+      "numero": 12,
+      "texto": "Quando não passavam de um reduzido número, minoria insignificante e estrangeiros na terra,"
+    },
+    {
+      "numero": 13,
+      "texto": "e andavam errantes de nação em nação, de reino em reino,"
+    },
+    {
+      "numero": 14,
+      "texto": "não permitiu que os oprimissem, e castigou a reis por causa deles."
+    },
+    {
+      "numero": 15,
+      "texto": "“Não ouseis tocar nos que me são consagrados, nem maltratar os meus profetas.”"
+    },
+    {
+      "numero": 16,
+      "texto": "E chamou a fome sobre a terra, e os privou do pão que os sustentava."
+    },
+    {
+      "numero": 17,
+      "texto": "Diante deles enviara um homem: José, que fora vendido como escravo."
+    },
+    {
+      "numero": 18,
+      "texto": "Apertaram-lhe os pés entre grilhões, com cadeias cingiram-lhe o pescoço,"
+    },
+    {
+      "numero": 19,
+      "texto": "até que se cumpriu a profecia, e o justificou a palavra de Deus."
+    },
+    {
+      "numero": 20,
+      "texto": "Então o rei ordenou que o soltassem, o soberano de povos o livrou,"
+    },
+    {
+      "numero": 21,
+      "texto": "e o nomeou senhor de sua casa e governador de seus domínios,"
+    },
+    {
+      "numero": 22,
+      "texto": "para, a seu bel-prazer, dar ordens a seus príncipes, e a seus anciãos, lições de sabedoria."
+    },
+    {
+      "numero": 23,
+      "texto": "Então Israel penetrou no Egito, Jacó foi viver na terra de Cam."
+    },
+    {
+      "numero": 24,
+      "texto": "Deus multiplicou grandemente o seu povo, e o tornou mais forte que seus inimigos."
+    },
+    {
+      "numero": 25,
+      "texto": "Depois, de tal modo lhes mudou os corações, que com aversão trataram o seu povo, e com perfídia, os seus servidores."
+    },
+    {
+      "numero": 26,
+      "texto": "Mas Deus lhes suscitou Moisés, seu servo, e Aarão, seu escolhido."
+    },
+    {
+      "numero": 27,
+      "texto": "Ambos operaram entre eles prodígios e milagres na terra de Cam."
+    },
+    {
+      "numero": 28,
+      "texto": "Mandou trevas e se fez noite: resistiram, porém, às suas palavras."
+    },
+    {
+      "numero": 29,
+      "texto": "Converteu-lhes as águas em sangue, matando-lhes todos os seus peixes."
+    },
+    {
+      "numero": 30,
+      "texto": "Infestou-lhes a terra de rãs, até nos aposentos reais."
+    },
+    {
+      "numero": 31,
+      "texto": "A uma palavra sua vieram nuvens de moscas, mosquitos em todo o seu território."
+    },
+    {
+      "numero": 32,
+      "texto": "Em vez de chuva lhes mandou granizo e chamas devorantes sobre a terra."
+    },
+    {
+      "numero": 33,
+      "texto": "Devastou-lhes as vinhas e figueiras, e partiu-lhes as árvores de seus campos."
+    },
+    {
+      "numero": 34,
+      "texto": "A seu mando vieram os gafanhotos, e lagartas em quantidade enorme,"
+    },
+    {
+      "numero": 35,
+      "texto": "que devoraram toda a erva de suas terras e comeram os frutos de seus campos."
+    },
+    {
+      "numero": 36,
+      "texto": "Depois matou os primogênitos do seu povo, primícias de sua virilidade."
+    },
+    {
+      "numero": 37,
+      "texto": "E Deus tirou os hebreus carregados de ouro e prata; não houve, nas tribos, nenhum enfermo."
+    },
+    {
+      "numero": 38,
+      "texto": "Alegraram-se os egípcios com sua partida, pelo temor que os hebreus lhes tinham causado."
+    },
+    {
+      "numero": 39,
+      "texto": "Para os abrigar Deus estendeu uma nuvem, e para lhes iluminar a noite uma coluna de fogo."
+    },
+    {
+      "numero": 40,
+      "texto": "A seu pedido, mandou-lhes codornizes, e os fartou com pão vindo do céu."
+    },
+    {
+      "numero": 41,
+      "texto": "Abriu o rochedo e jorrou água como um rio a correr pelo deserto,"
+    },
+    {
+      "numero": 42,
+      "texto": "pois se lembrava da palavra sagrada, empenhada a seu servo Abraão."
+    },
+    {
+      "numero": 43,
+      "texto": "E fez sair, com júbilo, o seu povo, e seus eleitos com grande exultação."
+    },
+    {
+      "numero": 44,
+      "texto": "Deu-lhes a terra dos pagãos e desfrutaram das riquezas desses povos,"
+    },
+    {
+      "numero": 45,
+      "texto": "sob a condição de guardarem seus mandamentos e observarem fielmente suas leis."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "104:1-2",
+      "texto": "O salmista louva a Deus como Criador e Sustentador do universo, destacando Sua majestade e poder. Deus veste-Se de luz e estende os céus como uma tenda, mostrando Seu domínio sobre a criação (veja também Gênesis 1:1 e Isaías 40:22)."
+    },
+    {
+      "ref": "104:5-9",
+      "texto": "A criação da terra e a separação das águas são descritas, refletindo o poder de Deus para estabelecer a ordem no caos. Isso ecoa o relato da criação em Gênesis, mostrando o controle soberano de Deus sobre o mundo natural (veja também Salmo 33:7-9 e Provérbios 8:27-29)."
+    },
+    {
+      "ref": "104:10-13",
+      "texto": "Deus provê água para os animais e irriga a terra. A provisão divina para todas as criaturas reflete o cuidado contínuo de Deus para com Sua criação, mostrando que Ele se preocupa com as necessidades de cada ser vivo (veja também Mateus 6:26 e Salmo 145:15-16)."
+    },
+    {
+      "ref": "104:19-23",
+      "texto": "Deus estabeleceu os ciclos do dia e da noite para governar o tempo. O sol e a lua são sinais de Seu controle sobre os ritmos da vida, destacando a ordem divina no universo (veja também Gênesis 1:14-18 e Jeremias 31:35-36)."
+    },
+    {
+      "ref": "104:31-34",
+      "texto": "O salmista exalta a glória eterna do Senhor e deseja que o louvor a Deus continue por toda a criação. A alegria do Senhor em Suas obras é um tema de celebração e reconhecimento do bem que Ele fez (veja também Salmo 19:1 e Apocalipse 4:11)."
+    }
+  ]
+}

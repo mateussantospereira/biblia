@@ -1,0 +1,215 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "josue",
+  "nome": "Josué",
+  "testamento": "AT",
+  "capitulo": 21,
+  "totalVersiculos": 45,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/josue/21/",
+  "capturadoEm": "2026-11-15T09:10:43-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Os chefes de família dos levitas vieram ter com o sacerdote Eleazar, com Josué, filho de Nun, e com os chefes de família das tribos israelitas,"
+    },
+    {
+      "numero": 2,
+      "texto": "e disseram-lhes em Silo, na terra de Canaã: “O Senhor ordenou por Moisés que se nos dessem cidades para habitar, e juntamente seus arredores para nossos animais”."
+    },
+    {
+      "numero": 3,
+      "texto": "E os israelitas deram, pois, de suas possessões, as seguintes cidades com seus arrabaldes aos levitas, segundo a ordem do Senhor:"
+    },
+    {
+      "numero": 4,
+      "texto": "A sorte foi lançada para as famílias dos caatitas; e os levitas, filhos do sacerdote Aarão, obtiveram por sorte treze cidades das tribos de Judá, de Simeão e de Benjamim;"
+    },
+    {
+      "numero": 5,
+      "texto": "os outros filhos de Caat obtiveram por sorte dez cidades das famílias das tribos de Efraim, de Dã e da meia tribo de Manassés."
+    },
+    {
+      "numero": 6,
+      "texto": "Tocaram por sorte aos filhos de Gérson treze cidades das famílias das tribos de Issacar, de Aser, de Neftali e da meia tribo de Manassés, em Basã."
+    },
+    {
+      "numero": 7,
+      "texto": "Os filhos de Merari, segundo suas famílias, obtiveram doze cidades das tribos de Rúben, de Gad e de Zabulon."
+    },
+    {
+      "numero": 8,
+      "texto": "Os israelitas deram aos levitas essas cidades com seus arrabaldes, repartindo-as por sorte, como o Senhor tinha ordenado Moisés."
+    },
+    {
+      "numero": 9,
+      "texto": "Da tribo dos juditas e da tribo dos filhos de Simeão, deram as cidades cujos nomes seguem."
+    },
+    {
+      "numero": 10,
+      "texto": "Elas foram dadas aos filhos de Aarão, dentre as famílias dos caatitas, filhos de Levi, a quem caiu a primeira sorte."
+    },
+    {
+      "numero": 11,
+      "texto": "Foi-lhes dada na montanha de Judá a cidade de Arbe, pai de Enac, que é Hebron, com seus arrabaldes."
+    },
+    {
+      "numero": 12,
+      "texto": "Os campos, porém, e as aldeias dessa cidade foram dados como propriedade a Caleb, filho de Jefoné."
+    },
+    {
+      "numero": 13,
+      "texto": "Aos filhos do sacerdote Aarão deram Hebron e seus arrabaldes, a cidade de refúgio para o homicida, assim como Lebna com seus arredores,"
+    },
+    {
+      "numero": 14,
+      "texto": "Jeter com seus arredores, Estemo e seus arredores,"
+    },
+    {
+      "numero": 15,
+      "texto": "Holon e seus arredores, Dabir e seus arredores,"
+    },
+    {
+      "numero": 16,
+      "texto": "Ain e seus arredores, Jeta e seus arredores, Bet-Sames e seus arredores; nove cidades dessas duas tribos."
+    },
+    {
+      "numero": 17,
+      "texto": "Da tribo de Benjamim deram-lhes Gabaon e seus arredores,"
+    },
+    {
+      "numero": 18,
+      "texto": "Gabaá e seus arredores, Anatot e seus arredores, Almon e seus arredores; quatro cidades."
+    },
+    {
+      "numero": 19,
+      "texto": "Total das cidades dos sacerdotes, filhos de Aarão: treze cidades com seus arredores."
+    },
+    {
+      "numero": 20,
+      "texto": "Os levitas das outras famílias dos filhos de Caat receberam por sorte cidades da tribo de Efraim."
+    },
+    {
+      "numero": 21,
+      "texto": "Deram-lhes Siquém, cidade de refúgio para o homicida, e seus arredores, na montanha de Efraim, Gazer e seus arredores,"
+    },
+    {
+      "numero": 22,
+      "texto": "Cibsaim e seus arredores, Bet-Horon e seus arredores; quatro cidades."
+    },
+    {
+      "numero": 23,
+      "texto": "Da tribo de Dã, foram-lhes dadas Eltece e seus arredores,"
+    },
+    {
+      "numero": 24,
+      "texto": "Gebiton e seus arredores, Aialon e seus arredores, Gat-Remon e seus arredores; quatro cidades."
+    },
+    {
+      "numero": 25,
+      "texto": "Da meia tribo de Manassés: Tanac e seus arredores, Gat-Remon e seus arredores; duas cidades."
+    },
+    {
+      "numero": 26,
+      "texto": "Total: dez cidades com seus arredores para as famílias dos outros filhos de Caat."
+    },
+    {
+      "numero": 27,
+      "texto": "Aos filhos de Gérson, uma das famílias de Levi, foram dadas da meia tribo de Manassés: Golã, cidade de refúgio para o homicida, em Basã, com seus arredores, e Beesterá com seus arredores; duas cidades."
+    },
+    {
+      "numero": 28,
+      "texto": "Da tribo de Issacar, Cesion e seus arredores, Daberat e seus arredores,"
+    },
+    {
+      "numero": 29,
+      "texto": "Jarmut e seus arredores, En-Ganin e seus arredores; quatro cidades."
+    },
+    {
+      "numero": 30,
+      "texto": "Da tribo de Aser, Masal e seus arredores; Abdon e seus arredores,"
+    },
+    {
+      "numero": 31,
+      "texto": "Helcat e seus arredores, Roob e seus arredores; quatro cidades."
+    },
+    {
+      "numero": 32,
+      "texto": "Da tribo de Neftali, Cedes na Galileia, cidade de refúgio para o homicida e seus arredores, Emat-Dor e seus arredores. Cartã e seus arredores; três cidades."
+    },
+    {
+      "numero": 33,
+      "texto": "Total das cidades dos gersonitas segundo suas famílias: treze cidades com seus arredores."
+    },
+    {
+      "numero": 34,
+      "texto": "Às famílias dos filhos de Merari, o resto dos levitas, deram, da tribo de Zabulon, Jecnaam e seus arredores, Carta e seus arredores,"
+    },
+    {
+      "numero": 35,
+      "texto": "Démna e seus arredores, Naalol e seus arredores; quatro cidades;"
+    },
+    {
+      "numero": 36,
+      "texto": "da tribo de Rúben, Bosor e seus arredores, Jasa e seus arredores,"
+    },
+    {
+      "numero": 37,
+      "texto": "Cedimot e seus arredores, Mefaat e seus arredores; quatro cidades."
+    },
+    {
+      "numero": 38,
+      "texto": "Da tribo de Gad: a cidade de refúgio para o homicida, Ramot em Galaad e seus arredores, Maanaim e seus arredores,"
+    },
+    {
+      "numero": 39,
+      "texto": "Hesebon e seus arredores, Jazer e seus arredores; ao todo, quatro cidades."
+    },
+    {
+      "numero": 40,
+      "texto": "Total das cidades dadas por sorte aos filhos de Merari, segundo suas famílias, que formavam o resto dos levitas: doze cidades."
+    },
+    {
+      "numero": 41,
+      "texto": "Total das cidades dos levitas no meio das possessões dos israelitas: quarenta e oito cidades com seus arredores."
+    },
+    {
+      "numero": 42,
+      "texto": "Cada uma dessas cidades tinha os seus arrabaldes ao redor: assim foi com todas as cidades."
+    },
+    {
+      "numero": 43,
+      "texto": "Foi assim que o Senhor deu a Israel toda a terra que ele tinha jurado dar a seus pais. Eles possuíram-na e estabeleceram-se nela."
+    },
+    {
+      "numero": 44,
+      "texto": "E o Senhor deu-lhes repouso em todo o derredor de sua terra, como tinha jurado a seus pais; nenhum dos seus inimigos pôde resistir-lhes, pois o Senhor entregou-os todos nas suas mãos."
+    },
+    {
+      "numero": 45,
+      "texto": "Não falhou nenhuma de todas as boas palavras que o Senhor tinha dito a Israel. Todas se cumpriram."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "21:1-3",
+      "texto": "As cidades levíticas são designadas para os sacerdotes e levitas, enfatizando a importância do ministério e do serviço a Deus. A provisão de cidades para os levitas destaca a responsabilidade do povo em sustentar aqueles que servem no templo (veja também Números 35:1-5 e Deuteronômio 18:1-2)."
+    },
+    {
+      "ref": "21:4-8",
+      "texto": "A distribuição das cidades levíticas entre as tribos de Israel reflete a justiça de Deus em garantir que aqueles que servem em Seu nome tenham um lar. Isso também demonstra a unidade do povo em reconhecer e apoiar o ministério (veja também Números 35:6-7 e 1 Crônicas 6:54-81)."
+    },
+    {
+      "ref": "21:9-16",
+      "texto": "A menção das cidades de refúgio entre as cidades levíticas ressalta a misericórdia de Deus e Sua provisão para a proteção dos inocentes. Esses lugares são um símbolo da graça divina e da proteção que Deus oferece (veja também Números 35:9-15 e Salmo 46:1)."
+    },
+    {
+      "ref": "21:17-20",
+      "texto": "O cumprimento das promessas de Deus ao povo de Israel, ao dar-lhes a terra e as cidades, reforça a fidelidade de Deus. A obediência dos israelitas ao seu chamado é uma resposta ao caráter confiável de Deus (veja também Deuteronômio 12:10-11 e Josué 23:14)."
+    },
+    {
+      "ref": "21:43-45",
+      "texto": "O capítulo conclui com a reafirmação de que Deus cumpriu todas as promessas feitas a Israel, enfatizando que nenhuma de Suas palavras falhou. Isso é um testemunho da fidelidade divina e da certeza da Sua palavra (veja também 1 Reis 8:56 e Romanos 4:21)."
+    }
+  ]
+}

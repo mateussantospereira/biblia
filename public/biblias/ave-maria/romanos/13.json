@@ -1,0 +1,86 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "romanos",
+  "nome": "Romanos",
+  "testamento": "NT",
+  "capitulo": 13,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/romanos/13/",
+  "capturadoEm": "2026-11-15T09:27:49-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cada qual seja submisso às autoridades constituídas, porque não há autoridade que não venha de Deus; as que existem foram instituídas por Deus."
+    },
+    {
+      "numero": 2,
+      "texto": "Assim, aquele que resiste à autoridade opõe-se à ordem estabelecida por Deus; e os que a ela se opõem atraem sobre si a condenação."
+    },
+    {
+      "numero": 3,
+      "texto": "Em verdade, as autoridades inspiram temor, não porém a quem pratica o bem, e sim a quem faz o mal! Queres não ter o que temer a autoridade? Faze o bem e terás o seu louvor."
+    },
+    {
+      "numero": 4,
+      "texto": "Porque ela é instrumento de Deus para teu bem. Mas, se fizeres o mal, teme, porque não é sem razão que leva a espada: é ministro de Deus, para fazer justiça e para exercer a ira contra aquele que pratica o mal."
+    },
+    {
+      "numero": 5,
+      "texto": "Portanto, é necessário submeter-se, não somente por temor do castigo, mas também por dever de consciência."
+    },
+    {
+      "numero": 6,
+      "texto": "É também por essa razão que pagais os impostos, pois os magistrados são ministros de Deus, quando exercem pontualmente esse ofício."
+    },
+    {
+      "numero": 7,
+      "texto": "Pagai a cada um o que lhe compete: o imposto, a quem deveis o imposto; o tributo, a quem deveis o tributo; o temor e o respeito, a quem deveis o temor e o respeito."
+    },
+    {
+      "numero": 8,
+      "texto": "A ninguém fiqueis devendo coisa alguma, a não ser o amor recíproco; porque aquele que ama o seu próximo cumpriu toda a Lei."
+    },
+    {
+      "numero": 9,
+      "texto": "Pois os preceitos: Não cometerás adultério, não matarás, não furtarás, não cobiçarás, e ainda outros mandamentos que existam, eles se resumem nestas palavras: Amarás o teu próximo como a ti mesmo.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "A caridade não pratica o mal contra o próximo. Portanto, a caridade é o pleno cumprimento da Lei."
+    },
+    {
+      "numero": 11,
+      "texto": "Isso é tanto mais importante porque sabeis em que tempo vivemos. Já é hora de despertardes do sono. A salvação está mais perto do que quando abraçamos a fé.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "A noite vai adiantada, e o dia vem chegando. Despojemo-nos das obras das trevas e vistamo-nos das armas da luz."
+    },
+    {
+      "numero": 13,
+      "texto": "Comportemo-nos honestamente, como em pleno dia: nada de orgias, nada de bebedeira; nada de desonestidades nem dissoluções; nada de contendas, nada de ciúmes."
+    },
+    {
+      "numero": 14,
+      "texto": "Ao contrário, revesti-vos do Senhor Jesus Cristo e não façais caso da carne nem lhe satisfaçais aos apetites.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "13:1-2",
+      "texto": "Paulo ensina que toda autoridade é estabelecida por Deus, e a obediência a ela é uma responsabilidade cristã. A sujeição ao governo é parte da ordem divina, refletindo a confiança em Sua soberania (veja também 1 Pedro 2:13-14 e Daniel 2:21)."
+    },
+    {
+      "ref": "13:8-10",
+      "texto": "O amor ao próximo é o cumprimento da lei, como a base de toda a moral cristã. A exortação à prática do amor reflete o caráter transformador do evangelho na vida dos cristãos (veja também Mateus 22:37-40 e Gálatas 5:14)."
+    },
+    {
+      "ref": "13:11-14",
+      "texto": "Paulo incentiva os cristãos a viverem com urgência, pois a salvação está mais próxima. A chamada para abandonar as obras das trevas e viver em santidade é central para a ética cristã (veja também 1 Tessalonicenses 5:6-8 e Efésios 5:8)."
+    }
+  ]
+}

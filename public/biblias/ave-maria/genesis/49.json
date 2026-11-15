@@ -1,0 +1,169 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "genesis",
+  "nome": "Gênesis",
+  "testamento": "AT",
+  "capitulo": 49,
+  "totalVersiculos": 33,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/genesis/49/",
+  "capturadoEm": "2026-11-15T09:07:57-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Jacó chamou seus filhos e lhes disse:"
+    },
+    {
+      "numero": 2,
+      "texto": "Ajuntai-vos e ouvi, filhos de Jacó. Escutai Israel, vosso pai."
+    },
+    {
+      "numero": 3,
+      "texto": "Rúben, tu és o meu primogênito, minha força, primícias do meu vigor. Notável em dignidade e notável em poder."
+    },
+    {
+      "numero": 4,
+      "texto": "Transbordante como a água, não terás o primeiro lugar, porque subiste ao leito de teu pai, e desse modo maculaste o meu leito."
+    },
+    {
+      "numero": 5,
+      "texto": "Simeão e Levi são irmãos; suas espadas são instrumentos de violência.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Minha alma não participe de suas maquinações, meu coração jamais se associe às suas reuniões! Porque em sua cólera mataram homens e em seu furor enervaram touros."
+    },
+    {
+      "numero": 7,
+      "texto": "Maldita cólera que os levou à violência, maldito furor que os induziu à crueldade! Hei de dispersá-los em Jacó, hei de espalhá-los em Israel."
+    },
+    {
+      "numero": 8,
+      "texto": "Judá, teus irmãos te louvarão. Pegarás pela nuca os inimigos; os filhos de teu pai se prostrarão em tua presença."
+    },
+    {
+      "numero": 9,
+      "texto": "Filhote de leão, Judá: voltas trazendo a caça, meu filho. Dobra-se, deita-se como um leão; como uma leoa: quem o despertará?"
+    },
+    {
+      "numero": 10,
+      "texto": "Não se apartará o cetro de Judá, nem o bastão de comando dentre seus pés, até que venha aquele a quem pertence por direito, e a quem devem obediência os povos.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Amarra à videira o jumentinho, à cepa o filho da jumenta. Lava com o vinho suas vestes, com o sangue das uvas o seu manto."
+    },
+    {
+      "numero": 12,
+      "texto": "O vinho aumenta o brilho de seus olhos, seus dentes são brancos como o leite."
+    },
+    {
+      "numero": 13,
+      "texto": "Zabulon habita à beira do mar, no litoral, onde aportam os navios, e seu flanco se estende até Sidônia."
+    },
+    {
+      "numero": 14,
+      "texto": "Issacar é um jumento forte, deitado nos currais."
+    },
+    {
+      "numero": 15,
+      "texto": "Vê que é bom o descanso e a terra agradável: curva os ombros sob a carga, sujeita-se ao tributo."
+    },
+    {
+      "numero": 16,
+      "texto": "Dã julgará seu povo, como uma das tribos de Israel."
+    },
+    {
+      "numero": 17,
+      "texto": "Dã será uma serpente no caminho, uma cobra na estrada, que morde a pata do cavalo e derruba o cavaleiro."
+    },
+    {
+      "numero": 18,
+      "texto": "Espero em vosso socorro, Senhor!"
+    },
+    {
+      "numero": 19,
+      "texto": "Gad será saqueado por quadrilhas de assaltantes, mas também os assaltará e perseguirá."
+    },
+    {
+      "numero": 20,
+      "texto": "Aser tem um pão saboroso, que constitui as delícias dos reis."
+    },
+    {
+      "numero": 21,
+      "texto": "Neftali é uma gazela solta, que tem lindos filhotes."
+    },
+    {
+      "numero": 22,
+      "texto": "José é broto de uma árvore fértil, broto de uma árvore fértil junto à nascente: seus ramos crescem acima do muro."
+    },
+    {
+      "numero": 23,
+      "texto": "Provocam-no, atiram contra ele, atacam-no os flecheiros,"
+    },
+    {
+      "numero": 24,
+      "texto": "mas, seu arco permanece firme, seus braços e mãos desembaraçados pelas mãos do Poderoso de Jacó, pelo nome do Pastor, que é a pedra de Israel,"
+    },
+    {
+      "numero": 25,
+      "texto": "graças ao Deus de teu pai, que te ajuda, graças ao Todo-poderoso, que te abençoa com as bênçãos do céu altíssimo, com as bênçãos do profundo abismo, com as bênçãos dos peitos e do seio."
+    },
+    {
+      "numero": 26,
+      "texto": "As bênçãos de teu pai sobrepujam as bênçãos das antigas montanhas, as aspirações das colinas eternas. Que elas desçam sobre a cabeça de José, sobre a fronte do príncipe de seus irmãos!"
+    },
+    {
+      "numero": 27,
+      "texto": "Benjamim, lobo voraz, de manhã devora a presa e à tarde reparte o despojo”."
+    },
+    {
+      "numero": 28,
+      "texto": "São esses todos que formam as doze tribos de Israel. Foi isso que lhes disse seu pai ao abençoá-los. A cada um deu uma bênção particular."
+    },
+    {
+      "numero": 29,
+      "texto": "Em seguida, fez-lhes esta recomendação: “Eis que vou ser reunido aos meus. Enterrai-me junto de meus pais na caverna da terra de Efron, o hiteu,"
+    },
+    {
+      "numero": 30,
+      "texto": "na caverna da terra de Macpela, defronte de Mambré, na terra de Canaã, essa caverna que Abraão havia comprado a Efron, o hiteu, ao mesmo tempo que a terra, para ter a propriedade de uma sepultura."
+    },
+    {
+      "numero": 31,
+      "texto": "Foi ali que enterraram Abraão e Sara, sua mulher; foi ali que enterraram Isaac e Rebeca, sua mulher; e foi ali que enterrei Lia”."
+    },
+    {
+      "numero": 32,
+      "texto": "Essa propriedade, bem como a caverna que nela se encontra, foram compradas aos filhos de Het."
+    },
+    {
+      "numero": 33,
+      "texto": "E, tendo Jacó dado aos seus filhos esta última recomendação, recolheu os pés em sua cama, e expirou. E foi reunido aos seus."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "49:1-2",
+      "texto": "Jacó convoca seus filhos para profetizar sobre eles, destacando a importância das bênçãos familiares e do papel do patriarca na transmissão do legado espiritual. Isso enfatiza a responsabilidade do líder familiar (veja também Deuteronômio 33:1 e Efésios 6:4)."
+    },
+    {
+      "ref": "49:3-4",
+      "texto": "A bênção sobre Rúben destaca a responsabilidade e a liderança, mas também a consequência de sua falta de caráter. Isso serve como um aviso sobre as repercussões das ações na vida espiritual (veja também Gálatas 6:7-8 e 1 Pedro 4:17)."
+    },
+    {
+      "ref": "49:8-10",
+      "texto": "A bênção sobre Judá reconhece sua liderança e a promessa messiânica de que o cetro não se afastará dele. Isso aponta para a vinda do Messias da linhagem de Judá, fundamental na narrativa da salvação (veja também Apocalipse 5:5 e Mateus 1:2-3)."
+    },
+    {
+      "ref": "49:22-26",
+      "texto": "A bênção sobre José é uma celebração de sua prosperidade e sucesso. Ela reflete o tema da fidelidade de Deus nas provações, mostrando como Ele recompensa aqueles que permanecem fiéis (veja também Romanos 8:28 e Tiago 1:12)."
+    },
+    {
+      "ref": "49:28",
+      "texto": "As bênçãos finais de Jacó são um resumo do destino das tribos de Israel, simbolizando a continuidade da história redentora de Deus com Seu povo. A narrativa familiar é uma expressão do plano divino para a salvação (veja também Gênesis 12:1-3 e Romanos 9:4-5)."
+    }
+  ]
+}

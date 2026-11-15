@@ -1,0 +1,182 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "eclesiastico",
+  "nome": "Eclesiástico",
+  "testamento": "AT",
+  "capitulo": 3,
+  "totalVersiculos": 34,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/eclesiastico/3/",
+  "capturadoEm": "2026-11-15T09:20:23-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Os filhos da sabedoria formam a assembleia dos justos, e o novo que compõem é, todo ele, obediência e amor."
+    },
+    {
+      "numero": 2,
+      "texto": "Ouvi, meus filhos, os conselhos de vosso pai, segui-os de tal modo que sejais salvos."
+    },
+    {
+      "numero": 3,
+      "texto": "Pois Deus quis honrar os pais pelos filhos, e cuidadosamente fortaleceu a autoridade da mãe sobre eles."
+    },
+    {
+      "numero": 4,
+      "texto": "Aquele que ama a Deus o roga pelos seus pecados, acautela-se para não cometê-los no porvir. Ele é ouvido em sua prece cotidiana."
+    },
+    {
+      "numero": 5,
+      "texto": "Quem honra sua mãe é semelhante àquele que acumula um tesouro."
+    },
+    {
+      "numero": 6,
+      "texto": "Quem honra seu pai achará alegria em seus filhos, será ouvido no dia da oração."
+    },
+    {
+      "numero": 7,
+      "texto": "Quem honra seu pai gozará de vida longa; quem lhe obedece dará consolo à sua mãe."
+    },
+    {
+      "numero": 8,
+      "texto": "Quem teme o Senhor honra pai e mãe. Servirá aqueles que lhe deram a vida como a seus senhores."
+    },
+    {
+      "numero": 9,
+      "texto": "Honra teu pai por teus atos, tuas palavras, tua paciência,"
+    },
+    {
+      "numero": 10,
+      "texto": "a fim de que ele te dê sua bênção, e que esta permaneça em ti até o teu último dia."
+    },
+    {
+      "numero": 11,
+      "texto": "A bênção paterna fortalece a casa de seus filhos, a maldição de uma mãe a arrasa até os alicerces.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Não te glories do que desonra teu pai, pois a vergonha dele não poderia ser glória para ti,"
+    },
+    {
+      "numero": 13,
+      "texto": "pois um homem adquire glória com a honra de seu pai, e um pai sem honra é a vergonha do filho.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Meu filho, ajuda a velhice de teu pai, não o desgostes durante a sua vida.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Se seu espírito desfalecer, sê indulgente, não o desprezes porque te sentes forte, pois tua caridade para com teu pai não será esquecida,",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "e, por teres suportado os defeitos de tua mãe, te será dada uma recompensa;",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "tua casa se tornará próspera na justiça. Tu serás lembrado de ti no dia da aflição, e teus pecados se dissolverão como o gelo ao sol forte.",
+      "nota": true
+    },
+    {
+      "numero": 18,
+      "texto": "Como é infame aquele que abandona seu pai, como é amaldiçoado por Deus aquele que irrita sua mãe!",
+      "nota": true
+    },
+    {
+      "numero": 19,
+      "texto": "Meu filho, faze o que fazes com doçura, e, mais do que a estima dos homens, ganharás o afeto deles."
+    },
+    {
+      "numero": 20,
+      "texto": "Quanto mais fores elevado, mais te humilharás em tudo, e perante Deus acharás misericórdia;"
+    },
+    {
+      "numero": 21,
+      "texto": "porque só a Deus pertence a onipotência, e é pelos humildes que ele é verdadeiramente honrado."
+    },
+    {
+      "numero": 22,
+      "texto": "Não procures o que é elevado demais para ti; não procures penetrar o que está acima de ti. Mas pensa sempre no que Deus te ordenou. Não tenhas a curiosidade de conhecer um número elevado demais de suas obras,"
+    },
+    {
+      "numero": 23,
+      "texto": "pois não é preciso que vejas com teus olhos os seus segredos."
+    },
+    {
+      "numero": 24,
+      "texto": "Acautela-te de uma busca exagerada de coisas inúteis, e de uma curiosidade excessiva nas numerosas obras de Deus,"
+    },
+    {
+      "numero": 25,
+      "texto": "pois a ti foram reveladas muitas coisas, que ultrapassam o alcance do espírito humano."
+    },
+    {
+      "numero": 26,
+      "texto": "Muitos foram enganados pelas próprias opiniões. Seu sentido os reteve na vaidade.",
+      "nota": true
+    },
+    {
+      "numero": 27,
+      "texto": "O coração empedernido acabará por ser infeliz. Quem ama o perigo nele perecerá."
+    },
+    {
+      "numero": 28,
+      "texto": "O coração de caminhos tortuosos não triunfará, e a alma corrompida neles achará ocasião de queda."
+    },
+    {
+      "numero": 29,
+      "texto": "O coração perverso ficará acabrunhado de tristeza, e o pecador ajuntará pecado sobre pecado.",
+      "nota": true
+    },
+    {
+      "numero": 30,
+      "texto": "Não há nenhuma cura para a assembleia dos soberbos, pois, sem que o saibam, o caule do pecado se enraíza neles."
+    },
+    {
+      "numero": 31,
+      "texto": "O coração do sábio se manifesta pela sua sabedoria; o bom ouvido ouve a sabedoria com ardente avidez.",
+      "nota": true
+    },
+    {
+      "numero": 32,
+      "texto": "O coração sábio e inteligente abstém-se do pecado. Ele triunfará nas obras de justiça."
+    },
+    {
+      "numero": 33,
+      "texto": "A água apaga o fogo ardente, a esmola enfrenta o pecado."
+    },
+    {
+      "numero": 34,
+      "texto": "Deus olha para aquele que pratica a misericórdia; dele se lembrará no porvir, no dia de sua infelicidade este achará apoio.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-3",
+      "texto": "A honra aos pais é um mandamento central, e respeitá-los é equivalente a honrar a Deus. Esse princípio é um reflexo da ordem e da autoridade estabelecida por Deus (veja também Êxodo 20:12 e Efésios 6:1-3)."
+    },
+    {
+      "ref": "3:4-6",
+      "texto": "Cuidar dos pais, especialmente na velhice, é um sinal de verdadeira piedade. Deus abençoa aqueles que cuidam de seus pais, concedendo-lhes vida longa e perdão dos pecados (veja também Provérbios 23:22 e 1 Timóteo 5:4)."
+    },
+    {
+      "ref": "3:12-13",
+      "texto": "Respeitar e cuidar dos pais na velhice é uma expressão de misericórdia e humildade. Mesmo quando os pais estão frágeis, a paciência e a bondade devem prevalecer (veja também Provérbios 19:26-27 e Colossenses 3:20)."
+    },
+    {
+      "ref": "3:17-18",
+      "texto": "A humildade é exaltada como uma virtude essencial. Quanto mais poder e conhecimento alguém tem, mais humilde deve ser. Deus favorece os humildes e resiste aos orgulhosos (veja também Mateus 23:12 e Tiago 4:6)."
+    },
+    {
+      "ref": "3:29-30",
+      "texto": "A caridade é comparada a um remédio para o pecado. A prática do bem e da justiça purifica a alma e atrai a graça de Deus, mostrando o poder da misericórdia (veja também 1 Pedro 4:8 e Provérbios 10:12)."
+    }
+  ]
+}

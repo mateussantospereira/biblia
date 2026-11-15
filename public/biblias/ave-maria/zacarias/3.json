@@ -1,0 +1,76 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "zacarias",
+  "nome": "Zacarias",
+  "testamento": "AT",
+  "capitulo": 3,
+  "totalVersiculos": 10,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/zacarias/3/",
+  "capturadoEm": "2026-11-15T09:25:22-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Senhor mostrou-me o sumo sacerdote Josué, de pé diante do anjo do Senhor; Satã estava à sua direita como acusador.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "O anjo do Senhor disse a Satã: “O Senhor te confunda, Satã! Confunda-te o Senhor que escolheu Jerusalém. Josué não é porventura um tição escapado ao incêndio?”.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Josué, vestido com roupas sujas, estava de pé diante do anjo do Senhor.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "O Senhor falou àqueles que estavam à volta dele, dizendo: “Tirai-lhe essas roupas sujas”. Depois disse a Josué: “Eis que tirei de ti a tua imundície e te revesti de roupa de festa”."
+    },
+    {
+      "numero": 5,
+      "texto": "E acrescentou: “Ponde-lhe na cabeça uma tiara limpa”. Eles puseram-lhe na cabeça uma tiara limpa e fizeram-no mudar de vestes em presença do anjo do Senhor."
+    },
+    {
+      "numero": 6,
+      "texto": "Em seguida, o anjo do Senhor declarou a Josué:"
+    },
+    {
+      "numero": 7,
+      "texto": "“Eis o que diz o Senhor dos exércitos: se andares nos meus caminhos e fores fiel no meu serviço, governarás a minha casa, guardarás os meus átrios e eu te darei lugar entre estes que estão aqui diante de mim."
+    },
+    {
+      "numero": 8,
+      "texto": "Ouve, ó Josué, sumo sacerdote, tu e teus colegas que se sentam diante de ti – porque são pessoas de presságio: porque eis que farei vir o meu servo Rebento.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Eis a pedra que pus diante de Josué; sobre essa pedra estão sete olhos; gravarei eu mesmo sobre ela a inscrição – oráculo do Senhor dos exércitos – e em um só dia tirarei o mal desta terra."
+    },
+    {
+      "numero": 10,
+      "texto": "Naquele dia – oráculo do Senhor dos exércitos – convidareis uns aos outros para debaixo de sua vinha e de sua figueira”.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-2",
+      "texto": "A visão de Josué, o sumo sacerdote, diante do anjo do Senhor revela o perdão e a purificação divina. Josué, como representante do povo, está simbolicamente diante de Deus, com as vestes sujas, mas é limpo e restaurado por Deus, indicando a graça divina que purifica o pecador (veja também Isaías 1:18 e Apocalipse 7:14)."
+    },
+    {
+      "ref": "3:3-4",
+      "texto": "A purificação de Josué através da troca de suas vestes sujas por vestes limpas é um símbolo da justificação e da renovação do povo de Deus. Essa visão antecipa a obra redentora de Cristo, que, por Sua morte, oferece purificação para todos (veja também 2 Coríntios 5:21 e Apocalipse 19:8)."
+    },
+    {
+      "ref": "3:5-7",
+      "texto": "O anjo do Senhor promete a Josué e aos seus companheiros sacerdotes uma restauração completa, com um futuro glorioso. Essa promessa aponta para o Messias, que viria para restaurar plenamente o sacerdócio e a relação com Deus (veja também 1 Pedro 2:9 e Hebreus 7:24-25)."
+    },
+    {
+      "ref": "3:8-10",
+      "texto": "A promessa de que o \"Renovo\" viria para remover a iniquidade do povo se cumpre em Jesus Cristo. O \"Renovo\" é uma referência messiânica, apontando para o Salvador que traria a salvação e a purificação completa (veja também Jeremias 23:5-6 e Atos 13:23)."
+    }
+  ]
+}

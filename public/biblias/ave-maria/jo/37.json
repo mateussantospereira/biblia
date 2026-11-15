@@ -1,0 +1,134 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "jo",
+  "nome": "Jó",
+  "testamento": "AT",
+  "capitulo": 37,
+  "totalVersiculos": 24,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/jo/37/",
+  "capturadoEm": "2026-11-15T09:15:56-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Por isso, tremeu o meu coração e saltou fora de seu lugar."
+    },
+    {
+      "numero": 2,
+      "texto": "Escutai, escutai o brado de sua voz e o estrondo que sai da sua boca!"
+    },
+    {
+      "numero": 3,
+      "texto": "Enche dele toda a extensão do céu e seus relâmpagos atingem os confins da terra!"
+    },
+    {
+      "numero": 4,
+      "texto": "Por detrás dele ruge uma voz e troveja com sua voz majestosa. Não retém mais seus raios quando se ouve sua voz."
+    },
+    {
+      "numero": 5,
+      "texto": "Deus troveja com sua voz maravilhosa, faz prodígios que não compreendemos."
+    },
+    {
+      "numero": 6,
+      "texto": "Diz à neve: ‘Cai sobre a terra!’. E às pancadas de chuva: ‘Sede fortes!’."
+    },
+    {
+      "numero": 7,
+      "texto": "Ele põe selos sobre as mãos dos homens, a fim de que todos os mortais reconheçam seu criador.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "A fera também entra em seu covil e encolhe-se em sua toca."
+    },
+    {
+      "numero": 9,
+      "texto": "O furacão sai da câmara do sul e do norte chega o frio."
+    },
+    {
+      "numero": 10,
+      "texto": "Ao sopro de Deus forma-se o gelo e a superfície das águas se congela."
+    },
+    {
+      "numero": 11,
+      "texto": "Carrega as nuvens de vapor. As nuvens lançam por toda parte seus relâmpagos,"
+    },
+    {
+      "numero": 12,
+      "texto": "que vão em todos os sentidos sob sua direção, para realizar tudo quanto ele ordena na face da terra."
+    },
+    {
+      "numero": 13,
+      "texto": "Ora é o castigo que eles trazem, ora seus benefícios."
+    },
+    {
+      "numero": 14,
+      "texto": "Escuta isto, Jó! Para e considera as maravilhas de Deus!"
+    },
+    {
+      "numero": 15,
+      "texto": "Sabes como Deus as opera e faz brilhar o relâmpago de sua nuvem?"
+    },
+    {
+      "numero": 16,
+      "texto": "Conheces a lei do equilíbrio das nuvens e o milagre daquele cuja ciência é infinita?"
+    },
+    {
+      "numero": 17,
+      "texto": "Por que são quentes as tuas vestes, quando repousa a terra ao sopro do meio-dia?"
+    },
+    {
+      "numero": 18,
+      "texto": "Saberás, como ele, estender as nuvens e torná-las sólidas como um espelho de metal fundido?"
+    },
+    {
+      "numero": 19,
+      "texto": "Dá-me a conhecer o que lhe diremos. Mergulhados em nossas trevas, só sabemos objetar."
+    },
+    {
+      "numero": 20,
+      "texto": "Quem lhe repetirá o que digo? Acaso pedirá um homem a sua própria perdição?"
+    },
+    {
+      "numero": 21,
+      "texto": "Agora já não se vê a luz, o sol brilha através das nuvens. Passa, porém, um vento e as varre."
+    },
+    {
+      "numero": 22,
+      "texto": "A luz vem do norte. Deus está envolto numa majestade temível.",
+      "nota": true
+    },
+    {
+      "numero": 23,
+      "texto": "Não podemos alcançar o Todo-poderoso. Ele é eminente em força e em equidade; grande na justiça, ele não tem a dar contas a ninguém."
+    },
+    {
+      "numero": 24,
+      "texto": "Que os homens, pois, o reverenciem! Ele não olha aqueles que se julgam sábios!”.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "37:1-5",
+      "texto": "Eliú descreve a reverência que devemos ter diante das manifestações de Deus na natureza, enfatizando que Sua voz é poderosa. Essa observação nos lembra da grandeza de Deus e da necessidade de adorá-Lo (veja também Salmo 29:4-9 e Romanos 1:20)."
+    },
+    {
+      "ref": "37:6-9",
+      "texto": "Eliú fala sobre os fenômenos naturais, como a neve e a tempestade, como sinais da ação de Deus. Essa visão destaca que a criação revela a sabedoria e o poder de Deus, nos levando a reconhecer Sua soberania (veja também Salmo 104:1-5 e Mateus 5:45)."
+    },
+    {
+      "ref": "37:10-13",
+      "texto": "Eliú menciona que o frio e a tempestade são também instrumentos de Deus, usados para Sua glória e para cumprir Seus propósitos. Isso nos lembra que mesmo as dificuldades têm um papel na obra divina (veja também Romanos 8:28 e Isaías 45:7)."
+    },
+    {
+      "ref": "37:14-16",
+      "texto": "Eliú exorta Jó a contemplar os feitos de Deus e a entender Seu poder. Essa chamada à reflexão é essencial na vida espiritual, pois nos ajuda a reconhecer a grandeza de Deus e a nossa posição diante Dele (veja também Salmo 46:10 e Colossenses 3:2)."
+    },
+    {
+      "ref": "37:22-24",
+      "texto": "Eliú conclui que devemos temer a Deus, que é majestoso e poderoso. Essa reverência é fundamental na relação do ser humano com o Criador, ressaltando que o temor do Senhor é o princípio da sabedoria (veja também Provérbios 1:7 e Salmo 111:10)."
+    }
+  ]
+}

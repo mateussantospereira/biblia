@@ -1,0 +1,100 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "oseias",
+  "nome": "Oséias",
+  "testamento": "AT",
+  "capitulo": 12,
+  "totalVersiculos": 15,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/oseias/12/",
+  "capturadoEm": "2026-11-15T09:24:40-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Efraim cerca-me de mentira, e a casa de Israel, de hipocrisia; Judá é um testemunho traidor de Deus, que tem comércio com as hieródulas.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Efraim se alimenta de vento, persegue o vento do Oriente, multiplica dia a dia a mentira e a violência; fazem aliança com a Assíria, e transportam óleo em homenagem ao Egito.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "O Senhor está em processo com Judá; vai castigar Jacó pelos seus atos e tratá-lo segundo as suas obras."
+    },
+    {
+      "numero": 4,
+      "texto": "Desde o nascimento, Jacó suplantou o irmão, e, quando se tornou adulto, lutou com Deus.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Lutou com o anjo e o venceu, chorou e lhe pediu graça. Encontrou-o em Betel, onde Deus nos falou,",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "o Senhor, Deus dos exércitos, cujo nome é Javé."
+    },
+    {
+      "numero": 7,
+      "texto": "Quanto a ti, volta ao teu Deus, conserva a piedade e a justiça, e espera sempre no teu Deus.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Esse mercador tem uma balança falsa e ama a fraude!",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Efraim disse: “Em verdade, tornei-me rico, amontoei fortuna”. Mas todos os seus ganhos não poderiam compensar os pecados que ele cometeu."
+    },
+    {
+      "numero": 10,
+      "texto": "Eu sou o Senhor, teu Deus, desde a saída do Egito; farei com que habites de novo sob tendas, como nos dias de festa.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Falei aos profetas e multipliquei as visões; pela boca dos profetas falei em comparações."
+    },
+    {
+      "numero": 12,
+      "texto": "Se Galaad não passa de um ídolo vão, eles se tornaram em Guilgal um puro nada; ofereceram sacrifícios aos ídolos, por isso, seus altares serão transformados em montões de pedras nos sulcos dos campos.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Jacó fugiu para os campos de Arão, Israel trabalhou como servo para obter esposa, e por uma mulher guardou os rebanhos.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "O Senhor fez sair Israel do Egito por um profeta, por um profeta foi guardado o povo."
+    },
+    {
+      "numero": 15,
+      "texto": "Efraim causou amargos desgostos: por isso, o sangue que ele derramou recairá sobre ele, e seu Senhor lhe pagará seus ultrajes."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "12:1-2",
+      "texto": "Israel continua a se rebelar contra Deus, buscando ajuda em alianças com nações estrangeiras. Esse comportamento reflete a ingratidão do povo, que esqueceu a fidelidade de Deus em sua história, como visto nas passagens de Abraão e Jacó (veja também 2 Reis 17:4 e Jeremias 2:13)."
+    },
+    {
+      "ref": "12:3-6",
+      "texto": "O exemplo de Jacó, que lutou com Deus e prevaleceu, é usado para chamar Israel ao arrependimento e à verdadeira adoração. Deus é apresentado como aquele que abençoa os que buscam a Sua face com humildade e sinceridade (veja também Gênesis 32:22-32 e Tiago 4:10)."
+    },
+    {
+      "ref": "12:7-9",
+      "texto": "Israel é repreendido por sua dependência de riquezas e falsidade. A verdadeira bênção de Deus não vem de recursos materiais, mas de viver em obediência e fidelidade ao Senhor. O apelo é para que o povo busque a justiça e a misericórdia (veja também Amós 5:24 e Mateus 6:33)."
+    },
+    {
+      "ref": "12:10-14",
+      "texto": "Deus enviou os profetas para advertir Israel, mas o povo ainda rejeita a mensagem divina. O capítulo destaca a necessidade de ouvir a voz de Deus e buscar a Sua orientação para restaurar a aliança (veja também Jeremias 7:25-26 e Hebreus 3:7-8)."
+    }
+  ]
+}

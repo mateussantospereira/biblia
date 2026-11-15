@@ -1,0 +1,121 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "romanos",
+  "nome": "Romanos",
+  "testamento": "NT",
+  "capitulo": 12,
+  "totalVersiculos": 21,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/romanos/12/",
+  "capturadoEm": "2026-11-15T09:27:48-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eu vos exorto, pois, irmãos, pelas misericórdias de Deus, a oferecerdes vossos corpos em sacrifício vivo, santo, agradável a Deus: é este o vosso culto espiritual."
+    },
+    {
+      "numero": 2,
+      "texto": "Não vos conformeis com este mundo, mas transformai-vos pela renovação do vosso espírito, para que possais discernir qual é a vontade de Deus, o que é bom, o que lhe agrada e o que é perfeito."
+    },
+    {
+      "numero": 3,
+      "texto": "Em virtude da graça que me foi dada, recomendo a todos e a cada um: não façam de si próprios uma opinião maior do que convém, mas um conceito razoavelmente modesto, de acordo com o grau de fé que Deus lhes distribuiu.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Pois, como em um só corpo temos muitos membros e cada um dos nossos membros tem diferente função,"
+    },
+    {
+      "numero": 5,
+      "texto": "assim nós, embora sejamos muitos, formamos um só corpo em Cristo, e cada um de nós é membro um do outro."
+    },
+    {
+      "numero": 6,
+      "texto": "Temos dons diferentes, conforme a graça que nos foi conferida. Aquele que tem o dom da profecia, exerça-o conforme a fé."
+    },
+    {
+      "numero": 7,
+      "texto": "Aquele que é chamado ao ministério, dedique-se ao ministério. Se tem o dom de ensinar, que ensine;"
+    },
+    {
+      "numero": 8,
+      "texto": "o dom de exortar, que exorte; aquele que distribui as esmolas, faça-o com simplicidade; aquele que preside, presida com zelo; aquele que exerce a misericórdia, que o faça com afabilidade."
+    },
+    {
+      "numero": 9,
+      "texto": "Que vossa caridade não seja fingida. Aborrecei o mal, apegai-vos solidamente ao bem."
+    },
+    {
+      "numero": 10,
+      "texto": "Amai-vos mutuamente com afeição terna e fraternal. Adiantai-vos em honrar uns aos outros."
+    },
+    {
+      "numero": 11,
+      "texto": "Não relaxeis o vosso zelo. Sede fervorosos de espírito. Servi ao Senhor."
+    },
+    {
+      "numero": 12,
+      "texto": "Sede alegres na esperança, pacientes na tribulação e perseverantes na oração."
+    },
+    {
+      "numero": 13,
+      "texto": "Socorrei às necessidades dos fiéis. Esmerai-vos na prática da hospitalidade."
+    },
+    {
+      "numero": 14,
+      "texto": "Abençoai os que vos perseguem; abençoai-os, e não os praguejeis."
+    },
+    {
+      "numero": 15,
+      "texto": "Alegrai-vos com os que se alegram; chorai com os que choram."
+    },
+    {
+      "numero": 16,
+      "texto": "Vivei em boa harmonia uns com os outros. Não vos deixeis levar pelo gosto das grandezas; afeiçoai-vos com as coisas modestas. Não sejais sábios aos vossos próprios olhos."
+    },
+    {
+      "numero": 17,
+      "texto": "Não pagueis a ninguém o mal com o mal. Aplicai-vos a fazer o bem diante de todos os homens."
+    },
+    {
+      "numero": 18,
+      "texto": "Se for possível, quanto depender de vós, vivei em paz com todos os homens."
+    },
+    {
+      "numero": 19,
+      "texto": "Não vos vingueis uns dos outros, caríssimos, mas deixai agir a ira de Deus, porque está escrito: A mim a vingança; a mim exercer a justiça, diz o Senhor (Dt 32,35)."
+    },
+    {
+      "numero": 20,
+      "texto": "Se o teu inimigo tiver fome, dá-lhe de comer; se tiver sede, dá-lhe de beber. Procedendo assim, amontoarás carvões em brasa sobre a sua cabeça (Pr 25,21s).",
+      "nota": true
+    },
+    {
+      "numero": 21,
+      "texto": "Não te deixes vencer pelo mal, mas triunfa do mal com o bem."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "12:1-2",
+      "texto": "Paulo apela para que os cristãos ofereçam seus corpos como sacrifício vivo, um ato de adoração que vai além de rituais, refletindo a transformação pela renovação da mente. A vida cristã é marcada por mudança e consagração total (veja também 1 Pedro 2:5 e Efésios 4:23-24)."
+    },
+    {
+      "ref": "12:3-8",
+      "texto": "Paulo exorta os cristãos a não se considerarem superiores aos outros, mas a usarem seus dons espirituais com humildade. A diversidade de dons no Corpo de Cristo mostra a unidade da Igreja (veja também 1 Coríntios 12:4-7 e 1 Pedro 4:10)."
+    },
+    {
+      "ref": "12:9-13",
+      "texto": "A verdadeira fé se reflete em ações concretas de amor e serviço. Paulo instrui os cristãos a amar sinceramente, a servir com alegria, a buscar a paz e a praticar hospitalidade (veja também 1 Coríntios 13:4-7 e Hebreus 13:2)."
+    },
+    {
+      "ref": "12:14-21",
+      "texto": "Paulo exorta os cristãos a não se vingar, mas a superar o mal com o bem. Esse ensinamento reflete a natureza de Cristo e é um convite a viver como Ele viveu, com perdão e misericórdia (veja também Mateus 5:44 e 1 Pedro 3:9)."
+    },
+    {
+      "ref": "12:1-2",
+      "texto": "Paulo chama os cristãos a não se conformarem com este mundo, mas a serem transformados pela renovação da mente, para que possam discernir a vontade de Deus (veja também 1 João 2:15-17 e Colossenses 3:2)."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-timoteo",
+  "nome": "I Timóteo",
+  "testamento": "NT",
+  "capitulo": 3,
+  "totalVersiculos": 16,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-timoteo/3/",
+  "capturadoEm": "2026-11-15T09:28:53-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eis uma coisa certa: quem aspira ao episcopado, saiba que está desejando uma função sublime."
+    },
+    {
+      "numero": 2,
+      "texto": "Porque o bispo tem o dever de ser irrepreensível, casado uma só vez, sóbrio, prudente, regrado no seu proceder, hospitaleiro, capaz de ensinar.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Não deve ser dado a bebidas, nem violento, mas condescendente, pacífico, desinteressado;"
+    },
+    {
+      "numero": 4,
+      "texto": "deve saber governar bem a sua casa, educar os seus filhos na obediência e na castidade."
+    },
+    {
+      "numero": 5,
+      "texto": "Pois quem não sabe governar a sua própria casa, como terá cuidado da Igreja de Deus?"
+    },
+    {
+      "numero": 6,
+      "texto": "Não pode ser um recém-convertido, para não acontecer que, ofuscado pela vaidade, venha a cair na mesma condenação que o demônio."
+    },
+    {
+      "numero": 7,
+      "texto": "Importa, outrossim, que goze de boa consideração por parte dos de fora, para que não se exponha ao desprezo e caia assim nas ciladas diabólicas."
+    },
+    {
+      "numero": 8,
+      "texto": "Do mesmo modo, os diáconos sejam honestos, não de duas atitudes nem propensos ao excesso da bebida e ao espírito de lucro;"
+    },
+    {
+      "numero": 9,
+      "texto": "que guardem o mistério da fé numa consciência pura."
+    },
+    {
+      "numero": 10,
+      "texto": "Antes de poderem exercer o seu ministério, sejam provados para que se tenha certeza de que são irrepreensíveis."
+    },
+    {
+      "numero": 11,
+      "texto": "As mulheres também sejam honestas, não difamadoras, mas sóbrias e fiéis em tudo.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Os diáconos não sejam casados senão uma vez, e saibam governar os filhos e a casa."
+    },
+    {
+      "numero": 13,
+      "texto": "E os que desempenharem bem estse ministério, alcançarão honrosa posição e grande confiança na fé, em Jesus Cristo."
+    },
+    {
+      "numero": 14,
+      "texto": "Estas coisas te escrevo, mas espero ir visitar-te muito em breve."
+    },
+    {
+      "numero": 15,
+      "texto": "Todavia, se eu tardar, quero que saibas como deves portar-te na casa de Deus, que é a Igreja de Deus vivo, coluna e sustentáculo da verdade."
+    },
+    {
+      "numero": 16,
+      "texto": "Sim, é tão sublime – unanimemente o proclamamos – o mistério da bondade divina: “manifestado na carne, justificado no Espírito, visto pelos anjos, anunciado aos povos, acreditado no mundo, exaltado na glória!”.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-7",
+      "texto": "Paulo apresenta as qualificações de um bispo, que deve ser irrepreensível, capaz de ensinar e administrar bem sua casa. A liderança na Igreja deve refletir a integridade cristã (veja também Tito 1:5-9 e 1 Pedro 5:2-4)."
+    },
+    {
+      "ref": "3:8-13",
+      "texto": "Paulo também fala sobre as qualificações para diáconos, destacando a necessidade de serem dignos de confiança, honestos e com boa reputação. O serviço cristão deve ser caracterizado pela integridade e humildade (veja também Atos 6:1-6 e Filipenses 1:1)."
+    }
+  ]
+}

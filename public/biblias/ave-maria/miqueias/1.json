@@ -1,0 +1,102 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "miqueias",
+  "nome": "Miquéias",
+  "testamento": "AT",
+  "capitulo": 1,
+  "totalVersiculos": 16,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/miqueias/1/",
+  "capturadoEm": "2026-11-15T09:25:01-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Oráculos do Senhor dirigidos a Miqueias de Morasti, no tempo de Joatão, de Acaz e de Ezequias, reis de Judá."
+    },
+    {
+      "numero": 2,
+      "texto": "Povos, ouvi todos! Terra, e tudo o que conténs, estai atenta! O Senhor Javé vai testemunhar contra vós, o Senhor, do alto de sua santa morada."
+    },
+    {
+      "numero": 3,
+      "texto": "O Senhor vai sair de sua morada, vai descer e pisar os mais altos cumes da terra."
+    },
+    {
+      "numero": 4,
+      "texto": "Sob seus pés os montes se fundirão, os vales se dissolverão como a cera perto do fogo, como a água que rola pela encosta."
+    },
+    {
+      "numero": 5,
+      "texto": "Tudo isso por causa da infidelidade de Jacó, por causa dos pecados da casa de Israel. Qual é a infidelidade de Jacó? Não é a Samaria? Quais os lugares altos de Judá? Não é Jerusalém?"
+    },
+    {
+      "numero": 6,
+      "texto": "Farei da Samaria um montão de pedras no campo, um terreno onde plantarão vinhas. Farei rolar as suas pedras no fundo do vale, e porei a descoberto seus alicerces."
+    },
+    {
+      "numero": 7,
+      "texto": "Todos os seus ídolos serão quebrados, todos os seus ganhos de prostituição serão queimados no fogo; destruirei todos os seus ídolos, porque foram pagos com salário de prostituição, e em salário de prostituição serão convertidos.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Por isso, prantearei, gritarei, andarei descalço e nu, soltarei gemidos como o chacal, e lamentações como o avestruz."
+    },
+    {
+      "numero": 9,
+      "texto": "Porque o golpe na Samaria é incurável, e atinge também Judá; feriu até a porta de meu povo, até Jerusalém.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Não o anuncieis em Gat, não choreis em Soco! Revolve-te no pó em Bet-Leafra;",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "passa numa vergonhosa nudez, habitante de Safir. Os habitantes de Saanã não saem mais, o luto de Bet-Esel tira-vos o seu refúgio."
+    },
+    {
+      "numero": 12,
+      "texto": "O habitante de Marot treme por seus bens, porque a desgraça mandada pelo Senhor chegou às portas de Jerusalém."
+    },
+    {
+      "numero": 13,
+      "texto": "Atrela o cavalo ao carro, habitante de Laquis! Foste a causa dos pecados da filha de Sião, pois em ti se acharam as maldades de Israel."
+    },
+    {
+      "numero": 14,
+      "texto": "Por isso, será preciso renunciar a Morasti de Gat; as casas de Aczib decepcionarão os reis de Israel."
+    },
+    {
+      "numero": 15,
+      "texto": "Habitante de Maresa, eu te mandarei um novo senhor, o escol de Israel irá até Odolam."
+    },
+    {
+      "numero": 16,
+      "texto": "Corta os teus cabelos; rapa a tua cabeça por causa de teus filhos queridos; torna-te calva, como o abutre, porque foram levados cativos para longe de ti."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:1-2",
+      "texto": "O profeta Miquéias inicia sua mensagem com um chamado de atenção à terra e aos montes, destacando que o julgamento de Deus está iminente. Esse chamado sublinha a autoridade de Deus sobre toda a criação, simbolizando a abrangência do Seu juízo (veja também Isaías 2:19 e Apocalipse 20:11-15)."
+    },
+    {
+      "ref": "1:3-4",
+      "texto": "A descida de Deus sobre Judá e Israel, representada por uma grande destruição, ilustra a seriedade do julgamento divino. A visão de Miquéias é uma demonstração de como o pecado traz consequências profundas para as nações (veja também Ezequiel 7:2-4 e Amós 9:5-6)."
+    },
+    {
+      "ref": "1:5-7",
+      "texto": "A corrupção de Israel e Judá, refletida no pecado de Samaria e Jerusalém, é o motivo principal do juízo de Deus. O pecado das nações, particularmente a idolatria, resultará na destruição, evidenciando a natureza da justiça de Deus (veja também 2 Reis 17:7-18 e Isaías 1:4)."
+    },
+    {
+      "ref": "1:8-9",
+      "texto": "O profeta expressa seu lamento pela destruição iminente, simbolizando a dor e sofrimento que vêm com o juízo. O lamento é uma expressão de arrependimento e reconhecimento da gravidade do pecado (veja também Jeremias 4:19 e Amós 6:6)."
+    },
+    {
+      "ref": "1:10-16",
+      "texto": "O profeta usa nomes de cidades para ilustrar o julgamento que se aproxima, indicando que o juízo de Deus afetará todos os cantos do reino. As cidades mencionadas servem como metáforas para as diferentes formas de pecado (veja também Isaías 10:28-34 e Jeremias 23:10)."
+    }
+  ]
+}

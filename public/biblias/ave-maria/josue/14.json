@@ -1,0 +1,96 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "josue",
+  "nome": "Josué",
+  "testamento": "AT",
+  "capitulo": 14,
+  "totalVersiculos": 15,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/josue/14/",
+  "capturadoEm": "2026-11-15T09:10:35-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eis as partes que os filhos de Israel receberam em herança na terra de Canaã, que lhes deram o sacerdote Eleazar, Josué, filho de Nun, e os chefes de família das tribos de Israel."
+    },
+    {
+      "numero": 2,
+      "texto": "A repartição fez-se por sorte pelas nove tribos e meia, como o Senhor havia prescrito, por meio de Moisés;"
+    },
+    {
+      "numero": 3,
+      "texto": "porque às outras duas tribos e meia, Moisés tinha dado sua parte além do Jordão; mas não deu parte alguma aos levitas."
+    },
+    {
+      "numero": 4,
+      "texto": "Os filhos de José formavam, com efeito, duas tribos: Manassés e Efraim. Aos levitas não deram herança na terra, mas apenas cidades para habitarem e os arredores dessas cidades para os seus rebanhos e os seus bens."
+    },
+    {
+      "numero": 5,
+      "texto": "Como o Senhor tinha ordenado a Moisés, assim fizeram os israelitas e dividiram a terra."
+    },
+    {
+      "numero": 6,
+      "texto": "Os filhos de Judá vieram ter com Josué, em Gálgala; e Caleb, filho de Jefoné, o cenezeu, disse-lhe: “Sabes o que o Senhor disse de mim e de ti a Moisés, homem de Deus, em Cades Barnes."
+    },
+    {
+      "numero": 7,
+      "texto": "Eu tinha quarenta anos quando Moisés, servo do Senhor, me enviou de Cades Barne a explorar a terra e eu lhe fiz um relatório perfeitamente sincero."
+    },
+    {
+      "numero": 8,
+      "texto": "Meus irmãos que tinham ido comigo desanimaram o povo, mas eu segui fielmente o Senhor, meu Deus."
+    },
+    {
+      "numero": 9,
+      "texto": "Naquele dia, Moisés fez este juramento: ‘A terra que pisaste será a tua parte e a de teus filhos para sempre, porque seguiste fielmente o Senhor, meu Deus’."
+    },
+    {
+      "numero": 10,
+      "texto": "Pois bem, eis que o Senhor conservou-me a vida, como prometeu. Quarenta e cinco anos são passados desde que o Senhor assim falou a Moisés, durante a marcha de Israel pelo deserto; tenho hoje oitenta e cinco anos,"
+    },
+    {
+      "numero": 11,
+      "texto": "e acho-me ainda robusto como no dia em que Moisés me enviou, e sinto-me tão forte como naquele tempo, tanto para a guerra como para qualquer outra missão.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Dá-me, pois, este monte que o Senhor me prometeu naquele tempo; porque naquele dia ouviste que se encontram enacim neste lugar e também grandes fortalezas. Se o Senhor estiver comigo, conseguirei despojá-los, como ele disse”."
+    },
+    {
+      "numero": 13,
+      "texto": "Josué abençoou Caleb, filho de Jefoné e lhe deu Hebron como herança."
+    },
+    {
+      "numero": 14,
+      "texto": "Eis por que Hebron pertence até o dia de hoje a Caleb, filho de Jefoné, o cenezeu, porque ele seguiu fielmente o Senhor, Deus de Israel."
+    },
+    {
+      "numero": 15,
+      "texto": "Hebron chamava-se outrora Cariat-Arbe; Arbe foi o maior homem entre os enacim. E a terra ficou, a partir de então, tranquila e sem guerra."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "14:1-5",
+      "texto": "A distribuição da terra é dirigida por Eleazar e Josué, enfatizando a liderança espiritual e a necessidade de consulta a Deus nas decisões importantes. Isso destaca o papel da liderança obediente em guiar o povo de Deus (veja também Provérbios 3:5-6 e 1 Timóteo 2:1-2)."
+    },
+    {
+      "ref": "14:6-9",
+      "texto": "Caleb recorda sua fidelidade a Deus e a promessa recebida, mostrando a importância de lembrar as promessas divinas em momentos de dúvida. Isso incentiva a perseverança e a fé nas promessas de Deus (veja também Números 14:24 e Hebreus 6:12)."
+    },
+    {
+      "ref": "14:10-12",
+      "texto": "Caleb, agora com 85 anos, ainda está disposto a lutar por sua herança. Sua coragem e determinação servem como exemplo de fé e perseverança em Deus ao longo da vida (veja também Salmo 92:12-14 e Filipenses 4:13)."
+    },
+    {
+      "ref": "14:13-15",
+      "texto": "Josué concede a Caleb a cidade de Hebrom como herança, enfatizando a recompensa da fidelidade e da fé em Deus. A herança de Caleb simboliza a realização das promessas de Deus para aqueles que O seguem (veja também Salmo 37:4 e Gálatas 6:9)."
+    },
+    {
+      "ref": "14:15",
+      "texto": "A cidade de Hebrom é chamada de cidade de Arba, o homem mais forte entre os cananeus. Essa referência histórica reitera a batalha entre a fé e a força aparente do inimigo, mostrando que Deus é maior que qualquer obstáculo (veja também 1 João 4:4 e Romanos 8:31)."
+    }
+  ]
+}

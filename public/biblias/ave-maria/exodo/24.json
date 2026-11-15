@@ -1,0 +1,109 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "exodo",
+  "nome": "Êxodo",
+  "testamento": "AT",
+  "capitulo": 24,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/exodo/24/",
+  "capturadoEm": "2026-11-15T09:08:24-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Deus disse a Moisés: “Sobe para o Senhor, com Aarão, Nadab e Abiú e setenta anciãos de Israel, e prostrai-vos à distância."
+    },
+    {
+      "numero": 2,
+      "texto": "Só Moisés se aproximará do Senhor, e não os outros, e o povo não subirá com ele”."
+    },
+    {
+      "numero": 3,
+      "texto": "Moisés veio referir ao povo todas as palavras do Senhor, e todas as suas leis; e o povo inteiro respondeu a uma voz: “Faremos tudo o que o Senhor disse”."
+    },
+    {
+      "numero": 4,
+      "texto": "E Moisés escreveu todas as palavras do Senhor. No dia seguinte, de manhã, edificou um altar ao pé da montanha e levantou estelas para as doze tribos de Israel."
+    },
+    {
+      "numero": 5,
+      "texto": "Enviou jovens dentre os israelitas, os quais ofereceram holocaustos e sacrifícios ao Senhor e imolaram touros em sacrifícios pacíficos."
+    },
+    {
+      "numero": 6,
+      "texto": "Moisés tomou a metade do sangue para colocá-lo em bacias, e derramou a outra metade sobre o altar."
+    },
+    {
+      "numero": 7,
+      "texto": "Tomou o livro da aliança e o leu ao povo, que respondeu: “Faremos tudo o que o Senhor disse e seremos obedientes”."
+    },
+    {
+      "numero": 8,
+      "texto": "Moisés tomou o sangue para aspergir com ele o povo: “Eis – disse ele – o sangue da aliança que o Senhor fez convosco, conforme tudo o que foi dito”.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Moisés subiu, com Aarão, Nadab e Abiú, e setenta anciãos de Israel."
+    },
+    {
+      "numero": 10,
+      "texto": "Eles viram o Deus de Israel. Sob os seus pés havia como um lajeado de safiras transparentes, tão límpido como o próprio céu."
+    },
+    {
+      "numero": 11,
+      "texto": "Sobre os eleitos dos israelitas, Deus não estendeu a mão. Viram Deus, e depois comeram e beberam.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "O Senhor disse a Moisés: “Sobe para mim ao monte. Ficarás ali para que eu te dê as tábuas de pedra, a lei e as ordenações que escrevi para sua instrução”."
+    },
+    {
+      "numero": 13,
+      "texto": "Moisés levantou-se com Josué, seu auxiliar, e subiu ao monte de Deus."
+    },
+    {
+      "numero": 14,
+      "texto": "E disse aos anciãos: “Esperai-nos aqui até que voltemos. Tendes convosco Aarão e Hur. Se alguém tiver um litígio, se dirigirá a eles”."
+    },
+    {
+      "numero": 15,
+      "texto": "Moisés subiu ao monte. A nuvem cobriu o monte"
+    },
+    {
+      "numero": 16,
+      "texto": "e a glória do Senhor repousou sobre o monte Sinai, que ficou envolvido na nuvem durante seis dias. No sétimo dia, o Senhor chamou Moisés do seio da nuvem."
+    },
+    {
+      "numero": 17,
+      "texto": "Aos olhos dos israelitas a glória do Senhor tinha o aspecto de um fogo consumidor sobre o cume do monte."
+    },
+    {
+      "numero": 18,
+      "texto": "Moisés penetrou na nuvem e subiu a montanha. Ficou ali quarenta dias e quarenta noites."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "24:1-2",
+      "texto": "Moisés, Arão, Nadabe, Abiú e setenta anciãos sobem ao monte para adorar de longe, indicando a santidade e a separação de Deus, bem como o papel de mediador de Moisés. Isso reflete o temor reverente diante de Deus (veja também Hebreus 12:18-24 e Deuteronômio 5:5)."
+    },
+    {
+      "ref": "24:3-4",
+      "texto": "Moisés escreve todas as palavras do Senhor e o povo se compromete a obedecer. Isso reforça a importância da aliança e do compromisso do povo de Israel em seguir os mandamentos de Deus (veja também Êxodo 19:8 e Josué 24:24)."
+    },
+    {
+      "ref": "24:5-8",
+      "texto": "O sangue das ofertas é aspergido sobre o povo e o altar, selando a aliança com Deus. Isso simboliza a purificação e o compromisso com a santidade (veja também Hebreus 9:19-22 e Levítico 17:11)."
+    },
+    {
+      "ref": "24:9-11",
+      "texto": "Moisés e os anciãos de Israel têm uma visão de Deus e compartilham uma refeição em Sua presença, mostrando que a aliança de Deus inclui comunhão e relacionamento pessoal (veja também Êxodo 33:11 e Mateus 26:26-28)."
+    },
+    {
+      "ref": "24:12-18",
+      "texto": "Moisés sobe ao monte para receber as tábuas da Lei, permanecendo lá por quarenta dias e quarenta noites. Isso destaca o papel de Moisés como mediador entre Deus e o povo e o profundo significado da revelação divina (veja também Êxodo 31:18 e Mateus 4:2)."
+    }
+  ]
+}

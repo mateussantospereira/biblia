@@ -1,0 +1,83 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "ester",
+  "nome": "Ester",
+  "testamento": "AT",
+  "capitulo": 11,
+  "totalVersiculos": 12,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/ester/11/",
+  "capturadoEm": "2026-11-15T09:51:10-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "No ano quarto, reinando Ptolomeu e Cleópatra, Dositeu, que se dizia sacerdote e da linhagem de Levi, assim como Ptolomeu, seu filho, trouxeram esta carta de Purim, que disseram ter sido traduzida em Jerusalém por Lisímaco, filho de Ptolomeu. (ver nota)"
+    },
+    {
+      "numero": 2,
+      "texto": "No ano segundo do reinado do mui grande Artaxerxes (ou Assuero), no primeiro dia do mês de Nisan, Mardoqueu, filho de Jair, filho de Semei, filho de Cis, da tribo de Benjamim, teve um sonho."
+    },
+    {
+      "numero": 3,
+      "texto": "Ele era um homem judeu, que morava na cidade de Susa, varão grande, dos primeiros da corte do rei."
+    },
+    {
+      "numero": 4,
+      "texto": "Era do número dos cativos, que Nabucodonosor, rei de Babilônia, tinha levado de Jerusalém com Jeconias, rei de Judá."
+    },
+    {
+      "numero": 5,
+      "texto": "O seu sonho foi este: Pareceu-lhe ouvir vozes, estrondos, trovões, terremotos e perturbações sobre a terra."
+    },
+    {
+      "numero": 6,
+      "texto": "Depois, subitamente, apareceram dois grandes dragões, prontos para combater um contra o outro."
+    },
+    {
+      "numero": 7,
+      "texto": "Ao grito deles, alvoroçaram-se todas as nações para combater o povo dos justos,"
+    },
+    {
+      "numero": 8,
+      "texto": "Foi aquele um dia de trevas e de perigo, de tribulação e de angústia, e houve grande temor sobre a terra."
+    },
+    {
+      "numero": 9,
+      "texto": "Conturbou-se a nação dos justos, temendo os seus males, e preparou-se para a morte."
+    },
+    {
+      "numero": 10,
+      "texto": "Clamaram a Deus, e, quando levantaram o grito, uma pequena fonte tornou-se um rio muito grande, e derramou águas em grandíssima abundância."
+    },
+    {
+      "numero": 11,
+      "texto": "A luz e o sol brilharam, e os humildes foram exaltados e devoraram os grandes."
+    },
+    {
+      "numero": 12,
+      "texto": "Quando Mardoqueu viu isto, levantou-se do leito e pôs-se a pensar no que Deus quereria fazer; tinha o sonho fixo em seu espírito, desejando saber o que significaria."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "11:1",
+      "texto": "O capítulo inicia com uma oração de Mordecai, expressando sua angústia diante da opressão do povo. Isso ressalta a importância da oração como um meio de buscar a intervenção de Deus em tempos de crise (veja também Salmo 34:17 e Filipenses 4:6-7)."
+    },
+    {
+      "ref": "11:2-3",
+      "texto": "A descrição da situação dos judeus evidencia a urgência de sua necessidade de salvação. A opressão é um tema central que destaca a necessidade de um redentor, simbolizando a espera messiânica (veja também Salmo 22:1 e Isaías 53:3-5)."
+    },
+    {
+      "ref": "11:4-5",
+      "texto": "A visão de Mordecai revela o papel essencial de Ester como intercessora. A intercessão é uma prática poderosa que reflete o amor e a compaixão de Deus por Seu povo (veja também Romanos 8:34 e 1 Timóteo 2:1-2)."
+    },
+    {
+      "ref": "11:6-7",
+      "texto": "Mordecai convoca todos os judeus a se unirem em jejum e oração, mostrando a importância da comunhão e da solidariedade em tempos difíceis. O jejum é um ato de humildade diante de Deus (veja também Joel 2:12-13 e Mateus 6:16-18)."
+    },
+    {
+      "ref": "11:8-9",
+      "texto": "A resposta de Deus à oração e ao jejum de Mordecai e do povo ressalta a fidelidade divina. O Senhor sempre ouve os clamores de Seu povo e responde em Seu tempo perfeito (veja também Salmo 18:6 e 1 João 5:14-15)."
+    }
+  ]
+}

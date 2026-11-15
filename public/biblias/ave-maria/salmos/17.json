@@ -1,0 +1,242 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 17,
+  "totalVersiculos": 51,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/17/",
+  "capturadoEm": "2026-11-15T09:16:18-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. De Davi, servo do Senhor, que dirigiu as palavras deste cântico ao Senhor, no dia em que ficou livre de todos os seus inimigos e das mãos de Saul.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Disse: Eu vos amo, Senhor, minha força!"
+    },
+    {
+      "numero": 3,
+      "texto": "O Senhor é o meu rochedo, minha fortaleza e meu libertador. Meu Deus é a minha rocha, onde encontro o meu refúgio, meu escudo, força de minha salvação e minha cidadela."
+    },
+    {
+      "numero": 4,
+      "texto": "Invoco o Senhor, digno de todo louvor, e fico livre dos meus inimigos."
+    },
+    {
+      "numero": 5,
+      "texto": "Circundavam-me os vagalhões da morte, torrentes devastadoras me atemorizavam,"
+    },
+    {
+      "numero": 6,
+      "texto": "enlaçavam-se as cadeias da habitação dos mortos, a própria morte me prendia em suas redes."
+    },
+    {
+      "numero": 7,
+      "texto": "Na minha angústia, invoquei o Senhor, gritei para meu Deus: do seu templo ele ouviu a minha voz, e o meu clamor em sua presença chegou aos seus ouvidos."
+    },
+    {
+      "numero": 8,
+      "texto": "A terra vacilou e tremeu, os fundamentos das montanhas fremiram, abalaram-se, porque Deus se abrasou em cólera:"
+    },
+    {
+      "numero": 9,
+      "texto": "suas narinas exalavam fumaça; sua boca, fogo devorador, brasas incandescentes."
+    },
+    {
+      "numero": 10,
+      "texto": "Ele inclinou os céus e desceu, calcando aos pés escuras nuvens."
+    },
+    {
+      "numero": 11,
+      "texto": "Cavalgou sobre um querubim e voou, planando nas asas do vento."
+    },
+    {
+      "numero": 12,
+      "texto": "Envolveu-se nas trevas como se fossem véu, fez para si uma tenda das águas tenebrosas, densas nuvens."
+    },
+    {
+      "numero": 13,
+      "texto": "Do esplendor de sua presença suas nuvens avançaram: saraiva e centelhas de fogo."
+    },
+    {
+      "numero": 14,
+      "texto": "Do céu trovejou o Senhor, o Altíssimo fez ressoar sua voz."
+    },
+    {
+      "numero": 15,
+      "texto": "Lançou setas e dispersou os inimigos, fulminou relâmpagos e os desbaratou.",
+      "nota": true
+    },
+    {
+      "numero": 16,
+      "texto": "E apareceu descoberto o leito do mar, ficaram à vista os fundamentos da terra, ante a vossa ameaçadora voz, ó Senhor, ante o furacão de vossa cólera."
+    },
+    {
+      "numero": 17,
+      "texto": "Do alto estendeu a sua mão e me pegou, e retirou-me das águas profundas,"
+    },
+    {
+      "numero": 18,
+      "texto": "livrou-me de inimigo poderoso, dos meus adversários mais fortes do que eu."
+    },
+    {
+      "numero": 19,
+      "texto": "Investiram contra mim no dia do meu infortúnio, mas o Senhor foi o meu arrimo;"
+    },
+    {
+      "numero": 20,
+      "texto": "pôs-me a salvo e livrou-me, porque me ama."
+    },
+    {
+      "numero": 21,
+      "texto": "O Senhor me tratou segundo a minha inocência, retribuiu-me segundo a pureza de minhas mãos,"
+    },
+    {
+      "numero": 22,
+      "texto": "porque guardei os caminhos do Senhor e não pequei separando-me do meu Deus."
+    },
+    {
+      "numero": 23,
+      "texto": "Tenho diante dos olhos todos os seus preceitos e não me desvio de suas leis."
+    },
+    {
+      "numero": 24,
+      "texto": "Ando irrepreensivelmente diante dele, guardando-me do meu pecado."
+    },
+    {
+      "numero": 25,
+      "texto": "O Senhor retribuiu-me segundo a minha justiça, segundo a pureza de minhas mãos diante dos seus olhos."
+    },
+    {
+      "numero": 26,
+      "texto": "Com quem é bondoso vos mostrais bondoso, com o homem íntegro vos mostrais íntegro;"
+    },
+    {
+      "numero": 27,
+      "texto": "puro com quem é puro; prudente com quem é astuto."
+    },
+    {
+      "numero": 28,
+      "texto": "Os humildes salvais, os semblantes soberbos humilhais."
+    },
+    {
+      "numero": 29,
+      "texto": "Senhor, sois vós que fazeis brilhar o meu farol, sois vós que dissipais as minhas trevas."
+    },
+    {
+      "numero": 30,
+      "texto": "Convosco afrontarei batalhões, com meu Deus escalarei muralhas."
+    },
+    {
+      "numero": 31,
+      "texto": "Os caminhos de Deus são perfeitos, a palavra do Senhor é pura. Ele é o escudo de todos os que nele se refugiam."
+    },
+    {
+      "numero": 32,
+      "texto": "Pois quem é Deus senão o Senhor? Quem é o rochedo, senão o nosso Deus?"
+    },
+    {
+      "numero": 33,
+      "texto": "É Deus quem me cinge de coragem e aplana o meu caminho."
+    },
+    {
+      "numero": 34,
+      "texto": "Torna os meus pés velozes como os das gazelas e me instala nas alturas."
+    },
+    {
+      "numero": 35,
+      "texto": "Adestra minhas mãos para o combate e meus braços para o tiro de arco."
+    },
+    {
+      "numero": 36,
+      "texto": "Vós me dais o escudo que me salva. Vossa destra me sustém, e vossa bondade me engrandece."
+    },
+    {
+      "numero": 37,
+      "texto": "Alargais o caminho a meus passos, para meus pés não resvalarem."
+    },
+    {
+      "numero": 38,
+      "texto": "Dou caça aos inimigos e os alcanço, e não volto sem que os tenha aniquilado."
+    },
+    {
+      "numero": 39,
+      "texto": "De tal sorte os despedaço, que não mais poderão levantar-se: eles ficam caídos a meus pés."
+    },
+    {
+      "numero": 40,
+      "texto": "Vós me cingis de coragem para a luta e ante mim dobrais os meus adversários."
+    },
+    {
+      "numero": 41,
+      "texto": "Afugentais da minha presença os meus inimigos e reduzis ao silêncio os que me aborrecem."
+    },
+    {
+      "numero": 42,
+      "texto": "Gritam por socorro, mas não há quem os salve; clamam ao Senhor, mas não responde..."
+    },
+    {
+      "numero": 43,
+      "texto": "Eu os disperso como o pó que o vento leva, e os esmago como o barro das estradas."
+    },
+    {
+      "numero": 44,
+      "texto": "Vós me livrais das revoltas do povo e me colocais à frente das nações; povos que eu desconhecia se tornaram meus servos."
+    },
+    {
+      "numero": 45,
+      "texto": "Gente estranha me serve abnegadamente e me obedece à primeira intimação."
+    },
+    {
+      "numero": 46,
+      "texto": "Gente estranha desfalece e sai tremendo de seus esconderijos."
+    },
+    {
+      "numero": 47,
+      "texto": "Viva o Senhor e bendito seja o meu rochedo! Exaltado seja Deus, que me salva!"
+    },
+    {
+      "numero": 48,
+      "texto": "Deus, que me proporciona a vingança e avassala nações a meus pés."
+    },
+    {
+      "numero": 49,
+      "texto": "Sois vós que me libertais dos meus inimigos, me exaltais acima dos meus adversários e me salvais do homem violento."
+    },
+    {
+      "numero": 50,
+      "texto": "Por isso vos louvarei, ó Senhor, entre as nações e celebrarei o vosso nome.",
+      "nota": true
+    },
+    {
+      "numero": 51,
+      "texto": "Ele prepara grandes vitórias a seu rei e faz misericórdia a seu ungido, a Davi e a sua descendência para sempre."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "17:1-2",
+      "texto": "O salmista clama a Deus pedindo justiça e resposta. Este clamor é uma demonstração de confiança na capacidade de Deus em discernir e julgar com equidade. A importância da oração sincera é um tema central em momentos de angústia (veja também Salmo 34:17 e Mateus 7:7)."
+    },
+    {
+      "ref": "17:3-5",
+      "texto": "O salmista afirma sua integridade e fidelidade, mostrando que a honestidade é essencial na relação com Deus. Essa busca pela pureza moral é uma característica fundamental do coração que deseja agradar a Deus (veja também Salmo 15:1-5 e Tiago 1:12)."
+    },
+    {
+      "ref": "17:6-9",
+      "texto": "O pedido de proteção do salmista contra inimigos é uma expressão de confiança na proteção divina. A ideia de ser guardado à sombra das asas de Deus reflete a intimidade e segurança que Ele oferece aos Seus fiéis (veja também Salmo 91:1-2 e Mateus 10:29-31)."
+    },
+    {
+      "ref": "17:10-14",
+      "texto": "O salmista observa a malignidade de seus perseguidores, contrastando a fé em Deus com a confiança dos ímpios em suas riquezas e poder. Isso reforça a ideia de que a segurança verdadeira vem de Deus e não das posses materiais (veja também Salmo 37:1-2 e Lucas 12:15)."
+    },
+    {
+      "ref": "17:15",
+      "texto": "O salmista expressa sua esperança na visão de Deus, afirmando que, ao acordar, estará satisfeito com Sua semelhança. Isso destaca o anseio pela presença de Deus e a plenitude que se encontra em um relacionamento íntimo com Ele (veja também Salmo 16:11 e 1 João 3:2)."
+    }
+  ]
+}

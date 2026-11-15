@@ -1,0 +1,238 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-macabeus",
+  "nome": "I Macabeus",
+  "testamento": "AT",
+  "capitulo": 7,
+  "totalVersiculos": 50,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-macabeus/7/",
+  "capturadoEm": "2026-11-15T09:18:44-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "No ano cento e cinquenta e um, Demétrio, filho de Seleuco, escapou de Roma e, com alguns companheiros, alcançou uma cidade marítima onde se proclamou rei.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Quando ele entrou no palácio real de seus pais, o exército se apoderou de Antíoco e de Lísias para conduzi-los a ele."
+    },
+    {
+      "numero": 3,
+      "texto": "Soube-o o rei e disse: “Não me mostreis a sua face”."
+    },
+    {
+      "numero": 4,
+      "texto": "E o exército os matou, e Demétrio sentou-se no trono que lhe cabia."
+    },
+    {
+      "numero": 5,
+      "texto": "Todos os traidores e os ímpios de Israel achegaram-se dele sob a chefia de Alcimo, que aspirava tornar-se sumo sacerdote.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Acusaram o povo nestes termos: “Judas e seus irmãos mataram todos os teus amigos e nos expulsaram de nosso país."
+    },
+    {
+      "numero": 7,
+      "texto": "Envia, portanto, agora, um homem que possua tua confiança e que venha ver em que triste situação nos puseram, a nós e ao país que pertence ao rei, para castigar a eles e a todos os seus partidários”."
+    },
+    {
+      "numero": 8,
+      "texto": "O rei escolheu Báquides, um de seus amigos, então governador Além-do-Rio, um dos grandes do reino e fiel ao rei. Enviou-o"
+    },
+    {
+      "numero": 9,
+      "texto": "com o ímpio Alcimo, a quem destinou o cargo de sumo sacerdote, e deu-lhe ordem de tomar vingança dos filhos de Israel."
+    },
+    {
+      "numero": 10,
+      "texto": "Partiram, pois, e tomaram o caminho do país de Judá com um forte exército, enviando a Judas e seus irmãos palavras de paz capciosas."
+    },
+    {
+      "numero": 11,
+      "texto": "Vendo-os chegar com numerosas tropas, estes não lhes deram ouvido."
+    },
+    {
+      "numero": 12,
+      "texto": "Houve todavia um grupo de escribas que foi ter com Alcimo e Báquides, com palavras de justas reivindicações."
+    },
+    {
+      "numero": 13,
+      "texto": "Estes assideus, que eram os mais benquistos em Israel, pediam-lhes a paz."
+    },
+    {
+      "numero": 14,
+      "texto": "Diziam entre si: “É um sacerdote da raça de Aarão que vem a nós com o exército, ele não nos fará mal algum”."
+    },
+    {
+      "numero": 15,
+      "texto": "Alcimo trocou com eles palavras de paz e lhes jurou: “Não faremos mal nem a vós, nem a vossos amigos”."
+    },
+    {
+      "numero": 16,
+      "texto": "Acreditaram neles, mas ele apoderou-se de sessenta deles e mandou-os matar no mesmo dia, conforme estava escrito:"
+    },
+    {
+      "numero": 17,
+      "texto": "“Rios de sangue fizeram correr em torno de Jerusalém, e nem sequer havia quem os sepultasse”. (Sl 78,3)."
+    },
+    {
+      "numero": 18,
+      "texto": "O assombro e o terror apoderaram-se do povo, porque se dizia: “Não há entre eles nem verdade nem justiça, depois que violaram o pacto e o juramento que haviam confirmado”."
+    },
+    {
+      "numero": 19,
+      "texto": "Báquides partiu de Jerusalém e instalou seu acampamento em Bet-Zet, onde prendeu e lançou numa grande cisterna muitos desertores de seu exército e algumas pessoas do país."
+    },
+    {
+      "numero": 20,
+      "texto": "Confiou a terra nas mãos de Alcimo e, deixando-lhe um exército para socorrê-lo, regressou para junto do rei."
+    },
+    {
+      "numero": 21,
+      "texto": "Entretanto, Alcimo teve que lutar para se impor como sumo sacerdote."
+    },
+    {
+      "numero": 22,
+      "texto": "Agrupavam-se ao redor dele todos os perturbadores do povo com os quais ele se tornara senhor da terra de Judá e foi um tempo doloroso para Israel."
+    },
+    {
+      "numero": 23,
+      "texto": "Judas viu que o mal que Alcimo e seus cúmplices faziam aos filhos de Israel era pior ainda que o mal praticado pelos gentios."
+    },
+    {
+      "numero": 24,
+      "texto": "Por isso, percorreu ele toda a terra da Judeia, até as fronteiras, vingando-se dos traidores e impedindo-lhes a volta ao país."
+    },
+    {
+      "numero": 25,
+      "texto": "Vendo Alcimo que Judas com os seus eram mais fortes e reconhecendo sua impotência em lhes resistir, refugiou-se junto do rei e acusou-os dos piores crimes."
+    },
+    {
+      "numero": 26,
+      "texto": "O rei enviou Nicanor, general eminente, que detestava e odiava Israel, com ordem de exterminar o povo."
+    },
+    {
+      "numero": 27,
+      "texto": "Nicanor partiu para Jerusalém com um numeroso exército e mandou levar a Judas e a seus irmãos falsas palavras de paz:"
+    },
+    {
+      "numero": 28,
+      "texto": "“Que não haja guerra entre vós e mim. Chegarei somente com um punhado de homens para te ver, como amigo”."
+    },
+    {
+      "numero": 29,
+      "texto": "Com efeito, ele chegou e saudaram-se pacificamente, mas seus soldados se achavam prontos para se lançarem sobre Judas."
+    },
+    {
+      "numero": 30,
+      "texto": "Todavia, Judas estava a par dos desígnios pérfidos de Nicanor e afastou-se dele, recusando vê-lo de novo."
+    },
+    {
+      "numero": 31,
+      "texto": "Reconheceu Nicanor que seu projeto fora descoberto e propôs a Judas uma batalha perto de Cafarsalama."
+    },
+    {
+      "numero": 32,
+      "texto": "Foram mortos do seu exército quinhentos homens e o resto fugiu para a Cidade de Davi."
+    },
+    {
+      "numero": 33,
+      "texto": "Após o combate, subiu Nicanor ao monte Sião, e sacerdotes saíram do templo com anciãos do povo, para saudá-lo em espírito de paz e mostrar-lhe o holocausto que se oferecia pelo rei."
+    },
+    {
+      "numero": 34,
+      "texto": "Ele, porém, escarnecia deles, dirigia-lhes mofas, desprezava-os e falava-lhes com desdém,"
+    },
+    {
+      "numero": 35,
+      "texto": "jurando em sua ira: “Se Judas não me for entregue imediatamente com seu exército, afirmo, logo que estabelecer a paz, retornarei e lançarei fogo a esta casa”. Partiu depois todo enfurecido."
+    },
+    {
+      "numero": 36,
+      "texto": "Então, os sacerdotes entraram, e, em pé diante do altar e do templo, choraram dizendo:"
+    },
+    {
+      "numero": 37,
+      "texto": "“Fostes vós que escolhestes este templo, para que se invoque nela vosso nome e para que ela seja uma casa de súplicas, de orações pelo vosso povo."
+    },
+    {
+      "numero": 38,
+      "texto": "Tomai vingança desse homem e de seu exército, e que eles caiam sob o golpe da espada. Lembrai-vos de suas blasfêmias e não permitais que eles vivam”."
+    },
+    {
+      "numero": 39,
+      "texto": "Saiu Nicanor de Jerusalém e acampou em Bet-Horon, onde um exército sírio se lhe ajuntou."
+    },
+    {
+      "numero": 40,
+      "texto": "Judas acampou em Adasa com três mil homens e começou a rezar nestes termos:"
+    },
+    {
+      "numero": 41,
+      "texto": "“Quando os soldados enviados pelo rei da Síria vos blasfemaram, apareceu vosso anjo e matou cento e oitenta e cinco mil homens dentre eles."
+    },
+    {
+      "numero": 42,
+      "texto": "Do mesmo modo, exterminai hoje este exército aos nossos olhos, para que os outros saibam que Nicanor insultou vosso templo e julgai-o segundo sua perfídia”."
+    },
+    {
+      "numero": 43,
+      "texto": "Chocaram-se os exércitos no dia treze do mês de Adar; o de Nicanor foi vencido e ele foi o primeiro a tombar na luta."
+    },
+    {
+      "numero": 44,
+      "texto": "Assim que as tropas de Nicanor viram que ele fora morto, largaram as armas e fugiram."
+    },
+    {
+      "numero": 45,
+      "texto": "Os judeus os perseguiram durante o dia todo, desde Adasa até Gazara, e fizeram soar as trombetas dos sinais."
+    },
+    {
+      "numero": 46,
+      "texto": "E saíram então os habitantes de todas as aldeias da Judeia e dos arredores, para cercar os fugitivos. Estes voltaram de encontro a eles e caíram todos sob a espada. E não sobrou nem mesmo um dentre eles."
+    },
+    {
+      "numero": 47,
+      "texto": "Os judeus apoderaram-se dos seus despojos e provisões. Cortaram a cabeça de Nicanor e a mão direita que ele orgulhosamente estendera, e suspenderam-nas à vista de Jerusalém."
+    },
+    {
+      "numero": 48,
+      "texto": "Alegrou-se muito o povo que passou aquele dia em grande regozijo."
+    },
+    {
+      "numero": 49,
+      "texto": "Decidiu-se que esse dia seria celebrado a cada ano, no dia treze do mês de Adar."
+    },
+    {
+      "numero": 50,
+      "texto": "Após isso, a terra de Judá esteve tranquila durante algum tempo.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "7:1-4",
+      "texto": "Demétrio I torna-se rei da Síria após a morte de Antíoco e envia Báquides e Alcimo para atacar os judeus. Esta transição de poder mostra que, apesar da mudança de governantes, a opressão sobre o povo de Deus continua, exigindo perseverança (veja também Eclesiastes 1:9-10 e Mateus 10:22)."
+    },
+    {
+      "ref": "7:5-9",
+      "texto": "Alcimo, um judeu traidor, tenta se estabelecer como sumo sacerdote com o apoio de Demétrio. Sua traição reflete a luta interna dentro de Israel e os perigos da corrupção religiosa (veja também Jeremias 23:11 e João 10:12-13)."
+    },
+    {
+      "ref": "7:27-32",
+      "texto": "Judas e Báquides enfrentam-se em batalha, e a vitória de Judas reflete a proteção de Deus sobre Seu povo. Essa narrativa enfatiza que, mesmo contra forças poderosas, a fé em Deus traz libertação (veja também 1 Samuel 17:45-47 e Salmo 124:8)."
+    },
+    {
+      "ref": "7:33-38",
+      "texto": "Judas e seus seguidores lamentam o assassinato de Onias, o justo sacerdote. Eles condenam a violência contra os servos de Deus e buscam justiça divina, sublinhando a importância da justiça e da fidelidade (veja também Mateus 5:10-12 e Apocalipse 6:9-11)."
+    },
+    {
+      "ref": "7:39-50",
+      "texto": "Judas vence Báquides em uma batalha decisiva, restaurando a paz e permitindo que os judeus celebrem a purificação do Templo. Esta vitória é vista como uma bênção de Deus, renovando a esperança e a liberdade de culto (veja também Êxodo 14:30-31 e Zacarias 4:6)."
+    }
+  ]
+}

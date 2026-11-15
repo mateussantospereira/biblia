@@ -1,0 +1,91 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 64,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/64/",
+  "capturadoEm": "2026-11-15T09:53:18-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre do coro. Salmo. De Davide. Cântico."
+    },
+    {
+      "numero": 2,
+      "texto": "A ti, ó Deus, é devido um hino em Sião, cumpra-se o voto a ti,"
+    },
+    {
+      "numero": 3,
+      "texto": "que ouves as preces. A ti vem todo o mortal,"
+    },
+    {
+      "numero": 4,
+      "texto": "por causa das iniquidades. Oprimem-nos os nossos delitos: tu os perdoas."
+    },
+    {
+      "numero": 5,
+      "texto": "Bem-aventurado o que escolhes e tomas para ti: ele habita nos teus átrios. Sejamos saciados dos bens da tua casa, da santidade do teu templo."
+    },
+    {
+      "numero": 6,
+      "texto": "Tu nos ouves com justiça, entre prodígios estupendos, ó Deus, Salvador nosso, esperança de todos os confins da terra, e dos mais longínquos mares,"
+    },
+    {
+      "numero": 7,
+      "texto": "que dás firmeza aos montes com a tua força, cingido de poder,"
+    },
+    {
+      "numero": 8,
+      "texto": "que aplacas o bramido do mar, o bramido das ondas e o tumulto dos povos:"
+    },
+    {
+      "numero": 9,
+      "texto": "e os que habitam os confins da terra temem pelos teus prodígios; enches de gozo os limites do oriente e do ocidente."
+    },
+    {
+      "numero": 10,
+      "texto": "Visitaste a terra e a regaste, encheste-a de grandes riquezas. O rio de Deus está cheio de água; preparaste-lhes o trigo, porque assim preparaste a terra:"
+    },
+    {
+      "numero": 11,
+      "texto": "regaste os seus sulcos, desfizeste as suas glebas, amoleceste-a com as chuvas, abençoaste a sua semente."
+    },
+    {
+      "numero": 12,
+      "texto": "Coroaste o ano com a tua bondade e os teus caminhos ressumam fertilidade."
+    },
+    {
+      "numero": 13,
+      "texto": "Ressumam os pastos do deserto, e as colinas cingem-se de alegria."
+    },
+    {
+      "numero": 14,
+      "texto": "Os prados revestem-se de rebanhos, e os vales cobrem-se de trigais: aclamam e cantam."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "64:1-2",
+      "texto": "O salmista clama a Deus em busca de proteção contra inimigos que conspiram e falam mal. Esse pedido reflete a vulnerabilidade humana e a necessidade de recorrer a Deus em tempos de perigo (veja também Salmo 31:1-2 e Salmo 140:1)."
+    },
+    {
+      "ref": "64:3-4",
+      "texto": "Os ímpios são descritos como aqueles que preparam armadilhas para os justos. Essa imagem enfatiza a astúcia do pecado e a necessidade de vigilância espiritual para resistir às tentações (veja também Salmo 10:7 e 1 Pedro 5:8)."
+    },
+    {
+      "ref": "64:5-6",
+      "texto": "O salmista reconhece a natureza enganosa dos inimigos que se unem em segredo. Essa conspiração ressalta a importância da transparência e da verdade na vida comunitária (veja também Salmo 26:4-5 e Efésios 4:25)."
+    },
+    {
+      "ref": "64:7-8",
+      "texto": "Deus intervém e traz confusão aos planos dos ímpios. Essa afirmação destaca a soberania de Deus sobre as ações humanas e Sua capacidade de reverter as situações adversas (veja também Salmo 33:10-11 e Provérbios 19:21)."
+    },
+    {
+      "ref": "64:9-10",
+      "texto": "A alegria dos justos é uma resposta à justiça de Deus, enquanto os ímpios ficam envergonhados. Essa conclusão enfatiza a certeza de que Deus é um defensor dos justos e traz justiça em meio à opressão (veja também Salmo 37:38 e Apocalipse 21:4)."
+    }
+  ]
+}

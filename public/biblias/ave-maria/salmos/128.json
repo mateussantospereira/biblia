@@ -1,0 +1,65 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 128,
+  "totalVersiculos": 8,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/128/",
+  "capturadoEm": "2026-11-15T09:18:14-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cântico das peregrinações. Ah, como me perseguiram desde a minha juventude! Que o diga Israel.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Como me perseguiram desde a minha juventude! Mas não me puderam vencer."
+    },
+    {
+      "numero": 3,
+      "texto": "Lavraram sobre o meu dorso os lavradores, nele abriram longos sulcos."
+    },
+    {
+      "numero": 4,
+      "texto": "Mas o Senhor é justo, ele cortou as correias com que me afligiram os maus."
+    },
+    {
+      "numero": 5,
+      "texto": "Sejam confundidos e recuem todos os que odeiam Sião."
+    },
+    {
+      "numero": 6,
+      "texto": "Que eles se tornem como a erva do telhado, que seca antes de ser arrancada."
+    },
+    {
+      "numero": 7,
+      "texto": "Com ela não enche as mãos o ceifador, nem seu regaço quem recolhe os feixes."
+    },
+    {
+      "numero": 8,
+      "texto": "Os que passam não lhes dirão: “Desça sobre vós a bênção do Senhor!”. Nem: “Nós vos abençoamos em nome do Senhor.”",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "128:1-2",
+      "texto": "Bem-aventurado todo aquele que teme ao Senhor reforça que a verdadeira felicidade vem de uma vida temente a Deus. A prosperidade do trabalho e da família é vista como resultado direto da obediência a Deus (veja também Salmo 112:1 e Provérbios 28:14)."
+    },
+    {
+      "ref": "128:3",
+      "texto": "A imagem da esposa como uma videira frutífera e os filhos como brotos de oliveira destaca a bênção de uma família piedosa. A ênfase está no papel da família como parte central da bênção de Deus (veja também Salmo 127:3-4 e Provérbios 31:10-12)."
+    },
+    {
+      "ref": "128:4",
+      "texto": "Assim será abençoado o homem que teme ao Senhor reforça que a bênção de Deus é garantida para aqueles que o reverenciam. A ideia é que a vida piedosa resulta em bênçãos visíveis (veja também Deuteronômio 28:1-2 e 1 Pedro 3:9)."
+    },
+    {
+      "ref": "128:5-6",
+      "texto": "A bênção final do salmo pede prosperidade em Jerusalém e paz para Israel. A paz e a prosperidade nacional são vistas como reflexo da piedade individual e familiar (veja também Salmo 122:6-7 e Isaías 60:18)."
+    }
+  ]
+}

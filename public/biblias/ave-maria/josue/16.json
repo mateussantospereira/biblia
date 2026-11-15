@@ -1,0 +1,75 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "josue",
+  "nome": "Josué",
+  "testamento": "AT",
+  "capitulo": 16,
+  "totalVersiculos": 10,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/josue/16/",
+  "capturadoEm": "2026-11-15T09:10:38-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "A parte que tocou por sorte aos filhos de José começava desde o Jordão, defronte de Jericó (as águas de Jericó), ao oriente, e passava pelo deserto que vai de Jericó ao monte Betel."
+    },
+    {
+      "numero": 2,
+      "texto": "Continuava de Betel a Luza, passava ao longo da fronteira dos arqueus, em Atarot,"
+    },
+    {
+      "numero": 3,
+      "texto": "descia pelo ocidente, ao longo da fronteira dos jafletitas até a fronteira de Bet-Horon inferior, e até Gazer, terminando no mar."
+    },
+    {
+      "numero": 4,
+      "texto": "Tal foi a parte que coube aos filhos de José: Manassés e Efraim."
+    },
+    {
+      "numero": 5,
+      "texto": "Esse é o território dos filhos de Efraim, segundo suas famílias. O limite de sua herança, para o oriente, foi Atarot-Adar até Bet-Horon superior."
+    },
+    {
+      "numero": 6,
+      "texto": "Para o ocidente, a fronteira tocava o norte de Macmetat e voltava para Tanat-Silo, ao oriente, e a ultrapassava, indo para o oriente de Janoe."
+    },
+    {
+      "numero": 7,
+      "texto": "Descia em seguida de Janoe a Atarot e a Naarata, atingia Jericó e terminava no Jordão."
+    },
+    {
+      "numero": 8,
+      "texto": "De Tafua estendia-se para o ocidente até a torrente de Caná, terminando no mar. Essa foi a parte dos filhos de Efraim, segundo suas famílias."
+    },
+    {
+      "numero": 9,
+      "texto": "Tiveram também cidades situadas no meio da parte dos filhos de Manassés, todas com suas aldeias."
+    },
+    {
+      "numero": 10,
+      "texto": "Os filhos de Efraim não expulsaram, entretanto, os cananeus de Gazer, de sorte que os cananeus continuam até agora a habitar no meio de Efraim, mas sujeitos a trabalhos forçados."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "16:1-4",
+      "texto": "A herança da tribo de José é detalhada, abrangendo Efraim e Manassés. A ênfase na união das tribos e suas heranças destaca a importância da unidade no povo de Deus (veja também Salmo 133:1 e Efésios 4:3)."
+    },
+    {
+      "ref": "16:5-10",
+      "texto": "As cidades e as fronteiras de Efraim são descritas, refletindo a diversidade geográfica e cultural das tribos de Israel. A atribuição da terra segundo as famílias enfatiza a providência de Deus na distribuição das bênçãos (veja também Salmo 16:6 e Provérbios 16:9)."
+    },
+    {
+      "ref": "16:9-10",
+      "texto": "O texto menciona a incapacidade de Efraim de expulsar os cananeus, ilustrando os desafios enfrentados pelo povo de Deus. Isso ressalta a luta constante entre a obediência a Deus e a influência das culturas pagãs (veja também Números 33:55 e 1 Coríntios 15:33)."
+    },
+    {
+      "ref": "16:8",
+      "texto": "A referência a Jerusalém, que se tornaria a cidade santa, aponta para a centralidade de adoração e à importância futura da cidade na história do povo de Deus (veja também Salmo 48:1-2 e Hebreus 12:22-24)."
+    },
+    {
+      "ref": "16:10",
+      "texto": "O reconhecimento da presença contínua dos cananeus em Efraim ressalta a importância da pureza espiritual e a necessidade de enfrentar as influências malignas, indicando que a vitória é uma batalha contínua (veja também 2 Coríntios 6:14 e Tiago 4:7)."
+    }
+  ]
+}

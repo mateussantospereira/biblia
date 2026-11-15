@@ -1,0 +1,114 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "eclesiastico",
+  "nome": "Eclesiástico",
+  "testamento": "AT",
+  "capitulo": 49,
+  "totalVersiculos": 19,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/eclesiastico/49/",
+  "capturadoEm": "2026-11-15T09:21:10-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "A memória de Josias é como uma composição de aromas preparada pelo perfumista."
+    },
+    {
+      "numero": 2,
+      "texto": "Em toda boca, sua lembrança é doce como o mel, como uma melodia em um festim regado de vinho."
+    },
+    {
+      "numero": 3,
+      "texto": "Foi divinamente destinado a levar o povo à penitência, e robusteceu a piedade numa época de pecado."
+    },
+    {
+      "numero": 4,
+      "texto": "Voltou o coração para o Senhor e fez desaparecer as abominações da impiedade."
+    },
+    {
+      "numero": 5,
+      "texto": "Exceto Davi, Ezequias e Josias, todos pecaram:"
+    },
+    {
+      "numero": 6,
+      "texto": "os reis de Judá abandonaram a Lei do Altíssimo, e desprezaram o temor de Deus;"
+    },
+    {
+      "numero": 7,
+      "texto": "por isso, tiveram de entregar a outros o seu reino, e a sua glória a uma nação estrangeira."
+    },
+    {
+      "numero": 8,
+      "texto": "Os inimigos queimaram a cidade eleita, a cidade santa, transformaram suas ruas em um deserto, conforme o que predissera Jeremias,"
+    },
+    {
+      "numero": 9,
+      "texto": "pois eles maltrataram aquele que havia sido consagrado profeta desde o ventre de sua mãe, para derrubar, para destruir, para arruinar, mas depois reedificar e renovar."
+    },
+    {
+      "numero": 10,
+      "texto": "Foi Ezequiel quem teve essa visão gloriosa, que o Senhor lhe mostrou num carro de querubins."
+    },
+    {
+      "numero": 11,
+      "texto": "Pois ele anunciou com uma chuva a sorte dos inimigos, assim como os bens reservados àquele que seguiam o caminho reto.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Quanto aos doze profetas, refloresçam os seus ossos em seus túmulos, pois fortaleceram Jacó, e redimiram-se da servidão por uma fé corajosa.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Como engrandecer a glória de Zorobabel? Foi ele como um anel na mão direita."
+    },
+    {
+      "numero": 14,
+      "texto": "Do mesmo modo Josué, filho de Josedec; eles que, em seus dias, reconstruíram a casa de Deus, e tornaram a levantar o Templo Santo do Senhor, destinado a uma glória eterna."
+    },
+    {
+      "numero": 15,
+      "texto": "Neemias viverá por longo tempo na recordação; ele reergueu nossas muralhas arruinadas, restabeleceu nossas portas e nossos trincos, e reedificou nossas casas."
+    },
+    {
+      "numero": 16,
+      "texto": "Ninguém nasceu no mundo comparável a Henoc, pois ele também foi arrebatado desta terra;",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "nem comparável a José, nascido para ser o príncipe de seus irmãos e o sustentáculo de sua raça, o governador de seus irmãos, e o esteio de seu povo."
+    },
+    {
+      "numero": 18,
+      "texto": "Seus ossos foram conservados com cuidado: depois de sua morte fizeram profecia."
+    },
+    {
+      "numero": 19,
+      "texto": "Set e Sem foram glorificados entre os homens, porém, acima de qualquer ser vivo da Criação, acha-se Adão."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "49:1-4",
+      "texto": "O autor inicia com a lembrança da figura de Jacó e sua importância na história do povo de Deus. A descrição de suas virtudes e sabedoria ressalta o papel fundamental que ele desempenhou na formação da identidade israelita (veja também Gênesis 32:28 e Hebreus 11:9-10)."
+    },
+    {
+      "ref": "49:5-7",
+      "texto": "A referência a Moisés destaca sua fidelidade e liderança na libertação do povo hebreu da escravidão. A importância de Moisés como mediador entre Deus e o povo é um tema recorrente que enfatiza a necessidade de líderes sábios (veja também Êxodo 3:10 e Deuteronômio 34:10-12)."
+    },
+    {
+      "ref": "49:8-10",
+      "texto": "O capítulo menciona o papel de Ezequias, o rei justo, que trouxe reforma religiosa e proteção ao povo. Sua coragem em enfrentar inimigos e buscar a Deus em oração serve como um exemplo de fé e resiliência (veja também 2 Reis 18:5-6 e Isaías 38:1-6)."
+    },
+    {
+      "ref": "49:11-13",
+      "texto": "A menção a Salomão destaca a busca pela sabedoria e o desejo de construir um templo para Deus. Isso ressalta a importância da sabedoria como um dom divino e a necessidade de um relacionamento correto com o Senhor (veja também 1 Reis 3:9 e Tiago 1:5)."
+    },
+    {
+      "ref": "49:14-16",
+      "texto": "O autor conclui com uma reflexão sobre a grandeza de Deus e a importância da reverência a Ele. Isso reafirma a centralidade de Deus na vida e na história do Seu povo, enfatizando que a verdadeira sabedoria está em temer ao Senhor (veja também Provérbios 1:7 e Salmo 111:10)."
+    }
+  ]
+}

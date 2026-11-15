@@ -1,0 +1,315 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "esdras",
+  "nome": "Esdras",
+  "testamento": "AT",
+  "capitulo": 2,
+  "totalVersiculos": 70,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/esdras/2/",
+  "capturadoEm": "2026-11-15T09:49:58-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Estes são os filhos da Província (da Judeia), que, tendo sido levados cativos para Babilônia por Nabucodonosor, rei de Babilônia, voltaram para Jerusalém e para a Judeia, cada um para a sua cidade."
+    },
+    {
+      "numero": 2,
+      "texto": "Voltaram com Zorobabel, Josué, Neemias, Saraias, Raelaias, Mardoqueu, Belsan, Mesfar, Beguai, Reum, Baana. Eis o número dos varões do povo de Israel:"
+    },
+    {
+      "numero": 3,
+      "texto": "Filhos de Faros, dois mil cento e setenta e dois;"
+    },
+    {
+      "numero": 4,
+      "texto": "filhos de Safatias, trezentos e setenta e dois;"
+    },
+    {
+      "numero": 5,
+      "texto": "filhos de Area, setecentos e setenta e cinco;"
+    },
+    {
+      "numero": 6,
+      "texto": "filhos de Faat-Moab, (filhos de Josué e de Joab) dois mil e oitocentos e doze;"
+    },
+    {
+      "numero": 7,
+      "texto": "filhos de Elão, mil e duzentos e cinqüenta e quatro;"
+    },
+    {
+      "numero": 8,
+      "texto": "filhos de Zetua, novecentos e quarenta e cinco;"
+    },
+    {
+      "numero": 9,
+      "texto": "filhos de Zacai, setecentos e sessenta;"
+    },
+    {
+      "numero": 10,
+      "texto": "filhos de Bani, seiscentos e quarenta e dois;"
+    },
+    {
+      "numero": 11,
+      "texto": "filhos de Bebai, seiscentos e vinte e três;"
+    },
+    {
+      "numero": 12,
+      "texto": "filhos de Azgad, mil e duzentos e vinte e dois;"
+    },
+    {
+      "numero": 13,
+      "texto": "filhos de Adonicão, seiscentos e sessenta e seis"
+    },
+    {
+      "numero": 14,
+      "texto": "filhos de Beguai, dois mil e cinqüenta e seis;"
+    },
+    {
+      "numero": 15,
+      "texto": "filhos de Adin, quatrocentos e cinqüenta e quatro;"
+    },
+    {
+      "numero": 16,
+      "texto": "filhos de Ater, que descendiam de Ezequias, noventa e oito;"
+    },
+    {
+      "numero": 17,
+      "texto": "filhos de Besai, trezentos e vinte e três;"
+    },
+    {
+      "numero": 18,
+      "texto": "filhos de Jora, cento e doze;"
+    },
+    {
+      "numero": 19,
+      "texto": "filhos de Hasum, duzentos e vinte e três;"
+    },
+    {
+      "numero": 20,
+      "texto": "filhos de Gebar, noventa e cinco;"
+    },
+    {
+      "numero": 21,
+      "texto": "filhos de Belém, cento evinte e três;"
+    },
+    {
+      "numero": 22,
+      "texto": "homens de Netufa, cinquenta e seis;"
+    },
+    {
+      "numero": 23,
+      "texto": "homens de Anatot, cento e vinte e oito ;"
+    },
+    {
+      "numero": 24,
+      "texto": "filhos de Azmavet, quarenta e dois;"
+    },
+    {
+      "numero": 25,
+      "texto": "filhos de Cariatiarim, de Cefira e de Berot, setecentos e quarenta e três;"
+    },
+    {
+      "numero": 26,
+      "texto": "filhos de Rama e de Gabaa, seiscentos e vinte e um ;"
+    },
+    {
+      "numero": 27,
+      "texto": "homens de Macmas, cento e vinte e dois;"
+    },
+    {
+      "numero": 28,
+      "texto": "homens de Betei e de Hai, duzentos e vinte e três;"
+    },
+    {
+      "numero": 29,
+      "texto": "filhos de Nebo, cinquenta e dois;"
+    },
+    {
+      "numero": 30,
+      "texto": "filhos de Megbis, cento e cinquenta e seis;"
+    },
+    {
+      "numero": 31,
+      "texto": "filhos do outro Elão, mil e duzentos e cinqüenta e quatro;"
+    },
+    {
+      "numero": 32,
+      "texto": "filhos de Harim, trezentos e vinte;"
+    },
+    {
+      "numero": 33,
+      "texto": "filhos de Lod, de Hadid e de Ono, setecentos e vinte e cinco;"
+    },
+    {
+      "numero": 34,
+      "texto": "filhos de Jericó, trezentos e quarenta e cinco;"
+    },
+    {
+      "numero": 35,
+      "texto": "filhos de Senaa, três mil e seiscentos e trinta."
+    },
+    {
+      "numero": 36,
+      "texto": "Sacerdotes: Filhos de Jadaia da casa de Josué, novecentos e setenta e três;"
+    },
+    {
+      "numero": 37,
+      "texto": "filhos de Emer, mil e cinqüenta e dois;"
+    },
+    {
+      "numero": 38,
+      "texto": "filhos de Fasur, mil e duzentos e quarenta e sete;"
+    },
+    {
+      "numero": 39,
+      "texto": "filhos de Harim, mil e dezassete."
+    },
+    {
+      "numero": 40,
+      "texto": "Levitas: Filhos de Josué e de Cedmiel, dos filhos de Odovia, setenta e quatro."
+    },
+    {
+      "numero": 41,
+      "texto": "Cantores: Filhos de Asaf, cento e vinte e oito."
+    },
+    {
+      "numero": 42,
+      "texto": "Filhos dos porteiros: Filhos de Selum, filhos de Ater, filhos de Telmon, filhos de Acub, filhos de Hatita, filhos de Sobai, ao todo cento e trinta e nove."
+    },
+    {
+      "numero": 43,
+      "texto": "Natineus: filhos de Sia, filhos de Hasufa, filhos de Tabaot,"
+    },
+    {
+      "numero": 44,
+      "texto": "filhos de Ceros, filhos de Siaa, filhos de Fadon,"
+    },
+    {
+      "numero": 45,
+      "texto": "filhos de Lebana, filhos de Hagaba, filhos de Acub,"
+    },
+    {
+      "numero": 46,
+      "texto": "filhos de Hagab, filhos de Semlai, filhos de Hanan,"
+    },
+    {
+      "numero": 47,
+      "texto": "filhos de Gadel, filhos de Gaer, filhos de Raaia,"
+    },
+    {
+      "numero": 48,
+      "texto": "filhos de Rasin, filhos de Necoda, filhos de Gazão,"
+    },
+    {
+      "numero": 49,
+      "texto": "filhos de Asa, filhos de Faseia, filhos de Besai,"
+    },
+    {
+      "numero": 50,
+      "texto": "filhos de Asena, filhos de Munim, filhos de Nefusim,"
+    },
+    {
+      "numero": 51,
+      "texto": "filhos de Bacbuc, filhos de Hacufa, filhos de Harur,"
+    },
+    {
+      "numero": 52,
+      "texto": "filhos de Beslut, filhos de Maida, filhos de Harsa,"
+    },
+    {
+      "numero": 53,
+      "texto": "filhos de Berços, filhos de Sisara, filhos de Tema,"
+    },
+    {
+      "numero": 54,
+      "texto": "filhos de Nasia, filhos de Hatífa."
+    },
+    {
+      "numero": 55,
+      "texto": "Filhos dos servos de Salomão; filhos de Sotai, filhos de Soferet, filhos de Faruda,"
+    },
+    {
+      "numero": 56,
+      "texto": "filbos de Jala, filhos de Dercon, filhos de Gedel,"
+    },
+    {
+      "numero": 57,
+      "texto": "filhos de Safatias, filhos de Hatil, filhos de Foqueret, que eram de Asebaim, filhos de Ami."
+    },
+    {
+      "numero": 58,
+      "texto": "Todos os Nalineus e os filhos dos servos de Salomão eram trezentos e noventa e dois."
+    },
+    {
+      "numero": 59,
+      "texto": "Estes são os que partiram de Teimala, de Tel-Harsa, de Querub, de Adon, de Emer, e que não puderam indicar qual era a casa de seus pais e a sua linhagem, (para mostrar) que eram de Israel:"
+    },
+    {
+      "numero": 60,
+      "texto": "Os filhos de Dalaia, os filhos de Tobias, os filhos de Necoda, seiscentos e cinqüenta e dois."
+    },
+    {
+      "numero": 61,
+      "texto": "Dos filhos dos sacerdotes: Os filhos de Hobia, os filhos de Acos, os filhos de Berzelai, que tomou por mulher uma das filhas de Berzelai de Galaad e que foi chamado do seu nome."
+    },
+    {
+      "numero": 62,
+      "texto": "Estes procuraram o livro da sua genealogia, mas não o encontraram ; por isso foram excluídos do sacerdócio."
+    },
+    {
+      "numero": 63,
+      "texto": "O governador intimou-lhes que não comessem das coisas santíssimas, até que se levantasse um pontífice douto e perfeito (para consultar Deus)."
+    },
+    {
+      "numero": 64,
+      "texto": "Toda esta multidão era como um só homem (e compreendia) quarenta e duas mil trezentas e sessenta pessoas,"
+    },
+    {
+      "numero": 65,
+      "texto": "sem contar os seus servos e as suas servas, que eram sete mil trezentos e trinta e sete; entre eles havia duzentos cantores e cantoras."
+    },
+    {
+      "numero": 66,
+      "texto": "Tinham setecentos e trinta e seis cavalos, duzentos e quarenta e cinco machos,"
+    },
+    {
+      "numero": 67,
+      "texto": "quatrocentos e trinta e cinco camelos, seis mil setecentos e vinte jumentos."
+    },
+    {
+      "numero": 68,
+      "texto": "Muitos dos chefes das famílias, tendo entrado no templo do Senhor que está em Jerusalém, fizeram oferendas espontâneas à casa de Deus, para se reedificar no seu lugar."
+    },
+    {
+      "numero": 69,
+      "texto": "Deram, conforme as suas posses, para a despesa da obra, sessenta e um mil dáricos de ouro, cinco mil minas de prata e cem vestimentas sacerdotais."
+    },
+    {
+      "numero": 70,
+      "texto": "Os sacerdotes, os Levitas, os do povo, os cantores, os porteiros e os Natineus estabeleceram-se nas suas cidades. Todo o Israel (habitou) nas suas cidades."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "2:1-2",
+      "texto": "A lista dos exilados que retornam a Jerusalém começa com os líderes, incluindo Zorobabel e Jesua. Esses líderes desempenham papéis cruciais na reconstrução do Templo e na restauração da nação, representando o início de uma nova era (veja também Neemias 7:6-7 e Ageu 1:12-14)."
+    },
+    {
+      "ref": "2:36-39",
+      "texto": "A descrição detalhada dos sacerdotes que retornam mostra o foco em restaurar o culto adequado a Deus. A presença dos sacerdotes é essencial para garantir que a adoração no Templo seja reestabelecida conforme as leis de Moisés (veja também Levítico 8:1-2 e Malaquias 2:7)."
+    },
+    {
+      "ref": "2:40-42",
+      "texto": "Os levitas, cantores e porteiros que retornam são mencionados como parte integral da reconstrução do Templo. Esses grupos eram responsáveis por aspectos específicos do culto e do serviço no Templo (veja também Números 3:6-8 e 1 Crônicas 15:16-22)."
+    },
+    {
+      "ref": "2:61-63",
+      "texto": "Algumas famílias sacerdotais não puderam provar sua genealogia, e por isso foram excluídas do sacerdócio até que um sacerdote com Urim e Tumim decidisse. Isso destaca a importância da linhagem e da pureza no serviço a Deus (veja também Números 27:21 e Êxodo 28:30)."
+    },
+    {
+      "ref": "2:68-70",
+      "texto": "Os que retornaram ofertam voluntariamente para a reconstrução do Templo. O ato de dar com generosidade reflete a devoção e a gratidão do povo pela oportunidade de reconstruir a Casa de Deus (veja também 1 Crônicas 29:9-14 e 2 Coríntios 9:7)."
+    }
+  ]
+}

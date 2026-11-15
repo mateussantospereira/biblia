@@ -1,0 +1,85 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "jo",
+  "nome": "Jó",
+  "testamento": "AT",
+  "capitulo": 26,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/jo/26/",
+  "capturadoEm": "2026-11-15T09:15:45-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Jó tomou então a palavra nestes termos:"
+    },
+    {
+      "numero": 2,
+      "texto": "“Como tens ajudado bem o fraco e socorrido o braço sem vigor!"
+    },
+    {
+      "numero": 3,
+      "texto": "Como sabes aconselhar o ignorante e dar mostras de abundante sabedoria!"
+    },
+    {
+      "numero": 4,
+      "texto": "A quem diriges este discurso? Sob a inspiração de quem falas tu?"
+    },
+    {
+      "numero": 5,
+      "texto": "As sombras agitam-se sob a terra, as águas e seus habitantes estão temerosos."
+    },
+    {
+      "numero": 6,
+      "texto": "A região dos mortos está descoberta diante dele, os infernos estão sem véu."
+    },
+    {
+      "numero": 7,
+      "texto": "Ele estende o firmamento sobre o vácuo e suspende a terra sobre o nada."
+    },
+    {
+      "numero": 8,
+      "texto": "Armazena as águas em suas nuvens e as nuvens não se rasgam sob seu peso."
+    },
+    {
+      "numero": 9,
+      "texto": "Vela a face da lua, estendendo sobre ela a sua nuvem."
+    },
+    {
+      "numero": 10,
+      "texto": "Traçou um círculo sobre a superfície das águas, até onde a luz confina com as trevas."
+    },
+    {
+      "numero": 11,
+      "texto": "As colunas do céu estremecem e se assustam com a sua ameaça."
+    },
+    {
+      "numero": 12,
+      "texto": "Com sua força fendeu o mar e com sua sabedoria destruiu Raab.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Seu sopro varreu os céus e sua mão feriu a serpente fugitiva.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Eis que tudo isso não é mais que o contorno de suas obras e se apenas percebemos um fraco eco dessas obras, quem compreenderá o trovão de seu poder?”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "26:1-4",
+      "texto": "Jó responde a Bildade, afirmando que ele também é capaz de falar sobre a grandeza de Deus. A defesa de Jó mostra que ele tem conhecimento sobre a majestade divina e a natureza do sofrimento (veja também Salmo 139:14 e 1 Coríntios 1:25)."
+    },
+    {
+      "ref": "26:5-6",
+      "texto": "Jó descreve como até os mortos tremem diante de Deus. Essa descrição enfatiza o poder de Deus sobre toda a criação, incluindo os seres que já partiram. A consciência da soberania divina deve levar à reverência (veja também Filipenses 2:10-11 e Salmo 33:8-9)."
+    },
+    {
+      "ref": "26:7-14",
+      "texto": "Jó fala sobre a criação do mundo, incluindo a separação entre a terra e as águas. Ele destaca a sabedoria e o poder de Deus na criação, demonstrando que Deus é incomparável em Sua majestade e sabedoria. Isso reforça a ideia de que Deus tem controle sobre todas as coisas (veja também Salmo 104:24-25 e Provérbios 3:19-20)."
+    }
+  ]
+}

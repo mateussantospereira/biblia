@@ -1,0 +1,72 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 97,
+  "totalVersiculos": 9,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/97/",
+  "capturadoEm": "2026-11-15T09:17:43-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cantai ao Senhor um cântico novo, porque ele operou maravilhas. Sua mão e seu santo braço lhe deram a vitória.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "O Senhor fez conhecer a sua salvação. Manifestou sua justiça à face dos povos."
+    },
+    {
+      "numero": 3,
+      "texto": "Lembrou-se de sua bondade e de sua fidelidade em favor da casa de Israel. Os confins da terra puderam ver a salvação de nosso Deus."
+    },
+    {
+      "numero": 4,
+      "texto": "Aclamai o Senhor, povos todos da terra; regozijai-vos, alegrai-vos e cantai."
+    },
+    {
+      "numero": 5,
+      "texto": "Salmodiai o Senhor com a cítara, ao som do saltério e com a lira."
+    },
+    {
+      "numero": 6,
+      "texto": "Com a tuba e a trombeta elevai aclamações na presença do Senhor rei."
+    },
+    {
+      "numero": 7,
+      "texto": "Retumba o mar e tudo o que contém, o globo inteiro e os que nele habitam."
+    },
+    {
+      "numero": 8,
+      "texto": "Que os rios aplaudam, que as montanhas exultem em brados de alegria"
+    },
+    {
+      "numero": 9,
+      "texto": "diante do Senhor que chega, porque ele vem para governar a terra. Ele governará a terra com justiça, e os povos com equidade."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "97:1",
+      "texto": "O Senhor reina; regozije-se a terra! Este versículo proclama o reinado soberano de Deus sobre toda a terra. Ele é o Criador e Rei, trazendo alegria e justiça ao mundo (veja também Salmo 96:10 e Apocalipse 19:6)."
+    },
+    {
+      "ref": "97:2-3",
+      "texto": "Deus é cercado por nuvens e trevas, simbolizando Sua santidade inacessível e poder. O fogo que vai diante d'Ele consome Seus inimigos, mostrando Seu juízo contra a injustiça (veja também Êxodo 19:9 e Hebreus 12:29)."
+    },
+    {
+      "ref": "97:6",
+      "texto": "Os céus anunciam a sua justiça. A criação testemunha a retidão de Deus, revelando Seu caráter justo e fiel. O cosmos é um reflexo da glória e justiça do Criador (veja também Romanos 1:20 e Salmo 19:1-2)."
+    },
+    {
+      "ref": "97:10",
+      "texto": "Vós que amais ao Senhor, detestai o mal! A vida do fiel é marcada pela rejeição do pecado e pela busca da justiça. O amor a Deus deve ser acompanhado por um ódio ao mal, refletindo a santidade divina (veja também Amós 5:15 e Romanos 12:9)."
+    },
+    {
+      "ref": "97:11-12",
+      "texto": "A luz e a alegria são derramadas sobre os justos. Este versículo enfatiza que aqueles que seguem a Deus encontram Sua graça e bênçãos, vivendo na Sua luz (veja também Isaías 60:1 e João 8:12)."
+    }
+  ]
+}

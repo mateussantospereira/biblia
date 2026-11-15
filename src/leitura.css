@@ -1,0 +1,136 @@
+/* Estilo do leitor. Nada de className utilitário aqui: só classes com nome. */
+
+:root {
+  --font-leitura: Georgia, "Times New Roman", serif;
+}
+
+/* ---------- topo ---------- */
+
+.topo {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--background);
+  border-bottom: 1px solid var(--border);
+}
+
+.topo__linha {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+}
+
+.topo__linha--nav {
+  border-top: 1px solid var(--border);
+  justify-content: space-between;
+}
+
+.topo__marca {
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+
+.topo__campo {
+  font: inherit;
+  font-size: 0.875rem;
+  padding: 0.35rem 0.5rem;
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  background: var(--background);
+  color: var(--foreground);
+}
+
+.topo__campo--curto {
+  width: 4.5rem;
+}
+
+.topo__espaco {
+  flex: 1;
+}
+
+.topo__posicao {
+  font-size: 0.8125rem;
+  color: var(--muted-foreground);
+}
+
+/* ---------- leitura ---------- */
+
+.leitor {
+  max-width: 36rem;
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 6rem;
+  font-family: var(--font-leitura);
+  font-size: 1.125rem;
+  line-height: 1.8;
+}
+
+.leitor__titulo {
+  font-family: var(--font-sans);
+  font-size: 1.5rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin: 0 0 0.25rem;
+}
+
+.leitor__fonte {
+  font-family: var(--font-sans);
+  font-size: 0.8125rem;
+  color: var(--muted-foreground);
+  margin: 0 0 2rem;
+}
+
+.leitor__aviso {
+  padding: 3rem 1.25rem;
+  text-align: center;
+  color: var(--muted-foreground);
+}
+
+.leitor__texto p {
+  margin: 0 0 1rem;
+}
+
+.versiculo__numero {
+  font-family: var(--font-sans);
+  font-size: 0.6875rem;
+  font-weight: 600;
+  color: var(--muted-foreground);
+  margin-right: 0.35em;
+  vertical-align: super;
+  line-height: 0;
+}
+
+/* ---------- notas ---------- */
+
+.notas {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  font-family: var(--font-sans);
+  font-size: 0.875rem;
+  line-height: 1.6;
+}
+
+.notas__titulo {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted-foreground);
+  margin: 0 0 1rem;
+}
+
+.notas__lista {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 1rem;
+}
+
+.notas__ref {
+  font-weight: 600;
+  color: var(--muted-foreground);
+  margin-right: 0.4em;
+}

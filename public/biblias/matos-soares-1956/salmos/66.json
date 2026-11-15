@@ -1,0 +1,67 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 66,
+  "totalVersiculos": 8,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/66/",
+  "capturadoEm": "2026-11-15T09:53:21-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre do coro. Para instrumentos de corda. Salmo. Cântico."
+    },
+    {
+      "numero": 2,
+      "texto": "Deus tenha piedade de nós e nos abençoe; sereno nos mostre o seu rosto,"
+    },
+    {
+      "numero": 3,
+      "texto": "para que conheçam na terra o seu caminho, e entre todas as nações a sua salvação."
+    },
+    {
+      "numero": 4,
+      "texto": "Glorifiquem-te, ó Deus, os povos; glorifiquem-te todos os povos."
+    },
+    {
+      "numero": 5,
+      "texto": "Alegrem-se e exultem as nações, porquanto reges os povos com equidade, e governas as nações sobre a terra."
+    },
+    {
+      "numero": 6,
+      "texto": "Glorifiquem-te, ó Deus, os povos; glorifiquem-te todos os povos."
+    },
+    {
+      "numero": 7,
+      "texto": "A terra deu o seu fruto: abençoe-nos Deus, o nosso Deus."
+    },
+    {
+      "numero": 8,
+      "texto": "Abençoe-nos Deus, e temam-no todos os confins da terra!"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "66:1-4",
+      "texto": "O Salmo convoca todas as nações a louvar a Deus. Esse chamado universal destaca a grandeza de Deus e a responsabilidade de testemunhar Suas obras poderosas ao mundo. Isso reforça o propósito da criação em glorificar a Deus (veja também Salmo 117:1 e Mateus 28:19-20)."
+    },
+    {
+      "ref": "66:5-7",
+      "texto": "A lembrança dos feitos poderosos de Deus, especialmente na libertação do Egito, reforça a fidelidade de Deus em cumprir Suas promessas. Isso nos lembra que, em tempos de dificuldade, podemos confiar na Sua intervenção em nossa vida (veja também Êxodo 14:13-14 e Romanos 15:4)."
+    },
+    {
+      "ref": "66:8-12",
+      "texto": "A passagem ressalta a importância da provação e do sofrimento na vida do crente, que leva à purificação e ao fortalecimento da fé. As dificuldades são vistas como parte do plano de Deus para moldar o caráter do Seu povo (veja também 1 Pedro 1:6-7 e Tiago 1:2-4)."
+    },
+    {
+      "ref": "66:13-15",
+      "texto": "O Salmo destaca o compromisso de oferecer sacrifícios a Deus em gratidão. Isso indica que a adoração deve ser acompanhada de ações que refletem nosso reconhecimento das bênçãos de Deus (veja também Salmo 50:14 e Hebreus 13:15)."
+    },
+    {
+      "ref": "66:16-20",
+      "texto": "O testemunho pessoal de como Deus respondeu às orações de quem O busca é uma declaração poderosa de fé. Isso nos incentiva a compartilhar nossas experiências e reconhecer que Deus está sempre presente em nossas vidas (veja também Salmo 34:4 e 2 Coríntios 1:10)."
+    }
+  ]
+}

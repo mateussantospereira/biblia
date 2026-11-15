@@ -1,0 +1,137 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "jo",
+  "nome": "Jó",
+  "testamento": "AT",
+  "capitulo": 24,
+  "totalVersiculos": 25,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/jo/24/",
+  "capturadoEm": "2026-11-15T09:15:43-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Por que não reserva tempos para si o Todo-poderoso? E por que ignoram seus dias os que lhe são fiéis?"
+    },
+    {
+      "numero": 2,
+      "texto": "Os maus mudam as divisas das terras e fazem pastar o rebanho que roubaram."
+    },
+    {
+      "numero": 3,
+      "texto": "Empurram diante de si o jumento dos órfãos, e tomam em penhor o boi da viúva."
+    },
+    {
+      "numero": 4,
+      "texto": "Enxotam os pobres do caminho, todos os miseráveis da região precisam esconder-se."
+    },
+    {
+      "numero": 5,
+      "texto": "Como asnos selvagens no deserto, saem para o trabalho, à procura do que comer, à procura do pão para seus filhos."
+    },
+    {
+      "numero": 6,
+      "texto": "Ceifam a forragem num campo, vindimam a vinha do ímpio."
+    },
+    {
+      "numero": 7,
+      "texto": "Passam a noite nus, sem roupa e sem cobertor contra o frio."
+    },
+    {
+      "numero": 8,
+      "texto": "São banhados pelas chuvas das montanhas e, sem abrigo, achegam-se às rochas."
+    },
+    {
+      "numero": 9,
+      "texto": "Arrancam o órfão do seio materno e tomam em penhor as crianças do pobre.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Andam nus, por falta de roupa e esfomeados carregam feixes."
+    },
+    {
+      "numero": 11,
+      "texto": "Espremem óleo nos celeiros, e sedentos pisam os lagares."
+    },
+    {
+      "numero": 12,
+      "texto": "Sobe da cidade os gemidos dos moribundos. A alma dos feridos grita, mas Deus não ouve suas súplicas."
+    },
+    {
+      "numero": 13,
+      "texto": "Outros são rebeldes à luz, não conhecem seus caminhos nem habitam em suas veredas."
+    },
+    {
+      "numero": 14,
+      "texto": "O homicida levanta-se antes do alvorecer para matar o pobre e o indigente. O ladrão vagueia durante a noite."
+    },
+    {
+      "numero": 15,
+      "texto": "O adúltero espreita o crepúsculo: ‘Ninguém me verá’, diz ele, e põe um véu no rosto."
+    },
+    {
+      "numero": 16,
+      "texto": "Nas trevas, arrombam as casas. Escondem-se durante o dia, sem conhecer a luz."
+    },
+    {
+      "numero": 17,
+      "texto": "Para eles, com efeito, a manhã é uma sombra espessa, pois estão acostumados aos terrores da noite."
+    },
+    {
+      "numero": 18,
+      "texto": "Correm rapidamente na superfície da água, sua herança é maldita sobre a terra; já não tomarão o caminho das vinhas.",
+      "nota": true
+    },
+    {
+      "numero": 19,
+      "texto": "Como a seca e o calor absorvem as águas da neve, assim a região dos mortos engole os pecadores."
+    },
+    {
+      "numero": 20,
+      "texto": "O ventre que o gerou esquece-o, os vermes fazem dele as suas delícias; ninguém mais se lembrará dele."
+    },
+    {
+      "numero": 21,
+      "texto": "A iniquidade é quebrada como uma árvore. Maltratava a mulher estéril, sem filhos e não fazia o bem à viúva."
+    },
+    {
+      "numero": 22,
+      "texto": "Punha sua força a serviço dos poderosos. Levanta-se e já não pode mais contar com a vida."
+    },
+    {
+      "numero": 23,
+      "texto": "Ele lhes dá segurança e apoio, mas seus olhos vigiam seus caminhos."
+    },
+    {
+      "numero": 24,
+      "texto": "Levantam-se, subitamente já não existem; caem; como os outros, são arrebatados, são ceifados como cabeças de espigas."
+    },
+    {
+      "numero": 25,
+      "texto": "Se assim não é, quem me desmentirá, quem reduzirá a nada as minhas palavras?”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "24:1-4",
+      "texto": "Jó questiona a razão pela qual os ímpios não enfrentam o juízo imediato de Deus, ressaltando a aparente falta de justiça na sociedade. Essa observação desafia a visão de que o sofrimento é sempre uma consequência do pecado (veja também Salmo 73:12-14 e Eclesiastes 8:14)."
+    },
+    {
+      "ref": "24:5-9",
+      "texto": "Jó descreve as injustiças sociais, onde os pobres e necessitados são oprimidos. Essa denúncia das desigualdades sociais mostra a relevância da justiça e da misericórdia de Deus, e a responsabilidade humana em buscar a justiça (veja também Isaías 1:17 e Tiago 1:27)."
+    },
+    {
+      "ref": "24:10-12",
+      "texto": "Jó enfatiza que os ímpios podem prosperar e viver confortavelmente, mesmo em meio à opressão e injustiça. Essa realidade levanta questões sobre a natureza do sofrimento e a justiça divina (veja também Salmo 49:16-17 e Eclesiastes 9:2)."
+    },
+    {
+      "ref": "24:13-17",
+      "texto": "Jó critica aqueles que se opõem à luz da verdade, indicando que os ímpios vivem na escuridão, apesar de sua prosperidade. Essa imagem reflete a tensão entre a justiça de Deus e a realidade da vida (veja também João 3:19-21 e Romanos 1:18-20)."
+    },
+    {
+      "ref": "24:18-25",
+      "texto": "Jó conclui que, apesar da impunidade aparente dos ímpios, Deus é soberano e executará a justiça no devido tempo. Essa esperança é fundamental para a compreensão da providência divina e do juízo final (veja também Salmo 37:9-11 e Apocalipse 20:11-15)."
+    }
+  ]
+}

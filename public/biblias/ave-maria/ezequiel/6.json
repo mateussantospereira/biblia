@@ -1,0 +1,93 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ezequiel",
+  "nome": "Ezequiel",
+  "testamento": "AT",
+  "capitulo": 6,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ezequiel/6/",
+  "capturadoEm": "2026-11-15T09:23:30-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "A palavra do Senhor foi-me dirigida nestes termos:"
+    },
+    {
+      "numero": 2,
+      "texto": "“Filho do homem, volta-te para as montanhas de Israel, e contra elas profere o oráculo"
+    },
+    {
+      "numero": 3,
+      "texto": "seguinte: montes de Israel, escutai a palavra do Senhor Javé. Eis o que diz o Senhor Javé às colinas, aos outeiros, aos ribeiros e aos vales: vou enviar contra vós a espada para destruir os vossos lugares altos."
+    },
+    {
+      "numero": 4,
+      "texto": "Vossos altares serão demolidos, quebrados os vossos obeliscos; farei cair os vossos homens, transpassados a golpes diante dos vossos ídolos.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Sim, perante eles estenderei os cadáveres dos israelitas, espalharei todas as vossas ossadas em torno dos vossos altares."
+    },
+    {
+      "numero": 6,
+      "texto": "Em todo lugar onde vos fixardes, hão de ser as vossas cidades despovoadas, e devastados os lugares altos, de sorte que os vossos altares serão saqueados, demolidos os vossos ídolos, quebrados, suprimidos; os vossos obeliscos, despedaçados, as vossas obras, aniquiladas."
+    },
+    {
+      "numero": 7,
+      "texto": "No vosso meio tombarão homens traspassados de golpes, e sabereis que sou eu o Senhor."
+    },
+    {
+      "numero": 8,
+      "texto": "Todavia, eu vos deixarei um resto quando vos tiver dispersado entre as nações. Os sobreviventes que escaparem ao massacre"
+    },
+    {
+      "numero": 9,
+      "texto": "se recordarão de mim em meio dos gentios, para onde tiverem sido deportados; quebrantarei o seu coração que se prostituiu longe de mim, e seus olhos, que se prostituíram com os ídolos. Eles cairão em si, desgostosos de suas práticas abomináveis;"
+    },
+    {
+      "numero": 10,
+      "texto": "compreenderão que sou eu o Senhor e não é em vão que os tenho ameaçado com essas calamidades."
+    },
+    {
+      "numero": 11,
+      "texto": "Eis o que diz o Senhor Deus: bate palmas, tripudia e dize: Ah! ah! sobre todas as abominações perversas da casa de Israel, que irá perecer pela espada, fome e peste."
+    },
+    {
+      "numero": 12,
+      "texto": "Aquele que se achar longe morrerá de peste, o que se achar próximo tombará pela espada; os sobreviventes sitiados perecerão de fome, porque contra eles saciarei o meu furor."
+    },
+    {
+      "numero": 13,
+      "texto": "E saberão que sou eu o Senhor, quando os seus mortos estiverem estirados em meio aos seus ídolos, em torno dos seus altares, em todas as colinas elevadas, debaixo de todas as árvores verdejantes, debaixo de todos os terebintos frondosos, em todos os lugares onde ofereceram aos dolos o incenso de agradável odor.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Estenderei a mão contra eles e, por toda parte onde habitam, desolarei e devastarei a terra, desde o deserto até Rebla. E saberão que eu sou o Senhor”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "6:1-7",
+      "texto": "Deus declara juízo sobre as montanhas de Israel, simbolizando a destruição dos altares pagãos. A idolatria será punida severamente, mostrando que Deus exige adoração exclusiva a Ele (veja também Isaías 2:18-21 e Apocalipse 14:11)."
+    },
+    {
+      "ref": "6:8-10",
+      "texto": "Deus promete preservar um remanescente que reconheça Seu juízo. Mesmo em meio à destruição, haverá uma pequena parte do povo que se arrependerá e verá a mão de Deus na ação contra a idolatria (veja também Isaías 10:20-22 e Apocalipse 7:9)."
+    },
+    {
+      "ref": "6:11-14",
+      "texto": "A punição de Israel será completa e sem misericórdia para aqueles que persistem na idolatria. Deus afirma que a sua ira será derramada sobre todos os idólatras, e a terra será desolada (veja também Ezequiel 9:4 e Jeremias 25:9)."
+    },
+    {
+      "ref": "6:15-18",
+      "texto": "A destruição de cidades e montes idolátricos de Israel será um símbolo do juízo divino. A idolatria, que corrompe a adoração verdadeira, levará à ruína do povo e das suas terras (veja também 2 Reis 23:13-14 e Isaías 64:10)."
+    },
+    {
+      "ref": "6:19-20",
+      "texto": "A idolatria será punida com grande sofrimento, e a destruição trará lembrança da gravidade do pecado e a necessidade do arrependimento. A punição é uma advertência para as gerações futuras (veja também Ezequiel 22:2-4 e Apocalipse 9:20-21)."
+    }
+  ]
+}

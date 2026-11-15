@@ -1,0 +1,255 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "levitico",
+  "nome": "Levítico",
+  "testamento": "AT",
+  "capitulo": 25,
+  "totalVersiculos": 55,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/levitico/25/",
+  "capturadoEm": "2026-11-15T09:09:06-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Senhor disse a Moisés no monte Sinai: “Dize aos israelitas o seguinte:"
+    },
+    {
+      "numero": 2,
+      "texto": "Quando tiverdes entrado na terra que vos hei de dar, a terra repousará: esse será um sábado em honra do Senhor."
+    },
+    {
+      "numero": 3,
+      "texto": "Durante seis anos semearás a tua terra, durante seis anos podarás a tua vinha e recolherás os seus frutos."
+    },
+    {
+      "numero": 4,
+      "texto": "Mas o sétimo ano será um sábado, um repouso para a terra, um sábado em honra do Senhor: não semearás o teu campo, nem podarás a tua vinha;"
+    },
+    {
+      "numero": 5,
+      "texto": "não colherás o que nascer dos grãos caídos de tua ceifa, nem as uvas de tua vinha não podada, porque é um ano de repouso para a terra."
+    },
+    {
+      "numero": 6,
+      "texto": "Mas o que a terra der espontaneamente durante o seu sábado, vos servirá de alimento, a ti, ao teu servo e à tua serva, ao teu operário ou ao estrangeiro que mora contigo;"
+    },
+    {
+      "numero": 7,
+      "texto": "tudo o que nascer servirá de alimento também ao teu rebanho e aos animais que estão em tua terra."
+    },
+    {
+      "numero": 8,
+      "texto": "Contarás sete anos sabáticos, sete vezes sete anos, cuja duração fará um período de quarenta e nove anos."
+    },
+    {
+      "numero": 9,
+      "texto": "Tocarás então a trombeta no décimo dia do sétimo mês: tocareis a trombeta no dia das Expiações em toda a vossa terra."
+    },
+    {
+      "numero": 10,
+      "texto": "Santificareis o quinquagésimo ano e publicareis a liberdade na terra para todos os seus habitantes. Será o vosso jubileu. Voltareis cada um para as suas terras e para a sua família."
+    },
+    {
+      "numero": 11,
+      "texto": "O quinquagésimo ano será para vós um jubileu: não semeareis, não ceifareis o que a terra produzir espontaneamente, e não vindimareis a vinha não podada,"
+    },
+    {
+      "numero": 12,
+      "texto": "pois é o jubileu que vos será sagrado. Comereis o produto de vossos campos."
+    },
+    {
+      "numero": 13,
+      "texto": "Nesse ano jubilar, voltareis cada um à sua possessão."
+    },
+    {
+      "numero": 14,
+      "texto": "Se venderdes ou comprardes alguma coisa de vosso próximo, ninguém dentre vós cause dano ao seu irmão."
+    },
+    {
+      "numero": 15,
+      "texto": "Comprarás ao teu próximo segundo o número de anos decorridos desde o jubileu, e ele te venderá segundo o número de anos de colheita."
+    },
+    {
+      "numero": 16,
+      "texto": "Aumentarás o preço em razão dos anos que restarem, e o abaixarás à medida que os anos diminuírem, porque é o número de colheitas que ele te vende."
+    },
+    {
+      "numero": 17,
+      "texto": "Ninguém prejudique o seu próximo. Teme o teu Deus. Eu sou o Senhor, vosso Deus."
+    },
+    {
+      "numero": 18,
+      "texto": "Obedecereis às minhas leis; guardareis os meus preceitos e os cumprireis, a fim de habitardes em segurança na terra."
+    },
+    {
+      "numero": 19,
+      "texto": "A terra vos dará os seus frutos, comereis até vos saciardes e vivereis em segurança."
+    },
+    {
+      "numero": 20,
+      "texto": "Se disserdes: ‘Que comeremos nós no sétimo ano, se não semearmos, nem recolhermos os nossos frutos?’."
+    },
+    {
+      "numero": 21,
+      "texto": "Eu vos darei a minha bênção no sexto ano, e a terra produzirá uma colheita para três anos."
+    },
+    {
+      "numero": 22,
+      "texto": "Semeareis no oitavo ano, e comereis da antiga colheita até o ano-novo: comereis da antiga colheita até que venha a nova”."
+    },
+    {
+      "numero": 23,
+      "texto": "“A terra não se venderá para sempre, porque a terra é minha, e vós estais em minha casa como estrangeiros ou hóspedes."
+    },
+    {
+      "numero": 24,
+      "texto": "Portanto, em todo o território de vossa propriedade, concedereis o direito de resgatar a terra."
+    },
+    {
+      "numero": 25,
+      "texto": "Se teu irmão se tornar pobre e vender uma parte de seu bem, seu parente mais próximo que tiver o direito de resgate se apresentará e resgatará o que o seu irmão vendeu."
+    },
+    {
+      "numero": 26,
+      "texto": "Se um homem não tiver ninguém que tenha o direito de resgate, mas procurar ele mesmo os meios de fazer o seu resgate,"
+    },
+    {
+      "numero": 27,
+      "texto": "contará os anos desde que fez a venda, restituirá o excedente ao comprador, e se reintegrará na sua propriedade."
+    },
+    {
+      "numero": 28,
+      "texto": "Se não encontrar, porém, meios de indenizar, a terra vendida ficará nas mãos do comprador até o ano jubilar. Sairá do poder deste, no ano do jubileu, e voltará à posse do seu antigo dono."
+    },
+    {
+      "numero": 29,
+      "texto": "Se um homem vender uma casa de habitação situada dentro de uma cidade murada, terá o direito de resgatá-la até o fim do ano que se segue à venda: seu direito de resgate será de um ano completo."
+    },
+    {
+      "numero": 30,
+      "texto": "Se a casa situada na cidade murada não for resgatada antes do fim do ano completo, ela pertencerá sempre ao comprador e aos seus descendentes: não sairá de suas mãos no jubileu."
+    },
+    {
+      "numero": 31,
+      "texto": "Entretanto, as casas das povoações que não têm muros serão consideradas como fazendo parte do fundo de terras; poderão ser resgatadas e serão livres no ano do jubileu."
+    },
+    {
+      "numero": 32,
+      "texto": "Quanto às cidades dos levitas e às casas que possuem, terão eles um direito de resgate perpétuo."
+    },
+    {
+      "numero": 33,
+      "texto": "Quem comprar dos levitas uma casa, sairá no jubileu da casa vendida e da cidade em que a possua, porque as casas das cidades dos levitas são sua propriedade no meio dos israelitas."
+    },
+    {
+      "numero": 34,
+      "texto": "Os campos dos arrabaldes das cidades dos levitas não serão vendidos, porque são sua propriedade perpétua.”"
+    },
+    {
+      "numero": 35,
+      "texto": "“Se teu irmão se tornar pobre junto de ti, e as suas mãos se enfraquecerem, sustenta-o, mesmo que se trate de um estrangeiro ou de um hóspede, a fim de que ele viva contigo."
+    },
+    {
+      "numero": 36,
+      "texto": "Não receberás dele juros nem ganho; mas temerás o teu Deus, para que o teu irmão viva contigo."
+    },
+    {
+      "numero": 37,
+      "texto": "Não lhe emprestarás com juros o teu dinheiro, e não lhe darás os teus víveres por amor ao lucro."
+    },
+    {
+      "numero": 38,
+      "texto": "Eu sou o Senhor, vosso Deus, que vos tirei do Egito, para vos dar a terra de Canaã e para ser o vosso Deus."
+    },
+    {
+      "numero": 39,
+      "texto": "Se teu irmão se tornar pobre junto de ti e se se vender a ti, não exigirás dele um serviço de escravo."
+    },
+    {
+      "numero": 40,
+      "texto": "Estará em tua casa como um operário, e como um hóspede estará a teu serviço até o ano jubilar."
+    },
+    {
+      "numero": 41,
+      "texto": "E sairá então de tua casa, ele e seus filhos com ele; voltará para a sua família e para a herança de seus pais."
+    },
+    {
+      "numero": 42,
+      "texto": "Porque são meus servos que tirei do Egito, não devem ser vendidos como se vende um escravo."
+    },
+    {
+      "numero": 43,
+      "texto": "Não dominarás sobre ele com rigor, mas temerás o teu Deus."
+    },
+    {
+      "numero": 44,
+      "texto": "Vossos escravos, homens ou mulheres, os tomareis dentre as nações que vos cercam; delas comprareis os vossos escravos, homens ou mulheres."
+    },
+    {
+      "numero": 45,
+      "texto": "Podereis também comprá-los dentre os filhos dos estrangeiros que habitam no meio de vós, das suas famílias que moram convosco dentre os filhos que eles tiverem gerado em vossa terra serão vossa propriedade."
+    },
+    {
+      "numero": 46,
+      "texto": "Podereis deixá-los por herança a vossos filhos depois de vós, para que os possuam plenamente como escravos perpétuos. Mas, quanto a vossos irmãos, os israelitas, não dominareis com rigor uns sobre os outros."
+    },
+    {
+      "numero": 47,
+      "texto": "Se se tornar rico o estrangeiro, estabelecido no meio de ti, e teu irmão, seu vizinho, se tornar pobre e se vender a esse estrangeiro que vive no meio de ti,"
+    },
+    {
+      "numero": 48,
+      "texto": "haverá para aquele que se vende um direito de resgate: um de seus irmãos poderá resgatá-lo."
+    },
+    {
+      "numero": 49,
+      "texto": "Seu tio, o filho de seu tio, ou um de seus próximos parentes poderá também resgatá-lo. Ou então ele mesmo se resgatará, se conseguir os meios de fazê-lo."
+    },
+    {
+      "numero": 50,
+      "texto": "Com aquele que o tiver comprado, fará a conta desde o ano em que se vendeu a ele até o ano jubilar, e o preço de venda se estimará segundo o número dos anos, avaliando seus dias de trabalho como os de um operário."
+    },
+    {
+      "numero": 51,
+      "texto": "Se houver ainda muitos anos, pagará o seu resgate em razão desses anos, segundo o preço pelo qual foi comprado;"
+    },
+    {
+      "numero": 52,
+      "texto": "e se faltarem poucos anos até o ano jubilar, fará a conta disso, e pagará o seu resgate em proporção ao número desses anos."
+    },
+    {
+      "numero": 53,
+      "texto": "Ele estará em sua casa como um operário que trabalha ano por ano, e o comprador não o tratará com rudeza à tua vista."
+    },
+    {
+      "numero": 54,
+      "texto": "Se ele não for resgatado de nenhuma dessas maneiras, sairá livre no ano jubilar, ele e seus filhos,"
+    },
+    {
+      "numero": 55,
+      "texto": "porque os filhos de Israel são meus servos. São meus servos que tirei da terra do Egito. Eu sou o Senhor, vosso Deus.”"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "25:1-7",
+      "texto": "A instituição do Ano Sabático, em que a terra deve descansar a cada sete anos, reflete a soberania de Deus sobre a criação e a necessidade de confiar em Sua providência. Isso também enfatiza a importância do descanso e do cuidado da criação (veja também Êxodo 23:10-11 e Gênesis 2:2-3)."
+    },
+    {
+      "ref": "25:8-12",
+      "texto": "O Ano do Jubileu é proclamado no quinquagésimo ano, trazendo libertação e restauração. Terras são devolvidas aos proprietários originais, e escravos são libertados, simbolizando a justiça e a misericórdia de Deus (veja também Isaías 61:1-2 e Lucas 4:18-19)."
+    },
+    {
+      "ref": "25:18-22",
+      "texto": "Deus promete bênçãos aos que obedecerem às Suas leis, especialmente no contexto do Ano Sabático e do Jubileu. Isso reflete a importância de confiar na provisão divina, mesmo em tempos de descanso da terra (veja também Mateus 6:25-26 e Salmo 37:25)."
+    },
+    {
+      "ref": "25:35-38",
+      "texto": "A lei de apoio aos irmãos necessitados proíbe a exploração e o lucro indevido. A prática da solidariedade e da generosidade é um reflexo da aliança de Deus com Seu povo e da justiça social que Ele ordena (veja também Deuteronômio 15:7-11 e Atos 4:34-35)."
+    },
+    {
+      "ref": "25:47-55",
+      "texto": "A redenção dos escravos israelitas enfatiza que eles pertencem a Deus e não devem permanecer em servidão perpétua. Esse princípio reflete a dignidade de toda pessoa criada à imagem de Deus e a Sua justiça redentora (veja também Romanos 6:18-20 e 1 Coríntios 7:22-23)."
+    }
+  ]
+}

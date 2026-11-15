@@ -1,0 +1,64 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 129,
+  "totalVersiculos": 8,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/129/",
+  "capturadoEm": "2026-11-15T09:18:15-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cântico das peregrinações. Do fundo do abismo, clamo a vós, Senhor;",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Senhor, ouvi minha oração. Que vossos ouvidos estejam atentos à voz de minha súplica."
+    },
+    {
+      "numero": 3,
+      "texto": "Se tiverdes em conta nossos pecados, Senhor, Senhor, quem poderá subsistir diante de vós?"
+    },
+    {
+      "numero": 4,
+      "texto": "Mas em vós se encontra o perdão dos pecados, para que, reverentes, vos sirvamos."
+    },
+    {
+      "numero": 5,
+      "texto": "Ponho a minha esperança no Senhor. Minha alma tem confiança em sua palavra."
+    },
+    {
+      "numero": 6,
+      "texto": "Minha alma espera pelo Senhor, mais ansiosa do que os vigias pela manhã."
+    },
+    {
+      "numero": 7,
+      "texto": "Mais do que os vigias que aguardam a manhã, espere Israel pelo Senhor, porque junto ao Senhor se acha a misericórdia; encontra-se nele copiosa redenção."
+    },
+    {
+      "numero": 8,
+      "texto": "E ele mesmo há de remir Israel de todas as suas iniquidades."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "129:1-2",
+      "texto": "O salmista clama sobre a opressão que o povo de Israel enfrentou desde a sua juventude, mas destaca que, apesar das aflições, não foram derrotados. Este salmo reflete a perseverança do povo de Deus em meio às dificuldades (veja também 2 Coríntios 4:8-9 e Êxodo 1:12)."
+    },
+    {
+      "ref": "129:3",
+      "texto": "As costas feridas mencionadas simbolizam o sofrimento do povo sob a opressão, sendo cortadas como se por arados. Essa imagem vívida ressalta o peso da injustiça e da opressão (veja também Isaías 53:5 e Lamentações 3:34)."
+    },
+    {
+      "ref": "129:4",
+      "texto": "O Senhor é justo afirma que Deus corta os laços da opressão e liberta Seu povo. Essa justiça divina traz esperança de libertação mesmo nos tempos mais sombrios (veja também Isaías 61:1-2 e Salmo 146:7)."
+    },
+    {
+      "ref": "129:5-8",
+      "texto": "O salmo conclui com uma maldição contra os inimigos de Israel, desejando que eles sejam como a erva que murcha no telhado. Essa comparação enfatiza a fragilidade e o fracasso final dos que se opõem ao povo de Deus (veja também Salmo 1:4-6 e Provérbios 10:28)."
+    }
+  ]
+}

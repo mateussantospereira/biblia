@@ -1,0 +1,88 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 78,
+  "totalVersiculos": 13,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/78/",
+  "capturadoEm": "2026-11-15T09:17:23-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Salmo de Asaf. Senhor, povos infiéis invadiram a vossa herança, profanaram o vosso santo templo. De Jerusalém fizeram um montão de ruínas.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Os corpos de vossos servos expuseram como pasto às aves, e os de vossos fiéis às feras da terra."
+    },
+    {
+      "numero": 3,
+      "texto": "Rios de sangue fizeram correr em torno de Jerusalém, e nem sequer havia quem os sepultasse."
+    },
+    {
+      "numero": 4,
+      "texto": "Tornamo-nos, para nossos vizinhos, objetos de desprezo, de escárnio e zombaria para os povos que nos cercam."
+    },
+    {
+      "numero": 5,
+      "texto": "Até quando, Senhor?...Será eterna vossa cólera? Será como um braseiro ardente o vosso zelo?"
+    },
+    {
+      "numero": 6,
+      "texto": "Desferi, antes, vossa ira sobre as nações que não vos conhecem, e sobre os reinos que não invocam o vosso nome,"
+    },
+    {
+      "numero": 7,
+      "texto": "pois Jacó foi por eles devorado e devastaram a sua habitação."
+    },
+    {
+      "numero": 8,
+      "texto": "De nossos antepassados esqueçais as culpas; vossa misericórdia venha logo ao nosso encontro, porque estamos reduzidos à extrema miséria."
+    },
+    {
+      "numero": 9,
+      "texto": "Ajudai-nos, ó Deus salvador, pela glória de vosso nome; livrai-nos e perdoai-nos os nossos pecados pelo amor de vosso nome."
+    },
+    {
+      "numero": 10,
+      "texto": "Por que hão de dizer as nações pagãs: “Onde está o seu Deus?”. Mostrai-lhes, a esses pagãos, diante de nossos olhos, que pedireis conta do sangue de vossos fiéis, por eles derramado."
+    },
+    {
+      "numero": 11,
+      "texto": "Cheguem até vós os gemidos dos cativos: livrai, por vosso braço, os condenados à pena de morte."
+    },
+    {
+      "numero": 12,
+      "texto": "Sobre as cabeças dos nossos vizinhos recaiam, sete vezes, as injúrias com que vos ultrajaram, Senhor."
+    },
+    {
+      "numero": 13,
+      "texto": "Quanto a nós, vosso povo e ovelhas de vosso rebanho, glorificaremos a vós perpetuamente; de geração em geração cantaremos os vossos louvores."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "78:1-4",
+      "texto": "O salmista exorta o povo a ensinar às futuras gerações os feitos de Deus, para que eles não se esqueçam de Sua fidelidade e grandeza. Isso ressalta a importância da tradição e da transmissão da fé (veja também Deuteronômio 6:6-7 e Efésios 6:4)."
+    },
+    {
+      "ref": "78:5-8",
+      "texto": "Deus ordenou que os pais ensinassem Seus mandamentos aos filhos, para que eles confiassem no Senhor e evitassem a rebelião. A educação religiosa é essencial para formar uma geração fiel (veja também Provérbios 22:6 e 2 Timóteo 3:14-15)."
+    },
+    {
+      "ref": "78:12-16",
+      "texto": "O salmista relembra os milagres de Deus no Êxodo, como as pragas no Egito e a abertura do Mar Vermelho, para reforçar a confiança na soberania divina. Esses milagres mostram o cuidado constante de Deus com Seu povo (veja também Êxodo 7-10 e Salmo 105:26-38)."
+    },
+    {
+      "ref": "78:17-22",
+      "texto": "O povo, apesar de presenciar os milagres, continua a desobedecer e a duvidar de Deus. A incredulidade humana diante da providência divina é um tema recorrente na história de Israel (veja também Números 14:11 e Hebreus 3:16-19)."
+    },
+    {
+      "ref": "78:70-72",
+      "texto": "Deus escolhe Davi como rei, retirando-o de seu humilde trabalho como pastor para liderar Israel com integridade e sabedoria. Isso demonstra o plano soberano de Deus e Seu cuidado em escolher líderes segundo o Seu coração (veja também 1 Samuel 16:11-13 e Atos 13:22)."
+    }
+  ]
+}

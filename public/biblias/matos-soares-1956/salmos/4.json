@@ -1,0 +1,67 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 4,
+  "totalVersiculos": 9,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/4/",
+  "capturadoEm": "2026-11-15T09:52:10-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre do coro. Para instrumentos de corda. Salmo, De Davide,"
+    },
+    {
+      "numero": 2,
+      "texto": "Quando eu te invocar, ouve-me, ó Deus da minha justiça, tu que na angústia me levantaste; tem compaixão de mim, e ouve a minha oração."
+    },
+    {
+      "numero": 3,
+      "texto": "Até quando, ó poderosos, sereis duros de coração? por que amais a vaidade e buscais a mentira?"
+    },
+    {
+      "numero": 4,
+      "texto": "Ficai sabendo: o Senhor faz maravilhoso o seu santo; o Senhor me ouvirá, quando eu o invocar."
+    },
+    {
+      "numero": 5,
+      "texto": "Tremei e não queirais pecar, repensai nos vossos corações, nos vossos aposentos, e emudecei."
+    },
+    {
+      "numero": 6,
+      "texto": "Oferecei sacrifícios justos, e esperai no Senhor."
+    },
+    {
+      "numero": 7,
+      "texto": "Muitos dizem : Quem nos fará ver o bem? Levanta sobre nós a luz do teu rosto, ó Senhor"
+    },
+    {
+      "numero": 8,
+      "texto": "Infundiste no meu coração uma alegria maior do que (têm os agricultores) quando abundam em trigo e vinho."
+    },
+    {
+      "numero": 9,
+      "texto": "Logo que me deito, em paz adormeço, porque só tu, ó Senhor, me pões em segurança."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "4:1",
+      "texto": "Davi clama a Deus por resposta em tempos de angústia, reconhecendo que o Senhor é sua fonte de libertação. Esse chamado revela a necessidade de confiar em Deus durante os momentos difíceis (veja também Salmo 18:6 e Salmo 34:17)."
+    },
+    {
+      "ref": "4:2-3",
+      "texto": "A exortação aos homens a não se deixarem levar pela vaidade destaca a futilidade de buscar aprovação humana. Davi reafirma que o Senhor separa os justos para Si, enfatizando a importância de viver em conformidade com a vontade de Deus (veja também Provérbios 29:25 e 1 Pedro 2:9)."
+    },
+    {
+      "ref": "4:4-5",
+      "texto": "A instrução de meditar no coração e se aquietar é um convite à reflexão e à busca pela paz interior. Essa prática é essencial para encontrar conforto em Deus e evitar reações impulsivas (veja também Salmo 46:10 e Tiago 1:19-20)."
+    },
+    {
+      "ref": "4:6-8",
+      "texto": "A confiança de Davi no Senhor proporciona alegria e paz, mesmo em meio à adversidade. O reconhecimento de que Deus oferece segurança e satisfação é fundamental para a vida de fé (veja também Salmo 16:11 e João 14:27)."
+    }
+  ]
+}

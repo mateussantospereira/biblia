@@ -1,0 +1,96 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 16,
+  "totalVersiculos": 15,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/16/",
+  "capturadoEm": "2026-11-15T09:16:17-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Súplica de Davi. Ouvi, Senhor, uma causa justa! Atendei a meu clamor! Escutai minha prece, de lábios sem malícia.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Venha de vós o meu julgamento, e vossos olhos reconheçam que sou íntegro."
+    },
+    {
+      "numero": 3,
+      "texto": "Podeis sondar meu coração, visitá-lo à noite, prová-lo pelo fogo, não encontrareis iniquidade em mim."
+    },
+    {
+      "numero": 4,
+      "texto": "Minha boca não pecou, como costumam os homens; conforme as palavras dos vossos lábios, segui os caminhos da lei."
+    },
+    {
+      "numero": 5,
+      "texto": "Meus passos se mantiveram firmes nas vossas sendas, meus pés não titubearam."
+    },
+    {
+      "numero": 6,
+      "texto": "Eu vos invoco, pois me atendereis, Senhor; inclinai vossos ouvidos para mim, escutai minha voz."
+    },
+    {
+      "numero": 7,
+      "texto": "Mostrai a vossa admirável misericórdia, vós que salvais dos adversários os que se acolhem à vossa direita."
+    },
+    {
+      "numero": 8,
+      "texto": "Guardai-me como a pupila dos olhos, escondei-me à sombra de vossas asas,"
+    },
+    {
+      "numero": 9,
+      "texto": "longe dos pecadores, que me querem fazer violência. Meus inimigos me rodeiam com furor."
+    },
+    {
+      "numero": 10,
+      "texto": "Seu coração endurecido se fecha à piedade; só têm na boca palavras arrogantes."
+    },
+    {
+      "numero": 11,
+      "texto": "Eis que agora me cercam, espreitam para me prostrar por terra;"
+    },
+    {
+      "numero": 12,
+      "texto": "qual leão que se atira ávido sobre a presa, e como o leãozinho no seu covil."
+    },
+    {
+      "numero": 13,
+      "texto": "Levantai-vos, Senhor, correi-lhe ao encontro, derrubai-o; com vossa espada livrai-me do pecador,"
+    },
+    {
+      "numero": 14,
+      "texto": "com vossa mão livrai-me dos homens, desses cuja única felicidade está nesta vida, que têm o ventre repleto de bens, cujos filhos vivem na abundância e deixam ainda aos seus filhos o que lhes sobra."
+    },
+    {
+      "numero": 15,
+      "texto": "Mas eu, confiado na vossa justiça, contemplarei a vossa face; ao despertar, irei saciar-me com a visão de vosso ser."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "16:1-2",
+      "texto": "O salmista clama por proteção e reconhece Deus como sua segurança e bem. Essa declaração revela a dependência de Deus como a fonte de toda a vida e felicidade, essencial na espiritualidade cristã (veja também Salmo 31:1-2 e Filipenses 4:19)."
+    },
+    {
+      "ref": "16:3",
+      "texto": "O salmista menciona os santos da terra como seus deleites, enfatizando a importância da comunhão entre os fiéis. A relação com outros crentes é um aspecto essencial da vida espiritual (veja também Salmo 133:1 e Hebreus 10:24-25)."
+    },
+    {
+      "ref": "16:4",
+      "texto": "A advertência contra a idolatria revela o compromisso do salmista com Deus e o reconhecimento das consequências da infidelidade. A escolha de seguir a Deus é vital para uma vida plena (veja também 1 Coríntios 10:14 e Êxodo 20:3-5)."
+    },
+    {
+      "ref": "16:5-6",
+      "texto": "A declaração sobre Deus como a porção e herança do salmista destaca a satisfação encontrada em Deus acima de todas as coisas. A vida cristã é enriquecida pelo relacionamento pessoal com Deus (veja também Salmo 73:25-26 e Filipenses 3:7-8)."
+    },
+    {
+      "ref": "16:9-11",
+      "texto": "A confiança na ressurreição e a alegria na presença de Deus são expressas. Esse versículo prefigura a esperança cristã na vida eterna e no gozo da presença de Deus (veja também Atos 2:25-28 e João 14:2-3)."
+    }
+  ]
+}

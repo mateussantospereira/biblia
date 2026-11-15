@@ -1,0 +1,136 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "jo",
+  "nome": "Jó",
+  "testamento": "AT",
+  "capitulo": 41,
+  "totalVersiculos": 25,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/jo/41/",
+  "capturadoEm": "2026-11-15T09:16:00-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ninguém é bastante ousado para provocá-lo. Quem lhe resistiria face a face?"
+    },
+    {
+      "numero": 2,
+      "texto": "Quem pôde afrontá-lo e sair com vida? Quem, debaixo de toda a extensão do céu?",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Não quero calar a glória de seus membros e falarei de seu vigor incomparável."
+    },
+    {
+      "numero": 4,
+      "texto": "Quem levantou a dianteira de sua couraça? Quem penetrou na dupla linha de sua dentadura?"
+    },
+    {
+      "numero": 5,
+      "texto": "Quem lhe abriu os dois batentes da goela? Em torno dos seus dentes, só terror!"
+    },
+    {
+      "numero": 6,
+      "texto": "Sua costa é um aglomerado de escudos, cujas juntas são estreitamente ligadas:"
+    },
+    {
+      "numero": 7,
+      "texto": "uma encaixa na outra, nem sequer o ar passa por entre elas;"
+    },
+    {
+      "numero": 8,
+      "texto": "uma adere tão bem à outra, que são encaixadas sem se poderem desunir."
+    },
+    {
+      "numero": 9,
+      "texto": "Seu espirro faz jorrar a luz e seus olhos são como as pálpebras da aurora."
+    },
+    {
+      "numero": 10,
+      "texto": "De sua goela saem chamas e escapam centelhas ardentes."
+    },
+    {
+      "numero": 11,
+      "texto": "De suas ventas sai fumaça como de uma panela que ferve entre chamas."
+    },
+    {
+      "numero": 12,
+      "texto": "Seu hálito queima como brasa e a chama jorra de sua goela."
+    },
+    {
+      "numero": 13,
+      "texto": "Em seu pescoço reside sua força, diante dele salta o espanto."
+    },
+    {
+      "numero": 14,
+      "texto": "As dobras de seus músculos são aderentes, esticadas sobre ele, elas são inabaláveis."
+    },
+    {
+      "numero": 15,
+      "texto": "Firme como a pedra é seu coração, firme como a mó fixa de um moinho."
+    },
+    {
+      "numero": 16,
+      "texto": "Quando se levanta, estremecem as ondas e os vagalhões do mar se afastam."
+    },
+    {
+      "numero": 17,
+      "texto": "Se uma espada o atinge, ela não resiste, nem a lança, nem a flecha, nem o dardo."
+    },
+    {
+      "numero": 18,
+      "texto": "O ferro para ele é como palha e o bronze, como madeira podre."
+    },
+    {
+      "numero": 19,
+      "texto": "A flecha não o afugenta, as pedras de funda são palhinhas para ele."
+    },
+    {
+      "numero": 20,
+      "texto": "O martelo lhe parece um fiapo de palha e ri-se do assobio da espada."
+    },
+    {
+      "numero": 21,
+      "texto": "Sob seu ventre há cacos pontiagudos, como uma grade de ferro que se arrasta sobre o lodo."
+    },
+    {
+      "numero": 22,
+      "texto": "Faz ferver o abismo como uma caldeira e transforma o mar num queimador de perfumes."
+    },
+    {
+      "numero": 23,
+      "texto": "Deixa atrás de si um sulco luminoso, como se o abismo tivesse cabeleira branca."
+    },
+    {
+      "numero": 24,
+      "texto": "Não há nada igual a ele na terra, pois foi feito para não ter medo de nada."
+    },
+    {
+      "numero": 25,
+      "texto": "Ele afronta tudo o que é elevado. Ele é o rei dos mais orgulhosos animais”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "41:1-2",
+      "texto": "Deus desafia Jó a capturar o Leviatã, um símbolo do caos e do mal. Isso mostra que somente Deus tem poder sobre as forças do mal e da destruição (veja também Salmo 74:14 e Apocalipse 20:2)."
+    },
+    {
+      "ref": "41:3-4",
+      "texto": "A pergunta sobre se alguém pode fazer uma aliança com o Leviatã destaca que a sabedoria e o poder de Deus são incomparáveis. Ninguém pode manipular o mal, que é melhor deixado aos cuidados de Deus (veja também Romanos 12:21 e Efésios 6:12)."
+    },
+    {
+      "ref": "41:5-7",
+      "texto": "A descrição do Leviatã enfatiza sua invulnerabilidade e força. Isso ilustra que, enquanto a humanidade é frágil, Deus é o Criador que domina sobre todas as forças da criação (veja também Salmo 104:26 e Isaías 27:1)."
+    },
+    {
+      "ref": "41:8-10",
+      "texto": "A advertência para que Jó não se sinta arrogante diante do Leviatã destaca a importância da humildade e do reconhecimento da grandeza de Deus em relação ao mal (veja também Provérbios 16:18 e 1 Pedro 5:5)."
+    },
+    {
+      "ref": "41:11-34",
+      "texto": "A descrição do Leviatã como uma criatura invencível mostra que mesmo as forças mais poderosas da criação estão sob o controle de Deus. Ele é o único que pode enfrentar o mal (veja também Salmo 139:7-10 e Colossenses 1:16-17)."
+    }
+  ]
+}

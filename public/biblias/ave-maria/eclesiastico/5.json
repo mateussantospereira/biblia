@@ -1,0 +1,113 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "eclesiastico",
+  "nome": "Eclesiástico",
+  "testamento": "AT",
+  "capitulo": 5,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/eclesiastico/5/",
+  "capturadoEm": "2026-11-15T09:20:25-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Não contes com riquezas injustas. Não digas: “Tenho o suficiente para viver”, pois no dia do castigo e da escuridão, isso de nada te servirá."
+    },
+    {
+      "numero": 2,
+      "texto": "Quando te sentires forte, não te entregues às cobiças de teu coração."
+    },
+    {
+      "numero": 3,
+      "texto": "Não digas: “Como sou forte!”. ou: “Quem me obrigará a prestar contas dos meus atos?”,",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "pois Deus tomará sua vingança. Não digas: “Pequei, e o que me aconteceu de mal?”, pois o Senhor é lento para castigar os crimes."
+    },
+    {
+      "numero": 5,
+      "texto": "A propósito de um pecado perdoado, não estejas sem temor, e não acrescentes pecado sobre pecado."
+    },
+    {
+      "numero": 6,
+      "texto": "Não digas: “A misericórdia do Senhor é grande, ele terá piedade da multidão dos meus pecados”,"
+    },
+    {
+      "numero": 7,
+      "texto": "pois piedade e cólera são nele igualmente rápidas, e o seu furor visa aos pecadores."
+    },
+    {
+      "numero": 8,
+      "texto": "Não demores em te converteres ao Senhor, não adies de dia em dia,"
+    },
+    {
+      "numero": 9,
+      "texto": "pois sua cólera virá de repente, e ele te perderá no dia do castigo."
+    },
+    {
+      "numero": 10,
+      "texto": "Não te inquietes à procura de riquezas injustas, de nada te servirão no dia do castigo e da escuridão."
+    },
+    {
+      "numero": 11,
+      "texto": "Não joeires a todos os ventos, não andes por qualquer caminho, pois é assim que se revela o pecador de linguagem dúbia."
+    },
+    {
+      "numero": 12,
+      "texto": "Firma-te no caminho do Senhor, na sinceridade de teus sentimentos e teus conhecimentos, nunca te afastes de uma linguagem pacífica e equitativa.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Escuta com doçura o que te dizem, a fim de compreenderes, darás então uma resposta sábia e apropriada.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Se tiveres inteligência, responde a outrem, senão, põe a mão sobre a tua boca, para que não sejas surpreendido a dizer uma palavra indiscreta, e venhas a te envergonhar dela.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "A honra e a consideração acompanham a linguagem do sábio, mas a língua do imprudente é a sua própria ruína."
+    },
+    {
+      "numero": 16,
+      "texto": "Não passes por delator, não caias com embaraço nas armadilhas de tua língua,",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "pois ao ladrão estão reservados a confusão e o arrependimento, à língua dúbia, uma censura severa; ao delator, ódio, inimizade e infâmia."
+    },
+    {
+      "numero": 18,
+      "texto": "Faze justiça tanto para o pequeno como para o grande.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "5:1-2",
+      "texto": "Não confie em suas riquezas ou no poder que possui, pois essas coisas são passageiras e não garantem a salvação. A verdadeira segurança vem de Deus, e confiar em bens materiais pode levar ao erro e à arrogância (veja também Provérbios 11:28 e 1 Timóteo 6:17)."
+    },
+    {
+      "ref": "5:3-4",
+      "texto": "Não pense que, porque Deus é misericordioso, você pode continuar pecando. A paciência divina não deve ser abusada, pois o castigo para os que persistem no erro virá eventualmente. Deus espera arrependimento genuíno (veja também Romanos 2:4-5 e 2 Pedro 3:9)."
+    },
+    {
+      "ref": "5:5-7",
+      "texto": "Não adie o arrependimento, pois não sabemos o dia da nossa morte. A procrastinação espiritual é perigosa, e o tempo para voltar-se para Deus é agora. A conversão tardia pode resultar em perda (veja também 2 Coríntios 6:2 e Tiago 4:13-14)."
+    },
+    {
+      "ref": "5:8-9",
+      "texto": "Afaste-se do pecado e não siga os desejos do seu coração cegamente. O coração humano é enganoso e pode nos levar à perdição se não for guiado pela sabedoria divina (veja também Jeremias 17:9 e Provérbios 4:23)."
+    },
+    {
+      "ref": "5:10-11",
+      "texto": "Seja cauteloso ao falar, e ouça mais do que fala. A sabedoria está na escuta atenta, e as palavras impensadas podem trazer consequências. Falar demais pode gerar problemas e erros (veja também Tiago 1:19 e Provérbios 10:19)."
+    }
+  ]
+}

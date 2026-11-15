@@ -1,0 +1,187 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "exodo",
+  "nome": "Êxodo",
+  "testamento": "AT",
+  "capitulo": 40,
+  "totalVersiculos": 38,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/exodo/40/",
+  "capturadoEm": "2026-11-15T09:08:41-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Senhor disse a Moisés:"
+    },
+    {
+      "numero": 2,
+      "texto": "“No primeiro dia do primeiro mês, levantarás o tabernáculo, a tenda de reunião."
+    },
+    {
+      "numero": 3,
+      "texto": "Porás nele a arca da aliança e a ocultarás com o véu."
+    },
+    {
+      "numero": 4,
+      "texto": "Trarás a mesa e disporás nela as coisas que devem estar sobre ela. Trarás o candelabro e porás nele suas lâmpadas."
+    },
+    {
+      "numero": 5,
+      "texto": "Colocarás o altar de ouro para o perfume diante da arca da aliança e pendurarás o véu à entrada do tabernáculo."
+    },
+    {
+      "numero": 6,
+      "texto": "Colocarás o altar dos holocaustos diante da entrada do tabernáculo, da tenda de reunião."
+    },
+    {
+      "numero": 7,
+      "texto": "Colocarás a bacia entre a tenda de reunião e o altar, e porás água nela."
+    },
+    {
+      "numero": 8,
+      "texto": "Farás o recinto do átrio e disporás a cortina à entrada do átrio."
+    },
+    {
+      "numero": 9,
+      "texto": "Tomarás o óleo da unção e ungirás com ele o tabernáculo com tudo o que ele contém; tu o consagrarás com todo o seu mobiliário, para que ele se torne uma coisa santa."
+    },
+    {
+      "numero": 10,
+      "texto": "Ungirás o altar dos holocaustos e todos os seus utensílios; em virtude de tua consagração, o altar se tornará um local santíssimo."
+    },
+    {
+      "numero": 11,
+      "texto": "Ungirás a bacia com seu pedestal e a consagrarás."
+    },
+    {
+      "numero": 12,
+      "texto": "Farás em seguida Aarão e seus filhos aproximarem-se da entrada da tenda de reunião, onde os lavarás com água."
+    },
+    {
+      "numero": 13,
+      "texto": "Revestirás Aarão com os ornamentos sagrados; tu o ungirás e o consagrarás e ele será sacerdote a meu serviço."
+    },
+    {
+      "numero": 14,
+      "texto": "Farás seus filhos aproximarem-se e, depois de os teres revestido de túnicas,"
+    },
+    {
+      "numero": 15,
+      "texto": "tu os ungirás como o fizeste com seu pai; e serão sacerdotes a meu serviço. Essa unção lhes conferirá o sacerdócio para sempre, de geração em geração”."
+    },
+    {
+      "numero": 16,
+      "texto": "Moisés fez tudo o que o Senhor lhe havia mandado e se conformou a tudo."
+    },
+    {
+      "numero": 17,
+      "texto": "Assim, no segundo ano, no primeiro dia do primeiro mês, o tabernáculo foi erigido."
+    },
+    {
+      "numero": 18,
+      "texto": "Moisés levantou o tabernáculo: pôs suas bases, suas tábuas, suas travessas e ergueu suas colunas."
+    },
+    {
+      "numero": 19,
+      "texto": "Estendeu a tenda sobre o tabernáculo e pôs a coberta da tenda por cima, como o Senhor lhe tinha ordenado."
+    },
+    {
+      "numero": 20,
+      "texto": "Tomou o testemunho e colocou-o na arca; meteu os varais na arca e colocou nela a tampa."
+    },
+    {
+      "numero": 21,
+      "texto": "Introduziu a arca no tabernáculo; e, tendo pendurado o véu da separação, cobriu com ele a arca da aliança, como o Senhor tinha ordenado a Moisés."
+    },
+    {
+      "numero": 22,
+      "texto": "Colocou a mesa na tenda de reunião, do lado norte do tabernáculo, diante da cortina;"
+    },
+    {
+      "numero": 23,
+      "texto": "e dispôs nela em ordem os pães diante do Senhor, como o Senhor lhe tinha ordenado."
+    },
+    {
+      "numero": 24,
+      "texto": "Pôs o candelabro na tenda de reunião, diante da mesa, do lado sul do tabernáculo,"
+    },
+    {
+      "numero": 25,
+      "texto": "e dispôs nele as lâmpadas diante do Senhor, como o Senhor lhe tinha ordenado."
+    },
+    {
+      "numero": 26,
+      "texto": "Colocou o altar de ouro na tenda de reunião, diante do véu,"
+    },
+    {
+      "numero": 27,
+      "texto": "e queimou nele o incenso, como o Senhor lhe tinha ordenado."
+    },
+    {
+      "numero": 28,
+      "texto": "Colocou a cortina à entrada do tabernáculo."
+    },
+    {
+      "numero": 29,
+      "texto": "Colocou o altar dos holocaustos à entrada do tabernáculo, da tenda de reunião, e ofereceu sobre ele o holocausto e a oblação, como o Senhor lhe tinha ordenado."
+    },
+    {
+      "numero": 30,
+      "texto": "Colocou a bacia entre a tenda de reunião e o altar, e pôs nela a água para as abluções."
+    },
+    {
+      "numero": 31,
+      "texto": "Moisés, Aarão e seus filhos lavaram aí as mãos e os pés."
+    },
+    {
+      "numero": 32,
+      "texto": "Quando entravam na tenda de reunião e se aproximavam do altar, faziam suas abluções, como o Senhor tinha ordenado a Moisés."
+    },
+    {
+      "numero": 33,
+      "texto": "Enfim, fez o recinto do átrio em torno do tabernáculo e do altar e colocou a cortina na porta do átrio. Assim Moisés deu por concluída a obra."
+    },
+    {
+      "numero": 34,
+      "texto": "Então a nuvem cobriu a tenda de reunião e a glória do Senhor encheu o tabernáculo."
+    },
+    {
+      "numero": 35,
+      "texto": "E era impossível a Moisés entrar na tenda de reunião, porque a nuvem pairava sobre ela, e a glória do Senhor enchia o tabernáculo."
+    },
+    {
+      "numero": 36,
+      "texto": "Durante todo o curso de suas peregrinações, os israelitas se punham a caminho quando se elevava a nuvem que estava sobre o tabernáculo;"
+    },
+    {
+      "numero": 37,
+      "texto": "do contrário, eles não partiam até o dia em que ela se elevasse."
+    },
+    {
+      "numero": 38,
+      "texto": "E, enquanto duraram as suas peregrinações, a nuvem do Senhor pairou sobre o tabernáculo durante o dia; e, durante a noite, havia um fogo na nuvem, que era visível a todos os israelitas."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "40:1-8",
+      "texto": "Deus ordena a Moisés que erga o Tabernáculo e coloque todos os móveis e utensílios conforme as instruções. Isso destaca a ordem e o planejamento de Deus em estabelecer um lugar para Sua presença habitar (veja também Êxodo 25:8-9 e 1 Coríntios 14:40)."
+    },
+    {
+      "ref": "40:9-11",
+      "texto": "Moisés unge o Tabernáculo e todos os seus utensílios com óleo sagrado. Isso simboliza a consagração e a separação de tudo que pertence a Deus para um uso santo (veja também Levítico 8:10-12 e Hebreus 9:21)."
+    },
+    {
+      "ref": "40:12-15",
+      "texto": "Arão e seus filhos são vestidos e ungidos como sacerdotes. A unção sacerdotal simboliza a capacitação divina para mediar entre Deus e o povo, prefigurando o papel de Cristo como nosso sumo sacerdote (veja também Levítico 8:6-9 e Hebreus 7:26-27)."
+    },
+    {
+      "ref": "40:16-33",
+      "texto": "Moisés obedece a todas as ordens de Deus ao montar o Tabernáculo. Sua obediência é destacada como um exemplo de fidelidade no cumprimento dos planos divinos (veja também Êxodo 39:42-43 e 1 Samuel 15:22)."
+    },
+    {
+      "ref": "40:34-38",
+      "texto": "A glória de Deus enche o Tabernáculo, sinalizando a aprovação divina e a manifestação de Sua presença entre o povo de Israel. A nuvem e o fogo que acompanhavam Israel simbolizam a orientação e proteção contínua de Deus (veja também Êxodo 13:21-22 e João 1:14)."
+    }
+  ]
+}

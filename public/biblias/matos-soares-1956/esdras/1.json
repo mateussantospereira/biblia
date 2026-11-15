@@ -1,0 +1,79 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "esdras",
+  "nome": "Esdras",
+  "testamento": "AT",
+  "capitulo": 1,
+  "totalVersiculos": 11,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/esdras/1/",
+  "capturadoEm": "2026-11-15T09:49:57-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "No primeiro ano de Ciro, rei dos Persas, a fim de se cumprir a palavra do Senhor pronunciada pela boca de Jeremias, o Senhor suscitou o espírito de Ciro, rei dos Persas, que mandou publicar em todo o seu reino, de viva voz e por escrito, esta ordem:"
+    },
+    {
+      "numero": 2,
+      "texto": "Eis o que diz Ciro, rei dos Persas: O Senhor Deus do céu deu-me todos os reinos da terra, e ele mesmo me mandou que Ihe edificasse um templo em Jerusalém, que está na Judeia."
+    },
+    {
+      "numero": 3,
+      "texto": "Quem é dentre vós pertencente ao seu povo? O seu Deus seja com ele. Vá para Jerusalém, que está na Judeia, e edifique a casa do Senhor Deus de Israel. O Deus (verdadeiro) é aquele que está em Jerusalém."
+    },
+    {
+      "numero": 4,
+      "texto": "Todos aqueles que ainda restam (de Judá), em qualquer lugar onde habitem, sejam ajudados pelas populações desse lugar com prata, com ouro, com (outros) bens e com gados, com dons voluntàriamente oferecidos para o templo de Deus, que está em Jerusalém."
+    },
+    {
+      "numero": 5,
+      "texto": "Então os chefes das famílias de Judá e de Benjamim, os sacerdotes, os Levitas, e todos aqueles cujo coração Deus tinha tocado, prepararam-se para ir reedificar o templo do Senhor, que estava em Jerusalém."
+    },
+    {
+      "numero": 6,
+      "texto": "Todos os que moravam perto deles ajudaram-nos, pondo em suas mãos objectos de prata e de ouro, utensilios, gados e coisas preciosas, além daquilo que tinham oferecido voluntàriamente."
+    },
+    {
+      "numero": 7,
+      "texto": "O rei Ciro entregou também os vasos do templo do Senhor, que Nabucodonosor tinha levado de Jerusalém e que tinha posto no templo do seu deus."
+    },
+    {
+      "numero": 8,
+      "texto": "Ciro, rei dos Persas, mandou-os entregar por mão de Mitridates, filho de Gazabar, e deu-os por conta a Sassabasar, príncipe de Judá."
+    },
+    {
+      "numero": 9,
+      "texto": "Eis o número deles; Trinta copos de ouro, mil copos de prata, vinte e nove facas, trinta taças de ouro,"
+    },
+    {
+      "numero": 10,
+      "texto": "quatrocentas e dez taças de prata de segundo tamanho, e mil outros vasos."
+    },
+    {
+      "numero": 11,
+      "texto": "Todos os vasos de ouro e de prata, eram cinco mil e quatrocentos. Todos levou Sassabasar, com os que voltaram do cativeiro de Babilônia para Jerusalém."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:1-2",
+      "texto": "Ciro, rei da Pérsia, faz um decreto permitindo que os judeus retornem a Jerusalém e reconstruam o Templo. Esse evento cumpre as profecias sobre a libertação do exílio babilônico, destacando a soberania de Deus sobre os reinos do mundo (veja também Isaías 44:28 e 2 Crônicas 36:22-23)."
+    },
+    {
+      "ref": "1:3-4",
+      "texto": "O decreto de Ciro convida qualquer judeu que deseje voltar a Jerusalém a fazê-lo, com o apoio daqueles que ficarem. A colaboração entre os judeus no exílio e os que retornam reflete o cuidado comunitário e a provisão divina (veja também Salmo 126:1-2 e Neemias 2:8)."
+    },
+    {
+      "ref": "1:5-6",
+      "texto": "Os chefes das famílias de Judá e Benjamim, junto com os sacerdotes e levitas, respondem ao chamado para voltar, incentivados pelo Espírito de Deus. A prontidão do povo reflete uma obediência ao plano divino de restauração (veja também Êxodo 35:21 e Isaías 60:4-5)."
+    },
+    {
+      "ref": "1:7-8",
+      "texto": "Ciro devolve os utensílios do Templo que haviam sido levados por Nabucodonosor. A restauração desses itens sagrados simboliza a continuidade da aliança de Deus com Seu povo, mesmo após o exílio (veja também 2 Reis 25:13-15 e Daniel 1:2)."
+    },
+    {
+      "ref": "1:9-11",
+      "texto": "O inventário dos utensílios do Templo devolvidos reforça a minuciosidade de Deus em garantir a restauração completa da adoração em Jerusalém. O retorno dos objetos sagrados destaca a fidelidade de Deus em restaurar o culto a Ele (veja também Êxodo 25:9 e Ageu 2:7-9)."
+    }
+  ]
+}

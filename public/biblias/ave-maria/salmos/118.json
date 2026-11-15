@@ -1,0 +1,741 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 118,
+  "totalVersiculos": 176,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/118/",
+  "capturadoEm": "2026-11-15T09:18:04-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Salmo.* Alef Felizes aqueles cuja vida é pura, e seguem a Lei do Senhor."
+    },
+    {
+      "numero": 2,
+      "texto": "Felizes os que guardam com esmero seus preceitos e o procuram de todo o coração;"
+    },
+    {
+      "numero": 3,
+      "texto": "e os que não praticam o mal, mas andam em seus caminhos."
+    },
+    {
+      "numero": 4,
+      "texto": "Impusestes vossos preceitos para serem observados fielmente;"
+    },
+    {
+      "numero": 5,
+      "texto": "oxalá se firmem os meus passos na observância de vossas leis."
+    },
+    {
+      "numero": 6,
+      "texto": "Não serei então confundido, se fixar os olhos nos vossos mandamentos."
+    },
+    {
+      "numero": 7,
+      "texto": "Eu vos louvarei com reto coração, uma vez instruído em vossos justos decretos."
+    },
+    {
+      "numero": 8,
+      "texto": "Guardarei as vossas leis; não me abandoneis jamais. Bet"
+    },
+    {
+      "numero": 9,
+      "texto": "Como um jovem manterá pura a sua vida? Sendo fiel às vossas palavras."
+    },
+    {
+      "numero": 10,
+      "texto": "De todo o coração eu vos procuro; não permitais que eu me aparte de vossos mandamentos."
+    },
+    {
+      "numero": 11,
+      "texto": "Guardo no fundo do meu coração a vossa palavra, para não vos ofender."
+    },
+    {
+      "numero": 12,
+      "texto": "Sede bendito, Senhor; ensinai-me vossas leis."
+    },
+    {
+      "numero": 13,
+      "texto": "Meus lábios enumeram todos os decretos de vossa boca."
+    },
+    {
+      "numero": 14,
+      "texto": "Na observância de vossas ordens eu me alegro, muito mais do que em todas as riquezas."
+    },
+    {
+      "numero": 15,
+      "texto": "Sobre os vossos preceitos meditarei, e considerarei vossos caminhos."
+    },
+    {
+      "numero": 16,
+      "texto": "Hei de deleitar-me em vossas leis; jamais esquecerei vossas palavras. Guimel"
+    },
+    {
+      "numero": 17,
+      "texto": "Concedei a vosso servo esta graça: que eu viva guardando vossas palavras."
+    },
+    {
+      "numero": 18,
+      "texto": "Abri meus olhos, para que veja as maravilhas de vossa Lei."
+    },
+    {
+      "numero": 19,
+      "texto": "Peregrino sou na terra, não me oculteis os vossos mandamentos."
+    },
+    {
+      "numero": 20,
+      "texto": "Consome-se minha alma no desejo perpétuo de observar vossos decretos."
+    },
+    {
+      "numero": 21,
+      "texto": "Repreendestes os soberbos; malditos os que se apartam de vossos mandamentos."
+    },
+    {
+      "numero": 22,
+      "texto": "Livrai-me do opróbrio e do desprezo, pois observo as vossas ordens."
+    },
+    {
+      "numero": 23,
+      "texto": "Mesmo que os príncipes conspirem contra mim, vosso servo meditará em vossas leis."
+    },
+    {
+      "numero": 24,
+      "texto": "Vossos preceitos são minhas delícias, meus conselheiros são as vossas leis. Dalet"
+    },
+    {
+      "numero": 25,
+      "texto": "Prostrada no pó está minha alma: restituí-me a vida conforme vossa promessa."
+    },
+    {
+      "numero": 26,
+      "texto": "Eu vos exponho a minha vida, para que me atendais: ensinai-me as vossas leis."
+    },
+    {
+      "numero": 27,
+      "texto": "Mostrai-me o caminho de vossos preceitos, e meditarei em vossas maravilhas."
+    },
+    {
+      "numero": 28,
+      "texto": "Chora de tristeza a minha alma; reconfortai-me segundo vossa promessa."
+    },
+    {
+      "numero": 29,
+      "texto": "Afastai-me do caminho da mentira, e fazei-me fiel à vossa Lei."
+    },
+    {
+      "numero": 30,
+      "texto": "Escolhi o caminho da verdade, impus-me os vossos decretos."
+    },
+    {
+      "numero": 31,
+      "texto": "Apego-me a vossas ordens, Senhor. Não permitais que eu seja confundido."
+    },
+    {
+      "numero": 32,
+      "texto": "Correrei pelo caminho de vossos mandamentos, porque sois vós que dilatais meu coração. He"
+    },
+    {
+      "numero": 33,
+      "texto": "Mostrai-me, Senhor, o caminho de vossas leis, para que eu nele permaneça com fidelidade."
+    },
+    {
+      "numero": 34,
+      "texto": "Ensinai-me a observar a vossa Lei e a guardá-la de todo o coração."
+    },
+    {
+      "numero": 35,
+      "texto": "Conduzi-me pelas sendas de vossas leis, porque nelas estão minhas delícias."
+    },
+    {
+      "numero": 36,
+      "texto": "Inclinai-me o coração às vossas ordens e não para a avareza."
+    },
+    {
+      "numero": 37,
+      "texto": "Não permitais que meus olhos vejam a vaidade, fazei-me viver em vossos caminhos."
+    },
+    {
+      "numero": 38,
+      "texto": "Cumpri a promessa para com vosso servo, que fizestes àqueles que vos temem."
+    },
+    {
+      "numero": 39,
+      "texto": "Afastai de mim a vergonha que receio, pois são agradáveis os vossos decretos."
+    },
+    {
+      "numero": 40,
+      "texto": "Anseio pelos vossos preceitos; dai-me que viva segundo vossa justiça. Vau"
+    },
+    {
+      "numero": 41,
+      "texto": "Desçam a mim as vossas misericórdias, Senhor, e a vossa salvação, conforme vossa promessa."
+    },
+    {
+      "numero": 42,
+      "texto": "Saberei o que responder aos que me ultrajam, porque tenho confiança em vossa palavra."
+    },
+    {
+      "numero": 43,
+      "texto": "Não me tireis jamais da boca a palavra da verdade, porque tenho confiança em vossos decretos."
+    },
+    {
+      "numero": 44,
+      "texto": "Guardarei constantemente a vossa Lei, para sempre e pelos séculos dos séculos."
+    },
+    {
+      "numero": 45,
+      "texto": "Andarei por um caminho seguro, porque procuro os vossos preceitos."
+    },
+    {
+      "numero": 46,
+      "texto": "Diante dos reis falarei de vossas prescrições, e não me envergonharei."
+    },
+    {
+      "numero": 47,
+      "texto": "Encontrarei minhas delícias em vossos mandamentos, porque os amo."
+    },
+    {
+      "numero": 48,
+      "texto": "Erguerei as mãos para executar vossos mandamentos, e meditarei em vossas leis. Zain"
+    },
+    {
+      "numero": 49,
+      "texto": "Lembrai-vos da palavra empenhada ao vosso servo, na qual me fizestes encontrar esperança."
+    },
+    {
+      "numero": 50,
+      "texto": "O único consolo em minha aflição é que vossa palavra me dá vida."
+    },
+    {
+      "numero": 51,
+      "texto": "De sarcasmos cumulam-me os soberbos, mas de vossa Lei não me afasto."
+    },
+    {
+      "numero": 52,
+      "texto": "Lembro-me de vossos juízos de outrora, e isso me consola.",
+      "nota": true
+    },
+    {
+      "numero": 53,
+      "texto": "Revolto-me à vista dos pecadores, que abandonam a vossa Lei."
+    },
+    {
+      "numero": 54,
+      "texto": "Vossas leis são objeto de meus cantares no lugar de meu exílio."
+    },
+    {
+      "numero": 55,
+      "texto": "De noite, lembro-me, Senhor, de vosso nome; guardarei a vossa Lei."
+    },
+    {
+      "numero": 56,
+      "texto": "Escolhi, como parte que me toca, observar vossos preceitos. Het"
+    },
+    {
+      "numero": 57,
+      "texto": "Minha partilha, Senhor, eu o declaro, é guardar as vossas palavras."
+    },
+    {
+      "numero": 58,
+      "texto": "De todo o coração imploro em vossa presença: tende piedade de mim como haveis prometido."
+    },
+    {
+      "numero": 59,
+      "texto": "Considero os meus atos e regulo meus passos conforme as vossas ordens."
+    },
+    {
+      "numero": 60,
+      "texto": "Apresso-me, sem hesitação, em observar os vossos mandamentos."
+    },
+    {
+      "numero": 61,
+      "texto": "As malhas dos ímpios me cercaram, mas eu não esqueço a vossa Lei."
+    },
+    {
+      "numero": 62,
+      "texto": "Em meio à noite levanto-me para vos louvar pelos vossos decretos cheios de justiça."
+    },
+    {
+      "numero": 63,
+      "texto": "Sou amigo de todos os que vos temem e dos que seguem vossos preceitos."
+    },
+    {
+      "numero": 64,
+      "texto": "De vossa bondade, Senhor, está cheia a terra; ensinai-me as vossas leis. Tet"
+    },
+    {
+      "numero": 65,
+      "texto": "Tratastes com benevolência o vosso servo, Senhor, segundo a vossa palavra."
+    },
+    {
+      "numero": 66,
+      "texto": "Dai-me o juízo reto e a sabedoria, porque confio em vossos mandamentos."
+    },
+    {
+      "numero": 67,
+      "texto": "Antes de ser afligido pela provação, errei; mas agora guardo a vossa palavra."
+    },
+    {
+      "numero": 68,
+      "texto": "Vós que sois bom e benfazejo, ensinai-me as vossas leis."
+    },
+    {
+      "numero": 69,
+      "texto": "Contra mim os soberbos maquinam caluniosamente, mas eu, de todo o coração, fico fiel aos vossos preceitos."
+    },
+    {
+      "numero": 70,
+      "texto": "Seu espírito tornou-se espesso como sebo; eu, porém, me deleito em vossa Lei."
+    },
+    {
+      "numero": 71,
+      "texto": "Foi bom para mim ser afligido, a fim de aprender vossos decretos."
+    },
+    {
+      "numero": 72,
+      "texto": "Mais vale para mim a Lei de vossa boca que montes de ouro e prata. Iod"
+    },
+    {
+      "numero": 73,
+      "texto": "Formaram-me e plasmaram-me vossas mãos, dai-me a sabedoria para aprender os vossos mandamentos."
+    },
+    {
+      "numero": 74,
+      "texto": "Aqueles que vos temem alegrem-se ao me ver, porque em vossa palavra pus minha esperança."
+    },
+    {
+      "numero": 75,
+      "texto": "Sei, Senhor, que são justos os vossos decretos e que com razão vós me provastes."
+    },
+    {
+      "numero": 76,
+      "texto": "Venha-me em auxílio a vossa misericórdia, e console-me segundo a promessa feita a vosso servo."
+    },
+    {
+      "numero": 77,
+      "texto": "Venham sobre mim as vossas misericórdias, para que eu viva, porque a vossa Lei são as minhas delícias."
+    },
+    {
+      "numero": 78,
+      "texto": "Sejam confundidos esses orgulhosos que sem razão me afligem; porque medito em vossos preceitos."
+    },
+    {
+      "numero": 79,
+      "texto": "Voltem para mim os que vos temem e os que observam as vossas prescrições."
+    },
+    {
+      "numero": 80,
+      "texto": "Seja perfeito meu coração na observância de vossas leis, a fim de que eu não seja confundido. Caf"
+    },
+    {
+      "numero": 81,
+      "texto": "Desfalece-me a alma ansiando por vosso auxílio; em vossa palavra ponho minha esperança."
+    },
+    {
+      "numero": 82,
+      "texto": "Meus olhos enfraquecem desejando a vossa palavra; quando vireis consolar-me?"
+    },
+    {
+      "numero": 83,
+      "texto": "Assemelho-me a um odre exposto ao fumeiro, e, contudo, não me esqueci de vossas leis.",
+      "nota": true
+    },
+    {
+      "numero": 84,
+      "texto": "Por quantos dias fareis esperar o vosso servo? Quando lhe fareis justiça de seus perseguidores?"
+    },
+    {
+      "numero": 85,
+      "texto": "Para mim cavaram fossas os orgulhosos, que não guardam a vossa Lei."
+    },
+    {
+      "numero": 86,
+      "texto": "Todos os vossos mandamentos são justos; sem razão me perseguem; ajudai-me."
+    },
+    {
+      "numero": 87,
+      "texto": "Por pouco não me exterminaram da terra; eu, porém, não abandonei vossos preceitos."
+    },
+    {
+      "numero": 88,
+      "texto": "Conservai-me vivo em vossa misericórdia, para que eu observe as prescrições de vossa boca. Lamed"
+    },
+    {
+      "numero": 89,
+      "texto": "É eterna, Senhor, vossa palavra, tão estável como o céu."
+    },
+    {
+      "numero": 90,
+      "texto": "Vossa verdade dura de geração em geração, tão estável como a terra que criastes."
+    },
+    {
+      "numero": 91,
+      "texto": "Tudo subsiste perpetuamente pelos vossos decretos, porque o universo vos é sujeito."
+    },
+    {
+      "numero": 92,
+      "texto": "Se em vossa Lei não tivesse encontrado as minhas delícias, já teria perecido em minha aflição."
+    },
+    {
+      "numero": 93,
+      "texto": "Jamais esquecerei vossos preceitos, porque por eles é que me dais a vida."
+    },
+    {
+      "numero": 94,
+      "texto": "Sou vosso, salvai-me, porquanto busco vossos preceitos."
+    },
+    {
+      "numero": 95,
+      "texto": "Espreitam-me os pecadores para me perder, mas eu atendo às vossas ordens."
+    },
+    {
+      "numero": 96,
+      "texto": "Vi que há um termo em toda perfeição, mas vossa Lei se estende sem limites. Mem"
+    },
+    {
+      "numero": 97,
+      "texto": "Ah, quanto amo, Senhor, a vossa Lei! Durante o dia todo eu a medito."
+    },
+    {
+      "numero": 98,
+      "texto": "Mais sábio que meus inimigos me fizeram os vossos mandamentos, pois eles me acompanham sempre."
+    },
+    {
+      "numero": 99,
+      "texto": "Sou mais prudente do que todos os meus mestres, porque vossas prescrições são o único objeto de minha meditação."
+    },
+    {
+      "numero": 100,
+      "texto": "Sou mais sensato do que os anciãos, porque observo os vossos preceitos."
+    },
+    {
+      "numero": 101,
+      "texto": "Dos maus caminhos desvio os meus pés, para poder guardar vossas palavras."
+    },
+    {
+      "numero": 102,
+      "texto": "De vossos decretos eu não me desvio, porque vós mos ensinastes."
+    },
+    {
+      "numero": 103,
+      "texto": "Quão saborosas são para mim vossas palavras! São mais doces que o mel à minha boca."
+    },
+    {
+      "numero": 104,
+      "texto": "Vossos preceitos me fizeram sábio, por isso odeio toda senda iníqua. Num"
+    },
+    {
+      "numero": 105,
+      "texto": "Vossa palavra é um facho que ilumina meus passos, uma luz em meu caminho."
+    },
+    {
+      "numero": 106,
+      "texto": "Faço juramento e me obrigo a guardar os vossos justos decretos."
+    },
+    {
+      "numero": 107,
+      "texto": "Estou extremamente aflito, Senhor; conservai-me a vida como prometestes."
+    },
+    {
+      "numero": 108,
+      "texto": "Aceitai, Senhor, a oferenda da minha promessa e ensinai-me as vossas ordens."
+    },
+    {
+      "numero": 109,
+      "texto": "Em constante perigo está a minha vida, mas não me esqueço de vossa Lei."
+    },
+    {
+      "numero": 110,
+      "texto": "Armaram-me laços os pecadores, mas não fugi de vossos preceitos."
+    },
+    {
+      "numero": 111,
+      "texto": "Minha herança eterna são as vossas prescrições, porque fazem a alegria de meu coração."
+    },
+    {
+      "numero": 112,
+      "texto": "Inclinei o meu coração à prática de vossas ordens, perpetuamente e com exatidão. Samec"
+    },
+    {
+      "numero": 113,
+      "texto": "Odeio os homens hipócritas, mas amo a vossa Lei."
+    },
+    {
+      "numero": 114,
+      "texto": "Vós sois meu abrigo e meu escudo; vossa palavra é minha esperança."
+    },
+    {
+      "numero": 115,
+      "texto": "Afastai-vos de mim, homens malignos! E guardarei os mandamentos de meu Deus."
+    },
+    {
+      "numero": 116,
+      "texto": "Sustentai-me pela vossa promessa, para que eu viva, não queirais confundir minha esperança."
+    },
+    {
+      "numero": 117,
+      "texto": "Ajudai-me para que me salve, e sempre atenderei a vossos decretos."
+    },
+    {
+      "numero": 118,
+      "texto": "Desprezais os que se apartam de vossas leis, porque mentirosos são seus pensamentos."
+    },
+    {
+      "numero": 119,
+      "texto": "Como escória reputais os pecadores, por isso eu amo as vossas prescrições."
+    },
+    {
+      "numero": 120,
+      "texto": "O respeito que tenho por vós me faz estremecer e vossos decretos inspiram-me temor. Ain"
+    },
+    {
+      "numero": 121,
+      "texto": "Pratico o direito e a justiça; não me entregueis aos que me querem oprimir."
+    },
+    {
+      "numero": 122,
+      "texto": "Sede fiador de vosso servo para a sua segurança, a fim de que os orgulhosos não me oprimam."
+    },
+    {
+      "numero": 123,
+      "texto": "Desfalecem-me os olhos desejando vossa ajuda e na espera de vossas promessas de felicidade."
+    },
+    {
+      "numero": 124,
+      "texto": "Tratai vosso servo segundo vossa bondade, e ensinai-me vossas leis."
+    },
+    {
+      "numero": 125,
+      "texto": "Sou vosso servo: ensinai-me a sabedoria, para que conheça as vossas prescrições."
+    },
+    {
+      "numero": 126,
+      "texto": "Senhor, é tempo de vós intervirdes, porque violaram as vossas leis."
+    },
+    {
+      "numero": 127,
+      "texto": "Por isso, amo os vossos mandamentos, mais que o ouro, mesmo o ouro mais fino."
+    },
+    {
+      "numero": 128,
+      "texto": "Por isso, escolhi as vossas leis como partilha, e detesto o caminho da mentira. Pe"
+    },
+    {
+      "numero": 129,
+      "texto": "São admiráveis as vossas prescrições, por isso, minha alma as observa."
+    },
+    {
+      "numero": 130,
+      "texto": "Vossas palavras são uma verdadeira luz, que dá sabedoria aos simples."
+    },
+    {
+      "numero": 131,
+      "texto": "Abro a boca para aspirar, num intenso amor de vossa Lei."
+    },
+    {
+      "numero": 132,
+      "texto": "Voltai-vos para mim e mostrai-me vossa misericórdia, como fazeis sempre para com os que amam o vosso nome."
+    },
+    {
+      "numero": 133,
+      "texto": "Dirigi meus passos segundo a vossa palavra, a fim de que jamais o pecado reine sobre mim."
+    },
+    {
+      "numero": 134,
+      "texto": "Livrai-me da opressão dos homens, para que possa guardar as vossas ordens."
+    },
+    {
+      "numero": 135,
+      "texto": "Fazei brilhar sobre o vosso servo o esplendor da vossa face, e ensinai-me as vossas leis."
+    },
+    {
+      "numero": 136,
+      "texto": "Muitas lágrimas correram de meus olhos, por não ver observada a vossa Lei. Sade"
+    },
+    {
+      "numero": 137,
+      "texto": "Justo sois, Senhor, e retos os vossos juízos."
+    },
+    {
+      "numero": 138,
+      "texto": "Promulgastes vossas prescrições com toda a justiça, em toda a verdade."
+    },
+    {
+      "numero": 139,
+      "texto": "Sinto-me consumido pela dor ao ver meus inimigos negligenciar vossas palavras."
+    },
+    {
+      "numero": 140,
+      "texto": "Vossa palavra é isenta de toda a impureza: vosso servo a ama com fervor."
+    },
+    {
+      "numero": 141,
+      "texto": "Sou pequeno e desprezado, mas não esqueço os vossos preceitos!"
+    },
+    {
+      "numero": 142,
+      "texto": "Vossa justiça é justiça eterna; e firme, a vossa Lei."
+    },
+    {
+      "numero": 143,
+      "texto": "Apesar da angústia e da tribulação que caíram sobre mim, vossos mandamentos continuam a ser minhas delícias."
+    },
+    {
+      "numero": 144,
+      "texto": "Eterna é a justiça das vossas prescrições; dai-me a compreensão delas para que eu viva. Cof"
+    },
+    {
+      "numero": 145,
+      "texto": "De todo o coração eu clamo. Ouvi-me, Senhor; e observarei as vossas leis."
+    },
+    {
+      "numero": 146,
+      "texto": "Clamo a vós: salvai-me, para que eu guarde as vossas prescrições."
+    },
+    {
+      "numero": 147,
+      "texto": "Já desde a aurora imploro vosso auxílio; nas vossas palavras ponho minha esperança."
+    },
+    {
+      "numero": 148,
+      "texto": "Meus olhos se antecipam às vigílias da noite, para meditarem em vossa palavra."
+    },
+    {
+      "numero": 149,
+      "texto": "Conforme vossa misericórdia, ouvi, Senhor, a minha voz; e dai-me a vida, segundo vossa promessa."
+    },
+    {
+      "numero": 150,
+      "texto": "Aproximam-se os que me perseguem sem razão, eles estão longe de vossa Lei."
+    },
+    {
+      "numero": 151,
+      "texto": "Mas vós, Senhor, estais bem perto, e os vossos mandamentos são a verdade."
+    },
+    {
+      "numero": 152,
+      "texto": "De há muito sei que vossas prescrições, vós as estabelecestes desde toda a eternidade. Res"
+    },
+    {
+      "numero": 153,
+      "texto": "Vede a minha aflição e libertai-me, porque não me esqueci de vossa Lei."
+    },
+    {
+      "numero": 154,
+      "texto": "Tomai em vossas mãos a minha causa e vingai-me; como prometestes, dai-me a vida."
+    },
+    {
+      "numero": 155,
+      "texto": "Longe dos pecadores está a salvação, e daqueles que não observam as vossas leis."
+    },
+    {
+      "numero": 156,
+      "texto": "São muitas, Senhor, as vossas misericórdias; dai-me a vida segundo as vossas decisões."
+    },
+    {
+      "numero": 157,
+      "texto": "Apesar do número dos que me perseguem e oprimem, não me aparto em nada de vossos preceitos."
+    },
+    {
+      "numero": 158,
+      "texto": "Ao ver os prevaricadores sinto desgosto, porque eles não observam a vossa palavra."
+    },
+    {
+      "numero": 159,
+      "texto": "Vede, Senhor, como amo vossos preceitos; conservai-me vivo segundo vossa promessa."
+    },
+    {
+      "numero": 160,
+      "texto": "O sumário da vossa palavra é a verdade, eternos são os decretos de vossa justiça. Sin"
+    },
+    {
+      "numero": 161,
+      "texto": "Perseguem-me sem razão os poderosos; meu coração só reverencia vossas palavras."
+    },
+    {
+      "numero": 162,
+      "texto": "Encontro minha alegria na vossa palavra, como a de quem encontra um imenso tesouro."
+    },
+    {
+      "numero": 163,
+      "texto": "Odeio o mal, eu o detesto; mas amo a vossa Lei."
+    },
+    {
+      "numero": 164,
+      "texto": "Sete vezes ao dia publico vossos louvores, por causa da justiça de vossos juízos."
+    },
+    {
+      "numero": 165,
+      "texto": "Grande paz têm aqueles que amam vossa Lei: não há para eles nada que os perturbe."
+    },
+    {
+      "numero": 166,
+      "texto": "Espero, Senhor, o vosso auxílio, e cumpro os vossos mandamentos."
+    },
+    {
+      "numero": 167,
+      "texto": "Minha alma é fiel às vossas prescrições, e eu as amo com fervor."
+    },
+    {
+      "numero": 168,
+      "texto": "Guardo os vossos preceitos e as vossas ordens, porque ante vossos olhos está minha vida inteira. Tau"
+    },
+    {
+      "numero": 169,
+      "texto": "Chegue até vós, Senhor, o meu clamor; instruí-me segundo a vossa palavra."
+    },
+    {
+      "numero": 170,
+      "texto": "Chegue até vós a minha prece; livrai-me segundo a vossa palavra."
+    },
+    {
+      "numero": 171,
+      "texto": "Meus lábios cantem a vós um cântico, por me haverdes ensinado as vossas leis."
+    },
+    {
+      "numero": 172,
+      "texto": "Cante minha língua as vossas palavras, porque justos são os vossos mandamentos."
+    },
+    {
+      "numero": 173,
+      "texto": "Estenda-se a vossa mão e me socorra, porque escolhi vossos preceitos."
+    },
+    {
+      "numero": 174,
+      "texto": "Suspiro, Senhor, pela vossa salvação, e a vossa Lei são as minhas delícias."
+    },
+    {
+      "numero": 175,
+      "texto": "Viva a minha alma para vos louvar, e ajudem-me os vossos decretos."
+    },
+    {
+      "numero": 176,
+      "texto": "Ando errante como ovelha perdida; vinde em busca do vosso servo, porque não me esqueci de vossos mandamentos!"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "118:1-4",
+      "texto": "O salmo começa com uma declaração de gratidão pela bondade e misericórdia de Deus. O chamado para dar graças a Deus é um lembrete da necessidade de louvor contínuo por Sua constante fidelidade (veja também Salmo 136:1 e Lamentações 3:22-23)."
+    },
+    {
+      "ref": "118:5-7",
+      "texto": "O salmista reflete sobre a ajuda de Deus em tempos de angústia, afirmando que, com o Senhor ao seu lado, ele não temerá. Isso mostra a confiança no poder de Deus para libertar de qualquer perigo (veja também Isaías 41:10 e Romanos 8:31)."
+    },
+    {
+      "ref": "118:14-16",
+      "texto": "A alegria da vitória é celebrada. O Senhor é exaltado como a força e o cântico do salmista, ecoando a confiança de que a vitória vem de Deus (veja também Êxodo 15:2 e Salmo 144:1-2)."
+    },
+    {
+      "ref": "118:22-24",
+      "texto": "A pedra que os construtores rejeitaram tornou-se a pedra angular. Esse versículo é uma profecia messiânica, posteriormente aplicada a Jesus no Novo Testamento, destacando a obra redentora de Cristo (veja também Mateus 21:42 e Atos 4:11)."
+    },
+    {
+      "ref": "118:28-29",
+      "texto": "O salmo termina com louvor ao Senhor pela Sua bondade e por Suas misericórdias que duram para sempre. Esse versículo reitera o tema de gratidão e adoração a Deus, que permeia todo o salmo (veja também Salmo 106:1 e 1 Crônicas 16:34)."
+    }
+  ]
+}

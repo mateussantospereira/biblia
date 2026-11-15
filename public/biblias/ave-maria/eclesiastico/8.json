@@ -1,0 +1,125 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "eclesiastico",
+  "nome": "Eclesiástico",
+  "testamento": "AT",
+  "capitulo": 8,
+  "totalVersiculos": 22,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/eclesiastico/8/",
+  "capturadoEm": "2026-11-15T09:20:29-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Não disputes com um homem poderoso, para que não caias em suas mãos."
+    },
+    {
+      "numero": 2,
+      "texto": "Não tenhas desavença com um rico, para não acontecer que ele te mova um processo;"
+    },
+    {
+      "numero": 3,
+      "texto": "pois o ouro e a prata perderam a muitos, e o poder deles chega até a transviar o coração de um rei."
+    },
+    {
+      "numero": 4,
+      "texto": "Não tenhas desavença com um grande falador, e não amontoes lenha em sua fogueira."
+    },
+    {
+      "numero": 5,
+      "texto": "Não convivas com um homem mal-educado, para não acontecer que ele fale mal de teus antepassados."
+    },
+    {
+      "numero": 6,
+      "texto": "Não desprezes um homem que renuncia ao pecado, não lhe dirijas censuras; lembra-te de que todos merecemos o castigo."
+    },
+    {
+      "numero": 7,
+      "texto": "Não desprezes um ancião, pois alguns dentre nós também envelheceremos."
+    },
+    {
+      "numero": 8,
+      "texto": "Não te alegres com a morte de teu inimigo, pois sabes que todos morreremos, e não queremos que com isso se regozijem."
+    },
+    {
+      "numero": 9,
+      "texto": "Não desprezes o que contarem os velhos sábios, mas entretém-te com suas palavras,"
+    },
+    {
+      "numero": 10,
+      "texto": "pois é com eles que aprenderás a sabedoria, os ensinamentos da inteligência, e a arte de servir irrepreensivelmente aos poderosos."
+    },
+    {
+      "numero": 11,
+      "texto": "Não desprezes os ensinamentos dos anciãos, pois eles os aprenderam com seus pais."
+    },
+    {
+      "numero": 12,
+      "texto": "Estudarás com eles o conhecimento e a arte de responder com oportunidade."
+    },
+    {
+      "numero": 13,
+      "texto": "Não acendas os tições dos pecadores, repreendendo-os, para não acontecer que te queimes nas chamas dos seus pecados."
+    },
+    {
+      "numero": 14,
+      "texto": "Não resistas perante um insolente, para que ele não arme ciladas às tuas palavras."
+    },
+    {
+      "numero": 15,
+      "texto": "Não emprestes dinheiro a alguém mais poderoso do que tu, pois, se lhe emprestares, considera-o perdido."
+    },
+    {
+      "numero": 16,
+      "texto": "Não prestes fiança a outrem além de tuas posses, pois, se o fizeres, considera-te na obrigação de pagá-la."
+    },
+    {
+      "numero": 17,
+      "texto": "Não julgues o procedimento de um juiz, pois ele julga conforme a equidade.",
+      "nota": true
+    },
+    {
+      "numero": 18,
+      "texto": "Não enveredes por um caminho com um audacioso, para não acontecer que ele faça recair sobre ti seus delitos; pois ele só age segundo o seu capricho, e por causa de sua loucura perecerás com ele."
+    },
+    {
+      "numero": 19,
+      "texto": "Não tenhas desavença com um homem irascível; não vás para o deserto com um audacioso, porque para ele nada vale o sangue, e ele te destruirá quando te achares sem socorro."
+    },
+    {
+      "numero": 20,
+      "texto": "Não deliberes com loucos, pois só amam o que lhes agrada.",
+      "nota": true
+    },
+    {
+      "numero": 21,
+      "texto": "Nada resolvas perante um estranho, pois não sabes o que ele pode imaginar."
+    },
+    {
+      "numero": 22,
+      "texto": "Não abras teu coração a qualquer homem, para não acontecer que recebas uma falsa amizade, e, além disso, ultrajes."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "8:1-2",
+      "texto": "Não entre em conflito com os poderosos, pois isso pode trazer consequências desastrosas. Respeitar a autoridade e agir com prudência em situações de confronto é sinal de sabedoria (veja também Romanos 13:1-2 e Provérbios 24:21)."
+    },
+    {
+      "ref": "8:3-5",
+      "texto": "Não se envolva em discussões com pessoas arrogantes ou tolas. O debate com os insensatos geralmente leva à ira e ao conflito, e a sabedoria está em evitar essas situações (veja também Provérbios 29:9 e Tito 3:9)."
+    },
+    {
+      "ref": "8:6-7",
+      "texto": "Não ofenda os idosos, pois eles têm experiência e sabedoria. A experiência de vida deve ser respeitada, e os mais velhos devem ser tratados com honra (veja também Levítico 19:32 e 1 Timóteo 5:1)."
+    },
+    {
+      "ref": "8:8-9",
+      "texto": "Busque o conselho dos sábios e dos anciãos. Ouvir a experiência dos mais velhos e aprender com os que possuem sabedoria é um caminho seguro para evitar erros (veja também Provérbios 13:20 e Salmo 37:30)."
+    },
+    {
+      "ref": "8:15-16",
+      "texto": "Evite as más companhias e não se associe com aqueles que praticam o mal. As más companhias corrompem o caráter, e devemos escolher com quem nos associamos com cuidado (veja também 1 Coríntios 15:33 e Provérbios 4:14-15)."
+    }
+  ]
+}

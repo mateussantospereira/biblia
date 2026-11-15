@@ -1,0 +1,166 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "galatas",
+  "nome": "Gálatas",
+  "testamento": "NT",
+  "capitulo": 4,
+  "totalVersiculos": 31,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/galatas/4/",
+  "capturadoEm": "2026-11-15T09:28:25-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Explico-me: enquanto o herdeiro é menor, em nada difere do escravo, ainda que seja senhor de tudo,"
+    },
+    {
+      "numero": 2,
+      "texto": "mas está sob tutores e administradores, até o tempo determinado por seu pai."
+    },
+    {
+      "numero": 3,
+      "texto": "Assim também nós, quando menores, estávamos escravizados pelos rudimentos do mundo.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Mas quando veio a plenitude dos tempos, Deus enviou seu Filho, que nasceu de uma mulher e nasceu submetido a uma Lei,"
+    },
+    {
+      "numero": 5,
+      "texto": "a fim de remir os que estavam sob a Lei, para que recebêssemos a sua adoção."
+    },
+    {
+      "numero": 6,
+      "texto": "A prova de que sois filhos é que Deus enviou aos vossos corações o Espírito de seu Filho, que clama: “Aba, Pai!’’."
+    },
+    {
+      "numero": 7,
+      "texto": ", já não és escravo, mas filho. E, se és filho, então também herdeiro por Deus."
+    },
+    {
+      "numero": 8,
+      "texto": "Outrora, é certo, desconhecendo a Deus, servíeis aos que na realidade não são deuses."
+    },
+    {
+      "numero": 9,
+      "texto": "Agora, porém, conhecendo a Deus, ou melhor, sendo conhecidos por Deus, como é que tornais aos rudimentos fracos e miseráveis, querendo de novo escravizar-vos a eles?"
+    },
+    {
+      "numero": 10,
+      "texto": "Observais dias, meses, estações e anos!",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Temo que os meus esforços entre vós tenham sido em vão."
+    },
+    {
+      "numero": 12,
+      "texto": "Irmãos, sede como eu, pois também eu me tornei como vós. Não tenho nenhum motivo de queixa contra vós.",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "Estais lembrados de como eu estava doente quando, pela primeira vez, vos preguei o Evangelho",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "e fui para vós uma provação por causa do meu corpo. Mas nem por isto me desprezastes nem rejeitastes, antes, me acolhestes como um enviado de Deus, como Cristo Jesus."
+    },
+    {
+      "numero": 15,
+      "texto": "Onde está agora aquele vosso entusiasmo? Asseguro-vos que, se possível fora, teríeis arrancado os vossos olhos para me dar!"
+    },
+    {
+      "numero": 16,
+      "texto": "Tornei-me, acaso, vosso inimigo, porque vos disse a verdade?"
+    },
+    {
+      "numero": 17,
+      "texto": "Eles vos testemunham amizade com má intenção, e querem separar-vos de mim, para captar a vossa amizade."
+    },
+    {
+      "numero": 18,
+      "texto": "É maravilhoso receber demonstrações de boa amizade, mas que seja em todas as circunstâncias, e não somente quando estou convosco."
+    },
+    {
+      "numero": 19,
+      "texto": "Filhinhos meus, por quem de novo sinto dores de parto, até que Cristo seja formado em vós,"
+    },
+    {
+      "numero": 20,
+      "texto": "quem me dera estar agora convosco, para descobrir o tom que convém à minha linguagem, visto que eu me encontro extremamente perplexo a vosso respeito."
+    },
+    {
+      "numero": 21,
+      "texto": "Dizei-me, vós que quereis estar sujeitos a uma Lei: não ouvis a Lei?"
+    },
+    {
+      "numero": 22,
+      "texto": "A Escritura diz que Abraão teve dois filhos, um da escrava e outro da livre."
+    },
+    {
+      "numero": 23,
+      "texto": "O da escrava, filho da natureza; e o da livre, filho da promessa.",
+      "nota": true
+    },
+    {
+      "numero": 24,
+      "texto": "Nestes fatos há uma alegoria, visto que aquelas mulheres representam as duas alianças: uma, a do monte Sinai, que gera para a escravidão, é Agar.",
+      "nota": true
+    },
+    {
+      "numero": 25,
+      "texto": "(O monte Sinai está na Arábia.) Corresponde à Jerusalém atual, que é escrava com seus filhos.",
+      "nota": true
+    },
+    {
+      "numero": 26,
+      "texto": "Mas a Jerusalém lá do alto é livre e esta é a nossa mãe,"
+    },
+    {
+      "numero": 27,
+      "texto": "porque está escrito: Alegra-te, ó estéril, que não davas à luz; rejubila e canta, tu que não tinhas dores de parto, pois são mais numerosos os filhos da abandonada do que daquela que tem marido (Is 54,1)."
+    },
+    {
+      "numero": 28,
+      "texto": "Como Isaac, irmãos, vós sois filhos da promessa."
+    },
+    {
+      "numero": 29,
+      "texto": "Como naquele tempo o filho da natureza perseguia o filho da promessa, o mesmo se dá hoje."
+    },
+    {
+      "numero": 30,
+      "texto": "Que diz, porém, a Escritura? Lança fora a escrava e seu filho, porque o filho da escrava não será herdeiro com o filho da livre (Gn 21,10)."
+    },
+    {
+      "numero": 31,
+      "texto": "Pelo que, irmãos, não somos filhos da escrava, mas sim da que é livre."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "4:1-7",
+      "texto": "Paulo explica que, antes de Cristo, os cristãos eram como servos sob a lei, mas agora, como filhos adotivos de Deus, têm a liberdade do Espírito. A adoção é um tema central na teologia paulina (veja também Romanos 8:15 e Efésios 1:5)."
+    },
+    {
+      "ref": "4:8-11",
+      "texto": "Paulo expressa sua preocupação com os gálatas, alertando-os sobre o risco de retornar às práticas da lei e abandonarem a graça. A verdadeira liberdade é encontrada em Cristo, não na observância da lei (veja também Hebreus 6:4-6 e João 8:36)."
+    },
+    {
+      "ref": "4:12-20",
+      "texto": "Paulo relembra aos gálatas sobre o início de sua relação com eles e seu amor por eles. A conversa sobre as angústias de um pai espiritual reflete a preocupação de Paulo com a pureza do evangelho (veja também 1 Tessalonicenses 2:7-12 e 2 Coríntios 12:14)."
+    },
+    {
+      "ref": "4:21-31",
+      "texto": "Paulo usa a alegoria de Sara e Hagar para contrastar a liberdade que vem de Cristo com a escravidão da lei. A alusão ao monte Sinai mostra que a lei gera escravidão, enquanto a promessa é de liberdade em Cristo (veja também Romanos 9:8 e Hebreus 11:11)."
+    },
+    {
+      "ref": "4:31",
+      "texto": "Paulo conclui dizendo que os cristãos são filhos da promessa, não da escravidão. A nova aliança, em Cristo, traz a verdadeira liberdade (veja também João 8:32 e 1 Pedro 1:23)."
+    }
+  ]
+}

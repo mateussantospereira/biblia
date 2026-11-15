@@ -1,0 +1,149 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "joel",
+  "nome": "Joel",
+  "testamento": "AT",
+  "capitulo": 2,
+  "totalVersiculos": 27,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/joel/2/",
+  "capturadoEm": "2026-11-15T09:24:44-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Tocai a trombeta em Sião, dai alarme no meu monte santo! Estremeçam todos os habitantes da terra, eis que se aproxima o dia do Senhor,"
+    },
+    {
+      "numero": 2,
+      "texto": "dia de trevas e de escuridão, dia nublado e coberto de nuvens. Tal como a luz da aurora, derrama-se sobre os montes um povo imenso e vigoroso, como nunca houve semelhante desde o princípio, nem depois haverá outro até as épocas mais longínquas.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Diante dele um fogo devorador; atrás, uma chama abrasadora. Diante dele a terra é um paraíso; atrás, é um deserto desolador; nada lhe escapa."
+    },
+    {
+      "numero": 4,
+      "texto": "Têm a aparência de uma tropa de cavalos, e como cavalos se precipitam."
+    },
+    {
+      "numero": 5,
+      "texto": "É como o estrondo de carros saltando sobre os cumes dos montes, ou o crepitar da chama que devora a palha, ou um formidável exército disposto em ordem de batalha."
+    },
+    {
+      "numero": 6,
+      "texto": "Diante deles tremem os povos, os rostos empalidecem;"
+    },
+    {
+      "numero": 7,
+      "texto": "como valentes eles se precipitam para o assalto, e escalam as muralhas como guerreiros. Segue cada um o seu caminho, sem confundir suas fileiras."
+    },
+    {
+      "numero": 8,
+      "texto": "Não empurram uns aos outros, marcham cada um em seu pelotão. Abrem caminho por entre as armas, sem romper suas fileiras."
+    },
+    {
+      "numero": 9,
+      "texto": "Espalham-se pela cidade, correm por cima dos muros, invadem as casas, entrando pelas janelas como ladrões."
+    },
+    {
+      "numero": 10,
+      "texto": "Diante deles treme a terra, os céus vacilam, o sol e a lua se obscurecem, as estrelas perdem o seu brilho."
+    },
+    {
+      "numero": 11,
+      "texto": "À frente do seu exército, o Senhor faz ouvir a sua voz, pois seu batalhão é imenso e poderoso para executar sua palavra. Sim, o dia do Senhor é grandioso e temível! Quem o poderá suportar?"
+    },
+    {
+      "numero": 12,
+      "texto": "Por isso, agora ainda – oráculo do Senhor –, voltai a mim de todo o vosso coração, com jejuns, lágrimas e gemidos de luto."
+    },
+    {
+      "numero": 13,
+      "texto": "Rasgai vossos corações e não vossas vestes; voltai ao Senhor, vosso Deus, porque ele é bom e compassivo, longânime e indulgente, pronto a arrepender-se do castigo que inflige.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Quem sabe se ele mudará de parecer e voltará atrás, deixando após si uma bênção, ofertas e libações para o Senhor, vosso Deus?",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Tocai a trombeta em Sião: publicai o jejum, convocai a assembleia, reuni o povo;"
+    },
+    {
+      "numero": 16,
+      "texto": "santificai a assembleia, agrupai os anciãos, congregai as crianças e os meninos de peito; saia o recém-casado de seus aposentos, e a esposa de sua câmara nupcial.",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "Chorem os sacerdotes, servos do Senhor, entre o pórtico e o altar, e digam: “Tende piedade de vosso povo, Senhor, não entregueis à ignomínia vossa herança, para que não se torne ela o escárnio dos pagãos! Por que diriam eles: onde está o seu Deus?”."
+    },
+    {
+      "numero": 18,
+      "texto": "O Senhor afeiçoou-se à sua terra, teve compaixão de seu povo;"
+    },
+    {
+      "numero": 19,
+      "texto": "o Senhor respondeu ao seu povo: “Vou mandar-vos trigo, vinho e óleo, e deles sereis fartos, e não vos farei mais objeto de opróbrio diante dos pagãos."
+    },
+    {
+      "numero": 20,
+      "texto": "Afastarei de vós aquele que vem do Norte, e o lançarei para uma terra árida e deserta, sua vanguarda para o mar oriental, e sua retaguarda para o mar ocidental. Um mau cheiro se exalará dali, um cheiro de podridão porque ele fez grandes coisas!",
+      "nota": true
+    },
+    {
+      "numero": 21,
+      "texto": "Não temas, terra, estremece de alegria e de júbilo, porque o Senhor fez grandes coisas."
+    },
+    {
+      "numero": 22,
+      "texto": "Não temais, animais dos campos, porque as pastagens do deserto reverdecerão, as árvores darão seu fruto, a figueira e a vinha produzirão abundantemente."
+    },
+    {
+      "numero": 23,
+      "texto": "Alegrai-vos, filhos de Sião, e rejubilai no Senhor, vosso Deus, porque ele vos dá as chuvas do outono no tempo oportuno, e faz cair chuvas copiosas sobre vós, as chuvas do outono e da primavera, como dantes."
+    },
+    {
+      "numero": 24,
+      "texto": "As eiras se encherão de trigo, os lagares transbordarão de vinho e de óleo novo."
+    },
+    {
+      "numero": 25,
+      "texto": "Eu vos restituirei as colheitas devoradas pelo gafanhoto, pelo roedor, pelo devastador e pela lagarta, esse meu poderoso exército que mandei contra vós.",
+      "nota": true
+    },
+    {
+      "numero": 26,
+      "texto": "Comereis abundantemente e vos fartareis, e louvareis o nome do Senhor, vosso Deus, que fez maravilhas em vosso favor; e jamais meu povo será confundido."
+    },
+    {
+      "numero": 27,
+      "texto": "Sabereis então que estou no meio de Israel, que sou o Senhor, vosso Deus, e que não há outro. E jamais meu povo será confundido."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "2:1-2",
+      "texto": "O \"dia do Senhor\" é mais detalhadamente descrito como um evento de grande escuridão e destruição. Joel alerta sobre a iminente invasão, associando-a à ação divina e enfatizando o poder e a justiça de Deus (veja também Amós 5:18-20 e Isaías 13:9-10)."
+    },
+    {
+      "ref": "2:12-14",
+      "texto": "A convocação ao arrependimento sincero é central neste trecho. Joel exorta o povo a voltar-se para Deus de todo o coração, com jejum, pranto e lamento. O apelo enfatiza que Deus é misericordioso e deseja restaurar o que foi perdido (veja também 2 Crônicas 7:14 e Jeremias 3:12)."
+    },
+    {
+      "ref": "2:18-19",
+      "texto": "Deus promete restaurar a terra e abençoar o povo que se arrependeu. Este momento de misericórdia divina contrasta com o juízo que havia sido descrito anteriormente, mostrando que o arrependimento leva à restauração e à paz (veja também Isaías 55:7 e Salmo 30:5)."
+    },
+    {
+      "ref": "2:28-32",
+      "texto": "Joel profetiza a vinda do Espírito de Deus sobre todo o povo, uma promessa que será cumprida no Pentecostes, conforme descrito em Atos 2:17-21. Esse derramamento do Espírito traz uma esperança de renovação espiritual e salvação universal (veja também Atos 2:17-18 e Lucas 24:49)."
+    },
+    {
+      "ref": "2:32",
+      "texto": "A promessa de salvação é estendida a todos os que invocarem o nome do Senhor, destacando a universalidade da graça de Deus e a importância da fé em momentos de tribulação (veja também Romanos 10:13 e Atos 2:21)."
+    }
+  ]
+}

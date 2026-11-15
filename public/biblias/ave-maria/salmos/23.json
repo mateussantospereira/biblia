@@ -1,0 +1,77 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 23,
+  "totalVersiculos": 10,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/23/",
+  "capturadoEm": "2026-11-15T09:16:24-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Salmo de Davi. Do Senhor é a terra e tudo o que ela contém, a órbita terrestre e todos os que nela habitam,",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "pois ele mesmo a assentou sobre as águas do mar e sobre as águas dos rios a consolidou."
+    },
+    {
+      "numero": 3,
+      "texto": "Quem será digno de subir ao monte do Senhor? Ou de permanecer no seu lugar santo?"
+    },
+    {
+      "numero": 4,
+      "texto": "O que tem as mãos limpas e o coração puro, cujo espírito não busca as vaidades nem perjura para enganar seu próximo."
+    },
+    {
+      "numero": 5,
+      "texto": "Este terá a bênção do Senhor, e a recompensa de Deus, seu Salvador."
+    },
+    {
+      "numero": 6,
+      "texto": "Tal é a geração dos que o procuram, dos que buscam a face do Deus de Jacó."
+    },
+    {
+      "numero": 7,
+      "texto": "Levantai, ó portas, os vossos dintéis! Levantai-vos, ó pórticos antigos, para que entre o rei da glória!"
+    },
+    {
+      "numero": 8,
+      "texto": "“Quem é este rei da glória?” É o Senhor forte e poderoso, o Senhor poderoso na batalha."
+    },
+    {
+      "numero": 9,
+      "texto": "Levantai, ó portas, os vossos dintéis! Levantai-vos, ó pórticos antigos, para que entre o rei da glória!"
+    },
+    {
+      "numero": 10,
+      "texto": "“Quem é este rei da glória?” É o Senhor dos exércitos! É ele o rei da glória.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "23:1-3",
+      "texto": "O Senhor é descrito como o Pastor que cuida de Suas ovelhas, simbolizando amor, proteção e orientação. Essa imagem reforça a confiança em Deus como cuidador e guia em todos os aspectos da vida (veja também João 10:11 e Hebreus 13:20-21)."
+    },
+    {
+      "ref": "23:4",
+      "texto": "Mesmo em momentos de temor e perigo, a presença de Deus traz conforto e segurança. A vara e o cajado representam a disciplina e a proteção de Deus, indicando que Ele está sempre presente em nossas dificuldades (veja também Salmo 91:1-2 e Isaías 41:10)."
+    },
+    {
+      "ref": "23:5",
+      "texto": "A mesa preparada diante dos inimigos simboliza a bênção de Deus em meio à adversidade. Isso demonstra que, mesmo em tempos difíceis, Deus nos sustenta e nos honra (veja também Salmo 68:19 e Mateus 5:11-12)."
+    },
+    {
+      "ref": "23:6",
+      "texto": "A certeza da bondade e da misericórdia de Deus é uma fonte de esperança e confiança. Esse versículo destaca a promessa da presença contínua de Deus na vida do crente (veja também Romanos 8:38-39 e Salmo 100:5)."
+    },
+    {
+      "ref": "23:6",
+      "texto": "A conclusão do salmo reafirma o desejo de habitar na casa do Senhor para sempre, expressando a esperança na comunhão eterna com Deus. Isso enfatiza a importância da relação contínua com o Senhor (veja também João 14:2-3 e Apocalipse 21:3)."
+    }
+  ]
+}

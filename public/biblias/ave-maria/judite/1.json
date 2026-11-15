@@ -1,0 +1,87 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "judite",
+  "nome": "Judite",
+  "testamento": "AT",
+  "capitulo": 1,
+  "totalVersiculos": 12,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/judite/1/",
+  "capturadoEm": "2026-11-15T09:14:45-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Arfaxad, rei dos medos, tinha submetido ao seu império um grande número de nações. Ele edificou uma fortaleza de pedras polidas, à qual deu o nome de Ecbátana.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Cercou-a de muralhas de setenta côvados de altura e trinta de largura e pôs-lhe torres de cem côvados de altura."
+    },
+    {
+      "numero": 3,
+      "texto": "Estas eram de forma quadrada e seus lados estendiam-se por um espaço de vinte pés. As portas tinham uma altura proporcional à das torres."
+    },
+    {
+      "numero": 4,
+      "texto": "Ele gloriava-se do poder invencível do seu exército e da imponência de seus carros."
+    },
+    {
+      "numero": 5,
+      "texto": "Ora, no décimo segundo ano de seu reinado, Nabucodonosor, que reinava sobre os assírios em Nínive, a grande cidade, fez guerra a Arfaxad e venceu-o",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "na grande planície chamada Ragau. Aliaram-se a ele todos os habitantes das regiões vizinhas do Eufrates, do Tigre e do Hidaspes e nas planícies de Arioc, rei dos elimeus."
+    },
+    {
+      "numero": 7,
+      "texto": "Então, engrandeceu-se o reino de Nabucodonosor e seu coração encheu-se de orgulho. Mandou emissários a todos os habitantes da Cilícia, de Damasco, do Líbano,"
+    },
+    {
+      "numero": 8,
+      "texto": "aos povos do Carmelo e de Galaad, aos galileus, na grande planície de Esdrelão,"
+    },
+    {
+      "numero": 9,
+      "texto": "aos habitantes de Samaria e aos povos de além do Jordão até Jerusalém, a toda a terra de Gessen e até aos confins da Etiópia."
+    },
+    {
+      "numero": 10,
+      "texto": "A todos esses povos enviou Nabucodonosor emissários,",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "mas todos protestaram unanimemente e os despediram de mãos vazias, chegando até a expulsá-los com desprezo."
+    },
+    {
+      "numero": 12,
+      "texto": "À vista disso, encheu-se de cólera o rei Nabucodonosor contra todos esses povos e jurou pelo seu trono e pelo seu reino que havia de tomar vingança de todos eles.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:1-6",
+      "texto": "O livro começa com a descrição do domínio de Nabucodonosor e sua ameaça ao povo de Israel. A opressão dos israelitas enfatiza a necessidade de um salvador e a esperança em Deus, que sempre intervém em momentos de crise (veja também Salmo 34:19 e Isaías 41:10)."
+    },
+    {
+      "ref": "1:7-11",
+      "texto": "Nabucodonosor envia seus generais para conquistar a Judéia. A narrativa revela a força do inimigo e a vulnerabilidade do povo, mas também prepara o cenário para a intervenção divina que se seguirá (veja também Êxodo 14:13-14 e Salmo 60:12)."
+    },
+    {
+      "ref": "1:12-16",
+      "texto": "Os israelitas são pressionados a se render, mas mantêm sua resistência. Essa coragem demonstra a fé e a perseverança do povo diante da adversidade, lembrando que a vitória pertence àqueles que confiam em Deus (veja também Romanos 8:31 e 1 Coríntios 15:57)."
+    },
+    {
+      "ref": "1:17-20",
+      "texto": "A destruição da cidade de Betúlia é planejada, mostrando o poder das forças do mal e a determinação de Nabucodonosor. Isso ressalta a necessidade de um líder que possa guiar o povo na defesa contra o inimigo (veja também Salmo 27:1 e Efésios 6:10-11)."
+    },
+    {
+      "ref": "1:21-24",
+      "texto": "A preparação para a batalha e a convocação do povo destacam a unidade entre os israelitas em tempos de crise. A mobilização do povo é um reflexo da importância da comunidade e da fé coletiva na luta contra a opressão (veja também Hebreus 10:24-25 e Filipenses 1:27)."
+    }
+  ]
+}

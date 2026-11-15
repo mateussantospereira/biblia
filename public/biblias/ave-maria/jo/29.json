@@ -1,0 +1,137 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "jo",
+  "nome": "Jó",
+  "testamento": "AT",
+  "capitulo": 29,
+  "totalVersiculos": 25,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/jo/29/",
+  "capturadoEm": "2026-11-15T09:15:48-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Jó continuou seu discurso nestes termos:"
+    },
+    {
+      "numero": 2,
+      "texto": "“Quem me dera tornar-me tal como antes, como nos dias em que Deus me protegia,"
+    },
+    {
+      "numero": 3,
+      "texto": "quando a sua lâmpada luzia sobre a minha cabeça e à sua luz me guiava nas trevas!"
+    },
+    {
+      "numero": 4,
+      "texto": "Tal como era nos dias de meu outono, quando Deus velava como um amigo sobre minha tenda!"
+    },
+    {
+      "numero": 5,
+      "texto": "Quando o Todo-poderoso estava ainda comigo e os meus filhos, em volta de mim!"
+    },
+    {
+      "numero": 6,
+      "texto": "Quando os meus pés se banhavam no creme e o rochedo em mim derramava ondas de azeite."
+    },
+    {
+      "numero": 7,
+      "texto": "Quando saía para ir à porta da cidade e me assentava na praça pública."
+    },
+    {
+      "numero": 8,
+      "texto": "Viam-me os jovens e se escondiam e os velhos levantavam-se e ficavam de pé."
+    },
+    {
+      "numero": 9,
+      "texto": "Os chefes interrompiam suas conversas e punham a mão sobre a boca."
+    },
+    {
+      "numero": 10,
+      "texto": "Calava-se a voz dos príncipes e sua língua se colava ao céu da boca."
+    },
+    {
+      "numero": 11,
+      "texto": "Quem me ouvia me felicitava, quem me via dava testemunho de mim.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Livrava o pobre que pedia socorro e o órfão, que não tinha apoio."
+    },
+    {
+      "numero": 13,
+      "texto": "A bênção do moribundo vinha sobre mim e eu alegrava o coração da viúva."
+    },
+    {
+      "numero": 14,
+      "texto": "Revestia-me de justiça e a equidade era para mim como uma roupa e um turbante."
+    },
+    {
+      "numero": 15,
+      "texto": "Era os olhos do cego e os pés daquele que manca."
+    },
+    {
+      "numero": 16,
+      "texto": "Era o pai dos pobres e examinava a fundo a causa dos desconhecidos."
+    },
+    {
+      "numero": 17,
+      "texto": "Quebrava o queixo do perverso e arrancava-lhe a presa de entre os dentes."
+    },
+    {
+      "numero": 18,
+      "texto": "E dizia: ‘Morrerei no meu ninho e meus dias serão tão numerosos quanto os da fênix’.",
+      "nota": true
+    },
+    {
+      "numero": 19,
+      "texto": "Minha raiz atinge a água e o orvalho ficará durante a noite sobre meus ramos."
+    },
+    {
+      "numero": 20,
+      "texto": "Minha glória sempre se renovará e meu arco se reforçará em minha mão."
+    },
+    {
+      "numero": 21,
+      "texto": "Escutavam-me, esperavam e recolhiam em silêncio meu conselho."
+    },
+    {
+      "numero": 22,
+      "texto": "Quando acabava de falar, não acrescentavam nada e minhas palavras eram recebidas como orvalho."
+    },
+    {
+      "numero": 23,
+      "texto": "Esperavam-me como se espera a chuva e abriam a boca, como se fosse para a chuva de primavera."
+    },
+    {
+      "numero": 24,
+      "texto": "Sorria para aqueles que perdiam coragem; ante o meu ar benevolente, deixavam de estar abatidos."
+    },
+    {
+      "numero": 25,
+      "texto": "Quando ia ter com eles, tinha o primeiro lugar, era importante como um rei no meio de suas tropas, como o consolador dos aflitos."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "29:1-6",
+      "texto": "Jó reflete sobre seu passado de honra e prosperidade, descrevendo como era respeitado e como Deus o abençoava. Essa recordação destaca a importância da memória e do testemunho pessoal na jornada de fé (veja também Salmo 77:11-12 e Hebreus 10:32-34)."
+    },
+    {
+      "ref": "29:7-11",
+      "texto": "A descrição de Jó como um conselheiro e defensor dos necessitados evidencia seu caráter justo e solidário. A justiça e a compaixão são fundamentais na vida de um crente, refletindo o coração de Deus (veja também Provérbios 31:8-9 e Tiago 1:27)."
+    },
+    {
+      "ref": "29:12-17",
+      "texto": "Jó menciona como protegiam os pobres e oprimidos, mostrando que sua vida era um reflexo da justiça divina. Este exemplo ressalta a responsabilidade social do crente em agir em favor dos marginalizados (veja também Isaías 1:17 e Mateus 25:35-40)."
+    },
+    {
+      "ref": "29:18-20",
+      "texto": "Jó expressa esperança de um futuro duradouro, evidenciando sua confiança em Deus. Essa confiança é essencial na vida do fiel, mesmo em meio a dificuldades (veja também Salmo 16:9-11 e Romanos 15:13)."
+    },
+    {
+      "ref": "29:21-25",
+      "texto": "A lembrança de sua influência positiva e o respeito que recebia sublinha a dor da perda que Jó sente agora. A importância da comunidade e das relações humanas é ressaltada, mostrando que o sofrimento pode impactar não apenas o indivíduo, mas também a sua rede de relacionamentos (veja também Eclesiastes 4:9-12 e Gálatas 6:2)."
+    }
+  ]
+}

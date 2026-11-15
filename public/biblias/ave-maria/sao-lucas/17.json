@@ -1,0 +1,188 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "sao-lucas",
+  "nome": "São Lucas",
+  "testamento": "NT",
+  "capitulo": 17,
+  "totalVersiculos": 37,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/sao-lucas/17/",
+  "capturadoEm": "2026-11-15T09:26:39-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Jesus disse também a seus discípulos: “É impossível que não haja escândalos, mas ai daquele por quem eles vêm!"
+    },
+    {
+      "numero": 2,
+      "texto": "Melhor lhe seria que se lhe atasse em volta do pescoço uma pedra de moinho e que fosse lançado ao mar, do que levar para o mal a um só destes pequeninos. Tomai cuidado de vós mesmos."
+    },
+    {
+      "numero": 3,
+      "texto": "Se teu irmão pecar, repreende-o; se se arrepender, perdoa-lhe."
+    },
+    {
+      "numero": 4,
+      "texto": "Se pecar sete vezes no dia contra ti e sete vezes no dia vier procurar-te, dizendo: ‘Estou arrependido’, lhe perdoarás.”"
+    },
+    {
+      "numero": 5,
+      "texto": "Os apóstolos disseram ao Senhor: “Aumenta-nos a fé!”."
+    },
+    {
+      "numero": 6,
+      "texto": "Disse o Senhor: “Se tiverdes fé como um grão de mostarda, direis a esta amoreira: Arranca-te e transplanta-te no mar, e ela vos obedecerá”."
+    },
+    {
+      "numero": 7,
+      "texto": "“Qual de vós, tendo um servo ocupado em lavrar ou em guardar o gado, quando voltar do campo lhe dirá: Vem depressa sentar-te à mesa?"
+    },
+    {
+      "numero": 8,
+      "texto": "E não lhe dirá ao contrário: Prepara-me a ceia, cinge-te e serve-me, enquanto como e bebo, e depois disso comerás e beberás tu?"
+    },
+    {
+      "numero": 9,
+      "texto": "E, se o servo tiver feito tudo o que lhe ordenara, porventura fica-lhe o senhor devendo alguma obrigação?"
+    },
+    {
+      "numero": 10,
+      "texto": "Assim também vós, depois de terdes feito tudo o que vos foi ordenado, dizei: Somos servos como quaisquer outros; fizemos o que devíamos fazer.”",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Sempre em caminho para Jerusalém, Jesus passava pelos confins da Samaria e da Galileia."
+    },
+    {
+      "numero": 12,
+      "texto": "Ao entrar numa aldeia, vieram-lhe ao encontro dez leprosos, que pararam ao longe e elevaram a voz, clamando:",
+      "nota": true
+    },
+    {
+      "numero": 13,
+      "texto": "“Jesus, Mestre, tem compaixão de nós!”."
+    },
+    {
+      "numero": 14,
+      "texto": "Jesus viu-os e disse-lhes: “Ide, mostrai-vos ao sacerdote”. E, quando eles iam andando, ficaram curados."
+    },
+    {
+      "numero": 15,
+      "texto": "Um deles, vendo-se curado, voltou, glorificando a Deus em alta voz."
+    },
+    {
+      "numero": 16,
+      "texto": "Prostrou-se aos pés de Jesus e lhe agradecia. E era um samaritano."
+    },
+    {
+      "numero": 17,
+      "texto": "Jesus lhe disse: “Não ficaram curados todos os dez? Onde estão os outros nove?"
+    },
+    {
+      "numero": 18,
+      "texto": "Não se achou senão este estrangeiro que voltasse para agradecer a Deus?!”."
+    },
+    {
+      "numero": 19,
+      "texto": "E acrescentou: “Levanta-te e vai, tua fé te salvou”."
+    },
+    {
+      "numero": 20,
+      "texto": "Os fariseus perguntaram um dia a Jesus quando viria o Reino de Deus. Respondeu-lhes: “O Reino de Deus não virá de um modo ostensivo."
+    },
+    {
+      "numero": 21,
+      "texto": "Nem se dirá: Ei-lo aqui; ou: Ei-lo ali. Pois o Reino de Deus já está no meio de vós”.",
+      "nota": true
+    },
+    {
+      "numero": 22,
+      "texto": "Mais tarde, ele explicou aos discípulos: “Virão dias em que desejareis ver um só dia o Filho do Homem, e não o vereis."
+    },
+    {
+      "numero": 23,
+      "texto": "Então, vos dirão: Ei-lo aqui; e: Ei-lo ali. Não deveis sair nem os seguir."
+    },
+    {
+      "numero": 24,
+      "texto": "Pois como o relâmpago, reluzindo numa extremidade do céu, brilha até a outra, assim será com o Filho do Homem no seu dia."
+    },
+    {
+      "numero": 25,
+      "texto": "É necessário, porém, que primeiro ele sofra muito e seja rejeitado por esta geração."
+    },
+    {
+      "numero": 26,
+      "texto": "Como ocorreu nos dias de Noé, acontecerá do mesmo modo nos dias do Filho do Homem."
+    },
+    {
+      "numero": 27,
+      "texto": "Comiam e bebiam, casavam-se e davam-se em casamento, até o dia em que Noé entrou na arca. Veio o dilúvio e matou a todos."
+    },
+    {
+      "numero": 28,
+      "texto": "Também do mesmo modo como aconteceu nos dias de Ló. Os homens festejavam, compravam e vendiam, plantavam e edificavam."
+    },
+    {
+      "numero": 29,
+      "texto": "No dia em que Ló saiu de Sodoma, choveu fogo e enxofre do céu, que exterminou todos eles."
+    },
+    {
+      "numero": 30,
+      "texto": "Assim será no dia em que se manifestar o Filho do Homem."
+    },
+    {
+      "numero": 31,
+      "texto": "Naquele dia, quem estiver no terraço e tiver os seus bens em casa não desça para os tirar; da mesma forma, quem estiver no campo não torne atrás."
+    },
+    {
+      "numero": 32,
+      "texto": "Lembrai-vos da mulher de Ló.",
+      "nota": true
+    },
+    {
+      "numero": 33,
+      "texto": "Todo o que procurar salvar a sua vida irá perdê-la; mas todo o que a perder irá encontrá-la."
+    },
+    {
+      "numero": 34,
+      "texto": "Digo-vos que naquela noite dois estarão em uma cama: um será tomado e o outro será deixado;"
+    },
+    {
+      "numero": 35,
+      "texto": "duas mulheres estarão moendo juntas: uma será tomada e a outra será deixada."
+    },
+    {
+      "numero": 36,
+      "texto": "Dois homens estarão no campo: um será tomado e o outro será deixado”."
+    },
+    {
+      "numero": 37,
+      "texto": "Perguntaram-lhe os discípulos: “Onde será isto, Senhor?. Respondeu-lhes: “Onde estiver o cadáver, ali se reunirão também as águias”.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "17:1-2",
+      "texto": "Jesus alerta sobre as consequências de causar escândalos e ensina que é melhor sofrer danos pessoais do que ser responsável por fazer outros pecar. A responsabilidade moral e espiritual é enfatizada, mostrando a seriedade de guiar os outros para o mal (veja também Mateus 18:6-7 e Romanos 14:21)."
+    },
+    {
+      "ref": "17:3-4",
+      "texto": "Jesus ensina sobre o perdão contínuo, dizendo que devemos perdoar até sete vezes ao dia. Isso destaca a importância da misericórdia e da reconciliação, refletindo a graça que Deus oferece ao perdoar nossos pecados (veja também Mateus 18:21-22 e Efésios 4:32)."
+    },
+    {
+      "ref": "17:5-6",
+      "texto": "Jesus fala sobre a fé, dizendo que até mesmo uma fé pequena pode mover montanhas. Isso enfatiza que a verdadeira fé não é medida pela quantidade, mas pela confiança genuína no poder de Deus (veja também Mateus 17:20 e 1 Coríntios 13:2)."
+    },
+    {
+      "ref": "17:11-19",
+      "texto": "Jesus cura dez leprosos, mas apenas um volta para agradecer. Esse episódio destaca a importância da gratidão e o fato de que a cura espiritual é mais importante que a cura física (veja também Salmo 103:1-2 e Filipenses 4:6)."
+    },
+    {
+      "ref": "17:20-21",
+      "texto": "Jesus ensina que o Reino de Deus não vem de forma visível, mas está presente de forma espiritual. Isso reflete a natureza do Reino de Deus, que se manifesta em nossos corações e ações, não em sinais externos (veja também João 18:36 e Romanos 14:17)."
+    }
+  ]
+}

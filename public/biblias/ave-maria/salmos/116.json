@@ -1,0 +1,44 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 116,
+  "totalVersiculos": 2,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/116/",
+  "capturadoEm": "2026-11-15T09:18:02-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Aleluia. Louvai ao Senhor todas as nações, louvai-o todos os povos,",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "porque sem limites é a sua misericórdia para conosco, e eterna a fidelidade do Senhor."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "116:1-2",
+      "texto": "O salmista expressa seu amor por Deus por ter ouvido seu clamor e sua súplica. Isso reflete o relacionamento íntimo entre o fiel e Deus, onde o Senhor é apresentado como aquele que ouve e responde (veja também Salmo 34:17 e 1 João 5:14)."
+    },
+    {
+      "ref": "116:3-4",
+      "texto": "O salmista descreve sua experiência de quase morte e como clamou ao Senhor por salvação. A resposta de Deus em livrá-lo do perigo é um testemunho de Sua misericórdia e poder para salvar (veja também Salmo 18:4-6 e 2 Coríntios 1:9-10)."
+    },
+    {
+      "ref": "116:5-7",
+      "texto": "O Senhor é descrito como justo, misericordioso e compassivo. O salmista exorta sua própria alma a descansar, sabendo que Deus o tratou com bondade e lhe deu segurança (veja também Êxodo 34:6-7 e Mateus 11:28-29)."
+    },
+    {
+      "ref": "116:12-14",
+      "texto": "O salmista pergunta como pode retribuir ao Senhor por todos os Seus benefícios, e decide levantar o \"cálice da salvação\" e cumprir seus votos ao Senhor. Isso destaca a gratidão e a entrega pessoal como resposta à bondade divina (veja também Salmo 50:14-15 e Romanos 12:1)."
+    },
+    {
+      "ref": "116:15-16",
+      "texto": "Preciosa é aos olhos do Senhor a morte de seus santos. O salmista reconhece o valor que Deus dá à vida dos justos e Sua fidelidade em cuidar daqueles que O servem até a morte (veja também Salmo 72:14 e Apocalipse 14:13)."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 126,
+  "totalVersiculos": 5,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/126/",
+  "capturadoEm": "2026-11-15T09:54:29-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cântico das subidas. De Salomão. Se o Senhor não edificar a casa, é em vão que trabalham os que a edificam. Se o Senhor não guardar a cidade, inutilmente vigia a sentinela."
+    },
+    {
+      "numero": 2,
+      "texto": "Em vão vos levantais antes de amanhecer, e fazeis serão até alta noite, vós que comeis o pão de trabalho duro: porque ele o dá aos seus amados até durante o sono. (ver nota)"
+    },
+    {
+      "numero": 3,
+      "texto": "Eis que os filhos, são um dom do Senhor, o fruto das entranhas é uma recompensa. (ver nota)"
+    },
+    {
+      "numero": 4,
+      "texto": "Como setas na mão do guerreiro, assim são os filhos da juventude. (ver nota)"
+    },
+    {
+      "numero": 5,
+      "texto": "Ditoso o homem que delas encheu a sua aljava. Não serão confundidos quando contenderem com os seus inimigos à porta. (ver nota)"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "126:1-2",
+      "texto": "O retorno do exílio é visto como um sonho realizado, enchendo o povo de alegria e risos. O salmista exalta a obra de Deus na restauração de Seu povo, transformando tristeza em júbilo (veja também Jeremias 31:10-12 e Lucas 1:46-49)."
+    },
+    {
+      "ref": "126:3",
+      "texto": "Grandes coisas fez o Senhor por nós reflete a gratidão profunda do povo por tudo o que Deus realizou. Esse reconhecimento é um chamado para lembrar a fidelidade de Deus nas dificuldades (veja também Salmo 116:12 e Efésios 5:20)."
+    },
+    {
+      "ref": "126:4",
+      "texto": "O salmista ora por uma restauração contínua, comparando-a às águas que enchem os vales do deserto. Isso expressa a esperança de renovação total, mesmo após a volta do exílio (veja também Isaías 35:6-7 e Joel 3:18)."
+    },
+    {
+      "ref": "126:5-6",
+      "texto": "Os que semeiam com lágrimas colherão com alegria traz a imagem de esperança, onde o sofrimento leva a recompensas. É uma promessa de que Deus converterá o sofrimento em bênçãos (veja também Mateus 5:4 e Gálatas 6:9)."
+    }
+  ]
+}

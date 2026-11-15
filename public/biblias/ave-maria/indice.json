@@ -1,0 +1,518 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "total": 73,
+  "livros": [
+    {
+      "ordem": 1,
+      "testamento": "AT",
+      "slug": "genesis",
+      "nome": "Gênesis",
+      "capitulos": 50
+    },
+    {
+      "ordem": 2,
+      "testamento": "AT",
+      "slug": "exodo",
+      "nome": "Êxodo",
+      "capitulos": 40
+    },
+    {
+      "ordem": 3,
+      "testamento": "AT",
+      "slug": "levitico",
+      "nome": "Levítico",
+      "capitulos": 27
+    },
+    {
+      "ordem": 4,
+      "testamento": "AT",
+      "slug": "numeros",
+      "nome": "Números",
+      "capitulos": 36
+    },
+    {
+      "ordem": 5,
+      "testamento": "AT",
+      "slug": "deuteronomio",
+      "nome": "Deuteronômio",
+      "capitulos": 34
+    },
+    {
+      "ordem": 6,
+      "testamento": "AT",
+      "slug": "josue",
+      "nome": "Josué",
+      "capitulos": 24
+    },
+    {
+      "ordem": 7,
+      "testamento": "AT",
+      "slug": "juizes",
+      "nome": "Juízes",
+      "capitulos": 21
+    },
+    {
+      "ordem": 8,
+      "testamento": "AT",
+      "slug": "rute",
+      "nome": "Rute",
+      "capitulos": 4
+    },
+    {
+      "ordem": 9,
+      "testamento": "AT",
+      "slug": "i-samuel",
+      "nome": "I Samuel",
+      "capitulos": 31
+    },
+    {
+      "ordem": 10,
+      "testamento": "AT",
+      "slug": "ii-samuel",
+      "nome": "II Samuel",
+      "capitulos": 24
+    },
+    {
+      "ordem": 11,
+      "testamento": "AT",
+      "slug": "i-reis",
+      "nome": "I Reis",
+      "capitulos": 22
+    },
+    {
+      "ordem": 12,
+      "testamento": "AT",
+      "slug": "ii-reis",
+      "nome": "II Reis",
+      "capitulos": 25
+    },
+    {
+      "ordem": 13,
+      "testamento": "AT",
+      "slug": "i-cronicas",
+      "nome": "I Crônicas",
+      "capitulos": 29
+    },
+    {
+      "ordem": 14,
+      "testamento": "AT",
+      "slug": "ii-cronicas",
+      "nome": "II Crônicas",
+      "capitulos": 36
+    },
+    {
+      "ordem": 15,
+      "testamento": "AT",
+      "slug": "esdras",
+      "nome": "Esdras",
+      "capitulos": 10
+    },
+    {
+      "ordem": 16,
+      "testamento": "AT",
+      "slug": "neemias",
+      "nome": "Neemias",
+      "capitulos": 13
+    },
+    {
+      "ordem": 17,
+      "testamento": "AT",
+      "slug": "tobias",
+      "nome": "Tobias",
+      "capitulos": 14
+    },
+    {
+      "ordem": 18,
+      "testamento": "AT",
+      "slug": "judite",
+      "nome": "Judite",
+      "capitulos": 16
+    },
+    {
+      "ordem": 19,
+      "testamento": "AT",
+      "slug": "ester",
+      "nome": "Ester",
+      "capitulos": 16
+    },
+    {
+      "ordem": 20,
+      "testamento": "AT",
+      "slug": "jo",
+      "nome": "Jó",
+      "capitulos": 42
+    },
+    {
+      "ordem": 21,
+      "testamento": "AT",
+      "slug": "salmos",
+      "nome": "Salmos",
+      "capitulos": 150
+    },
+    {
+      "ordem": 22,
+      "testamento": "AT",
+      "slug": "i-macabeus",
+      "nome": "I Macabeus",
+      "capitulos": 16
+    },
+    {
+      "ordem": 23,
+      "testamento": "AT",
+      "slug": "ii-macabeus",
+      "nome": "II Macabeus",
+      "capitulos": 15
+    },
+    {
+      "ordem": 24,
+      "testamento": "AT",
+      "slug": "proverbios",
+      "nome": "Provérbios",
+      "capitulos": 31
+    },
+    {
+      "ordem": 25,
+      "testamento": "AT",
+      "slug": "eclesiastes",
+      "nome": "Eclesiastes",
+      "capitulos": 12
+    },
+    {
+      "ordem": 26,
+      "testamento": "AT",
+      "slug": "cantico-dos-canticos",
+      "nome": "Cântico dos Cânticos",
+      "capitulos": 8
+    },
+    {
+      "ordem": 27,
+      "testamento": "AT",
+      "slug": "sabedoria",
+      "nome": "Sabedoria",
+      "capitulos": 19
+    },
+    {
+      "ordem": 28,
+      "testamento": "AT",
+      "slug": "eclesiastico",
+      "nome": "Eclesiástico",
+      "capitulos": 51
+    },
+    {
+      "ordem": 29,
+      "testamento": "AT",
+      "slug": "isaias",
+      "nome": "Isaías",
+      "capitulos": 66
+    },
+    {
+      "ordem": 30,
+      "testamento": "AT",
+      "slug": "jeremias",
+      "nome": "Jeremias",
+      "capitulos": 52
+    },
+    {
+      "ordem": 31,
+      "testamento": "AT",
+      "slug": "lamentacoes",
+      "nome": "Lamentações",
+      "capitulos": 5
+    },
+    {
+      "ordem": 32,
+      "testamento": "AT",
+      "slug": "baruc",
+      "nome": "Baruc",
+      "capitulos": 6
+    },
+    {
+      "ordem": 33,
+      "testamento": "AT",
+      "slug": "ezequiel",
+      "nome": "Ezequiel",
+      "capitulos": 48
+    },
+    {
+      "ordem": 34,
+      "testamento": "AT",
+      "slug": "daniel",
+      "nome": "Daniel",
+      "capitulos": 14
+    },
+    {
+      "ordem": 35,
+      "testamento": "AT",
+      "slug": "oseias",
+      "nome": "Oséias",
+      "capitulos": 14
+    },
+    {
+      "ordem": 36,
+      "testamento": "AT",
+      "slug": "joel",
+      "nome": "Joel",
+      "capitulos": 4
+    },
+    {
+      "ordem": 37,
+      "testamento": "AT",
+      "slug": "amos",
+      "nome": "Amós",
+      "capitulos": 9
+    },
+    {
+      "ordem": 38,
+      "testamento": "AT",
+      "slug": "abdias",
+      "nome": "Abdias",
+      "capitulos": 1
+    },
+    {
+      "ordem": 39,
+      "testamento": "AT",
+      "slug": "jonas",
+      "nome": "Jonas",
+      "capitulos": 4
+    },
+    {
+      "ordem": 40,
+      "testamento": "AT",
+      "slug": "miqueias",
+      "nome": "Miquéias",
+      "capitulos": 7
+    },
+    {
+      "ordem": 41,
+      "testamento": "AT",
+      "slug": "naum",
+      "nome": "Naum",
+      "capitulos": 3
+    },
+    {
+      "ordem": 42,
+      "testamento": "AT",
+      "slug": "habacuc",
+      "nome": "Habacuc",
+      "capitulos": 3
+    },
+    {
+      "ordem": 43,
+      "testamento": "AT",
+      "slug": "sofonias",
+      "nome": "Sofonias",
+      "capitulos": 3
+    },
+    {
+      "ordem": 44,
+      "testamento": "AT",
+      "slug": "ageu",
+      "nome": "Ageu",
+      "capitulos": 2
+    },
+    {
+      "ordem": 45,
+      "testamento": "AT",
+      "slug": "zacarias",
+      "nome": "Zacarias",
+      "capitulos": 14
+    },
+    {
+      "ordem": 46,
+      "testamento": "AT",
+      "slug": "malaquias",
+      "nome": "Malaquias",
+      "capitulos": 3
+    },
+    {
+      "ordem": 47,
+      "testamento": "NT",
+      "slug": "sao-mateus",
+      "nome": "São Mateus",
+      "capitulos": 28
+    },
+    {
+      "ordem": 48,
+      "testamento": "NT",
+      "slug": "sao-marcos",
+      "nome": "São Marcos",
+      "capitulos": 16
+    },
+    {
+      "ordem": 49,
+      "testamento": "NT",
+      "slug": "sao-lucas",
+      "nome": "São Lucas",
+      "capitulos": 24
+    },
+    {
+      "ordem": 50,
+      "testamento": "NT",
+      "slug": "sao-joao",
+      "nome": "São João",
+      "capitulos": 21
+    },
+    {
+      "ordem": 51,
+      "testamento": "NT",
+      "slug": "atos-dos-apostolos",
+      "nome": "Atos dos Apóstolos",
+      "capitulos": 28
+    },
+    {
+      "ordem": 52,
+      "testamento": "NT",
+      "slug": "romanos",
+      "nome": "Romanos",
+      "capitulos": 16
+    },
+    {
+      "ordem": 53,
+      "testamento": "NT",
+      "slug": "i-corintios",
+      "nome": "I Coríntios",
+      "capitulos": 16
+    },
+    {
+      "ordem": 54,
+      "testamento": "NT",
+      "slug": "ii-corintios",
+      "nome": "II Coríntios",
+      "capitulos": 13
+    },
+    {
+      "ordem": 55,
+      "testamento": "NT",
+      "slug": "galatas",
+      "nome": "Gálatas",
+      "capitulos": 6
+    },
+    {
+      "ordem": 56,
+      "testamento": "NT",
+      "slug": "efesios",
+      "nome": "Efésios",
+      "capitulos": 6
+    },
+    {
+      "ordem": 57,
+      "testamento": "NT",
+      "slug": "filipenses",
+      "nome": "Filipenses",
+      "capitulos": 4
+    },
+    {
+      "ordem": 58,
+      "testamento": "NT",
+      "slug": "colossenses",
+      "nome": "Colossenses",
+      "capitulos": 4
+    },
+    {
+      "ordem": 59,
+      "testamento": "NT",
+      "slug": "i-tessalonicenses",
+      "nome": "I Tessalonicenses",
+      "capitulos": 5
+    },
+    {
+      "ordem": 60,
+      "testamento": "NT",
+      "slug": "ii-tessalonicenses",
+      "nome": "II Tessalonicenses",
+      "capitulos": 3
+    },
+    {
+      "ordem": 61,
+      "testamento": "NT",
+      "slug": "i-timoteo",
+      "nome": "I Timóteo",
+      "capitulos": 6
+    },
+    {
+      "ordem": 62,
+      "testamento": "NT",
+      "slug": "ii-timoteo",
+      "nome": "II Timóteo",
+      "capitulos": 4
+    },
+    {
+      "ordem": 63,
+      "testamento": "NT",
+      "slug": "tito",
+      "nome": "Tito",
+      "capitulos": 3
+    },
+    {
+      "ordem": 64,
+      "testamento": "NT",
+      "slug": "filemon",
+      "nome": "Filêmon",
+      "capitulos": 1
+    },
+    {
+      "ordem": 65,
+      "testamento": "NT",
+      "slug": "hebreus",
+      "nome": "Hebreus",
+      "capitulos": 13
+    },
+    {
+      "ordem": 66,
+      "testamento": "NT",
+      "slug": "sao-tiago",
+      "nome": "São Tiago",
+      "capitulos": 5
+    },
+    {
+      "ordem": 67,
+      "testamento": "NT",
+      "slug": "i-sao-pedro",
+      "nome": "I São Pedro",
+      "capitulos": 5
+    },
+    {
+      "ordem": 68,
+      "testamento": "NT",
+      "slug": "ii-sao-pedro",
+      "nome": "II São Pedro",
+      "capitulos": 3
+    },
+    {
+      "ordem": 69,
+      "testamento": "NT",
+      "slug": "i-sao-joao",
+      "nome": "I São João",
+      "capitulos": 5
+    },
+    {
+      "ordem": 70,
+      "testamento": "NT",
+      "slug": "ii-sao-joao",
+      "nome": "II São João",
+      "capitulos": 1
+    },
+    {
+      "ordem": 71,
+      "testamento": "NT",
+      "slug": "iii-sao-joao",
+      "nome": "III São João",
+      "capitulos": 1
+    },
+    {
+      "ordem": 72,
+      "testamento": "NT",
+      "slug": "sao-judas",
+      "nome": "São Judas",
+      "capitulos": 1
+    },
+    {
+      "ordem": 73,
+      "testamento": "NT",
+      "slug": "apocalipse",
+      "nome": "Apocalipse",
+      "capitulos": 22
+    }
+  ]
+}

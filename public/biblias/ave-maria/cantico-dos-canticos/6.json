@@ -1,0 +1,88 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "cantico-dos-canticos",
+  "nome": "Cântico dos Cânticos",
+  "testamento": "AT",
+  "capitulo": 6,
+  "totalVersiculos": 12,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/cantico-dos-canticos/6/",
+  "capturadoEm": "2026-11-15T09:19:59-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "– Para onde foi o teu amado, ó tu, a mais bela das mulheres? Para onde se retirou o teu amado? Nós o buscaremos contigo.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "– O meu bem-amado desceu ao seu jardim, aos canteiros perfumados; para apascentar em meu jardim, e colher lírios."
+    },
+    {
+      "numero": 3,
+      "texto": "Eu sou do meu amado e meu amado é meu. Ele apascenta entre os lírios."
+    },
+    {
+      "numero": 4,
+      "texto": "– És formosa, amada minha, como Tirsa, graciosa como Jerusalém, temível como um exército em ordem de batalha.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Desvia de mim os teus olhos, porque eles me fascinam. Teus cabelos são como um rebanho de cabras descendo impetuosamente pelas encostas de Galaad.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Teus dentes são como um rebanho de ovelhas que sobem do banho; cada uma leva dois (cordeirinhos) gêmeos, e nenhuma delas é estéril."
+    },
+    {
+      "numero": 7,
+      "texto": "Tua face é como um pedaço de romã debaixo do teu véu."
+    },
+    {
+      "numero": 8,
+      "texto": "Há sessenta rainhas, oitenta concubinas, e inumeráveis jovens mulheres;",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "uma, porém, é a minha pomba, uma só a minha perfeita; ela é a única de sua mãe, a predileta daquela que a deu à luz. Ao vê-la, as donzelas proclamam-na bem-aventurada, rainhas e concubinas a louvam."
+    },
+    {
+      "numero": 10,
+      "texto": "Quem é esta que surge como a aurora, bela como a lua, brilhante como o sol, temível como um exército em ordem de batalha?"
+    },
+    {
+      "numero": 11,
+      "texto": "Eu desci ao jardim das nogueiras para ver a nova vegetação dos vales, e para ver se a vinha crescia e se as romãzeiras estavam em flor."
+    },
+    {
+      "numero": 12,
+      "texto": "Eu não o sabia; minha alma colocou-me nos carros de Aminadab.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "6:1",
+      "texto": "As amigas da noiva perguntam onde está o amado, simbolizando o desejo coletivo por amor e união. Essa busca representa a universalidade da experiência amorosa, que ressoa em todos (veja também Salmo 27:4 e João 4:29)."
+    },
+    {
+      "ref": "6:2-3",
+      "texto": "A noiva reafirma sua união com o noivo, evidenciando a profundidade do relacionamento. Essa declaração de amor é uma celebração da exclusividade e do compromisso no casamento (veja também Mateus 19:6 e 1 Coríntios 6:17)."
+    },
+    {
+      "ref": "6:4-9",
+      "texto": "O noivo elogia a noiva, comparando-a à beleza de Jerusalém. Essa linguagem poética reflete o valor e a singularidade do amor, além de simbolizar a relação entre Deus e Seu povo (veja também Efésios 5:25-27 e Apocalipse 21:2)."
+    },
+    {
+      "ref": "6:10",
+      "texto": "A noiva é descrita como “formosa”, refletindo a ideia de que o amor transforma e embeleza aqueles que estão apaixonados. A beleza interior é realçada no amor genuíno (veja também 1 Pedro 3:3-4 e Provérbios 31:30)."
+    },
+    {
+      "ref": "6:11-13",
+      "texto": "A noiva busca em meio ao seu jardim, simbolizando a exploração do amor e a descoberta mútua no relacionamento. Esse desejo de intimidade é um aspecto essencial do amor verdadeiro (veja também Cânticos 4:16 e Colossenses 3:2)."
+    }
+  ]
+}

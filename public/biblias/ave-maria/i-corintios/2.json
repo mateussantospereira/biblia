@@ -1,0 +1,100 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-corintios",
+  "nome": "I Coríntios",
+  "testamento": "NT",
+  "capitulo": 2,
+  "totalVersiculos": 16,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-corintios/2/",
+  "capturadoEm": "2026-11-15T09:27:54-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Também eu, quando fui ter convosco, irmãos, não fui com o prestígio da eloquência nem da sabedoria anunciar-vos o testemunho de Deus."
+    },
+    {
+      "numero": 2,
+      "texto": "Julguei não dever saber coisa alguma entre vós, senão Jesus Cristo, e Jesus Cristo crucificado."
+    },
+    {
+      "numero": 3,
+      "texto": "Eu me apresentei em vosso meio num estado de fraqueza, de desassossego e de temor."
+    },
+    {
+      "numero": 4,
+      "texto": "A minha palavra e a minha pregação longe estavam da eloquência persuasiva da sabedoria; eram, antes, uma demonstração do Espírito e do poder divino,"
+    },
+    {
+      "numero": 5,
+      "texto": "para que vossa fé não se baseasse na sabedoria dos homens, mas no poder de Deus."
+    },
+    {
+      "numero": 6,
+      "texto": "Entretanto, o que pregamos entre os perfeitos é uma sabedoria, porém não a sabedoria deste mundo nem a dos grandes deste mundo, que são, aos olhos daquela, desqualificados.",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "Pregamos a sabedoria de Deus, misteriosa e secreta, que Deus predeterminou antes de existir o tempo, para a nossa glória."
+    },
+    {
+      "numero": 8,
+      "texto": "Sabedoria que nenhuma autoridade deste mundo conheceu (pois se a houvessem conhecido, não teriam crucificado o Senhor da glória).",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "É como está escrito: Coisas que os olhos não viram, nem os ouvidos ouviram, nem o coração humano imaginou (Is 64,4), tais são os bens que Deus tem preparado para aqueles que o amam.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Todavia, Deus no-las revelou pelo seu Espírito, porque o Espírito penetra tudo, mesmo as profundezas de Deus."
+    },
+    {
+      "numero": 11,
+      "texto": "Pois quem conhece as coisas que há no homem, senão o espírito do homem que nele reside? Assim também as coisas de Deus ninguém as conhece, senão o Espírito de Deus."
+    },
+    {
+      "numero": 12,
+      "texto": "Ora, nós não recebemos o espírito do mundo, mas sim o Espírito que vem de Deus, que nos dá a conhecer as graças que Deus nos prodigalizou"
+    },
+    {
+      "numero": 13,
+      "texto": "e que pregamos numa linguagem que nos foi ensinada não pela sabedoria humana, mas pelo Espírito, que exprime as coisas espirituais em termos espirituais.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Mas o homem natural não aceita as coisas do Espírito de Deus, pois para ele são loucuras. Nem as pode compreender, porque é pelo Espírito que se devem ponderar.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "O homem espiritual, ao contrário, julga todas as coisas e não é julgado por ninguém."
+    },
+    {
+      "numero": 16,
+      "texto": "Por que quem conheceu o pensamento do Senhor, se abalançará a instruí-lo (Is 40,13)? Nós, porém, temos o pensamento de Cristo."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "2:1-5",
+      "texto": "Paulo fala com os coríntios não com sabedoria humana, mas com o poder do Espírito, para que a fé deles não se baseie em sabedoria humana, mas no poder de Deus (veja também 1 Tessalonicenses 1:5 e Lucas 10:21)."
+    },
+    {
+      "ref": "2:6-9",
+      "texto": "A sabedoria de Deus é algo misterioso e oculto, preparada desde antes da fundação do mundo para aqueles que amam a Deus. A revelação divina só é acessível aos que têm o Espírito de Deus (veja também Isaías 64:4 e Mateus 13:11)."
+    },
+    {
+      "ref": "2:10-13",
+      "texto": "O Espírito Santo revela as coisas de Deus aos crentes, permitindo que compreendam a sabedoria divina. A mente humana, sem o Espírito, não pode entender as verdades espirituais (veja também João 16:13 e Romanos 8:9)."
+    },
+    {
+      "ref": "2:14-16",
+      "texto": "O homem natural não compreende as coisas do Espírito, mas o espiritual discerne tudo. A mente de Cristo nos permite entender a sabedoria de Deus e viver segundo Sua vontade (veja também Romanos 12:2 e Filipenses 2:5)."
+    }
+  ]
+}

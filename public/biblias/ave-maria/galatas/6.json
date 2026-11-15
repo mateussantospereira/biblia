@@ -1,0 +1,103 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "galatas",
+  "nome": "Gálatas",
+  "testamento": "NT",
+  "capitulo": 6,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/galatas/6/",
+  "capturadoEm": "2026-11-15T09:28:27-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Irmãos, se alguém for surpreendido numa falta, vós, que sois animados pelo Espírito, admoestai-o em espírito de mansidão. E tem cuidado de ti mesmo, para que não caias também em tentação!"
+    },
+    {
+      "numero": 2,
+      "texto": "Ajudai-vos uns aos outros a carregar os vossos fardos, e deste modo cumprireis a Lei de Cristo."
+    },
+    {
+      "numero": 3,
+      "texto": "Quem pensa ser alguma coisa, não sendo nada, engana-se a si mesmo."
+    },
+    {
+      "numero": 4,
+      "texto": "Cada um examine o seu procedimento. Então, poderá gloriar-se do que lhe pertence e não do que pertence a outro."
+    },
+    {
+      "numero": 5,
+      "texto": "Pois cada um deve carregar o seu próprio fardo."
+    },
+    {
+      "numero": 6,
+      "texto": "Aquele que recebe a catequese da palavra, reparta de todos os seus bens com aquele que o instrui."
+    },
+    {
+      "numero": 7,
+      "texto": "Não vos enganeis: de Deus não se zomba. O que o homem semeia, isso mesmo colherá."
+    },
+    {
+      "numero": 8,
+      "texto": "Quem semeia na carne, da carne colherá a corrupção; quem semeia no Espírito, do Espírito colherá a vida eterna."
+    },
+    {
+      "numero": 9,
+      "texto": "Não nos cansemos de fazer o bem, porque a seu tempo colheremos, se não relaxarmos."
+    },
+    {
+      "numero": 10,
+      "texto": "Por isso, enquanto temos tempo, façamos o bem a todos os homens, mas particularmente aos irmãos na fé."
+    },
+    {
+      "numero": 11,
+      "texto": "Vede com que tamanho de letras vos escrevo, de próprio punho!"
+    },
+    {
+      "numero": 12,
+      "texto": "Os que vos obrigam à circuncisão são homens que se querem impor, só para não serem perseguidos por causa da cruz de Cristo."
+    },
+    {
+      "numero": 13,
+      "texto": "Pois nem os próprios circuncisos observam a Lei. E se fazem questão de que vos mandeis circuncidar, é para terem motivo de se gloriarem na vossa carne."
+    },
+    {
+      "numero": 14,
+      "texto": "Quanto a mim, não pretendo, jamais, gloriar-me, a não ser na cruz de nosso Senhor Jesus Cristo, pela qual o mundo está crucificado para mim e eu para o mundo."
+    },
+    {
+      "numero": 15,
+      "texto": "Porque a circuncisão e a incircuncisão de nada valem, mas sim a nova criatura."
+    },
+    {
+      "numero": 16,
+      "texto": "A todos que seguirem esta regra, a paz e a misericórdia, assim como ao Israel de Deus."
+    },
+    {
+      "numero": 17,
+      "texto": "De ora em diante ninguém me moleste, porque trago em meu corpo as marcas de Jesus."
+    },
+    {
+      "numero": 18,
+      "texto": "A graça de nosso Senhor Jesus Cristo esteja com vosso espírito, irmãos. Amém."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "6:1-5",
+      "texto": "Paulo instrui os cristãos a restaurarem os que caem em pecado com mansidão, lembrando que todos devem levar seus próprios fardos. A humildade e a responsabilidade pessoal são essenciais para a vida cristã (veja também Mateus 18:15-17 e Tiago 5:19-20)."
+    },
+    {
+      "ref": "6:7-10",
+      "texto": "Paulo alerta sobre a lei da semeadura: o que semearmos, colheremos. Ele exorta os cristãos a fazerem o bem, especialmente aos da família da fé, pois isso refletirá os frutos do Espírito em suas vidas (veja também 2 Coríntios 9:6 e 1 João 3:17)."
+    },
+    {
+      "ref": "6:11-13",
+      "texto": "Paulo afirma que a verdadeira circuncisão não é a de carne, mas a do coração, e que as marcas de Cristo são mais importantes do que qualquer exterior. A verdadeira identidade cristã é forjada no sofrimento e na fé (veja também Filipenses 3:3 e 2 Coríntios 4:10)."
+    },
+    {
+      "ref": "6:14-18",
+      "texto": "Paulo conclui sua carta exaltando a cruz de Cristo como o símbolo central da fé cristã, que é a base para a transformação da vida. Ele deseja que todos que sigam essa verdade experimentem a paz e a misericórdia de Deus (veja também 1 Coríntios 2:2 e 2 Coríntios 5:17)."
+    }
+  ]
+}

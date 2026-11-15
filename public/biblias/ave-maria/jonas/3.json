@@ -1,0 +1,73 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "jonas",
+  "nome": "Jonas",
+  "testamento": "AT",
+  "capitulo": 3,
+  "totalVersiculos": 10,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/jonas/3/",
+  "capturadoEm": "2026-11-15T09:24:59-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "A palavra do Senhor foi dirigida pela segunda vez a Jonas nestes termos:"
+    },
+    {
+      "numero": 2,
+      "texto": "“Vai a Nínive, a grande cidade, e faze-lhe conhecer a mensagem que te ordenei”."
+    },
+    {
+      "numero": 3,
+      "texto": "Jonas pôs-se a caminho e foi a Nínive, segundo a ordem do Senhor. Nínive era, diante de Deus, uma grande cidade: eram precisos três dias para percorrê-la.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Jonas foi pela cidade durante todo um dia, pregando: “Daqui a quarenta dias, Nínive será destruída”."
+    },
+    {
+      "numero": 5,
+      "texto": "Os ninivitas creram nessa mensagem de Deus, e proclamaram um jejum, vestindo-se de sacos desde o maior até o menor."
+    },
+    {
+      "numero": 6,
+      "texto": "A notícia chegou ao conhecimento do rei de Nínive; ele levantou-se do seu trono, tirou o manto, cobriu-se de saco e sentou-se sobre a cinza."
+    },
+    {
+      "numero": 7,
+      "texto": "Em seguida, foi publicado pela cidade, por ordem do rei e dos príncipes, este decreto: “Fica proibido aos homens e aos animais, tanto do gado maior como do menor, comer o que quer que seja, assim como pastar ou beber."
+    },
+    {
+      "numero": 8,
+      "texto": "Homens e animais se cobrirão de sacos. Todos clamem a Deus, em alta voz; deixe cada um o seu mau caminho e converta-se da violência que há em suas mãos.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Quem sabe, Deus se arrependerá, acalmará o ardor de sua cólera e deixará de nos perder!”."
+    },
+    {
+      "numero": 10,
+      "texto": "Diante de uma tal atitude, vendo como renunciavam aos seus maus caminhos, Deus arrependeu-se do mal que resolvera fazer-lhes, e não o executou."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-2",
+      "texto": "Deus novamente chama Jonas para pregar em Nínive, e ele obedece. O chamado de Deus para levar a mensagem de arrependimento é uma oportunidade de salvação, demonstrando a misericórdia divina, que deseja que todos se arrependam (veja também 2 Pedro 3:9 e Atos 17:30)."
+    },
+    {
+      "ref": "3:3-4",
+      "texto": "Jonas prega a mensagem de destruição iminente, e Nínive começa a se arrepender. A resposta do povo de Nínive mostra o poder de uma mensagem de arrependimento genuíno e a disposição de Deus para perdoar aqueles que se voltam para Ele (veja também Lucas 11:32 e Atos 3:19)."
+    },
+    {
+      "ref": "3:5-9",
+      "texto": "O rei de Nínive se humilha e ordena um jejum, mostrando a ação de arrependimento e a necessidade de conversão pública. Isso revela que o arrependimento deve envolver tanto o coração pessoal quanto ações concretas para mudar (veja também Joel 2:12-13 e Lucas 3:8)."
+    },
+    {
+      "ref": "3:10",
+      "texto": "Deus vê o arrependimento de Nínive e decide não destruir a cidade. Isso ilustra o coração misericordioso de Deus, que está disposto a perdoar e restaurar aqueles que se arrependem sinceramente (veja também Ezequiel 18:23 e 1 João 1:9)."
+    }
+  ]
+}

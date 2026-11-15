@@ -1,0 +1,75 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 46,
+  "totalVersiculos": 10,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/salmos/46/",
+  "capturadoEm": "2026-11-15T09:52:58-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre do coro. Dos filhos de Coré. Salmo."
+    },
+    {
+      "numero": 2,
+      "texto": "Povos, batei todos palmas, aclamai Deus com vozes de regozijo,"
+    },
+    {
+      "numero": 3,
+      "texto": "porque o Senhor é excelso e terrível, rei supremo sobre toda a terra."
+    },
+    {
+      "numero": 4,
+      "texto": "Submete os povos a nós, (põe) as nações debaixo dos nossos pés."
+    },
+    {
+      "numero": 5,
+      "texto": "Escolhe para nós a nossa herança, a glória de Jacob seu predilecto."
+    },
+    {
+      "numero": 6,
+      "texto": "Sobe Deus entre _(vozes de)_ júbilo, o Senhor ao som da trombeta."
+    },
+    {
+      "numero": 7,
+      "texto": "Cantai salmos a Deus, cantai; cantai salmos ao nosso rei, cantai."
+    },
+    {
+      "numero": 8,
+      "texto": "Porque Deus é o rei de toda a terra, cantai um hino."
+    },
+    {
+      "numero": 9,
+      "texto": "Deus reina sobre as nações, Deus está sentado sobre o seu santo trono."
+    },
+    {
+      "numero": 10,
+      "texto": "Os príncipes dos povos reuniram-se com o povo do Deus de Abraão. Com efeito, de Deus são os grandes da terra; ele é imensamente excelso."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "46:1-3",
+      "texto": "Deus é descrito como nosso refúgio e fortaleza, enfatizando a segurança que encontramos Nele em tempos de dificuldades. Este salmo é uma afirmação da presença constante de Deus, oferecendo conforto e proteção (veja também Salmo 91:1-2 e Isaías 41:10)."
+    },
+    {
+      "ref": "46:4-5",
+      "texto": "A cidade de Deus é apresentada como um lugar de alegria e segurança. Isso simboliza a proteção divina em meio a tribulações, refletindo a certeza de que Deus está sempre presente com Seu povo (veja também Salmo 125:1-2 e Apocalipse 21:2)."
+    },
+    {
+      "ref": "46:6-7",
+      "texto": "O poder das nações e a agitação dos reinos são contrastados com a força de Deus. A voz de Deus é capaz de trazer ordem e paz, mostrando que Ele é soberano sobre todas as circunstâncias (veja também Salmo 2:1-4 e Isaías 40:23-24)."
+    },
+    {
+      "ref": "46:8-10",
+      "texto": "O convite para contemplar as obras de Deus destaca Sua majestade e poder. O salmista nos lembra de que Deus é soberano sobre a história e nos convida a confiar Nele, independentemente das dificuldades (veja também Salmo 103:19 e Romanos 8:31)."
+    },
+    {
+      "ref": "46:11",
+      "texto": "O Senhor dos Exércitos é nosso refúgio, reiterando a segurança que encontramos Nele. A repetição dessa ideia fortalece a certeza de que, mesmo em meio a desafios, podemos confiar na proteção divina (veja também Salmo 91:4 e Hebreus 13:5-6)."
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ii-cronicas",
+  "nome": "II Crônicas",
+  "testamento": "AT",
+  "capitulo": 34,
+  "totalVersiculos": 33,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ii-cronicas/34/",
+  "capturadoEm": "2026-11-15T09:14:03-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Josias tinha a idade de oito anos quando começou a reinar e reinou trinta e um anos em Jerusalém."
+    },
+    {
+      "numero": 2,
+      "texto": "Fez o bem aos olhos do Senhor, seguindo as pegadas de Davi, seu pai, sem se afastar nem para a direita, nem para a esquerda."
+    },
+    {
+      "numero": 3,
+      "texto": "No oitavo ano de seu reinado, quando ele era ainda criança, começou a buscar o Deus de Davi, seu pai, e no décimo segundo ano começou a limpar Judá e Jerusalém dos lugares altos, das asserás e dos outros ídolos de madeira ou de metal fundido."
+    },
+    {
+      "numero": 4,
+      "texto": "Demoliram, em sua presença, os altares dos baals, e ele próprio destruiu os obeliscos que estavam colocados nesses altares. Fez em pedaços os bosques sagrados, os ídolos, as estelas; ele os reduziu a pó, que aspergiu sobre as tumbas de seus devotos."
+    },
+    {
+      "numero": 5,
+      "texto": "Queimou os ossos dos sacerdotes nos seus altares. Foi assim que purificou Judá e Jerusalém."
+    },
+    {
+      "numero": 6,
+      "texto": "Fez o mesmo nas cidades de Manassés, de Efraim e até mesmo de Neftali, no meio de suas ruínas."
+    },
+    {
+      "numero": 7,
+      "texto": "Demoliu os altares, quebrou e reduziu a pó as asserás e os ídolos e destruiu todos os obeliscos em toda a terra de Israel. Em seguida retornou a Jerusalém."
+    },
+    {
+      "numero": 8,
+      "texto": "No décimo oitavo ano de seu reinado, depois de ter purificado a terra e o templo, o rei encarregou Safã, filho de Aslias, Maasias, governador da cidade, e o arquivista Joá, filho de Joacaz, da restauração do Templo do Senhor, seu Deus."
+    },
+    {
+      "numero": 9,
+      "texto": "Apresentaram-se estes ao sumo sacerdote Helcias e lhe entregaram o dinheiro trazido ao templo, o que os levitas tinham recolhido de Manassés, de Efraim, de todo o resto de Israel, assim como de Judá, de Benjamim e dos habitantes de Jerusalém."
+    },
+    {
+      "numero": 10,
+      "texto": "Puseram esse dinheiro nas mãos dos empreiteiros e dos vigias dos trabalhos do templo, os quais o distribuíram aos que trabalhavam na restauração do edifício."
+    },
+    {
+      "numero": 11,
+      "texto": "Estes o entregaram aos carpinteiros e aos pedreiros para a compra de pedras de cantaria e madeiras de carpintaria, assim como traves destinadas às construções que os reis de Judá tinham deixado cair em ruínas."
+    },
+    {
+      "numero": 12,
+      "texto": "Esses homens cumpriram fielmente sua tarefa. Tinham como inspetores para dirigi-los Jaat e Abdias, levitas da linhagem de Merari, Zacarias e Mesolam, da linhagem dos caatitas, assim como outros levitas que eram todos entendidos em música."
+    },
+    {
+      "numero": 13,
+      "texto": "Estes últimos vigiavam os carregadores e dirigiam todos os trabalhadores, segundo sua especialidade. Havia ainda levitas secretários, comissários e porteiros."
+    },
+    {
+      "numero": 14,
+      "texto": "No momento em que se retirava o dinheiro que tinha sido levado ao Templo do Senhor, o sacerdote Helcias descobriu o Livro da Lei do Senhor, dada por Moisés."
+    },
+    {
+      "numero": 15,
+      "texto": "Disse então Helcias ao escriba Safã: “Encontrei o Livro da Lei no templo”. E ele o entregou a Safã."
+    },
+    {
+      "numero": 16,
+      "texto": "Este o levou ao rei e fez-lhe o seguinte relato: “Teus servos fizeram tudo o que lhes confiaste:"
+    },
+    {
+      "numero": 17,
+      "texto": "tiraram o dinheiro que estava no templo e o puseram nas mãos dos empreiteiros dos trabalhos”."
+    },
+    {
+      "numero": 18,
+      "texto": "“Por outra parte – acrescentou ele –, o sacerdote Helcias me entregou um livro.” E começou a lê-lo em presença do rei."
+    },
+    {
+      "numero": 19,
+      "texto": "Ouvindo as palavras da Lei, este rasgou suas vestes."
+    },
+    {
+      "numero": 20,
+      "texto": "Em seguida, deu esta ordem a Helcias, a Aicam, filho de Safã, a Abdon, filho de Micas, ao escriba Safã e ao seu servo Asaías:"
+    },
+    {
+      "numero": 21,
+      "texto": "“Ide e consultai o Senhor de minha parte e da parte do que resta em Israel e em Judá, a respeito das palavras deste livro que acabam de encontrar; pois grande é a ira do Senhor, que se desencadeou sobre nós porque nossos pais não observaram a palavra do Senhor, não pondo em prática tudo o que está escrito neste livro”."
+    },
+    {
+      "numero": 22,
+      "texto": "Helcias e aqueles que o rei tinha designado foram ter com a profetisa Hulda, mulher de Selum, filho de Tícua, filho de Haraas, guarda do vestiário, a qual habitava em Jerusalém, no segundo distrito. Quando lhe transmitiram sua mensagem,"
+    },
+    {
+      "numero": 23,
+      "texto": "ela lhes respondeu: “Eis o que diz o Senhor, Deus de Israel: ‘Dizei àquele que vos envia a mim: Eis o que diz o Senhor:"
+    },
+    {
+      "numero": 24,
+      "texto": "Vou fazer vir sobre este lugar e sobre os habitantes todas as calamidades, todas as maldições escritas neste livro que foi lido na presença do rei de Judá,"
+    },
+    {
+      "numero": 25,
+      "texto": "porque eles me abandonaram e ofereceram incenso aos deuses falsos, irritando-me com todas as suas maneiras de agir; meu furor se inflamará contra este lugar, sem que se possa jamais extingui-lo."
+    },
+    {
+      "numero": 26,
+      "texto": "Ao rei de Judá que vos enviou a consultar o Senhor, assim lhe direis: eis o que diz o Senhor, Deus de Israel, a respeito das palavras que ouviste:"
+    },
+    {
+      "numero": 27,
+      "texto": "porquanto teu coração se comoveu e te humilhaste diante de Deus, escutando o que eu disse contra esta terra e seus habitantes; porquanto te humilhaste diante de mim, rasgaste tuas vestes chorando, eu também te ouvirei – oráculo do Senhor."
+    },
+    {
+      "numero": 28,
+      "texto": "Vou reunir-te a teus pais; serás depositado em paz nas suas tumbas; teus olhos nada verão da catástrofe que vou mandar a este lugar e aos seus habitantes’.” Eles referiram ao rei esta resposta."
+    },
+    {
+      "numero": 29,
+      "texto": "Então, Josias convocou todos os anciãos de Judá e de Jerusalém."
+    },
+    {
+      "numero": 30,
+      "texto": "Depois, ele próprio subiu ao templo, seguido de todos os anciãos de Judá e de Jerusalém, os sacerdotes, os levitas e todo o povo, desde o maior até o menor. E fez-lhes uma leitura integral do Livro da Aliança, encontrado no Templo do Senhor."
+    },
+    {
+      "numero": 31,
+      "texto": "O rei, de pé num estrado, fez, na presença do Senhor, um pacto no qual se comprometia a seguir o Senhor, a guardar seus mandamentos, suas ordens e seus preceitos, de todo o coração e de toda a sua alma e a pôr em prática todas as palavras da aliança escrita no livro."
+    },
+    {
+      "numero": 32,
+      "texto": "Fez com que aderissem todos os que se encontravam em Jerusalém e em Benjamim; e os habitantes de Jerusalém fizeram segundo a aliança de Deus, do Deus de seus pais."
+    },
+    {
+      "numero": 33,
+      "texto": "Josias fez, desse modo, desaparecer as abominações de toda a terra dos israelitas e impôs a todos que lá se encontravam que servissem o Senhor, seu Deus. Enquanto ele viveu, não se afastaram do Senhor, o Deus de seus pais."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "34:1-3",
+      "texto": "Josias começou a reinar com apenas oito anos de idade e, aos dezesseis, buscou ao Senhor com todo o coração. Sua devoção ao Deus de Israel reflete a busca por uma verdadeira restauração espiritual em Judá, mesmo em uma época de apostasia (veja também Jeremias 29:13 e Mateus 6:33)."
+    },
+    {
+      "ref": "34:4-7",
+      "texto": "Josias destrói os altares e ídolos de falsos deuses, limpando o território de Judá e Israel de práticas idólatras. Essa purificação reflete a importância de afastar-se da idolatria para buscar o verdadeiro Deus (veja também Êxodo 20:3-5 e 1 Coríntios 10:14)."
+    },
+    {
+      "ref": "34:8-13",
+      "texto": "A restauração do Templo do Senhor simboliza o esforço de Josias em restaurar a adoração verdadeira. O cuidado com o templo reflete a importância da reverência à casa de Deus e à adoração adequada (veja também Salmo 122:1 e 1 Coríntios 3:16-17)."
+    },
+    {
+      "ref": "34:14-18",
+      "texto": "O livro da Lei de Deus é encontrado no Templo, o que leva Josias a perceber a gravidade da situação espiritual de seu povo. A descoberta da Lei destaca a importância das Escrituras como guia para o arrependimento e renovação (veja também Deuteronômio 31:24-26 e 2 Timóteo 3:16)."
+    },
+    {
+      "ref": "34:19-28",
+      "texto": "Josias rasga suas vestes ao ouvir a Lei, um sinal de profundo arrependimento. A profetisa Hulda confirma o julgamento iminente de Deus, mas também promete misericórdia durante o reinado de Josias, mostrando a relação entre arrependimento e misericórdia divina (veja também Joel 2:12-13 e Tiago 4:9-10)."
+    }
+  ]
+}

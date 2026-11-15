@@ -1,0 +1,81 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "cantico-dos-canticos",
+  "nome": "Cântico dos Cânticos",
+  "testamento": "AT",
+  "capitulo": 3,
+  "totalVersiculos": 11,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/cantico-dos-canticos/3/",
+  "capturadoEm": "2026-11-15T09:19:56-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Durante a noite, no meu leito, busquei o meu amado; procurei-o, sem encontrá-lo."
+    },
+    {
+      "numero": 2,
+      "texto": "Vou levantar-me e percorrer a cidade, as ruas e as praças, em busca daquele que meu coração ama; procurei-o, sem encontrá-lo."
+    },
+    {
+      "numero": 3,
+      "texto": "Os guardas encontraram-me quando faziam a sua ronda na cidade. “Vistes acaso aquele que meu coração ama?”"
+    },
+    {
+      "numero": 4,
+      "texto": "Mal passara por eles, encontrei aquele que meu coração ama. Segurei-o, e não o largarei antes que o tenha introduzido na casa de minha mãe, no quarto daquela que me concebeu."
+    },
+    {
+      "numero": 5,
+      "texto": "– Conjuro-vos, ó filhas de Jerusalém, pelas gazelas e corças do campo, não desperteis nem perturbeis o amor, até que ele o queira."
+    },
+    {
+      "numero": 6,
+      "texto": "– Que é aquilo que sobe do deserto como colunas de fumaça, exalando o perfume de mirra e de incenso, e de todos os aromas dos mercadores?",
+      "nota": true
+    },
+    {
+      "numero": 7,
+      "texto": "É a liteira de Salomão, escoltada por sessenta guerreiros, sessenta valentes de Israel."
+    },
+    {
+      "numero": 8,
+      "texto": "Todos hábeis manejadores da espada, e exercitados no combate; cada um deles leva a espada ao lado por causa dos terrores noturnos."
+    },
+    {
+      "numero": 9,
+      "texto": "O rei Salomão mandou fazer para si uma liteira de madeira do Líbano."
+    },
+    {
+      "numero": 10,
+      "texto": "Suas colunas são feitas de prata, seu encosto, de ouro, seu assento, de púrpura. O interior é bordado pelo amor das filhas de Jerusalém."
+    },
+    {
+      "numero": 11,
+      "texto": "Saí, ó filhas de Sião, contemplai o rei Salomão, ostentando o diadema recebido de sua mãe no dia de suas núpcias, no dia da alegria de seu coração.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-4",
+      "texto": "A amada busca seu amado durante a noite, simbolizando a busca por amor e significado em momentos de solidão. Essa busca pode ser vista como uma metáfora para a busca de Deus em tempos de escuridão (veja também Salmo 63:1 e Mateus 5:6)."
+    },
+    {
+      "ref": "3:5-6",
+      "texto": "A amada expressa seu compromisso com o amor, pedindo que não se desperdice. Esse verso destaca a importância da pureza e da integridade nos relacionamentos, refletindo os princípios de Deus sobre o amor (veja também 1 Coríntios 13:4-7 e Hebreus 13:4)."
+    },
+    {
+      "ref": "3:7-8",
+      "texto": "O amado é descrito como um príncipe, simbolizando força e proteção. Essa imagem reforça a segurança que o amor verdadeiro proporciona e a figura de Cristo como nosso protetor e guia (veja também Salmo 18:2 e Efésios 6:10)."
+    },
+    {
+      "ref": "3:9-10",
+      "texto": "A arca de Salomão é mencionada, representando a glória e a riqueza do amor. Isso pode ser visto como um símbolo da presença de Deus entre Seu povo, refletindo a beleza e a importância da adoração (veja também 2 Crônicas 7:1-3 e Apocalipse 21:3)."
+    },
+    {
+      "ref": "3:11",
+      "texto": "A amada convida as mulheres a contemplar o amor, destacando a importância do amor romântico e da celebração do relacionamento. A valorização do amor e da união é um princípio bíblico fundamental (veja também Efésios 5:31-33 e 1 João 4:16)."
+    }
+  ]
+}

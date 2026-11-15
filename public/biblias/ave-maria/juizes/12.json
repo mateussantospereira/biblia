@@ -1,0 +1,96 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "juizes",
+  "nome": "Juízes",
+  "testamento": "AT",
+  "capitulo": 12,
+  "totalVersiculos": 15,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/juizes/12/",
+  "capturadoEm": "2026-11-15T09:10:59-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Os efraimitas, tendo-se sublevado, passaram a Safon e disseram a Jefté: “Por que saíste a combater os amonitas sem nos chamar para irmos contigo? Por isso vamos queimar a tua casa”."
+    },
+    {
+      "numero": 2,
+      "texto": "Jefté respondeu: “Eu e meu povo tivemos graves contendas com os amonitas. Chamei-vos e vós não me livrastes de suas mãos."
+    },
+    {
+      "numero": 3,
+      "texto": "Vendo que não podia contar convosco, arrisquei a minha vida marchando sozinho contra os amonitas e o Senhor entregou-os nas minhas mãos. Por que, pois, viestes combater contra mim?”.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Jefté reuniu todos os homens de Galaad e combateu contra Efraim. Os habitantes de Galaad derrotaram os de Efraim, que lhes haviam dito: “Vós sois fugitivos de Efraim que habitais entre Efraim e Manassés!”."
+    },
+    {
+      "numero": 5,
+      "texto": "Galaad ocupou os vaus do Jordão. Cada vez que um fugitivo de Efraim queria passar, perguntavam-lhe: “És tu efraimita?”. Ele respondia – “Não”."
+    },
+    {
+      "numero": 6,
+      "texto": "“Pois bem – diziam eles então – dize: Chibólet.” E ele dizia: “Sibólet”, não podendo pronunciar corretamente. Prendiam-no logo e o degolavam junto aos vaus do Jordão. Naquele dia, pereceram quarenta e dois mil homens de Efraim."
+    },
+    {
+      "numero": 7,
+      "texto": "Jefté, o galaadita, foi juiz em Israel durante seis anos; depois morreu e foi sepultado em uma das cidades de Galaad. Outros juízes menores"
+    },
+    {
+      "numero": 8,
+      "texto": "Depois de Jefté, foi juiz de Israel Abesã, de Belém,"
+    },
+    {
+      "numero": 9,
+      "texto": "o qual teve trinta filhos; casou suas trinta filhas fora de sua família, e mandou vir de fora trinta jovens para os seus filhos. Julgou Israel durante sete anos."
+    },
+    {
+      "numero": 10,
+      "texto": "Morreu e foi enterrado em Belém."
+    },
+    {
+      "numero": 11,
+      "texto": "Depois dele, Elon, de Zabulon, foi juiz em Israel e sua judicatura durou dez anos."
+    },
+    {
+      "numero": 12,
+      "texto": "Morreu e foi enterrado em Aialon, na terra de Zabulon."
+    },
+    {
+      "numero": 13,
+      "texto": "Em seguida, teve Israel por juiz Abdon, filho de Ilel, de Faraton."
+    },
+    {
+      "numero": 14,
+      "texto": "Teve quarenta filhos e trinta netos, que montavam em setenta jumentinhos. Julgou Israel durante oito anos."
+    },
+    {
+      "numero": 15,
+      "texto": "Depois disso, Abdon, filho de Ilel, de Faraton, morreu e foi sepultado em Faraton, na terra de Efraim, na montanha dos amalecitas."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "12:1-7",
+      "texto": "O conflito entre Jefté e os efraimitas ilustra a divisão dentro de Israel e a importância da unidade. As divisões podem levar a consequências trágicas e desnecessárias entre o povo de Deus (veja também Efésios 4:3 e 1 Coríntios 1:10)."
+    },
+    {
+      "ref": "12:8-10",
+      "texto": "Ibzan, que sucede Jefté, destaca a continuidade da liderança, mas também a importância da qualidade moral do juiz. A liderança eficaz é aquela que se preocupa com o bem-estar do povo (veja também 1 Pedro 5:2-3 e Marcos 10:42-45)."
+    },
+    {
+      "ref": "12:11-12",
+      "texto": "Elon, outro juiz, serve brevemente, reforçando a ideia de que a liderança é temporária e deve ser baseada em princípios divinos. Cada juiz, apesar de sua brevidade, tinha um papel importante na história de Israel (veja também Salmo 75:6-7 e Romanos 13:1)."
+    },
+    {
+      "ref": "12:13-15",
+      "texto": "Abdom, o último juiz mencionado neste capítulo, destaca a necessidade de líderes que busquem a justiça e a equidade. Isso ressalta que a liderança deve ser sempre guiada pelos princípios de Deus (veja também Provérbios 29:2 e Isaías 1:17)."
+    },
+    {
+      "ref": "12:6",
+      "texto": "O episódio da pronúncia da palavra \"Sibolete\" revela a importância da comunicação e da identidade na sociedade. Diferenças culturais e linguísticas podem levar a mal-entendidos, mas a unidade deve prevalecer (veja também Gálatas 3:28 e Efésios 4:4-6)."
+    }
+  ]
+}

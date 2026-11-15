@@ -1,0 +1,44 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 130,
+  "totalVersiculos": 3,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/130/",
+  "capturadoEm": "2026-11-15T09:18:16-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cântico das peregrinações. De Davi. Senhor, meu coração não se enche de orgulho, meu olhar não se levanta arrogante. Não procuro grandezas, nem coisas superiores a mim.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Ao contrário, mantenho em calma e sossego a minha alma, tal como uma criança no seio materno, assim está minha alma em mim mesmo."
+    },
+    {
+      "numero": 3,
+      "texto": "Israel, põe tua esperança no Senhor, agora e para sempre."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "130:1-2",
+      "texto": "O salmista clama a Deus \"das profundezas\", expressando angústia e desespero, mas ao mesmo tempo reconhecendo que somente Deus pode ouvir e responder. A oração nas aflições é central neste salmo (veja também Lamentações 3:55-56 e Jonas 2:2)."
+    },
+    {
+      "ref": "130:3-4",
+      "texto": "Se observares as iniquidades, quem subsistirá? O salmo ressalta que todos são pecadores e dependem da misericórdia de Deus. No entanto, Deus perdoa, para que o Seu povo O tema e reverencie (veja também Romanos 3:23-24 e Efésios 1:7)."
+    },
+    {
+      "ref": "130:5-6",
+      "texto": "A espera pelo Senhor é comparada à sentinela que aguarda o amanhecer. Isso expressa uma esperança ativa e vigilante na intervenção divina, mesmo em tempos de incerteza (veja também Isaías 40:31 e Salmo 27:14)."
+    },
+    {
+      "ref": "130:7-8",
+      "texto": "O salmo termina com uma exortação a Israel para confiar no Senhor, cuja redenção é abundante. Deus não só perdoa, mas redime completamente o Seu povo (veja também Tito 2:14 e Salmo 103:12)."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 48,
+  "totalVersiculos": 22,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/48/",
+  "capturadoEm": "2026-11-15T09:22:01-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ouvi isto, casa de Jacó, vós, que tendes o nome de Israel, e que saístes das entranhas de Judá, vós, que jurais pelo nome do Senhor e que invocais o Deus de Israel, mas sem sinceridade nem retidão,"
+    },
+    {
+      "numero": 2,
+      "texto": "porque vós vos declarais da cidade santa, vós vos apoiais no Deus de Israel, cujo nome é o Senhor dos exércitos."
+    },
+    {
+      "numero": 3,
+      "texto": "O que passou, eu predisse com muita antecipação; depois me pus à obra, e tudo se realizou."
+    },
+    {
+      "numero": 4,
+      "texto": "Sabendo bem que és rígido, que tua cerviz tem músculos de ferro, e que tua fronte é de bronze,"
+    },
+    {
+      "numero": 5,
+      "texto": "eu te predisse os acontecimentos com muita antecedência, antes que acontecessem eu te preveni, para que não pudesses dizer: “Foi meu ídolo quem os fez, foi minha estátua esculpida ou fundida quem os provocou”."
+    },
+    {
+      "numero": 6,
+      "texto": "Do que ouviste, vês a realização: não deves atestá-lo? Pois bem, vou revelar-te agora novos acontecimentos, ainda mantidos em segredo, e que tu não conheces."
+    },
+    {
+      "numero": 7,
+      "texto": "Foram criados agora, e não antigamente; nunca até aqui ouviste falar disso, de maneira que não poderás dizer: “Já o sabia”."
+    },
+    {
+      "numero": 8,
+      "texto": "Não, tu nada sabias, tu não o suspeitavas, eu não te havia feito ainda a confidência, porque sabia que eras desleal, chamado rebelde desde teu nascimento.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Eu continha minha cólera por minha honra, dominava-a, sem te ferir, por causa de minha glória.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Passei-te no cadinho como a prata, provei-te ao crisol da tribulação;",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "ajo unicamente preocupado com minha honra: como tolerar que se profane meu nome? A ninguém posso ceder minha glória."
+    },
+    {
+      "numero": 12,
+      "texto": "Ouve-me, Jacó, e tu, Israel, que eu chamei! Sou sempre o mesmo, o primeiro, e sou também o último."
+    },
+    {
+      "numero": 13,
+      "texto": "Foi minha mão que fundou a terra, e minha destra que estendeu os céus; quando os convoco, todos se apresentam.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Reuni-vos todos e escutai: quem dentre vós predisse esses acontecimentos? Aquele que o Senhor ama fará sua vontade contra Babilônia e a raça dos caldeus.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Eu mesmo falei e o chamei, eu o fiz vir e lhe dei feliz êxito."
+    },
+    {
+      "numero": 16,
+      "texto": "Aproximai-vos de mim para ouvir isto: desde o início, nunca falei às escondidas, desde que a coisa existe, estou eu aí. E agora o Senhor Deus com seu Espírito me envia.",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "Eis o que diz o Senhor, teu Redentor, o Santo de Israel: “Eu sou o Senhor teu Deus, que te dá lições salutares, que te conduz pelo caminho que deves seguir."
+    },
+    {
+      "numero": 18,
+      "texto": "Ah! Se tivesses sido atento às minhas ordens! Teu bem-estar se assemelharia a um rio, e tua felicidade às ondas do mar;"
+    },
+    {
+      "numero": 19,
+      "texto": "tua posteridade seria como a areia, e teus descendentes, como os grãos de areia; nada poderia apagar nem abolir teu nome de diante de mim."
+    },
+    {
+      "numero": 20,
+      "texto": "Saí de Babilônia, fugi da Caldeia! Proclamai a notícia com gritos de alegria, publicai-a até as extremidades do mundo. Dizei: o Senhor resgatou seu servo Jacó!"
+    },
+    {
+      "numero": 21,
+      "texto": "Não há sede para eles no deserto para onde os leva, porque faz brotar para eles água de um rochedo, fende as rochas para que as águas jorrem”.",
+      "nota": true
+    },
+    {
+      "numero": 22,
+      "texto": "Mas não há paz para os maus, diz o Senhor.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "48:1-2",
+      "texto": "Deus denuncia a hipocrisia de Israel, que invoca Seu nome sem verdadeira justiça. Essa crítica reflete a importância de uma fé autêntica em oposição a um ritual vazio (veja também Mateus 15:8 e Tiago 1:22)."
+    },
+    {
+      "ref": "48:3-5",
+      "texto": "Deus declara que anunciou eventos futuros para mostrar que Ele é o único Deus, pois Israel era propenso a atribuir Suas obras aos ídolos. Isso reforça a exclusividade e supremacia divina (veja também Isaías 42:8 e Salmo 96:5)."
+    },
+    {
+      "ref": "48:9-11",
+      "texto": "Deus retém Sua ira por amor de Seu nome, preservando Israel para mostrar Sua glória. Essa graça destaca o compromisso de Deus com Suas promessas (veja também Ezequiel 36:22-23 e 2 Timóteo 2:13)."
+    },
+    {
+      "ref": "48:17-18",
+      "texto": "Deus se apresenta como o Redentor de Israel e lamenta que Seu povo não tenha obedecido, o que teria trazido paz e prosperidade. A obediência resulta em bênçãos divinas (veja também Deuteronômio 5:29 e Salmo 81:13-14)."
+    },
+    {
+      "ref": "48:20-21",
+      "texto": "Deus chama Seu povo a sair da Babilônia, proclamando a libertação e a fidelidade divina. Essa ordem reflete a graça e a provisão de Deus para os exilados (veja também Jeremias 50:8 e Apocalipse 18:4)."
+    }
+  ]
+}

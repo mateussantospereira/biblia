@@ -1,0 +1,57 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 4,
+  "totalVersiculos": 6,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/4/",
+  "capturadoEm": "2026-11-15T09:21:17-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Naquele tempo, sete mulheres disputarão entre si um homem, e dirão: “É do nosso pão que comeremos, e de nossas vestes que nos cobriremos. Deixa-nos apenas trazer o teu nome, faze cessar nosso opróbrio”.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Naquele tempo, aquilo que o Senhor fizer crescer será o ornamento e a glória, e o fruto da terra será o orgulho e o ornato daqueles de Israel que foram salvos.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "O que restar de Sião, os sobreviventes de Jerusalém, serão chamados santos, e todos os que estiverem computados entre os vivos em Jerusalém."
+    },
+    {
+      "numero": 4,
+      "texto": "Quando o Senhor tiver lavado a imundície das filhas de Sião, e apagado de Jerusalém as manchas de sangue pelo sopro do direito e pelo vento devastador,"
+    },
+    {
+      "numero": 5,
+      "texto": "o Senhor virá estabelecer-se sobre todo o monte Sião e em suas assembleias: de dia como uma nuvem de fumaça, e de noite como um fogo flamejante. Porque sobre todos se estenderá a glória do Senhor,"
+    },
+    {
+      "numero": 6,
+      "texto": "como a cobertura de uma tenda, à guisa de sombra contra o calor do dia, e de refúgio e abrigo contra a procela e a chuva."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "4:2",
+      "texto": "O “Renovo do Senhor” será glorioso e belo. Essa profecia aponta para a vinda do Messias e a restauração espiritual de Israel, onde a beleza verdadeira é encontrada em Deus (veja também Jeremias 23:5 e Zacarias 3:8)."
+    },
+    {
+      "ref": "4:3-4",
+      "texto": "Deus purificará Jerusalém dos pecados, removendo toda impureza. Essa renovação simboliza a santidade que Deus deseja para Seu povo e a vinda do Espírito Santo para purificar os crentes (veja também Ezequiel 36:25-27 e 1 João 1:7)."
+    },
+    {
+      "ref": "4:5",
+      "texto": "Deus será uma cobertura sobre Seu povo, protegendo-os como uma nuvem e uma chama. Essa imagem lembra a proteção divina no deserto e simboliza a presença contínua de Deus (veja também Êxodo 13:21-22 e Salmo 91:1-2)."
+    },
+    {
+      "ref": "4:6",
+      "texto": "O Senhor será um abrigo e um refúgio para o Seu povo, protegendo-os de aflições e tempestades. Isso destaca o cuidado amoroso de Deus por aqueles que O buscam (veja também Salmo 27:5 e Isaías 25:4)."
+    }
+  ]
+}

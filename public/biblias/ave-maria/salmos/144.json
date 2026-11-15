@@ -1,0 +1,120 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 144,
+  "totalVersiculos": 21,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/144/",
+  "capturadoEm": "2026-11-15T09:18:31-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Louvor. De Davi. Ó meu Deus, meu rei, eu vos glorificarei, e bendirei o vosso nome pelos séculos dos séculos.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Dia a dia vos bendirei, e louvarei o vosso nome eternamente."
+    },
+    {
+      "numero": 3,
+      "texto": "Grande é o Senhor e sumamente louvável, insondável é a sua grandeza."
+    },
+    {
+      "numero": 4,
+      "texto": "Cada geração apregoa à outra as vossas obras, e proclama o vosso poder."
+    },
+    {
+      "numero": 5,
+      "texto": "Elas falam do brilho esplendoroso de vossa majestade, e publicam as vossas maravilhas."
+    },
+    {
+      "numero": 6,
+      "texto": "Anunciam o formidável poder de vossas obras e narram a vossa grandeza."
+    },
+    {
+      "numero": 7,
+      "texto": "Proclamam o louvor de vossa bondade imensa, e aclamam a vossa justiça."
+    },
+    {
+      "numero": 8,
+      "texto": "O Senhor é clemente e compassivo, generoso e cheio de bondade."
+    },
+    {
+      "numero": 9,
+      "texto": "O Senhor é bom para com todos, e sua misericórdia se estende a todas as suas obras."
+    },
+    {
+      "numero": 10,
+      "texto": "Glorifiquem-vos, Senhor, todas as vossas obras, e vos bendigam os vossos fiéis."
+    },
+    {
+      "numero": 11,
+      "texto": "Que eles apregoem a glória de vosso reino, e anunciem o vosso poder,"
+    },
+    {
+      "numero": 12,
+      "texto": "para darem a conhecer aos homens a vossa força, e a glória de vosso reino maravilhoso."
+    },
+    {
+      "numero": 13,
+      "texto": "Vosso reino é um reino eterno, e vosso império subsiste em todas as gerações. O Senhor é fiel em suas palavras, e santo em tudo o que faz."
+    },
+    {
+      "numero": 14,
+      "texto": "O Senhor sustém os que vacilam, e soergue os abatidos."
+    },
+    {
+      "numero": 15,
+      "texto": "Todos os olhos esperançosos se dirigem para vós, e a seu tempo vós os alimentais."
+    },
+    {
+      "numero": 16,
+      "texto": "Basta abrirdes as mãos, para saciardes com benevolência todos os viventes."
+    },
+    {
+      "numero": 17,
+      "texto": "O Senhor é justo em seus caminhos, e santo em tudo o que faz."
+    },
+    {
+      "numero": 18,
+      "texto": "O Senhor se aproxima dos que o invocam, daqueles que o invocam com sinceridade."
+    },
+    {
+      "numero": 19,
+      "texto": "Ele satisfará o desejo dos que o temem, ouvirá seus clamores e os salvará."
+    },
+    {
+      "numero": 20,
+      "texto": "O Senhor vela por aqueles que o amam, mas exterminará todos os maus."
+    },
+    {
+      "numero": 21,
+      "texto": "Que minha boca proclame o louvor do Senhor, e que todo ser vivo bendiga eternamente o seu santo nome."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "144:1-2",
+      "texto": "O salmista louva a Deus como seu refúgio, fortaleza e libertador. Ele reconhece que a força para a batalha e a vitória vêm de Deus, que é a fonte de segurança e proteção (veja também Salmo 18:1-2 e 2 Samuel 22:2-3)."
+    },
+    {
+      "ref": "144:3-4",
+      "texto": "O salmista reflete sobre a fragilidade humana, comparando a vida do homem a um sopro. Isso enfatiza a transitoriedade da vida e a necessidade de confiar na eternidade de Deus (veja também Salmo 39:4-5 e Tiago 4:14)."
+    },
+    {
+      "ref": "144:5-6",
+      "texto": "O salmista pede a intervenção poderosa de Deus, pedindo que Ele se incline e atue com poder para derrotar os inimigos. Isso destaca o poder soberano de Deus para intervir na história e na vida de Seu povo (veja também Salmo 18:9-14 e Isaías 64:1)."
+    },
+    {
+      "ref": "144:9-10",
+      "texto": "O salmista promete cantar um cântico novo a Deus, reconhecendo que é Ele quem dá vitória aos reis e livra Seu povo. O louvor contínuo é uma resposta adequada ao livramento divino (veja também Salmo 33:3 e Salmo 98:1)."
+    },
+    {
+      "ref": "144:12-15",
+      "texto": "O salmista descreve as bênçãos de uma nação que segue a Deus: filhos e filhas prósperos, colheitas abundantes e segurança. Isso reflete que a paz e a prosperidade são resultados da fidelidade a Deus e de Sua bênção (veja também Deuteronômio 28:3-6 e Salmo 128:1-4)."
+    }
+  ]
+}

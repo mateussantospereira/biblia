@@ -1,0 +1,84 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 62,
+  "totalVersiculos": 12,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/62/",
+  "capturadoEm": "2026-11-15T09:17:06-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Salmo de Davi, quando se achava no deserto de Judá.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Ó Deus, vós sois o meu Deus, com ardor vos procuro. Minha alma está sedenta de vós, e minha carne por vós anseia como a terra árida e sequiosa, sem água."
+    },
+    {
+      "numero": 3,
+      "texto": "Quero vos contemplar no santuário, para ver vosso poder e vossa glória."
+    },
+    {
+      "numero": 4,
+      "texto": "Porque vossa graça me é mais preciosa do que a vida, meus lábios entoarão vossos louvores."
+    },
+    {
+      "numero": 5,
+      "texto": "Assim vos bendirei em toda a minha vida, com minhas mãos erguidas vosso nome adorarei."
+    },
+    {
+      "numero": 6,
+      "texto": "Minha alma saciada como de fino manjar, com exultante alegria meus lábios vos louvarão."
+    },
+    {
+      "numero": 7,
+      "texto": "Quando, no leito, me vem vossa lembrança, passo a noite toda pensando em vós."
+    },
+    {
+      "numero": 8,
+      "texto": "Porque vós sois o meu apoio, exulto de alegria, à sombra de vossas asas."
+    },
+    {
+      "numero": 9,
+      "texto": "Minha alma está unida a vós, sustenta-me a vossa destra."
+    },
+    {
+      "numero": 10,
+      "texto": "Quanto aos que me procuram perder, cairão nas profundezas dos abismos,"
+    },
+    {
+      "numero": 11,
+      "texto": "serão passados a fio de espada, e se tornarão pasto dos chacais."
+    },
+    {
+      "numero": 12,
+      "texto": "O rei, porém, se alegrará em Deus. Será glorificado todo o que jurar pelo seu nome, enquanto aos mentirosos lhes será tapada a boca."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "62:1-2",
+      "texto": "O salmista declara que sua alma encontra descanso em Deus. Essa afirmação ressalta a paz que vem da confiança total em Deus como a única fonte de salvação (veja também Salmo 4:8 e Mateus 11:28-30)."
+    },
+    {
+      "ref": "62:3-4",
+      "texto": "O salmista reflete sobre os inimigos e suas intenções malignas, mas reafirma sua confiança em Deus. Isso mostra que, mesmo em meio a oposições, a fé em Deus deve permanecer firme (veja também Salmo 27:1-3 e Romanos 8:31)."
+    },
+    {
+      "ref": "62:5-7",
+      "texto": "A alma do salmista é alimentada pela esperança em Deus. Ele reconhece que a salvação e a honra vêm do Senhor, sublinhando a importância de esperar pacientemente em Deus em todos os momentos (veja também Salmo 37:7 e Lamentações 3:25-26)."
+    },
+    {
+      "ref": "62:8-10",
+      "texto": "O salmista encoraja o povo a confiar em Deus em todas as circunstâncias. Essa exortação enfatiza a responsabilidade coletiva de buscar o Senhor e depositar a fé Nele, independentemente das situações (veja também Salmo 9:10 e Isaías 26:4)."
+    },
+    {
+      "ref": "62:11-12",
+      "texto": "O salmista conclui afirmando que Deus é justo e que cada um receberá segundo suas obras. Essa declaração ressalta a justiça de Deus e a importância de viver de maneira ética e honesta (veja também Gálatas 6:7-8 e Apocalipse 22:12)."
+    }
+  ]
+}

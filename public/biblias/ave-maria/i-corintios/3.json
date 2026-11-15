@@ -1,0 +1,127 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-corintios",
+  "nome": "I Coríntios",
+  "testamento": "NT",
+  "capitulo": 3,
+  "totalVersiculos": 23,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-corintios/3/",
+  "capturadoEm": "2026-11-15T09:27:55-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "A vós, irmãos, não vos pude falar como a homens espirituais, mas como a carnais, como a criancinhas em Cristo."
+    },
+    {
+      "numero": 2,
+      "texto": "Eu vos dei leite a beber, e não alimento sólido que ainda não podíeis suportar. Nem ainda agora o podeis, porque ainda sois carnais."
+    },
+    {
+      "numero": 3,
+      "texto": "Com efeito, enquanto houver entre vós ciúmes e contendas, não será porque sois carnais e procedeis de um modo totalmente humano?"
+    },
+    {
+      "numero": 4,
+      "texto": "Quando, entre vós, um diz: “Eu sou de Paulo” – e outro –: “Eu, de Apolo” –, não é isso um modo de pensar totalmente humano?",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Pois quem é Apolo? E quem é Paulo? Simples servos, por cujo intermédio abraçastes a fé, e isso conforme a medida que o Senhor repartiu a cada um deles:"
+    },
+    {
+      "numero": 6,
+      "texto": "eu plantei, Apolo regou, mas Deus é quem fez crescer."
+    },
+    {
+      "numero": 7,
+      "texto": "Assim, nem o que planta é alguma coisa nem o que rega, mas só Deus, que faz crescer."
+    },
+    {
+      "numero": 8,
+      "texto": "O que planta ou o que rega são iguais; cada um receberá a sua recompensa, segundo o seu trabalho."
+    },
+    {
+      "numero": 9,
+      "texto": "Nós somos operários com Deus. Vós, o campo de Deus, o edifício de Deus.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Segundo a graça que Deus me deu, como sábio arquiteto lancei o fundamento, mas outro edifica sobre ele."
+    },
+    {
+      "numero": 11,
+      "texto": "Quanto ao fundamento, ninguém pode pôr outro diverso daquele que já foi posto: Jesus Cristo."
+    },
+    {
+      "numero": 12,
+      "texto": "Agora, se alguém edifica sobre este fundamento, com ouro, ou com prata, ou com pedras preciosas, com madeira, ou com feno, ou com palha,"
+    },
+    {
+      "numero": 13,
+      "texto": "a obra de cada um aparecerá. O dia (do julgamento) irá demonstrá-lo. Será descoberto pelo fogo; o fogo provará o que vale o trabalho de cada um."
+    },
+    {
+      "numero": 14,
+      "texto": "Se a construção resistir, o construtor receberá a recompensa."
+    },
+    {
+      "numero": 15,
+      "texto": "Se pegar fogo, arcará com os danos. Ele será salvo, porém passando de alguma maneira através do fogo."
+    },
+    {
+      "numero": 16,
+      "texto": "Não sabeis que sois o Templo de Deus, e que o Espírito de Deus habita em vós?",
+      "nota": true
+    },
+    {
+      "numero": 17,
+      "texto": "Se alguém destruir o Templo de Deus, Deus o destruirá. Porque o templo de Deus é sagrado – e isso sois vós.",
+      "nota": true
+    },
+    {
+      "numero": 18,
+      "texto": "Ninguém se engane a si mesmo. Se alguém dentre vós se julga sábio à maneira deste mundo, faça-se louco para tornar-se sábio,"
+    },
+    {
+      "numero": 19,
+      "texto": "porque a sabedoria deste mundo é loucura diante de Deus; pois (diz a Escritura) ele apanhará os sábios na sua própria astúcia (Jó 5,13)."
+    },
+    {
+      "numero": 20,
+      "texto": "E em outro lugar: O Senhor conhece os pensamentos dos sábios, e ele sabe que são vãos (Sl 93,11)."
+    },
+    {
+      "numero": 21,
+      "texto": "Portanto, ninguém ponha sua glória nos homens. Tudo é vosso:"
+    },
+    {
+      "numero": 22,
+      "texto": "Paulo, Apolo, Cefas, o mundo, a vida, a morte, o presente e o futuro. Tudo é vosso!"
+    },
+    {
+      "numero": 23,
+      "texto": "Mas vós sois de Cristo, e Cristo é de Deus."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-4",
+      "texto": "Paulo repreende os coríntios por sua imaturidade espiritual, revelada pelas divisões e pela rivalidade entre os seguidores de diferentes líderes. A verdadeira sabedoria vem de Deus, e não de líderes humanos (veja também Hebreus 5:12-14 e 1 Pedro 2:2)."
+    },
+    {
+      "ref": "3:5-9",
+      "texto": "Paulo e Apolo são apenas servos de Deus, trabalhando juntos na edificação da igreja. A verdadeira obra de construção da igreja é realizada por Deus, e os servos humanos são instrumentos em Suas mãos (veja também Mateus 13:23 e João 4:37-38)."
+    },
+    {
+      "ref": "3:10-15",
+      "texto": "A qualidade da obra de cada crente será provada pelo fogo, no Dia do Senhor. A fundação é Cristo, e todos os crentes devem edificar sobre essa fundação com materiais que resistem ao julgamento (veja também 1 Pedro 1:7 e Lucas 6:48-49)."
+    },
+    {
+      "ref": "3:16-17",
+      "texto": "O corpo dos crentes é o templo de Deus, e o Espírito Santo habita nele. O cuidado e respeito por esse templo são fundamentais para a santidade e a pureza da igreja (veja também 1 Coríntios 6:19-20 e 2 Coríntios 6:16)."
+    }
+  ]
+}

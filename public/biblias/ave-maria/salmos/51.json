@@ -1,0 +1,79 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 51,
+  "totalVersiculos": 11,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/51/",
+  "capturadoEm": "2026-11-15T09:16:54-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. Hino de Davi."
+    },
+    {
+      "numero": 2,
+      "texto": "Quando Doeg, o idumeu, veio dizer a Saul: “Davi entrou na casa de Aquimelec”."
+    },
+    {
+      "numero": 3,
+      "texto": "Por que te glorias de tua malícia, ó infame prepotente?"
+    },
+    {
+      "numero": 4,
+      "texto": "Continuamente maquinas a perdição; tua língua é afiada navalha, tecedora de enganos."
+    },
+    {
+      "numero": 5,
+      "texto": "Tu preferes o mal ao bem, a mentira à lealdade."
+    },
+    {
+      "numero": 6,
+      "texto": "Só gostas de palavras perniciosas, ó língua pérfida!"
+    },
+    {
+      "numero": 7,
+      "texto": "Por isso, Deus te destruirá, há de te excluir para sempre; ele te expulsará de tua tenda, e te extirpará da terra dos vivos."
+    },
+    {
+      "numero": 8,
+      "texto": "Vendo isso, tomados de medo, os justos zombarão de ti, dizendo:"
+    },
+    {
+      "numero": 9,
+      "texto": "“Eis o homem que não tomou a Deus por protetor, mas esperou na multidão de suas riquezas e se prevaleceu de seus próprios crimes”."
+    },
+    {
+      "numero": 10,
+      "texto": "Eu sou, porém, como a verdejante oliveira na casa de Deus: confio na misericórdia de Deus para sempre."
+    },
+    {
+      "numero": 11,
+      "texto": "Eu vos louvarei eternamente pelo que fizestes e cantarei vosso nome, na presença de vossos fiéis, porque é bom."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "51:1-2",
+      "texto": "O salmista clama por misericórdia e perdão, reconhecendo sua necessidade de purificação. Este trecho enfatiza a natureza pecaminosa do ser humano e a compaixão de Deus (veja também Salmo 103:8-12 e 1 João 1:9)."
+    },
+    {
+      "ref": "51:3-6",
+      "texto": "A confissão do pecado é um passo crucial para a restauração. O salmista reconhece sua culpa e o impacto do pecado em sua vida, enfatizando a necessidade de um coração puro (veja também Provérbios 28:13 e Tiago 5:16)."
+    },
+    {
+      "ref": "51:7-9",
+      "texto": "O desejo de Deus por um coração quebrantado é central; sacrifícios externos sem sinceridade são insuficientes. A purificação com hissopo simboliza a necessidade de limpeza espiritual (veja também Salmo 24:3-4 e Mateus 5:8)."
+    },
+    {
+      "ref": "51:10-12",
+      "texto": "O pedido por um coração puro e um espírito reto destaca a importância da transformação interna. O salmista clama por restauração e alegria, refletindo a esperança em um novo começo (veja também Ezequiel 36:26-27 e 2 Coríntios 5:17)."
+    },
+    {
+      "ref": "51:13-15",
+      "texto": "O salmista promete ensinar aos transgressores o caminho do Senhor, destacando a responsabilidade de compartilhar a graça recebida. Este trecho enfatiza a importância do testemunho e da evangelização (veja também Mateus 28:19-20 e Romanos 10:14-15)."
+    }
+  ]
+}

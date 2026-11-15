@@ -1,0 +1,101 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "amos",
+  "nome": "Amós",
+  "testamento": "AT",
+  "capitulo": 3,
+  "totalVersiculos": 15,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/amos/3/",
+  "capturadoEm": "2026-11-15T09:24:49-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ouvi, israelitas, o oráculo que o Senhor pronunciou contra vós, “contra todo o povo” – disse ele – “que tirei do Egito”."
+    },
+    {
+      "numero": 2,
+      "texto": "Dentre todas as raças da terra só a vós conheço; por isso, vos castigarei por todas as vossas iniquidades.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Porventura caminharão juntos dois homens, se não tiverem chegado previamente a um acordo?"
+    },
+    {
+      "numero": 4,
+      "texto": "Rugirá por acaso o leão na floresta, sem que tenha achado alguma presa? Gritará o leãozinho no covil, se não tiver apanhado alguma coisa?"
+    },
+    {
+      "numero": 5,
+      "texto": "Cairá o pardal no laço posto no solo, se a armadilha não estiver armada? O laço se levantará da terra sem ter apanhado alguma coisa?"
+    },
+    {
+      "numero": 6,
+      "texto": "Tocará o alarme na cidade sem que o povo se assuste? Virá uma calamidade sobre uma cidade sem que o Senhor a tenha disposto?"
+    },
+    {
+      "numero": 7,
+      "texto": "Porque o Senhor Javé nada faz sem revelar seu segredo aos profetas, seus servos."
+    },
+    {
+      "numero": 8,
+      "texto": "O leão ruge, quem não temerá? O Senhor Javé fala: quem não profetizará?",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Proclamai este oráculo nos palácios de Azoto, nos palácios do Egito. Clamai: “Juntai-vos nos montes da Samaria, e vede quantas desordens há nessa cidade, quanta violência se pratica no seu seio!”.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Não sabem fazer o que é reto – oráculo do Senhor – amontoam em seus palácios (o fruto) de suas violências e de seus roubos.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Por isso, assim diz o Senhor Javé: Eis o inimigo a invadir a terra! Ele aniquilará a tua força; teus palácios serão pilhados."
+    },
+    {
+      "numero": 12,
+      "texto": "Oráculo do Senhor: O pastor só consegue arrancar da boca do leão duas pernas e uma ponta de orelha; assim serão salvos os filhos de Israel que habitam em Samaria, reclinados em sofás, em almofadas de Damasco."
+    },
+    {
+      "numero": 13,
+      "texto": "Ouvi isto, e declarai-o à casa de Jacó, diz o Senhor Javé, Deus dos exércitos:"
+    },
+    {
+      "numero": 14,
+      "texto": "No dia em que eu punir Israel por seus crimes, punirei os altares de Betel: os chifres do altar serão quebrados e cairão por terra.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Derrubarei a residência de inverno e a residência de verão; as moradas de marfim serão destruídas, muitas casas serão aniquiladas – oráculo do Senhor.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-2",
+      "texto": "Amós começa com um apelo à nação de Israel, lembrando-os do pacto exclusivo com Deus e como isso os torna responsáveis por uma maior obediência. A escolha de Israel implica uma responsabilidade especial diante de Deus (veja também Deuteronômio 7:6 e 1 Pedro 2:9)."
+    },
+    {
+      "ref": "3:3-8",
+      "texto": "O profeta utiliza uma série de perguntas retóricas para ilustrar a inevitabilidade do juízo de Deus sobre Israel, indicando que os atos de desobediência têm consequências. A revelação de Deus e o cumprimento de Seus planos são inescapáveis, como a ação de um leão que ruge (veja também Isaías 31:4 e Jeremias 25:30)."
+    },
+    {
+      "ref": "3:9-10",
+      "texto": "Deus convoca as nações vizinhas a observar o que está acontecendo em Israel, pois a nação foi corrompida e violou os princípios divinos. A corrupção moral e a injustiça têm repercussões não apenas para Israel, mas para o mundo todo (veja também Ezequiel 22:1-4 e Jeremias 5:30-31)."
+    },
+    {
+      "ref": "3:11-15",
+      "texto": "Amós anuncia que a invasão estrangeira será o instrumento do juízo divino. O juízo será inescapável, afetando todas as áreas da sociedade israelita, desde as casas luxuosas até os altares idólatras. Isso reflete a totalidade da quebra de aliança com Deus (veja também Isaías 5:8-10 e 2 Reis 17:5-6)."
+    },
+    {
+      "ref": "3:16-18",
+      "texto": "A destruição de Israel será uma consequência direta da quebra da aliança e das injustiças cometidas. Mesmo os remanescentes da nação sofrerão, e Deus promete um julgamento final. A correção e disciplina de Deus têm o objetivo de chamar o povo ao arrependimento (veja também Hebreus 12:5-11 e Apocalipse 3:19)."
+    }
+  ]
+}

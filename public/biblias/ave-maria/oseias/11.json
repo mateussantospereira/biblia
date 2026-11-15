@@ -1,0 +1,84 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "oseias",
+  "nome": "Oséias",
+  "testamento": "AT",
+  "capitulo": 11,
+  "totalVersiculos": 11,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/oseias/11/",
+  "capturadoEm": "2026-11-15T09:24:39-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Israel era ainda criança, e já eu o amava, e do Egito chamei meu filho."
+    },
+    {
+      "numero": 2,
+      "texto": "Mas, quanto mais os chamei, mais se afastaram; ofereceram sacrifícios aos Baals e queimaram ofertas aos ídolos."
+    },
+    {
+      "numero": 3,
+      "texto": "Eu, entretanto, ensinava Efraim a andar, tomava-o nos meus braços, mas não compreenderam que eu cuidava deles."
+    },
+    {
+      "numero": 4,
+      "texto": "Segurava-os com laços humanos, com laços de amor; fui para eles como o que tira da boca uma rédea, e dei-lhes alimento.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "Ele voltará para o Egito e o assírio será seu rei, porque não quiseram voltar-se para mim.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "A espada devastará suas cidades, destruirá seus filhos, que colherão assim o fruto de suas obras."
+    },
+    {
+      "numero": 7,
+      "texto": "Meu povo é inclinado a separar-se de mim, convidam-no a subir para o Altíssimo, mas ninguém procura elevar-se.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Como poderia eu abandonar-te, ó Efraim, ou trair-te, ó Israel? Como poderia eu tratar-te como Adama, ou tornar-te como Seboim? Meu coração se revolve dentro de mim, eu me comovo de dó e compaixão.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Não darei curso ao ardor de minha cólera, já não destruirei Efraim, porque sou Deus e não um homem, sou o Santo no meio de ti, e não gosto de destruir."
+    },
+    {
+      "numero": 10,
+      "texto": "Eles seguirão o Senhor, que rugirá como um leão; ao seu rugido tremerão os filhos do Ocidente;"
+    },
+    {
+      "numero": 11,
+      "texto": "os egípcios tremerão como uma ave, e os assírios, como uma pomba. Eu os farei habitar em suas casas – oráculo do Senhor.",
+      "nota": true
+    }
+  ],
+  "notas": [
+    {
+      "ref": "11:1-4",
+      "texto": "Deus expressa Seu amor por Israel, comparando-o a um filho que Ele chamou e educou. O amor divino é incondicional, mas Israel, apesar de ter sido cuidado por Deus, se afastou e se entregou à idolatria (veja também Êxodo 4:22-23 e Jeremias 31:3)."
+    },
+    {
+      "ref": "11:5-7",
+      "texto": "O juízo de Deus sobre Israel é inevitável devido à sua infidelidade. Deus lamenta a perda de Seu povo, mas a justiça divina será cumprida. O povo continuará a se rebelar, mas Deus não desistirá completamente de sua restauração (veja também Amós 5:14-15 e Isaías 5:24)."
+    },
+    {
+      "ref": "11:8-9",
+      "texto": "Deus expressa uma dúvida interna sobre o juízo contra Israel, mostrando Sua misericórdia e desejo de não destruir completamente Seu povo. Ele declara que, apesar do juízo, Sua compaixão prevalecerá, e Israel não será totalmente consumido (veja também Jeremias 31:20 e Isaías 54:7-8)."
+    },
+    {
+      "ref": "11:10-11",
+      "texto": "Deus promete restaurar Israel no futuro, reunindo-os de volta à terra prometida. O amor divino será manifestado na restauração de Sua nação, um reflexo da esperança messiânica e da redenção através de Cristo (veja também Isaías 11:11-12 e Mateus 23:37-39)."
+    },
+    {
+      "ref": "11:12",
+      "texto": "A última nota de Oséias 11 descreve a persistente infidelidade de Efraim e Judá. A referência à constante rebeldia de Israel destaca a dureza do coração humano, mas também a necessidade de um Salvador para trazer a restauração definitiva (veja também Ezequiel 36:22-32 e Mateus 11:28-30)."
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-corintios",
+  "nome": "I Coríntios",
+  "testamento": "NT",
+  "capitulo": 11,
+  "totalVersiculos": 34,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-corintios/11/",
+  "capturadoEm": "2026-11-15T09:28:03-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Tornai-vos os meus imitadores, como eu o sou de Cristo."
+    },
+    {
+      "numero": 2,
+      "texto": "Eu vos felicito, porque em tudo vos lembrais de mim, e guardais as minhas instruções, tais como eu vo-las transmiti."
+    },
+    {
+      "numero": 3,
+      "texto": "Mas quero que saibais que senhor de todo homem é Cristo, senhor da mulher é o homem, senhor de Cristo é Deus."
+    },
+    {
+      "numero": 4,
+      "texto": "Todo homem que ora ou profetiza com a cabeça coberta falta ao respeito ao seu senhor.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "E toda mulher que ora ou profetiza, não tendo coberta a cabeça, falta ao respeito ao seu senhor, porque é como se estivesse rapada.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Se uma mulher não se cobre com um véu, então corte o cabelo. Ora, se é vergonhoso para a mulher ter os cabelos cortados ou a cabeça rapada, então que se cubra com um véu."
+    },
+    {
+      "numero": 7,
+      "texto": "Quanto ao homem, não deve cobrir sua cabeça, porque é imagem e esplendor de Deus; a mulher é o reflexo do homem."
+    },
+    {
+      "numero": 8,
+      "texto": "Com efeito, o homem não foi tirado da mulher, mas a mulher do homem;"
+    },
+    {
+      "numero": 9,
+      "texto": "nem foi o homem criado para a mulher, mas sim a mulher para o homem."
+    },
+    {
+      "numero": 10,
+      "texto": "Por isso, a mulher deve trazer o sinal da submissão sobre sua cabeça, por causa dos anjos.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "Com tudo isso, aos olhos do Senhor, nem o homem existe sem a mulher, nem a mulher sem o homem."
+    },
+    {
+      "numero": 12,
+      "texto": "Pois a mulher foi tirada do homem, porém o homem nasce da mulher, e ambos vêm de Deus."
+    },
+    {
+      "numero": 13,
+      "texto": "Julgai vós mesmos: é decente que uma mulher reze a Deus sem estar coberta com véu?"
+    },
+    {
+      "numero": 14,
+      "texto": "A própria natureza não vos ensina que é uma desonra para o homem usar cabelo comprido?"
+    },
+    {
+      "numero": 15,
+      "texto": "Ao passo que é glória para a mulher uma longa cabeleira, porque lhe foi dada como um véu."
+    },
+    {
+      "numero": 16,
+      "texto": "Se, no entanto, alguém quiser contestar, nós não temos tal costume e nem as igrejas de Deus."
+    },
+    {
+      "numero": 17,
+      "texto": "Fazendo-vos essas advertências, não vos posso louvar a respeito de vossas assembleias que causam mais prejuízo que proveito."
+    },
+    {
+      "numero": 18,
+      "texto": "Em primeiro lugar, ouço dizer que, quando se reúne a vossa assembleia, há desarmonias entre vós. (E em parte eu acredito."
+    },
+    {
+      "numero": 19,
+      "texto": "É necessário que entre vós haja partidos para que possam manifestar-se os que são realmente virtuosos.)"
+    },
+    {
+      "numero": 20,
+      "texto": "Desse modo, quando vos reunis, já não é para comer a ceia do Senhor,",
+      "nota": true
+    },
+    {
+      "numero": 21,
+      "texto": "porquanto, mal vos pondes à mesa, cada um se apressa a tomar sua própria refeição; e enquanto uns têm fome, outros se fartam."
+    },
+    {
+      "numero": 22,
+      "texto": "Porventura não tendes casa onde comer e beber? Ou menosprezais a Igreja de Deus, e quereis envergonhar aqueles que nada têm? Que vos direi? Devo louvar-vos? Não! Nisso não vos louvo..."
+    },
+    {
+      "numero": 23,
+      "texto": "Eu recebi do Senhor o que vos transmiti: que o Senhor Jesus, na noite em que foi traído, tomou o pão"
+    },
+    {
+      "numero": 24,
+      "texto": "e, depois de ter dado graças, partiu-o e disse: “Isto é o meu corpo, que é entregue por vós; fazei isto em memória de mim”."
+    },
+    {
+      "numero": 25,
+      "texto": "Do mesmo modo, depois de haver ceado, tomou também o cálice, dizendo: “Este cálice é a Nova Aliança no meu sangue; todas as vezes que o beberdes, fazei-o em memória de mim”."
+    },
+    {
+      "numero": 26,
+      "texto": "Assim, todas as vezes que comeis desse pão e bebeis desse cálice lembrais a morte do Senhor, até que venha."
+    },
+    {
+      "numero": 27,
+      "texto": "Portanto, todo aquele que comer o pão ou beber o cálice do Senhor indignamente será culpável do corpo e do sangue do Senhor."
+    },
+    {
+      "numero": 28,
+      "texto": "Que cada um se examine a si mesmo e, assim, coma desse pão e beba desse cálice."
+    },
+    {
+      "numero": 29,
+      "texto": "Aquele que o come e o bebe sem distinguir o corpo do Senhor, come e bebe a sua própria condenação."
+    },
+    {
+      "numero": 30,
+      "texto": "Essa é a razão por que entre vós há muitos adoentados e fracos, e muitos mortos.",
+      "nota": true
+    },
+    {
+      "numero": 31,
+      "texto": "Se nos examinássemos a nós mesmos, não seríamos julgados."
+    },
+    {
+      "numero": 32,
+      "texto": "Mas, sendo julgados pelo Senhor, ele nos castiga para não sermos condenados com o mundo."
+    },
+    {
+      "numero": 33,
+      "texto": "Portanto, irmãos meus, quando vos reunis para a ceia, esperai uns pelos outros."
+    },
+    {
+      "numero": 34,
+      "texto": "Se alguém tem fome, coma em casa. Assim vossas reuniões não vos atrairão a condenação. As demais coisas eu determinarei quando for ter convosco."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "11:23-26",
+      "texto": "Paulo relembra a instituição da Ceia do Senhor, enfatizando seu caráter memorial e redentor. A participação digna na Eucaristia é uma declaração pública da morte e ressurreição de Cristo (veja também Lucas 22:19-20 e Mateus 26:26-29)."
+    },
+    {
+      "ref": "11:28-29",
+      "texto": "A autoexaminação antes de participar da Ceia do Senhor é fundamental. A Ceia deve ser recebida com reverência e consciência de seu significado espiritual (veja também 2 Coríntios 13:5 e Lucas 22:32)."
+    }
+  ]
+}

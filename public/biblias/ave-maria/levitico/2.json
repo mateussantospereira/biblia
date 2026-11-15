@@ -1,0 +1,100 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "levitico",
+  "nome": "Levítico",
+  "testamento": "AT",
+  "capitulo": 2,
+  "totalVersiculos": 16,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/levitico/2/",
+  "capturadoEm": "2026-11-15T09:08:43-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "“Quando alguém apresentar ao Senhor uma oblação como oferta, a sua oblação será de flor de farinha; derramará sobre ela azeite, ajuntando também incenso."
+    },
+    {
+      "numero": 2,
+      "texto": "E a levará ao sacerdote, filho de Aarão, o qual tomará um punhado de flor de farinha com azeite, e todo o incenso, e os queimará sobre o altar como um memorial. Esse é um sacrifício consumido pelo fogo, de agradável odor ao Senhor."
+    },
+    {
+      "numero": 3,
+      "texto": "O que sobrar da oblação será para Aarão e seus filhos. É o que há de mais santo entre os sacrifícios feitos pelo fogo ao Senhor."
+    },
+    {
+      "numero": 4,
+      "texto": "Quando ofereceres uma oblação de coisa cozida no forno, farás bolos de flor de farinha sem fermento, amassados com azeite, ou bolachas sem fermento, untadas com azeite."
+    },
+    {
+      "numero": 5,
+      "texto": "Se a oblação que ofereces for algo cozido na assadeira, que seja flor de farinha amassada com azeite, sem fermento."
+    },
+    {
+      "numero": 6,
+      "texto": "Após cortá-la em pedaços, derramarás azeite por cima; isso é uma oblação."
+    },
+    {
+      "numero": 7,
+      "texto": "Se a oblação que ofereces for cozida na grelha, deverá ser flor de farinha com azeite."
+    },
+    {
+      "numero": 8,
+      "texto": "Trarás ao Senhor a oblação assim preparada, e a entregarás ao sacerdote, que a colocará no altar."
+    },
+    {
+      "numero": 9,
+      "texto": "Ele separará da oblação o que deverá ser oferecido como memorial, e o queimará no altar. Esse é um sacrifício consumido pelo fogo, de agradável odor ao Senhor."
+    },
+    {
+      "numero": 10,
+      "texto": "O que sobrar da oblação será para Aarão e seus filhos; isso é o que há de mais santo entre os sacrifícios feitos pelo fogo ao Senhor."
+    },
+    {
+      "numero": 11,
+      "texto": "Qualquer oblação que oferecerdes ao Senhor deverá ser preparada sem fermento: não queimareis nada que contenha fermento ou mel em sacrifício feito pelo fogo ao Senhor."
+    },
+    {
+      "numero": 12,
+      "texto": "Podereis oferecê-lo ao Senhor como oferta de primícias, mas não será colocado no altar como oferta de agradável odor."
+    },
+    {
+      "numero": 13,
+      "texto": "Salgarás todas as tuas oblações; não deixarás faltar à tua oferta o sal da aliança de teu Deus. Porás, pois, sal em todas as tuas ofertas.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Se fizeres ao Senhor uma oferta de primícias, oferecerás espigas tostadas ao fogo, grão tenro moído como oblação de tuas primícias."
+    },
+    {
+      "numero": 15,
+      "texto": "Derramarás azeite por cima, ajuntando também o incenso; essa é uma oblação."
+    },
+    {
+      "numero": 16,
+      "texto": "O sacerdote queimará como memorial uma parte do grão moído e do azeite, além de todo o incenso. Esse é um sacrifício feito pelo fogo ao Senhor.”"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "2:1-3",
+      "texto": "A oferta de cereais era uma oferta de gratidão, representando o sustento que Deus provê. Ao oferecer o fruto da terra, os israelitas reconheciam Deus como fonte de toda provisão (veja também Deuteronômio 26:1-2 e Mateus 6:11)."
+    },
+    {
+      "ref": "2:4-7",
+      "texto": "As ofertas de cereais podiam ser apresentadas de várias formas: assadas, fritas ou cozidas. Isso reflete a flexibilidade no culto a Deus, valorizando o coração por trás do sacrifício, mais do que o ritual (veja também Colossenses 3:17 e Hebreus 13:15)."
+    },
+    {
+      "ref": "2:8-10",
+      "texto": "Parte da oferta de cereais era queimada no altar, enquanto o restante era dado aos sacerdotes. Isso representa o sustento daqueles que serviam no templo e o apoio à obra de Deus (veja também 1 Coríntios 9:13-14 e Números 18:9-10)."
+    },
+    {
+      "ref": "2:11-13",
+      "texto": "Nenhuma oferta de cereal deveria conter fermento, mas deveria ser temperada com sal. O fermento representa a corrupção do pecado, enquanto o sal simboliza a pureza e a preservação da aliança com Deus (veja também Mateus 5:13 e Marcos 9:49-50)."
+    },
+    {
+      "ref": "2:14-16",
+      "texto": "As primícias de grãos novos deveriam ser oferecidas ao Senhor, simbolizando a prioridade de Deus em todas as coisas. O princípio das primícias ensina a dar a Deus o primeiro e o melhor de tudo que temos (veja também Provérbios 3:9 e Romanos 11:16)."
+    }
+  ]
+}

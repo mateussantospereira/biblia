@@ -1,0 +1,38 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "malaquias",
+  "nome": "Malaquias",
+  "testamento": "AT",
+  "capitulo": 4,
+  "totalVersiculos": 6,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/malaquias/4/",
+  "capturadoEm": "2026-11-15T10:02:51-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Porque eis que virá um dia ardente como uma fornalha acesa. Todos os soberbos, todos os que cometem a impiedade serão como a palha; este dia, que está para vir, os abrasará, diz o Senhor dos exércitos, sem lhes deixar nem raiz, nem ramos."
+    },
+    {
+      "numero": 2,
+      "texto": "Mas para vós que temeis o meu nome, nascerá (o Messias) o sol da justiça, que traz a salvação sob as suas asas (ou raias); saireis então e saltareis (alegres) como novilhos ao sair do estábulo."
+    },
+    {
+      "numero": 3,
+      "texto": "Calcareis os ímpios, que serão como cinza debaixo da planta de vossos pés, nesse dia em que eu agir, diz o Senhor dos exércitos."
+    },
+    {
+      "numero": 4,
+      "texto": "Lembrai-Vos da lei de Moisés, meu servo, a quem dei em Horeb, para todo o Israel, os meus preceitos e mandamentos."
+    },
+    {
+      "numero": 5,
+      "texto": "Eis que vos enviarei o profeta Elias, antes que venha o dia grande e horrível do Senhor."
+    },
+    {
+      "numero": 6,
+      "texto": "Ele converterá o coração dos pais aos filhos, e o coração dos filhos a seus pais, para não suceder que eu venha e fira a terra com anátema. (ver nota)"
+    }
+  ],
+  "notas": []
+}

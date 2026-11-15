@@ -1,0 +1,99 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "jo",
+  "nome": "Jó",
+  "testamento": "AT",
+  "capitulo": 17,
+  "totalVersiculos": 16,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/jo/17/",
+  "capturadoEm": "2026-11-15T09:51:36-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O sopro da minha vida vai-se consumindo, os meus dias se extinguem e só me resta o sepulcro"
+    },
+    {
+      "numero": 2,
+      "texto": "Cercam-me escarnecedores, os meus olhos têm de ver os seus escárnios."
+    },
+    {
+      "numero": 3,
+      "texto": "Livra-me, Senhor, e põe-me junto de ti, e (então) combata contra mim a mão de quem quer que for."
+    },
+    {
+      "numero": 4,
+      "texto": "Tu afastaste da inteligência o seu coração, por isso não serão exaltados. (ver nota)"
+    },
+    {
+      "numero": 5,
+      "texto": "Há quem prometa a presa aos companheiros, quando os olhos de seus filhos desfalecem. (ver nota)"
+    },
+    {
+      "numero": 6,
+      "texto": "Ele me reduziu a ser objecto de riso do povo, sou um (homem) a quem se cospe no rosto."
+    },
+    {
+      "numero": 7,
+      "texto": "Os meus olhos escureceram-se de amargura, todos os meus membros são como uma sombra."
+    },
+    {
+      "numero": 8,
+      "texto": "Os justos pasmam disto (que me acontece), e o inocente se levanta contra o ímpio. (ver nota)"
+    },
+    {
+      "numero": 9,
+      "texto": "Mas o justo persistirá no seu caminho, e aquele que tem as mãos puras crescerá em fortaleza."
+    },
+    {
+      "numero": 10,
+      "texto": "Voltai, enfim, vós todos, vinde; não acharei entre vós nenhum sapiente? (ver nota)"
+    },
+    {
+      "numero": 11,
+      "texto": "Os meus dias passaram, os meus projetos ruíram, os projetos queridos do meu coração."
+    },
+    {
+      "numero": 12,
+      "texto": "Tornam a noite em dia; em face das trevas (dizem que) a luz está próxima."
+    },
+    {
+      "numero": 13,
+      "texto": "Ainda que eu espere com paciência, o sepulcro será a minha casa, e tenho preparado o meu leito nas trevas."
+    },
+    {
+      "numero": 14,
+      "texto": "Eu disse à podridão: Tu és meu pai! E aos vermes: Vós sois minha mãe e minha irmã."
+    },
+    {
+      "numero": 15,
+      "texto": "Onde está, pois, agora a minha esperança? E a minha felicidade, quem a pode ver?"
+    },
+    {
+      "numero": 16,
+      "texto": "Todas as minhas coisas descerão ao mais profundo do sepulcro; e julgas tu que eu, ao menos neste lugar, terei descanso?"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "17:1-2",
+      "texto": "Jó expressa seu desespero e a fragilidade de sua saúde. Ele se sente como um homem abandonado e isolado, refletindo a profunda dor emocional e física que enfrenta. A vulnerabilidade humana diante do sofrimento é um tema central neste capítulo (veja também Salmo 38:4 e Salmo 102:7-8)."
+    },
+    {
+      "ref": "17:3-4",
+      "texto": "Jó pede a Deus que se torne fiador por ele, revelando sua confiança nas promessas divinas, mesmo em meio ao sofrimento. Este desejo de um advogado diante de Deus ressalta a necessidade humana de intercessão e esperança na justiça (veja também Hebreus 7:25 e Romanos 8:34)."
+    },
+    {
+      "ref": "17:5-6",
+      "texto": "Ele menciona como aqueles que traem seus amigos, enfatizando a traição que frequentemente ocorre nas relações humanas, especialmente em tempos de crise. Essa observação mostra a necessidade de lealdade e apoio em momentos difíceis (veja também Provérbios 17:17 e Gálatas 6:2)."
+    },
+    {
+      "ref": "17:7-9",
+      "texto": "Apesar de sua situação desesperadora, Jó mantém sua integridade e acredita que seu testemunho permanecerá firme. A perseverança em meio às adversidades é um princípio vital na vida de fé (veja também Tiago 1:12 e 1 Pedro 1:6-7)."
+    },
+    {
+      "ref": "17:10-16",
+      "texto": "Jó reflete sobre a morte e a inevitabilidade do destino humano, expressando sua esperança em ver a luz de Deus mesmo após a morte. Este reconhecimento da fragilidade da vida e da esperança na eternidade é um tema recorrente nas Escrituras (veja também Salmo 49:15 e João 11:25-26)."
+    }
+  ]
+}

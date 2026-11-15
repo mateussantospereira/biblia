@@ -1,0 +1,80 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 146,
+  "totalVersiculos": 11,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/146/",
+  "capturadoEm": "2026-11-15T09:18:33-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Salmo. Louvai o Senhor porque ele é bom; cantai ao nosso Deus porque ele é amável, e o louvor lhe convém.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "O Senhor reconstrói Jerusalém, e congrega os dispersos de Israel."
+    },
+    {
+      "numero": 3,
+      "texto": "Ele cura os que têm o coração ferido, e cuida-lhes das chagas."
+    },
+    {
+      "numero": 4,
+      "texto": "É ele que fixa o número das estrelas, e designa cada uma por seu nome."
+    },
+    {
+      "numero": 5,
+      "texto": "Grande é o Senhor nosso e poderosa a sua força; sua sabedoria não tem limites."
+    },
+    {
+      "numero": 6,
+      "texto": "O Senhor eleva os humildes, mas abate os ímpios até a terra."
+    },
+    {
+      "numero": 7,
+      "texto": "Cantai ao Senhor um cântico de gratidão, cantai ao nosso Deus com a harpa."
+    },
+    {
+      "numero": 8,
+      "texto": "A ele que cobre os céus de nuvens, que faz cair a chuva à terra; a ele que faz crescer a relva nas montanhas, e germinar plantas úteis para o homem."
+    },
+    {
+      "numero": 9,
+      "texto": "Que dá sustento aos rebanhos, aos filhotes dos corvos que por ele clamam."
+    },
+    {
+      "numero": 10,
+      "texto": "Não é o vigor do cavalo que lhe agrada, nem ele se compraz nos jarretes do corredor."
+    },
+    {
+      "numero": 11,
+      "texto": "Agradam ao Senhor somente os que o temem, e confiam em sua misericórdia."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "146:1-2",
+      "texto": "O salmista inicia o salmo com uma declaração de louvor a Deus, destacando a importância de confiar no Senhor e não nos homens. Essa confiança deve ser um princípio fundamental da fé (veja também Salmo 111:1 e Jeremias 17:5-7)."
+    },
+    {
+      "ref": "146:3-4",
+      "texto": "O salmo adverte contra confiar em príncipes e líderes humanos, que são temporários e falíveis. Essa mensagem enfatiza a fragilidade das certezas humanas e a necessidade de confiar no Senhor (veja também Salmo 118:8-9 e Isaías 2:22)."
+    },
+    {
+      "ref": "146:5-7",
+      "texto": "A verdadeira felicidade vem de confiar em Deus, que é o Criador e Redentor. Deus é descrito como aquele que faz justiça e cuida dos necessitados, o que nos inspira a agir com compaixão (veja também Salmo 146:9 e Mateus 5:7)."
+    },
+    {
+      "ref": "146:8-10",
+      "texto": "O Senhor abre os olhos dos cegos e levanta os oprimidos, demonstrando Seu amor e cuidado pelas pessoas em necessidade. Isso destaca o caráter redentor de Deus e a missão da Igreja de seguir Seu exemplo (veja também Lucas 4:18 e Mateus 25:40)."
+    },
+    {
+      "ref": "146:10",
+      "texto": "O Senhor reinará para sempre, reafirmando Sua soberania eterna. Esta verdade nos dá esperança e segurança, mesmo em tempos de incerteza. A confiança em Deus é fundamental para uma vida de fé (veja também Salmo 93:1 e Apocalipse 11:15)."
+    }
+  ]
+}

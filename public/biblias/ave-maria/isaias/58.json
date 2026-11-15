@@ -1,0 +1,96 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 58,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/58/",
+  "capturadoEm": "2026-11-15T09:22:12-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Clama em alta voz, sem constrangimento; faze soar a tua voz como a corneta. Denuncia a meu povo suas faltas, e à casa de Jacó seus pecados.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Sem dúvida, eles me procuram dia após dia, desejam conhecer o comportamento que me agrada, como uma nação que houvesse sempre praticado a justiça, sem abandonar a Lei de seu Deus. Informam-se junto a mim sobre as exigências da justiça, desejam a presença de Deus."
+    },
+    {
+      "numero": 3,
+      "texto": "“De que serve jejuar, se com isso não vos importais? E mortificar-nos, se nisso não prestais atenção?” É que no dia de vosso jejum, só cuidais de vossos negócios, e oprimis todos os vossos operários.",
+      "nota": true
+    },
+    {
+      "numero": 4,
+      "texto": "Passais vosso jejum em disputas e altercações, ferindo com o punho o pobre. Não é jejuando assim que fareis chegar lá em cima vossa voz.",
+      "nota": true
+    },
+    {
+      "numero": 5,
+      "texto": "O jejum que me agrada porventura consiste em o homem mortificar-se por um dia? Curvar a cabeça como um junco, deitar sobre o saco e a cinza? Podeis chamar isso um jejum, um dia agradável ao Senhor?"
+    },
+    {
+      "numero": 6,
+      "texto": "Sabeis qual é o jejum que eu aprecio? – diz o Senhor Deus: é romper as cadeias injustas, desatar as cordas do jugo, mandar embora livres os oprimidos, e quebrar toda espécie de jugo."
+    },
+    {
+      "numero": 7,
+      "texto": "É repartir seu alimento com o esfaimado, dar abrigo aos infelizes sem asilo, vestir os maltrapilhos, em lugar de desviar-se de seu semelhante."
+    },
+    {
+      "numero": 8,
+      "texto": "Então, tua luz surgirá como a aurora, e tuas feridas não tardarão a cicatrizar-se; tua justiça caminhará diante de ti, e a glória do Senhor seguirá na tua retaguarda."
+    },
+    {
+      "numero": 9,
+      "texto": "Então, às tuas invocações, o Senhor responderá, e a teus gritos dirá: “Eis-me aqui!”. Se expulsares de tua casa toda a opressão, os gestos malévolos e as más conversações;",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "se deres do teu pão ao faminto, se alimentares os pobres, tua luz se levantará na escuridão, e tua noite resplandecerá como o dia pleno."
+    },
+    {
+      "numero": 11,
+      "texto": "O Senhor te guiará constantemente, ele te alimentará no árido deserto, renovará teu vigor. Serás como um jardim bem irrigado, como uma fonte de águas inesgotáveis."
+    },
+    {
+      "numero": 12,
+      "texto": "Reerguerás as ruínas antigas, reedificarás sobre os alicerces seculares; te chamarão o reparador de brechas, o restaurador das moradias em ruínas."
+    },
+    {
+      "numero": 13,
+      "texto": "Se te abstiveres de calcar aos pés o sábado, de cuidar de teus negócios no dia que me é consagrado, se achares o sábado um dia maravilhoso, se achares respeitável o dia consagrado ao Senhor, se tu o venerares não seguindo os teus caminhos, não te entregando às tuas ocupações e às conversações,",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "então, encontrarás tua felicidade no Senhor: eu te farei galgar as alturas da terra, e gozar a herança de Jacó, teu pai; porque a boca do Senhor falou."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "58:1-5",
+      "texto": "Deus condena os jejuns hipócritas do povo, que praticam rituais externos sem verdadeiro arrependimento. O verdadeiro jejum envolve mudança de coração e ação justa (veja também Mateus 6:16-18 e Amós 5:21-24)."
+    },
+    {
+      "ref": "58:6-7",
+      "texto": "O verdadeiro jejum, segundo Deus, é libertar os oprimidos, alimentar os famintos e abrigar os desabrigados. Esse chamado enfatiza a prática da justiça e do amor ao próximo (veja também Tiago 1:27 e Mateus 25:35-36)."
+    },
+    {
+      "ref": "58:8-9",
+      "texto": "Deus promete cura, proteção e resposta às orações para aqueles que praticam o jejum verdadeiro. Suas bênçãos acompanham a justiça e a caridade (veja também Provérbios 19:17 e Lucas 6:38)."
+    },
+    {
+      "ref": "58:10-11",
+      "texto": "A generosidade e o cuidado pelos necessitados resultam em orientação contínua de Deus, satisfação em tempos difíceis e restauração espiritual (veja também Salmo 23:1-3 e 2 Coríntios 9:8)."
+    },
+    {
+      "ref": "58:13-14",
+      "texto": "Deus destaca a importância de honrar o sábado como um dia santo. Aqueles que se deleitam no Senhor experimentarão Sua alegria e bênçãos (veja também Êxodo 20:8-11 e Mateus 12:8)."
+    }
+  ]
+}

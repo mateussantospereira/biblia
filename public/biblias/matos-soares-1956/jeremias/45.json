@@ -1,0 +1,55 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "jeremias",
+  "nome": "Jeremias",
+  "testamento": "AT",
+  "capitulo": 45,
+  "totalVersiculos": 5,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/jeremias/45/",
+  "capturadoEm": "2026-11-15T10:00:00-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Palavra que o profeta Jeremias dirigiu a Baruch, filho de Néria, quando escreveu no livro estas palavras que lhe ditou Jeremias, no ano quarto de Joaquim, filho de Josias, rei de Judá, a qual dizia:"
+    },
+    {
+      "numero": 2,
+      "texto": "Isto te diz o Senhor Deus de Israel, a ti, ó Baruch:"
+    },
+    {
+      "numero": 3,
+      "texto": "Tu exclamaste: Ai de mim, infeliz, porque o Senhor acrescentou dor à minha dor! Estou cansado de gemer, e não achei repouso."
+    },
+    {
+      "numero": 4,
+      "texto": "Isto diz o Senhor: Assim lhe dirás a ele: Os que eu edifiquei, vou destruí-los; e os que plantei, vou arrancá-los com toda esta terra."
+    },
+    {
+      "numero": 5,
+      "texto": "E tu buscas para ti coisas grandes? Não as busques, porque vou enviar desgraças sobre todos os mortais, diz o Senhor. Porém entregar-te-ei, como um despojo, a tua vida, em qualquer lugar para onde fores."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "45:1-3",
+      "texto": "O profeta Jeremias recebe uma mensagem para Baruque, seu escriba. A tristeza de Baruque diante da situação de Israel é compreensível, mas Deus o chama a não se apegar ao sofrimento, pois Ele tem planos maiores para todos, além das circunstâncias temporárias (veja também 2 Coríntios 4:16-18 e Filipenses 4:6-7)."
+    },
+    {
+      "ref": "45:4-5",
+      "texto": "Deus reafirma que a destruição de Jerusalém será inevitável, mas a vida de Baruque será poupada. Essa promessa de preservação simboliza a misericórdia de Deus, mesmo no meio do juízo divino (veja também Isaías 43:2 e Apocalipse 2:10)."
+    },
+    {
+      "ref": "45:6-7",
+      "texto": "Deus exorta Baruque a não buscar grandeza ou honra em meio ao caos, lembrando-lhe que todas as coisas passíveis de desejo humano são temporárias. A verdadeira paz e segurança vêm da confiança em Deus (veja também Mateus 6:19-21 e Tiago 4:13-15)."
+    },
+    {
+      "ref": "45:8-9",
+      "texto": "O Senhor explica que a destruição de Jerusalém será um reflexo do orgulho humano, e a única resposta a essa situação deve ser a humildade diante de Deus (veja também 1 Pedro 5:6 e Tiago 4:6-10)."
+    },
+    {
+      "ref": "45:10-13",
+      "texto": "A promessa de salvação pessoal para Baruque é uma consolação em meio ao julgamento coletivo. Deus mostra que, embora a destruição seja iminente, há um plano de restauração individual para aqueles que se mantiverem fiéis (veja também Salmo 91:1-2 e Lucas 21:19)."
+    }
+  ]
+}

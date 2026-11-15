@@ -1,0 +1,79 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ii-tessalonicenses",
+  "nome": "II Tessalonicenses",
+  "testamento": "NT",
+  "capitulo": 1,
+  "totalVersiculos": 12,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ii-tessalonicenses/1/",
+  "capturadoEm": "2026-11-15T09:28:48-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Paulo, Silvano e Timóteo à igreja dos tessalonicenses, reunida em Deus, nosso Pai, e no Senhor Jesus Cristo."
+    },
+    {
+      "numero": 2,
+      "texto": "A vós, graça e paz da parte de Deus Pai e do Senhor Jesus Cristo!"
+    },
+    {
+      "numero": 3,
+      "texto": "Sentimo-nos na obrigação de incessantemente dar graças a Deus a respeito de vós, irmãos. Aliás, com muita razão, visto que a vossa fé vai progredindo sempre mais e desenvolvendo-se a caridade que tendes uns para com os outros."
+    },
+    {
+      "numero": 4,
+      "texto": "De sorte que nos gloriamos de vós nas igrejas de Deus, pela vossa constância e fidelidade no meio de todas as perseguições e tribulações que sofreis."
+    },
+    {
+      "numero": 5,
+      "texto": "Elas constituem um indício do justo juízo de Deus e de que sereis considerados dignos do Reino de Deus, pelo qual padeceis."
+    },
+    {
+      "numero": 6,
+      "texto": "De fato, justo é que Deus dê em paga aflição àqueles que vos afligem;"
+    },
+    {
+      "numero": 7,
+      "texto": "e a vós, que sois afligidos, o alívio, juntamente conosco, no dia da manifestação do Senhor Jesus. Ele descerá do céu com os mensageiros do seu poder,"
+    },
+    {
+      "numero": 8,
+      "texto": "por entre chamas de fogo, para fazer justiça àqueles que não reconhecem a Deus e aos que não obedecem ao Evangelho de nosso Senhor Jesus."
+    },
+    {
+      "numero": 9,
+      "texto": "Eles sofrerão como castigo a perdição eterna, longe da face do Senhor, e da sua suprema glória."
+    },
+    {
+      "numero": 10,
+      "texto": "Naquele dia ele virá e será a glória dos seus santos e a admiração de todos os fiéis, e vossa também, porque crestes no testemunho que vos demos."
+    },
+    {
+      "numero": 11,
+      "texto": "Nessa esperança, suplicamos incessantemente por vós, para que nosso Deus vos faça dignos da vossa vocação e que leve eficazmente a bom termo todo o vosso zelo pelo bem e a atividade de vossa fé."
+    },
+    {
+      "numero": 12,
+      "texto": "Para que seja glorificado o nome de nosso Senhor Jesus em vós, e vós nele, segundo a graça de nosso Deus e do Senhor Jesus Cristo."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:3-4",
+      "texto": "Paulo agradece a Deus pela fé e perseverança dos tessalonicenses em meio às perseguições. O sofrimento é visto como uma oportunidade para crescer espiritualmente e fortalecer a fé (veja também Romanos 5:3-5 e Tiago 1:2-4)."
+    },
+    {
+      "ref": "1:5-6",
+      "texto": "O sofrimento e a perseguição servem como evidência do justo juízo de Deus, que recompensa aqueles que são fiéis a Ele. A tribulação também prepara os fiéis para a glória eterna (veja também 1 Pedro 1:6-7 e Mateus 5:10-12)."
+    },
+    {
+      "ref": "1:7-10",
+      "texto": "A vinda de Jesus é descrita como um evento de julgamento, trazendo retribuição para os que não conhecem a Deus e para os que não obedecem ao evangelho. A promessa de descanso para os cristãos é central neste trecho (veja também Apocalipse 6:10-11 e 2 Tessalonicenses 2:8)."
+    },
+    {
+      "ref": "1:11-12",
+      "texto": "Paulo ora para que os tessalonicenses sejam dignos da vocação de Deus, e que sejam fortalecidos em sua fé. O poder de Deus os sustenta e os capacita para viver de maneira que glorifique o nome de Jesus (veja também Filipenses 1:11 e Colossenses 1:11-12)."
+    }
+  ]
+}

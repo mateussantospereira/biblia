@@ -1,0 +1,125 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 102,
+  "totalVersiculos": 22,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/102/",
+  "capturadoEm": "2026-11-15T09:17:48-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Salmo de Davi. Bendize, ó minha alma, o Senhor, e tudo o que existe em mim bendiga o seu santo nome.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Bendize, ó minha alma, o Senhor, e jamais te esqueças de todos os seus benefícios."
+    },
+    {
+      "numero": 3,
+      "texto": "É ele que perdoa as tuas faltas, e sara as tuas enfermidades."
+    },
+    {
+      "numero": 4,
+      "texto": "É ele que salva tua vida da morte, e te coroa de bondade e de misericórdia."
+    },
+    {
+      "numero": 5,
+      "texto": "É ele que cumula de benefícios a tua vida, e renova a tua juventude como a da águia."
+    },
+    {
+      "numero": 6,
+      "texto": "O Senhor faz justiça, dá o direito aos oprimidos."
+    },
+    {
+      "numero": 7,
+      "texto": "Revelou seus caminhos a Moisés, e suas obras aos filhos de Israel."
+    },
+    {
+      "numero": 8,
+      "texto": "O Senhor é bom e misericordioso, lento para a cólera e cheio de clemência.",
+      "nota": true
+    },
+    {
+      "numero": 9,
+      "texto": "Ele não está sempre a repreender, nem eterno é o seu ressentimento."
+    },
+    {
+      "numero": 10,
+      "texto": "Não nos trata segundo os nossos pecados, nem nos castiga em proporção de nossas faltas,"
+    },
+    {
+      "numero": 11,
+      "texto": "porque tanto os céus distam da terra quanto sua misericórdia é grande para os que o temem;"
+    },
+    {
+      "numero": 12,
+      "texto": "tanto o oriente dista do ocidente quanto ele afasta de nós nossos pecados."
+    },
+    {
+      "numero": 13,
+      "texto": "Como um pai tem piedade de seus filhos, assim o Senhor tem compaixão dos que o temem,"
+    },
+    {
+      "numero": 14,
+      "texto": "porque ele sabe de que é que somos feitos, e não se esquece de que somos pó."
+    },
+    {
+      "numero": 15,
+      "texto": "Os dias do homem são semelhantes a erva, ele floresce como a flor dos campos."
+    },
+    {
+      "numero": 16,
+      "texto": "Apenas sopra o vento, já não existe, e nem se conhece mais o seu lugar."
+    },
+    {
+      "numero": 17,
+      "texto": "É eterna, porém, a misericórdia do Senhor para com os que o temem. E sua justiça se estende aos filhos de seus filhos,"
+    },
+    {
+      "numero": 18,
+      "texto": "sobre os que guardam a sua aliança, e, lembrando, cumprem seus mandamentos."
+    },
+    {
+      "numero": 19,
+      "texto": "Nos céus estabeleceu o Senhor o seu trono, e o seu império se estende sobre o universo."
+    },
+    {
+      "numero": 20,
+      "texto": "Bendizei o Senhor todos os seus anjos, valentes heróis que cumpris suas ordens, sempre dóceis à sua palavra."
+    },
+    {
+      "numero": 21,
+      "texto": "Bendizei o Senhor todos os seus exércitos, ministros que executais sua vontade."
+    },
+    {
+      "numero": 22,
+      "texto": "Bendizei o Senhor todas as suas obras, em todos os lugares onde ele domina. Bendize, ó minha alma, o Senhor."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "102:1-2",
+      "texto": "O salmista clama a Deus em sua angústia, buscando a ajuda divina em meio ao sofrimento. Esse lamento expressa a confiança de que Deus ouve e responde às orações dos aflitos (veja também Salmo 18:6 e Isaías 65:24)."
+    },
+    {
+      "ref": "102:3-7",
+      "texto": "O salmista descreve seu sofrimento físico e emocional, comparando-se a uma sombra que se vai. A imagem do sofrimento humano e da fragilidade da vida é um tema comum nos salmos de lamentação (veja também Jó 7:6-7 e Salmo 39:4-5)."
+    },
+    {
+      "ref": "102:12-13",
+      "texto": "Apesar de seu sofrimento, o salmista reconhece a eternidade de Deus. Ele confia que o Senhor se levantará em favor de Sião, reafirmando a fidelidade de Deus à Sua aliança com Seu povo (veja também Salmo 90:1-2 e Isaías 40:28-31)."
+    },
+    {
+      "ref": "102:17-20",
+      "texto": "Deus ouve o clamor dos necessitados e intervém para salvar os prisioneiros. O salmista destaca a compaixão de Deus para com os aflitos e Sua disposição em libertar aqueles que estão em cativeiro (veja também Salmo 34:17-18 e Lucas 4:18-19)."
+    },
+    {
+      "ref": "102:25-27",
+      "texto": "A eternidade de Deus é contrastada com a transitoriedade da criação. O salmista ressalta que, embora o mundo físico envelheça e passe, Deus permanece imutável e eterno, uma verdade que traz consolo e esperança (veja também Hebreus 1:10-12 e Apocalipse 21:1-4)."
+    }
+  ]
+}

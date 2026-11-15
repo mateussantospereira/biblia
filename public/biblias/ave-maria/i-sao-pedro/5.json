@@ -1,0 +1,85 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-sao-pedro",
+  "nome": "I São Pedro",
+  "testamento": "NT",
+  "capitulo": 5,
+  "totalVersiculos": 14,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-sao-pedro/5/",
+  "capturadoEm": "2026-11-15T09:29:27-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eis a exortação que dirijo aos anciãos que estão entre vós; porque sou ancião como eles, fui testemunha dos sofrimentos de Cristo e serei participante com eles daquela glória que se há de manifestar.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Velai sobre o rebanho de Deus, que vos é confiado. Tende cuidado dele, não constrangidos, mas espontaneamente; não por amor de interesse sórdido, mas com dedicação;"
+    },
+    {
+      "numero": 3,
+      "texto": "não como dominadores absolutos sobre as comunidades que vos são confiadas, mas como modelos do vosso rebanho."
+    },
+    {
+      "numero": 4,
+      "texto": "E, quando aparecer o supremo Pastor, recebereis a coroa imperecível de glória."
+    },
+    {
+      "numero": 5,
+      "texto": "Semelhantemente, vós outros que sois mais jovens, sede submissos aos anciãos. Todos vós, em vosso mútuo tratamento, revesti-vos de humildade; porque Deus resiste aos soberbos, mas dá a sua graça aos humildes (Pr 3,34)."
+    },
+    {
+      "numero": 6,
+      "texto": "Humilhai-vos, pois, debaixo da poderosa mão de Deus, para que ele vos exalte no tempo oportuno."
+    },
+    {
+      "numero": 7,
+      "texto": "Confiai-lhe todas as vossas preocupações, porque ele tem cuidado de vós."
+    },
+    {
+      "numero": 8,
+      "texto": "Sede sóbrios e vigiai. Vosso adversário, o demônio, anda ao redor de vós como o leão que ruge, buscando a quem devorar."
+    },
+    {
+      "numero": 9,
+      "texto": "Resisti-lhe fortes na fé. Vós sabeis que os vossos irmãos, que estão espalhados pelo mundo, sofrem os mesmos padecimentos que vós."
+    },
+    {
+      "numero": 10,
+      "texto": "O Deus de toda graça, que vos chamou em Cristo à sua eterna glória, depois que tiverdes padecido um pouco, vos aperfeiçoará, vos tornará inabaláveis, vos fortificará."
+    },
+    {
+      "numero": 11,
+      "texto": "A ele o poder na eternidade! Amém."
+    },
+    {
+      "numero": 12,
+      "texto": "Por meio de Silvano, que estimo como a um irmão fiel, vos escrevi essas poucas palavras. Minha intenção é de admoestar-vos e assegurar-vos que essa é a verdadeira graça de Deus, na qual estais firmes."
+    },
+    {
+      "numero": 13,
+      "texto": "A igreja escolhida da Babilônia saúda-vos, assim como também Marcos, meu filho.",
+      "nota": true
+    },
+    {
+      "numero": 14,
+      "texto": "Saudai-vos uns aos outros com o ósculo afeuoso. A paz esteja com todos vós que estais em Cristo."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "5:1-4",
+      "texto": "Pedro instrui os presbíteros a pastorearem o rebanho de Deus com zelo e humildade. A liderança na Igreja é um serviço de amor, não de domínio sobre os outros, e é recompensada quando Cristo retornar (veja também Atos 20:28 e 1 Timóteo 3:1-7)."
+    },
+    {
+      "ref": "5:5-7",
+      "texto": "Os cristãos devem se vestir de humildade uns para com os outros, reconhecendo a soberania de Deus. A ansiedade deve ser lançada sobre Deus, que cuida de cada um com carinho e atenção (veja também Filipenses 4:6-7 e Provérbios 3:34)."
+    },
+    {
+      "ref": "5:8-11",
+      "texto": "Pedro adverte os cristãos a estarem alertas e vigilantes, pois o diabo está em busca de quem devorar. A resistência ao inimigo é fortalecida pela fé e pela confiança na graça de Deus (veja também Tiago 4:7 e Efésios 6:10-13)."
+    }
+  ]
+}

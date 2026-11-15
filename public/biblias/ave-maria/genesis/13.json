@@ -1,0 +1,107 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "genesis",
+  "nome": "Gênesis",
+  "testamento": "AT",
+  "capitulo": 13,
+  "totalVersiculos": 18,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/genesis/13/",
+  "capturadoEm": "2026-11-15T09:07:06-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Abrão voltou do Egito para Negueb com sua mulher e tudo o que lhe pertencia. Ló o acompanhava."
+    },
+    {
+      "numero": 2,
+      "texto": "Abrão era muito rico em rebanhos, prata e ouro."
+    },
+    {
+      "numero": 3,
+      "texto": "Ele foi de acampamento em acampamento de Negueb até Betel, ao lugar onde já uma vez armara sua tenda, entre Betel e Hai,"
+    },
+    {
+      "numero": 4,
+      "texto": "no lugar onde se encontrava o altar que havia edificado antes. Ali invocou o nome do Senhor."
+    },
+    {
+      "numero": 5,
+      "texto": "Ló, que acompanhava Abrão, possuía também ovelhas, bois e tendas,"
+    },
+    {
+      "numero": 6,
+      "texto": "e a região não lhes bastava para aí se estabelecerem juntos."
+    },
+    {
+      "numero": 7,
+      "texto": "Por isso, houve uma contenda entre os pastores dos rebanhos de Abrão e os dos rebanhos de Ló. Os cananeus e os ferezeus habitavam então naquela terra."
+    },
+    {
+      "numero": 8,
+      "texto": "Abrão disse a Ló: “Rogo-te que não haja discórdia entre mim e ti, nem entre nossos pastores, pois somos irmãos."
+    },
+    {
+      "numero": 9,
+      "texto": "Eis aí toda a terra diante de ti; separemo-nos. Se fores para a esquerda, eu irei para a direita; se fores para a direita, eu irei para a esquerda”."
+    },
+    {
+      "numero": 10,
+      "texto": "Ló, levantando os olhos, viu que toda a planície do Jordão era regada de água (o Senhor não tinha ainda destruído Sodoma e Gomorra) como o jardim do Senhor, como a terra do Egito ao lado de Tsoar."
+    },
+    {
+      "numero": 11,
+      "texto": "Ló escolheu toda a planície do Jordão e foi para o oriente. Foi assim que se separaram um do outro."
+    },
+    {
+      "numero": 12,
+      "texto": "Abrão fixou-se na terra de Canaã, e Ló nas cidades da planície, onde levantou suas tendas até Sodoma."
+    },
+    {
+      "numero": 13,
+      "texto": "Ora, os habitantes de Sodoma eram perversos e grandes pecadores diante do Senhor."
+    },
+    {
+      "numero": 14,
+      "texto": "O Senhor disse a Abrão depois que Ló o deixou: “Levanta os olhos, e do lugar onde estás, olha para o norte e para o sul, para o oriente e para o ocidente."
+    },
+    {
+      "numero": 15,
+      "texto": "Toda a terra que vês, eu a darei a ti e aos teus descendentes para sempre."
+    },
+    {
+      "numero": 16,
+      "texto": "Tornarei tua posteridade tão numerosa como o pó da terra: se alguém puder contar os grãos do pó da terra, então poderá contar a tua posteridade."
+    },
+    {
+      "numero": 17,
+      "texto": "Levanta-te, percorre a terra em toda a sua extensão, porque eu te hei de dar”."
+    },
+    {
+      "numero": 18,
+      "texto": "Abrão levantou as suas tendas e veio fixar-se no vale dos carvalhos de Mambré, que estão em Hebron; e ali edificou um altar ao Senhor."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "13:1-4",
+      "texto": "Abraão retorna a Betel, um símbolo de adoração e reconexão com Deus. Isso demonstra a importância de manter uma vida espiritual centrada em Deus, mesmo após desafios e desvios (veja também Salmo 51:10-12 e Mateus 6:33)."
+    },
+    {
+      "ref": "13:5-7",
+      "texto": "A disputa entre os pastores de Abraão e Ló destaca a necessidade de resolver conflitos pacificamente. A abordagem de Abraão em dar a Ló a primeira escolha reflete sua generosidade e fé em que Deus cuidará dele (veja também Filipenses 2:3-4 e Tiago 3:18)."
+    },
+    {
+      "ref": "13:8-9",
+      "texto": "A proposta de Abraão para se separar de Ló revela a importância da harmonia nas relações familiares. A escolha de Ló pela planície do Jordão mostra a tendência humana de escolher com base em aparências, contrastando com a visão espiritual de Abraão (veja também 1 João 2:15-17 e Romanos 8:5)."
+    },
+    {
+      "ref": "13:10-13",
+      "texto": "A descrição da beleza de Sodoma e Gomorra ressalta as armadilhas da atratividade mundana. Essa escolha de Ló, que parece promissora, leva a consequências desastrosas, enfatizando a necessidade de discernimento em decisões importantes (veja também Provérbios 14:12 e Gálatas 6:7)."
+    },
+    {
+      "ref": "13:14-18",
+      "texto": "Deus reafirma as promessas a Abraão após a separação de Ló, destacando que a fidelidade de Abraão é recompensada. Isso ilustra a importância de confiar em Deus, que sempre cuida de Seus servos (veja também Romanos 4:20-21 e Salmo 23:1-3)."
+    }
+  ]
+}

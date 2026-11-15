@@ -1,0 +1,127 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "lamentacoes",
+  "nome": "Lamentações",
+  "testamento": "AT",
+  "capitulo": 5,
+  "totalVersiculos": 22,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/lamentacoes/5/",
+  "capturadoEm": "2026-11-15T09:23:18-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Lembrai-vos, Senhor, do que nos aconteceu. Olhai, considerai nossa humilhação.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Nossa herança passou a mãos estranhas, e nossas casas foram entregues a desconhecidos."
+    },
+    {
+      "numero": 3,
+      "texto": "Órfãos, fomos privados de nossos pais, e nossas mães são como viúvas."
+    },
+    {
+      "numero": 4,
+      "texto": "Somente a preço de dinheiro nos é dado beber; a nossa lenha, devemos pagá-la."
+    },
+    {
+      "numero": 5,
+      "texto": "Carregando o jugo ao pescoço, somos perseguidos, extenuamo-nos, não há trégua para nós!"
+    },
+    {
+      "numero": 6,
+      "texto": "Estendemos a mão ao Egito e à Assíria para obtermos o pão para comer."
+    },
+    {
+      "numero": 7,
+      "texto": "Pecaram nossos pais, e já não existem, e sobre nós caíram os castigos de suas iniquidades."
+    },
+    {
+      "numero": 8,
+      "texto": "Um povo de escravos domina sobre nós. Ninguém nos arrebata de suas mãos."
+    },
+    {
+      "numero": 9,
+      "texto": "Se comemos o pão, é com perigo de nossa vida, por causa da espada que ataca no deserto.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Nossa pele esbraseou-se como ao forno, sob os ardores da fome."
+    },
+    {
+      "numero": 11,
+      "texto": "Foram violadas as mulheres de Sião e as jovens nas cidades de Judá;"
+    },
+    {
+      "numero": 12,
+      "texto": "chefes foram executados pelas mãos dos inimigos que nenhum respeito tiveram pelos anciãos."
+    },
+    {
+      "numero": 13,
+      "texto": "Jovens tiveram que girar a mó, e adolescentes vergaram sob o peso dos fardos de lenha."
+    },
+    {
+      "numero": 14,
+      "texto": "Não se assentam mais às portas os anciãos, deixaram os jovens de dedilhar as cordas da lira.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Fugiu-nos a alegria dos corações; nossas danças se converteram em luto."
+    },
+    {
+      "numero": 16,
+      "texto": "Caiu-nos da cabeça a coroa; desgraçados de nós, porque pecamos."
+    },
+    {
+      "numero": 17,
+      "texto": "Nosso coração ficou amargurado, e nossos olhos toldaram-se de lágrimas,"
+    },
+    {
+      "numero": 18,
+      "texto": "porque o monte Sião foi assolado, e nele andam à solta os chacais."
+    },
+    {
+      "numero": 19,
+      "texto": "Vós, porém, Senhor, sois eterno, e vosso trono subsistirá através dos tempos."
+    },
+    {
+      "numero": 20,
+      "texto": "Por que persistir em esquecer-nos? Por que abandonar-nos para sempre?"
+    },
+    {
+      "numero": 21,
+      "texto": "Reconduzi-nos a vós, Senhor, e voltaremos. Fazei-nos reviver os dias de outrora.",
+      "nota": true
+    },
+    {
+      "numero": 22,
+      "texto": "A menos que nos tenhais abandonado, e que contra nós demasiadamente vos tenhais irritado."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "5:1-2",
+      "texto": "O clamor por misericórdia e a lembrança do sofrimento do povo é apresentado como uma súplica a Deus. O clamor por intervenção divina revela a busca por restauração e reconciliação com Deus, mesmo após a disciplina (veja também Salmo 25:6-7 e Miqueias 7:18-20)."
+    },
+    {
+      "ref": "5:3-5",
+      "texto": "O povo enfrenta a desolação e a perda de sua terra, e a injustiça se espalha. Esses versículos demonstram as consequências do pecado coletivo e a dor da perda de bens materiais e espirituais, uma triste realidade da rebelião contra Deus (veja também 2 Crônicas 36:15-17 e Jeremias 5:19-20)."
+    },
+    {
+      "ref": "5:7-9",
+      "texto": "A geração anterior é responsabilizada pelas falhas, mas as consequências recaem sobre as gerações futuras. Esse lamento reflete a realidade do sofrimento herdado e as consequências das escolhas do passado (veja também Êxodo 20:5 e Jeremias 16:10-13)."
+    },
+    {
+      "ref": "5:10-13",
+      "texto": "A cidade de Jerusalém e seus habitantes estão no meio de uma grande calamidade, sofrendo com a perda de tudo o que conheciam. Isso mostra a profundidade do lamento e a tragédia que ocorre quando a proteção divina é retirada (veja também Isaías 51:19-20 e Lamentações 2:11-12)."
+    },
+    {
+      "ref": "5:19-22",
+      "texto": "O último clamor de Lamentações é uma súplica pela restauração e pela restauração da glória de Deus. Apesar do sofrimento, há um apelo pela renovação e pela presença de Deus na vida do povo, com a esperança de que Ele não os rejeitará para sempre (veja também Isaías 64:1-2 e Jeremias 31:3-4)."
+    }
+  ]
+}

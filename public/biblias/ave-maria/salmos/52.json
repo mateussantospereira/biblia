@@ -1,0 +1,64 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 52,
+  "totalVersiculos": 7,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/52/",
+  "capturadoEm": "2026-11-15T09:16:55-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. Em melodia triste. Hino de Davi.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Diz o insensato em seu coração: “Não há Deus”. Corromperam-se os homens, seu proceder é abominável, não há um só que pratique o bem."
+    },
+    {
+      "numero": 3,
+      "texto": "O Senhor, do alto do céu, observa os filhos dos homens para ver se, acaso, existe alguém sensato que busque a Deus."
+    },
+    {
+      "numero": 4,
+      "texto": "Todos eles, porém, se extraviaram e se perverteram; não há mais ninguém que faça o bem, nem um, nem mesmo um só."
+    },
+    {
+      "numero": 5,
+      "texto": "Não se emendarão esses obreiros do mal? Eles, que devoram meu povo como quem come pão, não invocarão o Senhor?"
+    },
+    {
+      "numero": 6,
+      "texto": "Foram tomados de terror, não havendo nada para temer. Porque Deus dispersou os ossos dos que te assediam; foram confundidos porque Deus os rejeitou."
+    },
+    {
+      "numero": 7,
+      "texto": "Ah, que venha de Sião a salvação de Israel! Quando Deus tiver mudado a sorte de seu povo, Jacó exultará e Israel se alegrará."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "52:1-4",
+      "texto": "O salmista critica a presunção do ímpio que confia em sua riqueza e poder. Essa crítica serve como um lembrete da futilidade de confiar em coisas passageiras em vez de Deus (veja também Salmo 49:16-20 e Jeremias 9:23-24)."
+    },
+    {
+      "ref": "52:5-7",
+      "texto": "O juízo de Deus sobre o ímpio é inevitável; suas ações traiçoeiras o levarão à destruição. O salmista enfatiza a certeza do julgamento divino e a necessidade de viver em retidão (veja também Salmo 1:4-6 e Romanos 2:6-8)."
+    },
+    {
+      "ref": "52:8-9",
+      "texto": "O contraste entre o ímpio e o justo é destacado; enquanto o justo confia em Deus, o ímpio é como um arbusto seco. A fidelidade de Deus é uma fonte de esperança e segurança (veja também Salmo 1:3 e João 15:5)."
+    },
+    {
+      "ref": "52:9",
+      "texto": "O salmista expressa sua gratidão a Deus por Sua bondade, destacando a importância da adoração e do reconhecimento da graça divina. A gratidão é uma resposta natural ao amor de Deus (veja também Salmo 107:1 e Efésios 5:20)."
+    },
+    {
+      "ref": "52:8-9",
+      "texto": "O salmista reafirma sua confiança na misericórdia de Deus e promete louvá-Lo eternamente. Este trecho ressalta a relação de gratidão e adoração entre o ser humano e o Criador (veja também Salmo 86:12 e Apocalipse 22:3-4)."
+    }
+  ]
+}

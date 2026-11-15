@@ -1,0 +1,68 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "i-cronicas",
+  "nome": "I Crônicas",
+  "testamento": "AT",
+  "capitulo": 20,
+  "totalVersiculos": 8,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/i-cronicas/20/",
+  "capturadoEm": "2026-11-15T09:13:20-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "No ano seguinte, no tempo em que os reis costumavam ir para a guerra, Joab, à frente de um poderoso exército, devastou a terra dos amonitas e veio sitiar Rabá. Joab conquistou Rabá e a destruiu."
+    },
+    {
+      "numero": 2,
+      "texto": "Davi tomou a coroa da cabeça de seu rei, a qual pesava um talento de ouro. Estava ornada com uma pedra preciosa e foi colocada na cabeça de Davi. Levou também da cidade muitos despojos."
+    },
+    {
+      "numero": 3,
+      "texto": "Quanto ao povo que lá se encontrava, fê-lo sair e colocou-o em trabalhos de serra, de picaretas de ferro e de machados. Fez o mesmo com todas as cidades dos amonitas. Em seguida, Davi voltou para Jerusalém com todo o seu exército."
+    },
+    {
+      "numero": 4,
+      "texto": "Depois disso, houve um combate em Gazer contra os filisteus. Então Sobocai, o husatita, matou Safai, um dos descendentes de Rafa e os filisteus foram submetidos."
+    },
+    {
+      "numero": 5,
+      "texto": "Houve ainda uma batalha com os filisteus e Elcanã, filho de Jair, matou Lami, irmão de Golias, de Gat, que tinha uma lança cujo cabo parecia um cilindro de tecelões.",
+      "nota": true
+    },
+    {
+      "numero": 6,
+      "texto": "Houve ainda um combate em Gat. Lá havia um homem de alta estatura que tinha seis dedos em cada mão e em cada pé, ao todo vinte e quatro; também ele era da descendência de Rafa."
+    },
+    {
+      "numero": 7,
+      "texto": "Desafiou Israel e Jônatas, filho de Hosama, irmão de Davi, o matou."
+    },
+    {
+      "numero": 8,
+      "texto": "Esses homens eram filhos de Rafa, em Gat. Pereceram pela mão de Davi e de seus servos."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "20:1",
+      "texto": "Joabe lidera os exércitos de Israel e conquista Rabá, enquanto Davi permanece em Jerusalém. Essa conquista mostra o poder de Israel em derrotar seus inimigos e a importância do planejamento estratégico (veja também 2 Samuel 12:26-29 e Salmo 144:1)."
+    },
+    {
+      "ref": "20:2-3",
+      "texto": "Davi toma a coroa do rei de Rabá e a riqueza da cidade. As vitórias militares de Israel resultam em prosperidade e segurança para o povo, destacando a bênção de Deus (veja também Provérbios 21:22 e 2 Samuel 12:30-31)."
+    },
+    {
+      "ref": "20:4-5",
+      "texto": "Os guerreiros de Israel derrotam os gigantes filisteus, incluindo o irmão de Golias. Isso reforça a mensagem de que com Deus, até os maiores inimigos podem ser derrotados, como Davi fez com Golias (veja também 1 Samuel 17:45-47 e 2 Samuel 21:18-22)."
+    },
+    {
+      "ref": "20:6-7",
+      "texto": "Outro gigante filisteu é derrotado por um guerreiro israelita. O relato dos gigantes derrotados pelos servos de Davi reafirma o poder de Deus para proteger Seu povo contra forças sobre-humanas (veja também Deuteronômio 3:11 e Josué 11:21-22)."
+    },
+    {
+      "ref": "20:8",
+      "texto": "Os descendentes dos gigantes foram vencidos por Davi e seus servos, encerrando a ameaça dos filisteus. A vitória de Israel contra os inimigos simboliza a supremacia de Deus sobre o mal (veja também Romanos 16:20 e 1 Coríntios 15:57)."
+    }
+  ]
+}

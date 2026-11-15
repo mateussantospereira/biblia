@@ -1,0 +1,97 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "ester",
+  "nome": "Ester",
+  "testamento": "AT",
+  "capitulo": 3,
+  "totalVersiculos": 15,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/ester/3/",
+  "capturadoEm": "2026-11-15T09:15:04-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Depois desses acontecimentos, o rei Assuero elevou em dignidade Amã, filho de Amadates, o agagita, e lhe deu um lugar acima de todos os grandes que o rodeavam."
+    },
+    {
+      "numero": 2,
+      "texto": "Todos os servos do rei, que estavam a serviço de sua porta, dobravam o joelho e prostravam-se diante de Amã, por ordem expressa do rei. Mardoqueu, porém, não queria nem dobrar o joelho, nem prostrar-se."
+    },
+    {
+      "numero": 3,
+      "texto": "“Por que – diziam-lhe os servos que estavam à porta real – desobedeces assim à ordem do rei?”"
+    },
+    {
+      "numero": 4,
+      "texto": "E como lhe repetissem isso todos os dias, sem que ele fizesse conta, denunciaram-no a Amã, para ver se Mardoqueu persistiria em sua resolução, pois ele lhes havia dito que era judeu."
+    },
+    {
+      "numero": 5,
+      "texto": "Amã viu que Mardoqueu não queria nem inclinar-se, nem prostrar-se diante dele e isso o pôs em cólera."
+    },
+    {
+      "numero": 6,
+      "texto": "Mas teve como pouco vingar-se só de Mardoqueu, cuja raça conhecia, e procurou um meio de exterminar a nação de Mardoqueu, todos os judeus do reino de Assuero."
+    },
+    {
+      "numero": 7,
+      "texto": "No primeiro mês, chamado Nisã, do ano doze de Assuero, foi lançado o “Pur”, isto é, a sorte, diante de Amã, para cada dia e para cada mês, até o duodécimo mês, que é Adar.",
+      "nota": true
+    },
+    {
+      "numero": 8,
+      "texto": "Então, Amã disse ao rei Assuero: “Há em todas as províncias do teu reino uma nação dispersa e separada das outras. Suas leis são diferentes das dos demais povos e se nega a observar as leis do rei. Não convém aos interesses do rei deixar essa gente em paz."
+    },
+    {
+      "numero": 9,
+      "texto": "Se ao rei lhe parece bem, dê-se ordem de fazê-los perecer, e eu pesarei dez mil talentos de prata nas mãos dos funcionários, para que os recolham ao tesouro real”."
+    },
+    {
+      "numero": 10,
+      "texto": "Tirando o anel de seu dedo, o rei o entregou a Amã, filho de Amadates, o agagita, o opressor dos judeus.",
+      "nota": true
+    },
+    {
+      "numero": 11,
+      "texto": "“Eu te entrego – disse-lhe – esse dinheiro e ao mesmo tempo esse povo; faze dele o que quiseres.”"
+    },
+    {
+      "numero": 12,
+      "texto": "No dia treze do primeiro mês, foram convocados os escribas reais. Foram escritas pontualmente todas as ordens do rei aos sátrapas do rei, aos governadores de cada província e aos príncipes de cada nação, a cada província segundo sua escritura e a cada nação em sua língua própria. O edito estava assinado com o nome de Assuero e levava o anel real."
+    },
+    {
+      "numero": 13,
+      "texto": "Foram expedidas cartas, por correios, para todas as províncias do rei, a fim de destruir, matar e exterminar todos os judeus, jovens, velhos, crianças e mulheres, num só dia, no dia treze do duodécimo mês, chamado Adar, e a fim de entregar ao saque os seus despojos."
+    },
+    {
+      "numero": 14,
+      "texto": "Uma cópia do edito, que devia ser promulgado em cada província, foi enviada a todos os povos, para que todos estivessem preparados para o dia marcado."
+    },
+    {
+      "numero": 15,
+      "texto": "Por ordem do rei, os correios partiram imediatamente. O edito foi publicado primeiro na fortaleza de Susa. E enquanto o rei bebia acompanhado de Amã, a consternação reinava na cidade de Susa."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "3:1-6",
+      "texto": "A promoção de Hamã e seu desejo de exterminar os judeus destacam o conflito entre o bem e o mal. O ódio de Hamã por Mordecai reflete a realidade do anti-semitismo e a luta pela sobrevivência do povo de Deus (veja também Salmo 37:1-2 e Gênesis 12:3)."
+    },
+    {
+      "ref": "3:7-9",
+      "texto": "A consulta a lançamentos, ou \"pur\", para determinar a data da destruição dos judeus destaca a superstição e a manipulação. A escolha aleatória da data enfatiza como o inimigo de Deus tenta orquestrar destruição, mas Deus está sempre no controle (veja também Provérbios 16:33 e Salmo 139:16)."
+    },
+    {
+      "ref": "3:10-11",
+      "texto": "O decreto do rei Assuero, que autoriza Hamã a agir contra os judeus, exemplifica como o poder pode ser mal utilizado para fins malignos. A responsabilidade dos governantes é enfatizada, assim como a necessidade de líderes justos (veja também Romanos 13:1-4 e Provérbios 29:2)."
+    },
+    {
+      "ref": "3:12-15",
+      "texto": "O envio das cartas com o decreto para exterminar os judeus gera medo e desespero. Essa resposta do povo reflete a gravidade da situação e a necessidade de um intercessor. A oração e o arrependimento são fundamentais em tempos de crise (veja também 2 Crônicas 7:14 e Salmo 34:17)."
+    },
+    {
+      "ref": "3:13-15",
+      "texto": "A reação dos judeus ao decreto revela a importância da comunidade e do apoio mútuo em tempos de provação. A unidade do povo de Deus é essencial para enfrentar as adversidades (veja também Hebreus 10:24-25 e Atos 2:44-47)."
+    }
+  ]
+}

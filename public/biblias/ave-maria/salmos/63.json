@@ -1,0 +1,80 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 63,
+  "totalVersiculos": 11,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/63/",
+  "capturadoEm": "2026-11-15T09:17:07-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. Salmo de Davi.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Ouvi, Senhor, minha lastimosa voz. Do terror do inimigo protegei a minha vida,"
+    },
+    {
+      "numero": 3,
+      "texto": "preservai-me da conspiração dos maus, livrai-me da multidão dos malfeitores."
+    },
+    {
+      "numero": 4,
+      "texto": "Eles aguçam suas línguas como espadas, desferem como flechas palavras envenenadas,"
+    },
+    {
+      "numero": 5,
+      "texto": "para atirarem, do esconderijo, sobre o inocente, a fim de feri-lo de improviso, não temendo nada."
+    },
+    {
+      "numero": 6,
+      "texto": "Obstinam-se em seus maus desígnios, concertam, às ocultas, como armar seus laços, dizendo: “Quem é que nos verá?”."
+    },
+    {
+      "numero": 7,
+      "texto": "Planejam crimes e ocultam os seus planos; insondáveis são o espírito e o coração de cada um deles."
+    },
+    {
+      "numero": 8,
+      "texto": "Mas Deus os atinge com as suas setas: eles são feridos de improviso."
+    },
+    {
+      "numero": 9,
+      "texto": "Sua própria língua lhes preparou a ruína. Meneiam a cabeça os que os vêem."
+    },
+    {
+      "numero": 10,
+      "texto": "Tomados de temor, proclamam ser obra de Deus, e reconhecem o que ele fez."
+    },
+    {
+      "numero": 11,
+      "texto": "Alegra-se o justo no Senhor e nele confia. E triunfam todos os retos de coração."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "63:1",
+      "texto": "O salmista expressa um profundo desejo de Deus, reconhecendo sua necessidade espiritual. Essa busca intensa por Deus destaca a importância de um relacionamento pessoal e íntimo com o Criador (veja também Salmo 42:1-2 e Mateus 5:6)."
+    },
+    {
+      "ref": "63:2-3",
+      "texto": "Ao contemplar a grandeza de Deus, o salmista se alegra e exalta o nome do Senhor. Essa atitude de adoração reflete a resposta natural de um coração grato que reconhece a beleza e a bondade de Deus (veja também Salmo 27:4 e Filipenses 4:8)."
+    },
+    {
+      "ref": "63:4-5",
+      "texto": "O salmista promete louvar a Deus enquanto viver, reconhecendo que a satisfação plena vem de Sua presença. Isso enfatiza o poder transformador da adoração contínua e a gratidão nas circunstâncias da vida (veja também Salmo 100:4 e Efésios 5:19-20)."
+    },
+    {
+      "ref": "63:6-8",
+      "texto": "O salmista medita em Deus durante a noite e encontra segurança em Sua presença. Essa prática de meditação e oração destaca a importância de buscar a Deus em todos os momentos, especialmente nas horas de solidão (veja também Salmo 1:2 e Filipenses 4:6)."
+    },
+    {
+      "ref": "63:9-11",
+      "texto": "O salmista contrasta os justos com os ímpios, afirmando que a salvação e a segurança estão em Deus. Essa declaração final destaca a esperança e a certeza da justiça de Deus, proporcionando conforto aos fiéis (veja também Salmo 37:9-11 e Romanos 2:6)."
+    }
+  ]
+}

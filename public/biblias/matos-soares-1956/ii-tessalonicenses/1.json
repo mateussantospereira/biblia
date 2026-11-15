@@ -1,0 +1,79 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "ii-tessalonicenses",
+  "nome": "II Tessalonicenses",
+  "testamento": "NT",
+  "capitulo": 1,
+  "totalVersiculos": 12,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/ii-tessalonicenses/1/",
+  "capturadoEm": "2026-11-15T10:06:21-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Paulo, Silvano e Timóteo, à Igreja dos Tessalonicenses, em Deus nosso Pai e no Senhor Jesus Cristo."
+    },
+    {
+      "numero": 2,
+      "texto": "Graça e paz vos sejam dadas, da parte de Deus, nosso Pai, e da do Senhor Jesus Cristo."
+    },
+    {
+      "numero": 3,
+      "texto": "Nós devemos, irmãos, dar sempre graças a Deus por vós, como é justo, porque a vossa fé vai em grande aumento e abunda em cada um de vós a caridade mútua."
+    },
+    {
+      "numero": 4,
+      "texto": "Também nós mesmos nos gloriamos de vós na igrejas de Deus, pela vossa paciência e fé, no meio de todas as perseguições e tribulações que sofreis."
+    },
+    {
+      "numero": 5,
+      "texto": "Elas são prova do justo juízo de Deus, (que deste modo vos purifica) para que sejais tidos por dignos do reino de Deus, pelo qual padeceis. (ver nota)"
+    },
+    {
+      "numero": 6,
+      "texto": "Com efeito, é justo diante de Deus dar tribulação aqueles que vos atribulam,"
+    },
+    {
+      "numero": 7,
+      "texto": "e a vós, que sois atribulados, (dar) descanso (eterno) connosco, quando aparecer o Senhor Jesus (descendo) do céu com os anjos (mensageiros) do seu poder,"
+    },
+    {
+      "numero": 8,
+      "texto": "em uma chama de fogo, para tomar vingança daqueles que (por sua culpa) não conhecem a Deus e não obedecem ao Evangelho de Nosso Senhor Jesus."
+    },
+    {
+      "numero": 9,
+      "texto": "Esses tais serão punidos com a perdição eterna, longe da face do Senhor e da glória do seu poder,"
+    },
+    {
+      "numero": 10,
+      "texto": "quando ele vier naquele dia, para ser glorificado nos seus santos, e para se fazer admirável em todos os que creram, porque vós crestes no testemunho que demos diante de vós."
+    },
+    {
+      "numero": 11,
+      "texto": "Por isso oramos incessantemente por vós, para que o nosso Deus vos faça dignos da vossa vocação (isto é, do estado a que vos chamou), que realize com o seu poder todo o desejo de fazer bem e a atividade da vossa fé,"
+    },
+    {
+      "numero": 12,
+      "texto": "a fim de que o nome de Nosso Senhor Jesus Cristo seja glorificado em vós, e vós nele, pela graça do nosso Deus e do Senhor Jesus Cristo."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "1:3-4",
+      "texto": "Paulo agradece a Deus pela fé e perseverança dos tessalonicenses em meio às perseguições. O sofrimento é visto como uma oportunidade para crescer espiritualmente e fortalecer a fé (veja também Romanos 5:3-5 e Tiago 1:2-4)."
+    },
+    {
+      "ref": "1:5-6",
+      "texto": "O sofrimento e a perseguição servem como evidência do justo juízo de Deus, que recompensa aqueles que são fiéis a Ele. A tribulação também prepara os fiéis para a glória eterna (veja também 1 Pedro 1:6-7 e Mateus 5:10-12)."
+    },
+    {
+      "ref": "1:7-10",
+      "texto": "A vinda de Jesus é descrita como um evento de julgamento, trazendo retribuição para os que não conhecem a Deus e para os que não obedecem ao evangelho. A promessa de descanso para os cristãos é central neste trecho (veja também Apocalipse 6:10-11 e 2 Tessalonicenses 2:8)."
+    },
+    {
+      "ref": "1:11-12",
+      "texto": "Paulo ora para que os tessalonicenses sejam dignos da vocação de Deus, e que sejam fortalecidos em sua fé. O poder de Deus os sustenta e os capacita para viver de maneira que glorifique o nome de Jesus (veja também Filipenses 1:11 e Colossenses 1:11-12)."
+    }
+  ]
+}

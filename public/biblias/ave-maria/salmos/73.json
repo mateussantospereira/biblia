@@ -1,0 +1,129 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 73,
+  "totalVersiculos": 23,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/73/",
+  "capturadoEm": "2026-11-15T09:17:17-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Hino de Asaf. Por que, Senhor, persistis em nos rejeitar? Por que se inflama vossa ira contra as ovelhas de vosso rebanho?",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Recordai-vos de vosso povo que elegestes outrora, da tribo que resgatastes para vossa possessão, da montanha de Sião onde fizestes vossa morada."
+    },
+    {
+      "numero": 3,
+      "texto": "Dirigi vossos passos a estes lugares definitivamente devastados; o inimigo tudo destruiu no santuário."
+    },
+    {
+      "numero": 4,
+      "texto": "Os adversários rugiam no local de vossas assembleias, como troféus hastearam suas bandeiras."
+    },
+    {
+      "numero": 5,
+      "texto": "Pareciam homens a vibrar o machado na floresta espessa."
+    },
+    {
+      "numero": 6,
+      "texto": "Rebentaram os portais do templo com malhos e martelos,"
+    },
+    {
+      "numero": 7,
+      "texto": "atearam fogo ao vosso santuário, profanaram, arrasaram a morada do vosso nome."
+    },
+    {
+      "numero": 8,
+      "texto": "Disseram em seus corações: “Destruamo-los todos juntos; incendiai todos os lugares santos da terra”."
+    },
+    {
+      "numero": 9,
+      "texto": "Não vemos mais nossos emblemas, já não há nenhum profeta e ninguém entre nós que saiba até quando..."
+    },
+    {
+      "numero": 10,
+      "texto": "Ó Deus, até quando nos insultará o inimigo? O adversário blasfemará vosso nome para sempre?"
+    },
+    {
+      "numero": 11,
+      "texto": "Por que retirais a vossa mão? Por que guardais vossa destra em vosso seio?"
+    },
+    {
+      "numero": 12,
+      "texto": "Entretanto, Deus é meu rei desde os tempos antigos, ele que opera a salvação por toda a terra."
+    },
+    {
+      "numero": 13,
+      "texto": "Vosso poder abriu o mar, esmagastes nas águas as cabeças de dragões."
+    },
+    {
+      "numero": 14,
+      "texto": "Quebrastes as cabeças do Leviatã, e as destes como pasto aos monstros do mar.",
+      "nota": true
+    },
+    {
+      "numero": 15,
+      "texto": "Fizestes jorrar fontes e torrentes, secastes rios caudalosos."
+    },
+    {
+      "numero": 16,
+      "texto": "Vosso é o dia, a noite vos pertence: vós criastes a lua e o sol,"
+    },
+    {
+      "numero": 17,
+      "texto": "Vós marcastes à terra seus confins, estabelecestes o inverno e o verão."
+    },
+    {
+      "numero": 18,
+      "texto": "Lembrai-vos: o inimigo vos insultou, Senhor, e um povo insensato ultrajou o vosso nome."
+    },
+    {
+      "numero": 19,
+      "texto": "Não abandoneis ao abutre a vida de vossa pomba, não esqueçais para sempre a vida de vossos pobres."
+    },
+    {
+      "numero": 20,
+      "texto": "Olhai para a vossa aliança, porque todos os recantos da terra são antros de violência."
+    },
+    {
+      "numero": 21,
+      "texto": "Que os oprimidos não voltem confundidos, que o pobre e o indigente possam louvar o vosso nome."
+    },
+    {
+      "numero": 22,
+      "texto": "Levantai-vos, ó Deus, defendei a vossa causa. Lembrai-vos das blasfêmias que continuamente vos dirige o insensato."
+    },
+    {
+      "numero": 23,
+      "texto": "Não olvideis os insultos de vossos adversários, e o tumulto crescente dos que se insurgem contra vós."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "73:1",
+      "texto": "O salmista reconhece que Deus é bom para com os puros de coração. Essa afirmação estabelece a base para o entendimento da fidelidade de Deus, mesmo em meio às dificuldades. A perspectiva de fé é essencial para a compreensão da justiça divina (veja também Salmo 25:8 e Tiago 1:17)."
+    },
+    {
+      "ref": "73:2-3",
+      "texto": "O salmista confessa que quase caiu em desespero ao observar a prosperidade dos ímpios. Isso reflete a luta interna entre a fé e as aparências externas, um tema comum na experiência humana de dúvida e questionamento (veja também Salmo 37:1-2 e Jeremias 12:1)."
+    },
+    {
+      "ref": "73:16-17",
+      "texto": "A compreensão do salmista se transforma quando ele entra no santuário de Deus. Essa revelação destaca a importância da adoração e da comunhão com Deus para obter clareza e perspectiva em meio às tribulações (veja também Salmo 27:4 e Hebreus 10:19-22)."
+    },
+    {
+      "ref": "73:21-22",
+      "texto": "O reconhecimento do erro e da insensatez do salmista é um passo vital em sua jornada espiritual. Ele admite que sua visão estava distorcida pela inveja e pelo ressentimento, ressaltando a importância da humildade diante de Deus (veja também Provérbios 3:7 e 1 Pedro 5:6)."
+    },
+    {
+      "ref": "73:25-26",
+      "texto": "O salmista conclui que, apesar das dificuldades, Deus é sua força e herança eterna. Essa afirmação revela a verdadeira segurança que vem de um relacionamento profundo com Deus, em contraste com as riquezas passageiras (veja também Filipenses 4:19 e Colossenses 3:1-2)."
+    }
+  ]
+}

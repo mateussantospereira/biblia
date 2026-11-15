@@ -1,0 +1,75 @@
+{
+  "versao": "matos-soares-1956",
+  "versaoNome": "Bíblia Matos Soares (1956)",
+  "livro": "exodo",
+  "nome": "Êxodo",
+  "testamento": "AT",
+  "capitulo": 11,
+  "totalVersiculos": 10,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-matos-soares-1956/exodo/11/",
+  "capturadoEm": "2026-11-15T09:43:22-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "O Senhor disse a Moisés: Flagelarei ainda com uma praga a Faraó e ao Egipto, e, depois disso, vos deixará partir, e até vos constrangerá a sair."
+    },
+    {
+      "numero": 2,
+      "texto": "Dirás, pois, a todo o povo que cada homem peça ao seu amigo, e cada mulher à sua vizinha objectos de prata e ouro."
+    },
+    {
+      "numero": 3,
+      "texto": "O Senhor fez que o seu povo achasse graça diante dos Egipcios. O próprio Moisés foi um homem muito grande na terra do Egipto, aos olhos dos servos de Faraó e de todo o povo."
+    },
+    {
+      "numero": 4,
+      "texto": "Moisés disse: Estas coisas diz o Senhor: A meia-noite passarei pelo Egipto, (ver nota)"
+    },
+    {
+      "numero": 5,
+      "texto": "e todo o primogênito morrerá na terra do Egipto, desde o primogênito de Faraó que se assenta sobre o seu trono, até ao primogênito da escrava, que está à mó, e até aos primogênitos dos animais."
+    },
+    {
+      "numero": 6,
+      "texto": "Haverá em toda a terra do Egipto um grande clamor qual nunca antes houve, nem haverá jamais."
+    },
+    {
+      "numero": 7,
+      "texto": "Mas entre todos os filhos de Israel, desde os homens até aos animais, não se ouvirá ganir um cão, para que saibais com que grande milagre o Senhor separa os Egípcios de Israel."
+    },
+    {
+      "numero": 8,
+      "texto": "Todos estes teus servos virão a mim, e se prostrarão diante de mim, dizendo; Sai tu e todo o teu povo, que te está sujeito: depois disto sairemos."
+    },
+    {
+      "numero": 9,
+      "texto": "E Moisés saiu da presença de Faraó muito irado. O Senhor disse a Moisés: Faraó não vos ouvirá, para que se multipliquem os meus prodígios na terra do Egipto."
+    },
+    {
+      "numero": 10,
+      "texto": "Moisés e Aarão fizeram diante de Faraó todos os prodígios que estão escritos, mas o Senhor endureceu o coração de Faraó, e ele não deixou partir os filhos de Israel da sua terra."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "11:1-2",
+      "texto": "Deus anuncia a última praga sobre o Egito, a morte dos primogênitos, e ordena que os israelitas peçam objetos de prata e ouro aos egípcios. Esse ato simboliza a justiça divina, recompensando Israel pela escravidão e sofrimento (veja também Gênesis 15:14 e Provérbios 13:22)."
+    },
+    {
+      "ref": "11:3",
+      "texto": "O Senhor concede favor ao povo israelita diante dos egípcios, demonstrando Sua soberania e poder de mudar corações, mesmo em uma nação opressora. Moisés é visto com grande respeito, destacando sua liderança e o impacto das pragas (veja também Êxodo 3:21-22 e Daniel 1:9)."
+    },
+    {
+      "ref": "11:4-6",
+      "texto": "Moisés proclama a décima praga: a morte dos primogênitos do Egito, do filho de Faraó ao filho do escravo. Esse evento representa o juízo final sobre a opressão e a resistência de Faraó, mostrando que Deus é justo e não tolera a injustiça (veja também Salmo 135:8-9 e Hebreus 12:23)."
+    },
+    {
+      "ref": "11:7",
+      "texto": "Deus faz distinção entre os egípcios e os israelitas, garantindo que nenhum mal atingirá Seu povo. Esse ato sublinha a aliança de Deus com Israel e Sua proteção sobre aqueles que seguem Suas ordens (veja também Êxodo 9:4 e Malaquias 3:18)."
+    },
+    {
+      "ref": "11:9-10",
+      "texto": "Apesar das pragas, o coração de Faraó permanece endurecido, conforme o plano divino, para que os sinais e maravilhas de Deus sejam plenamente manifestados. Isso revela a paciência de Deus e o propósito maior de Suas ações (veja também Romanos 9:17-18 e João 12:40)."
+    }
+  ]
+}

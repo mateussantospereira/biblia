@@ -1,0 +1,100 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "jo",
+  "nome": "Jó",
+  "testamento": "AT",
+  "capitulo": 35,
+  "totalVersiculos": 16,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/jo/35/",
+  "capturadoEm": "2026-11-15T09:15:54-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Eliú retomou ainda a palavra nestes termos:"
+    },
+    {
+      "numero": 2,
+      "texto": "“Imaginas ter razão em pretender justificar-te contra Deus?"
+    },
+    {
+      "numero": 3,
+      "texto": "Quando dizes: ‘Para que me serve isto, qual é minha vantagem em não pecar?’."
+    },
+    {
+      "numero": 4,
+      "texto": "Pois vou responder-te, a ti e a teus amigos."
+    },
+    {
+      "numero": 5,
+      "texto": "Contempla os céus e observa as nuvens: vê como são mais altas do que tu."
+    },
+    {
+      "numero": 6,
+      "texto": "Se pecas, que danos lhe causas? Se multiplicas tuas faltas, que mal lhe fazes?"
+    },
+    {
+      "numero": 7,
+      "texto": "Se és justo, que vantagem lhe dás? Ou que recebe ele de tua mão?"
+    },
+    {
+      "numero": 8,
+      "texto": "Tua maldade só prejudica o homem, teu semelhante; tua justiça só diz respeito a um ser humano."
+    },
+    {
+      "numero": 9,
+      "texto": "Sob o peso da opressão, geme-se, e clama-se sob a mão dos poderosos."
+    },
+    {
+      "numero": 10,
+      "texto": "Mas ninguém diz: ‘Onde está Deus, meu Criador, que inspira cantos de louvor em plena noite,"
+    },
+    {
+      "numero": 11,
+      "texto": "que nos instrui mais do que aos animais selvagens e nos torna mais sábios do que as aves do céu?’.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Clamam, mas não são ouvidos, por causa do orgulho dos maus."
+    },
+    {
+      "numero": 13,
+      "texto": "Por certo, Deus não ouve palavras frívolas, e o Todo-poderoso não lhes presta atenção."
+    },
+    {
+      "numero": 14,
+      "texto": "Quando dizes que ele não se ocupa de ti, que tua causa está diante dele e que esperas sua decisão,"
+    },
+    {
+      "numero": 15,
+      "texto": "que sua cólera não castiga e que ele ignora o pecado,"
+    },
+    {
+      "numero": 16,
+      "texto": "Jó abre a boca para palavras ociosas e derrama-se em discursos impertinentes”."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "35:1-4",
+      "texto": "Eliú questiona a visão de Jó sobre o sofrimento e a justiça de Deus, enfatizando a importância da humildade ao se abordar questões profundas sobre a natureza divina e a dor humana (veja também Provérbios 3:7 e Romanos 12:3)."
+    },
+    {
+      "ref": "35:6-8",
+      "texto": "Eliú argumenta que o pecado do homem não afeta Deus diretamente, mas tem consequências que impactam o ser humano. Isso revela a relação entre ação e consequência na vida do crente (veja também Gálatas 6:7-8 e Ezequiel 18:30-32)."
+    },
+    {
+      "ref": "35:9-13",
+      "texto": "Eliú menciona que a opressão pode levar os homens a clamar a Deus, mas a falta de resposta não é um sinal de indiferença. Isso destaca a complexidade da relação entre o sofrimento humano e a resposta divina (veja também Salmo 34:17-18 e Mateus 7:7-8)."
+    },
+    {
+      "ref": "35:14-16",
+      "texto": "Eliú critica a visão de Jó sobre a aparente falta de justiça de Deus. Ele ressalta que a esperança deve ser mantida, mesmo em meio à adversidade, pois Deus sempre age segundo Sua sabedoria (veja também Salmo 27:14 e Romanos 8:28)."
+    },
+    {
+      "ref": "35:17-18",
+      "texto": "Eliú conclui que a esperança e a fé em Deus são fundamentais em tempos de sofrimento. Essa mensagem é um convite à confiança em Deus, que é soberano e justo, mesmo quando as circunstâncias parecem injustas (veja também Salmo 37:5 e Hebreus 10:23)."
+    }
+  ]
+}

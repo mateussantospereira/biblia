@@ -1,0 +1,112 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 134,
+  "totalVersiculos": 21,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/134/",
+  "capturadoEm": "2026-11-15T09:18:21-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Aleluia. Louvai o nome do Senhor, louvai-o, servos do Senhor,",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "vós que estais no Templo do Senhor, nos átrios da casa de nosso Deus."
+    },
+    {
+      "numero": 3,
+      "texto": "Louvai o Senhor, porque ele é bom; cantai à glória de seu nome, porque ele é amável."
+    },
+    {
+      "numero": 4,
+      "texto": "Pois o Senhor escolheu Jacó para si, ele tomou Israel por sua herança."
+    },
+    {
+      "numero": 5,
+      "texto": "Em verdade, sei que o Senhor é grande, e nosso Deus é maior que todos os deuses."
+    },
+    {
+      "numero": 6,
+      "texto": "O Senhor faz tudo o que lhe apraz, no céu e na terra, no mar e nas profundezas das águas."
+    },
+    {
+      "numero": 7,
+      "texto": "Ele chama as nuvens dos confins da terra, faz chover em meio aos relâmpagos, solta o vento de seus reservatórios."
+    },
+    {
+      "numero": 8,
+      "texto": "Foi ele que feriu os primogênitos do Egito, tanto dos homens como dos brutos."
+    },
+    {
+      "numero": 9,
+      "texto": "Realizou em ti, Egito, sinais e prodígios, contra o faraó de todos os seus servos."
+    },
+    {
+      "numero": 10,
+      "texto": "Abateu numerosas nações, e exterminou reis poderosos:"
+    },
+    {
+      "numero": 11,
+      "texto": "Seon, rei dos amorreus; Og, rei de Basã, assim como todos os reis de Canaã."
+    },
+    {
+      "numero": 12,
+      "texto": "E deu a terra deles em herança, como patrimônio para Israel, seu povo."
+    },
+    {
+      "numero": 13,
+      "texto": "Ó Senhor, vosso nome é eterno! Senhor, vossa lembrança passa de geração em geração,"
+    },
+    {
+      "numero": 14,
+      "texto": "pois o Senhor é o guarda de seu povo, e tem piedade de seus servos."
+    },
+    {
+      "numero": 15,
+      "texto": "Os ídolos dos pagãos não passam de prata e ouro, são obras de mãos humanas."
+    },
+    {
+      "numero": 16,
+      "texto": "Têm boca e não podem falar; têm olhos e não podem ver;"
+    },
+    {
+      "numero": 17,
+      "texto": "têm ouvidos e não podem ouvir. Não há respiração em sua boca."
+    },
+    {
+      "numero": 18,
+      "texto": "Assemelhem-se a eles todos os que os fizeram, e todos os que neles confiam."
+    },
+    {
+      "numero": 19,
+      "texto": "Casa de Israel, bendizei o Senhor; casa de Aarão, bendizei o Senhor;"
+    },
+    {
+      "numero": 20,
+      "texto": "casa de Levi, bendizei o Senhor. Vós todos que o servis, bendizei o Senhor."
+    },
+    {
+      "numero": 21,
+      "texto": "De Sião seja bendito o Senhor, que habita em Jerusalém."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "134:1",
+      "texto": "Os servos do Senhor são chamados a bendizer o nome de Deus, especialmente à noite, quando realizam seus serviços no templo. Esse chamado à adoração contínua reflete a importância de louvar a Deus em todos os momentos (veja também 1 Tessalonicenses 5:16-18 e Apocalipse 4:8)."
+    },
+    {
+      "ref": "134:2",
+      "texto": "O levantar das mãos é um símbolo de súplica e louvor. Este gesto de adoração simboliza a total entrega e reverência a Deus, reconhecendo Sua soberania e bondade (veja também Êxodo 9:29 e 1 Timóteo 2:8)."
+    },
+    {
+      "ref": "134:3",
+      "texto": "O salmo termina com uma bênção, invocando a proteção e a graça de Deus sobre aqueles que O servem. O Senhor, que fez o céu e a terra, é a fonte de toda bênção e provisão (veja também Salmo 115:15 e Gênesis 14:19)."
+    }
+  ]
+}

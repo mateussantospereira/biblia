@@ -1,0 +1,56 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 127,
+  "totalVersiculos": 6,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/127/",
+  "capturadoEm": "2026-11-15T09:18:13-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Cântico das peregrinações. Felizes os que temem o Senhor, os que andam em seus caminhos",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Poderás viver, então, do trabalho de tuas mãos, serás feliz e terás bem-estar."
+    },
+    {
+      "numero": 3,
+      "texto": "Tua mulher será em teu lar como uma vinha fecunda. Teus filhos em torno à tua mesa serão como brotos de oliveira."
+    },
+    {
+      "numero": 4,
+      "texto": "Assim será abençoado aquele que teme o Senhor."
+    },
+    {
+      "numero": 5,
+      "texto": "De Sião te abençoe o Senhor para que em todos os dias de tua vida gozes da prosperidade de Jerusalém,"
+    },
+    {
+      "numero": 6,
+      "texto": "e para que possas ver os filhos dos teus filhos. Reine a paz em Israel!"
+    }
+  ],
+  "notas": [
+    {
+      "ref": "127:1",
+      "texto": "Se o Senhor não edificar a casa, em vão trabalham os que a edificam enfatiza que sem Deus, todo esforço humano é inútil. Este versículo é um lembrete da dependência do homem na providência divina (veja também Provérbios 16:3 e João 15:5)."
+    },
+    {
+      "ref": "127:2",
+      "texto": "O salmo afirma que é inútil levantar cedo e se esforçar excessivamente sem confiar em Deus, pois Ele concede o sustento a quem o ama enquanto dorme. Isso reforça a ideia de que a provisão vem da graça divina (veja também Mateus 6:25-26 e Filipenses 4:19)."
+    },
+    {
+      "ref": "127:3",
+      "texto": "Os filhos são um presente do Senhor, e o fruto do ventre é uma recompensa. A valorização da família e dos filhos como bênçãos divinas é um tema central (veja também Gênesis 33:5 e Salmo 128:3)."
+    },
+    {
+      "ref": "127:4-5",
+      "texto": "Os filhos são comparados a flechas nas mãos de um guerreiro, uma imagem que destaca sua importância na proteção e continuidade da família. Isso também reflete a responsabilidade de criar uma geração forte (veja também Salmo 144:12 e Provérbios 22:6)."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "salmos",
+  "nome": "Salmos",
+  "testamento": "AT",
+  "capitulo": 74,
+  "totalVersiculos": 11,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/salmos/74/",
+  "capturadoEm": "2026-11-15T09:17:18-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Ao mestre de canto. “Não destruas”. Salmo de Asaf. Cântico.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Nós vos louvamos, Senhor, nós vos louvamos; glorificamos vosso nome e anunciamos vossas maravilhas."
+    },
+    {
+      "numero": 3,
+      "texto": "“No tempo que fixei, julgarei o justo juízo."
+    },
+    {
+      "numero": 4,
+      "texto": "Vacile, embora, a terra com todos os seus habitantes, fui eu quem deu firmeza às suas colunas."
+    },
+    {
+      "numero": 5,
+      "texto": "Digo aos arrogantes: Não sejais insolentes; aos ímpios: Não levanteis vossa fronte,"
+    },
+    {
+      "numero": 6,
+      "texto": "não ergais contra o Altíssimo a vossa cabeça, deixai de falar a Deus com tanta insolência."
+    },
+    {
+      "numero": 7,
+      "texto": "Não é do oriente, nem do ocidente, nem do deserto, nem das montanhas que vem a salvação."
+    },
+    {
+      "numero": 8,
+      "texto": "Mas Deus é o juiz; a um ele abate, a outro exalta."
+    },
+    {
+      "numero": 9,
+      "texto": "Há na mão do Senhor uma taça de vinho espumante e aromático. Dela dá de beber e até as fezes hão de esgotá-la; hão de sorvê-la os ímpios todos da terra.”",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Eu, porém, exultarei para sempre, salmodiarei o Deus de Jacó."
+    },
+    {
+      "numero": 11,
+      "texto": "Abaterei todas as potências dos ímpios, enquanto o poder dos justos será exaltado."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "74:1",
+      "texto": "O salmista clama a Deus em um momento de crise, questionando por que Deus parece estar distante. Essa angústia é uma expressão honesta da dor humana diante do sofrimento e da sensação de abandono (veja também Salmo 10:1 e Salmo 22:1)."
+    },
+    {
+      "ref": "74:2-3",
+      "texto": "A lembrança do povo de Israel como herança de Deus enfatiza a importância do relacionamento especial entre Deus e Seu povo. A invocação da aliança é um apelo à intervenção divina em tempos de necessidade (veja também Deuteronômio 7:6 e 1 Pedro 2:9)."
+    },
+    {
+      "ref": "74:12-14",
+      "texto": "O salmista recorda as obras poderosas de Deus, como a criação e a libertação do Egito. Essa memória é uma fonte de esperança, lembrando que Deus é capaz de agir com poder em meio ao caos (veja também Salmo 77:11-14 e Êxodo 15:1-3)."
+    },
+    {
+      "ref": "74:15-17",
+      "texto": "O salmista clama a Deus para que intervenha nas calamidades naturais e sociais. Ele reconhece que Deus é o Senhor do tempo e da criação, implorando pela restauração e proteção do Seu povo (veja também Salmo 89:9 e Jeremias 14:22)."
+    },
+    {
+      "ref": "74:18-23",
+      "texto": "O salmista pede que Deus não esqueça Seu povo e seus inimigos, reafirmando a necessidade de justiça. Essa súplica final destaca a certeza de que Deus não abandonará aqueles que são fiéis a Ele (veja também Salmo 9:12 e Romanos 12:19)."
+    }
+  ]
+}

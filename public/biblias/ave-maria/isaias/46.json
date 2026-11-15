@@ -1,0 +1,91 @@
+{
+  "versao": "ave-maria",
+  "versaoNome": "Bíblia Ave Maria",
+  "livro": "isaias",
+  "nome": "Isaías",
+  "testamento": "AT",
+  "capitulo": 46,
+  "totalVersiculos": 13,
+  "fonte": "https://www.bibliacatolica.com.br/biblia-ave-maria/isaias/46/",
+  "capturadoEm": "2026-11-15T09:21:59-03:00",
+  "versiculos": [
+    {
+      "numero": 1,
+      "texto": "Bel cai, Nebo desmorona. Suas estátuas são carregadas em lombo de mula, fazem delas o fardo de animais exaustos.",
+      "nota": true
+    },
+    {
+      "numero": 2,
+      "texto": "Desmoronam todos e desabam; incapazes de salvar aqueles que os carregam, vão eles mesmos ao cativeiro.",
+      "nota": true
+    },
+    {
+      "numero": 3,
+      "texto": "Ouvi-me, casa de Jacó, e vós, sobreviventes da casa de Israel, que eu carreguei desde vosso nascimento e sustentei desde o seio materno:"
+    },
+    {
+      "numero": 4,
+      "texto": "permanecerei o mesmo até vossa velhice, eu vos sustentarei até o tempo dos cabelos brancos; eu vos carregarei como já carreguei, cuidarei de vós e eu vos preservarei;"
+    },
+    {
+      "numero": 5,
+      "texto": "a quem podereis comparar-me ou igualar-me? Quem poreis em paralelo comigo, que me seja igual?"
+    },
+    {
+      "numero": 6,
+      "texto": "Eis os que desembolsam seu ouro, e pesam a prata na balança; contratam um ourives para que ele faça um deus, diante do qual se prostram em adoração;"
+    },
+    {
+      "numero": 7,
+      "texto": "eles o carregam nos ombros e o transportam, depois o colocam em seu posto, onde se mantém, sem mais poder mover-se. Por mais que o invoquem, nunca responde, e não salva do infortúnio;"
+    },
+    {
+      "numero": 8,
+      "texto": "lembrai-vos disso, sede razoáveis, e entrai em vós mesmos, pecadores."
+    },
+    {
+      "numero": 9,
+      "texto": "Recordai-vos do que se passou outrora. Só eu sou Deus, e não há nenhum outro, eu sou Deus e ninguém me é semelhante.",
+      "nota": true
+    },
+    {
+      "numero": 10,
+      "texto": "Desde o princípio eu predisse o futuro, anuncio antecipadamente o que ainda não se cumpriu. Meu plano se realizará, executarei todas as minhas vontades."
+    },
+    {
+      "numero": 11,
+      "texto": "Chamo do Oriente uma ave de rapina, de uma terra longínqua o homem de meus desígnios. O que disse, executarei; o que concebi, realizarei.",
+      "nota": true
+    },
+    {
+      "numero": 12,
+      "texto": "Escutai-me, homens desanimados, que vos julgais longe da salvação!"
+    },
+    {
+      "numero": 13,
+      "texto": "Faço aproximar-se a salvação que prometi; ela não está longe, e a libertação que predisse não tardará. Darei a vitória a Sião, e minha glória a Israel."
+    }
+  ],
+  "notas": [
+    {
+      "ref": "46:1-2",
+      "texto": "Os ídolos de Babilônia, como Bel e Nebo, são retratados como fardos inúteis que não podem salvar. Isso contrasta com o poder do Deus vivo, que sustenta Seu povo (veja também Salmo 115:4-8 e Jeremias 10:5)."
+    },
+    {
+      "ref": "46:3-4",
+      "texto": "Deus lembra Seu povo que Ele os carregou desde o nascimento e continuará a sustentá-los até a velhice. Essa promessa reafirma a fidelidade e o cuidado de Deus (veja também Deuteronômio 32:11-12 e Mateus 28:20)."
+    },
+    {
+      "ref": "46:8-10",
+      "texto": "Deus desafia Seu povo a lembrar que Ele é único e declara o fim desde o princípio. Isso destaca Sua onisciência e o cumprimento de Suas promessas (veja também Isaías 42:9 e Apocalipse 22:13)."
+    },
+    {
+      "ref": "46:11",
+      "texto": "Deus afirma que cumprirá Suas intenções, mencionando um \"ave de rapina\" que executará Seu plano. Essa referência pode aludir a Ciro como agente de Deus (veja também Isaías 45:1 e Esdras 1:1-2)."
+    },
+    {
+      "ref": "46:12-13",
+      "texto": "Deus exorta os rebeldes a ouvirem, pois Sua justiça está próxima e Ele trará salvação a Israel. Essa mensagem reforça a paciência divina com Seu povo (veja também 2 Pedro 3:9 e Isaías 51:5)."
+    }
+  ]
+}
