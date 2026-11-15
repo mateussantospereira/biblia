@@ -1,17 +1,18 @@
+import { GradeDeCapitulos } from "@/components/GradeDeCapitulos";
 import { TESTAMENTOS, type Estado, type Livro, type Testamento } from "@/lib/biblia";
 
-type Props = {
+interface Props {
   livros: Livro[];
   livro: Livro;
   capitulo: number;
   ir: (mudanca: Partial<Estado>) => void;
-};
+}
 
 export function PainelNavegacao({ livros, livro, capitulo, ir }: Props) {
-  const livrosDoTestamento = livros.filter((l) => l.testamento === livro.testamento);
+  const livrosDoTestamento = livros.filter((item) => item.testamento === livro.testamento);
 
   function trocarTestamento(novo: Testamento) {
-    const primeiro = livros.find((l) => l.testamento === novo);
+    const primeiro = livros.find((item) => item.testamento === novo);
     if (primeiro) ir({ livro: primeiro.slug, capitulo: 1 });
   }
 
@@ -26,9 +27,7 @@ export function PainelNavegacao({ livros, livro, capitulo, ir }: Props) {
           onChange={(e) => trocarTestamento(e.target.value as Testamento)}
         >
           {TESTAMENTOS.map((t) => (
-            <option key={t.id} value={t.id}>
-              {t.nome}
-            </option>
+            <option key={t.id} value={t.id}>{t.nome}</option>
           ))}
         </select>
       </section>
@@ -41,10 +40,8 @@ export function PainelNavegacao({ livros, livro, capitulo, ir }: Props) {
           value={livro.slug}
           onChange={(e) => ir({ livro: e.target.value, capitulo: 1 })}
         >
-          {livrosDoTestamento.map((l) => (
-            <option key={l.slug} value={l.slug}>
-              {l.nome}
-            </option>
+          {livrosDoTestamento.map((item) => (
+            <option key={item.slug} value={item.slug}>{item.nome}</option>
           ))}
         </select>
       </section>
@@ -53,20 +50,7 @@ export function PainelNavegacao({ livros, livro, capitulo, ir }: Props) {
         <h2 className="painel__titulo">
           Capítulos <span className="painel__contagem">{livro.capitulos}</span>
         </h2>
-
-        <div className="capitulos">
-          {Array.from({ length: livro.capitulos }, (_, i) => i + 1).map((n) => (
-            <button
-              key={n}
-              type="button"
-              className={n === capitulo ? "capitulo capitulo--atual" : "capitulo"}
-              aria-current={n === capitulo ? "page" : undefined}
-              onClick={() => ir({ capitulo: n })}
-            >
-              {n}
-            </button>
-          ))}
-        </div>
+        <GradeDeCapitulos total={livro.capitulos} atual={capitulo} ir={ir} />
       </section>
     </aside>
   );

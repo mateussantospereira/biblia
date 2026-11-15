@@ -4,7 +4,13 @@
 
 @custom-variant dark (&:is(.dark *));
 
-/* Tema: mude só --background e --foreground em :root e .dark. */
+/*
+ * TEMA — para mudar as cores do site, edite SÓ estas 4 linhas:
+ *   :root  ->  --background e --foreground (modo claro)
+ *   .dark  ->  --background e --foreground (modo escuro)
+ * Todo o resto (bordas, texto secundário, seleção, hover) é calculado
+ * automaticamente a partir delas. Veja também src/leitura.css para layout/fonte.
+ */
 @theme inline {
   --font-sans: "Literata Variable", Georgia, "Times New Roman", serif;
   --font-heading: var(--font-sans);
@@ -84,10 +90,29 @@
   * {
     @apply border-border outline-ring/50;
   }
+  html {
+    @apply font-sans;
+  }
   body {
     @apply bg-background text-foreground;
   }
-  html {
-    @apply font-sans;
+}
+
+@media (min-width: 72rem) {
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+
+  #root {
+    display: flex;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1;
+    min-height: 0;
+    overflow: hidden;
   }
 }
