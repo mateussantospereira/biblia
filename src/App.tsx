@@ -20,6 +20,7 @@ export default function App() {
   const [escuro, setEscuro] = useState(() => localStorage.getItem("tema") === "escuro");
 
   const atual = ajustar(estado, indice);
+  const { versao: versaoAtual, livro: livroAtual, capitulo: capituloAtual } = atual;
 
   function ir(mudanca: Partial<Estado>) {
     const novo = { ...atual, ...mudanca };
@@ -35,8 +36,8 @@ export default function App() {
 
   // mantém a barra de endereço igual ao que está na tela
   useEffect(() => {
-    sincronizarUrl(atual);
-  }, [atual.versao, atual.livro, atual.capitulo]);
+    sincronizarUrl({ versao: versaoAtual, livro: livroAtual, capitulo: capituloAtual });
+  }, [versaoAtual, livroAtual, capituloAtual]);
 
   // botão "voltar" do navegador
   useEffect(() => {
@@ -72,7 +73,7 @@ export default function App() {
         alternarTema={() => setEscuro((valor) => !valor)}
       />
       <main>
-        <PaginaLeitura versao={atual.versao} livro={atual.livro} capitulo={atual.capitulo} />
+        <PaginaLeitura estado={atual} indice={indice} ir={ir} />
       </main>
     </>
   );

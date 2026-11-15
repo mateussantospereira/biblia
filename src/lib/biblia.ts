@@ -36,11 +36,26 @@ export type Capitulo = {
 // Onde o leitor está. É isso que vai para a URL.
 export type Estado = { versao: string; livro: string; capitulo: number };
 
-export const PADRAO: Estado = { versao: "matos-soares-1956", livro: "genesis", capitulo: 1 };
+export const PADRAO: Estado = {
+  versao: "matos-soares-1956",
+  livro: "genesis",
+  capitulo: 1,
+};
 
 export const VERSOES = [
-  { id: "matos-soares-1956", url: "biblia-matos", nome: "Matos Soares (1956)" },
-  { id: "ave-maria", url: "ave-maria", nome: "Ave Maria" },
+  {
+    id: "matos-soares-1956",
+    url: "matos-soares-1956",
+    nome: "Matos Soares (1956)",
+    curto: "Matos Soares",
+  },
+  { id: "ave-maria", url: "ave-maria", nome: "Ave Maria", curto: "Ave Maria" },
+] as const;
+
+// Usado pelo cabeçalho e pelo painel lateral para agrupar os livros.
+export const TESTAMENTOS = [
+  { id: "AT", nome: "Antigo Testamento" },
+  { id: "NT", nome: "Novo Testamento" },
 ] as const;
 
 const RAIZ = `${import.meta.env.BASE_URL}biblias`;
@@ -79,19 +94,28 @@ export function carregarCapitulo(
 }
 
 // Capítulo anterior/próximo, atravessando a fronteira entre livros.
-export function vizinho(indice: Indice, estado: Estado, passo: 1 | -1): Estado | null {
+export function vizinho(
+  indice: Indice,
+  estado: Estado,
+  passo: 1 | -1,
+): Estado | null {
   const posicao = indice.livros.findIndex((l) => l.slug === estado.livro);
   if (posicao < 0) return null;
 
   const livro = indice.livros[posicao];
   const capitulo = estado.capitulo + passo;
 
-  if (capitulo >= 1 && capitulo <= livro.capitulos) return { ...estado, capitulo };
+  if (capitulo >= 1 && capitulo <= livro.capitulos)
+    return { ...estado, capitulo };
 
   const outro = indice.livros[posicao + passo];
   if (!outro) return null;
 
-  return { ...estado, livro: outro.slug, capitulo: passo === 1 ? 1 : outro.capitulos };
+  return {
+    ...estado,
+    livro: outro.slug,
+    capitulo: passo === 1 ? 1 : outro.capitulos,
+  };
 }
 
 // Corrige um estado que não existe na versão escolhida:
@@ -102,7 +126,8 @@ export function ajustar(estado: Estado, indice: Indice | null): Estado {
   const livro = indice.livros.find((l) => l.slug === estado.livro);
   if (!livro) return { ...estado, livro: indice.livros[0].slug, capitulo: 1 };
   if (estado.capitulo < 1) return { ...estado, capitulo: 1 };
-  if (estado.capitulo > livro.capitulos) return { ...estado, capitulo: livro.capitulos };
+  if (estado.capitulo > livro.capitulos)
+    return { ...estado, capitulo: livro.capitulos };
 
   return estado;
 }

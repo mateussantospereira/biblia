@@ -1,7 +1,8 @@
 /* Estilo do leitor. Nada de className utilitário aqui: só classes com nome. */
 
 :root {
-  --font-leitura: Georgia, "Times New Roman", serif;
+  --font-leitura: "Literata Variable", Georgia, "Times New Roman", serif;
+  --altura-topo: 3.25rem;
 }
 
 /* ---------- topo ---------- */
@@ -14,56 +15,95 @@
   border-bottom: 1px solid var(--border);
 }
 
+/* Preparado para uma imagem/capa no futuro: basta inserir um elemento
+   (ex.: .topo__capa) antes de .topo__linha e ele ficará acima da barra. */
 .topo__linha {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 0.5rem;
-  padding: 0.5rem 1rem;
-}
-
-.topo__linha--nav {
-  border-top: 1px solid var(--border);
-  justify-content: space-between;
+  min-height: var(--altura-topo);
+  padding: 0.375rem 1rem;
 }
 
 .topo__marca {
   font-size: 0.875rem;
   font-weight: 600;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.05em;
 }
 
 .topo__campo {
   font: inherit;
-  font-size: 0.875rem;
-  padding: 0.35rem 0.5rem;
+  font-family: var(--font-sans);
+  font-size: 0.8125rem;
+  padding: 0.3rem 0.5rem;
   border: 1px solid var(--border);
   border-radius: 0.5rem;
   background: var(--background);
   color: var(--foreground);
 }
 
-.topo__campo--curto {
-  width: 4.5rem;
+.topo__campo--versao {
+  max-width: 11rem;
+}
+
+.topo__campos {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-width: 0;
+}
+
+.topo__campo--livro {
+  min-width: 0;
+  max-width: 11rem;
+}
+
+.topo__campo--capitulo {
+  width: 4.25rem;
 }
 
 .topo__espaco {
-  flex: 1;
+  display: none;
+}
+
+.topo__navegacao {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
 }
 
 .topo__posicao {
   font-size: 0.8125rem;
   color: var(--muted-foreground);
+  white-space: nowrap;
+}
+
+@media (max-width: 52rem) {
+  .topo__posicao {
+    display: none;
+  }
 }
 
 /* ---------- leitura ---------- */
 
+/*
+ * Três colunas: notas à esquerda, texto ao centro, navegação à direita.
+ * O texto fica SEMPRE no centro da tela: no desktop as colunas laterais têm
+ * o mesmo tamanho (13rem cada), então a coluna do meio — a do texto — cai
+ * exatamente no meio da janela.
+ */
+
+.layout {
+  padding: 2.5rem 1.25rem 6rem;
+}
+
 .leitor {
   max-width: 36rem;
   margin: 0 auto;
-  padding: 2.5rem 1.25rem 6rem;
   font-family: var(--font-leitura);
   font-size: 1.125rem;
-  line-height: 1.8;
+  line-height: 1.6;
 }
 
 .leitor__titulo {
@@ -71,14 +111,14 @@
   font-size: 1.5rem;
   font-weight: 600;
   letter-spacing: -0.01em;
-  margin: 0 0 0.25rem;
+  margin: 0 0 0.15rem;
 }
 
 .leitor__fonte {
   font-family: var(--font-sans);
   font-size: 0.8125rem;
   color: var(--muted-foreground);
-  margin: 0 0 2rem;
+  margin: 0 0 1.25rem;
 }
 
 .leitor__aviso {
@@ -88,7 +128,12 @@
 }
 
 .leitor__texto p {
-  margin: 0 0 1rem;
+  margin: 0 0 0.65rem;
+}
+
+/* a nota rola até o versículo: não deixe o topo fixo cobri-lo */
+.versiculo {
+  scroll-margin-top: 4.5rem;
 }
 
 .versiculo__numero {
@@ -101,36 +146,170 @@
   line-height: 0;
 }
 
-/* ---------- notas ---------- */
+/* ---------- painéis laterais ---------- */
 
-.notas {
-  margin-top: 3rem;
-  padding-top: 1.5rem;
-  border-top: 1px solid var(--border);
+/* No celular ficam embaixo do texto (navegação, depois notas), na mesma largura. */
+.painel {
+  max-width: 36rem;
+  margin: 3rem auto 0;
+  display: grid;
+  gap: 2rem;
   font-family: var(--font-sans);
   font-size: 0.875rem;
   line-height: 1.6;
+  align-content: start;
 }
 
-.notas__titulo {
-  font-size: 0.75rem;
+.painel__secao {
+  border-top: 1px solid var(--border);
+  padding-top: 1rem;
+}
+
+.painel__titulo {
+  display: flex;
+  align-items: baseline;
+  gap: 0.4rem;
+  font-size: 0.6875rem;
   font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.09em;
   color: var(--muted-foreground);
-  margin: 0 0 1rem;
+  margin: 0 0 0.75rem;
 }
 
-.notas__lista {
+.painel__contagem {
+  font-size: 0.6875rem;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.painel__campo {
+  font: inherit;
+  font-size: 0.875rem;
+  width: 100%;
+  padding: 0.4rem 0.5rem;
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  background: var(--background);
+  color: var(--foreground);
+}
+
+.capitulos {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(2rem, 1fr));
+  gap: 0.25rem;
+  max-height: 12rem;
+  overflow-y: auto;
+  padding-right: 0.25rem;
+  scrollbar-width: thin;
+}
+
+.capitulo {
+  font: inherit;
+  font-size: 0.8125rem;
+  line-height: 1;
+  padding: 0.45rem 0;
+  border: 1px solid transparent;
+  border-radius: 0.375rem;
+  background: transparent;
+  color: var(--foreground);
+  cursor: pointer;
+}
+
+.capitulo:hover {
+  background: var(--accent);
+  border-color: var(--border);
+}
+
+.capitulo--atual,
+.capitulo--atual:hover {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: var(--primary-foreground);
+  font-weight: 600;
+}
+
+.notas {
   list-style: none;
-  padding: 0;
   margin: 0;
+  padding: 0;
   display: grid;
   gap: 1rem;
 }
 
-.notas__ref {
+.nota {
+  font-size: 0.8125rem;
+  line-height: 1.55;
+}
+
+.nota__ref {
   font-weight: 600;
   color: var(--muted-foreground);
-  margin-right: 0.4em;
+  margin-right: 0.35em;
+}
+
+.nota__ref--link {
+  font: inherit;
+  font-weight: 600;
+  color: var(--muted-foreground);
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  text-decoration: underline dotted;
+  text-underline-offset: 0.2em;
+}
+
+.nota__ref--link:hover {
+  color: var(--foreground);
+}
+
+.painel__vazio {
+  margin: 0;
+  font-size: 0.8125rem;
+  color: var(--muted-foreground);
+}
+
+/* ---------- desktop ---------- */
+
+@media (min-width: 72rem) {
+  .layout {
+    display: grid;
+    grid-template-columns: 13rem minmax(0, 36rem) 13rem;
+    justify-content: center;
+    align-items: start;
+    gap: 2.5rem;
+    padding: 3rem 2rem 6rem;
+  }
+
+  .leitor {
+    grid-column: 2;
+    grid-row: 1;
+    max-width: none;
+  }
+
+  /* livro e capítulo já estão no painel lateral */
+  .topo__campos {
+    display: none;
+  }
+
+  .painel {
+    position: static;
+    top: auto;
+    max-width: none;
+    max-height: none;
+    margin: 0;
+    padding-right: 0;
+    overflow: visible;
+  }
+
+  .painel--notas {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .painel--navegacao {
+    grid-column: 3;
+    grid-row: 1;
+  }
 }

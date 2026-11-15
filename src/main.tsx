@@ -1,5 +1,6 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
+import "@fontsource-variable/literata";
 import "./index.css";
 import "./leitura.css";
 import App from "./App.tsx";
