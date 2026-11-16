@@ -6,33 +6,41 @@ import type { Estado, Indice } from "@/lib/biblia";
 
 interface Props {
   indice: Indice | null;
-  estado: Estado;
+  estado: Estado | null;
+  versao: string;
+  pagina: "sumario" | "leitura";
   ir: (mudanca: Partial<Estado>) => void;
+  irParaSumario: (versao?: string) => void;
   anterior: Estado | null;
   proximo: Estado | null;
   escuro: boolean;
   alternarTema: () => void;
 }
 
-export function Cabecalho({ indice, estado, ir, anterior, proximo, escuro, alternarTema }: Props) {
-  const livro = indice?.livros.find((l) => l.slug === estado.livro) ?? null;
-  const posicao = livro ? `${livro.nome} ${estado.capitulo} de ${livro.capitulos}` : "";
+export function Cabecalho({ indice, estado, versao, pagina, ir, irParaSumario, anterior, proximo, escuro, alternarTema }: Props) {
+  const livro = estado ? indice?.livros.find((l) => l.slug === estado.livro) ?? null : null;
+  const posicao = livro && estado ? `${livro.nome} ${estado.capitulo} de ${livro.capitulos}` : "";
 
   return (
     <header className="topo">
       <div className="topo__linha">
-        <span className="topo__marca">Bíblia</span>
-        <SeletorVersao valor={estado.versao} ir={ir} />
+        <button type="button" className="topo__marca topo__marca--botao" onClick={() => irParaSumario(versao)}>
+          Bíblia
+        </button>
 
-        {/* No celular: livro/capítulo aqui. No desktop: no painel direito. */}
-        <div className="topo__campos">
-          <SeletorLivro indice={indice} valor={estado.livro} ir={ir} />
-          <SeletorCapitulo total={livro?.capitulos ?? 0} valor={estado.capitulo} ir={ir} />
-        </div>
+        <SeletorVersao valor={versao} aoMudar={(v) => irParaSumario(v)} />
+
+        {pagina === "leitura" && estado && (
+          <div className="topo__campos">
+            <SeletorLivro indice={indice} valor={estado.livro} ir={ir} />
+            <SeletorCapitulo total={livro?.capitulos ?? 0} valor={estado.capitulo} ir={ir} />
+          </div>
+        )}
 
         <span className="topo__espaco" />
 
         <NavegacaoTopo
+          pagina={pagina}
           anterior={anterior}
           proximo={proximo}
           posicao={posicao}

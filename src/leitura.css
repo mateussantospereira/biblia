@@ -42,6 +42,18 @@
   letter-spacing: 0.05em;
 }
 
+.topo__marca--botao {
+  font: inherit;
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  background: none;
+  border: 0;
+  padding: 0;
+  color: inherit;
+  cursor: pointer;
+}
+
 .topo__campo {
   font: inherit;
   font-family: var(--font-sans);
@@ -306,6 +318,75 @@
   color: var(--muted-foreground);
 }
 
+/* ---------- sumário ---------- */
+
+.sumario {
+  max-width: 56rem;
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 4rem;
+}
+
+.sumario__cabecalho {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.sumario__titulo {
+  font-size: 1.75rem;
+  font-weight: 600;
+  margin: 0 0 0.25rem;
+}
+
+.sumario__versao {
+  margin: 0;
+  color: var(--muted-foreground);
+}
+
+.sumario__secao {
+  margin-bottom: 2rem;
+}
+
+.sumario__testamento {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--muted-foreground);
+  margin: 0 0 0.75rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.sumario__lista {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  column-width: 11rem;
+  column-gap: 1rem;
+}
+
+.sumario__item {
+  margin: 0;
+  break-inside: avoid;
+}
+
+.sumario__livro {
+  width: 100%;
+  text-align: left;
+  font: inherit;
+  font-size: 1rem;
+  padding: 0.45rem 0.5rem;
+  border: 0;
+  border-radius: 0.375rem;
+  background: transparent;
+  color: var(--foreground);
+  cursor: pointer;
+}
+
+.sumario__livro:hover {
+  background: var(--accent);
+}
+
 /* ---------- desktop ---------- */
 
 @media (min-width: 72rem) {
@@ -358,5 +439,11 @@
   .painel--navegacao {
     grid-column: 3;
     grid-row: 1;
+  }
+
+  .sumario {
+    height: 100%;
+    overflow-y: auto;
+    box-sizing: border-box;
   }
 }

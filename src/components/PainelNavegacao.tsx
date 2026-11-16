@@ -1,14 +1,15 @@
 import { GradeDeCapitulos } from "@/components/GradeDeCapitulos";
-import { TESTAMENTOS, type Estado, type Livro, type Testamento } from "@/lib/biblia";
+import { TESTAMENTOS, VERSOES, type Estado, type Livro, type Testamento } from "@/lib/biblia";
 
 interface Props {
   livros: Livro[];
   livro: Livro;
   capitulo: number;
+  versao: string;
   ir: (mudanca: Partial<Estado>) => void;
 }
 
-export function PainelNavegacao({ livros, livro, capitulo, ir }: Props) {
+export function PainelNavegacao({ livros, livro, capitulo, versao, ir }: Props) {
   const livrosDoTestamento = livros.filter((item) => item.testamento === livro.testamento);
 
   function trocarTestamento(novo: Testamento) {
@@ -18,6 +19,20 @@ export function PainelNavegacao({ livros, livro, capitulo, ir }: Props) {
 
   return (
     <aside className="painel painel--navegacao">
+      <section className="painel__secao">
+        <h2 className="painel__titulo">Bíblia</h2>
+        <select
+          className="painel__campo"
+          aria-label="Bíblia"
+          value={versao}
+          onChange={(e) => ir({ versao: e.target.value })}
+        >
+          {VERSOES.map((v) => (
+            <option key={v.id} value={v.id}>{v.nome}</option>
+          ))}
+        </select>
+      </section>
+
       <section className="painel__secao">
         <h2 className="painel__titulo">Testamento</h2>
         <select

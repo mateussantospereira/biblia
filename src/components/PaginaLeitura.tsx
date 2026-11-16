@@ -19,7 +19,13 @@ export function PaginaLeitura({ estado, indice, ir }: Props) {
       <ConteudoDoCapitulo capitulo={dados} trocando={trocando} erro={erro} />
 
       {livroAtual && indice && (
-        <PainelNavegacao livros={indice.livros} livro={livroAtual} capitulo={estado.capitulo} ir={ir} />
+        <PainelNavegacao
+          livros={indice.livros}
+          livro={livroAtual}
+          capitulo={estado.capitulo}
+          versao={estado.versao}
+          ir={ir}
+        />
       )}
 
       <PainelNotas

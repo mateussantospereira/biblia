@@ -1,51 +1,82 @@
 import { useEffect, useState } from "react";
 import { Cabecalho } from "@/components/Cabecalho";
 import { PaginaLeitura } from "@/components/PaginaLeitura";
+import { Sumario } from "@/components/Sumario";
 import { useIndice } from "@/hooks/useIndice";
 import { useTema } from "@/hooks/useTema";
-import { ajustar, escreverUrl, lerUrl, sincronizarUrl, vizinho, type Estado } from "@/lib/biblia";
+import {
+  ajustar,
+  escreverUrl,
+  escreverUrlSumario,
+  lerRota,
+  sincronizarUrl,
+  sincronizarUrlSumario,
+  vizinho,
+  type Estado,
+  type Rota,
+} from "@/lib/biblia";
 
 export default function App() {
-  const [estado, setEstado] = useState<Estado>(lerUrl);
-  const indice = useIndice(estado.versao);
+  const [rota, setRota] = useState<Rota>(lerRota);
+  const versao = rota.pagina === "leitura" ? rota.estado.versao : rota.versao;
+  const indice = useIndice(versao);
   const { escuro, alternarTema } = useTema();
 
-  // Corrige livro/capítulo inválidos para a versão atual (ex.: Joel 3 vs 4).
-  const atual = ajustar(estado, indice);
+  const estadoLeitura = rota.pagina === "leitura" ? ajustar(rota.estado, indice) : null;
 
-  function ir(mudanca: Partial<Estado>) {
-    const proximo = { ...atual, ...mudanca };
-    escreverUrl(proximo);
-    setEstado(proximo);
+  function irParaSumario(novaVersao = versao) {
+    escreverUrlSumario(novaVersao);
+    setRota({ pagina: "sumario", versao: novaVersao });
   }
 
-  // Mantém a barra de endereço alinhada com o estado exibido.
+  function irParaLeitura(mudanca: Partial<Estado>) {
+    const base: Estado = estadoLeitura ?? { versao, livro: "genesis", capitulo: 1 };
+    const proximo = { ...base, ...mudanca };
+    escreverUrl(proximo);
+    setRota({ pagina: "leitura", estado: proximo });
+  }
+
+  // Mantém a barra de endereço alinhada com a rota exibida.
   useEffect(() => {
-    sincronizarUrl({ versao: atual.versao, livro: atual.livro, capitulo: atual.capitulo });
-  }, [atual.versao, atual.livro, atual.capitulo]);
+    if (rota.pagina === "leitura" && estadoLeitura) {
+      sincronizarUrl(estadoLeitura);
+    } else {
+      sincronizarUrlSumario(versao);
+    }
+  }, [rota.pagina, versao, estadoLeitura]);
 
   // Suporta o botão voltar/avançar do navegador.
   useEffect(() => {
     function aoVoltar() {
-      setEstado(lerUrl());
+      setRota(lerRota());
     }
     window.addEventListener("popstate", aoVoltar);
     return () => window.removeEventListener("popstate", aoVoltar);
   }, []);
 
+  const anterior = indice && estadoLeitura ? vizinho(indice, estadoLeitura, -1) : null;
+  const proximo = indice && estadoLeitura ? vizinho(indice, estadoLeitura, 1) : null;
+
   return (
     <>
       <Cabecalho
         indice={indice}
-        estado={atual}
-        ir={ir}
-        anterior={indice ? vizinho(indice, atual, -1) : null}
-        proximo={indice ? vizinho(indice, atual, 1) : null}
+        estado={estadoLeitura}
+        versao={versao}
+        pagina={rota.pagina}
+        ir={irParaLeitura}
+        irParaSumario={irParaSumario}
+        anterior={anterior}
+        proximo={proximo}
         escuro={escuro}
         alternarTema={alternarTema}
       />
       <main>
-        <PaginaLeitura estado={atual} indice={indice} ir={ir} />
+        {rota.pagina === "leitura" && estadoLeitura ? (
+          <PaginaLeitura estado={estadoLeitura} indice={indice} ir={irParaLeitura} />
+        ) : (
+          <Sumario versao={versao} indice={indice} irParaLeitura={irParaLeitura} />
+        )}
       </main>
     </>
   );

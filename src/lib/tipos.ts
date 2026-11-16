@@ -38,9 +38,13 @@ export interface Capitulo {
   notas: Nota[];
 }
 
-/** Posição atual do leitor (também refletida na URL). */
+/** Posição atual do leitor (refletida na URL de leitura). */
 export interface Estado {
   versao: string;
   livro: string;
   capitulo: number;
 }
+
+export type Rota =
+  | { pagina: "sumario"; versao: string }
+  | { pagina: "leitura"; estado: Estado };
