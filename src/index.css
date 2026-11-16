@@ -94,7 +94,27 @@
     @apply font-sans;
   }
   body {
-    @apply bg-background text-foreground;
+    @apply text-foreground;
+    background-color: var(--background);
+    background-image:
+      linear-gradient(
+        color-mix(in oklch, var(--background) 78%, transparent),
+        color-mix(in oklch, var(--background) 78%, transparent)
+      ),
+      url("./assets/pergaminho.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+  }
+
+  .dark body {
+    background-image:
+      linear-gradient(
+        color-mix(in oklch, var(--background) 82%, transparent),
+        color-mix(in oklch, var(--background) 82%, transparent)
+      ),
+      url("./assets/pergaminho.jpg");
   }
 }
 

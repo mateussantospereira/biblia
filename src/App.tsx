@@ -1,4 +1,6 @@
 import { useEffect, useState } from "react";
+import bannerLeitura from "@/assets/banner-leitura.png";
+import capaSumario from "@/assets/sumario-capa.png";
 import { Cabecalho } from "@/components/Cabecalho";
 import { PaginaLeitura } from "@/components/PaginaLeitura";
 import { Sumario } from "@/components/Sumario";
@@ -59,6 +61,10 @@ export default function App() {
 
   return (
     <>
+      {rota.pagina === "sumario" && <img src={capaSumario} alt="" className="sumario__capa-topo" />}
+      {rota.pagina === "leitura" && (
+        <img src={bannerLeitura} alt="" className="sumario__capa-topo sumario__capa-topo--leitura" />
+      )}
       <Cabecalho
         indice={indice}
         estado={estadoLeitura}
@@ -75,7 +81,12 @@ export default function App() {
         {rota.pagina === "leitura" && estadoLeitura ? (
           <PaginaLeitura estado={estadoLeitura} indice={indice} ir={irParaLeitura} />
         ) : (
-          <Sumario versao={versao} indice={indice} irParaLeitura={irParaLeitura} />
+          <Sumario
+            versao={versao}
+            indice={indice}
+            irParaLeitura={irParaLeitura}
+            irParaSumario={irParaSumario}
+          />
         )}
       </main>
     </>

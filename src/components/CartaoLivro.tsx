@@ -13,7 +13,8 @@ export function CartaoLivro({ livro, irParaLeitura }: Props) {
         className="sumario__livro"
         onClick={() => irParaLeitura({ livro: livro.slug, capitulo: 1 })}
       >
-        {livro.nome}
+        <span className="sumario__nome">{livro.nome}</span>
+        <span className="sumario__ordem">{livro.ordem}</span>
       </button>
     </li>
   );

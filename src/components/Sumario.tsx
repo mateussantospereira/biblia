@@ -1,15 +1,15 @@
 import { SecaoTestamento } from "@/components/SecaoTestamento";
-import { TESTAMENTOS, VERSOES, type Estado, type Indice } from "@/lib/biblia";
+import { SeletorVersao } from "@/components/SeletorVersao";
+import { TESTAMENTOS, type Estado, type Indice } from "@/lib/biblia";
 
 interface Props {
   versao: string;
   indice: Indice | null;
   irParaLeitura: (mudanca: Partial<Estado>) => void;
+  irParaSumario: (versao?: string) => void;
 }
 
-export function Sumario({ versao, indice, irParaLeitura }: Props) {
-  const nomeVersao = VERSOES.find((v) => v.id === versao)?.nome ?? versao;
-
+export function Sumario({ versao, indice, irParaLeitura, irParaSumario }: Props) {
   if (!indice) {
     return (
       <div className="sumario">
@@ -21,8 +21,10 @@ export function Sumario({ versao, indice, irParaLeitura }: Props) {
   return (
     <div className="sumario">
       <header className="sumario__cabecalho">
-        <h1 className="sumario__titulo">Sumário</h1>
-        <p className="sumario__versao">{nomeVersao}</p>
+        <div className="sumario__titulo-linha">
+          <h1 className="sumario__titulo">Sumário</h1>
+          <SeletorVersao valor={versao} aoMudar={(v) => irParaSumario(v)} />
+        </div>
       </header>
 
       {TESTAMENTOS.map((testamento) => (

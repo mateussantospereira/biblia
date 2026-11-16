@@ -28,7 +28,7 @@ export function Cabecalho({ indice, estado, versao, pagina, ir, irParaSumario, a
           Bíblia
         </button>
 
-        <SeletorVersao valor={versao} aoMudar={(v) => irParaSumario(v)} />
+        {pagina === "leitura" && <SeletorVersao valor={versao} aoMudar={(v) => irParaSumario(v)} />}
 
         {pagina === "leitura" && estado && (
           <div className="topo__campos">
