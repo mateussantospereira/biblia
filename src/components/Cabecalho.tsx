@@ -1,7 +1,6 @@
 import { NavegacaoTopo } from "@/components/NavegacaoTopo";
 import { SeletorCapitulo } from "@/components/SeletorCapitulo";
 import { SeletorLivro } from "@/components/SeletorLivro";
-import { SeletorVersao } from "@/components/SeletorVersao";
 import type { Estado, Indice } from "@/lib/biblia";
 
 interface Props {
@@ -19,7 +18,6 @@ interface Props {
 
 export function Cabecalho({ indice, estado, versao, pagina, ir, irParaSumario, anterior, proximo, escuro, alternarTema }: Props) {
   const livro = estado ? indice?.livros.find((l) => l.slug === estado.livro) ?? null : null;
-  const posicao = livro && estado ? `${livro.nome} ${estado.capitulo} de ${livro.capitulos}` : "";
 
   return (
     <header className="topo">
@@ -28,8 +26,6 @@ export function Cabecalho({ indice, estado, versao, pagina, ir, irParaSumario, a
           Bíblia
         </button>
 
-        {pagina === "leitura" && <SeletorVersao valor={versao} aoMudar={(v) => irParaSumario(v)} />}
-
         {pagina === "leitura" && estado && (
           <div className="topo__campos">
             <SeletorLivro indice={indice} valor={estado.livro} ir={ir} />
@@ -37,13 +33,10 @@ export function Cabecalho({ indice, estado, versao, pagina, ir, irParaSumario, a
           </div>
         )}
 
-        <span className="topo__espaco" />
-
         <NavegacaoTopo
           pagina={pagina}
           anterior={anterior}
           proximo={proximo}
-          posicao={posicao}
           ir={ir}
           escuro={escuro}
           alternarTema={alternarTema}
