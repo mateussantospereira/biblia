@@ -16,7 +16,10 @@ export function carregarIndice(versao: string): Promise<Indice> {
   const existente = cacheIndices.get(versao);
   if (existente) return existente;
 
-  const promessa = buscarJson<Indice>(`${versao}/indice.json`);
+  const promessa = buscarJson<Indice>(`${versao}/indice.json`).catch((erro) => {
+    cacheIndices.delete(versao);
+    throw erro;
+  });
   cacheIndices.set(versao, promessa);
   return promessa;
 }
@@ -26,7 +29,10 @@ export function carregarCapitulo(versao: string, livro: string, capitulo: number
   const existente = cacheCapitulos.get(chave);
   if (existente) return existente;
 
-  const promessa = buscarJson<Capitulo>(`${chave}.json`);
+  const promessa = buscarJson<Capitulo>(`${chave}.json`).catch((erro) => {
+    cacheCapitulos.delete(chave);
+    throw erro;
+  });
   cacheCapitulos.set(chave, promessa);
   return promessa;
 }
