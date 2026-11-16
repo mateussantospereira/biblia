@@ -7,9 +7,11 @@ interface Props {
   capitulo: number;
   versao: string;
   ir: (mudanca: Partial<Estado>) => void;
+  anterior: Estado | null;
+  proximo: Estado | null;
 }
 
-export function PainelNavegacao({ livros, livro, capitulo, versao, ir }: Props) {
+export function PainelNavegacao({ livros, livro, capitulo, versao, ir, anterior, proximo }: Props) {
   const livrosDoTestamento = livros.filter((item) => item.testamento === livro.testamento);
 
   function trocarTestamento(novo: Testamento) {
@@ -19,6 +21,15 @@ export function PainelNavegacao({ livros, livro, capitulo, versao, ir }: Props) 
 
   return (
     <aside className="painel painel--navegacao">
+      <nav className="painel__navegacao-capitulos" aria-label="Capítulos">
+        <button type="button" className="topo__botao" disabled={!anterior} onClick={() => anterior && ir(anterior)}>
+          ← Anterior
+        </button>
+        <button type="button" className="topo__botao" disabled={!proximo} onClick={() => proximo && ir(proximo)}>
+          Próximo →
+        </button>
+      </nav>
+
       <section className="painel__secao">
         <h2 className="painel__titulo">Bíblia</h2>
         <select

@@ -10,20 +10,18 @@ interface Props {
   pagina: "sumario" | "leitura";
   ir: (mudanca: Partial<Estado>) => void;
   irParaSumario: (versao?: string) => void;
-  anterior: Estado | null;
-  proximo: Estado | null;
   escuro: boolean;
   alternarTema: () => void;
 }
 
-export function Cabecalho({ indice, estado, versao, pagina, ir, irParaSumario, anterior, proximo, escuro, alternarTema }: Props) {
+export function Cabecalho({ indice, estado, versao, pagina, ir, irParaSumario, escuro, alternarTema }: Props) {
   const livro = estado ? indice?.livros.find((l) => l.slug === estado.livro) ?? null : null;
 
   return (
     <header className="topo">
       <div className="topo__linha">
         <button type="button" className="topo__marca topo__marca--botao" onClick={() => irParaSumario(versao)}>
-          Bíblia
+          Bíblia Sagrada Católica
         </button>
 
         {pagina === "leitura" && estado && (
@@ -33,14 +31,7 @@ export function Cabecalho({ indice, estado, versao, pagina, ir, irParaSumario, a
           </div>
         )}
 
-        <NavegacaoTopo
-          pagina={pagina}
-          anterior={anterior}
-          proximo={proximo}
-          ir={ir}
-          escuro={escuro}
-          alternarTema={alternarTema}
-        />
+        <NavegacaoTopo escuro={escuro} alternarTema={alternarTema} />
       </div>
     </header>
   );

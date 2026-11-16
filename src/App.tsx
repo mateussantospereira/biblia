@@ -72,14 +72,18 @@ export default function App() {
         pagina={rota.pagina}
         ir={irParaLeitura}
         irParaSumario={irParaSumario}
-        anterior={anterior}
-        proximo={proximo}
         escuro={escuro}
         alternarTema={alternarTema}
       />
       <main>
         {rota.pagina === "leitura" && estadoLeitura ? (
-          <PaginaLeitura estado={estadoLeitura} indice={indice} ir={irParaLeitura} />
+          <PaginaLeitura
+            estado={estadoLeitura}
+            indice={indice}
+            ir={irParaLeitura}
+            anterior={anterior}
+            proximo={proximo}
+          />
         ) : (
           <Sumario
             versao={versao}

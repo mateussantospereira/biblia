@@ -8,9 +8,11 @@ interface Props {
   estado: Estado;
   indice: Indice | null;
   ir: (mudanca: Partial<Estado>) => void;
+  anterior: Estado | null;
+  proximo: Estado | null;
 }
 
-export function PaginaLeitura({ estado, indice, ir }: Props) {
+export function PaginaLeitura({ estado, indice, ir, anterior, proximo }: Props) {
   const { dados, trocando, erro } = useCapitulo(estado);
   const livroAtual = indice?.livros.find((l) => l.slug === estado.livro) ?? null;
 
@@ -25,6 +27,8 @@ export function PaginaLeitura({ estado, indice, ir }: Props) {
           capitulo={estado.capitulo}
           versao={estado.versao}
           ir={ir}
+          anterior={anterior}
+          proximo={proximo}
         />
       )}
 
