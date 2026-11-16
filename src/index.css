@@ -49,7 +49,11 @@
   --primary: var(--foreground);
   --primary-foreground: var(--background);
   --muted: color-mix(in oklch, var(--foreground) 6%, var(--background));
-  --muted-foreground: color-mix(in oklch, var(--foreground) 60%, var(--background));
+  --muted-foreground: color-mix(
+    in oklch,
+    var(--foreground) 60%,
+    var(--background)
+  );
   --accent: color-mix(in oklch, var(--foreground) 8%, var(--background));
   --accent-foreground: var(--foreground);
   --border: color-mix(in oklch, var(--foreground) 15%, var(--background));
@@ -71,7 +75,11 @@
   --primary: var(--foreground);
   --primary-foreground: var(--background);
   --muted: color-mix(in oklch, var(--foreground) 8%, var(--background));
-  --muted-foreground: color-mix(in oklch, var(--foreground) 65%, var(--background));
+  --muted-foreground: color-mix(
+    in oklch,
+    var(--foreground) 65%,
+    var(--background)
+  );
   --accent: color-mix(in oklch, var(--foreground) 10%, var(--background));
   --accent-foreground: var(--foreground);
   --border: color-mix(in oklch, var(--foreground) 14%, var(--background));
@@ -98,8 +106,8 @@
     background-color: var(--background);
     background-image:
       linear-gradient(
-        color-mix(in oklch, var(--background) 78%, transparent),
-        color-mix(in oklch, var(--background) 78%, transparent)
+        color-mix(in oklch, var(--background) 66%, transparent),
+        color-mix(in oklch, var(--background) 68%, transparent)
       ),
       url("./assets/pergaminho.jpg");
     background-size: cover;
